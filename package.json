@@ -1,0 +1,37 @@
+{
+  "name": "@interslavic/database",
+  "version": "0.0.0",
+  "description": "Database of Interslavic language",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medzuslovjansky/database.git"
+  },
+  "keywords": [
+    "interslavic"
+  ],
+  "author": "Yaroslav Serhieiev <noomorph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medzuslovjansky/database/issues"
+  },
+  "homepage": "https://github.com/medzuslovjansky/database#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/preset-typescript": "^7.6.0",
+    "@types/jest": "^24.0.18",
+    "@types/lodash": "^4.14.141",
+    "@types/node": "^12.7.11",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "tslib": "^1.10.0"
+  }
+}
