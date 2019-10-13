@@ -1,50 +1,50 @@
 import TabularRecord = steenbergen.TabularRecord;
 
 export class TabularRecordParser {
-    private _previous: TabularRecord | null;
+    private readonly _records: TabularRecord[];
 
     constructor() {
-        this._previous = null;
+        this._records = [];
     }
 
-    parse(line: string): TabularRecord {
-        const record = this._parsePreliminary()
-
-        this._previous = record;
-        return record;
+    getDatabase() {
+        return this._records;
     }
 
-    private _parsePreliminary(line: string): TabularRecord {
+    parse(line: string): void {
+        const tabRecord = this._parsePreliminary(line);
+        if (tabRecord) {
+            this._records.push(tabRecord);
+        }
+    }
+
+    private _parsePreliminary(line: string): TabularRecord | null {
+        if (!line.startsWith('nms[')) {
+            return null;
+        }
+
         const start = line.indexOf("'");
         const end = line.lastIndexOf("'");
+
+        if (start === -1 || end === -1 || start >= end) {
+            return null;
+        }
+
         const stringContent = line.substring(start + 1, end);
         const columns = stringContent.split('\t');
+
+        if (columns.length !== 7) {
+            return null;
+        }
 
         return {
             primary_form: columns[0],
             secondary_form: columns[1],
-            translations: columns[2],
-            part_of_speech: columns[3],
-            incidence: columns[4],
+            part_of_speech: columns[2],
+            incidence: columns[3],
+            translations: columns[4],
             lexicon: columns[5],
             origin: columns[6],
         };
-    }
-
-    private _resolveIndex(record: TabularRecord): TabularRecord {
-        if (this._previous === null) {
-            return record;
-        }
-
-        const prev = this._previous;
-        if (record.lemmas !== prev.lemmas) return record;
-        if (record.partOfSpeech !== prev.partOfSpeech) return record;
-
-        if (prev.index === 0) {
-            prev.index = 1;
-        }
-
-        record.index = prev.index + 1;
-        return record;
     }
 }
