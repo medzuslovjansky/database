@@ -58,7 +58,7 @@ const shortPrefixes = {
 const longPrefixes = {
   "adj.": "adjective",
   "adv.": "adverb",
-  "conj.": "conjugation",
+  "conj.": "conjunction",
   "f.": "noun_f",
   "f.indecl.": "noun_f_indecl",
   "f.pl.": "noun_f_pl",
@@ -114,7 +114,7 @@ const longPrefixes = {
 const abbreviations = {
   "adj.": "adjective",
   "adv.": "adverb",
-  "conj.": "conjugation",
+  "conj.": "conjunction",
   "f.": "noun (feminine)",
   "f.indecl.": "noun (feminine, indeclinable)",
   "f.pl.": "noun (feminine, plural)",
