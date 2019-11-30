@@ -1,18 +1,27 @@
 declare namespace persistence {
     export type DictionaryItem = {
-        forms: string[];
         definitions: Definition[];
     };
 
     export type Definition = {
         id: string; // for example: "adv. I", "adv. II", "adj. I"
-        morphology: Morphology;
-        interpretation?: string;
+        forms: Lemma[];
+        interpretation?: Interpretation;
         translation: Partial<Record<Language, Translation>>;
-        compatibility: Compatibility;
+        intelligibility: Intelligibility;
     };
 
-    export type Compatibility = {
+    export type Lemma = {
+        id: string;
+        morphology: Morphology;
+        definition: Definition;
+    };
+
+    export type Interpretation = {
+        uri: string;
+    };
+
+    export type Intelligibility = {
         status: VoteStatus;
         origin?: Origin;
         occurrence: Partial<Record<Language, boolean>>;
@@ -57,7 +66,7 @@ declare namespace persistence {
     export type Noun = {
         type: 'noun';
         gender: Gender;
-        plurality?: PluralityRestriction;
+        plurality?: Plurality;
         indeclinable?: true;
         animate?: true;
     };
@@ -110,7 +119,7 @@ declare namespace persistence {
         Neuter = 'n',
     }
 
-    export enum PluralityRestriction {
+    export enum Plurality {
         Singular = 'sg',
         Plural = 'pl',
     }
@@ -207,4 +216,44 @@ declare namespace persistence {
         Ukrainian = 'ukr',
         UpperSorbian = 'hsb',
     }
+
+    export type Inflection = {
+      record: DictionaryItem;
+    };
+
+    export type NounInflection = Inflection & {
+      plurality: Plurality;
+      case: NounCase;
+    };
+
+    export enum NounCase = {
+      Nominative = 'nom',
+      Genitive = 'gen',
+      Accusative = 'acc',
+      Dative = 'dat',
+      Instrumental = 'ins',
+      Locative = 'loc',
+      Vocative = 'voc',
+    };
+
+    export type AdjectiveInflection = Inflection & {
+      plurality: Plurality;
+      case: AdjectiveCase;
+      comparative?: ComparativeDegree;
+    };
+
+    export enum AdjectiveCase = {
+      Nominative = 'nom',
+      Genitive = 'gen',
+      Accusative = 'acc',
+      Dative = 'dat',
+      Instrumental = 'ins',
+      Locative = 'loc',
+    };
+
+    export enum ComparativeDegree = {
+      Normal = 'normal',
+      Relative = 'relative',
+      Super = 'super',
+    };
 }

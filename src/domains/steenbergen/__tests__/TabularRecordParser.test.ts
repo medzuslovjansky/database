@@ -10,7 +10,7 @@ const steen_en = fs.readFileSync(path.join(SRC_ROOT, '__tests__/steen-js/en.js')
 
 describe('TabularRecordParser', () => {
 
-    it.skip('should not change index if the record is unique', () => {
+    it('should not change index if the record is unique', () => {
         const parser = new TabularRecordParser();
         for (const line of steen_en) {
             parser.parse(line);
@@ -57,12 +57,16 @@ describe('TabularRecordParser', () => {
         const forms = db.filter(r => r.part_of_speech !== 'prefix' && r.part_of_speech !== 'suffix');
 
         expect({
-            weird: forms.filter(f => isWeird(f.primary_form)),
-            hyphen: forms.filter(f => hasHyphen(f.primary_form)),
-            template: forms.filter(f => isTemplate(f.primary_form)),
-            regular: forms.filter(f => isRegular(f.primary_form)),
-            forms_2: forms.filter(f => hasForms_2(f.primary_form)),
-            abbr: forms.filter(f => isAbbreviation(f.primary_form)),
+            weird: forms.filter(f => isWeird(f.primary_form)).map(f => f.primary_form),
+            hyphen: forms.filter(f => hasHyphen(f.primary_form)).map(f => f.primary_form),
+            template: forms.filter(f => isTemplate(f.primary_form)).map(f => f.primary_form),
+            regular: forms.filter(f => isRegular(f.primary_form)).map(f => f.primary_form),
+            forms_2: forms.filter(f => hasForms_2(f.primary_form)).map(f => f.primary_form),
+            abbr: forms.filter(f => isAbbreviation(f.primary_form)).map(f => f.primary_form),
+            things: forms.filter(f => !single_word.test(f.primary_form))
+                .filter(f => !f.part_of_speech.match(/^[fmn]\./))
+                .filter(f => !(f.part_of_speech.match(/^[v]\./) && f.primary_form.endsWith(' se')))
+                .map(f => f.primary_form),
         }).toMatchSnapshot();
     })
 });
