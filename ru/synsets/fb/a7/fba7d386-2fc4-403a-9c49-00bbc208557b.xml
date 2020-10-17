@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  xml:lang="ru">
+  <options>
+    <noun value="бессмыслица" />
+    <noun value="тарабарщина" />
+    <noun value="нонсенс" />
+  </options>
+  <examples>
+    <item>
+      После сотен тщетных попыток разгадать шифр,
+      криптографы пришли к выводу, что таинственное послание
+      всё-таки оказалось <agreement case="instrumental" />, а
+      возможно – и чьей-то злой шуткой, стоившей выдающимся
+      учёным годы жизни.
+    </item>
+  </examples>
+</synset>

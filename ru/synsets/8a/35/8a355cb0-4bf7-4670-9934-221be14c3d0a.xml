@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  xml:lang="ru">
+  <options>
+    <noun value="глупость">
+      <with number="pl" />
+    </noun>
+    <noun value="чушь" register="colloqial" />
+    <phraseme value="чушь собачья" register="colloqial" />
+    <noun value="ахинея" register="colloqial" />
+    <noun value="абсурд" />
+    <noun value="бред" register="colloqial" />
+    <noun value="хрень" register="colloqial" />
+    <noun value="херня" register="vulgar" />
+    <noun value="нонсенс" register="foreign" />
+  </options>
+  <examples>
+    <item>
+      Ты хоть слышишь, что за
+      <agreement case="accusative"><use /></agreement>
+      ты сейчас несешь?!
+    </item>
+  </examples>
+</synset>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/dictionary.xsd">
+  <locators>
+    <title>drěvo</title>
+    <link rel="source">x-isv-sources:steenbergen/2137</link>
+  </locators>
+  <noun gender="neuter">
+    <morphemes>
+      <root>drěv</root>
+      <inflection>o</inflection>
+    </morphemes>
+    <declensions>
+      <sg>
+        <nom v="drěvo" />
+        <acc v="drěvo" />
+        <gen v="drěva" />
+        <gen v="drěvese" />
+        <loc v="drěvu" />
+        <loc v="drěvesi" />
+        <dat v="drěvu" />
+        <dat v="drěvesi" />
+        <ins v="drěvom" />
+        <ins v="drěvesem" />
+        <voc v="drěvo" />
+      </sg>
+      <pl>
+        <nom v="drěva" />
+        <nom v="drěvesa" />
+        <acc v="drěva" />
+        <acc v="drěvesa" />
+        <gen v="drěv" />
+        <gen v="drěves" />
+        <loc v="drěvah" />
+        <loc v="drěvesah" />
+        <dat v="drěvam" />
+        <dat v="drěvesam" />
+        <ins v="drěvami" />
+        <ins v="drěvesami" />
+        <voc v="drěva" />
+        <voc v="drěvesa" />
+      </pl>
+    </declensions>
+  </noun>
+</entry>

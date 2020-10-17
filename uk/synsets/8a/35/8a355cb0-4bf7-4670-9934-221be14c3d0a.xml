@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  xml:lang="uk">
+  <options>
+    <noun value="нісенітниця" />
+    <noun value="маячня" register="colloqial">
+    <noun value="нонсенс" register="bookish" />
+    <noun value="дурість" />
+    <noun value="дурниця" register="colloqial">
+      <with number="pl" />
+    </noun>
+  </options>
+  <examples>
+    <item>
+      Чи ти сам чуєш,
+      <agreement case="accusative">який <use /></agreement>
+      ти зараз верзеш?
+    </item>
+  </examples>
+</synset>

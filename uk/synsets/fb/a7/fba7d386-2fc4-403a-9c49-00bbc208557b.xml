@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  xml:lang="uk">
+  <options>
+    <noun value="нісенітниця" />
+    <noun value="нонсенс" />
+    <noun value="тарабарщина" register="colloqial" />
+  </options>
+  <examples>
+    <item>
+      Після сотень марних спроб розгадати шифр,
+      криптографи дійшли висновку, що таємниче послання
+      все-таки виявилося <agreement case="instrumental" />, а
+      може й чиїмось злим жартом, що коштував видатним
+      вченим роки життя.
+    </item>
+  </examples>
+</synset>

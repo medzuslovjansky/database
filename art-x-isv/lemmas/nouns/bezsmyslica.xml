@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/dictionary.xsd">
+  <locators>
+    <title>bezsmyslica</title>
+    <link rel="source">x-isv-sources:steenbergen/20352</link>
+  </locators>
+  <noun gender="female" number="singular">
+    <morphemes>
+      <prefix>bez</prefix>
+      <prefix>s</prefix>
+      <root>mysl</root>
+      <suffix>ic</suffix>
+      <inflection>a</inflection>
+    </morphemes>
+    <declensions>
+      <sg>
+        <nom v="bezsmyslica" />
+        <acc v="bezsmyslicų" />
+        <gen v="bezsmyslice" />
+        <loc v="bezsmyslici" />
+        <dat v="bezsmyslici" />
+        <ins v="bezsmyslicejų" />
+        <voc v="bezsmyslico" />
+      </sg>
+    </declensions>
+  </noun>
+</entry>

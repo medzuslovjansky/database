@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/synset.xsd"
+  xml:lang="art-x-isv">
+  <options>
+    <noun value="absurd" />
+    <noun value="gluposť" />
+    <noun value="nonsens" />
+  </options>
+  <gloss>
+    Nerazumna recz iz ust czloveka.
+  </gloss>
+  <examples>
+    <item>
+      Či ty slyšiš,
+      <agreement case="accusative">kaky <use /></agreement>
+      ty tutčas govoriš?!
+    </item>
+  </examples>
+</synset>

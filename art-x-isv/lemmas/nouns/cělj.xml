@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://unpkg.com/@interslavic/schemas@%5E0.0.0/dictionary.xsd">
+  <locators>
+    <title>cělj</title>
+    <link rel="source">x-isv-sources:steenbergen/421</link>
+  </locators>
+  <noun gender="male" animate="no">
+    <morphemes>
+      <root>cělj</root>
+    </morphemes>
+    <declensions>
+      <sg>
+        <nom v="cělj" />
+        <acc v="cělj" />
+        <gen v="cělja" />
+        <loc v="cělju" />
+        <dat v="cělju" />
+        <ins v="cěljem" />
+        <voc v="cělju" />
+      </sg>
+      <pl>
+        <nom v="cělje" />
+        <acc v="cělje" />
+        <gen v="cěljev" />
+        <loc v="cěljah" />
+        <dat v="cěljam" />
+        <ins v="cěljami" />
+        <voc v="cělje" />
+      </pl>
+    </declensions>
+  </noun>
+  <noun gender="female">
+    <declensions>
+      <sg>
+        <nom v="cělj" />
+        <acc v="cělj" />
+        <gen v="cělji" />
+        <loc v="cělji" />
+        <dat v="cělji" />
+        <ins v="cěljų" />
+        <voc v="cělji" />
+      </sg>
+      <pl>
+        <nom v="cělji" />
+        <acc v="cělji" />
+        <gen v="cěljij" />
+        <loc v="cěljah" />
+        <dat v="cěljam" />
+        <ins v="cěljami" />
+        <voc v="cělji" />
+      </pl>
+    </declensions>
+  </noun>
+</entry>
