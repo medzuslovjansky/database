@@ -1,0 +1,12 @@
+{
+  "name": "@interslavic/database",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prettier": "prettier --write \"**/*.{xml,xsd}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "@prettier/plugin-xml": "^2.2.0"
+  }
+}
