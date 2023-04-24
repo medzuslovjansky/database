@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:zwn="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+>
+  <xs:element name="multilingual-synset" type="zwn:multilingualSynsetType" />
+  <xs:element name="synset" type="zwn:synsetType" />
+  <xs:element name="lemma" type="zwn:lemmaType" />
+
+  <xs:complexType name="multilingualSynsetType">
+    <xs:sequence>
+      <xs:any
+        namespace="##other"
+        processContents="lax"
+        minOccurs="0"
+        maxOccurs="unbounded"
+      />
+      <xs:element ref="zwn:synset" maxOccurs="unbounded" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:string" use="required" />
+    <xs:anyAttribute processContents="lax" />
+  </xs:complexType>
+
+  <xs:complexType name="synsetType">
+    <xs:sequence>
+      <xs:element ref="zwn:lemma" minOccurs="0" maxOccurs="unbounded" />
+    </xs:sequence>
+    <xs:attribute name="lang" type="xs:string" use="required" />
+    <xs:attribute name="verified" type="xs:boolean" />
+    <xs:attribute name="debated" type="xs:boolean" />
+    <xs:anyAttribute processContents="lax" />
+  </xs:complexType>
+
+  <xs:complexType name="lemmaType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="annotation" type="xs:string" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>
