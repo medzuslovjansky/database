@@ -1,0 +1,17 @@
+<xs:schema
+  targetNamespace="https://interslavic.fun/schemas/steenbergen.xsd"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <xs:element name="meta" type="steen:metaType" />
+
+  <xs:complexType name="metaType">
+    <xs:attribute name="addition" type="xs:string" />
+    <xs:attribute name="partOfSpeech" type="xs:string" use="required" />
+    <xs:attribute name="type" type="xs:string" />
+    <xs:attribute name="sameInLanguages" type="xs:string" />
+    <xs:attribute name="genesis" type="xs:string" />
+    <xs:attribute name="id" type="xs:string" use="required" />
+    <xs:anyAttribute namespace="##other" processContents="lax" />
+  </xs:complexType>
+</xs:schema>
