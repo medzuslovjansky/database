@@ -8,15 +8,13 @@
     https://interslavic.fun/schemas/zonal-wordnet.xsd file://../../../../schemas/zonal-wordnet.xsd
     https://interslavic.fun/schemas/steenbergen.xsd file://../../../../schemas/steenbergen.xsd"
 >
-  <steen:meta
-    id="35767"
-    partOfSpeech="f."
-    type="2"
-    sameInLanguages="ub pl cz"
-  />
   <synset lang="art-x-interslv">
-    <lemma>altana</lemma>
-    <lemma>altanka</lemma>
+    <lemma steen:id="35767" steen:pos="f." steen:type="2" steen:same="ub pl cz">
+      altana
+    </lemma>
+    <lemma steen:id="35767" steen:pos="f." steen:type="2" steen:same="ub pl cz">
+      altanka
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>gazebo</lemma>

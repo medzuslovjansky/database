@@ -1,17 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema
-  targetNamespace="https://interslavic.fun/schemas/steenbergen.xsd"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="https://interslavic.fun/schemas/steenbergen.xsd"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
-  <xs:element name="meta" type="steen:metaType" />
+  <!-- Available attributes -->
 
-  <xs:complexType name="metaType">
-    <xs:attribute name="addition" type="xs:string" />
-    <xs:attribute name="partOfSpeech" type="xs:string" use="required" />
-    <xs:attribute name="type" type="xs:string" />
-    <xs:attribute name="sameInLanguages" type="xs:string" />
-    <xs:attribute name="genesis" type="xs:string" />
-    <xs:attribute name="id" type="xs:string" use="required" />
-    <xs:anyAttribute namespace="##other" processContents="lax" />
-  </xs:complexType>
+  <xs:attribute name="id" type="xs:integer" />
+  <xs:attribute name="type" type="steen:intelligibilityType" />
+  <xs:attribute name="same" type="steen:sameInLanguagesType" />
+  <xs:attribute name="genesis" type="steen:genesisType" />
+  <xs:attribute name="pos" type="steen:partOfSpeechType" />
+
+  <!-- Type definitions -->
+
+  <xs:simpleType name="intelligibilityType">
+    <xs:annotation>
+      <xs:documentation>
+        Indicates the overall degree of intelligibility of a word among natural
+        Slavic languages.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:positiveInteger">
+      <xs:enumeration value="1">
+        <xs:annotation>
+          <xs:documentation>Universally intelligible lemma</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="2">
+        <xs:annotation>
+          <xs:documentation>Regionally intelligible lemma</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="3">
+        <xs:annotation>
+          <xs:documentation>
+            Lemma is intelligible only in individual languages
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="4">
+        <xs:annotation>
+          <xs:documentation>
+            Lemma was derived from Church Slavonic material
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="5">
+        <xs:annotation>
+          <xs:documentation>
+            Lemma is a coined neologism, assumed to be widely intelligible
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="9">
+        <xs:annotation>
+          <xs:documentation>
+            Disputable or other unclear status
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="partOfSpeechType">
+    <xs:annotation>
+      <xs:documentation>
+        Indicates the part of speech of a lemma.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="adj.">
+        <xs:annotation>
+          <xs:documentation>adjective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="adv.">
+        <xs:annotation>
+          <xs:documentation>adverb</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="conj.">
+        <xs:annotation>
+          <xs:documentation>conjunction</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="f.">
+        <xs:annotation>
+          <xs:documentation>noun, feminine</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="f.indecl.">
+        <xs:annotation>
+          <xs:documentation>noun, feminine, indeclinable</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="f.pl.">
+        <xs:annotation>
+          <xs:documentation>noun, feminine, plural</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="f.sg.">
+        <xs:annotation>
+          <xs:documentation>noun, feminine, singular</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="intj.">
+        <xs:annotation>
+          <xs:documentation>interjection</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m./f.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine or feminine</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.anim.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine, animate</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.indecl.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine, indeclinable</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.pl.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine, plural</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.sg.">
+        <xs:annotation>
+          <xs:documentation>noun, masculine, singular</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="n.">
+        <xs:annotation>
+          <xs:documentation>noun, neuter</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="n.indecl.">
+        <xs:annotation>
+          <xs:documentation>noun, neuter, indeclinable</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="n.pl.">
+        <xs:annotation>
+          <xs:documentation>noun, neuter, plural</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="n.sg.">
+        <xs:annotation>
+          <xs:documentation>noun, neuter, singular</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.">
+        <xs:annotation>
+          <xs:documentation>numeral</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.card.">
+        <xs:annotation>
+          <xs:documentation>numeral, cardinal</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.coll.">
+        <xs:annotation>
+          <xs:documentation>numeral, collective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.diff.">
+        <xs:annotation>
+          <xs:documentation>numeral, differential</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.fract.">
+        <xs:annotation>
+          <xs:documentation>numeral, fractional</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.mult.">
+        <xs:annotation>
+          <xs:documentation>numeral, multiplicative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.ord.">
+        <xs:annotation>
+          <xs:documentation>numeral, ordinal</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="num.subst.">
+        <xs:annotation>
+          <xs:documentation>numeral, substantivized</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="particle">
+        <xs:annotation>
+          <xs:documentation>particle</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="phrase">
+        <xs:annotation>
+          <xs:documentation>phrase</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="prefix">
+        <xs:annotation>
+          <xs:documentation>prefix</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="prep.">
+        <xs:annotation>
+          <xs:documentation>preposition</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.dem.">
+        <xs:annotation>
+          <xs:documentation>pronoun, demonstrative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.indef.">
+        <xs:annotation>
+          <xs:documentation>pronoun, indefinite</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.int.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, interrogative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.pers.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, personal</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.poss.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, possessive</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.rec.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, reciprocal</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.refl.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, reflexive</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="pron.rel.">
+        <xs:annotation>
+          <xs:documentation>Pronoun, relative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="suffix">
+        <xs:annotation>
+          <xs:documentation>Suffix</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.aux. ipf.">
+        <xs:annotation>
+          <xs:documentation>Verb, auxiliary, imperfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.aux. pf.">
+        <xs:annotation>
+          <xs:documentation>Verb, auxiliary, perfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.intr. ipf.">
+        <xs:annotation>
+          <xs:documentation>Verb, intransitive, imperfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.intr. ipf./pf.">
+        <xs:annotation>
+          <xs:documentation>
+            Verb, intransitive, imperfective or perfective
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.intr. pf.">
+        <xs:annotation>
+          <xs:documentation>Verb, intransitive, perfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.ipf.">
+        <xs:annotation>
+          <xs:documentation>Verb, imperfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.pf.">
+        <xs:annotation>
+          <xs:documentation>Verb, perfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.refl. ipf.">
+        <xs:annotation>
+          <xs:documentation>Verb, reflexive, imperfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.refl. ipf./pf.">
+        <xs:annotation>
+          <xs:documentation>
+            Verb, reflexive, imperfective or perfective
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.refl. pf.">
+        <xs:annotation>
+          <xs:documentation>Verb, reflexive, perfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.tr. ipf.">
+        <xs:annotation>
+          <xs:documentation>Verb, transitive, imperfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.tr. ipf./pf.">
+        <xs:annotation>
+          <xs:documentation>
+            Verb, transitive, imperfective or perfective
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="v.tr. pf.">
+        <xs:annotation>
+          <xs:documentation>Verb, transitive, perfective</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="sameInLanguagesType">
+    <xs:annotation>
+      <xs:documentation>
+        A list of languages or languages groups separated by spaces.
+        Each code can be annotated with tilde or plus sign to indicate
+        the degree of intelligibility. Some codes might be wrapped in
+        parentheses. Disputable values are prepended with a hash sign.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:pattern
+        value="#?(\(?[a-zA-Z]{1,3}[~+]?\)?)(\s+(\(?[a-zA-Z]{1,3}[~+]?\)?))*"
+      />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="genesisType">
+    <xs:annotation>
+      <xs:documentation>Indicates the origin of the word.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="A">
+        <xs:annotation>
+          <xs:documentation>Arabic</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="D">
+        <xs:annotation>
+          <xs:documentation>Deutsch</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="E">
+        <xs:annotation>
+          <xs:documentation>English</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="F">
+        <xs:annotation>
+          <xs:documentation>French</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="G">
+        <xs:annotation>
+          <xs:documentation>German</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="I">
+        <xs:annotation>
+          <xs:documentation>International</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="M">
+        <xs:annotation>
+          <xs:documentation>Artificial</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="N">
+        <xs:annotation>
+          <xs:documentation>Netherlands</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="O">
+        <xs:annotation>
+          <xs:documentation>Oriental</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="S">
+        <xs:annotation>
+          <xs:documentation>Slavic</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="T">
+        <xs:annotation>
+          <xs:documentation>Turkic</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
 </xs:schema>

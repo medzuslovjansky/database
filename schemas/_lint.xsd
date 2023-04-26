@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <import
+    namespace="https://interslavic.fun/schemas/steenbergen.xsd"
+    schemaLocation="steenbergen.xsd"
+  />
+  <import
+    namespace="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+    schemaLocation="zonal-wordnet.xsd"
+  />
+</schema>

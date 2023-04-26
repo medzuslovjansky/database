@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "lint": "find synsets -type f -name '*.xml' -exec xmllint --noout --schema ./schemas/_lint.xsd {} \\;",
     "prettier": "prettier --write \"**/*.{xml,xsd}\""
   },
   "devDependencies": {
