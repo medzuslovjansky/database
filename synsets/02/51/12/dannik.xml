@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25112" steen:pos="m.anim." steen:type="3" steen:same="v">
+      dannik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даннік</lemma>
+    <lemma>які плоціць дань</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плащащ данък</lemma>
+    <lemma annotation="ист.">васал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poddaný</lemma>
+    <lemma>vazal</lemma>
+    <lemma>leník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>(porezni) obveznik</lemma>
+    <lemma>podanik</lemma>
+    <lemma>vazal</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>даночен обврзник</lemma>
+    <lemma>оданочениот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lennik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>данник</lemma>
+    <lemma>платящий дань</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poddaný</lemma>
+    <lemma>vazal</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vazal</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вазал</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>данник</lemma>
+    <lemma>той, що сплачує данину</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alfluanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nebenfluss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leenman</lemma>
+  </synset>
+</multilingual-synset>

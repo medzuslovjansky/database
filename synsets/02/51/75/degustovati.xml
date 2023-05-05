@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25175"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25175"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      degustovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэгуставаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дегустирам</lemma>
+    <lemma>вкусвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>degustovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>degustirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дегустира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smakować</lemma>
+    <lemma>kosztować</lemma>
+    <lemma annotation="smaku">próbować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дегустировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>degustovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>degustirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>окусити</lemma>
+    <lemma>окушати</lemma>
+    <lemma>опробати</lemma>
+    <lemma>дегустирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дегустувати</lemma>
+    <lemma>куштувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝusto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschmack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proeven</lemma>
+  </synset>
+</multilingual-synset>

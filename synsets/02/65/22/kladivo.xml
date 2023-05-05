@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26522"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26522" steen:pos="n." steen:type="2" steen:same="cs j">
+      kladivo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>малаток</lemma>
+    <lemma>молат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чук</lemma>
+    <lemma>млат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kladivo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čekić</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чекан</lemma>
+    <lemma>кладиво</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>młot</lemma>
+    <lemma>młotek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>молоток</lemma>
+    <lemma>молот</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kladivo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kladivo</lemma>
+    <lemma>kladivo</lemma>
+    <lemma>bat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чекић</lemma>
+    <lemma>кладиво</lemma>
+    <lemma>бат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>молоток</lemma>
+    <lemma>молот</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>martelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hammer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hamer</lemma>
+  </synset>
+</multilingual-synset>

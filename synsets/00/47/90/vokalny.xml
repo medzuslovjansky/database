@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4790"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4790" steen:pos="adj." steen:type="1" steen:genesis="I">
+      vokaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вакальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вокален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vokální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vokalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вокален</lemma>
+    <lemma>гласен</lemma>
+    <lemma>гласовен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wokalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вокальный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vokálne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vokal</lemma>
+    <lemma>zvočno</lemma>
+    <lemma>melodično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вокалан</lemma>
+    <lemma>звучан</lemma>
+    <lemma>милозвучан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вокальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vokalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vokal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vocaal</lemma>
+  </synset>
+</multilingual-synset>

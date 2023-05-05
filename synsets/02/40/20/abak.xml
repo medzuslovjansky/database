@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24020"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24020"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      abak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сметало</lemma>
+    <lemma>абак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počítadlo</lemma>
+    <lemma>abakus</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>abakus</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>абакус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>abak</lemma>
+    <lemma>abakus</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>счёты</lemma>
+    <lemma>абак</lemma>
+    <lemma>абака</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>počítadlo</lemma>
+    <lemma>abakus</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>abak</lemma>
+    <lemma>abakus</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>абакус</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рахівниця</lemma>
+    <lemma>абак</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>abako</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Abakus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>telraam</lemma>
+  </synset>
+</multilingual-synset>

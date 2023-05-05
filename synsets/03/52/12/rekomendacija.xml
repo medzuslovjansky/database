@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35212"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35212"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      rekomendacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэкамендацыя</lemma>
+    <lemma>рэкамендаванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>препоръки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doporučení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preporuka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рекомандација</lemma>
+    <lemma>препорака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rekomendacja</lemma>
+    <lemma>polecenie</lemma>
+    <lemma>zalecenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рекомендация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odporúčanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priporočila</lemma>
+    <lemma>priporočila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>препорука</lemma>
+    <lemma>рекомандација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рекомендація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rekomendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Empfehlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanbeveling</lemma>
+  </synset>
+</multilingual-synset>

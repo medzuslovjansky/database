@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4124"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4124"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="D"
+    >
+      krah
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крах</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неуспех</lemma>
+    <lemma>провал</lemma>
+    <lemma>крах</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krach</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krah</lemma>
+    <lemma>slom</lemma>
+    <lemma>rasap</lemma>
+    <lemma>rasulo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крах</lemma>
+    <lemma>неуспех</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krach</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>крах</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krach</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="fin.">zlom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крах</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>крах</lemma>
+    <lemma>провал</lemma>
+    <lemma>невдача</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="financoj">kraŝo</lemma>
+    <lemma annotation="financoj">kolapso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Krach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="economie">crash</lemma>
+  </synset>
+</multilingual-synset>

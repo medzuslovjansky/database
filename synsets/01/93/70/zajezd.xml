@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19370"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19370" steen:pos="m." steen:type="2" steen:same="ru pl">
+      zajezd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заезд</lemma>
+    <lemma>візіт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>спирка</lemma>
+    <lemma>посещение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hostinec u cesty</lemma>
+    <lemma>motorest</lemma>
+    <lemma>motel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svratište</lemma>
+    <lemma>odmorište</lemma>
+    <lemma>motel</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ан</lemma>
+    <lemma>крајпатна крчма</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zajazd</lemma>
+    <lemma>wizyta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заезд</lemma>
+    <lemma>визит</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hostinec u cesty</lemma>
+    <lemma>motorest</lemma>
+    <lemma>motel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Gostilna ob cesti</lemma>
+    <lemma>obisk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крчма поред пута</lemma>
+    <lemma>посета</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заїзд</lemma>
+    <lemma>візит</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stop</lemma>
+    <lemma>vizito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stoppen</lemma>
+    <lemma>Besuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="met een voertuig">kort bezoek</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20079"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20079"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      prikladati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыкладваць</lemma>
+    <lemma>прыкладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се добави</lemma>
+    <lemma>се прилагат</lemma>
+    <lemma>за да постави</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přikádat</lemma>
+    <lemma>připojovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>priložiti</lemma>
+    <lemma>priklamati</lemma>
+    <lemma>pričvrstiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прикачува</lemma>
+    <lemma>додава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przykładać</lemma>
+    <lemma>dołączać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прикладывать</lemma>
+    <lemma>прилагать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>přikádat</lemma>
+    <lemma>pripájať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dodati</lemma>
+    <lemma>povezavo</lemma>
+    <lemma>prilepljivati</lemma>
+    <lemma>izpolnjevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>додавати</lemma>
+    <lemma>прикључивати</lemma>
+    <lemma>прилепљивати</lemma>
+    <lemma>придржавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прикладати</lemma>
+    <lemma>додавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ligi</lemma>
+    <lemma>append</lemma>
+    <lemma>apliki</lemma>
+    <lemma>afikso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>befestigen</lemma>
+    <lemma>anhängen</lemma>
+    <lemma>gelten</lemma>
+    <lemma>bringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijvoegen</lemma>
+  </synset>
+</multilingual-synset>

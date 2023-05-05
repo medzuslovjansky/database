@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34177"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34177"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="be z j"
+    >
+      oparjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апарваць</lemma>
+    <lemma>абварваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>бланширани</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opařovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pariti</lemma>
+    <lemma>šuriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>попарува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>parzyć</lemma>
+    <lemma>oparzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ошпаривать</lemma>
+    <lemma>обваривать</lemma>
+    <lemma annotation="паром">обжигать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oparovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oparavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опаравати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обшпарювати</lemma>
+    <lemma>обварювати</lemma>
+    <lemma annotation="паром">обпалювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Brogas-Engordany</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbrühen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbranden</lemma>
+    <lemma annotation="bv. hand">verschroeien</lemma>
+  </synset>
+</multilingual-synset>

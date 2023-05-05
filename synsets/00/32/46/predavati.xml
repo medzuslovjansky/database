@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3246"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3246"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v bg"
+    >
+      prědavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трансляваць</lemma>
+    <lemma>вяшчаць</lemma>
+    <lemma>перадаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>етър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="televize">vysílat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>emitirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>емитува</lemma>
+    <lemma>емитира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nadawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>транслировать</lemma>
+    <lemma>вещать</lemma>
+    <lemma>передавать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="televízia">vysielať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oddajanje</lemma>
+    <lemma>radiodifuzno oddajanje</lemma>
+    <lemma annotation="preko radijskih valov">oddajna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>емитовати</lemma>
+    <lemma>емитирати</lemma>
+    <lemma annotation="путем радио таласа">преносити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>транслювати</lemma>
+    <lemma>віщати</lemma>
+    <lemma>передавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elsendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Übertragung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="radio, tv">uitzenden</lemma>
+  </synset>
+</multilingual-synset>

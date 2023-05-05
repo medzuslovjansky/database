@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17742"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17742"
+      steen:pos="v.refl. ipf."
+      steen:type="3"
+      steen:same="pl"
+      steen:genesis="I"
+    >
+      logovati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у сістэму">уваходзіць</lemma>
+    <lemma>аўтарызоўвацца</lemma>
+    <lemma>лагініцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в">логвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přihlašovat se</lemma>
+    <lemma>logovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>logirati se</lemma>
+    <lemma>log-in</lemma>
+    <lemma>priključiti se</lemma>
+    <lemma>unositi lozinku</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се логира</lemma>
+    <lemma>се пријавува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>logować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в систему">входить</lemma>
+    <lemma>авторизоваться</lemma>
+    <lemma>логиниться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prihlasovať sa</lemma>
+    <lemma>logovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prijavite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пријавити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="в систему">входити</lemma>
+    <lemma>логінитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ensaluti</lemma>
+    <lemma>saluti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anmelden</lemma>
+    <lemma>anmelden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inloggen</lemma>
+  </synset>
+</multilingual-synset>

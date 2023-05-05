@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6876"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6876" steen:pos="f." steen:type="1">činovnica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чыноўніца</lemma>
+    <lemma>службовая асоба</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>служителка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úřednice</lemma>
+    <lemma>funkcionářka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>činovnica</lemma>
+    <lemma>službenica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чиновничка</lemma>
+    <lemma>службеничка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>urzędniczka</lemma>
+    <lemma annotation="kobieta">oficer</lemma>
+    <lemma>funkcjonariuszka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чиновница</lemma>
+    <lemma>должностное лицо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úradníčka</lemma>
+    <lemma>funkcionárka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>referent</lemma>
+    <lemma>referent</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чиновница</lemma>
+    <lemma>службеница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чиновниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oficiala</lemma>
+    <lemma>oficiro</lemma>
+    <lemma annotation="virino">funkciulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Offizier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ambtenaar</lemma>
+    <lemma>functionaris</lemma>
+  </synset>
+</multilingual-synset>

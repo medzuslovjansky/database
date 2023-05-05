@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31952"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31952"
+      steen:addition="(privede)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      privesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="да наступстваў">прывесці</lemma>
+    <lemma>выклікаць</lemma>
+    <lemma>справакаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да</lemma>
+    <lemma>да предизвика</lemma>
+    <lemma>да доведе до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivést</lemma>
+    <lemma>přivodit</lemma>
+    <lemma>vyvolat</lemma>
+    <lemma>vést k</lemma>
+    <lemma>způsobit</lemma>
+    <lemma>zapříčinit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>privesti</lemma>
+    <lemma>dovesti</lemma>
+    <lemma>sjetiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приведе</lemma>
+    <lemma>доведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wywołać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="к последствиям">привести</lemma>
+    <lemma>вызвать</lemma>
+    <lemma>спровоцировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priviesť</lemma>
+    <lemma>privodiť</lemma>
+    <lemma>vyvolať</lemma>
+    <lemma>viesť k</lemma>
+    <lemma>spôsobiť</lemma>
+    <lemma>zapríčiniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vodi</lemma>
+    <lemma>svinec</lemma>
+    <lemma>ne pozabite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>привести</lemma>
+    <lemma>довести</lemma>
+    <lemma>сетити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="до наслідків">призвести</lemma>
+    <lemma>викликати</lemma>
+    <lemma>спровокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provoki</lemma>
+    <lemma>elvoki</lemma>
+    <lemma>kondukas al</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bewirken</lemma>
+    <lemma>hervorrufen</lemma>
+    <lemma>führen zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veroorzaken</lemma>
+    <lemma>leiden tot</lemma>
+    <lemma>met zich meebrengen</lemma>
+  </synset>
+</multilingual-synset>

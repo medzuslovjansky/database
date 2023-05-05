@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24467"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24467"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v bg"
+      steen:genesis="I"
+    >
+      balansir
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>балансір</lemma>
+    <lemma>кампенсатар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>балансьор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ekvalizér</lemma>
+    <lemma>vyrovnávač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ekvilajzer</lemma>
+    <lemma>ekvilizator</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еквилајзер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrównywacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>балансир</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ekvalizér</lemma>
+    <lemma>vyrovnávač</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izenačevalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>еквилајзер</lemma>
+    <lemma>еквилизатор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>балансир</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>equalizer</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Augleicher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>equalizer</lemma>
+  </synset>
+</multilingual-synset>

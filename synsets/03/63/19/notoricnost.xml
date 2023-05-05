@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36319"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36319"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="uk z sl"
+      steen:genesis="I"
+    >
+      notoričnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знакамітасць</lemma>
+    <lemma>вядомасць</lemma>
+    <lemma>славутасць</lemma>
+    <lemma>слыннасць</lemma>
+    <lemma>папулярнасць</lemma>
+    <lemma>агульнавядомасць</lemma>
+    <lemma>усевядомасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>слава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proslulost</lemma>
+    <lemma>známost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ozloglašenost</lemma>
+    <lemma>zloglasnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>озлогласеност</lemma>
+    <lemma>ноторност</lemma>
+    <lemma>лош глас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>notoryczność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>известность</lemma>
+    <lemma>общеизвестность</lemma>
+    <lemma>пресловутость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>známosť</lemma>
+    <lemma>notorickosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Čuvenost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ноторност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>популярність</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fifameco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>traurige Berühmtheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>notoriteit</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="995"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="995" steen:pos="f." steen:type="1" steen:genesis="I">
+      galerija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>галерэя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>галерия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>galerie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>galerija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>галерија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>galeria</lemma>
+    <lemma annotation="np. kościelny">balkon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>галерея</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>galéria</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Galerija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>галерија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>галерея</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>galerio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Galerie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>galerij</lemma>
+  </synset>
+</multilingual-synset>

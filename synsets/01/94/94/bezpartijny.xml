@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19494" steen:pos="adj." steen:type="1" steen:genesis="I">
+      bezpartijny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>беспартыйны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безпартиен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezpartyjní</lemma>
+    <lemma>nestranický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nestranački</lemma>
+    <lemma>izvanpartijski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безпартиен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpartyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беспартийный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nestranícky</lemma>
+    <lemma>nestranný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nestrankarski</lemma>
+    <lemma>neopredeljen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ванпартијски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безпартійний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="politikisto">nealiancitaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>blockfrei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>partijloos</lemma>
+  </synset>
+</multilingual-synset>

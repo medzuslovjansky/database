@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35477"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35477"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kvitancija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>квітанцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>квитанция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stvrzenka</lemma>
+    <lemma>účtenka</lemma>
+    <lemma>paragon</lemma>
+    <lemma>kvitance</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>račun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>квитанција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pokwitowanie</lemma>
+    <lemma>paragon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>квитанция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>potvrdenka</lemma>
+    <lemma>účtenka</lemma>
+    <lemma>paragón</lemma>
+    <lemma>kvitancia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Potrditev</lemma>
+    <lemma>račun</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потврда</lemma>
+    <lemma>рачун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>квитанція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvitanco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Quittung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwitantie</lemma>
+    <lemma>betalingsbewijs</lemma>
+  </synset>
+</multilingual-synset>

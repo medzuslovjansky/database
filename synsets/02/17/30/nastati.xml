@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21730"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21730"
+      steen:addition="(nastane)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      nastati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надысці</lemma>
+    <lemma>настаць</lemma>
+    <lemma>нахапіцца</lemma>
+    <lemma>пачацца</lemma>
+    <lemma>распачацца</lemma>
+    <lemma>зачацца</lemma>
+    <lemma annotation="напр. завіруха, тэмпература">узняцца</lemma>
+    <lemma>усчацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doći</lemma>
+    <lemma>stići</lemma>
+    <lemma>pristati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дојде</lemma>
+    <lemma>пристигне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zacząć się">nastać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наступить</lemma>
+    <lemma>настать</lemma>
+    <lemma>начаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nastanejo</lemma>
+    <lemma>postanejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>настати</lemma>
+    <lemma>постати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>настати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz tempo">veni</lemma>
+    <lemma annotation="ekz tempo">alvenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. Zeit">kommen (z.B. Zeit) kommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tijd">aanbreken</lemma>
+    <lemma annotation="tijd">komen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29595"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29595"
+      steen:addition="(osęde)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      osęsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асесці</lemma>
+    <lemma>ссесціся</lemma>
+    <lemma>апусціцца</lemma>
+    <lemma>спусціцца</lemma>
+    <lemma>прапусціцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>схлынет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sednout</lemma>
+    <lemma>usadit se</lemma>
+    <lemma>srazit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sleći</lemma>
+    <lemma>staložiti</lemma>
+    <lemma annotation="se">smiriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опадне</lemma>
+    <lemma>спушти</lemma>
+    <lemma>сталожи</lemma>
+    <lemma>смири</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osiąść</lemma>
+    <lemma>opaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осесть</lemma>
+    <lemma>опуститься</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sadnúť</lemma>
+    <lemma>usadnúť sa</lemma>
+    <lemma>zraziť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>padec</lemma>
+    <lemma>sag</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опасти</lemma>
+    <lemma>слећи</lemma>
+    <lemma>сталожити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осісти</lemma>
+    <lemma>опуститися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvietigxis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nachlassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezinken</lemma>
+    <lemma>neerslaan</lemma>
+  </synset>
+</multilingual-synset>

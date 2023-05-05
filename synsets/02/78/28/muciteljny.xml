@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27828"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27828"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru bg cs~"
+    >
+      mųčiteljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакутлівы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>болезнен</lemma>
+    <lemma>мъчителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mučivý</lemma>
+    <lemma>trýznivý</lemma>
+    <lemma>bolestný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mučan</lemma>
+    <lemma>naporan</lemma>
+    <lemma>težak</lemma>
+    <lemma>nepodnošljiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мачен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bolesny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мучительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mučivý</lemma>
+    <lemma>trýznivý</lemma>
+    <lemma>bolestný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mučen</lemma>
+    <lemma>boleč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мучан</lemma>
+    <lemma>болан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>болісний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agonante</lemma>
+    <lemma>agonante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>quälende</lemma>
+    <lemma>quälenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwellend</lemma>
+  </synset>
+</multilingual-synset>

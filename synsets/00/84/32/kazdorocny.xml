@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8432"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8432" steen:pos="adj." steen:type="1" steen:same="sk">
+      každoročny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>штогадовы</lemma>
+    <lemma>штогодні</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ежегоден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>každoroční</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svakogodišnji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>годишен</lemma>
+    <lemma>секоја година</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>każdoroczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ежегодный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>každoročný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>letna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свакогодишњи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щорічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>jara</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>jährlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jaarlijks</lemma>
+  </synset>
+</multilingual-synset>

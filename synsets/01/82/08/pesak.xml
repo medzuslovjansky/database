@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18208" steen:pos="m.anim." steen:type="1">pěšak</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шахматы">пешка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шах">пешка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pěšec</lemma>
+    <lemma annotation="šachy">pěšák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pješak</lemma>
+    <lemma>pijun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">пешак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">pionek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">пешка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="šach">pešiak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="šah">kmet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="шах">пешак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">пішак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">peono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schach">Pfand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pion</lemma>
+  </synset>
+</multilingual-synset>

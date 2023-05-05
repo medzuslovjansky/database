@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="925"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="925"
+      steen:addition="(melje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      mlěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>малоць</lemma>
+    <lemma>перамолваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>меля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mlít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mljeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меле</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mielić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>молоть</lemma>
+    <lemma>перемалывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mlieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mleti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>млети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>молоти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grind</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schleifen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>malen</lemma>
+    <lemma>vermalen</lemma>
+  </synset>
+</multilingual-synset>

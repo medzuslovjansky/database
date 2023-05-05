@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35943"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35943"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      diahroničny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыяхранічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>диахроничен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="v čase">diachronní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dijakroničan</lemma>
+    <lemma>raznovremen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дијахрониски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>diachroniczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>диахронический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diachronický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Diahrona</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дијахроничан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>діахронічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diacrónica</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>diachronen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diachronisch</lemma>
+  </synset>
+</multilingual-synset>

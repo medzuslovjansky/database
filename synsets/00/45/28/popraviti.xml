@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4528"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl j"
+    >
+      popraviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выправіць</lemma>
+    <lemma>паправіць</lemma>
+    <lemma>адрамантаваць</lemma>
+    <lemma>адкарэктаваць</lemma>
+    <lemma>адрэпараваць</lemma>
+    <lemma>наладзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>правилно</lemma>
+    <lemma>ремонт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravit</lemma>
+    <lemma>napravit</lemma>
+    <lemma>spravit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popraviti</lemma>
+    <lemma>ispraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поправи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprawić</lemma>
+    <lemma>skorygować</lemma>
+    <lemma>naprawić</lemma>
+    <lemma>zreparować</lemma>
+    <lemma>sprostować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исправить</lemma>
+    <lemma>поправить</lemma>
+    <lemma>откорректировать</lemma>
+    <lemma>починить</lemma>
+    <lemma>отремонтировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opraviť</lemma>
+    <lemma>napraviť</lemma>
+    <lemma>spraviť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popraviti</lemma>
+    <lemma>make</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поправити</lemma>
+    <lemma>оправити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправити</lemma>
+    <lemma>полагодити</lemma>
+    <lemma>відремонтувати</lemma>
+    <lemma>відкоригувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝusta</lemma>
+    <lemma>riparon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>richtig</lemma>
+    <lemma>Reparatur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>corrigeren</lemma>
+    <lemma>verbeteren</lemma>
+    <lemma>herstellen</lemma>
+    <lemma>repareren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36780"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36780" steen:pos="n." steen:type="1" steen:same="v pl bg">
+      poměščeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памяшканне</lemma>
+    <lemma annotation="пакой">змяшчэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>помещение</lemma>
+    <lemma>стая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>místnost</lemma>
+    <lemma>pokoj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prostorija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соба</lemma>
+    <lemma>внатрешен простор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomieszczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="комната">помещение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>miestnosť</lemma>
+    <lemma>izba</lemma>
+    <lemma>pokoj</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>soba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>просторија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приміщення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉambro</lemma>
+    <lemma>instalaĵo</lemma>
+    <lemma>lokoj</lemma>
+    <lemma>kazerno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Raum</lemma>
+    <lemma>Einrichtung</lemma>
+    <lemma>Räumlichkeiten</lemma>
+    <lemma>Quartiere</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ruimte</lemma>
+    <lemma>faciliteit</lemma>
+  </synset>
+</multilingual-synset>

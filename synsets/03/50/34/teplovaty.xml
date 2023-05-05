@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35034"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35034" steen:pos="adj." steen:type="2" steen:same="v pl">
+      teplovaty
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цеплаваты</lemma>
+    <lemma>летні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тепленькая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlažný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mlak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>топличок</lemma>
+    <lemma>млак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="temperatura">letni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тепловатый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlažný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mlačno</lemma>
+    <lemma>topljikav</lemma>
+    <lemma>zmerno se segreje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>млак</lemma>
+    <lemma>топљикав</lemma>
+    <lemma>умерено топао</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>теплуватий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varmeta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>lauwarm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lauw</lemma>
+  </synset>
+</multilingual-synset>

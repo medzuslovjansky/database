@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35180"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35180"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      industriaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>індустрыйны</lemma>
+    <lemma>індустрыяльны</lemma>
+    <lemma>прамысловы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>промишлен</lemma>
+    <lemma>индустриален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>industriální</lemma>
+    <lemma>průmyslový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>industrijski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>индустриски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przemysłowy</lemma>
+    <lemma>industrialny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>индустриальный</lemma>
+    <lemma>промышленный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>industriálne</lemma>
+    <lemma>priemyselný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>industrijsko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>индустријски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>індустріальний</lemma>
+    <lemma>промисловий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>industriaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>industriell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>industrieel</lemma>
+  </synset>
+</multilingual-synset>

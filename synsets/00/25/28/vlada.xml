@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2528" steen:pos="f." steen:type="2" steen:same="cs yu mk">
+      vlada
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>улада</lemma>
+    <lemma>урад</lemma>
+    <lemma>кіраванне</lemma>
+    <lemma>управа</lemma>
+    <lemma>праўленне</lemma>
+    <lemma>кіраўніцтва</lemma>
+    <lemma>панаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>правителство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vláda</lemma>
+    <lemma>spravování</lemma>
+    <lemma>řízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vlada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влада</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rząd</lemma>
+    <lemma>panowanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правительство</lemma>
+    <lemma>правление</lemma>
+    <lemma>властвование</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vláda</lemma>
+    <lemma>spravovanie</lemma>
+    <lemma>riadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlada</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>влада</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>правління</lemma>
+    <lemma>владарювання</lemma>
+    <lemma>влада</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>government</lemma>
+    <lemma>regado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Regierung</lemma>
+    <lemma>regieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regering</lemma>
+  </synset>
+</multilingual-synset>

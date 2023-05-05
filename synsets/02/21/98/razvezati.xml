@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22198"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22198"
+      steen:addition="(råzvęže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z"
+    >
+      råzvęzati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развязаць</lemma>
+    <lemma>разбэрсаць</lemma>
+    <lemma>расшнураваць</lemma>
+    <lemma>расплесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>развърже</lemma>
+    <lemma>развърже</lemma>
+    <lemma>расшнуровывать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvázat</lemma>
+    <lemma>odvázat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razvezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разврзе</lemma>
+    <lemma>одврзе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. supeł, krawat">rozwiązać</lemma>
+    <lemma>rozplątać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развязать</lemma>
+    <lemma>расшнуровать</lemma>
+    <lemma>расплести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozviazať</lemma>
+    <lemma>odviazať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvezati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розв&apos;язати</lemma>
+    <lemma>розшнурувати</lemma>
+    <lemma>розплести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malligi</lemma>
+    <lemma>unbind</lemma>
+    <lemma>unlace</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>losbinden</lemma>
+    <lemma>entbinden</lemma>
+    <lemma>aufzuzuschnüren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="knoop, das, touw">losmaken</lemma>
+  </synset>
+</multilingual-synset>

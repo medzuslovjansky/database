@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4326"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4326" steen:pos="adj." steen:type="1" steen:same="ru uk j">
+      vśaky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>усялякі</lemma>
+    <lemma>усякі</lemma>
+    <lemma>кожны</lemma>
+    <lemma>кажнюсенькі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>всеки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>každý</lemma>
+    <lemma>všelijaký</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>svaki</lemma>
+    <lemma>svak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>секој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>każdy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каждый</lemma>
+    <lemma>всякий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>každý</lemma>
+    <lemma>všelijaký</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vsak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сваки</lemma>
+    <lemma>свак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кожен</lemma>
+    <lemma>всякий</lemma>
+    <lemma>усякий</lemma>
+    <lemma>кожний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉiu</lemma>
+    <lemma>ĉiu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>jedes einzelne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elk</lemma>
+    <lemma>ieder</lemma>
+  </synset>
+</multilingual-synset>

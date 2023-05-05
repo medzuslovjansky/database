@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="619"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="619"
+      steen:addition="(črpe)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      črpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чэрпаць</lemma>
+    <lemma>зачэрпваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>черпя</lemma>
+    <lemma>добивам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čerpat</lemma>
+    <lemma>získat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crpiti</lemma>
+    <lemma>crpsti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црпе</lemma>
+    <lemma>нацрпува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czerpać</lemma>
+    <lemma>nabywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>черпать</lemma>
+    <lemma>зачерпывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čerpať</lemma>
+    <lemma>získať</lemma>
+    <lemma>získavať</lemma>
+    <lemma>dostávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvleči</lemma>
+    <lemma>pridobiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>црпити</lemma>
+    <lemma annotation="течност">захватати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>черпати</lemma>
+    <lemma>набирати</lemma>
+    <lemma>діставати</lemma>
+    <lemma>запозичувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desegni</lemma>
+    <lemma>akiri</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schöpfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>putten</lemma>
+  </synset>
+</multilingual-synset>

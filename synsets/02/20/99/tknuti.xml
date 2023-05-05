@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22099"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22099"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      tknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крануць</lemma>
+    <lemma>дакрануцца</lemma>
+    <lemma>датыкнуцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>докосване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>taknuti</lemma>
+    <lemma>dotaknuti</lemma>
+    <lemma>dotaći</lemma>
+    <lemma>dodirnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>допрам</lemma>
+    <lemma>допре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tknąć</lemma>
+    <lemma>dotknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тронуть</lemma>
+    <lemma>коснуться</lemma>
+    <lemma>задеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dotknúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dotik</lemma>
+    <lemma>dotik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дотаћи</lemma>
+    <lemma>додирнути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>торкнути</lemma>
+    <lemma>торкнутися</lemma>
+    <lemma>зачепити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tuŝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>berühren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanraken</lemma>
+  </synset>
+</multilingual-synset>

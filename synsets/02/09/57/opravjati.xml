@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20957"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20957"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cs j"
+    >
+      opravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпраўляць</lemma>
+    <lemma>папраўляць</lemma>
+    <lemma>апраўляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се определи</lemma>
+    <lemma>конфигуриране</lemma>
+    <lemma>инсталиране на правото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravovat</lemma>
+    <lemma>napravovat</lemma>
+    <lemma>spravovat</lemma>
+    <lemma>upravovat</lemma>
+    <lemma>korigovat</lemma>
+    <lemma>zlepšovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postavljati</lemma>
+    <lemma>monirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поправа</lemma>
+    <lemma>исправа</lemma>
+    <lemma>прави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prostować</lemma>
+    <lemma>naprawiać</lemma>
+    <lemma>reperować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исправлять</lemma>
+    <lemma>поправлять</lemma>
+    <lemma>направлять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opravovať</lemma>
+    <lemma>naprávať</lemma>
+    <lemma>korigovať</lemma>
+    <lemma>zlepšovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvesti popravila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оправљати</lemma>
+    <lemma>поправљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправляти</lemma>
+    <lemma>направляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korekti</lemma>
+    <lemma>ĝustigi</lemma>
+    <lemma>aro dekstra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>korrigieren</lemma>
+    <lemma>stellen</lemma>
+    <lemma>legen Sie rechts</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechtzetten</lemma>
+  </synset>
+</multilingual-synset>

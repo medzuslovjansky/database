@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22665"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22665"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="uk pl yu"
+    >
+      obraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>варочаць</lemma>
+    <lemma>круціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>върти</lemma>
+    <lemma annotation="tr.">върти</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otáčet</lemma>
+    <lemma>rotovat</lemma>
+    <lemma annotation="dokola">obíhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrtjeti</lemma>
+    <lemma>okretati</lemma>
+    <lemma>obrtati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wirować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вращать</lemma>
+    <lemma>крутить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>otáčať</lemma>
+    <lemma>rotovať</lemma>
+    <lemma annotation="dokola">obiehať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtenje</lemma>
+    <lemma>vrtenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вртети</lemma>
+    <lemma>окретати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обертати</lemma>
+    <lemma>крутити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Rotacii</lemma>
+    <lemma annotation="tr.">rondiras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drehen</lemma>
+    <lemma annotation="tr.">drehen sich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ronddraaien</lemma>
+    <lemma>roteren</lemma>
+  </synset>
+</multilingual-synset>

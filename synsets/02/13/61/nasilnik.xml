@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21361"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21361"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      nasiľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гвалтаўнік</lemma>
+    <lemma>гвалтоўнік</lemma>
+    <lemma>пякельнік</lemma>
+    <lemma>тыран</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>насилник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>násilník</lemma>
+    <lemma>tyran</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nasilnik</lemma>
+    <lemma>siledžija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>насилник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brutal</lemma>
+    <lemma>tyran</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>насильник</lemma>
+    <lemma>тиран</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>násilník</lemma>
+    <lemma>tyran</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posiljevalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>насилник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>насильник</lemma>
+    <lemma>тиран</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brutala persono</lemma>
+    <lemma>tirano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brutaler Mensch</lemma>
+    <lemma>Tyrann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tiran</lemma>
+    <lemma>onderdrukker</lemma>
+    <lemma>bullebak</lemma>
+    <lemma>dwingeland</lemma>
+  </synset>
+</multilingual-synset>

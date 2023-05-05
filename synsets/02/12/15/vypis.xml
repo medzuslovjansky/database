@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21215"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21215" steen:pos="m." steen:type="1" steen:same="v z">
+      vypis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпіс</lemma>
+    <lemma>выпіска</lemma>
+    <lemma>вытрымка</lemma>
+    <lemma>выцемка</lemma>
+    <lemma>вынятак</lemma>
+    <lemma>вынятка</lemma>
+    <lemma>выманне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извадка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výňatek</lemma>
+    <lemma>výpis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvod</lemma>
+    <lemma>izvadak</lemma>
+    <lemma>odlomak</lemma>
+    <lemma>ulomak</lemma>
+    <lemma>fragment</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="од текст">извадок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>urywek</lemma>
+    <lemma>wyciąg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выписка</lemma>
+    <lemma>выдержка</lemma>
+    <lemma>извлечение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výňatok</lemma>
+    <lemma>výpis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kopija odlomek</lemma>
+    <lemma>sklenitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извод</lemma>
+    <lemma>извадак</lemma>
+    <lemma>закључак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>виписка</lemma>
+    <lemma>витримка</lemma>
+    <lemma>витягання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekstrakto</lemma>
+    <lemma>eltiraĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auszug</lemma>
+    <lemma>zu extrahieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fragment</lemma>
+    <lemma>uittreksel</lemma>
+  </synset>
+</multilingual-synset>

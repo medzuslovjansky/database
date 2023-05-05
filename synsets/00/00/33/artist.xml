@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      artist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мастак</lemma>
+    <lemma>артыст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>художник</lemma>
+    <lemma>музикант</lemma>
+    <lemma>артист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umělec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umjetnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>артист</lemma>
+    <lemma>уметник</lemma>
+    <lemma>изведувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>artysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>художник</lemma>
+    <lemma>артист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>umelec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>umetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уметник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>митець</lemma>
+    <lemma>артист</lemma>
+    <lemma>художник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>artisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Künstler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunstenaar</lemma>
+    <lemma>artiest</lemma>
+  </synset>
+</multilingual-synset>

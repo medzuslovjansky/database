@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1814"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1814" steen:pos="v.tr. ipf." steen:type="1">vkųšati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смакаваць</lemma>
+    <lemma>рассмакоўваць</lemma>
+    <lemma>каштаваць</lemma>
+    <lemma>спытваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вкусвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ochutnávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kušati</lemma>
+    <lemma>probati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вкусува</lemma>
+    <lemma>пробува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smakować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на вкус">пробовать</lemma>
+    <lemma>вкушать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ochutnávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>porbati</lemma>
+    <lemma annotation="hrana">okusu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порбати</lemma>
+    <lemma annotation="јело">кушати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="на смак">пробувати</lemma>
+    <lemma>куштувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝusto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschmack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proeven</lemma>
+  </synset>
+</multilingual-synset>

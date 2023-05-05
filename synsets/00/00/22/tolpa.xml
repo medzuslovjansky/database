@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22" steen:pos="f." steen:type="1">tȯlpa</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>натоўп</lemma>
+    <lemma>талака</lemma>
+    <lemma>грамадка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тълпа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dav</lemma>
+    <lemma>zástup</lemma>
+    <lemma>nával</lemma>
+    <lemma>tlačenice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gužva</lemma>
+    <lemma>gomila</lemma>
+    <lemma>stiska</lemma>
+    <lemma>metež</lemma>
+    <lemma>pometnja</lemma>
+    <lemma>nered</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>толпа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tłum</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>толпа</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dav</lemma>
+    <lemma>zástup</lemma>
+    <lemma>nával</lemma>
+    <lemma>tlačenica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Množica</lemma>
+    <lemma annotation="ljudi">množica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гужва</lemma>
+    <lemma annotation="људи">гомила</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>натовп</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Menge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>menigte</lemma>
+  </synset>
+</multilingual-synset>

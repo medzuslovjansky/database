@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5423"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5423" steen:pos="v.tr. ipf." steen:type="1">
+      proigryvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прайграваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="игра">загуби</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prohrávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="igru">gubiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="игра">губи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="grę">przegrywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="игру">проигрывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prehrávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="igra">lose</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="игру">губити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>програвати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ludo">perdi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Spiel">verlieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="spel">verliezen</lemma>
+  </synset>
+</multilingual-synset>

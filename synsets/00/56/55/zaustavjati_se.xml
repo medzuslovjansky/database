@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5655"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5655"
+      steen:pos="v.refl. ipf."
+      steen:type="3"
+      steen:same="yu"
+    >
+      zaustavjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пыніцца</lemma>
+    <lemma>спыняцца</lemma>
+    <lemma>супыняцца</lemma>
+    <lemma>тармазіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>спирам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zastavovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zaustavljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се запира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyhamowywać</lemma>
+    <lemma>zatrzymywać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>останавливаться</lemma>
+    <lemma>тормозить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zastavovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>do postaje</lemma>
+    <lemma>zaporo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заустављати се</lemma>
+    <lemma>кочити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зупинятися</lemma>
+    <lemma>гальмувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bremson</lemma>
+    <lemma>halto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bremse</lemma>
+    <lemma>Stopp</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>remmen</lemma>
+    <lemma>stoppen</lemma>
+    <lemma>tot stilstand komen</lemma>
+  </synset>
+</multilingual-synset>

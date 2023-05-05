@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3483"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3483" steen:pos="f." steen:type="1" steen:genesis="I">
+      kontrola
+    </lemma>
+    <lemma steen:id="3483" steen:pos="f." steen:type="1" steen:genesis="I">
+      kontrolj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кантроль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надзор</lemma>
+    <lemma>контрол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kontrola</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kontrola</lemma>
+    <lemma>nadzor</lemma>
+    <lemma>pregled</lemma>
+    <lemma>provjera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>контрола</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kontrola</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>контроль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kontrola</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nadzor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>контрола</lemma>
+    <lemma>провера</lemma>
+    <lemma>преглед</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>контроль</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontrolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Steuerung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>controle</lemma>
+  </synset>
+</multilingual-synset>

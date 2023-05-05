@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2390"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2390" steen:pos="f." steen:type="2" steen:same="z">
+      odpověď
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адказ</lemma>
+    <lemma>адповедзь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отговор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpověď</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odgovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpowiedź</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ответ</lemma>
+    <lemma>отповедь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpoveď</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odgovor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одговор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відповідь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>respondo</lemma>
+    <lemma>respondo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beantworten</lemma>
+    <lemma>antworten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>antwoord</lemma>
+  </synset>
+</multilingual-synset>

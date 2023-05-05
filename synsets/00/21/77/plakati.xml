@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2177"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2177"
+      steen:addition="(plače)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      plakati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>плакаць</lemma>
+    <lemma>кульгаць</lemma>
+    <lemma>галасіць</lemma>
+    <lemma>рыдаць</lemma>
+    <lemma>раўці</lemma>
+    <lemma>румзаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да плаче</lemma>
+    <lemma>да плаче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plakat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plakati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плаче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>płakać</lemma>
+    <lemma>łkać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плакать</lemma>
+    <lemma>рыдать</lemma>
+    <lemma>реветь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plakať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jokati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плакати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>плакати</lemma>
+    <lemma>ридати</lemma>
+    <lemma>ревти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plorantoj</lemma>
+    <lemma>krio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weep</lemma>
+    <lemma>Schrei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huilen</lemma>
+    <lemma>wenen</lemma>
+  </synset>
+</multilingual-synset>

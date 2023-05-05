@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27352"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27352"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      lupiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здымаць лупіну</lemma>
+    <lemma>чысціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>беля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>loupat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>guliti</lemma>
+    <lemma>ljuštiti</lemma>
+    <lemma>lupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лупи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="skórkę">obierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снимать кожуру</lemma>
+    <lemma>очищать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lúpať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="lupina">obirati</lemma>
+    <lemma>luščenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="љуску">обирати</lemma>
+    <lemma>љуштити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лупити</lemma>
+    <lemma annotation="від шкірки, шкарлупи">обчищати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schälen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schillen</lemma>
+  </synset>
+</multilingual-synset>

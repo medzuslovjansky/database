@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20880"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20880" steen:pos="m." steen:type="1">lětopis</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>летапіс</lemma>
+    <lemma>хроніка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хроника</lemma>
+    <lemma>летопис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kronika</lemma>
+    <lemma>letopis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ljetopis</lemma>
+    <lemma>kronika</lemma>
+    <lemma>anali</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>летопис</lemma>
+    <lemma>хроника</lemma>
+    <lemma>анали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kronika</lemma>
+    <lemma>dziejopis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>летопись</lemma>
+    <lemma>хроника</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kronika</lemma>
+    <lemma>letopis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Kronika Kronika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>летопис</lemma>
+    <lemma>хроника</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>літопис</lemma>
+    <lemma>хроніка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kroniko</lemma>
+    <lemma>analoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Chronik</lemma>
+    <lemma>Annalen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kroniek</lemma>
+    <lemma>annalen</lemma>
+  </synset>
+</multilingual-synset>

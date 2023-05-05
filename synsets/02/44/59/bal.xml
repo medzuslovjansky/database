@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24459"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24459" steen:pos="m." steen:type="1" steen:genesis="I">
+      bal
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bál</lemma>
+    <lemma>ples</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bal</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="свечена игранка">бал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bal</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bál</lemma>
+    <lemma>ples</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bal</lemma>
+    <lemma>ples</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бал</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="танцювальний вечір">бал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="danco partio">pilko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Tanzparty">Ball</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="feest">bal</lemma>
+  </synset>
+</multilingual-synset>

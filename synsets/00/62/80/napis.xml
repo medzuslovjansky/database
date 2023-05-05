@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6280" steen:pos="m." steen:type="1">napis</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надпіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надпис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nápis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>natpis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>натпис</lemma>
+    <lemma>напис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napis</lemma>
+    <lemma>inskrypcja</lemma>
+    <lemma>legenda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>надпись</lemma>
+    <lemma>титр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nápis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napis napis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напис</lemma>
+    <lemma>натпис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>surskribon</lemma>
+    <lemma>legendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Inschrift</lemma>
+    <lemma>Legende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opschrift</lemma>
+    <lemma>bijschrift</lemma>
+    <lemma>legenda</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21643"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21643"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru pl~ sh bm"
+    >
+      vȯobražeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уяўленне</lemma>
+    <lemma>уява</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въображение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>představivost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predodžba</lemma>
+    <lemma>predstava</lemma>
+    <lemma>vizija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вообразување</lemma>
+    <lemma>имагинација</lemma>
+    <lemma>замислување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyobrażenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воображение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predstavivosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ideja</lemma>
+    <lemma annotation="nič">ideja</lemma>
+    <lemma annotation="arch.">slika (nekaj) izobraženje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замисао</lemma>
+    <lemma annotation="о нечему">представа</lemma>
+    <lemma annotation="нечега">слика</lemma>
+    <lemma annotation="арх.">изображење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уява</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imagon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Phantasie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbeelding</lemma>
+    <lemma>voorstellingsvermogen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35641"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35641"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      nepoznajemy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непазнавальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неузнаваем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepoznatelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neprepoznatljiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непрепознатлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nierozpoznawalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неузнаваемый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepoznateľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neprepoznavna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непрепознатљив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невпізнанний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>irreconocible</lemma>
+    <lemma>nerekonebla</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unkenntlich</lemma>
+    <lemma>unerkennbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onherkenbaar</lemma>
+  </synset>
+</multilingual-synset>

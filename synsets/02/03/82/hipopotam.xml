@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20382"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20382"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      hipopotam
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бегемот</lemma>
+    <lemma>гіпапатам</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хипопотам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hroch</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nilski konj</lemma>
+    <lemma>vodenkonj</lemma>
+    <lemma>hipopotam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нилски коњ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>hipopotam</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бегемот</lemma>
+    <lemma>гиппопотам</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hroch</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hippo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нилски коњ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гіпопотам</lemma>
+    <lemma>бегемот</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Hippo</lemma>
+    <lemma>hipopotamo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nilpferd</lemma>
+    <lemma>Nilpferd</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nijlpaard</lemma>
+  </synset>
+</multilingual-synset>

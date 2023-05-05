@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22691"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22691"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      odvraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адцягваць</lemma>
+    <lemma>адводзіць</lemma>
+    <lemma>абстрагаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отклони</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pozornost">odvracet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ometati</lemma>
+    <lemma>odvraćati pozornost</lemma>
+    <lemma>odvlačiti pozornost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвлекува</lemma>
+    <lemma annotation="вниманието">попречува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ment.">rozpraszać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отвлекать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="pozornosť">odvracať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pozor">odvrnejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пажњу">одвраћати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відволікати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>distri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ablenken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="aandacht">afleiden</lemma>
+  </synset>
+</multilingual-synset>

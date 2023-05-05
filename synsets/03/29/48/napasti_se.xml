@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32948"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32948"
+      steen:addition="(napase)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      napasti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назапасіцца</lemma>
+    <lemma>напасвіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напасвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napást se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napasti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се напасе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napaść się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напастись</lemma>
+    <lemma>выпастись</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napásť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za napad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напасти се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напастися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>grasen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grazen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35696"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35696" steen:addition="(+2)" steen:pos="prep.">
+      po pričině
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з прычыны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поради</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvůli</lemma>
+    <lemma>z důvodu</lemma>
+    <lemma>z příčiny</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zbog</lemma>
+    <lemma>uslijed</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бидејќи</lemma>
+    <lemma>заради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z powodu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по причине</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kvôli</lemma>
+    <lemma>z dôvodu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ker je zaradi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>због</lemma>
+    <lemma>услед</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з причини</lemma>
+    <lemma annotation="щось">через</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vanwege</lemma>
+    <lemma>wegens</lemma>
+    <lemma>naar aanleiding van</lemma>
+  </synset>
+</multilingual-synset>

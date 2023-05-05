@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4" steen:pos="pron.indef." steen:type="1">nikto</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ніхто</lemma>
+    <lemma>ніводзін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>никой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nikdo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nitko</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>никој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nikt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>никто</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nikto</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nihče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нико</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ніхто</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neniu</lemma>
+    <lemma>neniu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>niemand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>niemand</lemma>
+  </synset>
+</multilingual-synset>

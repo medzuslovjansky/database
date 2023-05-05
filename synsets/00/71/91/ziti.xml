@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7191"
+      steen:addition="(žive)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      žiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жыць</lemma>
+    <lemma>пражываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>живея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žít</lemma>
+    <lemma>bydlet</lemma>
+    <lemma>pobývat</lemma>
+    <lemma>přebývat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>boraviti</lemma>
+    <lemma>stanovati</lemma>
+    <lemma>živjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>живее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mieszkać</lemma>
+    <lemma>zamieszkiwać</lemma>
+    <lemma>rezydować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жить</lemma>
+    <lemma>проживать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žiť</lemma>
+    <lemma>bývať</lemma>
+    <lemma>zdržiavať sa</lemma>
+    <lemma>prebývať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>живети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проживати</lemma>
+    <lemma>мешкати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>vivi</lemma>
+    <lemma>loĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reside</lemma>
+    <lemma>wohnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leven</lemma>
+    <lemma>wonen</lemma>
+  </synset>
+</multilingual-synset>

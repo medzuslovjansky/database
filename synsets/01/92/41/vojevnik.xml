@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19241"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19241" steen:pos="m.anim." steen:type="1">vojevnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ваяўнік</lemma>
+    <lemma>ваяр</lemma>
+    <lemma>вайсковец</lemma>
+    <lemma>ваяка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боец</lemma>
+    <lemma>воин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bojovník</lemma>
+    <lemma>válečník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ratnik</lemma>
+    <lemma>vojnik</lemma>
+    <lemma>borac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>војник</lemma>
+    <lemma>борец</lemma>
+    <lemma>воин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bojownik</lemma>
+    <lemma>wojownik</lemma>
+    <lemma>wojak</lemma>
+    <lemma>woj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>боец</lemma>
+    <lemma>воин</lemma>
+    <lemma>вояка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>bojovník</lemma>
+    <lemma>bojovník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bojevnik</lemma>
+    <lemma>vojak</lemma>
+    <lemma>borec</lemma>
+    <lemma annotation="arch.">major</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ратник</lemma>
+    <lemma>војник</lemma>
+    <lemma>борац</lemma>
+    <lemma annotation="арх.">бојник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>боєць</lemma>
+    <lemma>воїн</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>batalanto</lemma>
+    <lemma>militisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kämpfer</lemma>
+    <lemma>Krieger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strijder</lemma>
+  </synset>
+</multilingual-synset>

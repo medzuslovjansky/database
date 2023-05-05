@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35550"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35550"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl sl bm"
+    >
+      povlěkti za sobojų
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пацягнуць</lemma>
+    <lemma>павалачы</lemma>
+    <lemma>павалачы за сабой</lemma>
+    <lemma>пацягнуць за сабой</lemma>
+    <lemma annotation="наступствы">выклікаць</lemma>
+    <lemma annotation="да наступстваў">прывесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>включва привличат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>táhout za sebou</lemma>
+    <lemma>vléct za sebou</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>involvirati</lemma>
+    <lemma>uvući</lemma>
+    <lemma>uključiti</lemma>
+    <lemma>umiješati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повлече зад себе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pociągnąć za sobą</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>повлечь</lemma>
+    <lemma>повлечь за собой</lemma>
+    <lemma annotation="последствия">вызвать</lemma>
+    <lemma annotation="к последствиям">привести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>táhout za sebou</lemma>
+    <lemma>vliecť za sebou</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prinesejo taki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повући за собом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спричинити</lemma>
+    <lemma annotation="наслідки">викликати</lemma>
+    <lemma annotation="до наслідків">призвести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunportas</lemma>
+    <lemma>engaĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zur Folge haben</lemma>
+    <lemma>betreffen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>met zich meebrengen</lemma>
+  </synset>
+</multilingual-synset>

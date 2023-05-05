@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18456"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18456"
+      steen:addition="(pręde)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      pręsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>муркаць</lemma>
+    <lemma>мяўкаць</lemma>
+    <lemma>варкатаць</lemma>
+    <lemma>курняўкаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мъркане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="kočka">příst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="мачка">преде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mruczeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мурлыкать</lemma>
+    <lemma>мурчать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="mačka">príst</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="mačka">Presti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="мачка">прести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>муркотіти</lemma>
+    <lemma>мурчати</lemma>
+    <lemma>муркотати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ronronado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schnurren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="poes">spinnen</lemma>
+  </synset>
+</multilingual-synset>

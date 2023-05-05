@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31668"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31668"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      zrěly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спелы</lemma>
+    <lemma>сталы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зрял</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zralý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zreo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зрел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dojrzały</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зрелый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrelý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zrel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зрео</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрілий</lemma>
+    <lemma>стиглий</lemma>
+    <lemma>спілий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>matura</lemma>
+    <lemma>matura</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reif</lemma>
+    <lemma>reif</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijp</lemma>
+    <lemma>volwassen</lemma>
+  </synset>
+</multilingual-synset>

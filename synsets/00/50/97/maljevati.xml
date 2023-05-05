@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5097"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5097"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="D"
+    >
+      maljevati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>маляваць</lemma>
+    <lemma>размалёўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>malovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bojiti</lemma>
+    <lemma>bojati</lemma>
+    <lemma>farbati</lemma>
+    <lemma>bojadisati</lemma>
+    <lemma>malati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>молерисува</lemma>
+    <lemma>бои</lemma>
+    <lemma>бојадисува</lemma>
+    <lemma>фарба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>malować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>красить</lemma>
+    <lemma>раскрашивать</lemma>
+    <lemma>рисовать</lemma>
+    <lemma>малевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>malovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pobarvan</lemma>
+    <lemma>barve</lemma>
+    <lemma annotation="soba, soba">Molovata</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бојити</lemma>
+    <lemma>фарбати</lemma>
+    <lemma>малати</lemma>
+    <lemma annotation="арх.">ма̀стити</lemma>
+    <lemma annotation="собу, просторију">моловати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>малювати</lemma>
+    <lemma>розфарбовувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pentri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Farbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schilderen</lemma>
+  </synset>
+</multilingual-synset>

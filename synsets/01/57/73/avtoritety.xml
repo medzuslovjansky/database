@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15773"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15773" steen:pos="m.pl." steen:type="1" steen:genesis="I">
+      avtoritety
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>органы ўлады</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>власти</lemma>
+    <lemma>органи на властта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>správa</lemma>
+    <lemma annotation="y">orgán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vlast</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авторитети</lemma>
+    <lemma>власт</lemma>
+    <lemma>органи на власта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>władze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>власти</lemma>
+    <lemma>органы власти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>správa</lemma>
+    <lemma annotation="y">orgán</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>oblast</lemma>
+    <lemma>upravni organi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ауторитети</lemma>
+    <lemma>власт</lemma>
+    <lemma>органи власти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>органи влади</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭtoritatojn</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Behörden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>autoriteiten</lemma>
+  </synset>
+</multilingual-synset>

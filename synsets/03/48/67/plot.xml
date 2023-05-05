@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34867"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34867"
+      steen:addition="(plti)"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      plȯť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>плоць</lemma>
+    <lemma>цела</lemma>
+    <lemma>скура</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плът</lemma>
+    <lemma>тяло</lemma>
+    <lemma>кожа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="měkká část">tělo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tijelo</lemma>
+    <lemma>put</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плот</lemma>
+    <lemma>тело</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ciało</lemma>
+    <lemma>skóra</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плоть</lemma>
+    <lemma>кожа</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="mäkká časť">telo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>telo</lemma>
+    <lemma>čas</lemma>
+    <lemma>parcela</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тело</lemma>
+    <lemma>пут</lemma>
+    <lemma>плот</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>плоть</lemma>
+    <lemma>шкіра</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>karno</lemma>
+    <lemma>korpo</lemma>
+    <lemma>haŭto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fleisch</lemma>
+    <lemma>Körper</lemma>
+    <lemma>Haut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlees</lemma>
+    <lemma>lichaam</lemma>
+  </synset>
+</multilingual-synset>

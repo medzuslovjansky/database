@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21954"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21954"
+      steen:addition="(+5)"
+      steen:pos="v.pf."
+      steen:type="2"
+      steen:same="ru pl yu mk"
+    >
+      postųpiti s
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абысціся з</lemma>
+    <lemma>павесці сябе</lemma>
+    <lemma>паставіцца да</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за да се справят</lemma>
+    <lemma>за да се справят</lemma>
+    <lemma>да се справят с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postoupit s</lemma>
+    <lemma>zajít s</lemma>
+    <lemma>vypořádat se s</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postupiti s</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постапи со</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>potraktować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поступить с</lemma>
+    <lemma>обойтись с</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>postúpiť s</lemma>
+    <lemma>zájsť s</lemma>
+    <lemma>vysporiadať sa s</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nekdo">delovati</lemma>
+    <lemma>obdelan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="према некоме">поступити</lemma>
+    <lemma>третирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повестися з</lemma>
+    <lemma>обійтися з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regalo</lemma>
+    <lemma>tenilo</lemma>
+    <lemma>traktas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>behandeln</lemma>
+    <lemma>handhaben</lemma>
+    <lemma>behandeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omgaan met</lemma>
+    <lemma>behandelen</lemma>
+    <lemma>bejegenen</lemma>
+  </synset>
+</multilingual-synset>

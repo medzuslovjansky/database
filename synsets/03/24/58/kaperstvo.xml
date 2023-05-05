@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32458"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32458"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="I"
+    >
+      kaperstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каперства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>каперство</lemma>
+    <lemma>корсарство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korzárství</lemma>
+    <lemma>kaperství</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gusarstvo</lemma>
+    <lemma>gusarenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пиратство</lemma>
+    <lemma>гусарство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korsarstwo</lemma>
+    <lemma>kaperstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каперство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korzárstvo</lemma>
+    <lemma>kaperstvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>piratstvo</lemma>
+    <lemma>piratstvo. piratstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гусарство</lemma>
+    <lemma>гусарење</lemma>
+    <lemma>пиратство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корсарство</lemma>
+    <lemma>каперство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>corsarios</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kaperei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kaperij</lemma>
+  </synset>
+</multilingual-synset>

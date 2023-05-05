@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3144"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3144"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+      steen:same="uk z yu mk"
+    >
+      poniž
+    </lemma>
+    <lemma
+      steen:id="3144"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+      steen:same="uk z yu mk"
+    >
+      poniže
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ніжэй</lemma>
+    <lemma>ніжай</lemma>
+    <lemma>пад</lemma>
+    <lemma>падыспад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по-долу</lemma>
+    <lemma>под</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>níže</lemma>
+    <lemma>dole</lemma>
+    <lemma>pod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>niže</lemma>
+    <lemma>ispod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пониску</lemma>
+    <lemma>подолу</lemma>
+    <lemma>под</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poniżej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ниже</lemma>
+    <lemma>под</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poniže</lemma>
+    <lemma>nižšie</lemma>
+    <lemma>dole</lemma>
+    <lemma>pod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>manj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ниже</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нижче</lemma>
+    <lemma>внизу</lemma>
+    <lemma>долі</lemma>
+    <lemma>під</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malsupre</lemma>
+    <lemma>sub</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unten</lemma>
+    <lemma>unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderaan</lemma>
+    <lemma>beneden</lemma>
+  </synset>
+</multilingual-synset>

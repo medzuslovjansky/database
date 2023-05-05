@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8722"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8722" steen:pos="m." steen:type="3" steen:same="pl">
+      kroček
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прамежнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>перинеум</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>perineum</lemma>
+    <lemma annotation="anatom.">hráz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>međica</lemma>
+    <lemma>perineum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>препона</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krocze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>промежность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>perineum</lemma>
+    <lemma annotation="anatóm.">hrádza</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>presredek</lemma>
+    <lemma>presredek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>међица</lemma>
+    <lemma>перинеум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>промежина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perineo</lemma>
+    <lemma>makulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Damm</lemma>
+    <lemma>taint</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>perineum</lemma>
+  </synset>
+</multilingual-synset>

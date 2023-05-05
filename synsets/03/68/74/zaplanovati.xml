@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36874"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36874"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      zaplanovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запланаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>планирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naplánovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isplanirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испланира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaplanować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>запланировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>naplánovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>načrt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испланирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>план</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>planen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plannen</lemma>
+  </synset>
+</multilingual-synset>

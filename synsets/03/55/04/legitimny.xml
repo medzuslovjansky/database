@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35504"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35504"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      legitimny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>легітымны</lemma>
+    <lemma>законны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>легитимен</lemma>
+    <lemma>законен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>legitimní</lemma>
+    <lemma>zákonný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>legitiman</lemma>
+    <lemma>zakonit</lemma>
+    <lemma>opravdan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>легитимен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>legalny</lemma>
+    <lemma>prawowity</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>легитимный</lemma>
+    <lemma>законный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>legitímny</lemma>
+    <lemma>zákonný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>legitimna</lemma>
+    <lemma>zakonita. pravna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>легитиман</lemma>
+    <lemma>законит</lemma>
+    <lemma>легалан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>легітимний</lemma>
+    <lemma>законний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>legitima</lemma>
+    <lemma>laŭleĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>legitim</lemma>
+    <lemma>legal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>legitiem</lemma>
+    <lemma>wettig</lemma>
+  </synset>
+</multilingual-synset>

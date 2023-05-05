@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4107"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4107"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      odnosno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адносна</lemma>
+    <lemma>аб</lemma>
+    <lemma>у адносінах да</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>о</lemma>
+    <lemma>о</lemma>
+    <lemma>о</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohledně</lemma>
+    <lemma>vzhledem k</lemma>
+    <lemma>vůči</lemma>
+    <lemma>pokud jde o</lemma>
+    <lemma>ve vztahu k</lemma>
+    <lemma>co se týče</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odnosno</lemma>
+    <lemma>zapravo</lemma>
+    <lemma>to jest</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>односно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odnośnie</lemma>
+    <lemma annotation="czegoś">co do</lemma>
+    <lemma>wobec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>относительно</lemma>
+    <lemma>о</lemma>
+    <lemma>об</lemma>
+    <lemma>по отношению к</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ohľadom</lemma>
+    <lemma>voči</lemma>
+    <lemma>pokiaľ ide o</lemma>
+    <lemma>vo vzťahu k</lemma>
+    <lemma>čo sa týka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>torej</lemma>
+    <lemma>s spoštovanjem</lemma>
+    <lemma>ne glede na</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>односно</lemma>
+    <lemma>у погледу</lemma>
+    <lemma>гледе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відносно</lemma>
+    <lemma>щодо</lemma>
+    <lemma>стосовно</lemma>
+    <lemma annotation="чогось">з приводу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pri</lemma>
+    <lemma>pri</lemma>
+    <lemma>rilate al</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>über</lemma>
+    <lemma>betreffend</lemma>
+    <lemma>in Bezug auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>over</lemma>
+    <lemma>betreffende</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23224"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23224" steen:pos="adj." steen:type="1" steen:genesis="I">
+      nervny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="анат.">нярвовы</lemma>
+    <lemma annotation="саст.">нервовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нервен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nervový</lemma>
+    <lemma>nervní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nervni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="анат.">нервен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="anat.">nerwowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="анат.">нервный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nervový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živčni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>живчани</lemma>
+    <lemma>нервни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="анат.">нервовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nerva</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nervös</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zenuw-</lemma>
+  </synset>
+</multilingual-synset>

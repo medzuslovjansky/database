@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6185"
+      steen:addition="#(dŕži)"
+      steen:pos="v.ipf."
+      steen:type="1"
+    >
+      dŕžati glådovkų
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дзейсніць галадоўлю ў знак пратэсту">галадаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>правя гладна стачка</lemma>
+    <lemma>гладувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>držet hladovku</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>štrajkati glađu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>штрајкува со глад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w ramach strajku">głodować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="голодать в знак протеста">держать голодовку</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>držať hladovku</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gladovna stavka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штрајковати глађу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>голодувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malsato-striko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hungerstreik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in hongerstaking zijn</lemma>
+  </synset>
+</multilingual-synset>

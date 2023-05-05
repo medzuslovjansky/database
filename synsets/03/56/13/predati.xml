@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35613"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35613"
+      steen:addition="(prěda)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      prědati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здрадзіць</lemma>
+    <lemma>змяніць</lemma>
+    <lemma>зыначыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предаде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zradit</lemma>
+    <lemma>zaprodat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izdati</lemma>
+    <lemma>iznevjeriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предаде</lemma>
+    <lemma>издаде</lemma>
+    <lemma>изневери</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdradzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предать</lemma>
+    <lemma>изменить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zradiť</lemma>
+    <lemma>zapredať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izdala ne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>издати</lemma>
+    <lemma>изневерити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрадити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perfidi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verraten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verraden</lemma>
+  </synset>
+</multilingual-synset>

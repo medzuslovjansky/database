@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29537"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29537" steen:pos="n." steen:type="2" steen:same="v sh bm">
+      opravdańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апраўданне</lemma>
+    <lemma>вызваленне</lemma>
+    <lemma>адваёва</lemma>
+    <lemma>апростванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>извинение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zproštění</lemma>
+    <lemma annotation="od viny">osvobození</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opravdanje</lemma>
+    <lemma>izlika</lemma>
+    <lemma>izgovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оправдување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uniewinnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оправдание</lemma>
+    <lemma>освобождение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="od viny">oslobodenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>utemeljitev</lemma>
+    <lemma>opravičilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правдање</lemma>
+    <lemma>изговор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправдання</lemma>
+    <lemma>звільнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>absolvo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Freispruch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vrijspraak</lemma>
+  </synset>
+</multilingual-synset>

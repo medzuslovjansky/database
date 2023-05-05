@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22840"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22840" steen:pos="m." steen:type="1" steen:same="v z">
+      značek
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>значок</lemma>
+    <lemma>памета</lemma>
+    <lemma>пазнака</lemma>
+    <lemma>метка</lemma>
+    <lemma>значанне</lemma>
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="пощенска">марка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>značka</lemma>
+    <lemma>známka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>marka</lemma>
+    <lemma>markica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="поштенска">марка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znaczek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>значок</lemma>
+    <lemma>метка</lemma>
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>značka</lemma>
+    <lemma>známka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="poštna">Mark</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="поштанска">марка</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>значок</lemma>
+    <lemma>мітка</lemma>
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>markon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kennzeichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>postzegel</lemma>
+  </synset>
+</multilingual-synset>

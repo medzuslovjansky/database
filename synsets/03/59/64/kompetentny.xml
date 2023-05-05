@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35964"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35964"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kompetentny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кампетэнтны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вещ</lemma>
+    <lemma>компетентен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kompetentní</lemma>
+    <lemma>příslušný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompetentan</lemma>
+    <lemma>mjerodavan</lemma>
+    <lemma>ovlašten</lemma>
+    <lemma>sposoban</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компетентен</lemma>
+    <lemma>надлежен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompetentny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компетентный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kompetentný</lemma>
+    <lemma>príslušný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pristojni</lemma>
+    <lemma>obvestili</lemma>
+    <lemma>strokovno. avtoritativni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компетентан</lemma>
+    <lemma>упућен</lemma>
+    <lemma>стручан</lemma>
+    <lemma>меродаван</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>компетентний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompetentaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kompetent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>competent</lemma>
+  </synset>
+</multilingual-synset>

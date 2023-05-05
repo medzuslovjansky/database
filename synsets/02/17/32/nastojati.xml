@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21732"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21732"
+      steen:addition="(nastoji)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      nastojati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>настаяць</lemma>
+    <lemma>дамагчыся</lemma>
+    <lemma>наперціся</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настоя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trvat na</lemma>
+    <lemma>setrvat</lemma>
+    <lemma>stát si na svém</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nastojati</lemma>
+    <lemma>zahtijevati</lemma>
+    <lemma>inzistirati</lemma>
+    <lemma>ustrajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>настојува</lemma>
+    <lemma>инсистира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nalegać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настоять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trvať na</lemma>
+    <lemma>zotrvať</lemma>
+    <lemma>stáť si na svojom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iščejo</lemma>
+    <lemma>zahtevo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>настојати</lemma>
+    <lemma>захтевати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наполягти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>insistas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>darauf bestehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aandringen</lemma>
+  </synset>
+</multilingual-synset>

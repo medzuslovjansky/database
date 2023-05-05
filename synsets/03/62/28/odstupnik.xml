@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36228"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36228"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      odstųpnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здраднік</lemma>
+    <lemma>рэнегат</lemma>
+    <lemma>вырадак</lemma>
+    <lemma>адшчапенец</lemma>
+    <lemma>перабежчык</lemma>
+    <lemma>перабежнік</lemma>
+    <lemma>дэзерцір</lemma>
+    <lemma>дэзэртыр</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ренегат</lemma>
+    <lemma>изневяра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeběhlík</lemma>
+    <lemma>dezertér</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otpadnik</lemma>
+    <lemma>ološ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапник</lemma>
+    <lemma>ренегат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>renegat</lemma>
+    <lemma>odstępca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изменник</lemma>
+    <lemma>ренегат</lemma>
+    <lemma>перебежчик</lemma>
+    <lemma>дезертир</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prebehlík</lemma>
+    <lemma>dezertér</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>renegade izmeček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпадник</lemma>
+    <lemma>олош</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрадник</lemma>
+    <lemma>ренегат</lemma>
+    <lemma>перебіжчик</lemma>
+    <lemma>дезертир</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>renegato</lemma>
+    <lemma>desertor</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Renegat</lemma>
+    <lemma>defector</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>deserteur</lemma>
+  </synset>
+</multilingual-synset>

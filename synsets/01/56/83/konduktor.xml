@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15683"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15683"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="I"
+    >
+      konduktor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="цягніка">праваднік</lemma>
+    <lemma>правадыр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кондуктор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="železniční">průvodčí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kondukter</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кондуктер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="pociągu">konduktor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="поезда">проводник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sprievodca</lemma>
+    <lemma>konduktor</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>sprevodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кондуктер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="потягу">провідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="trajno">dirigento</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schaffner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conducteur</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22167"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22167"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl sk j"
+    >
+      umny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разумны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>умен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chytrý</lemma>
+    <lemma>moudrý</lemma>
+    <lemma>rozumný</lemma>
+    <lemma>umný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uman</lemma>
+    <lemma>mudar</lemma>
+    <lemma>pametan</lemma>
+    <lemma>intelektualni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умен</lemma>
+    <lemma>паметен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozumny</lemma>
+    <lemma>mądry</lemma>
+    <lemma>umny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>umný</lemma>
+    <lemma>múdry</lemma>
+    <lemma>rozumný</lemma>
+    <lemma>rozvážny</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>umen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уман</lemma>
+    <lemma>мудар</lemma>
+    <lemma>паметан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розумний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>saĝa</lemma>
+    <lemma>inteligenta</lemma>
+    <lemma>saĝa</lemma>
+    <lemma>prudenta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>intelligent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slim</lemma>
+    <lemma>verstandig</lemma>
+  </synset>
+</multilingual-synset>

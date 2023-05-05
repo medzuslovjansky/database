@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4062"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4062"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="uk pl cs~"
+    >
+      neodpovědaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>безадказны</lemma>
+    <lemma>безадпаведны</lemma>
+    <lemma>неадпаведны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безотговорен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nezodpovědný</lemma>
+    <lemma>neodpovědný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neodgovoran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неодговорен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieodpowiedzialny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безответственный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nezodpovedný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neodgovorno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неодговоран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безвідповідальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nerespondeca</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unverantwortlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onverantwoordelijk</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36763"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36763" steen:pos="v.tr. ipf." steen:type="1">
+      izvoditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вывадзіць</lemma>
+    <lemma>рабіць выснову</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="от нещо">извеждам</lemma>
+    <lemma>заключавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyvozovat</lemma>
+    <lemma>odvozovat</lemma>
+    <lemma>dedukovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изведува</lemma>
+    <lemma>заклучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wywodzić</lemma>
+    <lemma>dedukować</lemma>
+    <lemma>wydedukowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="что-либо из чего-либо">выводить</lemma>
+    <lemma>делать вывод</lemma>
+    <lemma>заключать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyvodzovať</lemma>
+    <lemma>odvodzovať</lemma>
+    <lemma>dedukovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izvajamo</lemma>
+    <lemma>sklene</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изводити</lemma>
+    <lemma>закључивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="що-небудь з чого-небудь">виводити</lemma>
+    <lemma>робити висновок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Derivas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ableiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van, uit">afleiden</lemma>
+    <lemma>deduceren</lemma>
+    <lemma>concluderen</lemma>
+  </synset>
+</multilingual-synset>

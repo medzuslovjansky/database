@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21076"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21076"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      pripravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыпраўляць</lemma>
+    <lemma>запраўляць</lemma>
+    <lemma annotation="харч.">прыкрашваць</lemma>
+    <lemma annotation="харч.">закрашваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сезон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>okořeňovat</lemma>
+    <lemma>ochucovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>začinjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зачинува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyprawiać</lemma>
+    <lemma>doprawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приправлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>okořeňovat</lemma>
+    <lemma>ochucovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začinjena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зачињавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приправляти</lemma>
+    <lemma>присмачувати</lemma>
+    <lemma>здобрювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sezono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Jahreszeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kruiden</lemma>
+  </synset>
+</multilingual-synset>

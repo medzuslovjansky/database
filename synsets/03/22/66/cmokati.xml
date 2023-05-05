@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32266"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32266"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="ru pl j"
+    >
+      cmokati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цмокаць</lemma>
+    <lemma>цмакаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мляскам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mlaskat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cmoktati</lemma>
+    <lemma>cmakati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мласка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cmokać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чмокать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cmukať</lemma>
+    <lemma>cmogať</lemma>
+    <lemma>mľaskať</lemma>
+    <lemma>mliaskať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cmokati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цоктати</lemma>
+    <lemma>мљаскати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чмокати</lemma>
+    <lemma>цмокати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>smack</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schmatzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="met de lippen">smakken</lemma>
+  </synset>
+</multilingual-synset>

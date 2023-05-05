@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30582"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30582"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      råzvezti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развезці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дистрибуция</lemma>
+    <lemma>доставка на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvézt</lemma>
+    <lemma>dodat</lemma>
+    <lemma>distribuovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="kolima">dostaviti</lemma>
+    <lemma>isporučiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>развезе</lemma>
+    <lemma>испорача</lemma>
+    <lemma>дистрибуира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozwieźć</lemma>
+    <lemma>rozdystrybuować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развезти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozviezť</lemma>
+    <lemma>dodať</lemma>
+    <lemma>distribuovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="z avtom">predloži</lemma>
+    <lemma>da poda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="колима">доставити</lemma>
+    <lemma>испоручити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розвезти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>distribui</lemma>
+    <lemma>transdoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verteilen</lemma>
+    <lemma>liefern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rondbrengen</lemma>
+  </synset>
+</multilingual-synset>

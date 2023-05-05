@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36586"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36586"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="A"
+    >
+      kat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="расліна">кат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="растение">кат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="rostlina kata jedlá">kata</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kat</lemma>
+    <lemma>kat-čat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="билка, Catha edulis">кат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czuwaliczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="бот.">кат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="rastlina kata jedlá">kata</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="rastlina, Catha edulis">nadstropje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="биљка, Catha edulis">кат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="рослина, бот.">кат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>qat</lemma>
+    <lemma>khat</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Qat</lemma>
+    <lemma>Khat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>qat</lemma>
+  </synset>
+</multilingual-synset>

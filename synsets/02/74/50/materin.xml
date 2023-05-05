@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27450"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27450" steen:pos="adj." steen:type="1">materin</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мамчын</lemma>
+    <lemma>маці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мамин</lemma>
+    <lemma>майчин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>matčin</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>majčin</lemma>
+    <lemma>materin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мамин</lemma>
+    <lemma>мајчин</lemma>
+    <lemma>мајкин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mateczny</lemma>
+    <lemma>matczyny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мамин</lemma>
+    <lemma>матери</lemma>
+    <lemma>материн</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>matkin</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mater</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мајчин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>материн</lemma>
+    <lemma>мамин</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>patrina</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mutter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>moeders</lemma>
+  </synset>
+</multilingual-synset>

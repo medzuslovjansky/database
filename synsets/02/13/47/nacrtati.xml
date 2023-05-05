@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21347"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21347"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be yu mk"
+    >
+      načrtati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>накрэсліць</lemma>
+    <lemma>начарціць</lemma>
+    <lemma>накідаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>начертая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>načrtnout</lemma>
+    <lemma>nakreslit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nacrtati</lemma>
+    <lemma>narisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нацрта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nakreślić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начертить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>načrtnúť</lemma>
+    <lemma>nakresliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripravi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нацртати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>накреслити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desegni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zeichnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tekenen</lemma>
+  </synset>
+</multilingual-synset>

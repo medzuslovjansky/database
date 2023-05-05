@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23595"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23595" steen:pos="f." steen:type="1" steen:genesis="I">
+      mša
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>імша</lemma>
+    <lemma>меса</lemma>
+    <lemma>літургія</lemma>
+    <lemma>абедня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>маса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mše</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>misa</lemma>
+    <lemma>maša</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>миса</lemma>
+    <lemma>богослужба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>msza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>месса</lemma>
+    <lemma>литургия</lemma>
+    <lemma>обедня</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>omša</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mass</lemma>
+    <lemma>čaščenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>литургија</lemma>
+    <lemma>богослужење</lemma>
+    <lemma>миса</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>меса</lemma>
+    <lemma>літургія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>maso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Messe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mis</lemma>
+  </synset>
+</multilingual-synset>

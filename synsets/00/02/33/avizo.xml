@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="233"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="233" steen:pos="n." steen:type="2" steen:genesis="I">
+      avizo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>авіза</lemma>
+    <lemma>паведамленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>авизо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>avízo</lemma>
+    <lemma>zpráva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>avizo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авизо</lemma>
+    <lemma annotation="потврда за пратка">известување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>awizo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="извещение">авизо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>avízo</lemma>
+    <lemma>správa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>avizo</lemma>
+    <lemma>potrdilo o pošiljki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>авизо</lemma>
+    <lemma>потврда пошиљке</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>авізо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Beratung</lemma>
+    <lemma>Vorschlag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kennisgeving</lemma>
+  </synset>
+</multilingual-synset>

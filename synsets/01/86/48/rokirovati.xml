@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18648"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18648"
+      steen:pos="v.intr. ipf./pf."
+      steen:type="1"
+      steen:same="v"
+      steen:genesis="I"
+    >
+      rokirovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ракіравацца</lemma>
+    <lemma>рабіць ракіроўку</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="шах">castle</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">udělat rošádu</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rokirati</lemma>
+    <lemma>rohirati</lemma>
+    <lemma annotation="šah">vršiti rokadu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">рокада</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykonywać roszadę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рокироваться</lemma>
+    <lemma>делать рокировку</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="šach">urobiť rošádu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na gradu</lemma>
+    <lemma>rohirati</lemma>
+    <lemma annotation="Chess">opravljajo rokada</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рокирати</lemma>
+    <lemma>рохирати</lemma>
+    <lemma annotation="шах">вршити рокаду</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рокіруватися</lemma>
+    <lemma>робити рокіровку</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">kastelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schach">Burg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">rokeren</lemma>
+  </synset>
+</multilingual-synset>

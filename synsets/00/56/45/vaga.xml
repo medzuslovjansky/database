@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5645"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5645" steen:pos="f." steen:type="2" steen:same="pl cz sh">
+      vaga
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вага</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тегло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>váha</lemma>
+    <lemma>tíha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>težina</lemma>
+    <lemma>masa</lemma>
+    <lemma>teret</lemma>
+    <lemma />
+  </synset>
+  <synset lang="mk">
+    <lemma>тежина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>waga</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вес</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>váha</lemma>
+    <lemma>tiaž</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>masa</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>тежина</lemma>
+    <lemma>маса</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вага</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pezo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gewicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gewicht</lemma>
+  </synset>
+</multilingual-synset>

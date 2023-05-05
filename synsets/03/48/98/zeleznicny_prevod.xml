@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34898"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34898" steen:pos="m." steen:type="2" steen:same="v~">
+      želězničny prěvod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стрэлачны перавод</lemma>
+    <lemma>чыгуначная стрэлка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>железопътна стрелка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>železniční výhybka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>željeznička skretnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>железнички спој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozjazd kolejowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стрелочный перевод</lemma>
+    <lemma>стрелка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>železničná výhybka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kretnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>железничка скретница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стрілочний перевід</lemma>
+    <lemma>стрілка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fervoja ŝaltilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bahn-Schalter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="spoor">wissel</lemma>
+  </synset>
+</multilingual-synset>

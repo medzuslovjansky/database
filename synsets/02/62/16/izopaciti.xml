@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26216"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26216"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl j"
+    >
+      izopačiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сказіць</lemma>
+    <lemma>перакруціць</lemma>
+    <lemma>знявечыць</lemma>
+    <lemma>дэфармаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изопача</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znetvořit</lemma>
+    <lemma>deformovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izopačiti</lemma>
+    <lemma>pokvariti</lemma>
+    <lemma>izobličiti</lemma>
+    <lemma>izvrnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изопачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zniekształcić</lemma>
+    <lemma>oszpecić</lemma>
+    <lemma>wypaczyć</lemma>
+    <lemma>zdeformować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исказить</lemma>
+    <lemma>извратить</lemma>
+    <lemma>изуродовать</lemma>
+    <lemma>деформировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znetvoriť</lemma>
+    <lemma>deformovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>perverznež</lemma>
+    <lemma>ruševine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изопачити</lemma>
+    <lemma>кварити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спотворити</lemma>
+    <lemma>перекрутити</lemma>
+    <lemma>деформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbeligas</lemma>
+    <lemma>distordas</lemma>
+    <lemma>deformi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entstellen</lemma>
+    <lemma>verzerren</lemma>
+    <lemma>verformen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>misvormen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18419"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18419" steen:pos="adj." steen:type="1">prěhodny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">пераходны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>транзитивное</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přechodný</lemma>
+    <lemma annotation="gram.">tranzitivní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prelazan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преоден</lemma>
+    <lemma>транзитивен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">przechodni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">переходный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prechodné</lemma>
+    <lemma annotation="gram.">tranzitívne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prehodno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прелазан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="грам.">перехідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transitiva</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>transitiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">overgankelijk</lemma>
+  </synset>
+</multilingual-synset>

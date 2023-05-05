@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20005"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20005"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      organ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>орган</lemma>
+    <lemma annotation="анат.">ворган</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="Анатомия">орган</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="anatomie">orgán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>organ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="анатомија">орган</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="anatomia">organ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="анат.">о́рган</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="anatómia">orgán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="anatomijo">orgle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="анатомија">орган</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="анат.">о́рган</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="anatomio">organo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Anatomie">Organ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="anatomie">orgaan</lemma>
+  </synset>
+</multilingual-synset>

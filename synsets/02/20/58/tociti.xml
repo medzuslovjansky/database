@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22058"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22058"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      točiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наліваць</lemma>
+    <lemma>узліваць</lemma>
+    <lemma>разліваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>натиснете</lemma>
+    <lemma>сцедить</lemma>
+    <lemma>се изсипва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čepovat</lemma>
+    <lemma>natáčet</lemma>
+    <lemma>točit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>točiti</lemma>
+    <lemma>sipati</lemma>
+    <lemma>nalijevati</lemma>
+    <lemma>rastakati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>точи</lemma>
+    <lemma>налева</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="płyn">napoczynać</lemma>
+    <lemma annotation="płyn">ściągać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наливать</lemma>
+    <lemma>разливать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>čapovať</lemma>
+    <lemma>natáčať</lemma>
+    <lemma>točiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="tekočine">opusti</lemma>
+    <lemma>se vlije</lemma>
+    <lemma>lije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="течност">точити</lemma>
+    <lemma>сипати</lemma>
+    <lemma>наливати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>наливати</lemma>
+    <lemma>розливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frapeti</lemma>
+    <lemma>tiri for</lemma>
+    <lemma>elverŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tippen</lemma>
+    <lemma>abzusaugen</lemma>
+    <lemma>ausgießen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tappen</lemma>
+    <lemma>aftappen</lemma>
+  </synset>
+</multilingual-synset>

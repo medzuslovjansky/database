@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20781"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20781"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      umŕtvjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забіваць</lemma>
+    <lemma>змярцвляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>убиват</lemma>
+    <lemma annotation="плът">убиват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>usmrcovat</lemma>
+    <lemma>zabíjet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ubijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умртвува</lemma>
+    <lemma>убива</lemma>
+    <lemma>усмртува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zabijać</lemma>
+    <lemma>umartwiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убивать</lemma>
+    <lemma>умертвлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>usmrcovať</lemma>
+    <lemma>zabíjať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>убијати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вбивати</lemma>
+    <lemma>умертвлять</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mortigi</lemma>
+    <lemma annotation="karno">malvivigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>töten</lemma>
+    <lemma annotation="Fleisch">kasteien</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doodmaken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36471"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36471"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      zabarikadovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забарыкадаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>забарикадирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabarikádovat</lemma>
+    <lemma>zatarasit</lemma>
+    <lemma>zahradit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>barikadirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>забарикадира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zabarykadować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>забаррикадировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zabarikádovať</lemma>
+    <lemma>zatarasiť</lemma>
+    <lemma>zahradiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zabarikadirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>барикадирати</lemma>
+    <lemma>препречити</lemma>
+    <lemma>закрчити</lemma>
+    <lemma>оградити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забарикадувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>barikado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>barrikadieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>barricaderen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15397"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15397"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="E"
+    >
+      penthausny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пентхаўсны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мезонетен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="u bytu">podkrovní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>potkrovni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тавански</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>penthausowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пентхаусный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="u bytu">podkrovný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>streha</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поткровни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пентхаусний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>penthouse</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Penthouse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>penthouse</lemma>
+    <lemma>dakappartement</lemma>
+  </synset>
+</multilingual-synset>

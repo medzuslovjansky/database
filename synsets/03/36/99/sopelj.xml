@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33699"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33699"
+      steen:addition="(soplja)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      sopelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смаркач</lemma>
+    <lemma>сапель</lemma>
+    <lemma>сусла</lemma>
+    <lemma>сопля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сопол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sopl</lemma>
+    <lemma>nudle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šlajm</lemma>
+    <lemma>sluz</lemma>
+    <lemma>šmrkalj</lemma>
+    <lemma>sekret</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слуз</lemma>
+    <lemma>слинка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smarki</lemma>
+    <lemma>śluz</lemma>
+    <lemma>glut</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сопля</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>soplem</lemma>
+    <lemma>rezance</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slina</lemma>
+    <lemma>sluz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слине</lemma>
+    <lemma>слуз</lemma>
+    <lemma>секрет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шмаркля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>moco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rotz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>snot</lemma>
+  </synset>
+</multilingual-synset>

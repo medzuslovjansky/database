@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21031"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21031" steen:pos="adj." steen:type="1" steen:same="v z j">
+      praviľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>правільны</lemma>
+    <lemma>рэгулярны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>редовни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravidelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>redovan</lemma>
+    <lemma>redovit</lemma>
+    <lemma>regularan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>правилен</lemma>
+    <lemma>регуларен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zgodny z regułami">regularny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правильный</lemma>
+    <lemma>регулярный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravidelný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pravilno</lemma>
+    <lemma>redni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правилан</lemma>
+    <lemma>редован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>правильний</lemma>
+    <lemma>регулярний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regulajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>regulär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regelmatig</lemma>
+  </synset>
+</multilingual-synset>

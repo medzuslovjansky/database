@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5192"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5192" steen:pos="adj." steen:type="1">zadnji</lemma>
+    <lemma steen:id="5192" steen:pos="adj." steen:type="1">zadny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>задні</lemma>
+    <lemma>тыльны</lemma>
+    <lemma>зваротны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zadní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stražnjica</lemma>
+    <lemma>guza</lemma>
+    <lemma>dupe</lemma>
+    <lemma>guzica</lemma>
+    <lemma>zadnjica</lemma>
+    <lemma>rit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tylny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задний</lemma>
+    <lemma>тыльный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zadné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zadnji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задњи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>задній</lemma>
+    <lemma>тильний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dorso</lemma>
+    <lemma>malantaŭo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zurück</lemma>
+    <lemma>hinten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>achterste</lemma>
+  </synset>
+</multilingual-synset>

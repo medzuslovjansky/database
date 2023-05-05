@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35513"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35513"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru pl j"
+      steen:genesis="F"
+    >
+      afera
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>афёра</lemma>
+    <lemma>раман</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>афера</lemma>
+    <lemma>изневяра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="cizoložství">aféra</lemma>
+    <lemma annotation="románek">poměr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>afera</lemma>
+    <lemma>preljub</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="прељуба">афера</lemma>
+    <lemma annotation="контроверзна ситуација">афера</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>afera</lemma>
+    <lemma>romans</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>афера</lemma>
+    <lemma>измена</lemma>
+    <lemma>адюльтер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="cudzoložstvo">aféra</lemma>
+    <lemma>pomer</lemma>
+    <lemma>milostná zápletka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>(ljubezenska) afera</lemma>
+    <lemma>skok čez plot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>афера</lemma>
+    <lemma>прељуба</lemma>
+    <lemma>контроверзна ситуација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>афера</lemma>
+    <lemma>перелюб</lemma>
+    <lemma>зрада</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>adultaĵo</lemma>
+    <lemma>amora rilato</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Ehebruch">Affäre</lemma>
+    <lemma annotation="umstrittene Situation">Affäre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zaak">affaire</lemma>
+    <lemma annotation="romance">affaire</lemma>
+  </synset>
+</multilingual-synset>

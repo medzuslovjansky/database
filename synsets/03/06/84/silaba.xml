@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30684"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30684" steen:pos="f." steen:type="2" steen:same="z">
+      silaba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>склад</lemma>
+    <lemma>стыль</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сричка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sylaba</lemma>
+    <lemma>slabika</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>slog</lemma>
+    <lemma>Silab</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слог</lemma>
+    <lemma>силаба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sylaba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slabika</lemma>
+    <lemma>sylaba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Style Študija vodniki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слог</lemma>
+    <lemma>силаба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="частина слова">склад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>silabo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Silbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lettergreep</lemma>
+    <lemma>syllabe</lemma>
+  </synset>
+</multilingual-synset>

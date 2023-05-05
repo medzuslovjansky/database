@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22216"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22216" steen:pos="n.sg." steen:type="3">
+      prirodovědstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыродазнаўства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наука</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přírodní vědy</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prirodne znanosti</lemma>
+    <lemma annotation="arh.">prirodopis</lemma>
+    <lemma annotation="arh.">PRIRODOSLOVLJE</lemma>
+    <lemma annotation="arh.">naravoslovlje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>природни науки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nauki przyrodnicze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>естествознание</lemma>
+    <lemma>естествоведение</lemma>
+    <lemma>природоведение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prírodné vedy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naravoslovje</lemma>
+    <lemma annotation="arch.">naravoslovni</lemma>
+    <lemma annotation="arch.">naravoslovje</lemma>
+    <lemma annotation="arch.">naravoslovlje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>природне науке</lemma>
+    <lemma annotation="арх.">природопис</lemma>
+    <lemma annotation="арх.">природословље</lemma>
+    <lemma annotation="арх.">наравословље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>природничі науки</lemma>
+    <lemma>природознавство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naturscienco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Naturwissenschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="pen">natuurwetenschap</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31897"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31897"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      gnusny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жудасны</lemma>
+    <lemma>жахлівы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ужасен</lemma>
+    <lemma>гнусен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hnusný</lemma>
+    <lemma>příšerný</lemma>
+    <lemma>děsný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gnjusan</lemma>
+    <lemma>gnusan</lemma>
+    <lemma>odvratan</lemma>
+    <lemma>mrzak</lemma>
+    <lemma>gadan</lemma>
+    <lemma>jeziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гнасен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>makabryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ужасный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hnusný</lemma>
+    <lemma>príšerný</lemma>
+    <lemma>děsný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>grozno</lemma>
+    <lemma>grozno</lemma>
+    <lemma>grozno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гнусан</lemma>
+    <lemma>одвратан</lemma>
+    <lemma>ужасан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жахливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hororiga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>grausig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gruwelijk</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15646"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15646" steen:pos="m." steen:type="3" steen:same="ru bg">
+      vȯprosnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апытальнік</lemma>
+    <lemma>анкета</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въпросник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotazník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>upitnik</lemma>
+    <lemma>upitni list</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прашалник</lemma>
+    <lemma>анкета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwestionariusz</lemma>
+    <lemma>ankieta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вопросник</lemma>
+    <lemma>анкета</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dotazník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vprašalnik OBLIKA</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упитник</lemma>
+    <lemma>упитни лист</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запитник</lemma>
+    <lemma>опитка</lemma>
+    <lemma>анкета</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>demandaron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fragebogen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vragenlijst</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36084"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36084"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs j"
+      steen:genesis="I"
+    >
+      integritet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цэласнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цялостност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>integrita</lemma>
+    <lemma>bezúhonnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>integralnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>интегритет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>integralność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>целостность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>integrita</lemma>
+    <lemma>bezúhonnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>celovitost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интегралност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цілісність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>integrecon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Integrität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>integriteit</lemma>
+  </synset>
+</multilingual-synset>

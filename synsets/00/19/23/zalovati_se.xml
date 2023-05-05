@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1923"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1923"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru"
+    >
+      žalovati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скардзіцца</lemma>
+    <lemma>кволіцца</lemma>
+    <lemma>жаліцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жалвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stěžovat si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žaliti se</lemma>
+    <lemma>tužiti se</lemma>
+    <lemma>prigovarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се жали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skarżyć się</lemma>
+    <lemma>narzekać</lemma>
+    <lemma>żalić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жаловаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sťažovať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritoževati se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жалити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скаржитися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>plendi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beschweren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klagen</lemma>
+  </synset>
+</multilingual-synset>

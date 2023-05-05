@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35775"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35775"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kronikaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>летапісец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хроникьор</lemma>
+    <lemma>летописец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kronikář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kroničar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хроничар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kronikarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>летописец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kronikár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kronist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хроничар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хронікар</lemma>
+    <lemma>хронікер</lemma>
+    <lemma>літописець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cronista</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Chronist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kroniekschrijver</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21951"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21951"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      odstųpnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэнегат</lemma>
+    <lemma>вырадак</lemma>
+    <lemma>адшчапенец</lemma>
+    <lemma>вераадступнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ренегат</lemma>
+    <lemma>Отстъпник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>renegát</lemma>
+    <lemma>odpadlík</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odmetnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ренегат</lemma>
+    <lemma>отпадник</lemma>
+    <lemma>вероотстапник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>renegat</lemma>
+    <lemma>apostata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ренегат</lemma>
+    <lemma>вероотступник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>renegát</lemma>
+    <lemma>odpadlík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>renegade</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одметник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ренегат</lemma>
+    <lemma>віровідступник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>renegato</lemma>
+    <lemma>apostato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Renegat</lemma>
+    <lemma>abgefallene</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afvallige</lemma>
+    <lemma>renegaat</lemma>
+    <lemma>apostaat</lemma>
+  </synset>
+</multilingual-synset>

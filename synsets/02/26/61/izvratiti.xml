@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22661"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22661"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      izvråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перакруціць</lemma>
+    <lemma>сказіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извратя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkazit</lemma>
+    <lemma annotation="mravně">zvrátit</lemma>
+    <lemma>zvrhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvrnuti</lemma>
+    <lemma>pokvariti</lemma>
+    <lemma>iskriviti</lemma>
+    <lemma>izobličiti</lemma>
+    <lemma>izopačiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изопачи</lemma>
+    <lemma>изобличи</lemma>
+    <lemma>искриви</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zniekształcić</lemma>
+    <lemma>wypaczyć</lemma>
+    <lemma>zdeprawować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>извратить</lemma>
+    <lemma>исказить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pokaziť</lemma>
+    <lemma annotation="mravne">zvrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skew</lemma>
+    <lemma>kršilo</lemma>
+    <lemma>perverznež</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искривити</lemma>
+    <lemma>изврнути</lemma>
+    <lemma>изобличити</lemma>
+    <lemma>изопачити</lemma>
+    <lemma>искривити</lemma>
+    <lemma>покварити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спотворити</lemma>
+    <lemma>перекрутити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>distordi</lemma>
+    <lemma>falsas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzerren</lemma>
+    <lemma>pervertieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>perverteren</lemma>
+    <lemma>depraveren</lemma>
+  </synset>
+</multilingual-synset>

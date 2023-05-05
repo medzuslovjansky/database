@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35169"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35169"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      eliminovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліквідаваць</lemma>
+    <lemma>зліквідаваць</lemma>
+    <lemma>знішчыць</lemma>
+    <lemma>ухіліць</lemma>
+    <lemma>выдаліць</lemma>
+    <lemma annotation="кніжн.">элімінаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>елиминирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>eliminovat</lemma>
+    <lemma>odstranit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eliminirati</lemma>
+    <lemma>odstraniti</lemma>
+    <lemma>ukloniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>елиминира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eliminować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ликвидировать</lemma>
+    <lemma>уничтожить</lemma>
+    <lemma>устранить</lemma>
+    <lemma>удалить</lemma>
+    <lemma annotation="книжн.">элиминировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>eliminovať</lemma>
+    <lemma>odstrániť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpravijo likvidirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>елиминисати</lemma>
+    <lemma>ликвидирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>усунути</lemma>
+    <lemma>ліквідувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elimini</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beseitigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elimineren</lemma>
+  </synset>
+</multilingual-synset>

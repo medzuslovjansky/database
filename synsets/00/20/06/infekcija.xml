@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2006"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2006" steen:pos="f." steen:type="1" steen:genesis="I">
+      infekcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інфекцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>инфекция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>infekce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>infekcija</lemma>
+    <lemma>zaraza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инфекција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>infekcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инфекция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>infekcia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okužba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инфекција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інфекція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infekto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Infektion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>infectie</lemma>
+  </synset>
+</multilingual-synset>

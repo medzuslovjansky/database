@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34885"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34885"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      pozovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазіраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pózovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pozirati</lemma>
+    <lemma annotation="fig.">praviti se važan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>позира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>позировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pózovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predstavljajo</lemma>
+    <lemma annotation="sl.">pokažejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позирати</lemma>
+    <lemma annotation="фиг.">правити се важан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pozo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pose</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>poseren</lemma>
+  </synset>
+</multilingual-synset>

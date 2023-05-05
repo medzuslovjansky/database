@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29202"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      odražati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбівацца</lemma>
+    <lemma>адлюстроўвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да бъдат отразени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odrážet se</lemma>
+    <lemma>projevovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odražavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се одразува</lemma>
+    <lemma>се рефлектира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. w wodzie">odbijać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отражаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odrážať sa</lemma>
+    <lemma>prejavovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odraža</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одражавати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відбиватися</lemma>
+    <lemma>відображатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reflektos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reflektiert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerkaatst worden</lemma>
+  </synset>
+</multilingual-synset>

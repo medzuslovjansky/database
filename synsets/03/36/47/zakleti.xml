@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33647"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33647"
+      steen:addition="(zaklne)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zaklęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заклясці</lemma>
+    <lemma>замовіць</lemma>
+    <lemma>зачараваць</lemma>
+    <lemma>счараваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>очаровам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaklít</lemma>
+    <lemma>začarovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>začarati</lemma>
+    <lemma>baciti čin</lemma>
+    <lemma>zamađijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опседна</lemma>
+    <lemma>маѓепса</lemma>
+    <lemma>шармира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czarem">zakląć</lemma>
+    <lemma>zaczarować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заклясть</lemma>
+    <lemma>заклять</lemma>
+    <lemma>заколдовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zakliať</lemma>
+    <lemma>začarovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Omamiti</lemma>
+    <lemma>Čarati</lemma>
+    <lemma>mađijati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зачарати</lemma>
+    <lemma>бацити чини</lemma>
+    <lemma>мађијати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заклясть</lemma>
+    <lemma>заклять</lemma>
+    <lemma>зачарувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉarmo</lemma>
+    <lemma>Conjure</lemma>
+    <lemma>sorĉi</lemma>
+    <lemma>incant</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Charme</lemma>
+    <lemma>zaubern</lemma>
+    <lemma>betören</lemma>
+    <lemma>incant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>betoveren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21655"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21655" steen:pos="v.intr. pf." steen:type="2">
+      zablųditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заблудзіцца</lemma>
+    <lemma>заблукаць</lemma>
+    <lemma>збіцца са шляху</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заблудя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabloudit</lemma>
+    <lemma>ztratit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zalutati</lemma>
+    <lemma>zabludjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заблуди</lemma>
+    <lemma>занесе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zabłądzić</lemma>
+    <lemma>zgubić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заблудиться</lemma>
+    <lemma>заплутать</lemma>
+    <lemma>сбиться с пути</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zablúdiť</lemma>
+    <lemma>stratiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zavedli</lemma>
+    <lemma annotation="arch.">ERR</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>залутати</lemma>
+    <lemma annotation="арх.">заблудети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заблукати</lemma>
+    <lemma>заблукати</lemma>
+    <lemma>збитися з шляху</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forflankigxos perdi sin mem</lemma>
+    <lemma>perdiĝos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Irre gehen</lemma>
+    <lemma>verlieren sich</lemma>
+    <lemma>verloren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verdwalen</lemma>
+  </synset>
+</multilingual-synset>

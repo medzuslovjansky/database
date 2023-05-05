@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20550"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20550"
+      steen:pos="n.pl."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      nosilka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>партшэз</lemma>
+    <lemma>паланкін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>носилка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nosítka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nosiljka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>носилка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nosze</lemma>
+    <lemma>lektyka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>портшез</lemma>
+    <lemma>паланкин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nosidlá</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>leglo</lemma>
+    <lemma>lektika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>носиљка</lemma>
+    <lemma>лектика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>портшез</lemma>
+    <lemma>паланкін</lemma>
+    <lemma>ноші</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>portilo</lemma>
+    <lemma>sedán-seĝo</lemma>
+    <lemma>portilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bahre</lemma>
+    <lemma>Sänfte</lemma>
+    <lemma>Wurf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brancard</lemma>
+    <lemma>stretcher</lemma>
+  </synset>
+</multilingual-synset>

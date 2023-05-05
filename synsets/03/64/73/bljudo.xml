@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36473"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36473" steen:pos="n." steen:type="2" steen:same="ru bg">
+      bljudo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>страва</lemma>
+    <lemma>патрава</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>блюдо</lemma>
+    <lemma>ястие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jídlo</lemma>
+    <lemma>pokrm</lemma>
+    <lemma>chod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jelo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јадење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>potrawa</lemma>
+    <lemma>danie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="кушанье">блюдо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jedlo</lemma>
+    <lemma>pokrm</lemma>
+    <lemma>chod</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>jed</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јело</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>страва</lemma>
+    <lemma>наїдок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="manĝaĵo">plado</lemma>
+    <lemma annotation="de manĝo">kompreneble</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gericht</lemma>
+    <lemma>Speise</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="eten">gerecht</lemma>
+  </synset>
+</multilingual-synset>

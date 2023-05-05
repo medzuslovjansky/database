@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22350"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22350" steen:pos="m." steen:type="1">ręd</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ваен.">званне</lemma>
+    <lemma>чын</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="воен.">титла</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="voj.">hodnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чин</lemma>
+    <lemma annotation="воен">ранг</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wojsk.">stopień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="воен.">звание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="voj.">hodnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čin</lemma>
+    <lemma annotation="vojaški">stopnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чин</lemma>
+    <lemma annotation="војни">степен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="військ.">звання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="mil.">rango</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="mil.">Rang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rang</lemma>
+  </synset>
+</multilingual-synset>

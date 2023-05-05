@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5484"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5484"
+      steen:addition="(izjede)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      izjehati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выехаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отпътувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyjet</lemma>
+    <lemma>odjet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otputovati</lemma>
+    <lemma>otputiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвезе</lemma>
+    <lemma>отпатува</lemma>
+    <lemma>отиде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjechać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выехать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyjsť</lemma>
+    <lemma>odísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>go</lemma>
+    <lemma annotation="avto">svinec</lemma>
+    <lemma>pogon</lemma>
+    <lemma>go</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпутовати</lemma>
+    <lemma annotation="колима">одвести</lemma>
+    <lemma>одвести се</lemma>
+    <lemma>отићи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виїхати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per transporto">forlasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Transport">verlassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrekken</lemma>
+    <lemma annotation="per vervoermiddel">weggaan</lemma>
+  </synset>
+</multilingual-synset>

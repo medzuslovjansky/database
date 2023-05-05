@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29838"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29838" steen:pos="f." steen:type="2" steen:same="v bm">
+      papka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэчка</lemma>
+    <lemma>папка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>папка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soubor</lemma>
+    <lemma>složka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fascikl</lemma>
+    <lemma>svezak</lemma>
+    <lemma>mapa</lemma>
+    <lemma>datoteka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>папка</lemma>
+    <lemma>портфолио</lemma>
+    <lemma>датотека</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>plik</lemma>
+    <lemma>teczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>папка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>súbor</lemma>
+    <lemma>zložka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mape</lemma>
+    <lemma>imenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фасцикла</lemma>
+    <lemma>футрола</lemma>
+    <lemma>мапа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тека</lemma>
+    <lemma>папка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dosiero</lemma>
+    <lemma>dosierujo</lemma>
+    <lemma>biletujo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Datei</lemma>
+    <lemma>Ordner</lemma>
+    <lemma>Portfolio</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>map</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23888"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23888"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      osvědamjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даведвацца</lemma>
+    <lemma>асвядомлівацца</lemma>
+    <lemma>пытаць</lemma>
+    <lemma>пытацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>научите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotazovat se</lemma>
+    <lemma>informovat se</lemma>
+    <lemma>zjišťovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osvjedočivati se</lemma>
+    <lemma>informirati se</lemma>
+    <lemma>raspitivati se</lemma>
+    <lemma>uvjeravati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се уверува</lemma>
+    <lemma>се распрашува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dowiadywać się</lemma>
+    <lemma>uświadamiać sobie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осведомляться</lemma>
+    <lemma>спрашивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pýtať sa</lemma>
+    <lemma>informovať sa</lemma>
+    <lemma>zisťovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nečesa">se zavedajo</lemma>
+    <lemma annotation="kaj">prepričati</lemma>
+    <lemma>da se zavemo</lemma>
+    <lemma>da se znebite napačnih</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нечега">бити свестан</lemma>
+    <lemma annotation="у нешто">уверавати се</lemma>
+    <lemma>освестити се</lemma>
+    <lemma>ослободити се заблуда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довідуватися</lemma>
+    <lemma>запитувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esploros</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anfragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vernemen</lemma>
+    <lemma>zich realiseren</lemma>
+  </synset>
+</multilingual-synset>

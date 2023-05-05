@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2513"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2513"
+      steen:addition="(drěme)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      drěmati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>драмаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дремя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dřímat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>drijemati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дреме</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drzemać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дремать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>driemať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zadremati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дремати</lemma>
+    <lemma>куњати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дрімати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dormeton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dösen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sluimeren</lemma>
+  </synset>
+</multilingual-synset>

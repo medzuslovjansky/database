@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36294"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36294"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru uk bm"
+      steen:genesis="S"
+    >
+      prodȯlžeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>працяг</lemma>
+    <lemma>прадаўжэнне</lemma>
+    <lemma>прадоўжванне</lemma>
+    <lemma>новы выпуск</lemma>
+    <lemma>другая частка</lemma>
+    <lemma>сіквел</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>продължение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pokračování</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nastavak</lemma>
+    <lemma>sljedeći dio</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>продолжение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sequel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>продолжение</lemma>
+    <lemma>новый выпуск</lemma>
+    <lemma>вторая часть</lemma>
+    <lemma>сиквел</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pokračovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nadaljevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наставак</lemma>
+    <lemma>следећи део</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>продовження</lemma>
+    <lemma>наступна частина</lemma>
+    <lemma>сиквел</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sekvaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Folge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voortzetting</lemma>
+    <lemma>sequel</lemma>
+  </synset>
+</multilingual-synset>

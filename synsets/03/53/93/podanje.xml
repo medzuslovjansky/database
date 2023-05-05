@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35393"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35393" steen:pos="n." steen:type="2" steen:same="ru bg">
+      podańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="напр: заявы">паданне</lemma>
+    <lemma>падача</lemma>
+    <lemma>падаванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>представяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podání</lemma>
+    <lemma>podřízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podnošenje</lemma>
+    <lemma>ulaganje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поднесување</lemma>
+    <lemma annotation="молба, жалба, документ и сл.">предавање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>złożenie</lemma>
+    <lemma>przedłożenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подача</lemma>
+    <lemma annotation="напр: заявления">представление</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podanie</lemma>
+    <lemma>podriadení</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="aplikacija">predložitev</lemma>
+    <lemma annotation="admin.">uporaba</lemma>
+    <lemma annotation="admin.">zahteve</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="молбе">подношење</lemma>
+    <lemma annotation="админ.">молба</lemma>
+    <lemma annotation="админ.">захтев</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр: заяви">подання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>submetiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einreichung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanmelding</lemma>
+    <lemma>aanvraag</lemma>
+  </synset>
+</multilingual-synset>

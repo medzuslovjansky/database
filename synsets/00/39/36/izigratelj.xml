@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3936"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3936" steen:pos="m.anim." steen:type="5">izigratelj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераможца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>победител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vítěz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobjednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>победник</lemma>
+    <lemma>добитник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w grze">zwycięzca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>победитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>víťaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmagovalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>победник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переможець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venkinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gewinner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>winnaar</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15127"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15127" steen:pos="n.sg." steen:type="2" steen:same="z">
+      věděńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>веды</lemma>
+    <lemma>знаццё</lemma>
+    <lemma>веданне</lemma>
+    <lemma>разуменне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>знаейки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vědění</lemma>
+    <lemma>vědomost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znanje</lemma>
+    <lemma>poznavanje</lemma>
+    <lemma>upućenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>знаење</lemma>
+    <lemma>разбирање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czegoś">znajomość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знание</lemma>
+    <lemma>понимание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poznanie</lemma>
+    <lemma>vedomosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знання</lemma>
+    <lemma>розуміння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sciante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wissend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van iets">wetenschap</lemma>
+  </synset>
+</multilingual-synset>

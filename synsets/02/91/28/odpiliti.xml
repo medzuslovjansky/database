@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29128"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29128"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z sh mk"
+    >
+      odpiliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпілаваць</lemma>
+    <lemma>адрэзаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отпилить</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odříznout</lemma>
+    <lemma>uříznout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otpiliti</lemma>
+    <lemma>odrezati</lemma>
+    <lemma>odrezati pilom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпили</lemma>
+    <lemma>отсече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpiłować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отпилить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odrezať</lemma>
+    <lemma>urezať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>otpiliti</lemma>
+    <lemma>cut</lemma>
+    <lemma>cut off žago</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпилити</lemma>
+    <lemma>одрезати</lemma>
+    <lemma>одрезати тестером</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відпиляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vidis for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>absägen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afzagen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33598"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33598"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      estuarij
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вусце</lemma>
+    <lemma>эстуарый</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>устие</lemma>
+    <lemma>естуар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ústí</lemma>
+    <lemma>estuár</lemma>
+    <lemma>estuárium</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>estuarij</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>устие</lemma>
+    <lemma>влив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ujście</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>устье</lemma>
+    <lemma>эстуарий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ústie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustje</lemma>
+    <lemma>ustje</lemma>
+    <lemma>ustje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ушће</lemma>
+    <lemma>естуар</lemma>
+    <lemma>естуариј</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гирло</lemma>
+    <lemma>естуарій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>estuaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mündung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>estuarium</lemma>
+  </synset>
+</multilingual-synset>

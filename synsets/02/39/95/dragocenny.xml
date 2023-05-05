@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23995"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23995"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru uk z yu"
+    >
+      drågocěnny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каштоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скъпоценен</lemma>
+    <lemma>скъп</lemma>
+    <lemma>ценен</lemma>
+    <lemma>драгоценен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>drahocenný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dragocjen</lemma>
+    <lemma>skupocjen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скапоцен</lemma>
+    <lemma>драгоцен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drogocenny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>драгоценный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drahocenný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plemenite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>драгоцен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коштовний</lemma>
+    <lemma>дорогоцінний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>altvalora</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wertvoll</lemma>
+    <lemma>kostbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kostbaar</lemma>
+  </synset>
+</multilingual-synset>

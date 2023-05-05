@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5096"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub pl sk sh"
+      steen:genesis="D"
+    >
+      farbovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фарбаваць</lemma>
+    <lemma>афарбоўваць</lemma>
+    <lemma>расфарбоўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боядисвам</lemma>
+    <lemma>оцветявам</lemma>
+    <lemma>шаря</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>barvit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bojiti</lemma>
+    <lemma>bojati</lemma>
+    <lemma>farbati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бојадисува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>malować</lemma>
+    <lemma>farbować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>красить</lemma>
+    <lemma>окрашивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>farbiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>barve</lemma>
+    <lemma>barve</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>бојити</lemma>
+    <lemma>фарбати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фарбувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pentri</lemma>
+    <lemma>tinkturi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Farbe</lemma>
+    <lemma>Farbstoff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verven</lemma>
+    <lemma>schilderen</lemma>
+  </synset>
+</multilingual-synset>

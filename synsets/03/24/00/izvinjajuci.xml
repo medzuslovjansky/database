@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32400"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      izvinjajųći
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>які перапрошвае</lemma>
+    <lemma>які выбачаецца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извинителен</lemma>
+    <lemma>апологетичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>omluvný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispričavajući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извинувачки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepraszający</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>извиняющийся</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ospravedlňujúci</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvinjvajući</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извињвајући</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>той що вибачається</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pardonpetan</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entschuldigend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verontschuldigend</lemma>
+  </synset>
+</multilingual-synset>

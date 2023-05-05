@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14589"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14589"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="z"
+      steen:genesis="D"
+    >
+      pěnęz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>манета</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>монета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mince</lemma>
+    <lemma>peníz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kovanica</lemma>
+    <lemma>novčić</lemma>
+    <lemma>žeton</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>монета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pieniądz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>монета</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>mince</lemma>
+    <lemma>peniaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>denarja</lemma>
+    <lemma>kovancev</lemma>
+    <lemma>kovanec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>новац</lemma>
+    <lemma>ковани новац</lemma>
+    <lemma>новчић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>монета</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>monero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Münze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>munt</lemma>
+  </synset>
+</multilingual-synset>

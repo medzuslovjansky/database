@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21547"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21547"
+      steen:addition="(ssęde)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      ssęsti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="пра малако">згарнуцца</lemma>
+    <lemma>скіснуць</lemma>
+    <lemma>пакіснуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пресичам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srazit se</lemma>
+    <lemma>zkysnout</lemma>
+    <lemma annotation="např. mléko">sednout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zgrušati</lemma>
+    <lemma annotation="se">ugrušati</lemma>
+    <lemma annotation="se">zgrudati</lemma>
+    <lemma annotation="se">zgusnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стана урда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="żywność">zwarzyć się</lemma>
+    <lemma annotation="żywność">zsiąść się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="о молоке">свернуться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zraziť sa</lemma>
+    <lemma>skysnúť</lemma>
+    <lemma annotation="napr. mlieko">sadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uskisnuti</lemma>
+    <lemma>kisla</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ускиснути</lemma>
+    <lemma>укиселити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="про молоко">згорнутися</lemma>
+    <lemma>скиснути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>curdle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gerinnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schiften</lemma>
+  </synset>
+</multilingual-synset>

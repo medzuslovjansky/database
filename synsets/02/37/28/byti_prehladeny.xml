@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23728"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23728"
+      steen:pos="v.ipf."
+      steen:type="2"
+      steen:same="cz~ sk sl sh"
+    >
+      byti prěhlåđeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>застуджацца</lemma>
+    <lemma>прастуджвацца</lemma>
+    <lemma>пераастуджвацца</lemma>
+    <lemma>пераахалоджвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настивам</lemma>
+    <lemma>простудявам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nachladit se</lemma>
+    <lemma>být nachlazený</lemma>
+    <lemma>být nastydlý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prehladiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>да биде преладен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>być przeziębionym</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>простужаться</lemma>
+    <lemma>переохлаждаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>byť prechladnutý</lemma>
+    <lemma>byť prechladnutý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>biti prehlajen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бити прехлађен</lemma>
+    <lemma>прехладити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застуджуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>havas malvarmumon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erkältet sein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkouden zijn</lemma>
+  </synset>
+</multilingual-synset>

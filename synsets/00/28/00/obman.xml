@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2800"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2800" steen:pos="m." steen:type="2">obman</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ашуканства</lemma>
+    <lemma>махлярства</lemma>
+    <lemma>круцельства</lemma>
+    <lemma>падман</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>измама</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpronevěra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obmana</lemma>
+    <lemma>prevara</lemma>
+    <lemma>prijevara</lemma>
+    <lemma>podvala</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измама</lemma>
+    <lemma>превара</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oszustwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мошенничество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sprenevera</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>goljufija</lemma>
+    <lemma>preslepitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превара</lemma>
+    <lemma>обмана</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шахрайство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fraŭdoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Betrug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oplichting</lemma>
+    <lemma>zwendel</lemma>
+  </synset>
+</multilingual-synset>

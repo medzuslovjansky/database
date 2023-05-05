@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23456"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23456" steen:pos="m." steen:type="1">
+      mědny dyhovy instrument
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>медны духавы інструмент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>меден духов инструмент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žesťový dechový nástroj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>limeni puhački instrument</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лимен дувачки инструмент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miedziany instrument dęty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>медный духовой инструмент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plechový dychový nástroj</lemma>
+    <lemma>medený dychový nástroj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>wind instrument medenina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лимени дувачки инструмент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мідний духовий інструмент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Latuna blovinstrumento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blechblasinstrument</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koperblaasinstrument</lemma>
+  </synset>
+</multilingual-synset>

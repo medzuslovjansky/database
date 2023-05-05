@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36281"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36281"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      granata
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>granát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>granata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="pocisk">granat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>granát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lupina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>граната</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grenado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Granate</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>granaat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35862"
+      steen:addition="(poběži)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      poběgti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пабегчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стартиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poběžet</lemma>
+    <lemma>běžet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>побегна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pobiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>побежать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pobežať</lemma>
+    <lemma>bežať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Escape</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>побігти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lauf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rennen</lemma>
+    <lemma>hollen</lemma>
+  </synset>
+</multilingual-synset>

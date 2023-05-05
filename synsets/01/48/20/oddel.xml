@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14820"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14820" steen:pos="m." steen:type="2">odděl</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="воінскае">аддзяленне</lemma>
+    <lemma>аддзел</lemma>
+    <lemma>падраздзяленне</lemma>
+    <lemma>падрадзел</lemma>
+    <lemma>падзел</lemma>
+    <lemma>атрад</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>силата на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="skupina">oddíl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odred</lemma>
+    <lemma>odjeljenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одред</lemma>
+    <lemma>армиски оддел</lemma>
+    <lemma>армиско одделение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wojsk.">oddział</lemma>
+    <lemma annotation="wojsk.">jednostka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="воинское">отделение</lemma>
+    <lemma>подразделение</lemma>
+    <lemma>отряд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="skupina">oddiel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vojaško">Nenavezanost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="војска">одред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="військове">відділення</lemma>
+    <lemma annotation="військовий">рій</lemma>
+    <lemma>підрозділ</lemma>
+    <lemma>загін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Macht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bataljon</lemma>
+  </synset>
+</multilingual-synset>

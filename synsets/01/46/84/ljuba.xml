@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14684"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14684"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ub pl yu mk"
+    >
+      ljuba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>любімая</lemma>
+    <lemma>каханая</lemma>
+    <lemma>мілая</lemma>
+    <lemma>дарагая</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>любима</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>miláček</lemma>
+    <lemma>drahoušek</lemma>
+    <lemma>zlatíčko</lemma>
+    <lemma annotation="oslovení ženy">láska</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ljuba (arh.) dragana</lemma>
+    <lemma>ljubavnica</lemma>
+    <lemma>ljubovca</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>срце</lemma>
+    <lemma>љубов</lemma>
+    <lemma>мила</lemma>
+    <lemma>душо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>luba</lemma>
+    <lemma annotation="kobieta">kochanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>любимая</lemma>
+    <lemma>милая</lemma>
+    <lemma>дорогая</lemma>
+    <lemma>голубка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>miláčik</lemma>
+    <lemma>drahá</lemma>
+    <lemma>zlatíčko</lemma>
+    <lemma>láska</lemma>
+    <lemma annotation="oslovenie ženy">milovaná</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ljuba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="арх.">љуба</lemma>
+    <lemma annotation="особа">љубав</lemma>
+    <lemma>драга</lemma>
+    <lemma annotation="арх.">драгана</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>люба</lemma>
+    <lemma>мила</lemma>
+    <lemma>кохана</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amo</lemma>
+    <lemma>karulo</lemma>
+    <lemma>plejamaton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Liebe</lemma>
+    <lemma>Liebling</lemma>
+    <lemma>Schatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geliefde</lemma>
+    <lemma>liefje</lemma>
+    <lemma>schat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2172"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2172" steen:pos="adv." steen:type="1">někde</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>недзе</lemma>
+    <lemma>дзесьці</lemma>
+    <lemma>дзесь</lemma>
+    <lemma>дзе-нідзе</lemma>
+    <lemma>няма дзе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>някъде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>někde</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>negdje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>некаде</lemma>
+    <lemma>негде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gdzieś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кое-где</lemma>
+    <lemma>негде</lemma>
+    <lemma>где-то</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>niekde</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nekje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>негде</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>десь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ie</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>irgendwo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ergens</lemma>
+  </synset>
+</multilingual-synset>

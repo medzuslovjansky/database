@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31583"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31583"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      zavěćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завяшчаць</lemma>
+    <lemma>адпісваць</lemma>
+    <lemma>запавядаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завещавам</lemma>
+    <lemma>завещая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odkázat</lemma>
+    <lemma>zůstavit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavještati</lemma>
+    <lemma>oporučiti</lemma>
+    <lemma>ostaviti zavjet</lemma>
+    <lemma>ostaviti u amanet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завешта</lemma>
+    <lemma>остави завет</lemma>
+    <lemma>аманет</lemma>
+    <lemma>тестамент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zostawiać w spadku</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завещать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odkázať</lemma>
+    <lemma>odkázať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Stiska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заветовати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заповідати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>legar</lemma>
+    <lemma>forpermeson de volo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vererben</lemma>
+    <lemma>lassen testament</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="erfenis">nalaten</lemma>
+  </synset>
+</multilingual-synset>

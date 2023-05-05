@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4687"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4687"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      odvråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вызваць агіду</lemma>
+    <lemma>выклікаць агіду</lemma>
+    <lemma>адхіснуць</lemma>
+    <lemma>адштурхнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отвращение</lemma>
+    <lemma>омраза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zhnusit</lemma>
+    <lemma>znechutit</lemma>
+    <lemma annotation="znechuceně">odvrátit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">gnušati</lemma>
+    <lemma>osjetiti odbojnost ili gađenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гадење</lemma>
+    <lemma>одвраќање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrzydzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вызвать отвращение</lemma>
+    <lemma>оттолкнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zhnusiť</lemma>
+    <lemma>znechutiť</lemma>
+    <lemma annotation="znechutene">odvrátiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gnus</lemma>
+    <lemma>vzrok slabost</lemma>
+    <lemma annotation="za nekatere">ubiti volje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>згадити</lemma>
+    <lemma>изазвати гађење</lemma>
+    <lemma annotation="за нешто">убити вољу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викликати відразу</lemma>
+    <lemma>відштовхнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naŭzo</lemma>
+    <lemma>abomenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ekel</lemma>
+    <lemma>verabscheuen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen walgen</lemma>
+    <lemma>met weerzin vervullen</lemma>
+  </synset>
+</multilingual-synset>

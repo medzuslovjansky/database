@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="297"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="297"
+      steen:addition="#(zadŕži)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zadŕžati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затрымаць</lemma>
+    <lemma>арыштаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задържа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zadržet</lemma>
+    <lemma>zatknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uhapsiti</lemma>
+    <lemma>zatvoriti</lemma>
+    <lemma>uhititi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задржа</lemma>
+    <lemma>уапси</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatrzymać</lemma>
+    <lemma>aresztować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задержать</lemma>
+    <lemma>арестовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zadržať</lemma>
+    <lemma>zatknúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripor</lemma>
+    <lemma>aretacije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задржати</lemma>
+    <lemma>ухапсити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затримати</lemma>
+    <lemma>заарештувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aresti</lemma>
+    <lemma>deteni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verhaften</lemma>
+    <lemma>festhalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanhouden</lemma>
+    <lemma>arresteren</lemma>
+  </synset>
+</multilingual-synset>

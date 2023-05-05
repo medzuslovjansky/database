@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34912"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34912"
+      steen:addition="(priplove)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="cs j"
+    >
+      pripluti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на караблі">прыплыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>платна в пристанището</lemma>
+    <lemma>за да стигне лодка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připlout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uploviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вплови</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="statkiem">przypłynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на корабле">приплыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priplávať</lemma>
+    <lemma>priplaviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jadro v</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упловити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на судні">припливти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>velo en la havenon</lemma>
+    <lemma>alveni per boato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Segel in den Hafen kommen mit dem Boot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>binnenvaren</lemma>
+    <lemma annotation="per boot">aankomen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17831"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17831"
+      steen:addition="(nabere)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      nabrati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>набраць</lemma>
+    <lemma>увабраць</lemma>
+    <lemma annotation="зап.">сабраць</lemma>
+    <lemma>накапіць</lemma>
+    <lemma>назапасіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>събирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nabrat</lemma>
+    <lemma>sebrat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>skupiti</lemma>
+    <lemma>sakupiti</lemma>
+    <lemma>nakupiti</lemma>
+    <lemma>sabrati</lemma>
+    <lemma>sazvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>набра</lemma>
+    <lemma>собра</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nabrać</lemma>
+    <lemma>zebrać</lemma>
+    <lemma>nagromadzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>набрать</lemma>
+    <lemma>собрать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nabrať</lemma>
+    <lemma>zobrať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zbirajo</lemma>
+    <lemma>zbirajo</lemma>
+    <lemma annotation="rože, sadje">kramp</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сакупити</lemma>
+    <lemma>скупити</lemma>
+    <lemma annotation="цвеће, плодове">набрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>набрати</lemma>
+    <lemma>зібрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolekti</lemma>
+    <lemma>kolekti</lemma>
+    <lemma>Scoop</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sammeln</lemma>
+    <lemma>sammeln</lemma>
+    <lemma>Schaufel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. eten">opscheppen</lemma>
+  </synset>
+</multilingual-synset>

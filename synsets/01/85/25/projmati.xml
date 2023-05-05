@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18525"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18525" steen:pos="v.tr. ipf." steen:type="1">
+      projmati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праймаць</lemma>
+    <lemma>пранімаць</lemma>
+    <lemma annotation="напр. холад">прабіраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например, смразяваща">Пиърс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prostupovat</lemma>
+    <lemma annotation="chlad">pronikat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pronicati</lemma>
+    <lemma>prodirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проаѓа</lemma>
+    <lemma>навлегува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. chłód">owładywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пронимать</lemma>
+    <lemma annotation="напр. холод">пробирать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prestupovať</lemma>
+    <lemma annotation="chlad">prenikať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Permeat</lemma>
+    <lemma>prodrejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проницати</lemma>
+    <lemma>продирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр. холод">проймати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz malvarma">piko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. Kälte">Pierce</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. kou">priemen</lemma>
+  </synset>
+</multilingual-synset>

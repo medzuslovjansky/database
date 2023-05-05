@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="141"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="141"
+      steen:addition="(piše)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      pisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пісаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>писане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>psát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пишува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>писать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>písať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pisati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>писати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>писати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>registran</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schrijven</lemma>
+  </synset>
+</multilingual-synset>

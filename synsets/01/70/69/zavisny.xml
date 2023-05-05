@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17069"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17069" steen:pos="adj." steen:type="1">zavisny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>залежны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зависим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závislý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavisan</lemma>
+    <lemma>ovisan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зависен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zależny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зависимый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>závislý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vodilni nizi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завистан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>залежний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>dependa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abhängig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afhankelijk</lemma>
+  </synset>
+</multilingual-synset>

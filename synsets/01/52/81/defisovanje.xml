@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15281"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15281" steen:pos="n.sg." steen:type="5" steen:genesis="I">
+      defisovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перанос</lemma>
+    <lemma>прастаноўка дэфісаў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сричкопренасяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dělení slov</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvajanje</lemma>
+    <lemma>razdvajanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разделување на зборови со цртичка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wyrazów łącznikiem">dzielenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перенос</lemma>
+    <lemma>простановка дефисов</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>delenie slov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дељење израза</lemma>
+    <lemma>преношење израза</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перенос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Divido</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Silbentrennung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>woordafbreking</lemma>
+  </synset>
+</multilingual-synset>

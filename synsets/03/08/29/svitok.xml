@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30829"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30829" steen:pos="m." steen:type="1">svitȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скрутак</lemma>
+    <lemma>сувой</lemma>
+    <lemma>клубок</lemma>
+    <lemma>шпуля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свитък</lemma>
+    <lemma annotation="на хартия">руло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svitek</lemma>
+    <lemma annotation="papír">role</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svitak</lemma>
+    <lemma>zamotuljak</lemma>
+    <lemma>smotak</lemma>
+    <lemma>zamotak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свиток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwój</lemma>
+    <lemma>zwitek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свиток</lemma>
+    <lemma>моток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvitok</lemma>
+    <lemma annotation="papier">role</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rola</lemma>
+    <lemma>Kup</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свитак</lemma>
+    <lemma>замотуљак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>сувій</lemma>
+    <lemma>моток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skribrulaĵon</lemma>
+    <lemma annotation="de papero">listo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rolle</lemma>
+    <lemma annotation="Papier">Walze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="papier">rol</lemma>
+  </synset>
+</multilingual-synset>

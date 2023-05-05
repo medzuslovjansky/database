@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22487" steen:pos="f.sg." steen:type="2" steen:same="z">
+      bezvladnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>параліч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>парализа</lemma>
+    <lemma annotation="мед.">паралич</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ochrnutí</lemma>
+    <lemma>bezvládnost</lemma>
+    <lemma>paralýza</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>paraliza</lemma>
+    <lemma>uzetost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>парализа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>paraliż</lemma>
+    <lemma>niedowład</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>паралич</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ochrnutie</lemma>
+    <lemma>bezvládnosť</lemma>
+    <lemma>paralýza</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>paraliza</lemma>
+    <lemma>ohromelost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парализа</lemma>
+    <lemma>одузетост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>параліч</lemma>
+    <lemma>безпорадність</lemma>
+    <lemma>безсилля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paralizo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Lähmung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlamming</lemma>
+    <lemma>paralyse</lemma>
+  </synset>
+</multilingual-synset>

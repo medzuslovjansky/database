@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34989"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="час">за</lemma>
+    <lemma>на працягу</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>по време</lemma>
+    <lemma>във време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>za</lemma>
+    <lemma>v průběhu</lemma>
+    <lemma>v době</lemma>
+    <lemma>během</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tijekom</lemma>
+    <lemma>za</lemma>
+    <lemma>za vrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>за време</lemma>
+    <lemma>во време на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podczas</lemma>
+    <lemma>w czasie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="время">за</lemma>
+    <lemma>в течение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>za</lemma>
+    <lemma>v priebehu</lemma>
+    <lemma>v dobe</lemma>
+    <lemma>počas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>med</lemma>
+    <lemma>za med</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>током</lemma>
+    <lemma>за</lemma>
+    <lemma>за време</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="час">за</lemma>
+    <lemma>в течію</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dum</lemma>
+    <lemma>en tempoj de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>während in Zeiten der</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ten tijde van</lemma>
+  </synset>
+</multilingual-synset>

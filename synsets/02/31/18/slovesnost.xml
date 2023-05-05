@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23118"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23118" steen:pos="f." steen:type="1">slovesnosť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>славеснасць</lemma>
+    <lemma>літаратура</lemma>
+    <lemma>мовазнаўства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>познания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slovesnost</lemma>
+    <lemma>tradice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predaja</lemma>
+    <lemma>predanje</lemma>
+    <lemma>usmena tradicija</lemma>
+    <lemma>usmena predaja</lemma>
+    <lemma>narodna predaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="уметничка литература и усно народно творештво">
+      словесност
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ustna">tradycja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>словесность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slovesnosť</lemma>
+    <lemma>tradícia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tradicija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>словесність</lemma>
+    <lemma>усна традиція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>popolscio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Überlieferung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overlevering</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22038" steen:pos="adv." steen:type="2" steen:same="v z bm">
+      tęžko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сурова</lemma>
+    <lemma annotation="пакараць">сувора</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="наказание">тежко</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>těžce</lemma>
+    <lemma>hrozně</lemma>
+    <lemma>vážně</lemma>
+    <lemma>přísně</lemma>
+    <lemma>závažně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>strogo</lemma>
+    <lemma>teško</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тешко</lemma>
+    <lemma annotation="казна">сериозно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kara">surowo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="наказать">сурово</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ťažko</lemma>
+    <lemma>hrozne</lemma>
+    <lemma>vážne</lemma>
+    <lemma>prísne</lemma>
+    <lemma>závažne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kazen">Stroga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="казна">строга</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="покарати">суворо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="puno">severe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Strafe">stark</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="straf">streng</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36905"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36905"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru uk bm"
+    >
+      prisjedinjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>далучацца</lemma>
+    <lemma>прылучацца</lemma>
+    <lemma>падлучацца</lemma>
+    <lemma>падключацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>присъединявам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připojovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>priključivati se</lemma>
+    <lemma>pridruživati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се присоединува</lemma>
+    <lemma>се приклучува</lemma>
+    <lemma>се придружува</lemma>
+    <lemma>се припојува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dołączać się</lemma>
+    <lemma>przyłączać się</lemma>
+    <lemma>podłączać się</lemma>
+    <lemma>przystąpać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присоединяться</lemma>
+    <lemma>подключаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pripájať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pridruži se</lemma>
+    <lemma>poveži se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прикључивати се</lemma>
+    <lemma>придруживати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приєднуватися</lemma>
+    <lemma>долучатися</lemma>
+    <lemma>прилучатися</lemma>
+    <lemma>підключатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aliĝi</lemma>
+    <lemma>ligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbinden</lemma>
+    <lemma>verbinden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toetreden</lemma>
+    <lemma>zich aansluiten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21312"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21312"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      jednorodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднастайны</lemma>
+    <lemma>гамагенны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хомогенен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>homogenní</lemma>
+    <lemma>stejnorodý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>homogen</lemma>
+    <lemma>istorodan</lemma>
+    <lemma>istovrstan</lemma>
+    <lemma>jednovrstan</lemma>
+    <lemma>podudaran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еднороден</lemma>
+    <lemma>хомоген</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>homogeniczny</lemma>
+    <lemma>jednorodny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>однородный</lemma>
+    <lemma>гомогенный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>homogénny</lemma>
+    <lemma>rovnorodý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jednorodan</lemma>
+    <lemma>homogena</lemma>
+    <lemma>enakomerno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једнородан</lemma>
+    <lemma>истородан</lemma>
+    <lemma>хомоген</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>однорідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>homogenaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>homogene</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>homogeen</lemma>
+  </synset>
+</multilingual-synset>

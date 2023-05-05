@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1978"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1978" steen:pos="n." steen:type="1">sbože</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ураджай</lemma>
+    <lemma>збор</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>реколта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úroda</lemma>
+    <lemma>sklizeň</lemma>
+    <lemma>žeň</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>žetva</lemma>
+    <lemma annotation="koliko je rodilo npr. žita">rod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жетва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żniwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>урожай</lemma>
+    <lemma>сбор</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>úroda</lemma>
+    <lemma>zber</lemma>
+    <lemma>žatva</lemma>
+    <lemma>zbožie</lemma>
+    <lemma>obilie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pridelek</lemma>
+    <lemma annotation="npr, koliko se jih je rodilo. pšenica">rod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жетва</lemma>
+    <lemma annotation="колико је родило нпр. жита">род</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>урожай</lemma>
+    <lemma>жниво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rikolto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ernte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oogst</lemma>
+  </synset>
+</multilingual-synset>

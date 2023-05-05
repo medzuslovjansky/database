@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3830"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3830"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru yu mk"
+    >
+      usposabjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыстасоўваць</lemma>
+    <lemma>прытарноўваць</lemma>
+    <lemma>падрыхтоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>включи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="k něčemu">připravovat</lemma>
+    <lemma>vyškolovat</lemma>
+    <lemma>dělat způsobilým</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osposobljavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оспособува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przysposabiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приспосабливать</lemma>
+    <lemma>подготавливать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="k niečomu">pripraviť</lemma>
+    <lemma>vyškolovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оспособљавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>готувати</lemma>
+    <lemma>пристосовувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvalifiki</lemma>
+    <lemma annotation="por tasko">preparu</lemma>
+    <lemma>taŭgas el</lemma>
+    <lemma>redonu kapabla</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aktivieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorbereiden</lemma>
+    <lemma>geschikt maken</lemma>
+    <lemma>outilleren</lemma>
+    <lemma>uitrusten</lemma>
+  </synset>
+</multilingual-synset>

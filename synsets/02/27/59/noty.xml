@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22759"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22759" steen:pos="f.pl." steen:type="1">noty</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ноты</lemma>
+    <lemma>партытура</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>бележки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>noty</lemma>
+    <lemma>partitura</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>note</lemma>
+    <lemma>partitura</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ноти</lemma>
+    <lemma>нотен запис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="partytura">nuty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ноты</lemma>
+    <lemma>партитура</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>noty</lemma>
+    <lemma>partitúra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="glasba">opomba</lemma>
+    <lemma>ocena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="музика">ноте</lemma>
+    <lemma>партитура</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ноти</lemma>
+    <lemma>партитура</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>partituro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Noten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bladmuziek</lemma>
+  </synset>
+</multilingual-synset>

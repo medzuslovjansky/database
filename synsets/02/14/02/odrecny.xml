@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21402"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21402" steen:pos="adj." steen:type="2" steen:same="ru sh">
+      odrěčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="адказ">адмоўны</lemma>
+    <lemma>негатыўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="отговор и т.н.">отрицателно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamítavý</lemma>
+    <lemma>odmítavý</lemma>
+    <lemma>negativní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>niječan</lemma>
+    <lemma>odričan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одречен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. odpowiedź">negatywny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ответ">отрицательный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamietavý</lemma>
+    <lemma>odmietavý</lemma>
+    <lemma>negatívny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>negativna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одречан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="відповідь">негативна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="respondi ktp">negativa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Antwort etc.">negativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontkennend</lemma>
+  </synset>
+</multilingual-synset>

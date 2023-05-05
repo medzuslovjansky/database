@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22057"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22057"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      točiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тачыць</lemma>
+    <lemma>мянціць</lemma>
+    <lemma>мянташыць</lemma>
+    <lemma annotation="на такарным варштаце">выточваць</lemma>
+    <lemma>вывастрыць</lemma>
+    <lemma>вывострываць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на woodturning станке">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soustružit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tokariti</lemma>
+    <lemma>točiti</lemma>
+    <lemma>strugati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>точи</lemma>
+    <lemma>струга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>toczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>точить</lemma>
+    <lemma annotation="на токарном станке">вытачивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sústružiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hone</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>брусити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>гострити</lemma>
+    <lemma annotation="на токарному верстаті">виточувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sur lathe">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="auf einer Drehbank">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op een draaibank">draaien</lemma>
+  </synset>
+</multilingual-synset>

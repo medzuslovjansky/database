@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36106"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36106" steen:pos="m." steen:type="1" steen:same="v pl cz">
+      smyček
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="муз.">смык</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="за струнни инструменти">лук</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smyčec</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>gudalo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гудало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smyczek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муз.">смычок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>slák</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гудало</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="муз.">смичок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por kordinstrumentoj">pafarko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="für Streichinstrumente">Bogen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strijkstok</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20844"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20844" steen:pos="adj." steen:type="2" steen:same="ru sh">
+      bezopasny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бяспечны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сигурно</lemma>
+    <lemma>безопасно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezpečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>siguran</lemma>
+    <lemma>bezopasan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сигурен</lemma>
+    <lemma>безбеден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpieczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безопасный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezpečný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>varen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безбедан</lemma>
+    <lemma>безопасан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безпечний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekura</lemma>
+    <lemma>sekurigi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sicher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veilig</lemma>
+  </synset>
+</multilingual-synset>

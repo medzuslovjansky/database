@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3290"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3290" steen:pos="m.anim." steen:type="1" steen:same="ru j">
+      gospodin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спадар</lemma>
+    <lemma>пан</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>господин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>господинь</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodin</lemma>
+    <lemma>džentlmen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>господин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dżentelmen</lemma>
+    <lemma>gentleman</lemma>
+    <lemma>lord</lemma>
+    <lemma>pan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>господин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gospod</lemma>
+    <lemma>gospod</lemma>
+    <lemma>gospod</lemma>
+    <lemma>plemič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>господин</lemma>
+    <lemma>џентлмен</lemma>
+    <lemma>господар</lemma>
+    <lemma>племић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пан</lemma>
+    <lemma>господар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sinjoro</lemma>
+    <lemma>sinjoro</lemma>
+    <lemma>sinjoro</lemma>
+    <lemma>majstro</lemma>
+    <lemma>sinjoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Herr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heer</lemma>
+  </synset>
+</multilingual-synset>

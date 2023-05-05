@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34993"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34993"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      zainteresovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зацікавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заинтересувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zainteresovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zainteresirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заинтересира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zainteresować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заинтересовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zainteresovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obresti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заинтересовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зацікавити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>intereso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Interesse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interesseren</lemma>
+  </synset>
+</multilingual-synset>

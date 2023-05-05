@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="921"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="921" steen:pos="f." steen:type="1" steen:genesis="I">
+      poema
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паэма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поема</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>báseň</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pjesma</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="utwór">wiersz</lemma>
+    <lemma>poemat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поэма</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>báseň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pesem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>песма</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вірш</lemma>
+    <lemma>поема</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poemo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gedicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gedicht</lemma>
+  </synset>
+</multilingual-synset>

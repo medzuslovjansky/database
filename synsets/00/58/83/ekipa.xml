@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5883"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5883"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v pl j"
+      steen:genesis="F"
+    >
+      ekipa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>экіпаж</lemma>
+    <lemma>атрад</lemma>
+    <lemma>каманда</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>екип</lemma>
+    <lemma>екипаж</lemma>
+    <lemma>отряд</lemma>
+    <lemma>отбор</lemma>
+    <lemma>взвод</lemma>
+    <lemma>бригада</lemma>
+    <lemma>команда</lemma>
+    <lemma>група</lemma>
+    <lemma>тим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>posádka</lemma>
+    <lemma>tým</lemma>
+    <lemma>ekipa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ekipa</lemma>
+    <lemma>tim</lemma>
+    <lemma>momčad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>екипа</lemma>
+    <lemma>тим</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ekipa</lemma>
+    <lemma>grupa</lemma>
+    <lemma>drużyna</lemma>
+    <lemma>oddział</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экипаж</lemma>
+    <lemma>отряд</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posádka</lemma>
+    <lemma>tím</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ekipa</lemma>
+    <lemma>ekipa</lemma>
+    <lemma>ekipa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>екипа</lemma>
+    <lemma>тим</lemma>
+    <lemma>момчад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>екіпаж</lemma>
+    <lemma>загін</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝipanaro</lemma>
+    <lemma>eskadron</lemma>
+    <lemma>teamo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Crew</lemma>
+    <lemma>Kader</lemma>
+    <lemma>Mannschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>team</lemma>
+    <lemma>ploeg</lemma>
+  </synset>
+</multilingual-synset>

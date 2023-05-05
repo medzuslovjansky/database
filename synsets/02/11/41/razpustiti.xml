@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21141"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21141"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      råzpustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расплавіць</lemma>
+    <lemma>распаліць</lemma>
+    <lemma>распусціць</lemma>
+    <lemma>падпаліць</lemma>
+    <lemma>растапіць</lemma>
+    <lemma>рассыціць</lemma>
+    <lemma>рашчыніць</lemma>
+    <lemma>расчыніць</lemma>
+    <lemma>растварыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разтопете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozpustit</lemma>
+    <lemma>roztát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastopiti</lemma>
+    <lemma>rastvoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доистопи</lemma>
+    <lemma>растопи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. sól, lód">rozpuścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расплавить</lemma>
+    <lemma>растопить</lemma>
+    <lemma>растворить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpustiť</lemma>
+    <lemma>roztopiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>taline</lemma>
+    <lemma>raztopi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растопити</lemma>
+    <lemma>растворити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розплавити</lemma>
+    <lemma>розтопити</lemma>
+    <lemma>розчинити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>degeli</lemma>
+    <lemma>liquify</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schmelze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oplossen</lemma>
+    <lemma>vloeibaar maken</lemma>
+  </synset>
+</multilingual-synset>

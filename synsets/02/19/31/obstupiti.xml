@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21931"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21931"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      obstųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абступіць</lemma>
+    <lemma>абстаць</lemma>
+    <lemma>акружыць</lemma>
+    <lemma>абкружыць</lemma>
+    <lemma>атуліць</lemma>
+    <lemma>атачыць</lemma>
+    <lemma>абсесці</lemma>
+    <lemma>апанаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съраунд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obklopit</lemma>
+    <lemma>obstoupit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okružiti</lemma>
+    <lemma>opkoliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опкружи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obstąpić</lemma>
+    <lemma>otoczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обступить</lemma>
+    <lemma>окружить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obklopiť</lemma>
+    <lemma>obstúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obkrožiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>окружити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обступити</lemma>
+    <lemma>оточити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>surround</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umgeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omgeven</lemma>
+    <lemma>omringen</lemma>
+    <lemma>omsingelen</lemma>
+  </synset>
+</multilingual-synset>

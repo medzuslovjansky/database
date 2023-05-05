@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36792"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru sl bg"
+    >
+      shråniti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захавацца</lemma>
+    <lemma>прахавацца</lemma>
+    <lemma>ухавацца</lemma>
+    <lemma>зберагчыся</lemma>
+    <lemma>ашчадзіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съхраня се</lemma>
+    <lemma>запазя се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zachovat se</lemma>
+    <lemma>uchovat se</lemma>
+    <lemma>udržet se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sačuvati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се зачува</lemma>
+    <lemma>се сочува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dochować się</lemma>
+    <lemma>zachować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сохраниться</lemma>
+    <lemma>сберечься</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zachovať sa</lemma>
+    <lemma>uchovať sa</lemma>
+    <lemma>udržať sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ohraniti se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сачувати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зберегтися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esti konservata</lemma>
+    <lemma>konservata</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erhalten bleiben</lemma>
+    <lemma>erhalten bleiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behouden blijven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22676"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22676"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      obraćati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ператварацца</lemma>
+    <lemma>абарачацца</lemma>
+    <lemma>станавіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в n.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="v něco">obracet se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preobrazivati se</lemma>
+    <lemma>preobražavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се претвора</lemma>
+    <lemma>се престорува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamieniać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превращаться</lemma>
+    <lemma>оборачиваться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="v niečo">obracať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nekaj">pretvarjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="у нешто">претварати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетворюватися</lemma>
+    <lemma>обертатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en sth.">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in etw.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in iets">veranderen</lemma>
+  </synset>
+</multilingual-synset>

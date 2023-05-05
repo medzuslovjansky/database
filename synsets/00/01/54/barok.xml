@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="154"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="154"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="pl sk j"
+      steen:genesis="I"
+    >
+      barok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>барока</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>барок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>baroko</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>barok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>барок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>barok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>барокко</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>baroko</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>barok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>барок</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бароко</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baroka</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Barock</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>barok</lemma>
+  </synset>
+</multilingual-synset>

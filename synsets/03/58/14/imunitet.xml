@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35814"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35814"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      imunitet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>імунітэт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>имунитет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>imunita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>imunitet</lemma>
+    <lemma>imunost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>имунитет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>immunitet</lemma>
+    <lemma>odporność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иммунитет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>imunita</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imuniteta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имунитет</lemma>
+    <lemma>отпорност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>імунітет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imuneco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Immunität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>immuniteit</lemma>
+  </synset>
+</multilingual-synset>

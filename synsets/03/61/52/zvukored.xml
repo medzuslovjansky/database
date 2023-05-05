@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36152"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36152" steen:pos="m." steen:type="2" steen:same="v">
+      zvukoręd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гама</lemma>
+    <lemma annotation="муз.">гукарад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звукоред</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hudba">stupnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="glazba">skala</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="музичка">скала</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="muz.">skala</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гамма</lemma>
+    <lemma annotation="муз.">звукоряд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hudobná stupnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rock glasba)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="музика">скала</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звукоряд</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>muzika skalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Musik">Skala</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toonladder</lemma>
+  </synset>
+</multilingual-synset>

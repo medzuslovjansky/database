@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3871"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3871"
+      steen:addition="(pově)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      pověděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апавесці</lemma>
+    <lemma>расказаць</lemma>
+    <lemma>парасказваць</lemma>
+    <lemma>паведаміць</lemma>
+    <lemma>перадаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се каже</lemma>
+    <lemma>да се каже</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>povědět</lemma>
+    <lemma>říct</lemma>
+    <lemma>říci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispričati</lemma>
+    <lemma>ispripovijedati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раскажа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiedzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассказать</lemma>
+    <lemma>сообщить</lemma>
+    <lemma>поведать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>povedať</lemma>
+    <lemma>povedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>govoriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>причати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розповісти</lemma>
+    <lemma>повідомити</lemma>
+    <lemma>повідати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diru</lemma>
+    <lemma>diru</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeggen</lemma>
+  </synset>
+</multilingual-synset>

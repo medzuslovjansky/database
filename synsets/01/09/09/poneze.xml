@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10909"
+      steen:pos="conj."
+      steen:type="3"
+      steen:same="ru bg cu"
+    >
+      poneže
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>таму што</lemma>
+    <lemma>бо</lemma>
+    <lemma>калі</lemma>
+    <lemma>паколькі</lemma>
+    <lemma>так як</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>понеже</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poněvadž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бидејќи</lemma>
+    <lemma>затоа што</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ponieważ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потому что</lemma>
+    <lemma>поскольку</lemma>
+    <lemma>так как</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>keďže</lemma>
+    <lemma>pretože</lemma>
+    <lemma>lebo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Djerbo</lemma>
+    <lemma>ker</lemma>
+    <lemma>saj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јербо</lemma>
+    <lemma>због тога</lemma>
+    <lemma>зато што</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>адже</lemma>
+    <lemma>тому що</lemma>
+    <lemma>оскільки</lemma>
+    <lemma>в тій мірі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉar ekde kiam ajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weil</lemma>
+    <lemma>insofern</lemma>
+    <lemma>als</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omdat</lemma>
+    <lemma>aangezien</lemma>
+    <lemma>daar</lemma>
+  </synset>
+</multilingual-synset>

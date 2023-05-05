@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32733"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32733" steen:pos="n." steen:type="3" steen:same="sl">
+      stojišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стаянка таксі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>такси</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="taxi">stanoviště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>taksi stajalište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>станица</lemma>
+    <lemma>постојка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>postój taksówek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стоянка такси</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="taxi">stanovište</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>taksi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>такси станица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стоянка таксі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>taksio piedestalon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Taxistand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>taxistandplaats</lemma>
+  </synset>
+</multilingual-synset>

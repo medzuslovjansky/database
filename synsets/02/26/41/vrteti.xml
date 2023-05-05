@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22641"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22641"
+      steen:addition="(vŕti)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      vŕtěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свідраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дупча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrtat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vrtjeti</lemma>
+    <lemma>bušiti</lemma>
+    <lemma>svrdlati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сврдли</lemma>
+    <lemma>дупчи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiercić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сверлить</lemma>
+    <lemma>бурить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vŕtať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasuk</lemma>
+    <lemma>udarec</lemma>
+    <lemma>svrdlati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вртети</lemma>
+    <lemma>бушити</lemma>
+    <lemma>сврдлати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>свердлити</lemma>
+    <lemma>бурити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>borilo</lemma>
+    <lemma>naskis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bohrer</lemma>
+    <lemma>Bohrung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boren</lemma>
+  </synset>
+</multilingual-synset>

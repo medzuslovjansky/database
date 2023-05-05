@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1397"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1397" steen:pos="m." steen:type="1">list</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аркуш</lemma>
+    <lemma>старонка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="страница">лист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="stránka">list</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>list</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="хартија">лист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kartka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="страница">лист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="stránka">list</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>list</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лист</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="сторінка">лист</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>folio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Blatt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="papier">vel</lemma>
+  </synset>
+</multilingual-synset>

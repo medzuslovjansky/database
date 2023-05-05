@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23108"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23108" steen:pos="adv." steen:type="1" steen:genesis="I">
+      konkretno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канкрэтна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ясно</lemma>
+    <lemma>определено</lemma>
+    <lemma>конкретно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konkrétně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konkretno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конкретно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konkretnie</lemma>
+    <lemma>specyficznie</lemma>
+    <lemma>szczególnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конкретно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konkrétne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konkretno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конкретно</lemma>
+    <lemma>одређено</lemma>
+    <lemma>јасно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конкретно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>specife</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>speziell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>concreet</lemma>
+    <lemma>specifiek</lemma>
+  </synset>
+</multilingual-synset>

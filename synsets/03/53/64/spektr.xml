@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35364"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35364"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      spektr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спектр</lemma>
+    <lemma>спектар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спектър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spektrum</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spektar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спектар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spektrum</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спектр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spektrum</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spekter</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спектар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спектр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spektro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Spektrum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spectrum</lemma>
+  </synset>
+</multilingual-synset>

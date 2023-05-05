@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="866"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="866" steen:pos="n." steen:type="2" steen:same="pl">
+      slědstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>следства</lemma>
+    <lemma>расследванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разследване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkoumání</lemma>
+    <lemma>vyšetřování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>praćenje</lemma>
+    <lemma>istraga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истрага</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śledztwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>следствие</lemma>
+    <lemma>расследование</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skúmanie</lemma>
+    <lemma>vyšetrovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preiskava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истрага</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слідство</lemma>
+    <lemma>розслідування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esploro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ermittlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="politie, rechtspraak">onderzoek</lemma>
+  </synset>
+</multilingual-synset>

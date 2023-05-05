@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1586"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1586" steen:pos="m." steen:type="1" steen:genesis="D">
+      štat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="адм.-тэр. адзінка">штат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>държава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stát</lemma>
+    <lemma>země</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>država</lemma>
+    <lemma>savezna država</lemma>
+    <lemma>savezna pokrajina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>држава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. Oklahoma">stan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="адм.-тер. единица">штат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>štát</lemma>
+    <lemma>krajina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>država</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>држава</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="адм.-тер. одиниця">штат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtato</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Land</lemma>
+    <lemma annotation="USA usw.">Staat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in de VS">staat</lemma>
+  </synset>
+</multilingual-synset>

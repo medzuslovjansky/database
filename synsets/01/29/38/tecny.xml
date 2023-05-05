@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12938"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12938" steen:pos="adj." steen:type="1">tečny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уцёклы</lemma>
+    <lemma>беглы</lemma>
+    <lemma>збеглы</lemma>
+    <lemma annotation="аб маўленні">свабодны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свободно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plynule</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tečan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>течен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>płynny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беглый</lemma>
+    <lemma annotation="о речи">свободный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plynule</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tekoče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>течан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>збіглий</lemma>
+    <lemma annotation="про мову">вільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fluaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fließend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vloeibaar</lemma>
+  </synset>
+</multilingual-synset>

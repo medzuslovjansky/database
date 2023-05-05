@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4253"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kaprizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>капрызіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>капризнича</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>domáhat se</lemma>
+    <lemma>vyvádět</lemma>
+    <lemma>zlobit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kapricirati se</lemma>
+    <lemma>inatiti se</lemma>
+    <lemma>tvrdoglaviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>каприцира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kaprysić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>капризничать</lemma>
+    <lemma>вредничать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>domáhať sa</lemma>
+    <lemma>vyvádzať</lemma>
+    <lemma>vystrájať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="SE">kapricirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">каприцирати</lemma>
+    <lemma annotation="се">инатити</lemma>
+    <lemma annotation="се">тврдоглавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>капризувати</lemma>
+    <lemma>вередувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>freneziĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausrasten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich wispelturig gedragen</lemma>
+  </synset>
+</multilingual-synset>

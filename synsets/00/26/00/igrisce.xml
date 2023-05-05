@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2600"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2600" steen:pos="n." steen:type="1">igrišče</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гульнявая пляцоўка</lemma>
+    <lemma>дзіцячая пляцоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>игрална площадка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hřiště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>igralište</lemma>
+    <lemma>teren</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>игралиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>plac zabaw</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>игровая площадка</lemma>
+    <lemma>детская площадка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ihrisko</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>igrišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>игралиште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гральний майданчик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ludejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Spielplatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>speelplaats</lemma>
+    <lemma>speelplek</lemma>
+    <lemma>speeltuin</lemma>
+  </synset>
+</multilingual-synset>

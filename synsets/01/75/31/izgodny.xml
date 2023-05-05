@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17531"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17531"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs bg"
+    >
+      izgodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выгадны</lemma>
+    <lemma>спорны</lemma>
+    <lemma>сходны</lemma>
+    <lemma>прыбытковы</lemma>
+    <lemma>прыдачны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изгоден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výhodný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povoljan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поволен</lemma>
+    <lemma>згоден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korzystny</lemma>
+    <lemma>komfortowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выгодный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>výhodný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ugodna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повољан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вигідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>avantaĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vorteilhaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gunstig</lemma>
+    <lemma>voordelig</lemma>
+  </synset>
+</multilingual-synset>

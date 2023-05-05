@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22846"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22846" steen:pos="n." steen:type="2" steen:same="j">
+      znameńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знак</lemma>
+    <lemma>знацьба</lemma>
+    <lemma>прадвесце</lemma>
+    <lemma>прымета</lemma>
+    <lemma>прыкмета</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поличба</lemma>
+    <lemma>знамение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znamení</lemma>
+    <lemma>předzvěst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znak</lemma>
+    <lemma>predskazanje</lemma>
+    <lemma annotation="npr. budućih zbivanja">znamenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предзнак</lemma>
+    <lemma>знамение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>omen</lemma>
+    <lemma>oznaka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знамение</lemma>
+    <lemma>предзнаменование</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>znamenie</lemma>
+    <lemma>predzvesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Signal</lemma>
+    <lemma>napoved</lemma>
+    <lemma annotation="npr. prihodnjih dogodkov">znak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знак</lemma>
+    <lemma>предсказање</lemma>
+    <lemma annotation="нпр. будућих збивања">знамење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знамення</lemma>
+    <lemma>ознака</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭguro</lemma>
+    <lemma>misterajn signojn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Omen</lemma>
+    <lemma>Omen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorteken</lemma>
+    <lemma>omen</lemma>
+  </synset>
+</multilingual-synset>

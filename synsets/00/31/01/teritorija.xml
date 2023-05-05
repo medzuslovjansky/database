@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3101"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3101" steen:pos="f." steen:type="1" steen:genesis="I">
+      teritorija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэрыторыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>територия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>teritorium</lemma>
+    <lemma>území</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>teritorij</lemma>
+    <lemma>područje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>територија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>terytorium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>территория</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>teritórium</lemma>
+    <lemma>územie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ozemlje</lemma>
+    <lemma>področje</lemma>
+    <lemma>regija</lemma>
+    <lemma>država</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>територија</lemma>
+    <lemma>област</lemma>
+    <lemma>подручје</lemma>
+    <lemma>земља</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>територія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teritorio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gebiet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>territorium</lemma>
+  </synset>
+</multilingual-synset>

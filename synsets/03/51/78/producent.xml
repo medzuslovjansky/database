@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35178"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35178"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub z yu mk"
+      steen:genesis="I"
+    >
+      producent
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вытворца</lemma>
+    <lemma>вырабляльнік</lemma>
+    <lemma>вырабнік</lemma>
+    <lemma>вытворнік</lemma>
+    <lemma>прадусар</lemma>
+    <lemma>прадзюсар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>продуцент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>producent</lemma>
+    <lemma>výrobce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>producent</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>продуцент</lemma>
+    <lemma>производител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>producent</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>производитель</lemma>
+    <lemma>продюсер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>producent</lemma>
+    <lemma>výrobca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizvajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>продуцент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виробник</lemma>
+    <lemma>продюсер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>produktanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hersteller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>producent</lemma>
+    <lemma>fabrikant</lemma>
+  </synset>
+</multilingual-synset>

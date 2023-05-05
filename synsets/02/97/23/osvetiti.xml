@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29723"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29723" steen:pos="v.tr. pf." steen:type="1">
+      osvętiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасвянціць</lemma>
+    <lemma>высвянціць</lemma>
+    <lemma>асвяціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>святить</lemma>
+    <lemma>святить</lemma>
+    <lemma>освети</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="vodou">posvětit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posvetiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освети</lemma>
+    <lemma>крсти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. wodą">poświęcić</lemma>
+    <lemma>uświęcić</lemma>
+    <lemma>konsekrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>освятить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posvätiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>maščevanje</lemma>
+    <lemma>plačan (cerkev).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>осветити</lemma>
+    <lemma annotation="цркв.">посветити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>освятити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dedicxu</lemma>
+    <lemma>sanktigu</lemma>
+    <lemma>konsekri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weihen</lemma>
+    <lemma>hallow</lemma>
+    <lemma>weihe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wijden</lemma>
+    <lemma>heiligen</lemma>
+  </synset>
+</multilingual-synset>

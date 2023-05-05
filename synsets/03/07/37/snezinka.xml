@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30737"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30737"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl sl bg"
+    >
+      sněžinka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сняжынка</lemma>
+    <lemma>снегавінка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>снежинка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sněhová vločka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pahulja</lemma>
+    <lemma>pahuljica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снегулка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śnieżynka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снежинка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>snehová vločka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>snežinka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пахуљица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сніжинка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neĝero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schneeflocke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sneeuwvlok</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36180"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36180"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cs yu"
+    >
+      prěnapinati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перанапружваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пренапрежение</lemma>
+    <lemma>преумора</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přepínat</lemma>
+    <lemma>přetěžovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preopterećivati</lemma>
+    <lemma>prenaprezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пренапрегнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeciążać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перенапрягать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prepínať</lemma>
+    <lemma>preťažovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prenaporno delo</lemma>
+    <lemma>izmarati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>премарати</lemma>
+    <lemma>измарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перенапружувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>overstrain</lemma>
+    <lemma>overstress</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überfordern</lemma>
+    <lemma>Überdehnungs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overbelasten</lemma>
+  </synset>
+</multilingual-synset>

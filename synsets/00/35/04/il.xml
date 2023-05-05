@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3504"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3504" steen:pos="m.sg." steen:type="1" steen:same="v z j">
+      il
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глей</lemma>
+    <lemma>мул</lemma>
+    <lemma>гліна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>глина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jíl</lemma>
+    <lemma>hlína</lemma>
+    <lemma>bláto</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ilovača</lemma>
+    <lemma>ilova</lemma>
+    <lemma>glina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ил</lemma>
+    <lemma>глина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>glina</lemma>
+    <lemma>ił</lemma>
+    <lemma>muł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ил</lemma>
+    <lemma>глина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>íl</lemma>
+    <lemma>hlina</lemma>
+    <lemma>blato</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>glina</lemma>
+    <lemma>ilovica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>глина</lemma>
+    <lemma>иловача</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>намул</lemma>
+    <lemma>мул</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>argilo</lemma>
+    <lemma>silto</lemma>
+    <lemma>grundo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ton</lemma>
+    <lemma>Schluff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klei</lemma>
+    <lemma>leem</lemma>
+  </synset>
+</multilingual-synset>

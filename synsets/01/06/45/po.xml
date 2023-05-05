@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10645"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10645"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>у</lemma>
+    <lemma>ва</lemma>
+    <lemma>ува</lemma>
+    <lemma annotation="напр.: у другі раз, на трэці раз">на</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="Х пъти">за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. po druhé">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>po</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пр: По десети пат">по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. po raz drugi">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>в</lemma>
+    <lemma>во</lemma>
+    <lemma annotation="напр.: во второй раз, на третий раз">на</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="napr. po druhej">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="... že neštetokrat ...">s</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="... ко зна који пут...">по</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>у</lemma>
+    <lemma>в</lemma>
+    <lemma annotation="напр.: в другий раз, на третій раз">на</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="la Xth tempo">por</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="die X-te Zeit">für</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="de Xde keer">voor</lemma>
+  </synset>
+</multilingual-synset>

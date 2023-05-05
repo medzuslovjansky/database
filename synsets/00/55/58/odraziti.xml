@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5558"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5558"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      odraziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбіць</lemma>
+    <lemma>адлюстраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отразява</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něco">odrazit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odraziti</lemma>
+    <lemma>reflektirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одрази</lemma>
+    <lemma>рефлектира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. w wodzie">odbić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отразить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niečo">odraziť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odražajo</lemma>
+    <lemma>barve</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одразити</lemma>
+    <lemma>осликати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відбити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pripensi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reflektieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerspiegelen</lemma>
+    <lemma>weerkaatsen</lemma>
+    <lemma>reflecteren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22494"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      ovladnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>авалодаць</lemma>
+    <lemma>апантаць</lemma>
+    <lemma>апанаваць</lemma>
+    <lemma>асвоіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>капитанът на сила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvládnout</lemma>
+    <lemma annotation="znalosti">získat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ovladati</lemma>
+    <lemma>savladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овладее</lemma>
+    <lemma>завладее</lemma>
+    <lemma>загосподари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opanować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>овладеть</lemma>
+    <lemma>освоить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvládnuť</lemma>
+    <lemma annotation="znalosti">získať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>master</lemma>
+    <lemma>premagovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>овладати</lemma>
+    <lemma>савладати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оволодіти</lemma>
+    <lemma>опанувати</lemma>
+    <lemma>засвоїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mastro</lemma>
+    <lemma>gajno uzkapablo en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Meister</lemma>
+    <lemma>gewinnen Beherrschung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beheersen</lemma>
+    <lemma>zich meester maken van</lemma>
+    <lemma>de macht verwerven over</lemma>
+  </synset>
+</multilingual-synset>

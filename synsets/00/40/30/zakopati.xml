@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4030"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4030"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zakopati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закапаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>закопая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zakopat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zakopati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>закопа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakopać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>закопать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zakopať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zakopati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>закопати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закопати</lemma>
+    <lemma>поховати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>entombigi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>begraben</lemma>
+    <lemma>vergraben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begraven</lemma>
+  </synset>
+</multilingual-synset>

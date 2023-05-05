@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15220"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15220" steen:pos="m." steen:type="2">znak</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знак</lemma>
+    <lemma>прыкмета</lemma>
+    <lemma>прымета</lemma>
+    <lemma>азнака</lemma>
+    <lemma>прадвесце</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>знак</lemma>
+    <lemma>предзнаменувание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znak</lemma>
+    <lemma>předzvěst</lemma>
+    <lemma>znamení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znak</lemma>
+    <lemma>predskazanje</lemma>
+    <lemma annotation="npr. budućih zbivanja">znamenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>знак</lemma>
+    <lemma>предзнак</lemma>
+    <lemma>симптом</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>omen</lemma>
+    <lemma>oznaka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знак</lemma>
+    <lemma>примета</lemma>
+    <lemma>предзнаменование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znamenie</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Signal</lemma>
+    <lemma>napoved</lemma>
+    <lemma annotation="npr. prihodnjih dogodkov">znak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знак</lemma>
+    <lemma>предсказање</lemma>
+    <lemma annotation="нпр. будућих збивања">знамење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>знак</lemma>
+    <lemma>прикмета</lemma>
+    <lemma>ознака</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Aŭguro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Omen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorteken</lemma>
+    <lemma>omen</lemma>
+  </synset>
+</multilingual-synset>

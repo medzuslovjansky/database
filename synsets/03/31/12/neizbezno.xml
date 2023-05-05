@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33112" steen:pos="adv." steen:type="1" steen:same="v j">
+      neizběžno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>немінуча</lemma>
+    <lemma>непазбежна</lemma>
+    <lemma>няўхільна</lemma>
+    <lemma>неадхільна</lemma>
+    <lemma>неўнікнёна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неизбежно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nevyhnutelně</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neizbježno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неизбежно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieuchronnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неизбежно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nevyhnutne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neizogibna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неизбежно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неминуче</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neeviteble</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zwangsläufig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvermijdelijk</lemma>
+    <lemma>onontkoombaar</lemma>
+  </synset>
+</multilingual-synset>

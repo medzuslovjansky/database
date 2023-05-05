@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3083"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3083"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      god
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>год</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>година</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rok</lemma>
+    <lemma>leto</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>godina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>година</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>год</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rok</lemma>
+    <lemma>leto</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>leto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>година</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рік</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>jaro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Jahr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jaar</lemma>
+  </synset>
+</multilingual-synset>

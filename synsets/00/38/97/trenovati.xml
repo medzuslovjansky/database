@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3897"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3897"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="E"
+    >
+      trenovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трэнераваць</lemma>
+    <lemma>трэнаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тренирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trénovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trenirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тренира</lemma>
+    <lemma>обучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trenować</lemma>
+    <lemma>szkolić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тренировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trénovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тренирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тренувати</lemma>
+    <lemma>вправляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trajno</lemma>
+    <lemma>trejnisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zug</lemma>
+    <lemma>Bus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>trainen</lemma>
+    <lemma>coachen</lemma>
+  </synset>
+</multilingual-synset>

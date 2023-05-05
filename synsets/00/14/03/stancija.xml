@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1403"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1403" steen:pos="f." steen:type="1" steen:genesis="I">
+      stancija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>станцыя</lemma>
+    <lemma>вакзал</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>влак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stanice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stanica</lemma>
+    <lemma>postaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>станица</lemma>
+    <lemma>постојка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stacja</lemma>
+    <lemma>dworzec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>станция</lemma>
+    <lemma>вокзал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stanica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>postaja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>станица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>станція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stacio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bahnhof</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>station</lemma>
+  </synset>
+</multilingual-synset>

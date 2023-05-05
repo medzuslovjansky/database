@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22052"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22052" steen:pos="m." steen:type="2" steen:same="ru pl cz">
+      iztęg
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпіска</lemma>
+    <lemma>вытрымка</lemma>
+    <lemma>урывак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извадка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>extrakt</lemma>
+    <lemma>výňatek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvod</lemma>
+    <lemma>izvadak</lemma>
+    <lemma>odlomak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извадок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyciąg</lemma>
+    <lemma>ekstrakt</lemma>
+    <lemma>urywek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выписка</lemma>
+    <lemma>выдержка</lemma>
+    <lemma>отрывок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>extrakt</lemma>
+    <lemma>výňatok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kopija</lemma>
+    <lemma>izvleček</lemma>
+    <lemma>povzetek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извод</lemma>
+    <lemma>извадак</lemma>
+    <lemma>резиме</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>витяг</lemma>
+    <lemma>виписка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekstrakto</lemma>
+    <lemma>eltiraĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Extrakt</lemma>
+    <lemma>Auszug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uittreksel</lemma>
+    <lemma>extract</lemma>
+  </synset>
+</multilingual-synset>

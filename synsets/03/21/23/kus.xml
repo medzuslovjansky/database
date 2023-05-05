@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32123" steen:pos="m." steen:type="1">kus</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кароткі хвост</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>къса опашка</lemma>
+    <lemma>напр. на заек</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ocásek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="lov.">zečji rep</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>omyk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>короткий хвост</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chvostík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zajec rep (lov).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="лов.">зечји реп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>куций хвіст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>scut</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stummelschwanz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>staartstompje</lemma>
+    <lemma>konijnenpluim</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28466"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28466"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru~ z bg~"
+    >
+      neporędny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязладны</lemma>
+    <lemma>хаатычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неуреден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepořádný</lemma>
+    <lemma>neuspořádaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neuredan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неуреден</lemma>
+    <lemma>несреден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezładny</lemma>
+    <lemma>nieporządny</lemma>
+    <lemma>nieposprzątany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беспорядочный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neporiadny</lemma>
+    <lemma>neusporiadaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neurejen</lemma>
+    <lemma>neurejen</lemma>
+    <lemma>kaotično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неуредан</lemma>
+    <lemma>несређен</lemma>
+    <lemma>хаотичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безладний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senorda</lemma>
+    <lemma>malnetan</lemma>
+    <lemma>senorda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unordentlich</lemma>
+    <lemma>unsauber</lemma>
+    <lemma>unordentlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rommelig</lemma>
+    <lemma>wanordelijk</lemma>
+  </synset>
+</multilingual-synset>

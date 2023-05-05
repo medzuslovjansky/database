@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20894"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20894" steen:pos="m." steen:type="1">napad</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыступ</lemma>
+    <lemma>прыпадак</lemma>
+    <lemma>напасці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>припадък</lemma>
+    <lemma annotation="на болест">атака</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záchvat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>napad</lemma>
+    <lemma>udar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напад</lemma>
+    <lemma annotation="срцев на пр.">удар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>atak</lemma>
+    <lemma>zawał</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приступ</lemma>
+    <lemma>припадок</lemma>
+    <lemma>напасть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>záchvat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napad</lemma>
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напад</lemma>
+    <lemma>удар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напад</lemma>
+    <lemma>приступ</lemma>
+    <lemma>припадок</lemma>
+    <lemma>пароксизм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>taŭgas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>passen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanval</lemma>
+  </synset>
+</multilingual-synset>

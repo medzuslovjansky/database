@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="427"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="427" steen:pos="f." steen:type="1">žlěza</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жалеза</lemma>
+    <lemma>жалеззе</lemma>
+    <lemma annotation="анат.">залоза</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жлеза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žláza</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žlijezda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жлезда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gruczoł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>железа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žľaza</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žleza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жлезда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>залоза</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>glando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drüse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="anat.">klier</lemma>
+  </synset>
+</multilingual-synset>

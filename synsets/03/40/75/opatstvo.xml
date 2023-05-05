@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34075"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34075" steen:pos="n." steen:type="1" steen:same="v z j">
+      opatstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абацтва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Аби</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opatství</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opatija</lemma>
+    <lemma>abacija</lemma>
+    <lemma>badija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опатија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opactwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аббатство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opátstva</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Samostan</lemma>
+    <lemma>samostan</lemma>
+    <lemma>samostan (katoliška).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опатија</lemma>
+    <lemma>самостан</lemma>
+    <lemma annotation="катол.">манастир</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>абатство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>abatejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abtei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>abdij</lemma>
+  </synset>
+</multilingual-synset>

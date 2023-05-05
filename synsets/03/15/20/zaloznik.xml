@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31520"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31520"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru uk bm pl~ be~"
+    >
+      založnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закладнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заложник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rukojmí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>talac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заложник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakładnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заложник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rukojemník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>založnik</lemma>
+    <lemma>talec</lemma>
+    <lemma>ujetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заложник</lemma>
+    <lemma>талац</lemma>
+    <lemma>заточеник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заручник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ostaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geisel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gijzelaar</lemma>
+  </synset>
+</multilingual-synset>

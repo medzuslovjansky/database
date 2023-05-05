@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35795"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35795"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      diagram
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыяграма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>диаграма</lemma>
+    <lemma>схема</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>diagram</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dijagram</lemma>
+    <lemma>grafikon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дијаграм</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>diagram</lemma>
+    <lemma>wykres</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>диаграмма</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diagram</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>diagram</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дијаграм</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>діаграма</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diagramo</lemma>
+    <lemma>diagramo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Diagramm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diagram</lemma>
+    <lemma>grafiek</lemma>
+  </synset>
+</multilingual-synset>

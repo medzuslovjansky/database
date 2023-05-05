@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21894"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21894"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      stradati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакутаваць</lemma>
+    <lemma>пакутваць</lemma>
+    <lemma>цярпець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>страдат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>strádat</lemma>
+    <lemma>trpět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>patiti</lemma>
+    <lemma annotation="bol">trpjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>страда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cierpieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>страдать</lemma>
+    <lemma>терпеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trpieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trpi</lemma>
+    <lemma annotation="bolečina">trpijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>патити</lemma>
+    <lemma annotation="бол">трпети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>страждати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suferi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>leiden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lijden</lemma>
+  </synset>
+</multilingual-synset>

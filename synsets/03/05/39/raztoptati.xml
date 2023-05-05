@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30539"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30539"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z yu mk"
+    >
+      råztȯptati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>растаптаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стъпчат</lemma>
+    <lemma annotation="крака">преса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozdupat</lemma>
+    <lemma>rozšlapat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razgaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>растапка</lemma>
+    <lemma>натапка</lemma>
+    <lemma>разгази</lemma>
+    <lemma>разгмечи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozdeptać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>растоптать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozdupať</lemma>
+    <lemma>rozšliapať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Gazit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разгазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розтоптати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premu</lemma>
+    <lemma annotation="subpiede">enamiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trampeln</lemma>
+    <lemma annotation="unter den Füßen">zerquetschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrappen</lemma>
+    <lemma>vertrappelen</lemma>
+  </synset>
+</multilingual-synset>

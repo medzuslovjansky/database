@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23315"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23315" steen:pos="v.tr. ipf." steen:type="1">
+      iznajmati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арандаваць</lemma>
+    <lemma>здаваць у арэнду</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отдавам под наем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někomu">pronajímat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznajmljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изнајмува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynajmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>арендовать</lemma>
+    <lemma>сдавать в аренду</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niekomu">prenajímať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakup</lemma>
+    <lemma>najem</lemma>
+    <lemma>zakup</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изнајмљивати</lemma>
+    <lemma>издавати</lemma>
+    <lemma>давати у најам</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>винаймати</lemma>
+    <lemma>орендувати</lemma>
+    <lemma annotation="квартиру, приміщення">знімати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lui ekstere</lemma>
+    <lemma annotation="al SBD.">lasu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mieten</lemma>
+    <lemma>vermieten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhuren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6195"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6195" steen:pos="m." steen:type="1">sųdny pozȯv</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="судовы">працэс</lemma>
+    <lemma>цяжба</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>иск</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žaloba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sudski poziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>судски позив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozew sądowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="судебный">процесс</lemma>
+    <lemma>тяжба</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žaloba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sodni nalog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>судски позив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="судовий">процес</lemma>
+    <lemma>тяжба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>proceso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dagvaarding</lemma>
+  </synset>
+</multilingual-synset>

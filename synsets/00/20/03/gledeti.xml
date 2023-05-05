@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2003"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2003"
+      steen:addition="(ględi)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      ględěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глядзець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гледам нщ.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hledět</lemma>
+    <lemma>dívat se na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гледа</lemma>
+    <lemma>види</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>patrzeć</lemma>
+    <lemma>zerkać</lemma>
+    <lemma>przyglądać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смотреть</lemma>
+    <lemma>глядеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hľadieť</lemma>
+    <lemma>pozerať sa na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ura</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дивитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Rigardu</lemma>
+    <lemma>rigardu</lemma>
+    <lemma>rigardu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schauen</lemma>
+    <lemma>beobachten</lemma>
+    <lemma>schauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kijken</lemma>
+  </synset>
+</multilingual-synset>

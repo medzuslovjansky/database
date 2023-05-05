@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32170"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32170" steen:pos="f." steen:type="1">lihva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліхвярства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лихварство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lichva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lihvarstvo</lemma>
+    <lemma>zelenaštvo</lemma>
+    <lemma>zelenašenje</lemma>
+    <lemma>kamatarenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лихва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lichwa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ростовщичество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úžera</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zeleštvo</lemma>
+    <lemma>oderuštvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зеленаштво</lemma>
+    <lemma>лихварство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лихварство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uzuro</lemma>
+    <lemma>moneylending</lemma>
+    <lemma>gombeen</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wucher</lemma>
+    <lemma>Geldverleih</lemma>
+    <lemma>gombeen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geld lenen tegen woekerrente">woeker</lemma>
+  </synset>
+</multilingual-synset>

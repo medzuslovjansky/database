@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16754"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16754"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru uk sh bm"
+    >
+      bukvaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>літаральны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буквален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doslovný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doslovan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>буквален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dosłowny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буквальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>doslovný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dobeseden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>буквалан</lemma>
+    <lemma>дослован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буквальний</lemma>
+    <lemma>дослівний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laŭvortan</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wortwörtlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>letterlijk</lemma>
+  </synset>
+</multilingual-synset>

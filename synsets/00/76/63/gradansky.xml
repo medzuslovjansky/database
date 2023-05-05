@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7663"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7663"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđansky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грамадзянскі</lemma>
+    <lemma>цывільны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>граждански</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>občanský</lemma>
+    <lemma>civilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>građanski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>граѓански</lemma>
+    <lemma>цивилен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cywilny</lemma>
+    <lemma>obywatelski</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гражданский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>občiansky</lemma>
+    <lemma>civilný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>državljanski</lemma>
+    <lemma>civilen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грађански</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>громадянський</lemma>
+    <lemma>цивільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>civila</lemma>
+    <lemma>civilaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zivil-</lemma>
+    <lemma>zivile</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>civiel</lemma>
+  </synset>
+</multilingual-synset>

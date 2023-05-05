@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34175"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34175"
+      steen:pos="f."
+      steen:type="3"
+      steen:same="cs sl rue"
+    >
+      sponka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сашчэпка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кламери</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sponka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spajalica</lemma>
+    <lemma>klamerica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спојница</lemma>
+    <lemma>спојувалка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spinacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скрепка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sponka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sponka za papir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спајалица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скріпка</lemma>
+    <lemma>шпонка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paperklipo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Büroklammer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>paperclip</lemma>
+  </synset>
+</multilingual-synset>

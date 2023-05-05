@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13678"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13678"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      vlastnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уласнік</lemma>
+    <lemma>уладальнік</lemma>
+    <lemma>гаспадар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>собственик</lemma>
+    <lemma>притежател</lemma>
+    <lemma>владелец</lemma>
+    <lemma>хазаин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlastník</lemma>
+    <lemma>majitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vlasnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сопственик</lemma>
+    <lemma>стопан</lemma>
+    <lemma>газда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>właściciel</lemma>
+    <lemma>posiadacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>владелец</lemma>
+    <lemma>собственник</lemma>
+    <lemma>хозяин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlastník</lemma>
+    <lemma>majiteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Lastnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>власник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>власник</lemma>
+    <lemma>власник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mastro</lemma>
+    <lemma>la Kreinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eigentümer</lemma>
+    <lemma>Besitzer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigenaar</lemma>
+  </synset>
+</multilingual-synset>

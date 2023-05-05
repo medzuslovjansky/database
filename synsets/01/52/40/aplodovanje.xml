@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15240" steen:pos="n.sg." steen:type="5" steen:genesis="E">
+      aplodovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загрузка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на данни">качване</lemma>
+    <lemma>ъплоудване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nahrávání</lemma>
+    <lemma>natažení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>učitavanje</lemma>
+    <lemma>uploadanje</lemma>
+    <lemma>postavljanje na poslužitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>закачување</lemma>
+    <lemma>прикачување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komp.">pobieranie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>загрузка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="súboru PC">nahrávanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prenos</lemma>
+    <lemma>nalaganje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="у теретно возило">утовар</lemma>
+    <lemma>учитавање</lemma>
+    <lemma annotation="рачунарство">аплоуд</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>завантаження</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ŝargado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hochladen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uploaden</lemma>
+  </synset>
+</multilingual-synset>

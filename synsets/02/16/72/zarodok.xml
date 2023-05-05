@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21672"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21672"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      zarodȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узбуджальнік</lemma>
+    <lemma>патаген</lemma>
+    <lemma>мікроб</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>микроб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="choroboplodný">zárodek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klica</lemma>
+    <lemma>bakterija</lemma>
+    <lemma>mikrob</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>микроб</lemma>
+    <lemma>патоген</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zalążek</lemma>
+  </synset>
+  <synset lang="ru" verified="false">
+    <lemma>возбудитель</lemma>
+    <lemma>патоген</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="choroboplodný">zárodok</lemma>
+    <lemma>patogén</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kalčkov</lemma>
+    <lemma>zarodek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клица</lemma>
+    <lemma>заметак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>збудник</lemma>
+    <lemma>патоген</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>germ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Keim</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kiem</lemma>
+  </synset>
+</multilingual-synset>

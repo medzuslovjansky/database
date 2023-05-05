@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="885"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="885" steen:pos="n." steen:type="1">měrjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вымярэнне</lemma>
+    <lemma>замер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>измерване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>měření</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjerenje</lemma>
+    <lemma>izmjera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мерење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomiar</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>измерение</lemma>
+    <lemma>замер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>meranie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>meritev</lemma>
+    <lemma>izmeravanje</lemma>
+    <lemma>pri čemer ukrepi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мерење</lemma>
+    <lemma>измеравање</lemma>
+    <lemma>узимање мере</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вимірювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mezurado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Messung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>meting</lemma>
+  </synset>
+</multilingual-synset>

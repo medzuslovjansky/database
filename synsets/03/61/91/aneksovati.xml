@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36191"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      aneksovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>анэксаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анексирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>anektovat</lemma>
+    <lemma>zabrat</lemma>
+    <lemma>připojit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>anektirati</lemma>
+    <lemma annotation="pf.">pripajati (ipf.)/pripojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анектира</lemma>
+    <lemma>припојува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aneksować</lemma>
+    <lemma>anektować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аннексировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>anektovať</lemma>
+    <lemma>zabrať</lemma>
+    <lemma>pripojiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>anektirati</lemma>
+    <lemma>priključiti si</lemma>
+    <lemma>prilastiti si</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>анектирати</lemma>
+    <lemma>анексирати</lemma>
+    <lemma>анектовати</lemma>
+    <lemma>извршити анексију</lemma>
+    <lemma annotation="несвр.">припајати</lemma>
+    <lemma annotation="свр.">припојити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анексувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>aneksi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>annektieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>annexeren</lemma>
+  </synset>
+</multilingual-synset>

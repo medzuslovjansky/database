@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28285"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28285"
+      steen:addition="(natre)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      natreti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нацерці</lemma>
+    <lemma>панаціраць</lemma>
+    <lemma>намуляць</lemma>
+    <lemma>панамуляць</lemma>
+    <lemma>надраць</lemma>
+    <lemma annotation="на тарцы">надзерці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>натрия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natřít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>natrti</lemma>
+    <lemma>natrljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>втрива</lemma>
+    <lemma>натрива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>natrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>натереть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>natrieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razpokan</lemma>
+    <lemma>zbadanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>натрти</lemma>
+    <lemma>натрљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>натерти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frotu en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inwrijven</lemma>
+  </synset>
+</multilingual-synset>

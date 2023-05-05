@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27215"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27215"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs yu mk"
+    >
+      lisička
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грыб">лісічка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вид гъба">пачи крак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="houba">liška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lisičarka</lemma>
+    <lemma>lisičica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="печурка">лисичарка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kurka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="гриб">лисичка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="huba">kuriatko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="gobe">Lisičke</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="гљива">лисичарка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лисичка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Chanterelle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pfifferling</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cantharel</lemma>
+  </synset>
+</multilingual-synset>

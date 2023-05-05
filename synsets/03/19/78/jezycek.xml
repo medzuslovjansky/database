@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31978"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31978"
+      steen:addition="(języčka)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl sl bg"
+    >
+      języček
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>язычок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мъжец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvula</lemma>
+    <lemma annotation="anatom.">čípek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>resica</lemma>
+    <lemma>uvula</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увула</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>języczek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="биол.">язычок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uvula</lemma>
+    <lemma annotation="anatóm.">čapík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezik</lemma>
+    <lemma>uvula</lemma>
+    <lemma>uvula</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>језичак</lemma>
+    <lemma>ресица</lemma>
+    <lemma>увула</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>язичок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uvulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Uvula</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huig</lemma>
+  </synset>
+</multilingual-synset>

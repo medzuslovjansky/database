@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22206"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22206" steen:pos="m." steen:type="2" steen:same="ru cz">
+      svęzȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="папераў">пачак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="документи">сноп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="papír">svazek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svežanj</lemma>
+    <lemma>snop</lemma>
+    <lemma>bala</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="документи">врзоп</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. kwiatów">wiązka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="бумаг">пачка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="papier">zväzok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>snop</lemma>
+    <lemma>sveženj</lemma>
+    <lemma>snop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свежањ</lemma>
+    <lemma>завежљај</lemma>
+    <lemma>сноп</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="паперів">пачка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="paperoj">garbo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Papiere">Garbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bundel</lemma>
+  </synset>
+</multilingual-synset>

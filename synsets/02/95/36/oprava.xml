@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29536"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29536" steen:pos="f." steen:type="2" steen:same="v pl">
+      oprava
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аправа</lemma>
+    <lemma>абклад</lemma>
+    <lemma>рамка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рамка</lemma>
+    <lemma>рамка</lemma>
+    <lemma annotation="очила">рамки за очила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rám</lemma>
+    <lemma>rámec</lemma>
+    <lemma>rámeček brýlí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okvir</lemma>
+    <lemma>ram</lemma>
+    <lemma>rama</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="очила">рамка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rama</lemma>
+    <lemma annotation="obrazu, okularów">oprawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оправа</lemma>
+    <lemma>рамка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rám</lemma>
+    <lemma>rámec</lemma>
+    <lemma>rámček okuliarov</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okvirja</lemma>
+    <lemma>okvir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оквир</lemma>
+    <lemma>рам</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оправа</lemma>
+    <lemma>рамка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kadro</lemma>
+    <lemma>kadro</lemma>
+    <lemma annotation="glasoj">listelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rahmen</lemma>
+    <lemma>Rahmen</lemma>
+    <lemma annotation="Gläser">Rand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>frame</lemma>
+    <lemma>omlijsting</lemma>
+    <lemma>montuur</lemma>
+  </synset>
+</multilingual-synset>

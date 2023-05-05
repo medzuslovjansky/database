@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3729"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3729"
+      steen:addition="(obględi)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      obględěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агледзіць</lemma>
+    <lemma>абгледжваць</lemma>
+    <lemma>абглядаць</lemma>
+    <lemma>абгледзець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>огледайте се наоколо</lemma>
+    <lemma>вижте</lemma>
+    <lemma>погледнете от всички страни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obhlédnout</lemma>
+    <lemma>prozkoumat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razgledavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>загледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="dokoła">obejrzeć</lemma>
+    <lemma annotation="dokoła">oglądnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оглядеть</lemma>
+    <lemma>осмотреть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obhliadnuť</lemma>
+    <lemma>preskúmať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogled</lemma>
+    <lemma>obisk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прегледати</lemma>
+    <lemma>разгледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оглянути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉirkaŭrigardi</lemma>
+    <lemma>kontrolu</lemma>
+    <lemma>rigardi el ĉiuj flankoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schauen Sie sich um Besuche</lemma>
+    <lemma>beobachten von allen Seiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bekijken</lemma>
+  </synset>
+</multilingual-synset>

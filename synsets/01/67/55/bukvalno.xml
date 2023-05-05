@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16755"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16755"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="ru uk sh bm"
+    >
+      bukvaľno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>літаральна</lemma>
+    <lemma>у прамым сэнсе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буквално</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doslova</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doslovno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>буквално</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dosłownie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буквально</lemma>
+    <lemma>в прямом смысле</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>doslova</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dobesedno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>буквално</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буквально</lemma>
+    <lemma>дослівно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laŭvorte</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>buchstäblich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>letterlijk</lemma>
+  </synset>
+</multilingual-synset>

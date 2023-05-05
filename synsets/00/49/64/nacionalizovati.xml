@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4964"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4964"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      nacionalizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нацыяналізаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>да национализирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znárodňovat</lemma>
+    <lemma>zestátňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nacionalizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>национализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nacjonalizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>национализировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znárodňovať</lemma>
+    <lemma>zoštátňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nacionalizirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>национализирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>націоналізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtatigi</lemma>
+    <lemma>ŝtatigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstaatlichen</lemma>
+    <lemma>verstaatlichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nationaliseren</lemma>
+  </synset>
+</multilingual-synset>

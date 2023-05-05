@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30380"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30380"
+      steen:addition="(råzpne)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="z sl"
+    >
+      råzpęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расцягнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>педя</lemma>
+    <lemma>участък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozepnout</lemma>
+    <lemma>roztáhnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razapeti</lemma>
+    <lemma>rastegnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разопне</lemma>
+    <lemma>распне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozciągnąć</lemma>
+    <lemma annotation="np. mięśnie">przeciągnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>растянуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozopnúť</lemma>
+    <lemma>roztiahnuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namaz</lemma>
+    <lemma>odsek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разапети</lemma>
+    <lemma>растегнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розтягнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>manlargxo streĉado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spanne</lemma>
+    <lemma>Stretch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstrekken</lemma>
+    <lemma>spannen</lemma>
+  </synset>
+</multilingual-synset>

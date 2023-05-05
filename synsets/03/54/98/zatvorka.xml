@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35498"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35498" steen:pos="f." steen:type="3" steen:same="cz~ sk">
+      zatvorka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="знак прыпынку">дужка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скоба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závorka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zagrada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="интерпукциски знак">заграда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawias</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="знак препинания">скобка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zátvorka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oklepaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заграда</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="розділовий знак">дужка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krampo</lemma>
+    <lemma>parentezo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klammer</lemma>
+    <lemma>Klammer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>haakje</lemma>
+  </synset>
+</multilingual-synset>

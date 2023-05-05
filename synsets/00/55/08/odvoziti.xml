@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5508"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5508" steen:pos="v.tr. ipf." steen:type="1">
+      odvoziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адвозіць</lemma>
+    <lemma>адвазіць</lemma>
+    <lemma>завозіць</lemma>
+    <lemma>выводзіць</lemma>
+    <lemma>вывезці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>- донеси</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvážet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvoziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвезува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwozić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отвозить</lemma>
+    <lemma>увозить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvážať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevaža</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвозити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відвозити</lemma>
+    <lemma>вивозити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venigu for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Weg bringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="per vervoermiddel">wegbrengen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1810"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1810" steen:pos="v.aux. ipf." steen:type="1">
+      stavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ставаць</lemma>
+    <lemma>рабіцца</lemma>
+    <lemma>станавіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něčím">stávat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>станува</lemma>
+    <lemma>постанува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="się">stawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ставать</lemma>
+    <lemma>становиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="niečím">stávať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>postati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>постајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ставати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>iĝi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>werden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>worden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36263"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36263"
+      steen:addition="(obmaže)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cs j"
+    >
+      obmazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запэцкаць</lemma>
+    <lemma>забрудзіць</lemma>
+    <lemma>замазаць</lemma>
+    <lemma>вымазаць</lemma>
+    <lemma>спэцкваць</lemma>
+    <lemma>папэцкваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>петно мръсно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamazat</lemma>
+    <lemma>poskvrnit</lemma>
+    <lemma>zašpinit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umazati</lemma>
+    <lemma>zamazati</lemma>
+    <lemma>uprljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измачка</lemma>
+    <lemma>извалка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nabrudzić</lemma>
+    <lemma>pobrudzić</lemma>
+    <lemma>napaćkać</lemma>
+    <lemma>naświnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>запачкать</lemma>
+    <lemma>измазать грязью</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamazať</lemma>
+    <lemma>poškvrniť</lemma>
+    <lemma>zašpiniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umazano</lemma>
+    <lemma>umazano</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умазати</lemma>
+    <lemma>упрљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забруднити</lemma>
+    <lemma>вимазати брудом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>makulo</lemma>
+    <lemma>malpura</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fleck</lemma>
+    <lemma>schmutzig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>besmeren</lemma>
+    <lemma>bevuilen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1708"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1708" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      Unikod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>Юнікод</lemma>
+    <lemma>Унікод</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Unicode</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>Unicode</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unikod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="компјутер">уникод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>Unicode</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>Юникод</lemma>
+    <lemma>Уникод</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>unicode</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kompj.">Unicode</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="компј.">уникод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>Юнікод</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Unikodo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unicode</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Unicode</lemma>
+  </synset>
+</multilingual-synset>

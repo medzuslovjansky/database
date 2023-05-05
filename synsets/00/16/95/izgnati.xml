@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1695"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1695"
+      steen:addition="(izgone)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izgnati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выгнаць</lemma>
+    <lemma>саслаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изгоня</lemma>
+    <lemma>прогоня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhnat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izagnati</lemma>
+    <lemma>istjerati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изгони</lemma>
+    <lemma>протера</lemma>
+    <lemma>исфрли</lemma>
+    <lemma>праи во егзил</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wygnać</lemma>
+    <lemma>wygonić</lemma>
+    <lemma>wydalić</lemma>
+    <lemma>zesłać</lemma>
+    <lemma>wypłoszyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выгнать</lemma>
+    <lemma>изгнать</lemma>
+    <lemma>сослать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhnať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ven</lemma>
+    <lemma>izločite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изагнати</lemma>
+    <lemma>истерати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вигнати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forpeli</lemma>
+    <lemma>ekzili</lemma>
+    <lemma>forpeli</lemma>
+    <lemma>ekzilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vertreiben</lemma>
+    <lemma>verbannen</lemma>
+    <lemma>verdrängen sie</lemma>
+    <lemma>Exil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbannen</lemma>
+    <lemma>wegjagen</lemma>
+  </synset>
+</multilingual-synset>

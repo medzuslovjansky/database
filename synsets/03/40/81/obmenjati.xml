@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34081"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34081"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl cs~ bg"
+    >
+      obměnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абменьваць</lemma>
+    <lemma>разменьваць</lemma>
+    <lemma>заменьваць</lemma>
+    <lemma>мяняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>споделяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyměňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mijenjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разменува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymieniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обменивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vymieňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sprememba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мењати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обмінювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interŝanĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Austausch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitwisselen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5017"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5017"
+      steen:addition="(pase)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      pasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасвіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пасат</lemma>
+    <lemma>пасища</lemma>
+    <lemma>обикновено выгоняется на паша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pást</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pasti</lemma>
+    <lemma annotation="stoku">napasati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пасе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. świnie">paść</lemma>
+    <lemma>wypasać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="напр. свиней">пасти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pásť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ovce, prašiči">padec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="овце, свиње">пасти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр. свиней">пасти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasto</lemma>
+    <lemma>paŝtejo</lemma>
+    <lemma>emas</lemma>
+    <lemma>estingis al paŝtejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schramme</lemma>
+    <lemma>Weide</lemma>
+    <lemma>neigen</lemma>
+    <lemma>setzen Sie auf der Weide</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geiten e.d.">hoeden</lemma>
+  </synset>
+</multilingual-synset>

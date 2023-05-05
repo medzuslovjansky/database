@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="941"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="941"
+      steen:addition="(ukrade)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      ukrasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>украсці</lemma>
+    <lemma>выкрасці</lemma>
+    <lemma>скрасці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>открадна</lemma>
+    <lemma>украдна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukrást</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ukrasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>украде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ukraść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>украсть</lemma>
+    <lemma>своровать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ukradnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukrasti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>украсти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вкрасти</lemma>
+    <lemma>поцупити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝteli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stehlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stelen</lemma>
+    <lemma>jatten</lemma>
+    <lemma>pikken</lemma>
+  </synset>
+</multilingual-synset>

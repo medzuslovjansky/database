@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2831"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2831" steen:pos="adj." steen:type="1" steen:same="v j">
+      osnovny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асноўны</lemma>
+    <lemma>галоўны</lemma>
+    <lemma>базавы</lemma>
+    <lemma>фундаментальны</lemma>
+    <lemma>грунтоўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>основни</lemma>
+    <lemma>фундаментални</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>základní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osnovni</lemma>
+    <lemma>temeljni</lemma>
+    <lemma>početni</lemma>
+    <lemma>elementarni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>основен</lemma>
+    <lemma>фундамен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podstawowy</lemma>
+    <lemma>fundamentalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>основной</lemma>
+    <lemma>базовый</lemma>
+    <lemma>фундаментальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>základné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustanovljen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>основан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>основний</lemma>
+    <lemma>базовий</lemma>
+    <lemma>фундаментальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baza</lemma>
+    <lemma>fundamenta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grund</lemma>
+    <lemma>grundlegende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>basaal</lemma>
+    <lemma>fundamenteel</lemma>
+  </synset>
+</multilingual-synset>

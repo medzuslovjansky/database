@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35381"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35381" steen:pos="f." steen:type="2" steen:same="ru j">
+      slučajnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпадковасць</lemma>
+    <lemma annotation="дыял.">прыпадковасць</lemma>
+    <lemma>супадзенне</lemma>
+    <lemma>супаданне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съвпадение</lemma>
+    <lemma annotation="случайно">случайност</lemma>
+    <lemma>случайно съвпадение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náhoda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slučajnost</lemma>
+    <lemma>koincidencija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>случајност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypadkowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случайность</lemma>
+    <lemma>совпадение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>náhoda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naključje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>случајност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випадковість</lemma>
+    <lemma>збіг обставин</lemma>
+    <lemma>співпадіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koincido</lemma>
+    <lemma annotation="hazarda okazaĵo">hazarde</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zufall</lemma>
+    <lemma annotation="random Vorkommen">Zufall</lemma>
+    <lemma>Zufall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toeval</lemma>
+  </synset>
+</multilingual-synset>

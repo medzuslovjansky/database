@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="99"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="99" steen:pos="m." steen:type="1" steen:genesis="I">
+      aeroport
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аэрапорт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>летище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>letiště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zračna luka</lemma>
+    <lemma>aerodrom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>аеродром</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lotnisko</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аэропорт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>letisko</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>letališče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аеродром</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аеропорт</lemma>
+    <lemma>летовище</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>flughaveno</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Flughafen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luchthaven</lemma>
+    <lemma>vliegveld</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13825"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13825" steen:pos="m.anim." steen:type="1">vråg</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вораг</lemma>
+    <lemma>непрыяцель</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>враг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepřítel</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neprijatelj</lemma>
+    <lemma>protivnik</lemma>
+    <lemma annotation="arh.">vrag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непријател</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wróg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>враг</lemma>
+    <lemma>неприятель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepriateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sovražnik</lemma>
+    <lemma>nasprotnik</lemma>
+    <lemma annotation="arch.">hudič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непријатељ</lemma>
+    <lemma>противник</lemma>
+    <lemma annotation="арх.">враг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ворог</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malamiko</lemma>
+    <lemma>malamiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Feind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vijand</lemma>
+  </synset>
+</multilingual-synset>

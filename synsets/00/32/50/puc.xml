@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3250"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="D"
+    >
+      puč
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераварот</lemma>
+    <lemma>путч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>путч</lemma>
+    <lemma>ГКЧП</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převrat</lemma>
+    <lemma>puč</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>puč</lemma>
+    <lemma>državni udar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>државен удар</lemma>
+    <lemma>пуч</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamach stanu</lemma>
+    <lemma>pucz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переворот</lemma>
+    <lemma>путч</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prevrat</lemma>
+    <lemma>puč</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>udar</lemma>
+    <lemma>udar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пуч</lemma>
+    <lemma>државни удар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переворот</lemma>
+    <lemma>путч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>puĉo</lemma>
+    <lemma>puĉo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Coup</lemma>
+    <lemma>putsch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>staatsgreep</lemma>
+    <lemma>coup</lemma>
+  </synset>
+</multilingual-synset>

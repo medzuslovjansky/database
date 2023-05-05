@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22925"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22925" steen:pos="n." steen:type="3" steen:same="ru">
+      vȯzzvańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заклік</lemma>
+    <lemma>адозва</lemma>
+    <lemma>зварот</lemma>
+    <lemma>звяртанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възвание</lemma>
+    <lemma>обява</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výzva</lemma>
+    <lemma>provolání</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poziv</lemma>
+    <lemma>objava</lemma>
+    <lemma>proklamacija</lemma>
+    <lemma>letak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повик</lemma>
+    <lemma>проглас</lemma>
+    <lemma>објава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>proklamacja</lemma>
+    <lemma>apel</lemma>
+    <lemma>wezwanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воззвание</lemma>
+    <lemma>обращение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výzva</lemma>
+    <lemma>prevolaní</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povabilo</lemma>
+    <lemma>obvestilo</lemma>
+    <lemma>oznanjevanje</lemma>
+    <lemma>letak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позив</lemma>
+    <lemma>објава</lemma>
+    <lemma>прокламација</lemma>
+    <lemma>летак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>відозва</lemma>
+    <lemma>звернення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apelacio</lemma>
+    <lemma>proklamo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berufung</lemma>
+    <lemma>Verkündigung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oproep</lemma>
+    <lemma>appèl</lemma>
+    <lemma>proclamatie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31676"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31676"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      zubr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зубр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зубър</lemma>
+    <lemma>бизон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zubr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>europski bizon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>европски бизон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żubr</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зубр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zubor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Evropski bizon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>европски бизон</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зубр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Eŭropa bizono</lemma>
+    <lemma>wisent</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wisent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wisent</lemma>
+    <lemma>Europese bizon</lemma>
+  </synset>
+</multilingual-synset>

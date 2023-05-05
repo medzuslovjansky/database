@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36603"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36603"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kolekcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калекцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сбирка</lemma>
+    <lemma>колекция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kolekce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kolekcija</lemma>
+    <lemma>zbirka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>збирка</lemma>
+    <lemma>колекција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kolekcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>коллекция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kolekcia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zbirka Zbirka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>збирка</lemma>
+    <lemma>колекција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>колекція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sammlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzameling</lemma>
+    <lemma>collectie</lemma>
+  </synset>
+</multilingual-synset>

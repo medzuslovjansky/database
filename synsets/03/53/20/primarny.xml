@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35320"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35320"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z yu"
+      steen:genesis="I"
+    >
+      primarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>першы</lemma>
+    <lemma>пачатковы</lemma>
+    <lemma>першапачатковы</lemma>
+    <lemma>першасны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>основна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>primární</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primaran</lemma>
+    <lemma>prvotan</lemma>
+    <lemma>prvobitan</lemma>
+    <lemma>početni</lemma>
+    <lemma>iskonski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>основен</lemma>
+    <lemma>првичен</lemma>
+    <lemma>примарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prymarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>первичный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>primárny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osnovno</lemma>
+    <lemma>prvinsko</lemma>
+    <lemma>prvinsko</lemma>
+    <lemma>primarni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>основни</lemma>
+    <lemma>првобитан</lemma>
+    <lemma>првотан</lemma>
+    <lemma>примаран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>первинний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>primaraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>primär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>primair</lemma>
+  </synset>
+</multilingual-synset>

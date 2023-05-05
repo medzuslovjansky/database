@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1000"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1000" steen:pos="adj." steen:type="1">obći</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агульны</lemma>
+    <lemma>супольны</lemma>
+    <lemma>гуртавы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>общи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>společný</lemma>
+    <lemma>obecný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>општ</lemma>
+    <lemma>заеднички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wspólny</lemma>
+    <lemma>ogólny</lemma>
+    <lemma>powszechny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>общий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spoločný</lemma>
+    <lemma>všeobecný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>splošno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>општи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>загальний</lemma>
+    <lemma>спільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komunaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbreitet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gemeenschappelijk</lemma>
+    <lemma>gezamenlijk</lemma>
+    <lemma>algemeen</lemma>
+  </synset>
+</multilingual-synset>

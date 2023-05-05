@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3023"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      rezumovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэзюмаваць</lemma>
+    <lemma>абагульняць</lemma>
+    <lemma>падводзіць вынік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обобщени</lemma>
+    <lemma>обобщи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shrnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rezimirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резимира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>streszczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резюмировать</lemma>
+    <lemma>обобщать</lemma>
+    <lemma>подводить итог</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zhrnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povzamemo</lemma>
+    <lemma>povzetek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>резимирати</lemma>
+    <lemma>сажети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>резюмувати</lemma>
+    <lemma>узагальнювати</lemma>
+    <lemma>підводити підсумок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>resumas</lemma>
+    <lemma>resumas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zusammenfassen</lemma>
+    <lemma>zusammenfassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenvatten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17999"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17999"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      objavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вайну">абвяшчаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="война">обяви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhlašovat</lemma>
+    <lemma>vypovídat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>objavljivati</lemma>
+    <lemma>proglašavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="војна">објавува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wojnę">wypowiadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="войну">объявлять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhlasovať</lemma>
+    <lemma>vypovedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="podgana">objavi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="рат">објављивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="війну">оголошувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="militon">deklari</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Krieg erklären)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="oorlog">verklaren</lemma>
+  </synset>
+</multilingual-synset>

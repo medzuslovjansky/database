@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22066"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22066"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      iztěkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мінаць</lemma>
+    <lemma>канчацца</lemma>
+    <lemma>заканчвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="време">изтичам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plynout</lemma>
+    <lemma>uplývat</lemma>
+    <lemma>dobíhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istjecati</lemma>
+    <lemma>prestajati</lemma>
+    <lemma>minuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истекува</lemma>
+    <lemma>изминува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upływać</lemma>
+    <lemma>wygasać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>истекать</lemma>
+    <lemma>заканчиваться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plynúť</lemma>
+    <lemma annotation="vypršať">vypršiavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stojalo</lemma>
+    <lemma annotation="rok za nekaj">prenese</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истицати</lemma>
+    <lemma annotation="рок за нешто">пролазити</lemma>
+    <lemma>престајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>минати</lemma>
+    <lemma>спливати</lemma>
+    <lemma>закінчуватись</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasi</lemma>
+    <lemma>eksvalidiĝos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstreichen</lemma>
+    <lemma>verfallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlopen</lemma>
+    <lemma>aflopen</lemma>
+  </synset>
+</multilingual-synset>

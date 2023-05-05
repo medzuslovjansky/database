@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36270"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="z j rue"
+    >
+      vezti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паехаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например, кола">диск</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vézt se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>voziti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се вози</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pojechać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поехать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>viezť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vožnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>возити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>поїхати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz aŭtomobile">veturi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. mit dem Auto">Laufwerk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijden</lemma>
+  </synset>
+</multilingual-synset>

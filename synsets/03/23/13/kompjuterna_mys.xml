@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32313"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32313" steen:pos="f." steen:type="1">
+      kompjuterna myš
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камп&apos;ютарная мыш</lemma>
+    <lemma>кампутарная мыш</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компютърна мишка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počítačová myš</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompjutorski miš</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компјутерско глувче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mysz komputerowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компьютерная мышь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>počítačová myš</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Računalniška miška</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компјутерски миш</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>комп&apos;ютерна миша</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komputila muso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Computermaus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>computermuis</lemma>
+  </synset>
+</multilingual-synset>

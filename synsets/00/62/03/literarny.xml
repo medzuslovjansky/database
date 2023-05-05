@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6203" steen:pos="adj." steen:type="1" steen:genesis="I">
+      literarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>літаратурны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>литературен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>literární</lemma>
+    <lemma>knižní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>literaran</lemma>
+    <lemma>književni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>литерарен</lemma>
+    <lemma>литературен</lemma>
+    <lemma>книжевен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>literacki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>литературный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>literárny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>literarno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>књижевни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>літературний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>literaturaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>literarisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>literair</lemma>
+  </synset>
+</multilingual-synset>

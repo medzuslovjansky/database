@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12566"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12566"
+      steen:addition="(-ego)"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      srědnje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сярэдні лік</lemma>
+    <lemma>сярэднеарыфметычнае</lemma>
+    <lemma>сярэдняе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>средно число</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průměr</lemma>
+    <lemma>střed</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prosjek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>просек</lemma>
+    <lemma>средина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>średnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="матем.">среднее</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>priemer</lemma>
+    <lemma>stred</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>povprečje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>просек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="матем.">середнє число</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>averaĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Durchschnittlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gemiddelde</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1318"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1318"
+      steen:addition="(skaže)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v"
+    >
+      skazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сказаць</lemma>
+    <lemma>мовіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се каже</lemma>
+    <lemma>да се каже</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>říct</lemma>
+    <lemma>povědět</lemma>
+    <lemma>říci</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>съказати</lemma>
+    <lemma>рещи</lemma>
+    <lemma>казати</lemma>
+    <lemma />
+  </synset>
+  <synset lang="hr">
+    <lemma>kazati</lemma>
+    <lemma>izjaviti</lemma>
+    <lemma>reći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>каже</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiedzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сказать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>povedať</lemma>
+    <lemma>povedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>recimo</lemma>
+    <lemma>povej</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>казати</lemma>
+    <lemma>рећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сказати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diru</lemma>
+    <lemma>diru</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sagen wir</lemma>
+    <lemma>sagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeggen</lemma>
+  </synset>
+</multilingual-synset>

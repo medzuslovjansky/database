@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20958"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20958"
+      steen:addition="(opre)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      oprěti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абаперціся</lemma>
+    <lemma>прыхінуцца</lemma>
+    <lemma>прытуліцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прислониться към нещо</lemma>
+    <lemma>останало нещо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opřít se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oprijeti se</lemma>
+    <lemma>oduprijeti se</lemma>
+    <lemma>usprotiviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се опре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="o coś">oprzeć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опереться</lemma>
+    <lemma>прислониться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oprieť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opreti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опрети се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спертися</lemma>
+    <lemma>притулитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apogi kontraŭ io</lemma>
+    <lemma>ripozi sur io</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anlehnen etwas</lemma>
+    <lemma>ruhen auf etwas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leunen op</lemma>
+    <lemma>steunen op</lemma>
+  </synset>
+</multilingual-synset>

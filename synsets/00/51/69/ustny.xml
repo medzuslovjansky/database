@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5169"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5169" steen:pos="adj." steen:type="1" steen:same="v z j">
+      ustny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вусны</lemma>
+    <lemma>вусновы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>орално</lemma>
+    <lemma>се отделите от словесния</lemma>
+    <lemma>разговорен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ústní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>usmen</lemma>
+    <lemma>verbalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>устен</lemma>
+    <lemma>вербален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustny</lemma>
+    <lemma>oralny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>устный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ústný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oralno</lemma>
+    <lemma>verbalno</lemma>
+    <lemma>govoran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>усмен</lemma>
+    <lemma>вербални</lemma>
+    <lemma>говоран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>усний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parola</lemma>
+    <lemma>parola</lemma>
+    <lemma>parolita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>oral</lemma>
+    <lemma>verbal</lemma>
+    <lemma>gesprochen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mondeling</lemma>
+    <lemma>oraal</lemma>
+    <lemma>verbaal</lemma>
+  </synset>
+</multilingual-synset>

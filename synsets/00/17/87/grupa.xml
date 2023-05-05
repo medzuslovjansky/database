@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1787"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1787" steen:pos="f." steen:type="1" steen:genesis="I">
+      grupa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>група</lemma>
+    <lemma>гурт</lemma>
+    <lemma>гурток</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>група</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skupina</lemma>
+    <lemma annotation="mat.">grupa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grupa</lemma>
+    <lemma>skupina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>група</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grupa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>группа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skupina</lemma>
+    <lemma annotation="mat.">grupa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skupino</lemma>
+    <lemma>skupino</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>група</lemma>
+    <lemma>скупина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>група</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grupo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gruppe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>groep</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8214"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8214" steen:pos="n." steen:type="1" steen:same="v">
+      jaječko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>яечка</lemma>
+    <lemma annotation="анатам.">тэсцікула</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>топка</lemma>
+    <lemma>ташак</lemma>
+    <lemma>мъдо</lemma>
+    <lemma>семенник</lemma>
+    <lemma>тестис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>varle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>testis</lemma>
+    <lemma>jaje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јајце</lemma>
+    <lemma>маде</lemma>
+    <lemma>тестис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="anat.">jądro</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>яичко</lemma>
+    <lemma annotation="анат.">тестикула</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>semenník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="Anat.">Jajce</lemma>
+    <lemma>Testisov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="анат.">јаје</lemma>
+    <lemma>тестис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>яєчко</lemma>
+    <lemma annotation="анат.">тестикула</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>testiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hoden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>testikel</lemma>
+    <lemma>bal</lemma>
+    <lemma>kloot</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35304"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35304"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      intervencija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інтэрвенцыя</lemma>
+    <lemma>умяшанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>интервенция</lemma>
+    <lemma>намеса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>intervence</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>intervencija</lemma>
+    <lemma>upad</lemma>
+    <lemma>istup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>интервенција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>interwencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интервенция</lemma>
+    <lemma>вмешательство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>intervencia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>intervencija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интервенција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інтервенція</lemma>
+    <lemma>втручання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interveno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Intervention</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interventie</lemma>
+    <lemma>tussenkomst</lemma>
+  </synset>
+</multilingual-synset>

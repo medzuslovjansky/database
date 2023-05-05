@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6288" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      podsekretaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>намеснік міністра</lemma>
+    <lemma>віцэ-міністар</lemma>
+    <lemma>намміністра</lemma>
+    <lemma>намеснік сакратара</lemma>
+    <lemma>віцэ-сакратар</lemma>
+    <lemma>намсакратара</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>заместник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náměstek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podsekretar</lemma>
+    <lemma>podtajnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потсекретар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podsekretarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заместитель министра</lemma>
+    <lemma>заместитель секретаря</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>námestník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podsekretar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подсекретар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заступник міністра</lemma>
+    <lemma>заступник секретаря</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subsecretario</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Staatssekretär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondersecretaris</lemma>
+  </synset>
+</multilingual-synset>

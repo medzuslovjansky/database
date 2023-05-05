@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31554"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31554"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl sh bg"
+    >
+      zaslon
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заслон</lemma>
+    <lemma>засланка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подслон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaclonění</lemma>
+    <lemma>zastínění</lemma>
+    <lemma>okenice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaklon</lemma>
+    <lemma>sklonište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>засолниште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>schron</lemma>
+    <lemma>okiennica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заслон</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zaclonenie</lemma>
+    <lemma>zatienenie</lemma>
+    <lemma>okenice</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zatočišče</lemma>
+    <lemma>zavetje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заклон</lemma>
+    <lemma>склониште</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заслін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekureco ekrano</lemma>
+    <lemma>ŝirmi</lemma>
+    <lemma>obturatoro</lemma>
+    <lemma>kovrilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sicherheitsschirm</lemma>
+    <lemma>Schutz</lemma>
+    <lemma>Fensterläden</lemma>
+    <lemma>Abdeckung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veiligheidsscherm</lemma>
+    <lemma>beschutting</lemma>
+    <lemma>luik</lemma>
+    <lemma>afschermklep</lemma>
+  </synset>
+</multilingual-synset>

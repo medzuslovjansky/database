@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26772"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26772"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="uk z sh bm"
+    >
+      kotva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>якар</lemma>
+    <lemma>котва</lemma>
+    <lemma>катвіга</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>котва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kotva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sidro</lemma>
+    <lemma>kotva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>котва</lemma>
+    <lemma>сидро</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kotwica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>якорь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kotva</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>armatura</lemma>
+    <lemma>sidro</lemma>
+    <lemma>lenger</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>котва</lemma>
+    <lemma>сидро</lemma>
+    <lemma>ленгер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>якір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ankron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>anker</lemma>
+  </synset>
+</multilingual-synset>

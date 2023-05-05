@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35763"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35763"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      observatorija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абсерваторыя</lemma>
+    <lemma>наглядальня</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обсерваторията</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>observatoř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opservatorij</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опсерваторија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obserwatorium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обсерватория</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>observatórium</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Opazovalnica observatorij</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опсерваторија</lemma>
+    <lemma>опсерваторијум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обсерваторія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>observatorio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Observatorium</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>observatorium</lemma>
+  </synset>
+</multilingual-synset>

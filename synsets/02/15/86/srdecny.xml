@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21586"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21586" steen:pos="adj." steen:type="1" steen:same="v z j">
+      sŕdečny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="анат.">сэрцавы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сърцето</lemma>
+    <lemma>Сърцето</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srdeční</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>srčani</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>срцев</lemma>
+    <lemma>срцето</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sercowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="анат.">сердечный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>srdcový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>srce</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>срчани</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="анат.">сердечний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kora</lemma>
+    <lemma>koro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herz-</lemma>
+    <lemma>Herz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hart-</lemma>
+  </synset>
+</multilingual-synset>

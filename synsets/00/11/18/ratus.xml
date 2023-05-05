@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1118"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1118" steen:pos="m." steen:type="1" steen:genesis="D">
+      ratuš
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мэрыя</lemma>
+    <lemma>ратуша</lemma>
+    <lemma>гарадміністрацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>община</lemma>
+    <lemma>кметство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>radnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vijećnica</lemma>
+    <lemma>poglavarstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>градско собрание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ratusz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мэрия</lemma>
+    <lemma>ратуша</lemma>
+    <lemma>горадминистрация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>radnice</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Kraj hiša</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>градска кућа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мерія</lemma>
+    <lemma>ратуша</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>urbdomo</lemma>
+    <lemma>urbodomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rathaus</lemma>
+    <lemma>Rathaus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stadhuis</lemma>
+    <lemma>raadhuis</lemma>
+    <lemma>gemeentehuis</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35916"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35916"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      neefektivny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неэфектыўны</lemma>
+    <lemma>неэфектоўны</lemma>
+    <lemma>неэфэктоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неефективен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neefektivní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neučinkoviti</lemma>
+    <lemma>neučinkovit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неефикасен</lemma>
+    <lemma>неефективен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieefektywny</lemma>
+    <lemma>nieskuteczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неэффективный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neefektívny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neučinkovito</lemma>
+    <lemma>neučinkovita</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неефективан</lemma>
+    <lemma>неефикасан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неефективний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senefika</lemma>
+    <lemma>senutila</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ineffektiv</lemma>
+    <lemma>ineffizient</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ineffectief</lemma>
+    <lemma>inefficiënt</lemma>
+  </synset>
+</multilingual-synset>

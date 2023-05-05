@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4936"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4936"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="напрамак">за</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="посока">зад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="směr">za</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="smjer">iza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зад</lemma>
+    <lemma annotation="насока">одзади</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kierunek">za</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="направление">за</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="smer">za</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="smer">zadaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="смер">иза</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="напрям">за</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="direkto">malantaŭe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Richtung">hinten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="richting">achter</lemma>
+  </synset>
+</multilingual-synset>

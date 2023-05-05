@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="495"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="495"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      filmovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здымаць фільм</lemma>
+    <lemma>экранізаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>филмирам</lemma>
+    <lemma>снимам филм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>filmovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>филмува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>filmować</lemma>
+    <lemma>sfilmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снимать фильм</lemma>
+    <lemma>экранизировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>filmovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustrelil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фільмувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>filmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Film</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>filmen</lemma>
+  </synset>
+</multilingual-synset>

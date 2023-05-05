@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="69"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="69" steen:pos="v.tr. ipf." steen:type="1">grnųti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>збіраць</lemma>
+    <lemma annotation="хуткасці">набываць, набіраць</lemma>
+    <lemma annotation="напр: сілы, грошы і г.д.">
+      назапашваць, накопліваць, памнажаць
+    </lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>събирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shromáždit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nagrnuti</lemma>
+    <lemma>nagomilati</lemma>
+    <lemma>nabacati</lemma>
+    <lemma>nakupiti</lemma>
+    <lemma>prikupiti</lemma>
+    <lemma>skupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>насобира</lemma>
+    <lemma>навалува</lemma>
+    <lemma>нагрнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gromadzić</lemma>
+    <lemma>ogarniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собирать</lemma>
+    <lemma>накапливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zhromaždiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zbirajo</lemma>
+    <lemma>zbirajo</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>прикупити</lemma>
+    <lemma>скупити</lemma>
+    <lemma />
+  </synset>
+  <synset lang="uk">
+    <lemma>збирати</lemma>
+    <lemma>накопичувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolektu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versammeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzamelen</lemma>
+    <lemma>bijeenbrengen</lemma>
+  </synset>
+</multilingual-synset>

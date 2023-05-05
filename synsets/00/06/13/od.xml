@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="613"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="613"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      od
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ад</lemma>
+    <lemma>з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>от</lemma>
+    <lemma>от</lemma>
+    <lemma>ОТ</lemma>
+    <lemma>с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>od</lemma>
+    <lemma>z</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>od</lemma>
+    <lemma>iz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="од таму, од тогаш">од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>od</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>от</lemma>
+    <lemma>с</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>od</lemma>
+    <lemma>z</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="gibanje">o</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="кретање">од</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>від</lemma>
+    <lemma>з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>de</lemma>
+    <lemma>de</lemma>
+    <lemma>for de</lemma>
+    <lemma>ekde</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>von</lemma>
+    <lemma>von</lemma>
+    <lemma>weg von</lemma>
+    <lemma>seit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>van</lemma>
+    <lemma>van … vandaan</lemma>
+    <lemma>sinds</lemma>
+  </synset>
+</multilingual-synset>

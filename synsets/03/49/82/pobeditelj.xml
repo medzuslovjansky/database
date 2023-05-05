@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34982"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34982"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      poběditelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераможац</lemma>
+    <lemma>пераможца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>победител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vítěz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobjednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>победник</lemma>
+    <lemma>добитник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwyciężca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>победитель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>víťaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmagovalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>победник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переможець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venkinto</lemma>
+    <lemma>venkinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sieger</lemma>
+    <lemma>Gewinner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overwinnaar</lemma>
+  </synset>
+</multilingual-synset>

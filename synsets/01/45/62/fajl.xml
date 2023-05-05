@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14562"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14562" steen:pos="m." steen:type="2" steen:genesis="E">
+      fajl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>файл</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компютърен файл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="počítač">soubor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>datoteka</lemma>
+    <lemma>fajl</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фајл</lemma>
+    <lemma annotation="компјутер">датотека</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komputerowy">plik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>файл</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="počítač">súbor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>datoteka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>датотека</lemma>
+    <lemma>фајл</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>файл</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="komputila">dosiero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Datei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>file</lemma>
+    <lemma>bestand</lemma>
+  </synset>
+</multilingual-synset>

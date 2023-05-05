@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2523"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2523" steen:pos="v.tr. pf." steen:type="1">izkopati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкапаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкопая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vykopat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iskopati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ископа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykopać</lemma>
+    <lemma>odkopać</lemma>
+    <lemma>odgrzebać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выкопать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vykopať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izkopati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ископати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викопати</lemma>
+    <lemma>відкопати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elfosi</lemma>
+    <lemma>elfosi</lemma>
+    <lemma>fosi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>graben</lemma>
+    <lemma>graben</lemma>
+    <lemma>graben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitgraven</lemma>
+    <lemma>opgraven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33096"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v sh bm"
+    >
+      nasųćny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надзённы</lemma>
+    <lemma>пільны</lemma>
+    <lemma>неадкладны</lemma>
+    <lemma>жыццёвы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>същински</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zásadní</lemma>
+    <lemma>životně důležitý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>suštinski</lemma>
+    <lemma>osnovni</lemma>
+    <lemma>istinski</lemma>
+    <lemma>esencijalan</lemma>
+    <lemma>bitan</lemma>
+    <lemma>neophodan</lemma>
+    <lemma>nezaobilazan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>суштински</lemma>
+    <lemma>витален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zasadniczy</lemma>
+    <lemma>istotny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>насущный</lemma>
+    <lemma>важный</lemma>
+    <lemma>значимый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zásadný</lemma>
+    <lemma>životne dôležitý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>v bistvu</lemma>
+    <lemma>osnovna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>суштински</lemma>
+    <lemma>основни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>насущний</lemma>
+    <lemma>життєво важливий</lemma>
+    <lemma>украй необхідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esenca</lemma>
+    <lemma annotation="de esenca graveco">esenca</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wesentlich</lemma>
+    <lemma annotation="von entscheidender Bedeutung">vital</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>essentieel</lemma>
+    <lemma>cruciaal</lemma>
+    <lemma annotation="belang">vitaal</lemma>
+  </synset>
+</multilingual-synset>

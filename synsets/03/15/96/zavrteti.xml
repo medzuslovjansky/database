@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31596"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31596"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="ru cs~ j"
+    >
+      zavŕtěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закруціць</lemma>
+    <lemma>завірыць</lemma>
+    <lemma>заматляць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завъртя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zavrtět</lemma>
+    <lemma>zakroutit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavrtjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заврте</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawirować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завертеть</lemma>
+    <lemma>закрутить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zavrtieť</lemma>
+    <lemma>zakrútiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завртети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завертіти</lemma>
+    <lemma>закрутити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>twirl</lemma>
+    <lemma>spino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rotation</lemma>
+    <lemma>Spin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ronddraaien</lemma>
+  </synset>
+</multilingual-synset>

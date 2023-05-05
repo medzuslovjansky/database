@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20804"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20804"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="ru cz"
+    >
+      vȯzniknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узнікнуць</lemma>
+    <lemma>паўстаць</lemma>
+    <lemma>пачаць</lemma>
+    <lemma>распачаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възникна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzniknout</lemma>
+    <lemma>vzejít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nastajati</lemma>
+    <lemma>iskrsnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>возникна</lemma>
+    <lemma>зароди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynurzyć się</lemma>
+    <lemma>wyłonić się</lemma>
+    <lemma>pojawić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возникнуть</lemma>
+    <lemma>начаться</lemma>
+    <lemma>произойти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vzniknúť</lemma>
+    <lemma>vzísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pojavljajo</lemma>
+    <lemma>se pojavijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>настајати</lemma>
+    <lemma>искрснути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>виникнути</lemma>
+    <lemma>початися</lemma>
+    <lemma>статися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>emerĝas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entstehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opduiken</lemma>
+    <lemma>opdoemen</lemma>
+    <lemma>tevoorschijn komen</lemma>
+  </synset>
+</multilingual-synset>

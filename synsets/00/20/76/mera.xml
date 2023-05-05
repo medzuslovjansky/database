@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2076"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2076" steen:pos="f." steen:type="1">měra</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мера</lemma>
+    <lemma>памер</lemma>
+    <lemma>ступень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мярка</lemma>
+    <lemma>степен</lemma>
+    <lemma>ниво</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>míra</lemma>
+    <lemma>rozměr</lemma>
+    <lemma>stupeň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мера</lemma>
+    <lemma>мерка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miara</lemma>
+    <lemma>rozmiary</lemma>
+    <lemma>stopień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мера</lemma>
+    <lemma>степень</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>miera</lemma>
+    <lemma>rozmer</lemma>
+    <lemma>stupeň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukrep</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>міра</lemma>
+    <lemma>ступінь</lemma>
+    <lemma>рівень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mezuro</lemma>
+    <lemma>grado</lemma>
+    <lemma>grado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Maßnahme</lemma>
+    <lemma>Umfang</lemma>
+    <lemma>Grad</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maat</lemma>
+    <lemma>mate</lemma>
+  </synset>
+</multilingual-synset>

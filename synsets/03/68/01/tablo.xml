@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36801"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36801"
+      steen:pos="n.indecl."
+      steen:type="2"
+      steen:same="v bg"
+      steen:genesis="F"
+    >
+      tablo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>табло</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>табло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tablo</lemma>
+    <lemma>panel</lemma>
+    <lemma>indikační deska</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razvodna ploča</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>индикаторска табла</lemma>
+    <lemma>панел</lemma>
+    <lemma>шалт табла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tablica świetlna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>табло</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tablo</lemma>
+    <lemma>panel</lemma>
+    <lemma>indikačná tabuľa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razdelilnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разводна табла</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>табло</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>indikilo</lemma>
+    <lemma>panelo</lemma>
+    <lemma>tablo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anzeigetafel</lemma>
+    <lemma>Tafel</lemma>
+    <lemma>Tableau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>informatiebord</lemma>
+    <lemma>scorebord</lemma>
+  </synset>
+</multilingual-synset>

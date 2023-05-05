@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29693"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29693" steen:pos="v.tr. ipf." steen:type="1">
+      ostrigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абстрыгаць</lemma>
+    <lemma>астрыгаць</lemma>
+    <lemma>падстрыгацт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ножици</lemma>
+    <lemma annotation="коса">клип</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ostříhávat</lemma>
+    <lemma>stříhat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>strižati</lemma>
+    <lemma>sjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>острижува</lemma>
+    <lemma>остригува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strzyc</lemma>
+    <lemma>ścinać włosy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>остригать</lemma>
+    <lemma>подстригать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>strihať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>strižati</lemma>
+    <lemma>cut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>остризати</lemma>
+    <lemma>стрићи</lemma>
+    <lemma>шишати</lemma>
+    <lemma>сећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стригти</lemma>
+    <lemma>підстригати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tondi</lemma>
+    <lemma annotation="haroj">tranĉo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schere</lemma>
+    <lemma annotation="Haar">geschnitten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheren</lemma>
+    <lemma annotation="haar">knippen</lemma>
+  </synset>
+</multilingual-synset>

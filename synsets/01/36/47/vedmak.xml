@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13647"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13647" steen:pos="m.anim." steen:type="1">věďmak</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вадзьмар</lemma>
+    <lemma>вядзьмак</lemma>
+    <lemma>чараўнік</lemma>
+    <lemma>знахар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="мъж">вещица</lemma>
+    <lemma>warlock</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mág</lemma>
+    <lemma>čarodějník</lemma>
+    <lemma>čaroděj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vještac</lemma>
+    <lemma>čarobnjak</lemma>
+    <lemma>štrigun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вештер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiedźmak</lemma>
+    <lemma>wiedźmarz</lemma>
+    <lemma>czarownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ведьмак</lemma>
+    <lemma>ведун</lemma>
+    <lemma>колдун</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>mág</lemma>
+    <lemma>čarodejník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čarovnica</lemma>
+    <lemma>čarovnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вештац</lemma>
+    <lemma>чаробњак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>відьма</lemma>
+    <lemma>ведун</lemma>
+    <lemma>чаклун</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vira">sorĉistino</lemma>
+    <lemma>Warlock</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="männlich">Hexe</lemma>
+    <lemma>Warlock</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heksenmeester</lemma>
+  </synset>
+</multilingual-synset>

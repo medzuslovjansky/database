@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35735"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35735"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z sh bg"
+      steen:genesis="E"
+    >
+      sidr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сідр</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ябълково вино</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cider</lemma>
+    <lemma>sidra</lemma>
+    <lemma>jablečné víno</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>Šajder</lemma>
+    <lemma>cider</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јаболков сок</lemma>
+    <lemma>јаболково вино</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cydr</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сидр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cider</lemma>
+    <lemma>sajder</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jabolčnik</lemma>
+    <lemma>jabolčni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сајдер</lemma>
+    <lemma>цидер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сидр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cidro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Apfelwein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cider</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22308"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22308" steen:pos="f." steen:type="2" steen:same="v pl">
+      nevolja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няволя</lemma>
+    <lemma>палон</lemma>
+    <lemma>нявольніцтва</lemma>
+    <lemma>рабства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плен</lemma>
+    <lemma>робство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zajetí</lemma>
+    <lemma>otroctví</lemma>
+    <lemma>nesvoboda</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zarobljeništvo</lemma>
+    <lemma>ropstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заробеништво</lemma>
+    <lemma>ропство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niewola</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неволя</lemma>
+    <lemma>плен</lemma>
+    <lemma>рабство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nesvoboda</lemma>
+    <lemma>zajatie</lemma>
+    <lemma>otroctvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ujetost</lemma>
+    <lemma>suženjstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заробљеништво</lemma>
+    <lemma>ропство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неволя</lemma>
+    <lemma>полон</lemma>
+    <lemma>рабство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaptiteco</lemma>
+    <lemma>sklaveco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gefangenschaft</lemma>
+    <lemma>Sklaverei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gevangenschap</lemma>
+  </synset>
+</multilingual-synset>

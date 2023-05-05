@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6251" steen:pos="f." steen:type="1">zapiska</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запіска</lemma>
+    <lemma>занатоўка</lemma>
+    <lemma>цыдулка</lemma>
+    <lemma>нататка</lemma>
+    <lemma>допіс</lemma>
+    <lemma>заметка</lemma>
+    <lemma>зацем</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>записка</lemma>
+    <lemma>бележка</lemma>
+    <lemma>напомнянка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poznámka</lemma>
+    <lemma>zápis</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>напьсаниѥ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bilješka</lemma>
+    <lemma>zabilješka</lemma>
+    <lemma>zapis</lemma>
+    <lemma>napomena</lemma>
+    <lemma>notica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>забелешка</lemma>
+    <lemma>напомена</lemma>
+    <lemma>прибелешка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>notatka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>записка</lemma>
+    <lemma>заметка</lemma>
+    <lemma>примечание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poznámka</lemma>
+    <lemma>zápis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zapis</lemma>
+    <lemma>memo</lemma>
+    <lemma>opomba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>запис</lemma>
+    <lemma>белешка</lemma>
+    <lemma>напомена</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>записка</lemma>
+    <lemma>замітка</lemma>
+    <lemma>примітка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>noto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hinweis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>notitie</lemma>
+  </synset>
+</multilingual-synset>

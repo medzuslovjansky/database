@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5750"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5750" steen:pos="m.anim." steen:type="1">pěsennik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спявак</lemma>
+    <lemma>песеннік</lemma>
+    <lemma>пявун</lemma>
+    <lemma>спеўнік</lemma>
+    <lemma>аўтар песень</lemma>
+    <lemma>паэт-спявак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>песенник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skladatel</lemma>
+    <lemma>písničkář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pjesnik</lemma>
+    <lemma>poeta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>autor piosenek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>песенник</lemma>
+    <lemma>автор песен</lemma>
+    <lemma>поэт-песенник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skladateľ</lemma>
+    <lemma>pesničkár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pesnik</lemma>
+    <lemma annotation="pesmi">skladatelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>песник</lemma>
+    <lemma annotation="песама">композитор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пісенник</lemma>
+    <lemma>автор пісень</lemma>
+    <lemma>поет-пісенник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kantverkisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Texter und Komponist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>liedjesschrijver</lemma>
+    <lemma>songwriter</lemma>
+  </synset>
+</multilingual-synset>

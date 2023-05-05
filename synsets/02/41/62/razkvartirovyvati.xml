@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24162"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24162"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="I"
+    >
+      råzkvartirovyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раскватароўваць</lemma>
+    <lemma>закватароўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разквартирувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ubytovávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razmještati</lemma>
+    <lemma>raspoređivati</lemma>
+    <lemma>smještati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сместува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkwaterowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расквартировывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ubytovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razmeštati</lemma>
+    <lemma>urnik</lemma>
+    <lemma>shranili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>размеештати</lemma>
+    <lemma>распоређивати</lemma>
+    <lemma>смештати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розквартировувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="trupoj">kvarono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>einquartieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inkwartieren</lemma>
+  </synset>
+</multilingual-synset>

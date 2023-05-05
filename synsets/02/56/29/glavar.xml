@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25629"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25629"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru cs bg"
+    >
+      glåvaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>верхавод</lemma>
+    <lemma>правадыр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>главатар</lemma>
+    <lemma>вожд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pohlavár</lemma>
+    <lemma>vůdce</lemma>
+    <lemma>náčelník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glavar</lemma>
+    <lemma>poglavar</lemma>
+    <lemma>straješina</lemma>
+    <lemma>poglavica</lemma>
+    <lemma>vođa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>главешина</lemma>
+    <lemma>поглавар</lemma>
+    <lemma>водач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wódz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>главарь</lemma>
+    <lemma>вождь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pohlavár</lemma>
+    <lemma>vodca</lemma>
+    <lemma>náčelník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vodja</lemma>
+    <lemma>glavni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вођа</lemma>
+    <lemma>поглавар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>керманич</lemma>
+    <lemma>вождь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉefo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Häuptling</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanvoerder</lemma>
+    <lemma>hoofdman</lemma>
+    <lemma>leider</lemma>
+  </synset>
+</multilingual-synset>

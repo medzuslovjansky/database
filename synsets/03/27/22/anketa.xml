@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32722"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32722"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="F"
+    >
+      anketa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>анкета</lemma>
+    <lemma>апытанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анкета</lemma>
+    <lemma>проучване</lemma>
+    <lemma>изследване</lemma>
+    <lemma>проучване на общественото мнение</lemma>
+    <lemma annotation="рядко">сондаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>anketa</lemma>
+    <lemma>průzkum</lemma>
+    <lemma>průzkumu veřejného mínění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>anketa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анкета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sondaż</lemma>
+    <lemma>ankieta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>анкета</lemma>
+    <lemma>опрос</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>anketa</lemma>
+    <lemma>prieskum</lemma>
+    <lemma>prieskum verejnej mienky</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>anketa</lemma>
+    <lemma>(javnomnenjska) raziskava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>анкета</lemma>
+    <lemma>истраживање јавног мњења</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анкета</lemma>
+    <lemma>опитування</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>demandaro</lemma>
+    <lemma>demandado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Umfrage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enquête</lemma>
+    <lemma>peiling</lemma>
+  </synset>
+</multilingual-synset>

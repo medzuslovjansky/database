@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2119"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2119" steen:pos="m." steen:type="1" steen:genesis="I">
+      konsilium
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кансіліум</lemma>
+    <lemma>нарада</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съвет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konsilium</lemma>
+    <lemma>rada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konzilij</lemma>
+    <lemma>vijeće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конзилиум</lemma>
+    <lemma>совет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>консилиум</lemma>
+    <lemma>совещание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konsilium</lemma>
+    <lemma>rada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>consilium</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конзилијум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>консиліум</lemma>
+    <lemma>рада</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsilio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="raadgevend lichaam">raad</lemma>
+  </synset>
+</multilingual-synset>

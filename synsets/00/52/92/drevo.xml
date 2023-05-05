@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5292"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5292"
+      steen:addition="(drěva/drěvese)"
+      steen:pos="n."
+      steen:type="1"
+    >
+      drěvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дрэва</lemma>
+    <lemma>драўніна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дървен материал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dřevo</lemma>
+  </synset>
+  <synset lang="cu" verified="false">
+    <lemma>дрѣво</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="materijal">drvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дрво</lemma>
+    <lemma>дрвен материјал</lemma>
+    <lemma>дрвенарија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drewno</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дерево</lemma>
+    <lemma>древесина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drevo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>les Plank</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дрво</lemma>
+    <lemma>брвно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>деревина</lemma>
+    <lemma>дерево</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ligno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Holz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hout</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2"
+      steen:addition="(opiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      opisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апісаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>описвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>popsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опише</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>описа́ть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opisujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>описати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>описати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>priskribi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>beschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschrijven</lemma>
+    <lemma>omschrijven</lemma>
+  </synset>
+</multilingual-synset>

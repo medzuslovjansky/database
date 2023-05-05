@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18845"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18845"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="ru"
+    >
+      směšivati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змешваць</lemma>
+    <lemma>перамешваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>смес</lemma>
+    <lemma>смес</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>míchat</lemma>
+    <lemma>smíchávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>miješati</lemma>
+    <lemma>brkati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mieszać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смешивать</lemma>
+    <lemma>перемешивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>miešať</lemma>
+    <lemma>zmiešavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mešati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мешати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>змішувати</lemma>
+    <lemma>перемішувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>miksaĵo</lemma>
+    <lemma>miksaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mischung</lemma>
+    <lemma>Mischung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mengen</lemma>
+    <lemma>vermengen</lemma>
+    <lemma>mixen</lemma>
+  </synset>
+</multilingual-synset>

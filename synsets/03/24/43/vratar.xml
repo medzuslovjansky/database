@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32443"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32443"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="uk cs j"
+    >
+      vråtaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вартаўнік</lemma>
+    <lemma>стораж</lemma>
+    <lemma>вахцёр</lemma>
+    <lemma>адзвернік</lemma>
+    <lemma>кансьерж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>портиер</lemma>
+    <lemma>страж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrátný</lemma>
+    <lemma>domovník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>domar</lemma>
+    <lemma>podvornik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>домар</lemma>
+    <lemma>вратар</lemma>
+    <lemma>хаусмајстор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>woźny</lemma>
+    <lemma>dozorca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сторож</lemma>
+    <lemma>вахтёр</lemma>
+    <lemma>консьерж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vrátnik</lemma>
+    <lemma>domovník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hišnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>домар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>сторож</lemma>
+    <lemma>вахтер</lemma>
+    <lemma>конс&apos;єрж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>janitor</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hausmeister</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conciërge</lemma>
+  </synset>
+</multilingual-synset>

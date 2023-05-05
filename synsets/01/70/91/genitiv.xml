@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17091"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17091" steen:pos="m." steen:type="2" steen:genesis="I">
+      genitiv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>родны склон</lemma>
+    <lemma annotation="Грама.">генітыў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>генетив</lemma>
+    <lemma>родителен падеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>genitiv</lemma>
+    <lemma>2.pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>genitiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">генетив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dopełniacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>родительный падеж</lemma>
+    <lemma annotation="грам.">генитив</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>genitív</lemma>
+    <lemma>2.pád</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rodilnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>генитив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>родовий відмінок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>genitivo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Genitiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genitief</lemma>
+  </synset>
+</multilingual-synset>

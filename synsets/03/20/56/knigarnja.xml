@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32056"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32056" steen:pos="f." steen:type="2" steen:same="ub pl yu">
+      knigarnja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кнігарня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>книжарница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>knihkupectví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>knjižara</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>книжарница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>księgarnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>книжный магазин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kníhkupectvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>knjigarna</lemma>
+    <lemma annotation="arch.">knjigarna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>књижара</lemma>
+    <lemma annotation="арх.">књигарна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>книгарня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>librovendejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Buchgeschäft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boekwinkel</lemma>
+    <lemma>boekhandel</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20833"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20833"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      zaprojektovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спраектаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кроя</lemma>
+    <lemma>начертая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navrhnout</lemma>
+    <lemma>projektovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>projektirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испроектира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaprojektować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спроектировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>navrhnúť</lemma>
+    <lemma>projektovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oblikovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пројектовати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>спроектувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dezajno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Design</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontwerpen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14487" steen:pos="m." steen:type="2" steen:same="ru uk">
+      cvět
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>колер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цвят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>barva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>boja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>боја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kolor</lemma>
+    <lemma>barwa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цвет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>farba</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>barva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>боја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>колір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koloro</lemma>
+    <lemma>koloro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Farbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kleur</lemma>
+  </synset>
+</multilingual-synset>

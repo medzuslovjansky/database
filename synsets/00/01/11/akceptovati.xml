@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="111"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="111"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      akceptovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акцэптаваць</lemma>
+    <lemma>прымаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приемам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>akceptovat</lemma>
+    <lemma>přijímat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prihvaćati</lemma>
+    <lemma>uzimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прифаќа</lemma>
+    <lemma>акцептира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akceptować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>акцептовать</lemma>
+    <lemma>принимать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>akceptovať</lemma>
+    <lemma>prijímať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>sprejeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прихватати</lemma>
+    <lemma>узимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прийняти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akcepti</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>akzeptieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accepteren</lemma>
+    <lemma>aanvaarden</lemma>
+  </synset>
+</multilingual-synset>

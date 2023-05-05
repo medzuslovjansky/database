@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="318"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="318"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      kromě
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акрамя</lemma>
+    <lemma>апроч</lemma>
+    <lemma>апрача</lemma>
+    <lemma>проч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>освен</lemma>
+    <lemma>с изключение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kromě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osim</lemma>
+    <lemma>izim</lemma>
+    <lemma>izuzevši</lemma>
+    <lemma>izuzimajući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oprócz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кроме</lemma>
+    <lemma>помимо</lemma>
+    <lemma annotation="обл., разг.">окромя</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>okrem</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvzamejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>осим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>крім</lemma>
+    <lemma>опріч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>escepti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>außer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behalve</lemma>
+  </synset>
+</multilingual-synset>

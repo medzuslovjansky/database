@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4178"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4178"
+      steen:addition="(prěžive)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prěžiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перажыць</lemma>
+    <lemma annotation="выжыць">перабыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оцелее</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přežít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>preživjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преживеа</lemma>
+    <lemma>опстана</lemma>
+    <lemma>остана жив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeżyć</lemma>
+    <lemma>ocaleć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="выжить">пережить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prežiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preživeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преживети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="вижити">пережити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>postvivi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überleben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overleven</lemma>
+  </synset>
+</multilingual-synset>

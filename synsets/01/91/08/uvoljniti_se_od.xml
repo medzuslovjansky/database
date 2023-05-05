@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19108"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19108"
+      steen:addition="(+2)"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="z"
+    >
+      uvoljniti sę od
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазбыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се отървете от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čeho">zbavit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osloboditi se</lemma>
+    <lemma annotation="nečega">ršeiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="некој предмет, нешто">се ослободи од</lemma>
+    <lemma>фрли</lemma>
+    <lemma>се реши од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uwolnić się od</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>избавиться от</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="čoho">zbaviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znebiti</lemma>
+    <lemma annotation="nekaj">ršeiti je</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ослободити се</lemma>
+    <lemma annotation="нечега">решити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>позбавитися від</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>liberiĝi sin de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sich entledigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich ontdoen van</lemma>
+  </synset>
+</multilingual-synset>

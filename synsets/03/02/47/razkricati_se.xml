@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30247"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30247"
+      steen:addition="(råzkriči)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      råzkričati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раскрычацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>започват да крещят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozkřičet se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razgalamiti se</lemma>
+    <lemma>razvikati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се развика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkrzyczeć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раскричаться</lemma>
+    <lemma>разораться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozkřičet sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Krik je na raskričati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развикати се</lemma>
+    <lemma>раскричати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розкричатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>start kriado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beginnen schrei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luid schreeuwen</lemma>
+    <lemma>beginnen te schreeuwen</lemma>
+    <lemma>een keel opzetten</lemma>
+  </synset>
+</multilingual-synset>

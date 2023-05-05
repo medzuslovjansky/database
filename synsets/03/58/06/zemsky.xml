@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35806"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35806" steen:pos="adj." steen:type="1">zemsky</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зямны</lemma>
+    <lemma>наземны</lemma>
+    <lemma>зямельны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наземен</lemma>
+    <lemma>сухоземен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozemský</lemma>
+    <lemma>zemský</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemaljski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сувоземен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ziemski</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>земной</lemma>
+    <lemma>наземный</lemma>
+    <lemma>земельный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pozemský</lemma>
+    <lemma>zemský</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zemeljski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земаљски</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>земний</lemma>
+    <lemma>наземний</lemma>
+    <lemma>земельний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>terrestrisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aards</lemma>
+  </synset>
+</multilingual-synset>

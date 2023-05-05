@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29658"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29658" steen:pos="f." steen:type="1" steen:same="v j">
+      osnova
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аснова слова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стъблото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slovní základ</lemma>
+    <lemma annotation="ling.">kmen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vokabular</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вокабулар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="jęz.">temat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>основа слова</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slovný základ</lemma>
+    <lemma annotation="ling.">kmeň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>inventar besede</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>залиха речи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>основа слова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stengel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="taalkunde">stam</lemma>
+  </synset>
+</multilingual-synset>

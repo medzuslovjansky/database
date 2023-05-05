@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32747"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32747" steen:pos="adv." steen:type="2" steen:same="v bg">
+      cělo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разам</lemma>
+    <lemma>агулам</lemma>
+    <lemma>у цэлым</lemma>
+    <lemma>у сукупнасці</lemma>
+    <lemma>у суме</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>общо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>celkem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ukupno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вкупно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ogółem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>итого</lemma>
+    <lemma>в целом</lemma>
+    <lemma>в совокупности</lemma>
+    <lemma>в сумме</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>celkom</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>skupno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>у целости</lemma>
+    <lemma>укупно</lemma>
+    <lemma>све заједно</lemma>
+    <lemma>у целини</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>загалом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>en tuta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>insgesamt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in totaal</lemma>
+  </synset>
+</multilingual-synset>

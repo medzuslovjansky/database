@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31068"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31068"
+      steen:addition="(věje)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      vějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>веяць</lemma>
+    <lemma>дзьмуць</lemma>
+    <lemma annotation="аб ветры">дзьмухаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вее</lemma>
+    <lemma annotation="вятър">духа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vát</lemma>
+    <lemma>foukat</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>вѣꙗти</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vejati</lemma>
+    <lemma annotation="vjetar">duvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вее</lemma>
+    <lemma annotation="ветар">дува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>веять</lemma>
+    <lemma annotation="о ветре">дуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>viať</lemma>
+    <lemma>fúkať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vijati</lemma>
+    <lemma annotation="piha">udarec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вејати</lemma>
+    <lemma annotation="ветар">дувати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віяти</lemma>
+    <lemma annotation="про вітер">дути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vento">bato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Wind">Schlag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waaien</lemma>
+  </synset>
+</multilingual-synset>

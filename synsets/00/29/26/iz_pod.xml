@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2926"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2926"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      iz-pod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з-пад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изпод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>под</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spod</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>из-под</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Spodaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з-під</lemma>
+    <lemma>із-під</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>el sub</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>von unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onder … vandaan</lemma>
+  </synset>
+</multilingual-synset>

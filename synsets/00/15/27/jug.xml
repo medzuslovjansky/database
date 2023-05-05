@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1527"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1527"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      jug
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>поўдзень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>юг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jih</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jug</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>југ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="strona świata">południe</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>юг</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>juh</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jug</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>југ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>південь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sude</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Süd</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zuiden</lemma>
+  </synset>
+</multilingual-synset>

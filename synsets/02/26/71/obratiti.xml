@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22671"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22671"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      obråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="увагу">звярнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="внимание">директен</lemma>
+    <lemma annotation="внимание">да се обърне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrátit</lemma>
+    <lemma annotation="pozornost">otočit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>usmjeriti</lemma>
+    <lemma annotation="pozornost">obratiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="внимание">обрне</lemma>
+    <lemma annotation="внимание">сврте</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="uwagę">skierować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="внимание">обратить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrátiť</lemma>
+    <lemma annotation="pozornosť">otočiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poudarek</lemma>
+    <lemma annotation="pozor">plačilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>усмерити</lemma>
+    <lemma annotation="пажњу">обратити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="увагу">звернути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="atento">rekta</lemma>
+    <lemma annotation="atento">siavice</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Aufmerksamkeit">Direkt</lemma>
+    <lemma annotation="Achtung">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="aandacht">vestigen</lemma>
+  </synset>
+</multilingual-synset>

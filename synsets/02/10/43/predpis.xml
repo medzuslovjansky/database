@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21043"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21043" steen:pos="m." steen:type="2" steen:same="ru cz">
+      prědpis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наказ</lemma>
+    <lemma>прадпісанне</lemma>
+    <lemma>загад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>заповед</lemma>
+    <lemma>платежни нареждания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předpis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>propis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уредба</lemma>
+    <lemma>регулатива</lemma>
+    <lemma>наредба</lemma>
+    <lemma>заповед</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предписание</lemma>
+    <lemma>указание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predpis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odlok</lemma>
+    <lemma>predpis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одредба</lemma>
+    <lemma>пропис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>припис</lemma>
+    <lemma>вказівка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ordo</lemma>
+    <lemma>reguligo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ordnung</lemma>
+    <lemma>Regulierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorschrift</lemma>
+  </synset>
+</multilingual-synset>

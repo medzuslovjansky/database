@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2123" steen:pos="m." steen:type="1" steen:genesis="F">
+      režim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэжым</lemma>
+    <lemma>лад</lemma>
+    <lemma>строй</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>режим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>režim</lemma>
+    <lemma>zřízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>režim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>режим</lemma>
+    <lemma>поредок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reżim</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>режим</lemma>
+    <lemma>строй</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>režim</lemma>
+    <lemma>zriadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>režim lestvica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>режим</lemma>
+    <lemma>поредак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>режим</lemma>
+    <lemma>лад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reĝimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Regime</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regime</lemma>
+  </synset>
+</multilingual-synset>

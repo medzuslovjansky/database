@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="266"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="266"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      lamati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ламаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>троша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lámat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lomiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крши</lemma>
+    <lemma>ломи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łamać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ломать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lámať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odmor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ломити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ламати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŭzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>breken</lemma>
+  </synset>
+</multilingual-synset>

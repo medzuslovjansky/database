@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20301"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20301" steen:pos="adj." steen:type="1">vyšny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вышэйшы</lemma>
+    <lemma>перасяжны</lemma>
+    <lemma>пераўзыходны</lemma>
+    <lemma>які мае перавагу</lemma>
+    <lemma>які пераважае</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>превъзходен</lemma>
+    <lemma>висш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyšší</lemma>
+    <lemma>nadřazený</lemma>
+    <lemma>lepší</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>viši</lemma>
+    <lemma>nadređeni</lemma>
+    <lemma>pretpostavljen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претпоставен</lemma>
+    <lemma>виш</lemma>
+    <lemma>супериорен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rangą">wyższy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>высший</lemma>
+    <lemma>превосходящий</lemma>
+    <lemma>превосходный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyššia</lemma>
+    <lemma>nadradený</lemma>
+    <lemma>lepšie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="po rangu">višja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="по чину">виши</lemma>
+    <lemma>надређени</lemma>
+    <lemma>претпостављени</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вищий</lemma>
+    <lemma>перевершуючий</lemma>
+    <lemma>чудовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überlegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>superieur</lemma>
+  </synset>
+</multilingual-synset>

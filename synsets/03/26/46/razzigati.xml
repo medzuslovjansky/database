@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32646"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32646"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      råzžigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распальваць</lemma>
+    <lemma>упальваць</lemma>
+    <lemma>правакаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>kindle</lemma>
+    <lemma>kindle</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozžíhat</lemma>
+    <lemma>podpalovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ražarivati</lemma>
+    <lemma>raspaljivati</lemma>
+    <lemma annotation="vatru">razgorevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поттикнува</lemma>
+    <lemma>провоцира</lemma>
+    <lemma>потпалува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozpalać</lemma>
+    <lemma>zarzewiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разжигать</lemma>
+    <lemma>провоцировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapaľuje</lemma>
+    <lemma>podpalovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ražarivati</lemma>
+    <lemma>Excite</lemma>
+    <lemma annotation="ogenj">razgorevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ражаривати</lemma>
+    <lemma>распаљивати</lemma>
+    <lemma annotation="ватру">разгоревати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпалювати</lemma>
+    <lemma>провокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instigi</lemma>
+    <lemma>kindle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anstiften</lemma>
+    <lemma>entfachen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vuur">aansteken</lemma>
+  </synset>
+</multilingual-synset>

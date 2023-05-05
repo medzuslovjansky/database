@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22047"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22047" steen:pos="n." steen:type="2" steen:same="ru pl cz">
+      protęžeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="часу">працяг</lemma>
+    <lemma>цягласць</lemma>
+    <lemma>працягласць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>период от време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čas">protažení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razdoblje</lemma>
+    <lemma>period</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>протегање</lemma>
+    <lemma>истегање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w przeciągu ... lat">przeciąg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="времени">протяжение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="čas">pretiahnutie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>časovno obdobje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>период</lemma>
+    <lemma>временски период</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="часу">протяг</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streĉado de tempo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ausdehnung der Zeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van tijd">loop</lemma>
+  </synset>
+</multilingual-synset>

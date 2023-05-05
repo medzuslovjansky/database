@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1054"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1054" steen:pos="m.pl." steen:type="1" steen:genesis="I">
+      šahy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шахматы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шах</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šachy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šah</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шах</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szachy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шахматы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šach</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šah)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="игра">шах</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шахи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schaakspel</lemma>
+  </synset>
+</multilingual-synset>

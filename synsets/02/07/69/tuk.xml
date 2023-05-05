@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20769"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="uk~ pl cs sb"
+    >
+      tuk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="цялесны">тлушч</lemma>
+    <lemma>лой</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мазнини</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tělesný tuk</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>mast</lemma>
+    <lemma>salo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="телесни">маснотии</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="cielesny">tłuszcz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="телесный">жир</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>telesný tuk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>maščobe</lemma>
+    <lemma>maščobe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>маст</lemma>
+    <lemma>сало</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="тілесний">жир</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korpa graso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Körperfett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vet</lemma>
+    <lemma>lichaamsvet</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36910"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36910"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      plebiscit
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>плебісцыт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плебисцит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plebiscit</lemma>
+    <lemma>hlasování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plebiscit</lemma>
+    <lemma>referendum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плебисцит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>plebiscyt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плебисцит</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plebiscit</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>plebiscit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>референдум</lemma>
+    <lemma>плебисцит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>плебісцит</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plebiscito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Volksabstimmung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plebisciet</lemma>
+    <lemma>volksraadpleging</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21728"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21728" steen:pos="v.intr. ipf." steen:type="1">
+      nastavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надыходзіць</lemma>
+    <lemma>наставаць</lemma>
+    <lemma>нахапляцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dolaziti</lemma>
+    <lemma>stizati</lemma>
+    <lemma>pristajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доаѓа</lemma>
+    <lemma>пристигнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zaczynać się">nastawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наступать</lemma>
+    <lemma>начинаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začetek</lemma>
+    <lemma>pojavljajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>почињати</lemma>
+    <lemma>настајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наставати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz tempo">veni</lemma>
+    <lemma annotation="ekz tempo">alvenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. Zeit">kommen (z.B. Zeit) kommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tijd">aanbreken</lemma>
+    <lemma annotation="tijd">komen</lemma>
+  </synset>
+</multilingual-synset>

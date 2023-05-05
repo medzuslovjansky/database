@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3255" steen:pos="f." steen:type="2" steen:same="ru cz">
+      råzvědka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выведка</lemma>
+    <lemma>вывед</lemma>
+    <lemma>розведы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Тайните служби</lemma>
+    <lemma>разузнаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvědka</lemma>
+    <lemma>tajná služba</lemma>
+    <lemma>spravodajská služba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tajna služba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извидница</lemma>
+    <lemma>тајна служба</lemma>
+    <lemma>разузнавачката служба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tajne służby</lemma>
+    <lemma>wywiad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разведка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozviedka</lemma>
+    <lemma>tajná služba</lemma>
+    <lemma>spravodajská služba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrivnost storitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тајна служба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розвідка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekreta servo</lemma>
+    <lemma>inteligenteco servo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geheimdienst</lemma>
+    <lemma>Nachrichtendienst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geheime dienst</lemma>
+  </synset>
+</multilingual-synset>

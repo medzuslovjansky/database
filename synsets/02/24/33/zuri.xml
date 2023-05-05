@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22433"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22433"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      žuri
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>журы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жури</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="soutěž">porota</lemma>
+    <lemma>žiri</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žiri</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="во натпревар, конкурс">жири</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jury</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жюри</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="súťaž">porota</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žirija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жири</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="конкурс">журі</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="en konkurso">ĵurio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Jury</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wedstrijd">jury</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33572"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33572"
+      steen:addition="(vije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru uk cz sl bm"
+    >
+      viti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абвіваць</lemma>
+    <lemma>звіваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вятър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vít</lemma>
+    <lemma>navíjet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="vjetar">viti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вие</lemma>
+    <lemma>витка</lemma>
+    <lemma>мота</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uwijać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="гнездо">вить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ví</lemma>
+    <lemma>navíjať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="veter">Veter</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="ветар">вити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завивати</lemma>
+    <lemma>завихрять</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oprollen</lemma>
+  </synset>
+</multilingual-synset>

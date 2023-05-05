@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3950"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3950"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      grupovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>групаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>групирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>seskupovat</lemma>
+    <lemma>shromažďovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grupirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>групира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grupować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>группировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zoskupovať</lemma>
+    <lemma>zhromažďovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skupina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>груписати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>групувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grupo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>gruppieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>groeperen</lemma>
+  </synset>
+</multilingual-synset>

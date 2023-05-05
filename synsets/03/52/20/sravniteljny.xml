@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35220"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35220"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cz bg"
+    >
+      sråvniteljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>параўнальны</lemma>
+    <lemma>параўнаўчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сравнителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srovnávací</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poredben</lemma>
+    <lemma>uporedan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сравнителен</lemma>
+    <lemma>споредбен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>porównawczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сравнительный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>porovnávacie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pregovori</lemma>
+    <lemma>kontrastne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поредбен</lemma>
+    <lemma>упоредан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>порівняльний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompara</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vergleichend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergelijkend</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2133"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2133" steen:pos="n." steen:type="2" steen:same="ru sh bg">
+      poslańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паведамленне</lemma>
+    <lemma>допіс</lemma>
+    <lemma annotation="зап.">мэсідж</lemma>
+    <lemma>ліст</lemma>
+    <lemma>ведамка</lemma>
+    <lemma>ведамасць</lemma>
+    <lemma>зварот</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съобщение пост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpráva</lemma>
+    <lemma>pošta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poruka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>порака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiadomość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сообщение</lemma>
+    <lemma>послание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>správa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sporočila</lemma>
+    <lemma>novice</lemma>
+    <lemma>Pisma</lemma>
+    <lemma>poslanstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порука</lemma>
+    <lemma>вест</lemma>
+    <lemma>посланије</lemma>
+    <lemma>послање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повідомлення</lemma>
+    <lemma>послання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mesaĝo</lemma>
+    <lemma>afiŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nachricht</lemma>
+    <lemma>Post</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bericht</lemma>
+  </synset>
+</multilingual-synset>

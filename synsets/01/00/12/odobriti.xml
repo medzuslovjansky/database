@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10012"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10012"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be j"
+    >
+      odobriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адобрыць</lemma>
+    <lemma>пахваліць</lemma>
+    <lemma>ухваліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>одобри</lemma>
+    <lemma>да тествате</lemma>
+    <lemma>разреши</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>schválit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odobriti</lemma>
+    <lemma>dopustiti</lemma>
+    <lemma>dozvoliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одобри</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatwierdzić</lemma>
+    <lemma>zaaprobować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одобрить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>schváliť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odobriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одобрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>схвалити</lemma>
+    <lemma>затвердити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aprobi</lemma>
+    <lemma>approbate</lemma>
+    <lemma>sankcio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>genehmigen</lemma>
+    <lemma>approbate</lemma>
+    <lemma>Sanktion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goedkeuren</lemma>
+  </synset>
+</multilingual-synset>

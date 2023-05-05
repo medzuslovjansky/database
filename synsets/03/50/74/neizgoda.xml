@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35074"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru uk cs bg"
+    >
+      neizgoda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загана</lemma>
+    <lemma>хіба</lemma>
+    <lemma>недахоп</lemma>
+    <lemma>калецтва</lemma>
+    <lemma>брак</lemma>
+    <lemma>ганьба</lemma>
+    <lemma>цяжкасць</lemma>
+    <lemma>нязручнасць</lemma>
+    <lemma>невыгода</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>недостатък</lemma>
+    <lemma>кусур</lemma>
+    <lemma>порок</lemma>
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nevýhoda</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>mana</lemma>
+    <lemma>nedostatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неисправна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>недостаток</lemma>
+    <lemma>неудобство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nevýhoda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mana</lemma>
+    <lemma>pomanjkanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мана</lemma>
+    <lemma>недостатак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вада</lemma>
+    <lemma>недолік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malavantaĝon</lemma>
+    <lemma>malavantaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nachteil Rückerstattungs-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nadeel</lemma>
+  </synset>
+</multilingual-synset>

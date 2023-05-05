@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35368"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35368"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="E"
+    >
+      mejnstrim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мэйнстрым</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мейнстрийм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlavní směr</lemma>
+    <lemma>mainstream</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mainstream</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мејнстрим</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mainstream</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мейнстрим</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlavný smer</lemma>
+    <lemma>mainstream</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mainstream</lemma>
+    <lemma>glavna smer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мејнстрим</lemma>
+    <lemma>главни правац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мейнстрім</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉefa fluo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mainstream</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mainstream</lemma>
+  </synset>
+</multilingual-synset>

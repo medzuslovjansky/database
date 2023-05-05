@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20309"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20309"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      zakryti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атуліць</lemma>
+    <lemma>ахіліць</lemma>
+    <lemma>схаваць</lemma>
+    <lemma>накрыць</lemma>
+    <lemma>прычыніць</lemma>
+    <lemma>пазатульваць</lemma>
+    <lemma>затуліць</lemma>
+    <lemma>прыкрыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>прикрия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zakrýt</lemma>
+    <lemma>přikrýt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zakriti</lemma>
+    <lemma>prikriti</lemma>
+    <lemma>zakloniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прикрие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ukryć</lemma>
+    <lemma>zakryć</lemma>
+    <lemma>przykryć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>укрыть</lemma>
+    <lemma>прикрыть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zakryť</lemma>
+    <lemma>prikryť</lemma>
+    <lemma>skryť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>закрити</lemma>
+    <lemma>прекрити</lemma>
+    <lemma>покрити</lemma>
+    <lemma>заклонити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>укрити</lemma>
+    <lemma>прикрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaŝi</lemma>
+    <lemma>kaŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschleiern</lemma>
+    <lemma>vertuschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbergen</lemma>
+    <lemma>verstoppen</lemma>
+    <lemma>afdekken</lemma>
+  </synset>
+</multilingual-synset>

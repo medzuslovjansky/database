@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8924"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8924" steen:pos="m." steen:type="1" steen:genesis="M">
+      ljudskomašinovy interfejs
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чалавека-машынны інтэрфейс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>човешко-машинен интерфейс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozhraní</lemma>
+    <lemma>interfejs člověk-stroj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>interfejs</lemma>
+    <lemma>interface</lemma>
+    <lemma>sučelje</lemma>
+    <lemma>međusklop</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>човек-машина интерфејс</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>interfejs użytkownika</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>человеко-машинный интерфейс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rozhranie</lemma>
+    <lemma>interfejs človek-stroj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>človek-stroj vmesnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интерфејс</lemma>
+    <lemma>човек-машина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>людино-машинний інтерфейс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>homa-maŝino interfaco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mensch-Maschine-Schnittstelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebruikersinterface</lemma>
+  </synset>
+</multilingual-synset>

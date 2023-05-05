@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35547"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35547"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vtęgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уцягваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>привличам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vtahávat</lemma>
+    <lemma annotation="drápy">zatahávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uključivati</lemma>
+    <lemma>uvlačiti</lemma>
+    <lemma>umiješati</lemma>
+    <lemma>upetljati</lemma>
+    <lemma>involvirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>привлекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wciągać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>втягивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vťahať</lemma>
+    <lemma annotation="pazúry">zaťahať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritegniti</lemma>
+    <lemma>zanimanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>привлачити</lemma>
+    <lemma>интересовати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>втягувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>implicas</lemma>
+    <lemma>tiri en</lemma>
+    <lemma>tiri en</lemma>
+    <lemma annotation="ungegoj">retiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beinhalten</lemma>
+    <lemma>in ziehen</lemma>
+    <lemma annotation="Klauen">ziehen in einfahren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>intrekken</lemma>
+    <lemma>naar binnen trekken</lemma>
+  </synset>
+</multilingual-synset>

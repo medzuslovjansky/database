@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35597"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35597"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kategoričny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>катэгарычны</lemma>
+    <lemma>безумоўны</lemma>
+    <lemma>пэўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>точност</lemma>
+    <lemma>безусловност</lemma>
+    <lemma>категоричност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kategorický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kategoričan</lemma>
+    <lemma>bezuvjetan</lemma>
+    <lemma>izričit</lemma>
+    <lemma>kategorički</lemma>
+    <lemma>odlučan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>категоричен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kategoryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>категорический</lemma>
+    <lemma>категоричный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kategorický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kategorično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>категоричан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>категоричний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kategoria</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kategorisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>categorisch</lemma>
+  </synset>
+</multilingual-synset>

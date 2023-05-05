@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2573"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2573" steen:pos="f." steen:type="1" steen:genesis="I">
+      hemija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хімія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>химия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chemie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kemija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хемија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chemia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>химия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chémia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kemija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хемија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хімія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kemio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Chemie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheikunde</lemma>
+    <lemma>chemie</lemma>
+  </synset>
+</multilingual-synset>

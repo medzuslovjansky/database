@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7654"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7654"
+      steen:pos="n.sg."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđanstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грамадзянства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гражданство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>občanství</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>državljanstvo</lemma>
+    <lemma>građanstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>државјанство</lemma>
+    <lemma>граѓанство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obywatelstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гражданство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>občianstvo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>državljanstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>држављанство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>громадянство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>civitaneco</lemma>
+    <lemma>nacieco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Staatsbürgerschaft</lemma>
+    <lemma>Bürgerschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nationaliteit</lemma>
+  </synset>
+</multilingual-synset>

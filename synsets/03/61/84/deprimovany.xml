@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36184"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36184"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v j"
+      steen:genesis="I"
+    >
+      deprimovany
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыгнечаны</lemma>
+    <lemma>згнечаны</lemma>
+    <lemma>падушаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>депресиран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>deprimovaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>deprimiran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>депримиран</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przygnębiony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подавленный</lemma>
+    <lemma>угнетённый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>deprimovaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Depresivni</lemma>
+    <lemma>depresivni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>депримиран</lemma>
+    <lemma>депресиван</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пригнічений</lemma>
+    <lemma>пригноблений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deprimita</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>deprimiert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gedeprimeerd</lemma>
+  </synset>
+</multilingual-synset>

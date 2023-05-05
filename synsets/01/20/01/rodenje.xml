@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12001"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12001" steen:pos="n." steen:type="1" steen:same="ru j">
+      rođeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>народзіны</lemma>
+    <lemma>нараджэнне</lemma>
+    <lemma>народжанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рожден ден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>porod</lemma>
+    <lemma>narození</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rađanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раѓање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rodzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рождение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pôrod</lemma>
+    <lemma>narodenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rojstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рађање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>народження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naskiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geburt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevalling</lemma>
+  </synset>
+</multilingual-synset>

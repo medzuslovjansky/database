@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22594"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22594"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      vvŕgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уводзіць</lemma>
+    <lemma>уганяць</lemma>
+    <lemma>складаць</lemma>
+    <lemma>змяшчаць</lemma>
+    <lemma annotation="у турму">месціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в затвора">хвърлям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="do vězení">uvrhat</lemma>
+    <lemma>uvězňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trpati</lemma>
+    <lemma>strpavati</lemma>
+    <lemma>bacati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="во затвор">фрла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do więzienia">wtrącać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ввергать</lemma>
+    <lemma>заключать</lemma>
+    <lemma annotation="в тюрьму">помещать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="do väzenia">uvrhať</lemma>
+    <lemma>uvězňovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="v zapor">metati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="у затвор">бацити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>кидати</lemma>
+    <lemma annotation="у в&apos;язницю">поміщати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en malliberejo">ĵeti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="im Gefängnis">werfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in de gevangenis">gooien</lemma>
+  </synset>
+</multilingual-synset>

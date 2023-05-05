@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17027"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cs j"
+    >
+      rędny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэгулярны</lemma>
+    <lemma>шараговы</lemma>
+    <lemma>радавы</lemma>
+    <lemma>звычайны</lemma>
+    <lemma>звычны</lemma>
+    <lemma>ардынарны</lemma>
+    <lemma>чарговы</lemma>
+    <lemma>слушны</lemma>
+    <lemma>правільны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>редовен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řádný</lemma>
+    <lemma>pravidelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>redovan</lemma>
+    <lemma>redovit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>редовен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>regularny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>регулярный</lemma>
+    <lemma>рядовой</lemma>
+    <lemma>обычный</lemma>
+    <lemma>ординарный</lemma>
+    <lemma>очередной</lemma>
+    <lemma>правильный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>riadny</lemma>
+    <lemma>pravidelný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>reden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>редован</lemma>
+    <lemma>редовит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>регулярний</lemma>
+    <lemma>рядовий</lemma>
+    <lemma>звичайний</lemma>
+    <lemma>ординарний</lemma>
+    <lemma>черговий</lemma>
+    <lemma>правильний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regulajn</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>regulär</lemma>
+    <lemma>regelmäßig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regelmatig</lemma>
+  </synset>
+</multilingual-synset>

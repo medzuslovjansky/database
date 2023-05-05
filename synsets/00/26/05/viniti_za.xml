@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2605"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2605" steen:pos="v.tr. ipf." steen:type="1">
+      viniti za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="за што-небудзь">вінаваціць</lemma>
+    <lemma annotation="у чым-небудзь">абвінавачваць</lemma>
+    <lemma>звінавачваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>виня за</lemma>
+    <lemma>обвинявам за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vinit</lemma>
+    <lemma>obviňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okriviti</lemma>
+    <lemma>optužiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обвинува за</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oskarżać</lemma>
+    <lemma>winić za</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="за что-либо">винить</lemma>
+    <lemma annotation="в чём-либо">обвинять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>viniť</lemma>
+    <lemma>obviňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кривити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="за що-небудь">винити</lemma>
+    <lemma annotation="у чому-небудь">звинувачувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akuzi de</lemma>
+    <lemma>kulpas pri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beschuldigen</lemma>
+    <lemma>die Schuld für</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschuldigen van</lemma>
+    <lemma>de schuld geven van</lemma>
+  </synset>
+</multilingual-synset>

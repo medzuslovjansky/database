@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36165"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36165"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      organ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арган</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="музикален инструмент">орган</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>varhany</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>orgulje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>орган</lemma>
+    <lemma annotation="музички инструмент">оргула</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="instrument muzyczny">organ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муз.">орга́н</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>varhany</lemma>
+    <lemma>organ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>organov</lemma>
+    <lemma annotation="glasbilo">orgle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>органи</lemma>
+    <lemma annotation="музички инструмент">оргуље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="муз.">орга́н</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="muzika instrumento">organo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Musical Instrument">organ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orgel</lemma>
+  </synset>
+</multilingual-synset>

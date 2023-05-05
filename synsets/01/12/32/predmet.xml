@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11232" steen:pos="m." steen:type="1" steen:same="v z j">
+      prědmet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадмет</lemma>
+    <lemma>спакмень</lemma>
+    <lemma>арыткул</lemma>
+    <lemma>выраб</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>статия позиция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předmět</lemma>
+    <lemma>výrobek</lemma>
+    <lemma>položka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predmet</lemma>
+    <lemma>artikl</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предмет</lemma>
+    <lemma>член</lemma>
+    <lemma>точка</lemma>
+    <lemma>артикл</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>towar</lemma>
+    <lemma>artykuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предмет</lemma>
+    <lemma>артикул</lemma>
+    <lemma>изделие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predmet</lemma>
+    <lemma>výrobok</lemma>
+    <lemma>položka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Predmet blago</lemma>
+    <lemma>izdelek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предмет</lemma>
+    <lemma>роба</lemma>
+    <lemma>артикл</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>предмет</lemma>
+    <lemma>артикул</lemma>
+    <lemma>виріб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="objekto">artikolo</lemma>
+    <lemma>elemento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Artikel</lemma>
+    <lemma>Artikel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="voorwerp">artikel</lemma>
+    <lemma>voorwerp</lemma>
+  </synset>
+</multilingual-synset>

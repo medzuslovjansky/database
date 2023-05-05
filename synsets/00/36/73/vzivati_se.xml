@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3673"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3673"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      vživati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ужывацца</lemma>
+    <lemma>увасабляцца</lemma>
+    <lemma>абжывацца</lemma>
+    <lemma>асвойвацца</lemma>
+    <lemma>звыкацца</lemma>
+    <lemma>прывыкаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свиквам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvykat si</lemma>
+    <lemma>přivykat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">navikavati</lemma>
+    <lemma annotation="se">privikavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се привикнува</lemma>
+    <lemma>се навикнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyzwyczajać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вживаться</lemma>
+    <lemma>обживаться</lemma>
+    <lemma>осваиваться</lemma>
+    <lemma>привыкать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvykať si</lemma>
+    <lemma>privýkať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navadi se na</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>навикавати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>звикати</lemma>
+    <lemma>освоюватися</lemma>
+    <lemma>уживатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="al">alkutimiĝi</lemma>
+    <lemma annotation="al">akiri alkutimiĝis</lemma>
+    <lemma>konatiĝi sin kun</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="to">gewöhnungs</lemma>
+    <lemma annotation="to">gewöhnen</lemma>
+    <lemma>machen sich mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gewend raken</lemma>
+  </synset>
+</multilingual-synset>

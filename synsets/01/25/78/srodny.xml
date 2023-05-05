@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12578"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12578" steen:pos="adj." steen:type="2" steen:same="ru j">
+      srodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сваяцкі</lemma>
+    <lemma>родны</lemma>
+    <lemma>блізкі</lemma>
+    <lemma>крэўны</lemma>
+    <lemma annotation="зап.">родасны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подобно</lemma>
+    <lemma>однокоренное</lemma>
+    <lemma>свързани с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příbuzný</lemma>
+    <lemma>související</lemma>
+    <lemma>podobný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>srodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сроден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spokrewniony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>родственный</lemma>
+    <lemma>сродный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príbuzný</lemma>
+    <lemma>súvisiace</lemma>
+    <lemma>podobný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povezana</lemma>
+    <lemma>povezana</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сродан</lemma>
+    <lemma>у сродству</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>споріднений</lemma>
+    <lemma>сродний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parenca</lemma>
+    <lemma>cognado</lemma>
+    <lemma>rilata</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwandt</lemma>
+    <lemma>cognate</lemma>
+    <lemma>verwandte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwant</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="489"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="489" steen:pos="m." steen:type="1">raz</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раз</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krát</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>кра́тъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>put</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma
+      annotation="за означување еднократност, количество или повторување на дејството: два пати, три пати, сто пати"
+    >
+      пат
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>raz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раз</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>raz</lemma>
+    <lemma>krát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>še enkrat</lemma>
+    <lemma>kolikokrat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једанпут</lemma>
+    <lemma>колико пута</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>раз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tempo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maal</lemma>
+    <lemma>keer</lemma>
+  </synset>
+</multilingual-synset>

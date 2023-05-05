@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4521"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4521" steen:pos="m.anim." steen:type="1">
+      daritelj krve
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>донар крыві</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кръводарител</lemma>
+    <lemma>дарител на кръв</lemma>
+    <lemma>донор на кръв</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dárce krve</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>davatelj krvi</lemma>
+    <lemma>darivatelj krvi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крводарител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dawca krwi</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>донор крови</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>darca krvi</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>krvodajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>давалац крви</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>донор крові</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sango donacanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blutspender</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloeddonor</lemma>
+  </synset>
+</multilingual-synset>

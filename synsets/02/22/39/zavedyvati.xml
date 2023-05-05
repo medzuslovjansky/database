@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22239"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22239"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      zavědyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадваць</lemma>
+    <lemma>кіраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завежда</lemma>
+    <lemma>управлява</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spravovat</lemma>
+    <lemma>mít na starosti</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>upravljati</lemma>
+    <lemma>voditi</lemma>
+    <lemma>rukovoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заведува</lemma>
+    <lemma>управува</lemma>
+    <lemma>раководи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zarządzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заведовать</lemma>
+    <lemma>управлять</lemma>
+    <lemma>руководить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spravovať</lemma>
+    <lemma>mať na starosti</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr podjetje">upravljanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. предузећем">управљати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завідувати</lemma>
+    <lemma>управляти</lemma>
+    <lemma>керувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>administri</lemma>
+    <lemma>zorge de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwalten</lemma>
+    <lemma>werden verantwortlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beheren</lemma>
+  </synset>
+</multilingual-synset>

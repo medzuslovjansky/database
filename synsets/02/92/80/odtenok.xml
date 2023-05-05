@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29280" steen:pos="m." steen:type="1" steen:same="v z j">
+      odtěnȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адценне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нюанс</lemma>
+    <lemma>оттенък</lemma>
+    <lemma>нюанс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstín</lemma>
+    <lemma>nádech</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nijansa</lemma>
+    <lemma>preljev</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нијанса</lemma>
+    <lemma>тон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odcień</lemma>
+    <lemma>niuans</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оттенок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odtieň</lemma>
+    <lemma>nádych</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>senčila</lemma>
+    <lemma>jutranje</lemma>
+    <lemma annotation="barva, ton">prehod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нијанска</lemma>
+    <lemma>прелив</lemma>
+    <lemma annotation="боје, тона">прелаз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відтінок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ombro</lemma>
+    <lemma>nuanco</lemma>
+    <lemma>duonvoĉe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schatten</lemma>
+    <lemma>Farbton</lemma>
+    <lemma>Unterton</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tint</lemma>
+  </synset>
+</multilingual-synset>

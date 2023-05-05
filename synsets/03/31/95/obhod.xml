@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33195"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33195" steen:pos="m." steen:type="2" steen:same="pl j">
+      obhod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абыход</lemma>
+    <lemma>абход</lemma>
+    <lemma>патруль</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>патрул</lemma>
+    <lemma>през цялата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlídka</lemma>
+    <lemma>obchůzka</lemma>
+    <lemma>pochůzka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ophodnja</lemma>
+    <lemma>patrola</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патрола</lemma>
+    <lemma>обиколка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>patrol</lemma>
+    <lemma>obchód</lemma>
+    <lemma>runda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обход</lemma>
+    <lemma>патруль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hliadka</lemma>
+    <lemma>obchôdzka</lemma>
+    <lemma>pochôdzka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>organizatorji</lemma>
+    <lemma>procesija</lemma>
+    <lemma>patrulje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обилазак</lemma>
+    <lemma>опход</lemma>
+    <lemma>патрола</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обхід</lemma>
+    <lemma>патруль</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>patrolo</lemma>
+    <lemma>ronda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Patrouille</lemma>
+    <lemma>rund</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="lopen">rondje</lemma>
+    <lemma>patrouille</lemma>
+  </synset>
+</multilingual-synset>

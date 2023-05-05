@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32632"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32632"
+      steen:addition="(sȯžže)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl~ j"
+    >
+      sȯžegti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спаліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изгаряне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spálit</lemma>
+    <lemma>sežehnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>spaliti</lemma>
+    <lemma>sažeći</lemma>
+    <lemma>sagorjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изгори</lemma>
+    <lemma>запали</lemma>
+    <lemma>спали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сжечь</lemma>
+    <lemma>спалить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spáliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gorijo</lemma>
+    <lemma>gorijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спалити</lemma>
+    <lemma>сагорети</lemma>
+    <lemma>сажећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bruligi supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verglühen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opbranden</lemma>
+  </synset>
+</multilingual-synset>

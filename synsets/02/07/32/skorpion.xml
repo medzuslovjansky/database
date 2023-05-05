@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20732"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20732"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      skorpion
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скарпіён</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скорпион</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>štír</lemma>
+    <lemma>škorpion</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>skorpija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скорпија</lemma>
+    <lemma>чкрапја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skorpion</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скорпион</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>škorpión</lemma>
+    <lemma>šťúr</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skorpija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скорпија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скорпіон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skorpio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Skorpion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schorpioen</lemma>
+  </synset>
+</multilingual-synset>

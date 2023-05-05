@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21533"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21533"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      rųkoděľstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рукадзелле</lemma>
+    <lemma>самаробка</lemma>
+    <lemma>рамяство</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ремесленничество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řemeslo</lemma>
+    <lemma>rukodělná výroba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zanatstvo</lemma>
+    <lemma>obrtništvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ракоделство</lemma>
+    <lemma>занаетчиство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rękodzieło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рукоделие</lemma>
+    <lemma>ремесло</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>remeslo</lemma>
+    <lemma>ručná výroba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ročno delo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ручни рад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рукоділля</lemma>
+    <lemma>ремесло</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>artmetio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kunsthandwerk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handwerk</lemma>
+  </synset>
+</multilingual-synset>

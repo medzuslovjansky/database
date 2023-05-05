@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6194"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6194"
+      steen:addition="#(pozȯve)"
+      steen:pos="v.pf."
+      steen:type="1"
+    >
+      pozvati v sųd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выклікаць у суд</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Сю</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podat žalobu</lemma>
+    <lemma>zažalovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pozvati na sud</lemma>
+    <lemma>povesti parnicu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повика во суд</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do sądu">pozwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вызвать в суд</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podať žalobu</lemma>
+    <lemma>zažalovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izpodbijati na sodišču</lemma>
+    <lemma>da bo tožil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позвати на суд</lemma>
+    <lemma>повести парницу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викликати до суду</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sue</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verklagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voor de rechter slepen</lemma>
+  </synset>
+</multilingual-synset>

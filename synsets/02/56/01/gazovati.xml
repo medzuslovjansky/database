@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25601"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25601"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      gazovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>газаваць</lemma>
+    <lemma>ціснуць на газ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дам газ</lemma>
+    <lemma>настъпвам педала на газта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šlápnout na plyn</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>(do)dati gas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дава гас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dodać gazu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>газовать</lemma>
+    <lemma>жать на газ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šliapnuť na plyn</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za potisk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дати гас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>газувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŝo sur la gaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gas geben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gas geven</lemma>
+  </synset>
+</multilingual-synset>

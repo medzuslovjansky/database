@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13485"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13485" steen:pos="adv." steen:type="1">
+      v tom samom vrěmenu
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>у той жа час</lemma>
+    <lemma>адначасова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>в същото време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ve stejné době</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>u istom trenutku</lemma>
+    <lemma>u isto vrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>во исто време</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>w międzyczasie</lemma>
+    <lemma>w tym samym czasie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>в то же время</lemma>
+    <lemma>одновременно</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>v rovnakej dobe</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ob istem času</lemma>
+    <lemma>v istem času</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>у истом тренутку</lemma>
+    <lemma>у исто време</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>в той же час</lemma>
+    <lemma>одночасно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>samtempe</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>gleichzeitig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terzelfder tijd</lemma>
+    <lemma>gelijktijdig</lemma>
+  </synset>
+</multilingual-synset>

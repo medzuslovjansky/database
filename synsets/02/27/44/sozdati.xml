@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22744"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22744"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      sȯzdati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стварыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>създаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vytvořit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stvoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>создај</lemma>
+    <lemma>креирај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stworzyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>создать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vytvoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustvariti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>створити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>створити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krei</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erstellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>creëren</lemma>
+  </synset>
+</multilingual-synset>

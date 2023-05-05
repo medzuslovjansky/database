@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21089"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21089"
+      steen:addition="(propade)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="v pl mk"
+    >
+      propasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прапасці</lemma>
+    <lemma>запаветраць</lemma>
+    <lemma>знікнуць</lemma>
+    <lemma>згубіцца</lemma>
+    <lemma>разгубіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се задържа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ztratit se</lemma>
+    <lemma annotation="vědomí">pozbýt</lemma>
+    <lemma annotation="bezvědomí">upadnout</lemma>
+    <lemma>zhynout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>propasti</lemma>
+    <lemma>nestati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пропадна</lemma>
+    <lemma>исчезна</lemma>
+    <lemma>изгуби</lemma>
+    <lemma>уништи</lemma>
+    <lemma>снема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zniknąć</lemma>
+    <lemma>zginąć</lemma>
+    <lemma>zapodziać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пропасть</lemma>
+    <lemma>исчезнуть</lemma>
+    <lemma>потеряться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stratiť sa</lemma>
+    <lemma>upadnúť</lemma>
+    <lemma>zhynúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kolaps</lemma>
+    <lemma>izginejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пропасти</lemma>
+    <lemma>нестати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пропасти</lemma>
+    <lemma>втратитися</lemma>
+    <lemma>загубитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malaperos</lemma>
+    <lemma>perdiĝos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verfällt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegraken</lemma>
+    <lemma>verdwijnen</lemma>
+  </synset>
+</multilingual-synset>

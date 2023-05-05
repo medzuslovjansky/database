@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4933"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4933"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="напрамак">пад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="посока">под</lemma>
+    <lemma annotation="посока">под</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="směr">pod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pod</lemma>
+    <lemma>ispod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="насока">под</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pod</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="направление">под</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="smer">pod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spodaj</lemma>
+    <lemma>pod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>под</lemma>
+    <lemma>испод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напрямок">під</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="direkto">sub</lemma>
+    <lemma annotation="direkto">sube</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Richtung">unter</lemma>
+    <lemma annotation="Richtung">unten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="richting">onder</lemma>
+  </synset>
+</multilingual-synset>

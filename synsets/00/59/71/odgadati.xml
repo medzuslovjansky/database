@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5971"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5971" steen:pos="v.tr. pf." steen:type="2">odgadati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адгадаць</lemma>
+    <lemma>угадаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отгатна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uhodnout</lemma>
+    <lemma>uhádnout</lemma>
+    <lemma>odhadnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pogoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>погоди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zgadnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отгадать</lemma>
+    <lemma>угадать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uhádnuť</lemma>
+    <lemma>odhadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="odgovor">hit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="одговор">погодити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відгадати</lemma>
+    <lemma>вгадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diveni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erraten</lemma>
+    <lemma>raten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>raden</lemma>
+    <lemma>gokken</lemma>
+  </synset>
+</multilingual-synset>

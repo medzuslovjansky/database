@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5792" steen:pos="f." steen:type="2" steen:same="ru pl sh">
+      straža
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="саст.">старожа</lemma>
+    <lemma>варта</lemma>
+    <lemma>ахова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>задържане</lemma>
+    <lemma annotation="дейности">охрана</lemma>
+    <lemma annotation="активност">часовници</lemma>
+    <lemma annotation="тялото на човека">охрана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stáž</lemma>
+    <lemma>hlídka</lemma>
+    <lemma>ochrana</lemma>
+    <lemma>dozor</lemma>
+    <lemma>garda</lemma>
+    <lemma>eskorta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>straža</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стража</lemma>
+    <lemma>заштита</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>straż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стража</lemma>
+    <lemma>охрана</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stáž</lemma>
+    <lemma>hliadka</lemma>
+    <lemma>ochrana</lemma>
+    <lemma>dozor</lemma>
+    <lemma>garda</lemma>
+    <lemma>eskorta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stražar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стража</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>варта</lemma>
+    <lemma>охорона</lemma>
+    <lemma>стража</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>policgardo</lemma>
+    <lemma annotation="aktiveco">gvardio</lemma>
+    <lemma annotation="aktiveco">servo</lemma>
+    <lemma annotation="korpo de viroj">gvardio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Polizeihaft</lemma>
+    <lemma annotation="Aktivität">Schutz</lemma>
+    <lemma annotation="Aktivität">Uhr</lemma>
+    <lemma annotation="von Männern">Schutz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bewaking</lemma>
+  </synset>
+</multilingual-synset>

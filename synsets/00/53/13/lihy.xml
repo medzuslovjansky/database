@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5313"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5313" steen:pos="adj." steen:type="2" steen:same="cz yu">
+      lihy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няцотны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нечетен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lichý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neparan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieparzysty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нечётный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepárny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sodo</lemma>
+    <lemma annotation="arch.">liho</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непаран</lemma>
+    <lemma annotation="арх.">лих</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>непарний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="nombro">stranga</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>ungerade</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="getal">oneven</lemma>
+  </synset>
+</multilingual-synset>

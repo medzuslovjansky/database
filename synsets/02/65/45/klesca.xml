@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26545"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26545" steen:pos="f." steen:type="1">klěšča</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клешня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>щипка</lemma>
+    <lemma annotation="на рак">клеща</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klepeto</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kliješta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на рак">клешта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kraba">szczypce</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клешня</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klepeto</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klešče</lemma>
+    <lemma>klešče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кљешта</lemma>
+    <lemma>кљеште</lemma>
+    <lemma>клешта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клешня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de krabo">garra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="eine Krabbe">Klaue</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="krab">schaar</lemma>
+  </synset>
+</multilingual-synset>

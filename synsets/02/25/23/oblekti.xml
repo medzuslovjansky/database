@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22523"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22523"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      oblěkti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надзець</lemma>
+    <lemma>напнуць</lemma>
+    <lemma>напрануць</lemma>
+    <lemma>апрануць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>не</lemma>
+    <lemma>сложи на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obléct si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ogrnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нагрна</lemma>
+    <lemma>наметна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ubranie">nałożyć</lemma>
+    <lemma>odziać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>надеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obliecť si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zavesa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>огрнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>надіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>don</lemma>
+    <lemma>surmetis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>don</lemma>
+    <lemma>setzen auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleren">aantrekken</lemma>
+  </synset>
+</multilingual-synset>

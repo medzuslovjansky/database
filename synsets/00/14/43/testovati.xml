@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1443"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1443"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      testovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэставаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тествам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>testovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>testirati</lemma>
+    <lemma>ispitati</lemma>
+    <lemma>provjeriti</lemma>
+    <lemma>ovjeriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тестира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>testować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тестировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>testovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preskusih</lemma>
+    <lemma>isptitati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тестирати</lemma>
+    <lemma>исптитати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тестувати</lemma>
+    <lemma>перевіряти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>testo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Prüfung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>testen</lemma>
+  </synset>
+</multilingual-synset>

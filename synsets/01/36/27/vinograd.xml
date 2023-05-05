@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13627"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13627" steen:pos="m." steen:type="1">vinogråd</lemma>
+    <lemma steen:id="13627" steen:pos="m." steen:type="1">vinogrådnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="расліна">вінаград</lemma>
+    <lemma>вінаграднік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лозе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vinice</lemma>
+    <lemma>vinohrad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vinograd</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лозар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>winnica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="растение">виноград</lemma>
+    <lemma>виноградник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vinice</lemma>
+    <lemma>vinohrad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vinograd</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>виноград</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="рослина">виноград</lemma>
+    <lemma>виноградник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vinberejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Weinberg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wijngaard</lemma>
+  </synset>
+</multilingual-synset>

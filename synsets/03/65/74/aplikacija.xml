@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36574"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36574"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="I"
+    >
+      aplikacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="праграмнае забеспячэнне">прыкладанне</lemma>
+    <lemma>дадатак</lemma>
+    <lemma>праграма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приложение</lemma>
+    <lemma>софтуер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aplikace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="program">aplikacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>апликација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aplikacja</lemma>
+    <lemma>apka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="программное обеспечение">приложение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>aplikácia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>aplikacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="програм">апликација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="програма">додаток</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>aplikaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Software">Anwendung</lemma>
+    <lemma>App</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>applicatie</lemma>
+    <lemma>app</lemma>
+  </synset>
+</multilingual-synset>

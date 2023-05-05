@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5378"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5378" steen:pos="v.tr. ipf." steen:type="1">
+      oddavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аддаваць</lemma>
+    <lemma>вяртаць</lemma>
+    <lemma>варочаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>раздават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vracet</lemma>
+    <lemma>vydávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>davati</lemma>
+    <lemma>predavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предава</lemma>
+    <lemma>дава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отдавать</lemma>
+    <lemma>возвращать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vracať</lemma>
+    <lemma>vydávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vračajo</lemma>
+    <lemma>da smo dobili</lemma>
+    <lemma>da razkrije</lemma>
+    <lemma annotation="pri skladiščenju">poučevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>враћати</lemma>
+    <lemma>давати</lemma>
+    <lemma>одавати</lemma>
+    <lemma annotation="на чување">предавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віддавати</lemma>
+    <lemma>повертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fordoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hergeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weggeven</lemma>
+  </synset>
+</multilingual-synset>

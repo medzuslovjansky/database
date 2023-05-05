@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36582"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36582"
+      steen:addition="(+5)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      proslaviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праславіцца</lemma>
+    <lemma>уславіцца</lemma>
+    <lemma>выславіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="за">станете известен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proslavit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proslaviti se</lemma>
+    <lemma>postati slavan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се прослави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="za">stać się sławny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прославиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>presláviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>praznovanje</lemma>
+    <lemma>postal znan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прославити се</lemma>
+    <lemma>постати славан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прославитися</lemma>
+    <lemma>здобути слави</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por">famiĝos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="für">berühmt werden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="om">bekend worden</lemma>
+  </synset>
+</multilingual-synset>

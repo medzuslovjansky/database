@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1436"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1436" steen:pos="m.anim." steen:type="2">děd</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзед</lemma>
+    <lemma>дзядуля</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дядо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>děda</lemma>
+    <lemma>děd</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>djed</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дедо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="krewny">dziad</lemma>
+    <lemma>dziadek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дед</lemma>
+    <lemma>дедушка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dedo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dedek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>деда</lemma>
+    <lemma>дека</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дід</lemma>
+    <lemma>дідусь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>avo</lemma>
+    <lemma>avo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Großvater</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grootvader</lemma>
+    <lemma>opa</lemma>
+  </synset>
+</multilingual-synset>

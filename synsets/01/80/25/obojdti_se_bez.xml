@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18025"
+      steen:addition="(obȯjde; obšel)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      obȯjdti sę bez
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абыйсціся без</lemma>
+    <lemma>справіцца без</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>без</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obejít se bez</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="bez nečega">snaći se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се помине без</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="bez czegoś">poradzić sobie</lemma>
+    <lemma>dać sobie radę bez</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обойтись без</lemma>
+    <lemma>управиться без</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaobísť sa bez</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="brez nečesa">ročaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="без нечега">снаћи се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обійтися без</lemma>
+    <lemma>перебутися без</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malhavi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzichten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich kunnen redden zonder</lemma>
+  </synset>
+</multilingual-synset>

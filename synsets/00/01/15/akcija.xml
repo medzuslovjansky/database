@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="115"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="115" steen:pos="f." steen:type="1" steen:genesis="I">
+      akcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="каштоўная папера">акцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="ценна книга">акция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="cenný papír">akcie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="vrijednosni papir">akcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вредносна хартија">акција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>udział</lemma>
+    <lemma annotation="papier wartościowy">akcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ценная бумага">акция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="cenný papier">akcia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="vrednostni papir">delnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="хартија од вредности">акција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="цінний папір">акція</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akcio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Aktie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="waardepapier">aandeel</lemma>
+  </synset>
+</multilingual-synset>

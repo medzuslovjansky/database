@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30879"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30879"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
+      temnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вязніца</lemma>
+    <lemma>турма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тъмница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hladomorna</lemma>
+    <lemma>žalář</lemma>
+    <lemma>vězení</lemma>
+    <lemma>loch</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tamnica</lemma>
+    <lemma>zatvor</lemma>
+    <lemma>haps</lemma>
+    <lemma>rešt</lemma>
+    <lemma>pržun</lemma>
+    <lemma>buhara</lemma>
+    <lemma>butura</lemma>
+    <lemma>ćuza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>темница</lemma>
+    <lemma>затвор</lemma>
+    <lemma>зандана</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>loch</lemma>
+    <lemma>ciemnica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>темница</lemma>
+    <lemma>тюрьма</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hladomorňa</lemma>
+    <lemma>žalár</lemma>
+    <lemma>väzenie</lemma>
+    <lemma>loch</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ječa</lemma>
+    <lemma>zapor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тамница</lemma>
+    <lemma>затвор</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>темниця</lemma>
+    <lemma>в&apos;язниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>karcero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verlies</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kerker</lemma>
+  </synset>
+</multilingual-synset>

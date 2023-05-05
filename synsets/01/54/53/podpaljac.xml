@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15453"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15453"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="uk pl sk sh"
+    >
+      podpaljač
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падпальнік</lemma>
+    <lemma>падпальшчык</lemma>
+    <lemma>падпаляч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подпалвач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žhář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potpaljivač</lemma>
+    <lemma>palikuća</lemma>
+    <lemma>piroman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потпалувач</lemma>
+    <lemma>пироман</lemma>
+    <lemma>паликуќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podpalacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поджигатель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podpaľač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vžigalno</lemma>
+    <lemma>požigalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потпаљивач</lemma>
+    <lemma>пироман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>палій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>incendiario</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brandstifter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brandstichter</lemma>
+  </synset>
+</multilingual-synset>

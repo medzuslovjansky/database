@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25376"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25376" steen:pos="f." steen:type="1">dropja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>драфа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вид птица">дропла</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pták">drop</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>droplja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид птица">дропла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ptak">drop</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дрофа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vták">drop</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ptica">droplja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="птица">дропља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="птах">дрохва</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>otido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trappe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vogel">trap</lemma>
+  </synset>
+</multilingual-synset>

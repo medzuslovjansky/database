@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21165"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21165"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      spustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпусціць</lemma>
+    <lemma annotation="карабель на воду">спусціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се освободи</lemma>
+    <lemma>отключване</lemma>
+    <lemma annotation="на кораба">стартиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spustit</lemma>
+    <lemma>uvolnit</lemma>
+    <lemma>vypustit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osloboditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ослободување</lemma>
+    <lemma>ослободи</lemma>
+    <lemma annotation="брод">лансира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypuścić</lemma>
+    <lemma annotation="statek">zwodować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выпустить</lemma>
+    <lemma annotation="корабль на воду">спустить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spustiť</lemma>
+    <lemma>uvoľniť</lemma>
+    <lemma>vypustiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osvoboditi se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ослободити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випустити</lemma>
+    <lemma annotation="корабель на воду">спустити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forlaso Deĉenigi</lemma>
+    <lemma annotation="ŝipo">ĵeto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Release</lemma>
+    <lemma>entfesseln</lemma>
+    <lemma annotation="Schiff">Start</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>loslaten</lemma>
+    <lemma>te water laten</lemma>
+  </synset>
+</multilingual-synset>

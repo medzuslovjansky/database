@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36302"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36302"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="безвыходнасць">пат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>патовая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пат</lemma>
+    <lemma>нерешено</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="безвыходное положение">пат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pat</lemma>
+    <lemma>marmelada</lemma>
+    <lemma>žrebanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пат</lemma>
+    <lemma>застој</lemma>
+    <lemma>нерешено</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="безвихідь">пат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>blokiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Patt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pat</lemma>
+    <lemma>patstelling</lemma>
+  </synset>
+</multilingual-synset>

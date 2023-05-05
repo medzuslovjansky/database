@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21560"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21560"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cz j"
+    >
+      seběčnjak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эгаіст</lemma>
+    <lemma>сабетнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>егоистичен човек</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sobec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sebičnjak</lemma>
+    <lemma>egoist</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>себичник</lemma>
+    <lemma>себична личност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samolub</lemma>
+    <lemma>egoista</lemma>
+    <lemma annotation="osoba">narcyz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эгоист</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sebec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sebičen</lemma>
+    <lemma>sebeljubac</lemma>
+    <lemma>self-iskalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>себичњак</lemma>
+    <lemma>себељубац</lemma>
+    <lemma>саможивац</lemma>
+    <lemma>смољубац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>егоїст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>egoisma persono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>egoistische Person</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zelfzuchtig persoon</lemma>
+    <lemma>egoïst</lemma>
+  </synset>
+</multilingual-synset>

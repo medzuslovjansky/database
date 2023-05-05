@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34932"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34932"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      fotka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фатаграфія</lemma>
+    <lemma>фота</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>снимка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fotka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fotografija</lemma>
+    <lemma>ftos</lemma>
+    <lemma>fotka</lemma>
+    <lemma>slika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фотка</lemma>
+    <lemma>фотографија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdjęcie</lemma>
+    <lemma>fotka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фотография</lemma>
+    <lemma>фото</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fotka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fotografija</lemma>
+    <lemma>slikarstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фотографија</lemma>
+    <lemma>слика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>світлина</lemma>
+    <lemma>фото</lemma>
+    <lemma>фотознімок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>foto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Foto</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>foto</lemma>
+  </synset>
+</multilingual-synset>

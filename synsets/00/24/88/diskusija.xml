@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2488"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2488" steen:pos="f." steen:type="1" steen:genesis="I">
+      diskusija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыскусія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дискусия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>diskuse</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>diskusija</lemma>
+    <lemma>rasprava</lemma>
+    <lemma>debata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дискусија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dyskusja</lemma>
+    <lemma>rozprawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дискуссия</lemma>
+    <lemma>обсуждение</lemma>
+    <lemma>спор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diskusia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>diskusija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дискусија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дискусія</lemma>
+    <lemma>обговорення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diskuto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Diskussion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>discussie</lemma>
+  </synset>
+</multilingual-synset>

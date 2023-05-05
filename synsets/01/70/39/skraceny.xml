@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17039"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17039" steen:pos="adj." steen:type="1">skråćeny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скарочаны</lemma>
+    <lemma>пакарочаны</lemma>
+    <lemma annotation="зап.">укарочаны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съкратен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkrácený</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>skraćen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скратен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skrócony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сокращённый</lemma>
+    <lemma>укороченный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skrátený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogodbeno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скраћен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скорочений</lemma>
+    <lemma>укорочений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mallongigis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verkürzt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkort</lemma>
+    <lemma>ingekort</lemma>
+    <lemma>afgekort</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32318"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32318"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru uk cs bm"
+    >
+      myslimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мысленны</lemma>
+    <lemma>магчымы</lemma>
+    <lemma>мажлівы</lemma>
+    <lemma>спасцігальны</lemma>
+    <lemma>даступны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мислим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>představitelný</lemma>
+    <lemma>myslitelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>moguć</lemma>
+    <lemma>izvediv</lemma>
+    <lemma>izvodljiv</lemma>
+    <lemma>vjerojatan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замислен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyobrażalny</lemma>
+    <lemma>do pomyślenia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мыслимый</lemma>
+    <lemma>постижимый</lemma>
+    <lemma>возможный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predstaviteľný</lemma>
+    <lemma>mysliteľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mislim</lemma>
+    <lemma>premišljen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мислен</lemma>
+    <lemma>мисаон</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мислимий</lemma>
+    <lemma>можливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imagebla</lemma>
+    <lemma>thinkable</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>denkbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>denkbaar</lemma>
+  </synset>
+</multilingual-synset>

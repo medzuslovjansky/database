@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35686"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35686"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      prisęgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысягнуцца</lemma>
+    <lemma>паклясціся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="клетва">кълна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpřisáhnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zakunuti se</lemma>
+    <lemma>zakleti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заколна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przysiąc</lemma>
+    <lemma>przyrzec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присягнуть</lemma>
+    <lemma>поклясться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odprisahať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preklinjati</lemma>
+    <lemma>prisežem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>закунути се</lemma>
+    <lemma>заклети се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>присягнути</lemma>
+    <lemma>заприсягнути</lemma>
+    <lemma>поклястися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĵuro">ĵuri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Eid">schwören</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zweren</lemma>
+  </synset>
+</multilingual-synset>

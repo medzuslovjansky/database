@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36639"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36639" steen:pos="adj.">bezrodny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязродны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безроден</lemma>
+    <lemma>без корен</lemma>
+    <lemma>без семейство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bez rodiny</lemma>
+    <lemma>bez kořenů</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bezrodan</lemma>
+    <lemma>neplodan</lemma>
+    <lemma>besplodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безроден</lemma>
+    <lemma>без роднини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezkorzeniowy</lemma>
+    <lemma>niemający rodziny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безродный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bez rodiny</lemma>
+    <lemma>bez koreňov</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brez korenin</lemma>
+    <lemma>brez družine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безродан</lemma>
+    <lemma>неплодан</lemma>
+    <lemma>бесплодан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безрідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senradika</lemma>
+    <lemma>havante nenian familio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>familienlos</lemma>
+    <lemma annotation="ohne Familie">heimatlos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>niet-geworteld</lemma>
+    <lemma>geen familie hebbende</lemma>
+  </synset>
+</multilingual-synset>

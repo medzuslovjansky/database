@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31617"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31617" steen:pos="f." steen:type="1" steen:same="v sk j">
+      zěnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зрэнка</lemma>
+    <lemma>зяніца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зеница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zornice</lemma>
+    <lemma>panenka</lemma>
+    <lemma>zřítelnice</lemma>
+    <lemma>zornička</lemma>
+    <lemma>pupila</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>зѣница</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zjenica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зеница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>źrenica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зрачок</lemma>
+    <lemma>зеница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrenica</lemma>
+    <lemma>zornica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zenica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зеница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зіниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="okulo">lernanto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Pupille</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="oog">pupil</lemma>
+  </synset>
+</multilingual-synset>

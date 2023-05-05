@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20396"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20396"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      izobličiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкрыць</lemma>
+    <lemma>раскрыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изоблича</lemma>
+    <lemma>разоблича</lemma>
+    <lemma>разкрия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odhalit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>demaskirati</lemma>
+    <lemma>raskrinkati</lemma>
+    <lemma>razotkriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изобличи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdemaskować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изобличить</lemma>
+    <lemma>раскрыть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odhaliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Razkriti</lemma>
+    <lemma>da ostanejo maske</lemma>
+    <lemma>izpostavljajo</lemma>
+    <lemma>razkrinkali</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>демаскирати</lemma>
+    <lemma>лишити маске</lemma>
+    <lemma>разоткрити</lemma>
+    <lemma>разобличити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викрити</lemma>
+    <lemma>розкрити</lemma>
+    <lemma>розвінчати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desenmascarar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entlarven</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontmaskeren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1858"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1858" steen:pos="m." steen:type="1" steen:genesis="I">
+      monument
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>манумент</lemma>
+    <lemma>помнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>паметник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>monument</lemma>
+    <lemma>památník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>monument</lemma>
+    <lemma>spomenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>споменик</lemma>
+    <lemma>монумент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>monument</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>монумент</lemma>
+    <lemma>памятник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>monument</lemma>
+    <lemma>pamätník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obeležje</lemma>
+    <lemma>spomenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>споменик</lemma>
+    <lemma>монумент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>монумент</lemma>
+    <lemma>пам&apos;ятник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>monumento</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Monument</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>monument</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2025"
+      steen:addition="(odleti)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      odletěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адляцець</lemma>
+    <lemma>паляцець</lemma>
+    <lemma>вылецець</lemma>
+    <lemma>заляцець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отлети</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odletět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odletjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одлета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odlecieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>улететь</lemma>
+    <lemma>отлететь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odletieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odleteti stran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одлетети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відлетіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flugas for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wegfliegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegvliegen</lemma>
+  </synset>
+</multilingual-synset>

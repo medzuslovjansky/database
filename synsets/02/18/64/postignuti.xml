@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21864"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21864"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      postignųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зразумець</lemma>
+    <lemma>напаткаць</lemma>
+    <lemma>спасцігнуць</lemma>
+    <lemma>спасцерагчы</lemma>
+    <lemma>уцяміць</lemma>
+    <lemma>авалодаць</lemma>
+    <lemma>апантаць</lemma>
+    <lemma>апанаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разбират</lemma>
+    <lemma>разбират</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postihnout</lemma>
+    <lemma>pochopit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>shvatiti</lemma>
+    <lemma>razumjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сфати</lemma>
+    <lemma>усвои</lemma>
+    <lemma>узнае</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zrozumieć</lemma>
+    <lemma annotation="o co chodzi">załapać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>постигнуть</lemma>
+    <lemma>понять</lemma>
+    <lemma>овладеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>porozumieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>doumeti</lemma>
+    <lemma>razumeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>схватити</lemma>
+    <lemma>разумети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осягнути</lemma>
+    <lemma>засвоїти</lemma>
+    <lemma>оволодіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompreni</lemma>
+    <lemma>teno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>begreifen</lemma>
+    <lemma>Griff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begrijpen</lemma>
+    <lemma>bevatten</lemma>
+  </synset>
+</multilingual-synset>

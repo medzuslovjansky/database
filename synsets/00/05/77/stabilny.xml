@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="577"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="577"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      stabiľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стабільны</lemma>
+    <lemma>устояны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стабилен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stabilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stabilan</lemma>
+    <lemma>postojan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стабилен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stabilny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стабильный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stabilný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>enakomernemu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стабилан</lemma>
+    <lemma>постојан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стабільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stabilan</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>stabil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stabiel</lemma>
+  </synset>
+</multilingual-synset>

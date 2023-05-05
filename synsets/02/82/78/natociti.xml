@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28278"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28278" steen:pos="v.tr. pf." steen:type="1">
+      natočiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на такарным станку">вытачыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на струг">наточа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="na soustruhu">vytočit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="na strugu">istočiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на струг">наточи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>natoczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на токарном станке">выточить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="na sústruhu">vytočiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="na stružnici">izdajajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на стругу">источити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на токарному верстаті">виточити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sur lathe">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="auf einer Drehbank">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op een draaibank">draaien</lemma>
+  </synset>
+</multilingual-synset>

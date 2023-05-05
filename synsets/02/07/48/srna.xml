@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20748"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20748" steen:pos="f." steen:type="1" steen:same="z j">
+      srna
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казуля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="елен">сърна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srna</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>srna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>срна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sarna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>косуля</lemma>
+    <lemma>козуля</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>srna</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ikre</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>срна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>косуля</lemma>
+    <lemma>козуля</lemma>
+    <lemma>дика коза</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="cervo">gazelo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Reh</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ree</lemma>
+  </synset>
+</multilingual-synset>

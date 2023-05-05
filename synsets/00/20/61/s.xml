@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2061"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      s
+    </lemma>
+    <lemma
+      steen:id="2061"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      so
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з</lemma>
+    <lemma>праз</lemma>
+    <lemma>з дапамогай</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>с помощта на</lemma>
+    <lemma>чрез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čím" />
+    <lemma>za pomoci</lemma>
+    <lemma>prostřednictvím</lemma>
+    <lemma>pomocí</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>s</lemma>
+    <lemma>s</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>со</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za pomocą</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>с</lemma>
+    <lemma>посредством</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="čím" />
+    <lemma>(s) pomocou</lemma>
+    <lemma>za pomoci</lemma>
+    <lemma>prostredníctvom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>y</lemma>
+    <lemma>z</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>с</lemma>
+    <lemma>са</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з</lemma>
+    <lemma>із</lemma>
+    <lemma>з використанням</lemma>
+    <lemma>використовуючи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uzante</lemma>
+    <lemma>per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verwendung von mit Hilfe von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>door middel van</lemma>
+  </synset>
+</multilingual-synset>

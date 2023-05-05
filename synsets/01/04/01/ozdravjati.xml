@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10401"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      ozdravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аздараўляць</lemma>
+    <lemma>саніраваць</lemma>
+    <lemma>лячыць</lemma>
+    <lemma>лекаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оздравявам</lemma>
+    <lemma>лекувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzdravovat</lemma>
+    <lemma>léčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>liječiti</lemma>
+    <lemma>ozdravljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оздравува</lemma>
+    <lemma>лекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uzdrawiać</lemma>
+    <lemma>leczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оздоровлять</lemma>
+    <lemma>оздоравливать</lemma>
+    <lemma>лечить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uzdravovať</lemma>
+    <lemma>liečiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ozdravljavati (ki) obdelamo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="кога">оздрављавати</lemma>
+    <lemma>лечити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оздоровляти</lemma>
+    <lemma>лікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuraco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>heilen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behandelen</lemma>
+    <lemma>genezen</lemma>
+    <lemma annotation="na ziekte">beter maken</lemma>
+  </synset>
+</multilingual-synset>

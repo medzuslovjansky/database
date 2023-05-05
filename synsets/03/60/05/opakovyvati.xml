@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36005"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36005"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl j"
+    >
+      opakovyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упакоўваць</lemma>
+    <lemma>пакаваць</lemma>
+    <lemma>спакоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опаковане</lemma>
+    <lemma>опаковане</lemma>
+    <lemma>опаковки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obalovat</lemma>
+    <lemma>zabalovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pakirati</lemma>
+    <lemma>pakovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пакува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opakowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>упаковывать</lemma>
+    <lemma>запаковывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obal</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>paket</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>паковати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>упаковувати</lemma>
+    <lemma>запаковувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pack</lemma>
+    <lemma>pako</lemma>
+    <lemma>wrap</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pack</lemma>
+    <lemma>Paket</lemma>
+    <lemma>wickeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verpakken</lemma>
+    <lemma>inpakken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17474"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17474" steen:pos="n." steen:type="2" steen:same="ru uk bg">
+      hųdožstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мастацтва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкуство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umjetnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уметност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sztuka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>художество</lemma>
+    <lemma>искусство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>umenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umetnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уметност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>художність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kunst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunst</lemma>
+  </synset>
+</multilingual-synset>

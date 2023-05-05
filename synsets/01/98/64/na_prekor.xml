@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19864"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19864"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="ru uk pl"
+    >
+      na prěkor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>насуперак</lemma>
+    <lemma>наўсуперак</lemma>
+    <lemma>напоперак</lemma>
+    <lemma>насупор</lemma>
+    <lemma>насупраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>в нарушение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navzdory</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unatoč</lemma>
+    <lemma>usprkos</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>во спротивност на</lemma>
+    <lemma>и покрај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na przekór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наперекор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napriek</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kljub</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упркос</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наперекір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konflikte al</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trotz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondanks</lemma>
+    <lemma>in weerwil van</lemma>
+  </synset>
+</multilingual-synset>

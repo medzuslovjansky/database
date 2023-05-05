@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32775"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32775"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl cs~ j~"
+    >
+      upręž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вупраж</lemma>
+    <lemma>збруя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="кон">за благополучно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="spřežení">postroj</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>am</lemma>
+    <lemma>orma</lemma>
+    <lemma>Serse</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запрега</lemma>
+    <lemma>коњска опрема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uprząż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>упряжь</lemma>
+    <lemma>сбруя</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="záprahov">postroj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>am</lemma>
+    <lemma>orodja</lemma>
+    <lemma>Sers</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ам</lemma>
+    <lemma>орма</lemma>
+    <lemma>серсам</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>збруя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĉevalo">jungilaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Pferd">Geschirr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>paardentuig</lemma>
+  </synset>
+</multilingual-synset>

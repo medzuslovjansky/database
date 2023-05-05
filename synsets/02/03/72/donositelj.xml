@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20372"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20372"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      donositelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пляткар</lemma>
+    <lemma>даносчык</lemma>
+    <lemma annotation="саст.">віж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>информатор</lemma>
+    <lemma>порта</lemma>
+    <lemma>къртица</lemma>
+    <lemma>предател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>donašeč</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dostavljač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поткажувач</lemma>
+    <lemma>предавник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>plotkarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сплетник</lemma>
+    <lemma>доносчик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>donášač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Opravljivka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трачара</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пліткар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kalumnianto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>talebearer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aangever</lemma>
+  </synset>
+</multilingual-synset>

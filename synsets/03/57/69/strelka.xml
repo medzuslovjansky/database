@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35769" steen:pos="f." steen:type="2" steen:same="v bg">
+      strěľka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="гадзінніка">стрэлка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="часове">ръка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hodiny">ručička</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="sata">strelica</lemma>
+    <lemma>kazaljka</lemma>
+    <lemma>skazaljka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стрелка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zegar">wskazówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="часов">стрелка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hodiny">ručička</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ure">puščice</lemma>
+    <lemma>igla</lemma>
+    <lemma>minutni kazalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="часовника">стрелица</lemma>
+    <lemma>казаљка</lemma>
+    <lemma>сказаљка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="годинника">стрілка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="horloĝo">mano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Uhr">Hand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wijzer</lemma>
+  </synset>
+</multilingual-synset>

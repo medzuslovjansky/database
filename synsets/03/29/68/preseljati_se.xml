@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32968"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32968" steen:pos="v.refl. ipf.">prěseljati sę</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасяляцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="промяна на пребиваване">движение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přestěhovávat se</lemma>
+    <lemma>stěhovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>seliti se</lemma>
+    <lemma>preseljavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се преселува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesiedlać się</lemma>
+    <lemma>migrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переселяться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>přestěhovávat sa</lemma>
+    <lemma>sťahovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>transmigrate</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пресељавати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переселятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝanĝi loĝejo">movo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="ändern residence">Umzug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhuizen</lemma>
+  </synset>
+</multilingual-synset>

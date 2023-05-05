@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15680"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15680"
+      steen:addition="(piše)"
+      steen:pos="v.ipf."
+      steen:type="1"
+    >
+      pisati nanovo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапісваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пренаписване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přepsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prepisivati</lemma>
+    <lemma>prerađivati</lemma>
+    <lemma />
+  </synset>
+  <synset lang="mk">
+    <lemma>препишува</lemma>
+    <lemma>пишува наново</lemma>
+    <lemma>пишува повторно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pisać ponownie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переписывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prepísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ponovno pisanje</lemma>
+    <lemma>ponovno pisanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>писати наново</lemma>
+    <lemma>писати поново</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переписувати</lemma>
+    <lemma>переписувати наново</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reverki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herschrijven</lemma>
+  </synset>
+</multilingual-synset>

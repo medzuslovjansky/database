@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23542"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23542" steen:pos="f.sg." steen:type="1" steen:genesis="I">
+      elektronična pošta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>электронная пошта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>електронна поща</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elektronická pošta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>elektronička pošta</lemma>
+    <lemma>e-pošta</lemma>
+    <lemma>e-mail</lemma>
+    <lemma>mejl</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>електронска пошта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>e-mail</lemma>
+    <lemma>poczta elektroniczna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>электронная почта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elektronická pošta</lemma>
+    <lemma>e-mail</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>E-naslov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имејл</lemma>
+    <lemma>е-пошта</lemma>
+    <lemma>електронска пошта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>електронна пошта</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>retpoŝto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Email</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>e-mail</lemma>
+  </synset>
+</multilingual-synset>

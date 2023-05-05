@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35376"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35376"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="z yu mk"
+      steen:genesis="I"
+    >
+      kompatibiľnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сумяшчальнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съвместимост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kompatibilita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompatibilnost</lemma>
+    <lemma>spojivost</lemma>
+    <lemma>uskladivost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компатибилност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompatybilność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совместимость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kompatibilita</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kompatibilnost</lemma>
+    <lemma>združljivost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компатибилност</lemma>
+    <lemma>усаглашеност</lemma>
+    <lemma>усклађеност</lemma>
+    <lemma>подударност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сумісність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kongruo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kompatibilität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>compatibiliteit</lemma>
+  </synset>
+</multilingual-synset>

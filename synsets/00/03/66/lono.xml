@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="366"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="366" steen:pos="n." steen:type="1">lono</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калені</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="ост., напр. лоно Авраамово">лоно</lemma>
+    <lemma annotation="в смисъл на поколение">коляно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klín</lemma>
+    <lemma>lůno</lemma>
+    <lemma>kolena</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krilo</lemma>
+    <lemma>skut</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>колена</lemma>
+    <lemma annotation="пр: Го седна на своето колено, го зема во скут">
+      скут
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kogoś siedzącego">kolana</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колени</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klin</lemma>
+    <lemma>lono</lemma>
+    <lemma>kolená</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kolena krilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>колена</lemma>
+    <lemma>крило</lemma>
+    <lemma>скут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коліна</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schoß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schoot</lemma>
+  </synset>
+</multilingual-synset>

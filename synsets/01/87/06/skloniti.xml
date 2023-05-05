@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18706"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18706" steen:pos="v.tr. pf." steen:type="1">
+      skloniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">праскланяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="граматика">намаляване</lemma>
+    <lemma>обляга</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">vyskloňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>delkinirati</lemma>
+    <lemma>skloniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пад</lemma>
+    <lemma annotation="граматиката">падеж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">odmienić</lemma>
+    <lemma>zdeklinować</lemma>
+    <lemma>przedeklinować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">просклонять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="gram.">vyskloňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>delkinirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>делкинирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="грам.">провідмінювати</lemma>
+    <lemma annotation="грам.">провідміняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gramatiko">malkresko</lemma>
+    <lemma>fleksias</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Grammatik">Rückgang</lemma>
+    <lemma>inflect</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">verbuigen</lemma>
+  </synset>
+</multilingual-synset>

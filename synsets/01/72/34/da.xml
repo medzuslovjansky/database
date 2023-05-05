@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17234"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17234"
+      steen:pos="particle"
+      steen:type="2"
+      steen:same="ru j"
+    >
+      da
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>да</lemma>
+    <lemma>ды</lemma>
+    <lemma>хай</lemma>
+    <lemma>няхай</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nechť</lemma>
+    <lemma>ať</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>da</lemma>
+    <lemma>neka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>да</lemma>
+    <lemma>нека</lemma>
+    <lemma>дозволете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niech</lemma>
+    <lemma>niechaj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>да</lemma>
+    <lemma>пусть</lemma>
+    <lemma>пускай</lemma>
+    <lemma>нехай</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nech</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>da naj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>да</lemma>
+    <lemma>нека</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нехай</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lasu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="+ aanvoegende wijs">dat</lemma>
+  </synset>
+</multilingual-synset>

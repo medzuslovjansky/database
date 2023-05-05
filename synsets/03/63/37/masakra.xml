@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36337"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36337"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="uk z yu"
+      steen:genesis="I"
+    >
+      masakra
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разня</lemma>
+    <lemma>бойня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клане</lemma>
+    <lemma>кланица</lemma>
+    <lemma>кървава баня</lemma>
+    <lemma>скотобойна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>masakr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>masakr</lemma>
+    <lemma>pokolj</lemma>
+    <lemma>krvoproliće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>масакар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>masakra</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резня</lemma>
+    <lemma>бойня</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>masaker</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pokol</lemma>
+    <lemma>zakol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>масакр</lemma>
+    <lemma>покољ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>різанина</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>masakro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Massaker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloedbad</lemma>
+  </synset>
+</multilingual-synset>

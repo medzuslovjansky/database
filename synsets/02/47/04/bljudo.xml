@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24704"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24704" steen:pos="n." steen:type="2" steen:same="ru uk bg">
+      bljudo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўмісак</lemma>
+    <lemma>страва</lemma>
+    <lemma>талерка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="съд">блюдо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>miska</lemma>
+    <lemma>mísa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jelo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чинија</lemma>
+    <lemma>сад за храна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>półmisek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="посуда">блюдо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>misa</lemma>
+    <lemma>nádoba</lemma>
+    <lemma>miska</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>krožnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јело</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>блюдо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plado</lemma>
+    <lemma>telero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schüssel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schotel</lemma>
+    <lemma>bord</lemma>
+  </synset>
+</multilingual-synset>

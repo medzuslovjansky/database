@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3155"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3155"
+      steen:addition="(pozȯve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      pozvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паклікаць</lemma>
+    <lemma>пазваць</lemma>
+    <lemma>пагукаць</lemma>
+    <lemma>запрасіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>покани</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozvat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pozvati</lemma>
+    <lemma>uputiti poziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>покани</lemma>
+    <lemma>повика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaprosić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>позвать</lemma>
+    <lemma>пригласить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pozvať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na poziv</lemma>
+    <lemma>da pokličete</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позвати</lemma>
+    <lemma>упутити позив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запросити</lemma>
+    <lemma>покликати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inviti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einladen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitnodigen</lemma>
+  </synset>
+</multilingual-synset>

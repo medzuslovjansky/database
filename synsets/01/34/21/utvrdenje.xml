@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13421"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13421" steen:pos="n." steen:type="2" steen:same="ru bm">
+      utvŕđeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зацвярджэнне</lemma>
+    <lemma annotation="дакумента">зацверджанне</lemma>
+    <lemma>ратыфікацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>твърдение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potvrzení</lemma>
+    <lemma>schválení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odobrenje</lemma>
+    <lemma>potvrda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одобрување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatwierdzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="документа">утверждение</lemma>
+    <lemma>ратификация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>potvrdenie</lemma>
+    <lemma>schválenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odobritev</lemma>
+    <lemma>potrdilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одобрење</lemma>
+    <lemma>потврда</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="документу">твердження</lemma>
+    <lemma>ратифікація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aprobo</lemma>
+    <lemma>ratifo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>die Genehmigung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goedkeuring</lemma>
+    <lemma>bekrachtiging</lemma>
+    <lemma>ratificatie</lemma>
+  </synset>
+</multilingual-synset>

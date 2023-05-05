@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6587"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6587" steen:pos="n." steen:type="1">blågoslovjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>беатыфікацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в католицизма - причисляване към лика на блажените">
+      беатификация
+    </lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>blahořečení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posvećivanje</lemma>
+    <lemma>proglašenje za svetca</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>беатификација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>beatyfikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беатификация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>blahorečenie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>beatifikacija</lemma>
+    <lemma>proglasitev za blaženega</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>канонизација</lemma>
+    <lemma>посвећивање</lemma>
+    <lemma>проглашење за свеца</lemma>
+    <lemma>беатификација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>беатифікація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>beatificación</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Seligsprechung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zaligverklaring</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="z"
+      steen:genesis="I"
+    >
+      absencija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адсутнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>липса</lemma>
+    <lemma>отсъствие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>absence</lemma>
+    <lemma>nepřítomnost</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>свѣньство</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odsustvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсуство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieobecność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отсутствие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>absencia</lemma>
+    <lemma>neprítomnosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odsotnost</lemma>
+    <lemma>absenca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одсуство</lemma>
+    <lemma>одсутност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відсутність</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>foresto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Abwesenheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afwezigheid</lemma>
+    <lemma>absentie</lemma>
+  </synset>
+</multilingual-synset>

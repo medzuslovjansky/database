@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30103"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30103"
+      steen:addition="(råzběži)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      råzběgti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у розныя бакі">разбегчыся</lemma>
+    <lemma>паразбягацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>работи във всички посоки</lemma>
+    <lemma>за да разпръсне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozběhnout se</lemma>
+    <lemma>rozptylovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razbježati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се разбега</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozbiec się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в разные стороны">разбежаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozbehnúť sa</lemma>
+    <lemma>rozptyľovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>BECI je</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разбећи се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="в різні боки">розбігтися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuri ĉiudirekten</lemma>
+    <lemma>semas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>laufen in alle Richtungen</lemma>
+    <lemma>Dispersions-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>alle kanten op rennen</lemma>
+  </synset>
+</multilingual-synset>

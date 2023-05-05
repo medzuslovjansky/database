@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25735"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25735" steen:pos="m." steen:type="1" steen:same="v j">
+      goricvět
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>светнік</lemma>
+    <lemma>адоніс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гороцвет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlaváček</lemma>
+    <lemma annotation="rostl.">adonis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gorocvijet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гороцвет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miłek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>горицвет</lemma>
+    <lemma>адонис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlaváčik</lemma>
+    <lemma annotation="rástol.">adonis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Gorocvet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гороцвет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>горицвіт</lemma>
+    <lemma>адоніс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fazano de kudrilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Adonisröschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="plant">adonis</lemma>
+  </synset>
+</multilingual-synset>

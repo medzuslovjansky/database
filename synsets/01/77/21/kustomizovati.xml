@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17721"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17721"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="3"
+      steen:genesis="I"
+    >
+      kustomizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наладжваць</lemma>
+    <lemma>кастамізаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>къстъмизирам</lemma>
+    <lemma>индивидуализирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přizpůsobit</lemma>
+    <lemma>kustomizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prilagoditi</lemma>
+    <lemma>prilagođavati</lemma>
+    <lemma>podesiti</lemma>
+    <lemma>podešavati</lemma>
+    <lemma>prekrajati</lemma>
+    <lemma>prekrojiti</lemma>
+    <lemma>mijenjati</lemma>
+    <lemma>promijeniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилагоди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>personalizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настраивать</lemma>
+    <lemma>кастомизировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prispôsobiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>configure</lemma>
+    <lemma>prilagodite</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>подесити</lemma>
+    <lemma>подешавати</lemma>
+    <lemma>прилагодити</lemma>
+    <lemma>прилагођавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>налаштовувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Agordu</lemma>
+    <lemma>customize</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anpassen</lemma>
+    <lemma>anpassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>personaliseren</lemma>
+  </synset>
+</multilingual-synset>

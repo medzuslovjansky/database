@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36390"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36390"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      cirkumfleks
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цыркумфлекс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сиркумфлекс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cirkumflex</lemma>
+    <lemma>stříška</lemma>
+    <lemma>průtažný přízvuk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cirkumfleks</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид акцент">циркумфлекс</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cyrkumfleks</lemma>
+    <lemma>akcent przeciągły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>циркумфлекс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cirkumflex</lemma>
+    <lemma>vokáň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>strešica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>циркумфлексни</lemma>
+    <lemma annotation="акценат">дугосилазни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>циркумфлекс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cirkumflekso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zirkumflex</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>circumflex</lemma>
+  </synset>
+</multilingual-synset>

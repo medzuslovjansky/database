@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32508"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32508" steen:pos="m." steen:type="1">medvědik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>медзведзяня</lemma>
+    <lemma>медзвядзянё</lemma>
+    <lemma annotation="плюшавы">мішка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плюшено мече</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>medvídek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plišani medo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="плишано">мече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="pluszowy">miś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>медвежонок</lemma>
+    <lemma annotation="плюшевый">мишка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="plyšový">medvedík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="Teddy">medveda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>меда</lemma>
+    <lemma annotation="плишани">медо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ведмедик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pluŝa urso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Teddybär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teddybeer</lemma>
+  </synset>
+</multilingual-synset>

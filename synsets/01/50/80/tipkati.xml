@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15080"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15080"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="yu"
+      steen:genesis="I"
+    >
+      tipkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на клавіятуры">друкаваць</lemma>
+    <lemma>набіраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тип</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="klávesnice">ťukat</lemma>
+    <lemma>zadávat</lemma>
+    <lemma>stiskat</lemma>
+    <lemma>mačkat</lemma>
+    <lemma>klepat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tipkati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>типка</lemma>
+    <lemma annotation="на тастатура">чука</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przycisk">wciskać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на клавиатуре">печатать</lemma>
+    <lemma>набирать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="klávesnica">ťukať</lemma>
+    <lemma>zadávať</lemma>
+    <lemma>stískať</lemma>
+    <lemma>stláčať</lemma>
+    <lemma>klopať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>knock</lemma>
+    <lemma>pisanje</lemma>
+    <lemma annotation="računalnik, pisalni stroj">tipkanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>куцати</lemma>
+    <lemma>писати</lemma>
+    <lemma annotation="на компјутеру, писаћој машини">типкати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>друкувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tipo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Art</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>typen</lemma>
+  </synset>
+</multilingual-synset>

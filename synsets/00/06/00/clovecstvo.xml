@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="600"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="600" steen:pos="n.sg." steen:type="1" steen:same="v z j">
+      člověčstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чалавецтва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>човечество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lidstvo</lemma>
+    <lemma>člověčenstvo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čovječanstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>човештво</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ludzkość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>человечество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľudstvo</lemma>
+    <lemma>človečenstvo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>človeštvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>људски род</lemma>
+    <lemma>човечанство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>людство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>homaro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Menschheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mensheid</lemma>
+  </synset>
+</multilingual-synset>

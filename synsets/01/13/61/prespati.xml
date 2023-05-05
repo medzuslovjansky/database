@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11361"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11361"
+      steen:addition="(prěspi)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="cz"
+    >
+      prěspati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераспаць</lemma>
+    <lemma>пераначаваць</lemma>
+    <lemma>правесці ноч</lemma>
+    <lemma>прабавіць ноч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прекара нощта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přespat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prespavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преспие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przespać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переспать</lemma>
+    <lemma>переночевать</lemma>
+    <lemma>провести ночь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prespať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преспавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переспати</lemma>
+    <lemma>переночувати</lemma>
+    <lemma>провести ніч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tranokti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>die Nacht verbringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>de nacht doorbrengen</lemma>
+  </synset>
+</multilingual-synset>

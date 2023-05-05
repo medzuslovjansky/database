@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35423"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35423"
+      steen:pos="m.pl."
+      steen:type="2"
+      steen:same="ub pl sk"
+      steen:genesis="I"
+    >
+      okuljary
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акуляры</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>слънчеви очила</lemma>
+    <lemma>Очила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brýle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naočale</lemma>
+    <lemma>očale</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>очила</lemma>
+    <lemma>наочари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>okulary</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>очки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>okuliare</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>očala</lemma>
+    <lemma>očala</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наочаре</lemma>
+    <lemma>очале</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>окуляри</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okulvitroj</lemma>
+    <lemma>okulvitroj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brille</lemma>
+    <lemma>Brillen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bril</lemma>
+  </synset>
+</multilingual-synset>

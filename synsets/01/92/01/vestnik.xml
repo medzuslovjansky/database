@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19201" steen:pos="m.anim." steen:type="1">věstnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навіннік</lemma>
+    <lemma>вядоўца навін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>новинар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlasatel</lemma>
+    <lemma>zpravodaj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="radijski ili televizijski">voditelj</lemma>
+    <lemma>voditelj vijesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>водител на вести</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prezenter wiadomości</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>новостник</lemma>
+    <lemma>ведущий новостей</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hlásateľ</lemma>
+    <lemma>spravodajca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vodja vesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>водитељ вести</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>новостник</lemma>
+    <lemma>ведучий новин</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>novaĵankro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nachrichtensprecher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nieuwslezer</lemma>
+  </synset>
+</multilingual-synset>

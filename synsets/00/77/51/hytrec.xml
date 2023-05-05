@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7751"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7751"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl bm"
+    >
+      hytrec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хітрун</lemma>
+    <lemma>спрытняга</lemma>
+    <lemma>шэльма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хитрец</lemma>
+    <lemma>хитър човек</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chytrák</lemma>
+    <lemma>vychytralec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lukavac</lemma>
+    <lemma>prefriganac</lemma>
+    <lemma>prepredenjak</lemma>
+    <lemma>snalažljivac</lemma>
+    <lemma>dovitljivac</lemma>
+    <lemma>previjanac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>итрец</lemma>
+    <lemma>лукава личност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bystrzak</lemma>
+    <lemma>spryciarz</lemma>
+    <lemma>cwaniak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хитрец</lemma>
+    <lemma>плут</lemma>
+    <lemma>пройдоха</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chytrák</lemma>
+    <lemma>vychytralec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svetlo</lemma>
+    <lemma>cute</lemma>
+    <lemma annotation="quick um">hitro</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лукавац</lemma>
+    <lemma>лукавко</lemma>
+    <lemma>лукав човек</lemma>
+    <lemma>препредењак</lemma>
+    <lemma>превејанац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хитрун</lemma>
+    <lemma>хитра людина</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ruzulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kluge Person</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>listigaard</lemma>
+  </synset>
+</multilingual-synset>

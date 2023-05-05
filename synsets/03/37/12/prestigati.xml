@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33712"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33712"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl sh mk"
+    >
+      prěstigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апераджаць</lemma>
+    <lemma>выпярэджваць</lemma>
+    <lemma>апярэджваць</lemma>
+    <lemma>абганяць</lemma>
+    <lemma>абмінаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изпревари</lemma>
+    <lemma>за да изпревариш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předstíhávat</lemma>
+    <lemma>předhánět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prestizati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престигнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prześcigać</lemma>
+    <lemma>wyprzedzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опережать</lemma>
+    <lemma>обгонять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>předstíhávat</lemma>
+    <lemma>predháňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prehitel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>престизати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випереджати</lemma>
+    <lemma>обганяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Outrun</lemma>
+    <lemma>superos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>outrun</lemma>
+    <lemma>überflügeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inhalen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1792" steen:pos="adj." steen:type="1">bezposrědnji</lemma>
+    <lemma steen:id="1792" steen:pos="adj." steen:type="1">bezposrědny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непасрэдны</lemma>
+    <lemma>прамы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>непосредствен</lemma>
+    <lemma>директен</lemma>
+    <lemma>пряк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezprostřední</lemma>
+    <lemma>přímý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neposredan</lemma>
+    <lemma>direktan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>директен</lemma>
+    <lemma>непосреден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpośredni</lemma>
+    <lemma>natychmiastowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>непосредственный</lemma>
+    <lemma>прямой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezprostredný</lemma>
+    <lemma>priamy</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>neposreden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>директан</lemma>
+    <lemma>непосредан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прямий</lemma>
+    <lemma>безпосередній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rekta</lemma>
+    <lemma>tuja</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>direkt</lemma>
+    <lemma>unmittelbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechtstreeks</lemma>
+    <lemma>direct</lemma>
+  </synset>
+</multilingual-synset>

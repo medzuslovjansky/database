@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2868"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2868"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v j"
+      steen:genesis="I"
+    >
+      karta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мапа</lemma>
+    <lemma annotation="геаграфічная">карта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>карта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mapa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>karta</lemma>
+    <lemma>mapa</lemma>
+    <lemma>zemljovid</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>карта</lemma>
+    <lemma>мапа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mapa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="географическая">карта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mapa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zemljevid</lemma>
+    <lemma>zemljevid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мапа</lemma>
+    <lemma>карта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мапа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mapi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Karte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kaart</lemma>
+    <lemma>plattegrond</lemma>
+  </synset>
+</multilingual-synset>

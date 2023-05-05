@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33737"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33737"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl yu~ mk~"
+    >
+      odimati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднімаць</lemma>
+    <lemma>адымаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изважда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odčítat</lemma>
+    <lemma>odečítat</lemma>
+    <lemma>ubírat</lemma>
+    <lemma>odnímat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oduzimati</lemma>
+    <lemma>odbijati</lemma>
+    <lemma>suptrahirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одзема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odejmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отнимать</lemma>
+    <lemma>вычитать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odčítať</lemma>
+    <lemma>uberať</lemma>
+    <lemma>odnímať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvzeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одузимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віднімати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subtrahi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>subtrahieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="getal">aftrekken</lemma>
+  </synset>
+</multilingual-synset>

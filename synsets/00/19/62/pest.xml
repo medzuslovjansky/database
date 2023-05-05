@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1962"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1962" steen:pos="f." steen:type="1">pęsť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кулак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пестник</lemma>
+    <lemma>юмрук</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pěst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pest</lemma>
+    <lemma>šaka</lemma>
+    <lemma>pesnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тупаница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pięść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кулак</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>päsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pest</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>песница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кулак</lemma>
+    <lemma annotation="діал.">п&apos;ясть</lemma>
+    <lemma annotation="діал.">п&apos;ястук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pugno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Faust</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vuist</lemma>
+  </synset>
+</multilingual-synset>

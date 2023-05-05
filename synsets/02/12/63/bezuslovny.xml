@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21263"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21263" steen:pos="adj." steen:type="2" steen:same="ru sh">
+      bezuslovny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>безумоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безусловен</lemma>
+    <lemma>абсолютен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezpodmínečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bezuvjetan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безусловен</lemma>
+    <lemma>апсолутен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezwarunkowy</lemma>
+    <lemma>absolutny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безусловный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezpodmienečný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brezpogojen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безуслован</lemma>
+    <lemma>апсолутан</lemma>
+    <lemma>потпун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безумовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senkondiĉa</lemma>
+    <lemma>absoluta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>bedingungslos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvoorwaardelijk</lemma>
+  </synset>
+</multilingual-synset>

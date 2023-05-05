@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36190"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36190"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      aneksija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>анэксія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="да не се бърка с анекс - допълнение към договор">
+      анексиране
+    </lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>anexe</lemma>
+    <lemma>zábor</lemma>
+    <lemma>připojení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>aneksija</lemma>
+    <lemma>pripajanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анексија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aneksja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аннексия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>anexia</lemma>
+    <lemma>zabratie</lemma>
+    <lemma>pripojenie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>aneksija</lemma>
+    <lemma>priključitev</lemma>
+    <lemma>prilastitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>анексија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анексія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>anekso</lemma>
+    <lemma>anektado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Annexion</lemma>
+    <lemma>Anschluss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>annexatie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10931"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10931" steen:pos="f." steen:type="1" steen:same="v pl j">
+      popravka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпраўленне</lemma>
+    <lemma>папраўка</lemma>
+    <lemma>карэктаванне</lemma>
+    <lemma>карэкта</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>корекция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oprava</lemma>
+    <lemma>úprava</lemma>
+    <lemma>změna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popravak</lemma>
+    <lemma>ispravak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поправка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprawka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исправление</lemma>
+    <lemma>поправка</lemma>
+    <lemma>корректировка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oprava</lemma>
+    <lemma>úprava</lemma>
+    <lemma>zmena</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popravilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поправка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправлення</lemma>
+    <lemma>лагодження</lemma>
+    <lemma>ремонт</lemma>
+    <lemma>коригування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Korrektur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>correctie</lemma>
+    <lemma>verbetering</lemma>
+  </synset>
+</multilingual-synset>

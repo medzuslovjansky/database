@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16793"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16793" steen:pos="n." steen:type="1" steen:same="uk z yu">
+      gospodaŕstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хатняя гаспадарка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>домакинстване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hospodářství</lemma>
+    <lemma>farma</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodarstvo</lemma>
+    <lemma>imanje</lemma>
+    <lemma>posjed</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>домаќинство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gospodarstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>домашнее хозяйство</lemma>
+    <lemma>домохозяйство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hospodárstvo</lemma>
+    <lemma>farma</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gospodarstvo</lemma>
+    <lemma>nepremičnine</lemma>
+    <lemma>stanovanjsko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имање</lemma>
+    <lemma>домаћинство</lemma>
+    <lemma>газдинство</lemma>
+    <lemma>господарство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>господарство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mastrumado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Haushalt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huishouden</lemma>
+  </synset>
+</multilingual-synset>

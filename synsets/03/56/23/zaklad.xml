@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35623"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35623" steen:pos="m." steen:type="1" steen:same="v pl">
+      zaklad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заклад</lemma>
+    <lemma>стаўка</lemma>
+    <lemma>стан</lemma>
+    <lemma>зарука</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>залог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sázka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="u igri">ulog</lemma>
+    <lemma>polog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>облог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakład</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ставка</lemma>
+    <lemma>залог</lemma>
+    <lemma>пари</lemma>
+    <lemma annotation="устар.">заклад</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stávka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опклада</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ставка</lemma>
+    <lemma>запорука</lemma>
+    <lemma>парі</lemma>
+    <lemma annotation="устар.">застава</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>veto</lemma>
+    <lemma>veti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wette</lemma>
+    <lemma>Wette</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weddenschap</lemma>
+  </synset>
+</multilingual-synset>

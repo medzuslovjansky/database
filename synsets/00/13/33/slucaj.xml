@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1333"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1333" steen:pos="m." steen:type="1" steen:same="ru uk j">
+      slučaj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпадак</lemma>
+    <lemma>раз</lemma>
+    <lemma>прыпадак</lemma>
+    <lemma>нагода</lemma>
+    <lemma>падзея</lemma>
+    <lemma>здарэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>случай</lemma>
+    <lemma>събитие</lemma>
+    <lemma>случай</lemma>
+    <lemma>произшествие</lemma>
+    <lemma>инцидент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>případ</lemma>
+    <lemma>událost</lemma>
+    <lemma>výskyt</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slučaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>случај</lemma>
+    <lemma>настан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypadek</lemma>
+    <lemma>wypadek</lemma>
+    <lemma>zdarzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случай</lemma>
+    <lemma>событие</lemma>
+    <lemma>происшествие</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prípad</lemma>
+    <lemma>udalosť</lemma>
+    <lemma>výskyt</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Primer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>случај</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>випадок</lemma>
+    <lemma>подія</lemma>
+    <lemma>подія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kazo</lemma>
+    <lemma>evento</lemma>
+    <lemma>ekzemple</lemma>
+    <lemma>occurence</lemma>
+    <lemma>akcidento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fall Ereignis</lemma>
+    <lemma>zB Auftreten</lemma>
+    <lemma>Unfall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geval</lemma>
+    <lemma>gebeurtenis</lemma>
+  </synset>
+</multilingual-synset>

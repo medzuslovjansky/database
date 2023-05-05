@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21881"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21881"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      odstranjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адхіляць</lemma>
+    <lemma>звальняць</lemma>
+    <lemma>знімаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>освобождаване от отговорност</lemma>
+    <lemma>да уволнят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>propouštět</lemma>
+    <lemma>uvolňovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="s posla">otpuštati</lemma>
+    <lemma>prazniti</lemma>
+    <lemma annotation="mjesto, prostor">oslobađati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсранува</lemma>
+    <lemma>отпушта</lemma>
+    <lemma>празни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwalniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отстранять</lemma>
+    <lemma>увольнять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prepúšťať</lemma>
+    <lemma>uvoľňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="z dela">odpustiti</lemma>
+    <lemma>izpust</lemma>
+    <lemma annotation="mesto, območje">za javnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="са посла">отпуштати</lemma>
+    <lemma>празнити</lemma>
+    <lemma annotation="место, простор">ослобађати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>усувати</lemma>
+    <lemma>звільняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elfluon</lemma>
+    <lemma>eksigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Entladungs</lemma>
+    <lemma>entlassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegsturen</lemma>
+    <lemma>afdanken</lemma>
+  </synset>
+</multilingual-synset>

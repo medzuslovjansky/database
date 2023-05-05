@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35962"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35962"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="be z sh mk"
+    >
+      letȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>улётка</lemma>
+    <lemma>флаер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>листовка</lemma>
+    <lemma>флаер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>leták</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>letak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>леток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ulotka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>листовка</lemma>
+    <lemma>флаер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>leták</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>brošura</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>летак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>листівка</lemma>
+    <lemma>флаєр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flugfolio</lemma>
+    <lemma>flugfolion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Faltblatt</lemma>
+    <lemma>Flyer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>folder</lemma>
+    <lemma>strooifolder</lemma>
+  </synset>
+</multilingual-synset>

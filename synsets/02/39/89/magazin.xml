@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23989" steen:pos="m." steen:type="1" steen:genesis="I">
+      magazin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крама</lemma>
+    <lemma>магазін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>магазин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obchod</lemma>
+    <lemma>magazín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dućan</lemma>
+    <lemma>trgovina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>продавница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sklep</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>магазин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obchod</lemma>
+    <lemma>magazín</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trgovina</lemma>
+    <lemma>trgovina</lemma>
+    <lemma>trgovina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радња</lemma>
+    <lemma>продавница</lemma>
+    <lemma>дућан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>магазин</lemma>
+    <lemma>крамниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>butiko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Geschäft</lemma>
+    <lemma>Laden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>winkel</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3112"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru~ ub pl sk~"
+    >
+      nakazyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадваць</lemma>
+    <lemma>прадпісваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нареждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přikazovat</lemma>
+    <lemma>nařizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naređivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наредува</lemma>
+    <lemma>командува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nakazywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приказывать</lemma>
+    <lemma>предписывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prikazovať</lemma>
+    <lemma>nariaďovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>diktat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наређивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наказувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komando</lemma>
+    <lemma>ordono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Befehl</lemma>
+    <lemma>um</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevelen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28"
+      steen:addition="(žive)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      žiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>живея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žít</lemma>
+    <lemma>být živý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>živjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>живее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žiť</lemma>
+    <lemma>byť živý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>живети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жити</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>vivi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>leben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leven</lemma>
+  </synset>
+</multilingual-synset>

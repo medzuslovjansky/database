@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35506"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35506"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      råzvesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="расплодзіць">развесці</lemma>
+    <lemma>разгадаваць</lemma>
+    <lemma>загадаваць</lemma>
+    <lemma>выгадаваць</lemma>
+    <lemma>выспеліць</lemma>
+    <lemma>узгадаваць</lemma>
+    <lemma>вырасціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>размножават</lemma>
+    <lemma>растат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vychovat</lemma>
+    <lemma>vypěstovat</lemma>
+    <lemma>vyšlechtit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uzgojiti</lemma>
+    <lemma>odgojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одгледа</lemma>
+    <lemma>размножи</lemma>
+    <lemma>расплоди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyhodować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="расплодить">развести</lemma>
+    <lemma>вырастить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vychovať</lemma>
+    <lemma>vypestovať</lemma>
+    <lemma>vyšľachtiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rastejo</lemma>
+    <lemma>gojiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узгојити</lemma>
+    <lemma>одгајити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="розплодити">розвести</lemma>
+    <lemma>виростити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reproduktiĝi</lemma>
+    <lemma>kreski</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rasse</lemma>
+    <lemma>wachsen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kweken</lemma>
+    <lemma>fokken</lemma>
+  </synset>
+</multilingual-synset>

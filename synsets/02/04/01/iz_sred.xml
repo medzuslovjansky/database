@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20401"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      iz-srěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спасярод</lemma>
+    <lemma>з ліку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изсред</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>z řad</lemma>
+    <lemma>zprostřed</lemma>
+    <lemma>z</lemma>
+    <lemma>od</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>usred</lemma>
+    <lemma>sred</lemma>
+    <lemma>među</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>од-сред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spośród</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>из числа</lemma>
+    <lemma>из середины</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>z radov</lemma>
+    <lemma>sprostred</lemma>
+    <lemma>spomedzi</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>srednji</lemma>
+    <lemma>med</lemma>
+    <lemma>med</lemma>
+    <lemma>v sredi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сред</lemma>
+    <lemma>међу</lemma>
+    <lemma>између</lemma>
+    <lemma>усред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з-посеред</lemma>
+    <lemma>із-посеред</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inter</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>von unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tussen … vandaan</lemma>
+  </synset>
+</multilingual-synset>

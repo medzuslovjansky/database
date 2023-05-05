@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27308"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27308" steen:pos="f." steen:type="3" steen:same="ru">
+      lososina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ласасіна</lemma>
+    <lemma>мяса ласося</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="месо">сьомга</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lososí maso</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>meso lososa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="месо">лосос</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mięso łososia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лососина</lemma>
+    <lemma>мясо лосося</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lososie mäso</lemma>
+    <lemma>losie mäso</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>losos</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лососовина</lemma>
+    <lemma>лососина</lemma>
+    <lemma>месо од лососа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лососина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="karno">salmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fleisch">Lachs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="eten">zalm</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2713"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2713"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      među
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паміж</lemma>
+    <lemma>між</lemma>
+    <lemma>сярод</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>между</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="směr">mezi</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>među</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меѓу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>między</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>между</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="smer">medzi</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>med</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>међу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помежи</lemma>
+    <lemma>межи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="direkto">inter</lemma>
+    <lemma annotation="direkto">inter</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Richtung">zwischen</lemma>
+    <lemma annotation="Richtung">unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tussen</lemma>
+    <lemma annotation="richting">onder</lemma>
+  </synset>
+</multilingual-synset>

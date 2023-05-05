@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24356"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24356" steen:pos="m.anim." steen:genesis="I">
+      aviator
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лётнік</lemma>
+    <lemma>лётчык</lemma>
+    <lemma>пілот</lemma>
+    <lemma>авіятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>авиатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>letec</lemma>
+    <lemma>pilot</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>aviatičar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пилот</lemma>
+    <lemma>авио летач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lotnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лётчик</lemma>
+    <lemma>авиатор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>letec</lemma>
+    <lemma>pilot</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>letalec</lemma>
+    <lemma>pilot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пилот</lemma>
+    <lemma>авијатичар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>авіатор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aviadisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Flieger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vliegenier</lemma>
+  </synset>
+</multilingual-synset>

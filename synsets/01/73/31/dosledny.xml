@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17331"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17331"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="sk yu mk"
+    >
+      doslědny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паслядоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>последователен</lemma>
+    <lemma>систематичен</lemma>
+    <lemma>методичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důsledný</lemma>
+    <lemma>konzistentní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dosljedan</lemma>
+    <lemma>postojan</lemma>
+    <lemma>čvrst</lemma>
+    <lemma>konzistentan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доследен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spójny</lemma>
+    <lemma>konsekwentny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>последовательный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôsledný</lemma>
+    <lemma>konzistentný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dosledno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доследан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>послідовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsekvenca</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>konsistent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>consistent</lemma>
+  </synset>
+</multilingual-synset>

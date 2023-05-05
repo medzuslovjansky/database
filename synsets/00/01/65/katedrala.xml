@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="165"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="165"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="I"
+    >
+      katedrala
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сабор</lemma>
+    <lemma>катэдра</lemma>
+    <lemma>кафедральны сабор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>катедрала</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>katedrála</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>katedrala</lemma>
+    <lemma>prvostolnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>катедрала</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>katedra</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>katedrála</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>katerdala</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>катердала</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>собор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>katedralo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kathedraal</lemma>
+  </synset>
+</multilingual-synset>

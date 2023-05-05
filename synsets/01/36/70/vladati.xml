@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13670"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13670"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="13670"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уладаць</lemma>
+    <lemma>кіраваць</lemma>
+    <lemma>кантраляваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>управлявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vládnout</lemma>
+    <lemma>spravovat</lemma>
+    <lemma>řídit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>владее</lemma>
+    <lemma>раководи</lemma>
+    <lemma>управува</lemma>
+    <lemma>контролира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>władać</lemma>
+    <lemma>panować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>управлять</lemma>
+    <lemma>контролировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vládnuť</lemma>
+    <lemma>spravovať</lemma>
+    <lemma>riadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>владати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>управляти</lemma>
+    <lemma>контролювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regi</lemma>
+    <lemma>regi</lemma>
+    <lemma>administri</lemma>
+    <lemma>esti en kontrolo de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>regieren</lemma>
+    <lemma>Kontrolle</lemma>
+    <lemma>Verwaltung</lemma>
+    <lemma>sei die Kontrolle über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heersen</lemma>
+  </synset>
+</multilingual-synset>

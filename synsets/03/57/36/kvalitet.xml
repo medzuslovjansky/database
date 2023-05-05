@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35736"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35736"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs yu mk"
+      steen:genesis="I"
+    >
+      kvalitet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>якасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>качество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvalita</lemma>
+    <lemma>jakost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvaliteta</lemma>
+    <lemma>kakvoća</lemma>
+    <lemma>kvaltet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>квалитет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jakość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>качество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvalita</lemma>
+    <lemma>akosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kakovost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квалитет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>якість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvalito</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Qualität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwaliteit</lemma>
+  </synset>
+</multilingual-synset>

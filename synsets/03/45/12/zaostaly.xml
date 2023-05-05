@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34512"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34512"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v~ cs yu bm~"
+    >
+      zaostaly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адсталы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изостанал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaostalý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaostao</lemma>
+    <lemma>nerazvijen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заостанат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zacofany</lemma>
+    <lemma>upośledzony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отсталый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaostalý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nazaj</lemma>
+    <lemma>nerazvita</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заостао</lemma>
+    <lemma>неразвијен</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>відсталий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfruigita</lemma>
+    <lemma>dorsdirekte</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzögert</lemma>
+    <lemma>rückwärtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>achterlijk</lemma>
+  </synset>
+</multilingual-synset>

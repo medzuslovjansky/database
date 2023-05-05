@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2799"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2799"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      niščiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знішчаць</lemma>
+    <lemma>вынішчаць</lemma>
+    <lemma>нішчыць</lemma>
+    <lemma>губіць</lemma>
+    <lemma>выводзіць</lemma>
+    <lemma>зводзіць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се унищожи</lemma>
+    <lemma>да унищожи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ničit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uništavati</lemma>
+    <lemma>poništavati</lemma>
+    <lemma>razarati</lemma>
+    <lemma>destruirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ништи</lemma>
+    <lemma>уништува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niszczyć</lemma>
+    <lemma>anihilować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уничтожать</lemma>
+    <lemma>истреблять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ničiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ništiti</lemma>
+    <lemma>uničiti</lemma>
+    <lemma>uničiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ништити</lemma>
+    <lemma>уништавати</lemma>
+    <lemma>разарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нищити</lemma>
+    <lemma>знищувати</lemma>
+    <lemma>винищувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>detrui</lemma>
+    <lemma>neniigi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zerstören</lemma>
+    <lemma>vernichten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vernietigen</lemma>
+    <lemma>vernielen</lemma>
+    <lemma>verwoesten</lemma>
+  </synset>
+</multilingual-synset>

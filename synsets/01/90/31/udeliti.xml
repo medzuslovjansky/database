@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19031"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19031"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z sh"
+    >
+      uděliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надаць</lemma>
+    <lemma>удзяліць</lemma>
+    <lemma>вылучыць</lemma>
+    <lemma>выдзяліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>грант</lemma>
+    <lemma>се подчертае</lemma>
+    <lemma>да се отделят</lemma>
+    <lemma annotation="внимание">обръщам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udělit</lemma>
+    <lemma>přidělit</lemma>
+    <lemma>věnovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dodijeliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распредели</lemma>
+    <lemma>истакне</lemma>
+    <lemma annotation="внимание">посвети</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>udzielić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уделить</lemma>
+    <lemma>выделить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>udeliť</lemma>
+    <lemma>prideliť</lemma>
+    <lemma>venovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nepovratna sredstva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доделити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>приділити</lemma>
+    <lemma>виділити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subvencio</lemma>
+    <lemma>allot</lemma>
+    <lemma>dediĉi</lemma>
+    <lemma annotation="atento">salajro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zuschuss</lemma>
+    <lemma>zuzuteilen</lemma>
+    <lemma>widmen</lemma>
+    <lemma annotation="Aufmerksamkeit">zahlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlenen</lemma>
+    <lemma>verstrekken</lemma>
+    <lemma annotation="aandacht">besteden</lemma>
+  </synset>
+</multilingual-synset>

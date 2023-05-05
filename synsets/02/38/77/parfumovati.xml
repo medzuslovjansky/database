@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23877"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23877"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      parfumovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парфуміць</lemma>
+    <lemma>душыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>парфюми</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>parfémovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>parfimirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>парфимира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>perfumować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>душить</lemma>
+    <lemma>опрыскивать духами</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>parfumovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>parfum</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парфимирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>парфумити</lemma>
+    <lemma>напахувати</lemma>
+    <lemma>обприскувати парфумами</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parfumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Parfüm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>parfumeren</lemma>
+  </synset>
+</multilingual-synset>

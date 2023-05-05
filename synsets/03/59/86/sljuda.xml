@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35986"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35986"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs sl bg"
+    >
+      sljuda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слюда</lemma>
+    <lemma>лушчак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="минерал">слюда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="minerál">slída</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tinjac</lemma>
+    <lemma>liskun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="минерал">микашист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mika</lemma>
+    <lemma>łyszczyk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слюда</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="minerál">sľuda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sljuda</lemma>
+    <lemma>sljuda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лискун</lemma>
+    <lemma>тињац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слюда</lemma>
+    <lemma>лосняк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="minerala">glimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="mineral">Glimmer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mica</lemma>
+  </synset>
+</multilingual-synset>

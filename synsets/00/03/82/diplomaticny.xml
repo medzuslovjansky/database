@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="382"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="382" steen:pos="adj." steen:type="1" steen:genesis="I">
+      diplomatičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыпламатычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на държавно ниво">дипломатически</lemma>
+    <lemma annotation="в междуличностното общуване">дипломатичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>diplomatický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>diplomatski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дипломатски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dyplomatyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дипломатический</lemma>
+    <lemma>дипломатичный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diplomatický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>diplomatsko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дипломатски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дипломатичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diplomatiajn</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>diplomatisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diplomatiek</lemma>
+  </synset>
+</multilingual-synset>

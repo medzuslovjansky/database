@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35590"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35590"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z yu"
+      steen:genesis="F"
+    >
+      trasa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>маршрут</lemma>
+    <lemma>падарожня</lemma>
+    <lemma>траса</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>път</lemma>
+    <lemma>маршрут</lemma>
+    <lemma>трасе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trasa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trasa</lemma>
+    <lemma>ruta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>траса</lemma>
+    <lemma>маршрута</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trasa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>маршрут</lemma>
+    <lemma>трасса</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trasa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cesta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>маршрут</lemma>
+    <lemma>траса</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>itinero</lemma>
+    <lemma>itinero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Route</lemma>
+    <lemma>Route</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>route</lemma>
+    <lemma>tracé</lemma>
+  </synset>
+</multilingual-synset>

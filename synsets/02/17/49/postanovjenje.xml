@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21749"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21749" steen:pos="n." steen:type="2" steen:same="ru pl">
+      postanovjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пастанова</lemma>
+    <lemma>вырашэнне</lemma>
+    <lemma>вынахад</lemma>
+    <lemma>надум</lemma>
+    <lemma>змеркаванне</lemma>
+    <lemma annotation="юр.">вырак</lemma>
+    <lemma>рассудак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>решение</lemma>
+    <lemma>решение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustanovení</lemma>
+    <lemma>stanovení</lemma>
+    <lemma>rozhodnutí</lemma>
+    <lemma>vyhláška</lemma>
+    <lemma>nařízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odluka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одлука</lemma>
+    <lemma>декрет</lemma>
+    <lemma>решение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>postanowienie</lemma>
+    <lemma>decyzja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>постановление</lemma>
+    <lemma>решение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustanovenie</lemma>
+    <lemma>rozhodnutie</lemma>
+    <lemma>vyhláška</lemma>
+    <lemma>nariadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odločanje</lemma>
+    <lemma>odločitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решење</lemma>
+    <lemma>одлука</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>постанова</lemma>
+    <lemma>ухвала</lemma>
+    <lemma>рішення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>decido</lemma>
+    <lemma>dekreto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Entscheidung</lemma>
+    <lemma>Erlass</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beslissing</lemma>
+    <lemma>besluit</lemma>
+  </synset>
+</multilingual-synset>

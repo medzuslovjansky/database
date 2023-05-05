@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36664"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36664"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl cz sh bm"
+      steen:genesis="E"
+    >
+      matč
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>матч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="спорт">мач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="sport">zápas</lemma>
+    <lemma>mač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>meč</lemma>
+    <lemma>utakmica</lemma>
+    <lemma>borba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>натпревар</lemma>
+    <lemma annotation="спорт">меч</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mecz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="спорт">матч</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šport">zápas</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tekma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>меч</lemma>
+    <lemma annotation="спорт">утакмица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>матч</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>matĉo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wettkampf</lemma>
+    <lemma>Match</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wedstrijd</lemma>
+  </synset>
+</multilingual-synset>

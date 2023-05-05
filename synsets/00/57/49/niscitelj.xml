@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5749"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5749"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      niščitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знішчальнік</lemma>
+    <lemma>вынішчальнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изтребител</lemma>
+    <lemma>боен самолет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stíhací letoun</lemma>
+    <lemma>stíhačka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lovac</lemma>
+    <lemma>borbeni avion</lemma>
+    <lemma>borbeni zrakoplov</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ловец</lemma>
+    <lemma>борбен авион</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wojsk.">myśliwiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>истребитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stíhacie lietadlo</lemma>
+    <lemma>stíhačka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="letala">borec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="авион">ловац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>винищувач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kampfflugzeuge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>destroyer</lemma>
+  </synset>
+</multilingual-synset>

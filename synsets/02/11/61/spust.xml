@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21161"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21161" steen:pos="m." steen:type="2" steen:same="ru pl sh">
+      spust
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спуск</lemma>
+    <lemma>схіл</lemma>
+    <lemma>збочча</lemma>
+    <lemma>узбочча</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>писта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svah</lemma>
+    <lemma>stráň</lemma>
+    <lemma>sklon</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nagib</lemma>
+    <lemma>ukošenje</lemma>
+    <lemma>strmina</lemma>
+    <lemma>padina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наклон</lemma>
+    <lemma>косина</lemma>
+    <lemma>страна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbocze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спуск</lemma>
+    <lemma>склон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spust</lemma>
+    <lemma>svah</lemma>
+    <lemma>stráň</lemma>
+    <lemma>sklon</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naklon</lemma>
+    <lemma>naklon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нагиб</lemma>
+    <lemma>косина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спуск</lemma>
+    <lemma>схил</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deklivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Steigung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helling</lemma>
+  </synset>
+</multilingual-synset>

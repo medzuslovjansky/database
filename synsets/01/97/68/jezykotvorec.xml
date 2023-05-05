@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19768"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19768" steen:pos="m.anim." steen:type="1">
+      językotvoritelj
+    </lemma>
+    <lemma steen:id="19768" steen:pos="m.anim." steen:type="1">
+      językotvorec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>моватворца</lemma>
+    <lemma>моватворац</lemma>
+    <lemma>стваральнік штучнай мовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>създател на езици</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="umělého">tvůrce jazyka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jezikotvorac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>создател на јазик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>językotwórca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конлангер</lemma>
+    <lemma>создатель искусственного языка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="umelého">tvorca jazyka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezikotvorac</lemma>
+    <lemma>jezikograditelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>језикотворац</lemma>
+    <lemma>језикоградитељ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мовотворець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lingvo kreinto</lemma>
+    <lemma>conlanger</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sprache Schöpfer</lemma>
+    <lemma>conlanger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunsttaalauteur</lemma>
+  </synset>
+</multilingual-synset>

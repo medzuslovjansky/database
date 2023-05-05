@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33231"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33231"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="uk pl sk yu mk"
+    >
+      parno čislo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цотны лік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дори броят на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sudé číslo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>parni</lemma>
+    <lemma>paran broj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>парен број</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cyfra parzysta</lemma>
+    <lemma>liczba parzysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чётное число</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>párne číslo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sodo število</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парни број</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>парне число</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Para Nombro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gerade Zahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>even getal</lemma>
+  </synset>
+</multilingual-synset>

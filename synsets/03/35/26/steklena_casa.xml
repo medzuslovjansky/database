@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33526"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33526" steen:pos="f." steen:type="1">steklěna čaša</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шкляная пасудзіна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="капацитет">стъкло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skleněný pohár</lemma>
+    <lemma>skleněná číše</lemma>
+    <lemma>sklenice</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>čaša</lemma>
+    <lemma>staklena čaša</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стаклена чаша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szklanka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стеклянный сосуд</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sklenený pohár</lemma>
+    <lemma>sklenená čaše</lemma>
+    <lemma>poháre</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cup</lemma>
+    <lemma>steklena čaša</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чаша</lemma>
+    <lemma>стаклена чаша</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>склянка</lemma>
+    <lemma>скляна посудина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ujo">vitro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Aufnahme">Glas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="om uit te drinken">glas</lemma>
+  </synset>
+</multilingual-synset>

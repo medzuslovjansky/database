@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29827"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29827" steen:pos="f." steen:type="1">palka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>палка</lemma>
+    <lemma>кій</lemma>
+    <lemma>ляска</lemma>
+    <lemma>дубец</lemma>
+    <lemma>дубіна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нож</lemma>
+    <lemma annotation="оръжие">дубина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kyj</lemma>
+    <lemma>palice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>palica</lemma>
+    <lemma>štap</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>палка</lemma>
+    <lemma>стап</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="broń">pałka</lemma>
+    <lemma>maczuga</lemma>
+    <lemma>kij</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>палка</lemma>
+    <lemma>дубина</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>palica</lemma>
+    <lemma>kyj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>palico</lemma>
+    <lemma>bitje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>палица</lemma>
+    <lemma>батина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>палиця</lemma>
+    <lemma>дубина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bastono</lemma>
+    <lemma annotation="armilo">klubo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stick</lemma>
+    <lemma annotation="Waffe">Club</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wapenstok</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5268"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5268" steen:pos="adj." steen:type="1">rozovy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ружовы</lemma>
+    <lemma annotation="бат.">ружавы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>розов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>růžový</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ružičast</lemma>
+    <lemma annotation="boja">roza</lemma>
+    <lemma annotation="žarg.">roza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>розев</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>różowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>розовый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ružový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>roza</lemma>
+    <lemma annotation="barva">roza</lemma>
+    <lemma annotation="Arg.">roza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ружичаст</lemma>
+    <lemma annotation="боја">роза</lemma>
+    <lemma annotation="жарг.">розе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рожевий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rozkoloraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rosa</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roze</lemma>
+  </synset>
+</multilingual-synset>

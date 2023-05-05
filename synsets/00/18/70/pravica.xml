@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1870"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1870" steen:pos="f." steen:type="1">pravica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>правіца</lemma>
+    <lemma>правыя</lemma>
+    <lemma>правая рука</lemma>
+    <lemma annotation="палітычнае">правае крыло</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>с дясната ръка</lemma>
+    <lemma>дясната ръка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravice</lemma>
+    <lemma>pravá ruka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>desnica</lemma>
+    <lemma>desna ruka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>десница</lemma>
+    <lemma>десна рака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawica</lemma>
+    <lemma>prawa ręka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правые</lemma>
+    <lemma annotation="в политике">правое крыло</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravica</lemma>
+    <lemma>pravá ruka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>десница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>правиця</lemma>
+    <lemma>праві</lemma>
+    <lemma annotation="у політиці">праве крило</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dekstrula</lemma>
+    <lemma>dekstre</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechten</lemma>
+    <lemma>rechten Hand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="politiek">rechts</lemma>
+    <lemma>rechterhand</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36015"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36015" steen:pos="m." steen:type="2" steen:same="v bg">
+      orden
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="рэліг.">ордэн</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="rel.">на поръчката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="nábož.">přikázání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poredak</lemma>
+    <lemma>režim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>орден</lemma>
+    <lemma>црковен ред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rel.">zakon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="религ.">орден</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="nábož.">prikázanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pravo</lemma>
+    <lemma annotation="arch.">religija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>закон</lemma>
+    <lemma annotation="арх.">вера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="реліг.">орден</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rel.">ordon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="rel.">Ordnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rel.">orde</lemma>
+  </synset>
+</multilingual-synset>

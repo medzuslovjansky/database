@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19460"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19460" steen:pos="n." steen:type="3" steen:same="cs">
+      živobyťje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жыццезабеспячэнне</lemma>
+    <lemma>сродкі да існавання</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поминък</lemma>
+    <lemma>прехрана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>živobytí</lemma>
+    <lemma>obživa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>život</lemma>
+    <lemma>egzistencija</lemma>
+    <lemma>sredstva za život</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>живеачка</lemma>
+    <lemma>егзистенција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="środki na życie">życie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жизнеобеспечение</lemma>
+    <lemma>средства к существованию</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>živobytie</lemma>
+    <lemma>obživa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>življenje</lemma>
+    <lemma>obstoj</lemma>
+    <lemma>preživetje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>живот</lemma>
+    <lemma>егзистенција</lemma>
+    <lemma>средства за живот</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>життєзабезпечення</lemma>
+    <lemma>кошти для існування</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>vivrimedo</lemma>
+    <lemma>vivsubteno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wohnen</lemma>
+    <lemma>Lebensunterhalt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>levensonderhoud</lemma>
+  </synset>
+</multilingual-synset>

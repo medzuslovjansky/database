@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36352"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36352"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      optimizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аптымізаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оптимизиране</lemma>
+    <lemma>оптимизиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>optimalizovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>optimizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оптимизира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>optymalizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оптимизировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>optimalizovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>optimizirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оптимизовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оптимізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>optimizar</lemma>
+    <lemma>optimizar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>optimize</lemma>
+    <lemma>optimize</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>optimaliseren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19401"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="uk z sh bm"
+    >
+      započinati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пачынаць</lemma>
+    <lemma>распачынаць</lemma>
+    <lemma>прыступаць</lemma>
+    <lemma>ініцыяваць</lemma>
+    <lemma>запускаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>започвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahajovat</lemma>
+    <lemma>započínat</lemma>
+    <lemma>začínat</lemma>
+    <lemma>startovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>započinjati</lemma>
+    <lemma>počinjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>започнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapoczynać</lemma>
+    <lemma>rozpoczynać</lemma>
+    <lemma>inicjować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начинать</lemma>
+    <lemma>приступать</lemma>
+    <lemma>инициировать</lemma>
+    <lemma>запускать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>započínať</lemma>
+    <lemma>začínať</lemma>
+    <lemma>otvárať</lemma>
+    <lemma>štartovať</lemma>
+    <lemma>iniciovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začetek</lemma>
+    <lemma>začetek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>започињати</lemma>
+    <lemma>почињати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>починати</lemma>
+    <lemma>приступати</lemma>
+    <lemma>ініціювати</lemma>
+    <lemma>запускати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>iniciati</lemma>
+    <lemma>komenci</lemma>
+    <lemma>piedbati for</lemma>
+    <lemma>originas</lemma>
+    <lemma>funkciigus</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>initiieren</lemma>
+    <lemma>beginnt</lemma>
+    <lemma>kick off</lemma>
+    <lemma>entsteht</lemma>
+    <lemma>starten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beginnen</lemma>
+    <lemma>aanvangen</lemma>
+    <lemma>initiëren</lemma>
+  </synset>
+</multilingual-synset>

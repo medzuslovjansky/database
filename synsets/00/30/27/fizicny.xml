@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3027" steen:pos="adj." steen:type="1" steen:genesis="I">
+      fizičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фізічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>физически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fyzický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fizički</lemma>
+    <lemma>fizikalni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>физички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fizyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>физический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fyzický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mesen</lemma>
+    <lemma>fizično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>телесан</lemma>
+    <lemma>физички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фізичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fizikaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>physisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fysiek</lemma>
+    <lemma>natuurkundig</lemma>
+    <lemma>lichamelijk</lemma>
+  </synset>
+</multilingual-synset>

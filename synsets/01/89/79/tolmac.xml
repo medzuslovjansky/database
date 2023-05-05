@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18979"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18979"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru z yu"
+    >
+      tȯlmač
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перакладнік</lemma>
+    <lemma>перакладчык</lemma>
+    <lemma>перакладаннік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="устен">преводач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tlumočník</lemma>
+    <lemma>překladatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tumač</lemma>
+    <lemma>prevoditelj</lemma>
+    <lemma>prevodilac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преведувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ustny">tłumacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переводчик</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tlmočník</lemma>
+    <lemma>prekladateľ</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tolmač</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преводилац</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>перекладач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interpretisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dolmetscher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tolk</lemma>
+  </synset>
+</multilingual-synset>

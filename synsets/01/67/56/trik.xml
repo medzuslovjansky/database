@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16756"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16756"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v~ z j"
+      steen:genesis="I"
+    >
+      trik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трук</lemma>
+    <lemma>фокус</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>трик</lemma>
+    <lemma annotation="трик">джунглата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trik</lemma>
+    <lemma>fígl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trik</lemma>
+    <lemma>sztuczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трюк</lemma>
+    <lemma>фокус</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trik</lemma>
+    <lemma>fígeľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>трюк</lemma>
+    <lemma>фокус</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lertaĵo</lemma>
+    <lemma annotation="lertaĵo">ĝangalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trick</lemma>
+    <lemma annotation="trick">Dschungel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>truc</lemma>
+  </synset>
+</multilingual-synset>

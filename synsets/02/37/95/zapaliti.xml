@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23795"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23795" steen:pos="v.tr. pf." steen:type="1">
+      zapaliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запаліць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запаля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapálit</lemma>
+    <lemma>rozsvítit</lemma>
+    <lemma>rozežhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapaliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зажечь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapáliť</lemma>
+    <lemma>rozsvietiť</lemma>
+    <lemma>rozežhnout</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svetloba</lemma>
+    <lemma>Kindle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упалити</lemma>
+    <lemma>запалити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="fajro">lumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Licht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vuur">aansteken</lemma>
+  </synset>
+</multilingual-synset>

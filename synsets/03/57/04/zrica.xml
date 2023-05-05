@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35704"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35704" steen:pos="f." steen:same="ru be sh">žrica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="паганства">жрыца</lemma>
+    <lemma>бажэнніца</lemma>
+    <lemma>святарыня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жрица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="staroslovanská kněžka">žrica</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svećenica</lemma>
+    <lemma>vračara</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="паганска">свештеничка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kapłanka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="язычество">жрица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žrica</lemma>
+    <lemma>pohanská kňažka</lemma>
+    <lemma annotation="u starých slovanov">veštica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>svečenica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свештеница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="язичництво">жриця</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="pagana">pastrino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="heidnischen">Priesterin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="heidens">priesteres</lemma>
+  </synset>
+</multilingual-synset>

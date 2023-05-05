@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31073" steen:pos="n." steen:type="1" steen:same="v z sl">
+      věko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павека</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клепач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="oční">víčko</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjeđa</lemma>
+    <lemma>očni kapak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клепка</lemma>
+    <lemma>очен капак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powieka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>веко</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="očné">viečko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pokrov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>капак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повіка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>palpebro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Augenlid</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ooglid</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29042"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29042"
+      steen:addition="(odběži)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      odběgti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбегчы</lemma>
+    <lemma>адбегчыся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>бягство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>utéct</lemma>
+    <lemma>odběhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одбегна</lemma>
+    <lemma>избегна</lemma>
+    <lemma>избега</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odbiec</lemma>
+    <lemma>odbiegnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отбежать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>utiecť</lemma>
+    <lemma>odbehnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pobegniti</lemma>
+    <lemma>odbeći</lemma>
+    <lemma annotation="od teme">odmik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побећи</lemma>
+    <lemma>одбећи</lemma>
+    <lemma annotation="од теме">удаљити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відбігти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forkuris</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abfließen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegrennen</lemma>
+  </synset>
+</multilingual-synset>

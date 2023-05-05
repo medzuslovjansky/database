@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35084"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35084"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      atmosfera
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атмасфера</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>атмосфера</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>atmosféra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>atmosfera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>атмосфера</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>atmosfera</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>атмосфера</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>atmosféra</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ozračje</lemma>
+    <lemma>atmosfera</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>атмосфера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>атмосфера</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atmosfero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Atmosphäre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>atmosfeer</lemma>
+    <lemma>sfeer</lemma>
+  </synset>
+</multilingual-synset>

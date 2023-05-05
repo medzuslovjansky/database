@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24013"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24013"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh mk bg"
+    >
+      sobstvenik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уласнік</lemma>
+    <lemma annotation="дыял.">собснік</lemma>
+    <lemma>гаспадар</lemma>
+    <lemma>уладальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>собственик</lemma>
+    <lemma>собственикът</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlastník</lemma>
+    <lemma>majitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vlasnik</lemma>
+    <lemma>posjednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сопственик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>właściciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собственник</lemma>
+    <lemma>владелец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlastník</lemma>
+    <lemma>majiteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сопственик</lemma>
+    <lemma>власник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>власник</lemma>
+    <lemma>власник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>posedanto</lemma>
+    <lemma>proprietulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eigentümer</lemma>
+    <lemma>Inhaber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigenaar</lemma>
+  </synset>
+</multilingual-synset>

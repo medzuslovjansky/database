@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35223"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35223"
+      steen:pos="m."
+      steen:same="ru uk bg"
+      steen:genesis="F"
+    >
+      žilet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камізэлька</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>елек</lemma>
+    <lemma>жилетка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vesta</lemma>
+    <lemma>kamizola</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prsluk</lemma>
+    <lemma>lajbek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>елек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kamizelka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жилет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vesta</lemma>
+    <lemma>kamizola</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>telovnik</lemma>
+    <lemma>telovnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прслук</lemma>
+    <lemma>јелек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жилет</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>veŝto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Weste</lemma>
+    <lemma>Weste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vest</lemma>
+    <lemma>gilet</lemma>
+  </synset>
+</multilingual-synset>

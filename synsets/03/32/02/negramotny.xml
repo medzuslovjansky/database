@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33202"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs bg"
+    >
+      negramotny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непісьменны</lemma>
+    <lemma>няпісьменны</lemma>
+    <lemma>нявучаны</lemma>
+    <lemma>недасведчаны</lemma>
+    <lemma>цёмны</lemma>
+    <lemma>невуцкі</lemma>
+    <lemma>неадукаваны</lemma>
+    <lemma>некампентэнтны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неграмотен</lemma>
+    <lemma>неук</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>negramotný</lemma>
+    <lemma>nezpůsobilý</lemma>
+    <lemma>neznalý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neuk</lemma>
+    <lemma>neobrazovan</lemma>
+    <lemma>neškolovan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неук</lemma>
+    <lemma>неспособен</lemma>
+    <lemma>некомпетентен</lemma>
+    <lemma>неграмотен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niekompetentny</lemma>
+    <lemma>ignorancki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неграмотный</lemma>
+    <lemma>невежественный</lemma>
+    <lemma>некомпетентный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>negramotný</lemma>
+    <lemma>nespôsobilý</lemma>
+    <lemma>neznalý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nevedni</lemma>
+    <lemma>neizobraženi</lemma>
+    <lemma>unschooled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неук</lemma>
+    <lemma>необразован</lemma>
+    <lemma>нешколован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нездара</lemma>
+    <lemma>неук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nekompetenta</lemma>
+    <lemma>senscia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inkompetent</lemma>
+    <lemma>ignorant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondeskundig</lemma>
+    <lemma>onbekwaam</lemma>
+    <lemma>incompetent</lemma>
+  </synset>
+</multilingual-synset>

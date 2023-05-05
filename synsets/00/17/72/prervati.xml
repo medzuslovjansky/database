@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1772"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1772"
+      steen:addition="(prěrve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prěrvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапыніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прекъсване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přerušit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prekinuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прекина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przerwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прервать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prerušiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прекинути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перервати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interrupt</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unterbrechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderbreken</lemma>
+    <lemma>interrumperen</lemma>
+  </synset>
+</multilingual-synset>

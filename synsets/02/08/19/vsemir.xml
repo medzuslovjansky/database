@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20819"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20819" steen:pos="m." steen:type="2" steen:same="cs sh">
+      vsemir
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сусвет</lemma>
+    <lemma>свет</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вселена</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vesmír</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>svemir</lemma>
+    <lemma>vasiona</lemma>
+    <lemma>kosmos</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вселена</lemma>
+    <lemma>универзум</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wszechświat</lemma>
+    <lemma>uniwersum</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вселенная</lemma>
+    <lemma>мир</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vesmír</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kozmos</lemma>
+    <lemma>vesolje</lemma>
+    <lemma>prostor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свемир</lemma>
+    <lemma>васиона</lemma>
+    <lemma>космос</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>всесвіт</lemma>
+    <lemma>світ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>universo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Universum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>universum</lemma>
+  </synset>
+</multilingual-synset>

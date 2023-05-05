@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36138"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36138"
+      steen:addition="(pribije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      pribiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыбыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ноктите</lemma>
+    <lemma>който има в</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přibít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pribiti</lemma>
+    <lemma>prikucati</lemma>
+    <lemma>zakucati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>закове</lemma>
+    <lemma>забие</lemma>
+    <lemma>прикове</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прибить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pribiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lak za nohte</lemma>
+    <lemma>nohtov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прибити</lemma>
+    <lemma>прикуцати</lemma>
+    <lemma>закуцати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прибити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>najlo</lemma>
+    <lemma>veturas en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nagel</lemma>
+    <lemma>fahren in</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="spijker">inslaan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29519"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29519"
+      steen:addition="(oplěje/oplěve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      oplěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпалаць</lemma>
+    <lemma>спалоць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>трева</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oplijeviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плеви</lemma>
+    <lemma>чисти од плевел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyplewić</lemma>
+    <lemma annotation="chwasty">wyplenić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выполоть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplieniť</lemma>
+    <lemma annotation="burinu">vyhubiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="plevel">ispleviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оплевити</lemma>
+    <lemma annotation="коров">исплевити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виполоти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kreskaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gras</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wieden</lemma>
+  </synset>
+</multilingual-synset>

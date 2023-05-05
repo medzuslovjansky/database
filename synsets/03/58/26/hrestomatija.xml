@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35826"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35826"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl j"
+      steen:genesis="I"
+    >
+      hrestomatija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хрэстаматыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>христоматия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chrestomatie</lemma>
+    <lemma annotation="liter.">výbor z děl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hrestomatija</lemma>
+    <lemma>antologija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хрестоматија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chrestomatia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хрестоматия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chrestomatia</lemma>
+    <lemma annotation="liter.">výbor z diel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hrestomatija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хрестоматија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хрестоматія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>chrestomathy</lemma>
+    <lemma annotation="libro">leganto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>chrestomathy</lemma>
+    <lemma annotation="Buch">Leser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>chrestomathie</lemma>
+  </synset>
+</multilingual-synset>

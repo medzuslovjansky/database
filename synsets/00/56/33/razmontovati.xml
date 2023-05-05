@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5633"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5633"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      råzmontovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разабраць</lemma>
+    <lemma>дэмантаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>демонтаж</lemma>
+    <lemma>разбиване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozmontovat</lemma>
+    <lemma>rozebrat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastaviti</lemma>
+    <lemma>razmontirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>размонтира</lemma>
+    <lemma>расклопи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. urządzenie">rozebrać</lemma>
+    <lemma>zdemontować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разобрать</lemma>
+    <lemma>демонтировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozmontovať</lemma>
+    <lemma>rozobrať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razstaviti</lemma>
+    <lemma>prati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>раставити</lemma>
+    <lemma>размонтирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розібрати</lemma>
+    <lemma>демонтувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malmunti</lemma>
+    <lemma>malmunti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerlegen</lemma>
+    <lemma>zu demontieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>demonteren</lemma>
+    <lemma>ontmantelen</lemma>
+    <lemma>uit elkaar halen</lemma>
+  </synset>
+</multilingual-synset>

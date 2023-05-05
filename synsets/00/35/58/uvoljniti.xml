@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3558"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3558" steen:pos="v.tr. pf." steen:type="1">
+      uvoljniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звольніць</lemma>
+    <lemma>зволіць</lemma>
+    <lemma>вызваліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>освобождаване от отговорност</lemma>
+    <lemma>да отхвърли</lemma>
+    <lemma annotation="за да спре да работи">да я отхвърли</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="práce">propustit</lemma>
+    <lemma annotation="funkce">uvolnit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="s posla">otpustiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="од работа">отпушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. praca">zwolnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уволить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="práca">prepustiť</lemma>
+    <lemma annotation="funkcia">uvoľniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="z dela">odpustiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="са посла">отпустити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>звільнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eligi</lemma>
+    <lemma>eksigi</lemma>
+    <lemma annotation="ĉesigi dungadon">fajro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entladen</lemma>
+    <lemma>entlassen</lemma>
+    <lemma annotation="beenden Beschäftigung">Feuer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontslaan</lemma>
+  </synset>
+</multilingual-synset>

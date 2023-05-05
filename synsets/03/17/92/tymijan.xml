@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31792"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru z sl"
+      steen:genesis="I"
+    >
+      tymijan
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чабор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мащерка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tymián</lemma>
+    <lemma>mateřídouška</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tamjan majčina dušica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="растение">мајчина душичка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tymianek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тимьян</lemma>
+    <lemma>чабрец</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tymián</lemma>
+    <lemma>materina dúška</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kadilo timijan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тамјан</lemma>
+    <lemma>мајчина душица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чебрець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>timiano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Thymian</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijm</lemma>
+  </synset>
+</multilingual-synset>

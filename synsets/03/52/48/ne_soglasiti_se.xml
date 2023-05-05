@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35248"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35248"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      ne sȯglasiti sę
+    </lemma>
+    <lemma
+      steen:id="35248"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      ne sųglasiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>не згадзіцца</lemma>
+    <lemma>не пагадзіцца</lemma>
+    <lemma>не пагадніцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>да не се съглася</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesouhlasit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ne složiti se</lemma>
+    <lemma>ne biti suglasan</lemma>
+    <lemma>biti nesuglasan</lemma>
+    <lemma>proturječiti</lemma>
+    <lemma>protiviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>не се согласува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nie zgodzić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>не согласиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nesúhlasiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nesložiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>несложити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>не погодитись</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malkonsentas</lemma>
+    <lemma>malkonsento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nicht einverstanden sind</lemma>
+    <lemma>Dissens</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>het oneens zijn</lemma>
+  </synset>
+</multilingual-synset>

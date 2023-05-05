@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21283"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21283"
+      steen:addition="(dově)"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="z"
+    >
+      dověděti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>высветліць</lemma>
+    <lemma>даведацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>осведомявам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dovědět se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doznati</lemma>
+    <lemma>saznati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дознае</lemma>
+    <lemma>спознае</lemma>
+    <lemma>осознае</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dowiedzieć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выяснить</lemma>
+    <lemma>разузнать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dozvedieť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvedeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дознати</lemma>
+    <lemma>сазнати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дізнатися</lemma>
+    <lemma>з&apos;ясувати</lemma>
+    <lemma>довідатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>auxdas</lemma>
+    <lemma>lerni</lemma>
+    <lemma>trovu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hören</lemma>
+    <lemma>lernen</lemma>
+    <lemma>finden Sie heraus</lemma>
+    <lemma />
+  </synset>
+  <synset lang="nl">
+    <lemma>vernemen</lemma>
+  </synset>
+</multilingual-synset>

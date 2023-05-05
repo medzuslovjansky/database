@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17856"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17856" steen:pos="v.tr. ipf." steen:type="1">
+      naigryvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на плёнку">запісваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запиша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nahrávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на носач на звук">запишува</lemma>
+    <lemma>снима</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nagrywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на плёнку">записывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nahrávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustrelil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на плівку">записувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>disko</lemma>
+    <lemma>bendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schallplatte</lemma>
+    <lemma>Tonband</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geluid">opnemen</lemma>
+  </synset>
+</multilingual-synset>

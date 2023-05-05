@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5545"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5545"
+      steen:addition="(iztre)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      iztreti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сцерці</lemma>
+    <lemma>зацерці</lemma>
+    <lemma>выцерці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изтривам</lemma>
+    <lemma>заличавам</lemma>
+    <lemma>изтърквам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>setřít</lemma>
+    <lemma>vymazat</lemma>
+    <lemma>smazat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obrisati</lemma>
+    <lemma>izbrisati</lemma>
+    <lemma>otrti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изтрие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymazać</lemma>
+    <lemma>wytrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стереть</lemma>
+    <lemma>затереть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zotrieť</lemma>
+    <lemma>vymazať</lemma>
+    <lemma>smazať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izbrisati</lemma>
+    <lemma>razširila po vsem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрисати</lemma>
+    <lemma>измазати</lemma>
+    <lemma>избрисати</lemma>
+    <lemma>отрти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стерти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>viŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>löschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvegen</lemma>
+    <lemma>uitgummen</lemma>
+  </synset>
+</multilingual-synset>

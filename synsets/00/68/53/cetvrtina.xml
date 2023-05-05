@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6853"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6853" steen:pos="num.fract." steen:type="1">
+      četvŕtina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чвэрць</lemma>
+    <lemma>адна чацвёртая</lemma>
+    <lemma>чвэртка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>една четвърт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čtvrtina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>četvrtina</lemma>
+    <lemma>četvrt</lemma>
+    <lemma>frtalj</lemma>
+    <lemma>kvarat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>четвртина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ćwierć</lemma>
+    <lemma>jedna czwarta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одна четвёртая</lemma>
+    <lemma>четвёртая часть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>štvrtina</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>četrtina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>четвртина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чверть</lemma>
+    <lemma>четвертина</lemma>
+    <lemma>одна четверта</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unu kvarono</lemma>
+    <lemma>kvara</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="¼">Viertel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwart</lemma>
+    <lemma annotation="breuk">vierde</lemma>
+  </synset>
+</multilingual-synset>

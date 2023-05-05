@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3622"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3622" steen:pos="v.tr. ipf." steen:type="1">
+      naznačati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назначаць</lemma>
+    <lemma>прызначаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>определям</lemma>
+    <lemma>назначавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stanovovat</lemma>
+    <lemma>určovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>utvrđivati</lemma>
+    <lemma>određivati</lemma>
+    <lemma>ustanovljivati</lemma>
+    <lemma>fiksirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>означува</lemma>
+    <lemma>одредува</lemma>
+    <lemma>утврдува</lemma>
+    <lemma>мести</lemma>
+    <lemma>поставува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustalać</lemma>
+    <lemma>wyznaczać</lemma>
+    <lemma>określać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>назначать</lemma>
+    <lemma>определять</lemma>
+    <lemma>устанавливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustanovovať</lemma>
+    <lemma>určovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>določi</lemma>
+    <lemma>Meddle</lemma>
+    <lemma>vprašajte</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утврђивати</lemma>
+    <lemma>одређивати</lemma>
+    <lemma>постављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>призначати</lemma>
+    <lemma>встановлювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>solvon</lemma>
+    <lemma>aro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beheben</lemma>
+    <lemma>setzen Sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. datum">vaststellen</lemma>
+    <lemma>benoemen</lemma>
+    <lemma annotation="in een functie">aanstellen</lemma>
+    <lemma>toewijzen</lemma>
+  </synset>
+</multilingual-synset>

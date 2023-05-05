@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1251" steen:pos="f." steen:type="2" steen:same="pl">
+      rešta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэшта</lemma>
+    <lemma>рэштка</lemma>
+    <lemma>астача</lemma>
+    <lemma>астатак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>остатъкът</lemma>
+    <lemma>обмылок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbytek</lemma>
+    <lemma>pozůstatek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ostatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ресто</lemma>
+    <lemma>остаток</lemma>
+    <lemma>кусур</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reszta</lemma>
+    <lemma>pozostałość</lemma>
+    <lemma>ostatek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>остаток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvyšok</lemma>
+    <lemma>pozostatok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>resto</lemma>
+    <lemma>ostalo</lemma>
+    <lemma>kar je ostalo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ресто</lemma>
+    <lemma>остатак</lemma>
+    <lemma>оно што је преостало</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>решта</lemma>
+    <lemma>залишок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ripozo</lemma>
+    <lemma>restaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rest</lemma>
+    <lemma>Überrest</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rest</lemma>
+    <lemma>overblijfsel</lemma>
+  </synset>
+</multilingual-synset>

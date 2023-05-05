@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36398"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36398"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      strěćati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сустракацца</lemma>
+    <lemma>спаткацца</lemma>
+    <lemma>страчацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се срещат</lemma>
+    <lemma>среща</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potkávat se</lemma>
+    <lemma>střetávat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">susretati</lemma>
+    <lemma annotation="se">sretati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се сретнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spotykać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>встречаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stretávať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Spoznajte</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сусретати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зустрічатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>renkontas</lemma>
+    <lemma>renkonto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>treffen</lemma>
+    <lemma>Begegnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontmoeten</lemma>
+  </synset>
+</multilingual-synset>

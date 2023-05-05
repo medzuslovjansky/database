@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34168"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34168"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v~ pl~ yu mk"
+      steen:genesis="I"
+    >
+      koverta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канверт</lemma>
+    <lemma>капэрта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obálka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kuverta</lemma>
+    <lemma>koverta</lemma>
+    <lemma>omotnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koperta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конверт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obálka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ovojnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коверат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конверт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koverto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Briefumschlag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>envelop</lemma>
+  </synset>
+</multilingual-synset>

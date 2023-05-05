@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25276"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25276" steen:pos="m.anim." steen:type="1">
+      dobrovoljec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дабраволец</lemma>
+    <lemma>добраахвотнік</lemma>
+    <lemma>самаахвотнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доброволец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dobrovolník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dobrovoljac</lemma>
+    <lemma>dragovoljac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доброволец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>woluntariusz</lemma>
+    <lemma>ochotnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доброволец</lemma>
+    <lemma>волонтёр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dobrovoľník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prostovoljec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>добровољац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доброволець</lemma>
+    <lemma>волонтер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>volontulon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Freiwillige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vrijwilliger</lemma>
+  </synset>
+</multilingual-synset>

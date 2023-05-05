@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5751"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5751" steen:pos="f." steen:type="1" steen:same="ru pl sh">
+      posylka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасылка</lemma>
+    <lemma>пасыланне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пакет</lemma>
+    <lemma>пакет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>balíček</lemma>
+    <lemma>balík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pošiljka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пратка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do wysłania">paczka</lemma>
+    <lemma>przesyłka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посылка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zásielka</lemma>
+    <lemma>balíček</lemma>
+    <lemma>balík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pošiljka paket</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пошиљка</lemma>
+    <lemma>пакет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посилка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pako</lemma>
+    <lemma>pakaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Paket</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pakje</lemma>
+    <lemma>zending</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36594"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36594"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      tribuna
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трыбуна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>трибуна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tribuna</lemma>
+    <lemma>řečniště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tribina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трибина</lemma>
+    <lemma>говорница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trybuna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трибуна</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tribúna</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stojala</lemma>
+    <lemma>zvočnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трибина</lemma>
+    <lemma>говорница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>трибуна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tribuno</lemma>
+    <lemma>rostrum</lemma>
+    <lemma>stando</lemma>
+    <lemma>spektantejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tribüne</lemma>
+    <lemma>Podium</lemma>
+    <lemma>Stand</lemma>
+    <lemma>Tribüne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tribune</lemma>
+  </synset>
+</multilingual-synset>

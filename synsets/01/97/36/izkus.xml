@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19736"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19736" steen:pos="m." steen:type="2" steen:same="ru sh">
+      izkus
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>проба</lemma>
+    <lemma>тэст</lemma>
+    <lemma>выпрабаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тест</lemma>
+    <lemma>проба</lemma>
+    <lemma>изпитание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkouška</lemma>
+    <lemma>test</lemma>
+    <lemma>experiment</lemma>
+    <lemma>pokus</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pokus</lemma>
+    <lemma>proba</lemma>
+    <lemma>test</lemma>
+    <lemma>eksperiment</lemma>
+    <lemma>opit</lemma>
+    <lemma>ispitivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проба</lemma>
+    <lemma>тест</lemma>
+    <lemma>опит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>próba</lemma>
+    <lemma>test</lemma>
+    <lemma>eksperyment</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проба</lemma>
+    <lemma>тест</lemma>
+    <lemma>испытание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skúška</lemma>
+    <lemma>test</lemma>
+    <lemma>experiment</lemma>
+    <lemma>pokus</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>test</lemma>
+    <lemma>test</lemma>
+    <lemma>eksperiment</lemma>
+    <lemma>eksperiment</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проба</lemma>
+    <lemma>тест</lemma>
+    <lemma>експеримент</lemma>
+    <lemma>опит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випробування</lemma>
+    <lemma>тест</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>juĝo</lemma>
+    <lemma>provo</lemma>
+    <lemma>eksperimento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Versuch</lemma>
+    <lemma>Test</lemma>
+    <lemma>Experiment</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proef</lemma>
+    <lemma>test</lemma>
+    <lemma>experiment</lemma>
+  </synset>
+</multilingual-synset>

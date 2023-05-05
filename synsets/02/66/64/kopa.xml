@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26664"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26664"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru sk sl mk"
+    >
+      kopa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>куча</lemma>
+    <lemma>купа</lemma>
+    <lemma>стос</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>куп</lemma>
+    <lemma>купа</lemma>
+    <lemma>купчина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kopa</lemma>
+    <lemma>halda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gomila</lemma>
+    <lemma>hrpa</lemma>
+    <lemma>kup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>копа</lemma>
+    <lemma>стог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sterta</lemma>
+    <lemma>stos</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>куча</lemma>
+    <lemma>груда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kopa</lemma>
+    <lemma>halda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kup</lemma>
+    <lemma>kup</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гомила</lemma>
+    <lemma>стог</lemma>
+    <lemma>хрпа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>купа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amason</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Haufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoop</lemma>
+    <lemma>stapel</lemma>
+  </synset>
+</multilingual-synset>

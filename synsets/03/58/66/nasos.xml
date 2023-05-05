@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35866"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35866"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v"
+      steen:genesis="S"
+    >
+      nasos
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>насос</lemma>
+    <lemma>помпа</lemma>
+    <lemma>смок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>помпа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čerpadlo</lemma>
+    <lemma>pumpa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pumpa</lemma>
+    <lemma>crpka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пумпа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pompa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>насос</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čerpadlo</lemma>
+    <lemma>pumpa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>črpalka</lemma>
+    <lemma>črpalka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пумпа</lemma>
+    <lemma>црпка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>насос</lemma>
+    <lemma>помпа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pumpilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pumpe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pomp</lemma>
+  </synset>
+</multilingual-synset>

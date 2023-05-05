@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16810"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16810" steen:pos="m.anim." steen:type="1">dvorjan</lemma>
+    <lemma steen:id="16810" steen:pos="m.anim." steen:type="1">dvorjanin</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дваранін</lemma>
+    <lemma>шляхціч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дворянин</lemma>
+    <lemma>благородник</lemma>
+    <lemma>аристократ</lemma>
+    <lemma>придворен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šlechtic</lemma>
+    <lemma>dvořan</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvorjanin</lemma>
+    <lemma>dvoranin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дворјанин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szlachcic</lemma>
+    <lemma>dworzanin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дворянин</lemma>
+    <lemma>придворный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šľachtic</lemma>
+    <lemma>dvoran</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plemič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>племић</lemma>
+    <lemma>дворјанин</lemma>
+    <lemma>дворанин</lemma>
+    <lemma>дворјаник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дворянин</lemma>
+    <lemma>шляхтич</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nobelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Edelmann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>edelman</lemma>
+  </synset>
+</multilingual-synset>

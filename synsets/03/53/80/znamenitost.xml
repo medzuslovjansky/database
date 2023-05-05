@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35380"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35380" steen:pos="f." steen:type="2" steen:same="ru uk bg">
+      znamenitosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слыннасць</lemma>
+    <lemma>вядомасць</lemma>
+    <lemma>слава</lemma>
+    <lemma>хвала</lemma>
+    <lemma>славутасць</lemma>
+    <lemma>выдатнасць</lemma>
+    <lemma>папулярнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>известност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proslulost</lemma>
+    <lemma>sláva</lemma>
+    <lemma>popularita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znamenitost</lemma>
+    <lemma>slava</lemma>
+    <lemma>popularnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слава</lemma>
+    <lemma>популарност</lemma>
+    <lemma>знаменитост</lemma>
+    <lemma>познатост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sława</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>известность</lemma>
+    <lemma>слава</lemma>
+    <lemma>знаменитость</lemma>
+    <lemma>популярность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>proslulosť</lemma>
+    <lemma>sláva</lemma>
+    <lemma>populárnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slava</lemma>
+    <lemma>priljubljenost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слава</lemma>
+    <lemma>популарност</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знаменитість</lemma>
+    <lemma>популярність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>famulo</lemma>
+    <lemma>famo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berühmtheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roem</lemma>
+    <lemma>beroemdheid</lemma>
+  </synset>
+</multilingual-synset>

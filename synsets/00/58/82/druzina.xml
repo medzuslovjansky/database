@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5882"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5882" steen:pos="f." steen:type="1">družina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дружына</lemma>
+    <lemma>каманда</lemma>
+    <lemma>атрад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>екип</lemma>
+    <lemma>отбор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tým</lemma>
+    <lemma>družstvo</lemma>
+    <lemma>skupina</lemma>
+    <lemma>družina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ekipa</lemma>
+    <lemma>momčad</lemma>
+    <lemma>tim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дружина</lemma>
+    <lemma>екипа</lemma>
+    <lemma>тим</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drużyna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>команда</lemma>
+    <lemma>дружина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tím</lemma>
+    <lemma>družstvo</lemma>
+    <lemma>skupina</lemma>
+    <lemma>družina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ekipa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тим</lemma>
+    <lemma>екипа</lemma>
+    <lemma>скупина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teamo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Mannschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>team</lemma>
+  </synset>
+</multilingual-synset>

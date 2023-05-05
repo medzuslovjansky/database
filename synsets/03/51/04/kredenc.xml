@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35104"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35104"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="z yu mk"
+      steen:genesis="D"
+    >
+      kredenc
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>буфет</lemma>
+    <lemma>сервант</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бюфет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kredenc</lemma>
+    <lemma>příborník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kredenc</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>креденец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kredens</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буфет</lemma>
+    <lemma>сервант</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kredenc</lemma>
+    <lemma>príborník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omara</lemma>
+    <lemma>omara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>креденац</lemma>
+    <lemma>орман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буфет</lemma>
+    <lemma>сервант</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bufedo</lemma>
+    <lemma>bufedo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Buffet</lemma>
+    <lemma>Anrichte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buffet</lemma>
+    <lemma>dressoir</lemma>
+  </synset>
+</multilingual-synset>

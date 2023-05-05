@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28822"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28822"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      oblupiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аблупіць</lemma>
+    <lemma>абабраць</lemma>
+    <lemma>абдзерці</lemma>
+    <lemma>аскрэбці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>бели</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oloupat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oguliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>олупи</lemma>
+    <lemma>излупи</lemma>
+    <lemma>оголи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrać ze skórki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>облупить</lemma>
+    <lemma annotation="от кожуры">очистить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>olúpať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>olupiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>огулити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>облупити</lemma>
+    <lemma annotation="від шкірки">очистити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schälen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pellen</lemma>
+  </synset>
+</multilingual-synset>

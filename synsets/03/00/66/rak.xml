@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30066"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30066" steen:pos="m.anim." steen:type="1">rak</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="жывёла">рак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Рак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="životinja">rak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="животно">рак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="животное">рак</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="животиња">рак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="тварина">рак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kankro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flusskrebs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kreeft</lemma>
+  </synset>
+</multilingual-synset>

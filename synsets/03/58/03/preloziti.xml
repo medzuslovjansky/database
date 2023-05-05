@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35803"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35803"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      prěložiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="лінг.">перакласці</lemma>
+    <lemma>перавесці</lemma>
+    <lemma>пазводзіць</lemma>
+    <lemma>папераводзіць</lemma>
+    <lemma annotation="лінг.">паперакладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>превод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeložit</lemma>
+    <lemma>převést</lemma>
+    <lemma>přetlumočit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prevesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przetłumaczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перевести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preložiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перекласти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>traduki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Übersetzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertalen</lemma>
+  </synset>
+</multilingual-synset>

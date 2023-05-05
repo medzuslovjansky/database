@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1047"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1047"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      želati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жадаць</lemma>
+    <lemma>зычыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пожелая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přát</lemma>
+    <lemma>toužit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>željeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посакува</lemma>
+    <lemma>сака</lemma>
+    <lemma>има желба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>życzyć</lemma>
+    <lemma>pragnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>желать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="si">želať</lemma>
+    <lemma>priať</lemma>
+    <lemma>túžiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hoteti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>желети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жадати</lemma>
+    <lemma>бажати</lemma>
+    <lemma>зичити</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>deziri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wunsch</lemma>
+    <lemma>Wunsch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wensen</lemma>
+  </synset>
+</multilingual-synset>

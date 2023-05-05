@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6250"
+      steen:addition="(zapiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zapisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запісаць</lemma>
+    <lemma>адзначыць</lemma>
+    <lemma>аднатаваць</lemma>
+    <lemma>занатаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запиша</lemma>
+    <lemma>отбележа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poznamenat</lemma>
+    <lemma>zapsat</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>напьсати</lemma>
+    <lemma>написати</lemma>
+    <lemma>въпьсати</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapisati</lemma>
+    <lemma>zabilježiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запише</lemma>
+    <lemma>забележи</lemma>
+    <lemma>прибележи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zanotować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>записать</lemma>
+    <lemma>отметить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poznamenať</lemma>
+    <lemma>zapísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opeklina</lemma>
+    <lemma>zapis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>записати</lemma>
+    <lemma>забележити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>записати</lemma>
+    <lemma>відмітити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>noto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hinweis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opschrijven</lemma>
+    <lemma>noteren</lemma>
+  </synset>
+</multilingual-synset>

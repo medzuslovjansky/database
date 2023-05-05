@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19809"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19809" steen:pos="f." steen:type="2" steen:same="ub z">
+      krivda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крыўда</lemma>
+    <lemma>несправядлівасць</lemma>
+    <lemma annotation="парадку">парушэнне</lemma>
+    <lemma>крыўджанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кривда</lemma>
+    <lemma>кривина</lemma>
+    <lemma>кривица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křivda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nepravda</lemma>
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кривда</lemma>
+    <lemma>кривина</lemma>
+    <lemma>неправда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krzywda</lemma>
+    <lemma>zło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>несправедливость</lemma>
+    <lemma>обида</lemma>
+    <lemma>зло</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krivda</lemma>
+    <lemma>krivica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неправда</lemma>
+    <lemma>кривда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кривда</lemma>
+    <lemma>шкода</lemma>
+    <lemma>образа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbone</lemma>
+    <lemma>malbonfarado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>falsch</lemma>
+    <lemma>Fehlverhalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onrecht</lemma>
+  </synset>
+</multilingual-synset>

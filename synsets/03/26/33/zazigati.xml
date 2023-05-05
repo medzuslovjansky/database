@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32633"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32633"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru uk z~ j~"
+    >
+      zažigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запальваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запалвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapalovat</lemma>
+    <lemma>rozněcovat</lemma>
+    <lemma>zažínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>paliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вали</lemma>
+    <lemma>пали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зажигать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapaľovať</lemma>
+    <lemma>roznecovať</lemma>
+    <lemma>zažíhať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svetloba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>палити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запалювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝaltas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entzünden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vuur">aansteken</lemma>
+  </synset>
+</multilingual-synset>

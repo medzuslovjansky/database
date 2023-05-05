@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36231"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36231"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      interier
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інтэр&apos;ер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="арх.">интериор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>interiér</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>interijer</lemma>
+    <lemma>unutrašnjost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ентериер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w budynku">wnętrze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интерьер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>interiér</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Notranjost</lemma>
+    <lemma>notranja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интеријер</lemma>
+    <lemma>унутрашњост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="будівлі">інтер&apos;єр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de konstruaĵo">interno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="ein Gebäude">Innenraum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interieur</lemma>
+  </synset>
+</multilingual-synset>

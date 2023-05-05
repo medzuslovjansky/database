@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36197"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36197" steen:pos="f." steen:type="2" steen:same="j">
+      gospodica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзяўчына</lemma>
+    <lemma>незамужняя дзяўчына</lemma>
+    <lemma>незамужка</lemma>
+    <lemma>паненка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>госпожица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slečna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospođica</lemma>
+    <lemma>gospodična</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>госпоѓица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>panna</lemma>
+    <lemma>niezamężna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="незамужняя">девушка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slečna</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Gospodična</lemma>
+    <lemma>neporočena ženska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>госпођица</lemma>
+    <lemma>неудана женска особа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дівчина</lemma>
+    <lemma>незаміжня жінка</lemma>
+    <lemma>панна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fraŭlino</lemma>
+    <lemma>needzinigxinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verlust</lemma>
+    <lemma>ledige Frau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>juffrouw</lemma>
+  </synset>
+</multilingual-synset>

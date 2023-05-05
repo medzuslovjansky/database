@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27639"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27639" steen:pos="f." steen:type="1">mlådež</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>моладзь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="колективна">младеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mládež</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mladež</lemma>
+    <lemma>omladina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>младеж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>młodzież</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>молодёжь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mládež</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mladi</lemma>
+    <lemma>mladi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>младеж</lemma>
+    <lemma>омладина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>молодь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kolektiva">junularo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="kollektive">Jugend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jeugd</lemma>
+    <lemma>jongeren</lemma>
+  </synset>
+</multilingual-synset>

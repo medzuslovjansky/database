@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3569"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru be yu mk"
+    >
+      črtati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рысаваць</lemma>
+    <lemma>маляваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>рисувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kreslit</lemma>
+    <lemma>malovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crtati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црта</lemma>
+    <lemma>цртање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rysować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чертить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>črtať</lemma>
+    <lemma>kresliť</lemma>
+    <lemma>maľovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>risati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цртати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>креслити</lemma>
+    <lemma>малювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desegni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zeichnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tekenen</lemma>
+  </synset>
+</multilingual-synset>

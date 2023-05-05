@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5523"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5523" steen:pos="v.tr. ipf." steen:type="1">
+      zadavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>задаваць</lemma>
+    <lemma annotation="пытанне, задачу">ставіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něco někomu">zadávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задава</lemma>
+    <lemma>нанесува</lemma>
+    <lemma>дава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="coś komuś">zadawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задавать</lemma>
+    <lemma annotation="вопрос, задачу">ставить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="niečo niekomu">zadávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Določi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>задавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suferigi</lemma>
+    <lemma annotation="tasko">aro</lemma>
+    <lemma annotation="demando">demandi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zufügen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toebrengen</lemma>
+    <lemma annotation="taak">geven</lemma>
+    <lemma annotation="vraag">stellen</lemma>
+  </synset>
+</multilingual-synset>

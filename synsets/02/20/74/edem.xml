@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22074"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs yu"
+      steen:genesis="I"
+    >
+      edem
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ацёк</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подуване</lemma>
+    <lemma>оток</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>edém</lemma>
+    <lemma>otok</lemma>
+    <lemma>oteklina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>edem</lemma>
+    <lemma>vodeni otok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrzęk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отёк</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>edém</lemma>
+    <lemma>opuch</lemma>
+    <lemma>opuchlina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Otok</lemma>
+    <lemma>otekanje</lemma>
+    <lemma annotation="v tkivu ali organu">edem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оток</lemma>
+    <lemma>отеклина</lemma>
+    <lemma>едем</lemma>
+    <lemma annotation="у ткиву или органима">водени оток</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>набряк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>edemo</lemma>
+    <lemma>edemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ödem</lemma>
+    <lemma>Ödeme</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oedeem</lemma>
+  </synset>
+</multilingual-synset>

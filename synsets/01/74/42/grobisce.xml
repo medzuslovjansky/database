@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17442"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17442" steen:pos="n." steen:type="1" steen:same="sl">
+      grobišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>могілкі</lemma>
+    <lemma>могільнік</lemma>
+    <lemma>цвінтар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гробище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hřbitov</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>groblje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гробишта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cmentarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кладбище</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cintorín</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pokopališče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гробље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цвинтар</lemma>
+    <lemma>кладовище</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tombejo</lemma>
+    <lemma>tombejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Friedhof</lemma>
+    <lemma>Friedhof</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kerkhof</lemma>
+    <lemma>begraafplaats</lemma>
+  </synset>
+</multilingual-synset>

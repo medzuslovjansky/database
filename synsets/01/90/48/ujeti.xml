@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19048"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19048"
+      steen:addition="(ujme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      ujęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зменшыць</lemma>
+    <lemma>паменшыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съкращения</lemma>
+    <lemma>намаляване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odejmout</lemma>
+    <lemma>odebrat</lemma>
+    <lemma>zredukovat</lemma>
+    <lemma>ujmout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>oduzeti</lemma>
+    <lemma>smanjiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одзеде</lemma>
+    <lemma>намали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odjąć</lemma>
+    <lemma>zredukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уменьшить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odňať</lemma>
+    <lemma>odobrať</lemma>
+    <lemma>zredukovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prekliče</lemma>
+    <lemma>zmanjša</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одузети</lemma>
+    <lemma>смањити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зменшити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reduce</lemma>
+    <lemma>malpliigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reduzieren</lemma>
+    <lemma>verringern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aftrekken</lemma>
+    <lemma>reduceren</lemma>
+  </synset>
+</multilingual-synset>

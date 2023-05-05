@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5989" steen:pos="v.tr. pf." steen:type="1">
+      råzpytati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распытаць</lemma>
+    <lemma>апытаць</lemma>
+    <lemma>дапытаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>въпрос</lemma>
+    <lemma>въпрос</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyslechnout</lemma>
+    <lemma>dotázat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>raspitati</lemma>
+    <lemma>ispitati</lemma>
+    <lemma>saslušati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распита</lemma>
+    <lemma>распраша</lemma>
+    <lemma>сослуша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypytać</lemma>
+    <lemma annotation="kogoś">przesłuchać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расспросить</lemma>
+    <lemma>опросить</lemma>
+    <lemma>допросить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vypočuť</lemma>
+    <lemma>opýtať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Povpraševanje</lemma>
+    <lemma>preiskovanje</lemma>
+    <lemma>slišijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>распитати</lemma>
+    <lemma>испитати</lemma>
+    <lemma>саслушати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпитати</lemma>
+    <lemma>опитати</lemma>
+    <lemma>допитати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pridemandi</lemma>
+    <lemma>demando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verhören</lemma>
+    <lemma>Frage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondervragen</lemma>
+  </synset>
+</multilingual-synset>

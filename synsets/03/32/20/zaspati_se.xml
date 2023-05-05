@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33220"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33220"
+      steen:addition="(zaspi)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      zaspati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заспацца</lemma>
+    <lemma>праспаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>успя се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaspat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prespavati</lemma>
+    <lemma>zaspati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се успа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaspać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заспаться</lemma>
+    <lemma>проспать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zaspať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Prespati</lemma>
+    <lemma annotation="nekaj">spanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>успавати се</lemma>
+    <lemma annotation="нешто">преспавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заспаться</lemma>
+    <lemma>проспати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oversleep</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschlafen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich verslapen</lemma>
+  </synset>
+</multilingual-synset>

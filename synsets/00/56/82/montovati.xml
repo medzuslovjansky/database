@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5682"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5682"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      montovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мантаваць</lemma>
+    <lemma>усталёўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>монтирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>montovat</lemma>
+    <lemma>instalovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>montirati</lemma>
+    <lemma>sklapati</lemma>
+    <lemma>sastavljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>монтира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>montować</lemma>
+    <lemma>instalować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>монтировать</lemma>
+    <lemma>устанавливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>montovať</lemma>
+    <lemma>inštalovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>montažo</lemma>
+    <lemma>montažo</lemma>
+    <lemma>sestavljanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>монтирати</lemma>
+    <lemma>склапати</lemma>
+    <lemma>саставити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>монтувати</lemma>
+    <lemma>встановлювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunvenigi</lemma>
+    <lemma>instali</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Montage</lemma>
+    <lemma>Installation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>monteren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29754"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29754"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="uk cs sh bm"
+    >
+      otravny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атрутны</lemma>
+    <lemma>зялейны</lemma>
+    <lemma>з&apos;едлівы</lemma>
+    <lemma>таксічны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отровни</lemma>
+    <lemma>злото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otravný</lemma>
+    <lemma>jedovatý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otrovan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отровен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatruty</lemma>
+    <lemma>trujący</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ядовитый</lemma>
+    <lemma>отравляющий</lemma>
+    <lemma>токсичный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jedovatý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>strupena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отрован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>отруйний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venena</lemma>
+    <lemma>venena</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>giftig</lemma>
+    <lemma>giftig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>giftig</lemma>
+  </synset>
+</multilingual-synset>

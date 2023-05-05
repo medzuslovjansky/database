@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24653"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24653"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      bezplodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бясплодны</lemma>
+    <lemma>стэрыльны</lemma>
+    <lemma>няздатны да дзетараджэння</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стерилен</lemma>
+    <lemma>ялов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neplodný</lemma>
+    <lemma>sterilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neplodan</lemma>
+    <lemma>jalov</lemma>
+    <lemma>sterilan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јалов</lemma>
+    <lemma>неплоден</lemma>
+    <lemma>стерилен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpłodny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бесплодный</lemma>
+    <lemma>стерильный</lemma>
+    <lemma>неспособный к деторождению</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neplodný</lemma>
+    <lemma>sterilný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>neploden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесплодан</lemma>
+    <lemma>јалов</lemma>
+    <lemma>стерилан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стерильний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfekundaj</lemma>
+    <lemma>sterila</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unfruchtbar</lemma>
+    <lemma>steril</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvruchtbaar</lemma>
+    <lemma>steriel</lemma>
+  </synset>
+</multilingual-synset>

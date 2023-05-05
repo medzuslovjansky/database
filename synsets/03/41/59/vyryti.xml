@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34159"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34159"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vyryti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вырыць</lemma>
+    <lemma>выкапаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкопая</lemma>
+    <lemma>изрия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyrýt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iskopati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изрие</lemma>
+    <lemma>ископа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykopać</lemma>
+    <lemma annotation="ziemię">zryć</lemma>
+    <lemma>wykorzenić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вырыть</lemma>
+    <lemma>выкопать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyryť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dig</lemma>
+    <lemma>Jazbina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ископати</lemma>
+    <lemma>изрити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вирити</lemma>
+    <lemma>викопати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dig</lemma>
+    <lemma>radiko</lemma>
+    <lemma>nestotruo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dig</lemma>
+    <lemma>Wurzel</lemma>
+    <lemma>graben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitgraven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21254"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21254"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cz sh"
+      steen:genesis="S"
+    >
+      životopis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>біяграфія</lemma>
+    <lemma>жыццяпіс</lemma>
+    <lemma>жыццёпіс</lemma>
+    <lemma>жыццярыс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>биография</lemma>
+    <lemma>животопис</lemma>
+    <lemma>житие</lemma>
+    <lemma>животоописание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>životopis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>životopis</lemma>
+    <lemma>biografija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>биографија</lemma>
+    <lemma>животопис</lemma>
+    <lemma>житие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biografia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>биография</lemma>
+    <lemma>жизнеописание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>životopis</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>življenjepis</lemma>
+    <lemma>biografija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>биографија</lemma>
+    <lemma>животопис</lemma>
+    <lemma>житије</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>життєпис</lemma>
+    <lemma>біографія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>biografio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Biografie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>biografie</lemma>
+    <lemma>levensbeschrijving</lemma>
+  </synset>
+</multilingual-synset>

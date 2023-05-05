@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24164"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24164"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      akompaniator
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акампаніятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>акомпанист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doprovázeč</lemma>
+    <lemma annotation="hud.">doprovod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pratitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>придружник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akompaniator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аккомпаниатор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hud.">doprovod</lemma>
+    <lemma>doprovodník</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>spremljevalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пратилац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>акомпаніатор</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akompananto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Begleiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begeleider</lemma>
+  </synset>
+</multilingual-synset>

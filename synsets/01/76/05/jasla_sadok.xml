@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17605"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17605" steen:pos="m." steen:type="1">jasla-sadȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дашкольная ўстанова">яслі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ясла</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jesle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jasle</lemma>
+    <lemma>jaslice</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="градинка">јасли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żłobek</lemma>
+    <lemma>żłób</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дошкольное учреждение">ясли</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jasle</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jaslice</lemma>
+    <lemma>jaslice</lemma>
+    <lemma>zibelka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јасле</lemma>
+    <lemma>јаслице</lemma>
+    <lemma>колевка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ясла-садок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bredejo</lemma>
+    <lemma>crèche</lemma>
+    <lemma>staltrogo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kindergarten</lemma>
+    <lemma>Kindergarten</lemma>
+    <lemma>Krippe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>crèche</lemma>
+    <lemma>kinderopvang</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="804"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="804" steen:pos="f." steen:type="1" steen:genesis="I">
+      procedura
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>працэдура</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>процедура</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postup</lemma>
+    <lemma>procedura</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>postupak</lemma>
+    <lemma>proces</lemma>
+    <lemma>procedura</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постапка</lemma>
+    <lemma>процедура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>procedura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>процедура</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>postup</lemma>
+    <lemma>procedúra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>postopek</lemma>
+    <lemma>proces</lemma>
+    <lemma>postopek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поступак</lemma>
+    <lemma>процес</lemma>
+    <lemma>процедура</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>процедура</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>procedo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verfahren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>procedure</lemma>
+  </synset>
+</multilingual-synset>

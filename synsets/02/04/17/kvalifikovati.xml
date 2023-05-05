@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20417"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20417"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kvalifikovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кваліфікаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>квалифицирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvalifikovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">kvalificirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>квалификува</lemma>
+    <lemma>квалифицира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwalifikować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>квалифицировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvalifikovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izpolnjujejo pogoje</lemma>
+    <lemma>oceni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квалификовати</lemma>
+    <lemma>оцењивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кваліфікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvalifiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>qualifizieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwalificeren</lemma>
+  </synset>
+</multilingual-synset>

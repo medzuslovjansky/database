@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28102"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28102"
+      steen:addition="(napije)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v sk j"
+    >
+      napiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упіцца</lemma>
+    <lemma>напіцца</lemma>
+    <lemma>ап&apos;янець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="пиян">напия се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opít se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napiti se</lemma>
+    <lemma annotation="alk.">opiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се напи</lemma>
+    <lemma>се опијани</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="допьяна">напиться</lemma>
+    <lemma>опьянеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napil</lemma>
+    <lemma>napil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напити се</lemma>
+    <lemma>опити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>упитися</lemma>
+    <lemma>сп&apos;яніти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akiri ebria</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>betrunken werden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dronken worden</lemma>
+    <lemma>zich bedrinken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5766"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5766" steen:pos="f." steen:type="1" steen:genesis="I">
+      avarija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аварыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>авария</lemma>
+    <lemma>повреда</lemma>
+    <lemma>злополука</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>havárie</lemma>
+    <lemma>porucha</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>havarija</lemma>
+    <lemma>nesreća</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хаварија</lemma>
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>awaria</lemma>
+    <lemma>rozpad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>авария</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>havária</lemma>
+    <lemma>porucha</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="pojem iz pomorskega prava">havarija</lemma>
+    <lemma>okvara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квар</lemma>
+    <lemma>хаварија</lemma>
+    <lemma>незгода</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аварія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>paneo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Panne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>panne</lemma>
+    <lemma>defect</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20687"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20687"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru pl bg"
+    >
+      råznositi sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раздавацца</lemma>
+    <lemma>гучаць</lemma>
+    <lemma annotation="аб гуку">разнасіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отговори</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>roznášet se</lemma>
+    <lemma>rozeznívat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>raznositi se</lemma>
+    <lemma>pronijeti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се разнесува</lemma>
+    <lemma>се додтавува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozbrzmiewać</lemma>
+    <lemma annotation="np. pył, dźwięk">roznosić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раздаваться</lemma>
+    <lemma annotation="о звуке">разноситься</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>roznášať sa</lemma>
+    <lemma>rozoznieva sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevoznik</lemma>
+    <lemma>ki je nagnjena k</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разносити се</lemma>
+    <lemma>пронети се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розноситися</lemma>
+    <lemma>лунати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>resonas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erklingen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerklinken</lemma>
+  </synset>
+</multilingual-synset>

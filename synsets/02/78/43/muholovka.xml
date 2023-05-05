@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27843"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27843" steen:pos="f." steen:type="1">muholovka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="птушка">мухалоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="птица">мухоловка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lejsek</lemma>
+    <lemma>mucháček</lemma>
+    <lemma>muchařík</lemma>
+    <lemma annotation="pták">mucholapka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>muharica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="птица">муварче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>muchołówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="птица">мухоловка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>muchár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ptica">muhar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="птица">мухарица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="птах">мухоловка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muŝkaptulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>flycatcher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vogel">vliegenvanger</lemma>
+  </synset>
+</multilingual-synset>

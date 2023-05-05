@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="58"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="58" steen:pos="v.intr. ipf." steen:type="1">
+      glåsovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>галасаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гласувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlasovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glasati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гласа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>głosować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>голосовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlasovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glasovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гласати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>голосувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>voĉdono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>stimmen</lemma>
+    <lemma>wählen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stemmen</lemma>
+  </synset>
+</multilingual-synset>

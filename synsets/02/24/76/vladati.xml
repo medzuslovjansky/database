@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22476"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22476"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="22476"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="майстэрствам">валодаць</lemma>
+    <lemma annotation="магчымасцю">уладаць</lemma>
+    <lemma>умець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>владея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovládat</lemma>
+    <lemma>zvládat</lemma>
+    <lemma>být schopen používat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="nekim umijećem">vladati</lemma>
+    <lemma>ovladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>владее</lemma>
+    <lemma>ракува</lemma>
+    <lemma>управува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opanować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мастерством">владеть</lemma>
+    <lemma annotation="способностью">обладать</lemma>
+    <lemma>уметь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovládať</lemma>
+    <lemma>zvládať</lemma>
+    <lemma>byť schopný používať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nekaj spretnosti">pravilo</lemma>
+    <lemma>master</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="неким умећем">владати</lemma>
+    <lemma>овладати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="майстерністю">володіти</lemma>
+    <lemma annotation="здатністю">володіти</lemma>
+    <lemma>уміти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>utiligi</lemma>
+    <lemma>mastro</lemma>
+    <lemma>esti lerta en</lemma>
+    <lemma>povos uzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausüben</lemma>
+    <lemma>Meister</lemma>
+    <lemma>seine geschickt bei der Lage sein</lemma>
+    <lemma>zu verwenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beheersen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5463"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5463"
+      steen:addition="(vȯzȯjde; vȯzšel)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      vȯzȯjdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узысці</lemma>
+    <lemma>узыйсці</lemma>
+    <lemma>узлезці</lemma>
+    <lemma>паўзлазіць</lemma>
+    <lemma>узабрацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкача</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vystoupat</lemma>
+    <lemma annotation="do kopce">vyjít</lemma>
+    <lemma>vzejít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="uzbrdo">penjati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>искачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wzejść</lemma>
+    <lemma annotation="pod górę">wejść</lemma>
+    <lemma>wspiąć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взойти</lemma>
+    <lemma>взобраться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vystúpiť</lemma>
+    <lemma annotation="do kopca">vyjsť</lemma>
+    <lemma>vzísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="navzgor">vzpon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="узбрдо">пењати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зійти</lemma>
+    <lemma>підійнятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>iri supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bergauf gehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omhooggaan</lemma>
+    <lemma>opgaan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22514"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22514"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      zavladnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завалодаць</lemma>
+    <lemma>заўладаць</lemma>
+    <lemma>захапіць</lemma>
+    <lemma>апантаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завладея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovládnout</lemma>
+    <lemma>opanovat</lemma>
+    <lemma>zabrat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavladati</lemma>
+    <lemma>ovladati</lemma>
+    <lemma>osvojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завладее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawładnąć</lemma>
+    <lemma>wziąć w posiadanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завладеть</lemma>
+    <lemma>захватить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovládnuť</lemma>
+    <lemma>opanovať</lemma>
+    <lemma>zabrať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preprečiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завладати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заволодіти</lemma>
+    <lemma>захопити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preni</lemma>
+    <lemma>ekposedu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beschlagnahmen</lemma>
+    <lemma>in Besitz nehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in bezit nemen</lemma>
+  </synset>
+</multilingual-synset>

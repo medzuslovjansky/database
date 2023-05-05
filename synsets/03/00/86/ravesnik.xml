@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30086"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      råvěsnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднагодак</lemma>
+    <lemma>раўнагодак</lemma>
+    <lemma>раўналетак</lemma>
+    <lemma>аднавяковец</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>одногодка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrstevník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vršnjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врсник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rówieśnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ровесник</lemma>
+    <lemma>сверстник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vrstovník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>peer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вршњак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ровесник</lemma>
+    <lemma>одноліток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>coeval</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeitgenosse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leeftijdsgenoot</lemma>
+  </synset>
+</multilingual-synset>

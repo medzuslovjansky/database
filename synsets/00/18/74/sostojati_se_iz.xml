@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1874"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1874"
+      steen:addition="(sȯstoji)"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      sȯstojati sę iz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складацца з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се състоят</lemma>
+    <lemma>се състои от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skládat se z</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sastojati se od</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се состои од</lemma>
+    <lemma>да биде составен од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>składać się z</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>состоять из</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skladať sa z</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>je sestavljeno iz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>састојати се из</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складатися з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsistas el</lemma>
+    <lemma>konsistas el</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aus</lemma>
+    <lemma>der sich aus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestaan uit</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5189"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5189"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub pl"
+    >
+      koristati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкарыстоўваць</lemma>
+    <lemma>спажываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ползвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>používat</lemma>
+    <lemma>užívat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koristiti</lemma>
+    <lemma>upotrebljavati</lemma>
+    <lemma>rabiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>користи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>używać</lemma>
+    <lemma annotation="mieć profit">korzystać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>использовать</lemma>
+    <lemma>употреблять</lemma>
+    <lemma>пользоваться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>používať</lemma>
+    <lemma>užívať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uporaba</lemma>
+    <lemma>uporaba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>користити</lemma>
+    <lemma>употребљавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>використовувати</lemma>
+    <lemma>вживати</lemma>
+    <lemma>користуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uzo</lemma>
+    <lemma>profito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einsatz</lemma>
+    <lemma>Nutzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebruiken</lemma>
+    <lemma>gebruikmaken van</lemma>
+    <lemma>profiteren van</lemma>
+  </synset>
+</multilingual-synset>

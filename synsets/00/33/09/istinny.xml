@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3309"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3309" steen:pos="adj." steen:type="2" steen:same="v j">
+      istinny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праўдзівы</lemma>
+    <lemma>сапраўдны</lemma>
+    <lemma annotation="напр: шчырае каханне">шчыры</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>истинен</lemma>
+    <lemma>правдив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravdový</lemma>
+    <lemma>skutečný</lemma>
+    <lemma>reálný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istinski</lemma>
+    <lemma>realan</lemma>
+    <lemma>stvaran</lemma>
+    <lemma>zbiljski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вистински</lemma>
+    <lemma>реален</lemma>
+    <lemma>стварен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawdziwy</lemma>
+    <lemma>rzeczywisty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>истинный</lemma>
+    <lemma>настоящий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naozajstný</lemma>
+    <lemma>skutočný</lemma>
+    <lemma>reálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Res</lemma>
+    <lemma>pravi</lemma>
+    <lemma>dejanska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истински</lemma>
+    <lemma>реалан</lemma>
+    <lemma>актуалан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>істинний</lemma>
+    <lemma>правдивий</lemma>
+    <lemma>правильний</lemma>
+    <lemma>реальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vera</lemma>
+    <lemma>reala</lemma>
+    <lemma annotation="vera">reala</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wahr</lemma>
+    <lemma>reale</lemma>
+    <lemma annotation="real">wirkliche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waarlijk</lemma>
+    <lemma>werkelijk</lemma>
+    <lemma>echt</lemma>
+    <lemma>heus</lemma>
+  </synset>
+</multilingual-synset>

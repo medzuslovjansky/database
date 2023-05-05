@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25529"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25529"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="v cs"
+    >
+      gadati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гадаць</lemma>
+    <lemma>варажыць</lemma>
+    <lemma>прадказваць будучыню</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гадая</lemma>
+    <lemma>предсказвам бъдещето</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>věštit</lemma>
+    <lemma>předpovídat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gatati</lemma>
+    <lemma>vračati</lemma>
+    <lemma>bajati</lemma>
+    <lemma>čarati</lemma>
+    <lemma>proricati</lemma>
+    <lemma>pretkazivati</lemma>
+    <lemma>predskazivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гата</lemma>
+    <lemma>претскажува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wróżyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гадать</lemma>
+    <lemma>ворожить</lemma>
+    <lemma>предсказывать будущее</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>veštiť</lemma>
+    <lemma>predpovedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povej usodo</lemma>
+    <lemma>da se vrnete</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гатати</lemma>
+    <lemma>врачати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ворожити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tell riĉaĵoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erzähle Weissagungen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>de toekomst voorspellen</lemma>
+  </synset>
+</multilingual-synset>

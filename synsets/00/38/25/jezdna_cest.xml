@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3825"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3825" steen:pos="f." steen:type="1">ježdna čęsť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праезная частка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пътно платно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vozovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kolnik</lemma>
+    <lemma>kolovoz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коловоз</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jezdnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проезжая часть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vozovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pločnik avgust</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коловоз</lemma>
+    <lemma>колски пут</lemma>
+    <lemma>колник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проїжджа частина</lemma>
+    <lemma>проїзна частина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vojo</lemma>
+    <lemma>trafiko areon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fahrbahn</lemma>
+    <lemma>Verkehrsfläche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijbaan</lemma>
+  </synset>
+</multilingual-synset>

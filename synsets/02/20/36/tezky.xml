@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22036"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22036" steen:pos="adj." steen:type="2" steen:same="v z bm">
+      tęžky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суровы</lemma>
+    <lemma annotation="пакаранне">суворы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="наказание">тежко</lemma>
+    <lemma>твърда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>těžký</lemma>
+    <lemma>hrozný</lemma>
+    <lemma>závažný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>strog</lemma>
+    <lemma>težak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="казна">тешка</lemma>
+    <lemma>тешки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kara">surowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="наказание">суровый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ťažký</lemma>
+    <lemma>hrozný</lemma>
+    <lemma>závažný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kazen">težka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тежак</lemma>
+    <lemma>строг</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="покарання">суворий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="puno">severa</lemma>
+    <lemma>malmola</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Strafe">harte schwere</lemma>
+    <lemma />
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="straf">streng</lemma>
+  </synset>
+</multilingual-synset>

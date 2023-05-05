@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="642"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="642"
+      steen:addition="(izběži) (+2)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      izběgti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазбегнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избегна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhnout se</lemma>
+    <lemma>vyvarovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izbjeći</lemma>
+    <lemma>ukloniti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избегна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uniknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>избежать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhnúť sa</lemma>
+    <lemma>vyvarovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izogniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>избећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уникнути</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>eviti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vermeiden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermijden</lemma>
+    <lemma>uit de weg gaan</lemma>
+  </synset>
+</multilingual-synset>

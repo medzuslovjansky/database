@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5557"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      odražati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбіваць</lemma>
+    <lemma>адлюстроўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отразява</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něco">odrážet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odražavati</lemma>
+    <lemma>odbijati</lemma>
+    <lemma>odbacivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одразува</lemma>
+    <lemma>рефлектира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. w wodzie">odbijać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отражать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niečo">odrážať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odražajo</lemma>
+    <lemma annotation="svetlobnih žarkov">zavrne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одражавати</lemma>
+    <lemma annotation="светло, зраке">одбијати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відбивати</lemma>
+    <lemma>відображати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pripensi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reflektieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerspiegelen</lemma>
+    <lemma>weerkaatsen</lemma>
+    <lemma>reflecteren</lemma>
+  </synset>
+</multilingual-synset>

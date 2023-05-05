@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1602"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1602"
+      steen:addition="(mene/mę, mně/mi, mnojų)"
+      steen:pos="pron.pers."
+      steen:type="1"
+    >
+      ja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>я</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>аз</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>já</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>ꙗзъ</lemma>
+    <lemma>азъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="мене, ме">јас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>я</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ja</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>jaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>я</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>mi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ik</lemma>
+  </synset>
+</multilingual-synset>

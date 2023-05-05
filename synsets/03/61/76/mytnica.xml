@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36176"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36176" steen:pos="f." steen:type="2" steen:same="ub bg">
+      mytnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="від падатку">пошліна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>митница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>clo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mitnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>царина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вид налога">пошлина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>clo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>carinski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>царина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="вид податку">мито</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="imposto tipo">devo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Steuerart">Zoll</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invoerrechten</lemma>
+  </synset>
+</multilingual-synset>

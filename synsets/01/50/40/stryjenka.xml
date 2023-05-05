@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15040"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15040" steen:pos="f." steen:type="2">stryjenka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="сястра бацькі">цётка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="сестра на бащата">леля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="otcova sestra">teta</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>strina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стрина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stryjenka</lemma>
+    <lemma>żona brata ojca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="сестра отца">тётя</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="otcova sestra">teta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>teta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стрина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="сестра батька">тітка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="patro fratino">onklino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Vaters Schwester">Tante</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zuster van vader">tante</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24654"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24654" steen:pos="adj." steen:type="2">neurodny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бясплодны</lemma>
+    <lemma>бясплённы</lemma>
+    <lemma>няплодны</lemma>
+    <lemma>неўрадлівы</lemma>
+    <lemma>неўраджайны</lemma>
+    <lemma>няўродны</lemma>
+    <lemma>нерадавіты</lemma>
+    <lemma>нязнатны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безплоден</lemma>
+    <lemma annotation="в селското стопанство">неурожаен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neúrodný</lemma>
+    <lemma>planý</lemma>
+    <lemma>jalový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neplodan</lemma>
+    <lemma>nerodan</lemma>
+    <lemma>jalov</lemma>
+    <lemma>sterilan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неплоден</lemma>
+    <lemma>нероден</lemma>
+    <lemma>бесплоден</lemma>
+    <lemma>јалов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpłodny</lemma>
+    <lemma>nieurodzajny</lemma>
+    <lemma>jałowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бесплодный</lemma>
+    <lemma>неурожайный</lemma>
+    <lemma>неплодородный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neúrodný</lemma>
+    <lemma>planý</lemma>
+    <lemma>jalový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neplodne</lemma>
+    <lemma>jalova</lemma>
+    <lemma>jalovo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неплодан</lemma>
+    <lemma>неродан</lemma>
+    <lemma>јалов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безплідний</lemma>
+    <lemma>неврожайний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malfekunda</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unfruchtbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="land">onvruchtbaar</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35650"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35650" steen:pos="n." steen:type="2" steen:same="v pl">
+      gnězdko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разетка</lemma>
+    <lemma annotation="электрычны.">гняздо</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>електрически контакт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="elektricka">zásuvka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>utičnica</lemma>
+    <lemma>šteker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>штекер</lemma>
+    <lemma annotation="електрична енергија" />
+  </synset>
+  <synset lang="pl">
+    <lemma>gniazdko elektryczne</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>розетка</lemma>
+    <lemma annotation="электр.">гнездо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="elektrická">zásuvka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>električna vtičnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утичница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>електрична розетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="elektro">socket</lemma>
+    <lemma>potenco ŝtopilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Strom">Buchse</lemma>
+    <lemma>Netzstecker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stopcontact</lemma>
+    <lemma>wandcontactdoos</lemma>
+  </synset>
+</multilingual-synset>

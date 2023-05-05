@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1425"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1425" steen:pos="adj." steen:type="1">nezaležny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>незалежны</lemma>
+    <lemma>незалежніцкі</lemma>
+    <lemma>самастойны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>независими</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nezávislý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neovisan</lemma>
+    <lemma>nezavisan</lemma>
+    <lemma>samostalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>независен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niezależny</lemma>
+    <lemma>niepodległy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>независимый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nezávislý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neodvisna</lemma>
+    <lemma>samostojna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>независан</lemma>
+    <lemma>самосталан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>незалежний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sendependa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unabhängig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onafhankelijk</lemma>
+  </synset>
+</multilingual-synset>

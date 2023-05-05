@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25294"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25294"
+      steen:addition="(dokaže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      dokazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дагаварыць</lemma>
+    <lemma>даказаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изказвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>domluvit</lemma>
+    <lemma>dopovědět</lemma>
+    <lemma>doříci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispričati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>докажа</lemma>
+    <lemma>доискажа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mówić">skończyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>договорить</lemma>
+    <lemma>досказать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dohovoriť</lemma>
+    <lemma>dopovedať</lemma>
+    <lemma>dorozprávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="zgodba, govor">konec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="причу, говор">завршити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доказати</lemma>
+    <lemma>закінчити розповідь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fini rakonton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Finish telling</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvertellen</lemma>
+  </synset>
+</multilingual-synset>

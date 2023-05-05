@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17658"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17658" steen:pos="f." steen:type="1">klętva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лаянка</lemma>
+    <lemma>брыдкаслоўе</lemma>
+    <lemma>матарызна</lemma>
+    <lemma>баявое слова</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хула</lemma>
+    <lemma>псувня</lemma>
+    <lemma>ругатня</lemma>
+    <lemma>попържня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kletba</lemma>
+    <lemma>vulgárnost</lemma>
+    <lemma>zaklení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>psovka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="се колне">клетва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekleństwo</lemma>
+    <lemma>wulgaryzm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ругательство</lemma>
+    <lemma>сквернословие</lemma>
+    <lemma>матерщина</lemma>
+    <lemma>бранное слово</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kliatba</lemma>
+    <lemma>vulgárnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prisežem besede</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>псовка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лайка</lemma>
+    <lemma>лайливе слово</lemma>
+    <lemma>матюк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĵuri vorton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schimpfwort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheldwoord</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16731"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16731"
+      steen:addition="(děje/děne)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+    >
+      děti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здарацца</lemma>
+    <lemma>адбывацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>става</lemma>
+    <lemma>случва се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dít se</lemma>
+    <lemma>stávat se</lemma>
+    <lemma>konat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dešavati se</lemma>
+    <lemma>događati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се случува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dziać się</lemma>
+    <lemma>zdarzać się</lemma>
+    <lemma>wydarzać się</lemma>
+    <lemma>mieć miejsce</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случаться</lemma>
+    <lemma>происходить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diať sa</lemma>
+    <lemma>stávať sa</lemma>
+    <lemma>konať sa</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>se to zgodi</lemma>
+    <lemma>se zgodi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дешава се</lemma>
+    <lemma>догађа се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>траплятися</lemma>
+    <lemma>ставатися</lemma>
+    <lemma>відбуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okazi</lemma>
+    <lemma>okazi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>passieren</lemma>
+    <lemma>stattfinden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebeuren</lemma>
+    <lemma>plaatsvinden</lemma>
+    <lemma>plaatshebben</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3374"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3374"
+      steen:addition="(prijme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prijęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыняць</lemma>
+    <lemma>атрымаць</lemma>
+    <lemma>узяць</lemma>
+    <lemma>пагадзіцца</lemma>
+    <lemma>згадзіцца</lemma>
+    <lemma>дапасавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>приемате</lemma>
+    <lemma>да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přijmout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prihvatiti</lemma>
+    <lemma>dobiti</lemma>
+    <lemma>primiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прими</lemma>
+    <lemma>прифати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyjąć</lemma>
+    <lemma>zaakceptować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>принять</lemma>
+    <lemma>согласиться</lemma>
+    <lemma>получить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prijať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sprejmite dobili</lemma>
+    <lemma>prejeli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прихватити</lemma>
+    <lemma>добити</lemma>
+    <lemma>примити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прийняти</lemma>
+    <lemma>погодитися</lemma>
+    <lemma>отримати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akcepti</lemma>
+    <lemma>ricevi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>akzeptieren</lemma>
+    <lemma>erhalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aannemen</lemma>
+    <lemma>aanvaarden</lemma>
+    <lemma>accepteren</lemma>
+    <lemma>in ontvangst nemen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36091"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36091"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs sh bm"
+      steen:genesis="I"
+    >
+      duel
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дуэль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двубой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>duel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvoboj</lemma>
+    <lemma>duel</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дуел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pojedynek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дуэль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>duel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvoboj</lemma>
+    <lemma>dvoboj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двобој</lemma>
+    <lemma>дуел</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дуель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>duelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Duell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>duel</lemma>
+  </synset>
+</multilingual-synset>

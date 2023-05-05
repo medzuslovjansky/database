@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35567"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35567"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="E"
+    >
+      gej
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гей</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гей</lemma>
+    <lemma>хомосексуален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>gay</lemma>
+    <lemma>homosexuál</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>homoseksualac</lemma>
+    <lemma>homić</lemma>
+    <lemma>peder</lemma>
+    <lemma>gej</lemma>
+    <lemma>gay</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>геј</lemma>
+    <lemma>хомосексуалец</lemma>
+    <lemma>педер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gay</lemma>
+    <lemma>homosexuál</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gay gay gay</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хомосексуалац</lemma>
+    <lemma>педер</lemma>
+    <lemma>геј</lemma>
+    <lemma>мужеложник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="гомосексуаліст">гей</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="geja">gaja</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="homosexuell">Homosexuell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gay</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="902"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="902" steen:pos="m." steen:type="1" steen:genesis="I">
+      raport
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рапарт</lemma>
+    <lemma>справаздача</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>доклад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>raport</lemma>
+    <lemma>zpráva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvještaj</lemma>
+    <lemma>izvješće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рапорт</lemma>
+    <lemma>извештај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>raport</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рапорт</lemma>
+    <lemma>отчёт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>raport</lemma>
+    <lemma>správa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poročilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извештај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рапорт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>raporto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bericht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rapport</lemma>
+  </synset>
+</multilingual-synset>

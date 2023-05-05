@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35618"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35618"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru uk cs"
+    >
+      nesčisljeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>незлічоны</lemma>
+    <lemma>нязмерны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безброен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesčíslný</lemma>
+    <lemma>nespočetný</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>забоубеннꙑй</lemma>
+    <lemma>безчи́ннꙑй</lemma>
+    <lemma>безчисменьнꙑй</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bezbrojan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неброен</lemma>
+    <lemma>безброен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niezliczony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бесчисленный</lemma>
+    <lemma>несчётный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nesčíselný</lemma>
+    <lemma>nespočetný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nešteto</lemma>
+    <lemma>Nebrojen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безбројан</lemma>
+    <lemma>небројен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>незліченний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sennombrajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unzählig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>talloos</lemma>
+  </synset>
+</multilingual-synset>

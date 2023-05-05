@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1877"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1877"
+      steen:addition="(bere)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      brati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>браць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вземам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uzimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>брать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>brať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>jemati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>брати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>nehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nemen</lemma>
+    <lemma>pakken</lemma>
+  </synset>
+</multilingual-synset>

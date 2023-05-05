@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31123"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sh bm"
+    >
+      vepŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вяпрук</lemma>
+    <lemma annotation="дыял.">вепр</lemma>
+    <lemma>япрук</lemma>
+    <lemma>дзік</lemma>
+    <lemma>кабан</lemma>
+    <lemma>парсюк</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дива свиня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>divoké prase</lemma>
+    <lemma>divočák</lemma>
+    <lemma>kanec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vepar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вепар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wieprz</lemma>
+    <lemma>dzika świnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вепрь</lemma>
+    <lemma>кабан</lemma>
+    <lemma>дикая свинья</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>divoké prasa</lemma>
+    <lemma>diviak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prašiča</lemma>
+    <lemma annotation="moški">divjega prašiča</lemma>
+    <lemma annotation="moški">divji prašič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вепар</lemma>
+    <lemma annotation="мужјак">дивља свиња</lemma>
+    <lemma annotation="мужјак">дивље прасе</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вепр</lemma>
+    <lemma>кабан</lemma>
+    <lemma>дика свиня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sovaĝa porko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wildschwein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wild zwijn</lemma>
+  </synset>
+</multilingual-synset>

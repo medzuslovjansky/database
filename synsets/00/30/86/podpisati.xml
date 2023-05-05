@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3086"
+      steen:addition="(podpiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      podpisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падпісаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>знак</lemma>
+    <lemma>да се абонирате</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podepsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potpisati</lemma>
+    <lemma>staviti potpis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потпише</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podpisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подписать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podpísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znamenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потписати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підписати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>subskribi</lemma>
+    <lemma>aboni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unterzeichnen</lemma>
+    <lemma>abonnieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondertekenen</lemma>
+  </synset>
+</multilingual-synset>

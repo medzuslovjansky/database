@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1015"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1015" steen:pos="num.card." steen:type="1">nula</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нуль</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нула</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nula</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nula</lemma>
+    <lemma>ništica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нула</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zero</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ноль</lemma>
+    <lemma>нуль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nula</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нула</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нуль</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Null</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nul</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20239"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20239" steen:pos="m." steen:type="2" steen:same="ru cz">
+      ukazatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>указальнік</lemma>
+    <lemma>паказальнік</lemma>
+    <lemma>паказнік</lemma>
+    <lemma>паказчык</lemma>
+    <lemma>знак</lemma>
+    <lemma>індыкатар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>показалеца</lemma>
+    <lemma>на пътен знак</lemma>
+    <lemma>индикатор за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukazatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>putokaz</lemma>
+    <lemma>pokazivač</lemma>
+    <lemma>indikator</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патоказ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wskaźnik</lemma>
+    <lemma>znak drogowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>указатель</lemma>
+    <lemma>знак</lemma>
+    <lemma>индикатор</lemma>
+    <lemma>показатель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ukazovateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>načrt kazalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>Путоказ показивач</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>покажчик</lemma>
+    <lemma>знак</lemma>
+    <lemma>індикатор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pointer</lemma>
+    <lemma>vojo signo</lemma>
+    <lemma>indikilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeiger</lemma>
+    <lemma>Verkehrsschild</lemma>
+    <lemma>Anzeige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanwijzer</lemma>
+    <lemma>wegwijzer</lemma>
+    <lemma>indicator</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15011"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15011" steen:pos="n." steen:type="3" steen:same="pl">
+      slovničstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лексікон</lemma>
+    <lemma>лексіка</lemma>
+    <lemma>слоўніцтва</lemma>
+    <lemma>слоўнікавы запас</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>речник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slovní zásoba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vokabular</lemma>
+    <lemma>rječnik</lemma>
+    <lemma>fond riječi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>речник</lemma>
+    <lemma>вокабулар</lemma>
+    <lemma>фонд на зборови</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>słownictwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лексикон</lemma>
+    <lemma>лексика</lemma>
+    <lemma>словарный запас</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slovná zásoba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Slovar</lemma>
+    <lemma>zbirka besed</lemma>
+    <lemma>besedišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>речник</lemma>
+    <lemma>скуп речи</lemma>
+    <lemma>језичко благо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>словниковий запас</lemma>
+    <lemma>лексикон</lemma>
+    <lemma>лексика</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vortprovizon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wortschatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>woordenschat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23226"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23226" steen:pos="f." steen:type="1" steen:genesis="I">
+      nervoznosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нярвовасць</lemma>
+    <lemma annotation="саст.">нервовасць</lemma>
+    <lemma>нервознасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нервност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nervozita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nervoza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нервозност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nerwowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нервозность</lemma>
+    <lemma>нервность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nervozita</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živčnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>живчаност</lemma>
+    <lemma>нервоза</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нервовість</lemma>
+    <lemma>нервозність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nervosity</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nervosität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zenuwachtigheid</lemma>
+    <lemma>nervositeit</lemma>
+  </synset>
+</multilingual-synset>

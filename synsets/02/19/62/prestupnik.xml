@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21962"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21962"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      prěstųpnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парушальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на закон и т.н.">нарушител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>narušitel</lemma>
+    <lemma>pachatel</lemma>
+    <lemma>provinilec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijestupnik</lemma>
+    <lemma>prekršitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престапник</lemma>
+    <lemma>нарушител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naruszyciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нарушитель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>narušiteľ</lemma>
+    <lemma>páchateľ</lemma>
+    <lemma>previnilec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>storilec kaznivega dejanja</lemma>
+    <lemma>kazenske</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преступник</lemma>
+    <lemma>прекршилац закона</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>порушник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="leĝo ktp">infractor</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Gesetz etc.">Verletzer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overtreder</lemma>
+  </synset>
+</multilingual-synset>

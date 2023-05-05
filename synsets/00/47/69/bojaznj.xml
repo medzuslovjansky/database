@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4769" steen:pos="f." steen:type="1">bojaznj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>боязь</lemma>
+    <lemma>страх</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>страх</lemma>
+    <lemma>безпокойство</lemma>
+    <lemma>тревога</lemma>
+    <lemma>уплах</lemma>
+    <lemma annotation="малко ост.">боязън</lemma>
+    <lemma annotation="разг.">шубе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>strach</lemma>
+    <lemma>úzkost</lemma>
+    <lemma>bázeň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bojazan</lemma>
+    <lemma>bojaznost</lemma>
+    <lemma>bojažljivost</lemma>
+    <lemma>strah</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>страв</lemma>
+    <lemma>бојазност</lemma>
+    <lemma>неспокој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strach</lemma>
+    <lemma>lęk</lemma>
+    <lemma>bojaźń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>боязнь</lemma>
+    <lemma>страх</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>strach</lemma>
+    <lemma>úzkosť</lemma>
+    <lemma>bázeň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bojazen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>страх</lemma>
+    <lemma>бојазност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>страх</lemma>
+    <lemma>тривога</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>timo</lemma>
+    <lemma>maltrankvilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Furcht</lemma>
+    <lemma>Angs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>angst</lemma>
+    <lemma>vrees</lemma>
+  </synset>
+</multilingual-synset>

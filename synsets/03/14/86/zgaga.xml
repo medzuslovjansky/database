@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31486"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31486"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru~ uk pl cs~ sl sh~"
+    >
+      žgaga
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пячайка</lemma>
+    <lemma>пякотка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стомашни киселини</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pálení žáhy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žgaravica</lemma>
+    <lemma>gorušica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="стомачна">киселина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zgaga</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изжога</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pálenie záhy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgaga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>горушица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>печія</lemma>
+    <lemma>згага</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pirozo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sodbrennen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maagzuur</lemma>
+  </synset>
+</multilingual-synset>

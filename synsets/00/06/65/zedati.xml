@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="665"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="665" steen:pos="v.tr. ipf." steen:type="2" steen:same="z">
+      žędati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вымагаць</lemma>
+    <lemma>вытрабоўваць</lemma>
+    <lemma>патрабаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изисквам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žádat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zahtijevati</lemma>
+    <lemma>potraživati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изискува</lemma>
+    <lemma>бара</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żądać</lemma>
+    <lemma>domagać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>требовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žiadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrebno poiskati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>захтевати</lemma>
+    <lemma>тражити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вимагати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>peti</lemma>
+    <lemma>deziri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nachfrage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eisen</lemma>
+  </synset>
+</multilingual-synset>

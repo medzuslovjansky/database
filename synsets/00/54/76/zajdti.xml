@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5476"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5476"
+      steen:addition="(zajde; zašel)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      zajdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зайсці</lemma>
+    <lemma>сесці</lemma>
+    <lemma>пасядаць</lemma>
+    <lemma annotation="пра сонца">закаціцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заляза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapadnout</lemma>
+    <lemma>zajít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaći</lemma>
+    <lemma>zapasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зајде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zajść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сесть</lemma>
+    <lemma>зайти</lemma>
+    <lemma annotation="о солнце">закатиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapadnúť</lemma>
+    <lemma>zájsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pojdi dol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заћи</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>сісти</lemma>
+    <lemma>зайти</lemma>
+    <lemma annotation="про сонце">закотитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="malaperi malantaŭ la horizonto">aro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="hinter dem Horizont verschwinden">set</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zon">ondergaan</lemma>
+  </synset>
+</multilingual-synset>

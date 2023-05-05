@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10300"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10300" steen:pos="f." steen:type="2" steen:same="ru bg">
+      osmysljenosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асэнсаванасць</lemma>
+    <lemma>разважлівасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>смисленост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smysluplnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smislenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сензибилитет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozsądek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осмысленность</lemma>
+    <lemma>рассудительность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmysluplnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smiselnosti</lemma>
+    <lemma>modrost</lemma>
+    <lemma>razum</lemma>
+    <lemma>razum</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>осмишљење</lemma>
+    <lemma>разумност</lemma>
+    <lemma>здрав разум</lemma>
+    <lemma>разум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свідомість</lemma>
+    <lemma>розсудливість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sentemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sensibilität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zinvolheid</lemma>
+    <lemma>zinnigheid</lemma>
+  </synset>
+</multilingual-synset>

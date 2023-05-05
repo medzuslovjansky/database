@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20937"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20937" steen:pos="n." steen:type="1" steen:same="v z j~">
+      odpušćeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грахоў">адпушчэнне</lemma>
+    <lemma>дараванне</lemma>
+    <lemma>прабачэнне</lemma>
+    <lemma>выбачэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прошка</lemma>
+    <lemma annotation="греховете">опрощение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hříchů">odpuštění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oproštenje</lemma>
+    <lemma>oprost</lemma>
+    <lemma>pomilovanje</lemma>
+    <lemma>amnestija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опроштение</lemma>
+    <lemma>прошка</lemma>
+    <lemma>простување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="grzechów">odpuszczenie</lemma>
+    <lemma>rozgrzeszenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грехов">отпущение</lemma>
+    <lemma>прощение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hriechov">odpustenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpuščanje</lemma>
+    <lemma>odpuščanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опроштај</lemma>
+    <lemma>опрост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="гріхів">відпущення</lemma>
+    <lemma>пробачення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>absolvon</lemma>
+    <lemma annotation="pekojn">absolvo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Absolution</lemma>
+    <lemma annotation="Sünden">Vergebung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergiffenis</lemma>
+  </synset>
+</multilingual-synset>

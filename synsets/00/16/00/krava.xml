@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1600"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1600" steen:pos="f." steen:type="1">kråva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карова</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>крава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kráva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корова</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krava</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крава</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корова</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bovino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kuh</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koe</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36915"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36915"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sr bm"
+    >
+      izvajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылепіць</lemma>
+    <lemma>стварыць скульптуру</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извая</lemma>
+    <lemma>моделирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vysochat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblikovati</lemma>
+    <lemma>modelirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изваја</lemma>
+    <lemma>измоделира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrzeźbić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изваять</lemma>
+    <lemma>создать скульптуру</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vysochárčiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kipariti</lemma>
+    <lemma>oblikovati</lemma>
+    <lemma>modelirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извајати</lemma>
+    <lemma>обликовати</lemma>
+    <lemma>измоделирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виліпити</lemma>
+    <lemma>створити скульптуру</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skulpti</lemma>
+    <lemma>skulpti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Skulptur</lemma>
+    <lemma>Skulptur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beeldhouwen</lemma>
+  </synset>
+</multilingual-synset>

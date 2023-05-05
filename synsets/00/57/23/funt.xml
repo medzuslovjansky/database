@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5723"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5723" steen:pos="m." steen:type="1" steen:genesis="I">
+      funt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фунт [£]</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>английски паунд [£]</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="£">libra [gbp]</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>funta</lemma>
+    <lemma annotation="valuta">funta sterlinga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фунта [г]</lemma>
+    <lemma annotation="парична единица" />
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="£">funt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фунт [£]</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="£">libra [GBP]</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Funt [£]</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фунта [£]</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фунт [£]</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pundo [£]</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Pfund [£]</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="£">pond</lemma>
+  </synset>
+</multilingual-synset>

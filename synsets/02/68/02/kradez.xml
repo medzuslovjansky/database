@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26802"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26802" steen:pos="f." steen:type="2" steen:same="ub z mk">
+      kradež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крадзеж</lemma>
+    <lemma>зладзейства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грабеж</lemma>
+    <lemma>кражба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krádež</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krađa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кражби</lemma>
+    <lemma>крадење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kradzież</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кража</lemma>
+    <lemma>воровство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krádež</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krajo</lemma>
+    <lemma>kradež</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крађа</lemma>
+    <lemma>крадеж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>крадіжка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtelo</lemma>
+    <lemma>ŝtelo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Diebstahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diefstal</lemma>
+  </synset>
+</multilingual-synset>

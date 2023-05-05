@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="864"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="864" steen:pos="adj." steen:type="1">iny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>іншы</lemma>
+    <lemma>другі</lemma>
+    <lemma>інакшы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>друга</lemma>
+    <lemma>друга</lemma>
+    <lemma>друга</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jiný</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="ина, ино">инъ</lemma>
+    <lemma annotation="дроуга, дроуго">дроугъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ini</lemma>
+    <lemma>drugi</lemma>
+    <lemma>ostali</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>други</lemma>
+    <lemma>друг</lemma>
+    <lemma>поинаков</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>другой</lemma>
+    <lemma>иной</lemma>
+    <lemma>прочий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>iný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Drugič</lemma>
+    <lemma>različni razlogi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>други</lemma>
+    <lemma>другачији</lemma>
+    <lemma>ини</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інший</lemma>
+    <lemma>инший</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aliaj</lemma>
+    <lemma>alia</lemma>
+    <lemma>malsama</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>andere</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ander</lemma>
+  </synset>
+</multilingual-synset>

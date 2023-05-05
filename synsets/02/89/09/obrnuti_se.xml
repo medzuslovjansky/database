@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28909"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="v j"
+    >
+      obŕnųti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абярнуцца</lemma>
+    <lemma>агарнуцца</lemma>
+    <lemma>абвінуцца</lemma>
+    <lemma>абкруціцца</lemma>
+    <lemma>звярнуцца</lemma>
+    <lemma>павярнуцца</lemma>
+    <lemma>кінуцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обърни се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrátit se</lemma>
+    <lemma annotation="pohyb">otočit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okrenuti se</lemma>
+    <lemma>obrnuti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се обрне</lemma>
+    <lemma>се сврте</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrócić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обернуться</lemma>
+    <lemma>обратиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrátiť sa</lemma>
+    <lemma annotation="pohyb">otočiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obratno</lemma>
+    <lemma>zavoj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрнути се</lemma>
+    <lemma>окренути се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обернутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dreh dich um</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich omkeren</lemma>
+  </synset>
+</multilingual-synset>

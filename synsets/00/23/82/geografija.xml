@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2382"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2382" steen:pos="f." steen:type="1" steen:genesis="I">
+      geografija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>геаграфія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>география</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>geografie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>geografija</lemma>
+    <lemma>zemljopis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>географија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>geografia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>география</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>geografia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>geografija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>географија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>географія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>geografio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Erdkunde</lemma>
+    <lemma>Geographie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aardrijkskunde</lemma>
+    <lemma>geografie</lemma>
+  </synset>
+</multilingual-synset>

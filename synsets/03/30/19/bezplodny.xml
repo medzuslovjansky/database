@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33019"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33019"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl yu bg"
+    >
+      bezplodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бясплодны</lemma>
+    <lemma>бясплённы</lemma>
+    <lemma>бескарысны</lemma>
+    <lemma>безвыніковы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безплоден</lemma>
+    <lemma annotation="в селското стопанство">неурожаен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neplodný</lemma>
+    <lemma>marný</lemma>
+    <lemma>bezvýsledný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>besplodan</lemma>
+    <lemma>nekoristan</lemma>
+    <lemma>uzaludan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неплоден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieurodzajny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бесплодный</lemma>
+    <lemma>безрезультатный</lemma>
+    <lemma>бесполезный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neplodný</lemma>
+    <lemma>márny</lemma>
+    <lemma>bezvýsledný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brezploden</lemma>
+    <lemma>jalov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесплодан</lemma>
+    <lemma>неплодан</lemma>
+    <lemma>јалов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безплідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senfruktaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>fruchtlos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vruchteloos</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2300"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2300" steen:pos="f." steen:type="1">trgovja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гандаль</lemma>
+    <lemma>камерцыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>търговия</lemma>
+    <lemma>маркетинг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obchod</lemma>
+    <lemma>marketing</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>trgovina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трговија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>handel</lemma>
+    <lemma>marketing</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>торговля</lemma>
+    <lemma>коммерция</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>obchod</lemma>
+    <lemma>marketing</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trgovina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трговина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>торгівля</lemma>
+    <lemma>комерція</lemma>
+    <lemma>крамарство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komerco</lemma>
+    <lemma>merkatiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Commerce</lemma>
+    <lemma>Marketing</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handel</lemma>
+    <lemma>marketing</lemma>
+    <lemma>zakenleven</lemma>
+  </synset>
+</multilingual-synset>

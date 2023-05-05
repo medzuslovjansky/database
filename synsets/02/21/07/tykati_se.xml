@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22107"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22107"
+      steen:addition="(tyče)"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      tykati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тычыцца</lemma>
+    <lemma>датычыцца</lemma>
+    <lemma>датычыць</lemma>
+    <lemma>адносіцца</lemma>
+    <lemma>ставіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се отнася (към) - грижа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>týkat se</lemma>
+    <lemma>vzahovat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odnositi se</lemma>
+    <lemma>ticati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="кон">се однесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tyczyć się</lemma>
+    <lemma>dotyczyć</lemma>
+    <lemma>odnosić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>касаться</lemma>
+    <lemma>относиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>týkať sa</lemma>
+    <lemma>vzahovat sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glejte</lemma>
+    <lemma>glede</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>односити се</lemma>
+    <lemma>тицати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>торкатися</lemma>
+    <lemma>відноситися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="al">rilatas</lemma>
+    <lemma>maltrankvilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="to">beziehen</lemma>
+    <lemma>Sorge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>betreffen</lemma>
+    <lemma>betrekking hebben op</lemma>
+  </synset>
+</multilingual-synset>

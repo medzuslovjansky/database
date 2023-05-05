@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10644"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10644"
+      steen:addition="(+6)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па</lemma>
+    <lemma>уздоўж</lemma>
+    <lemma>паўз</lemma>
+    <lemma>усцяж</lemma>
+    <lemma>наўсцяж</lemma>
+    <lemma>удоўжкі</lemma>
+    <lemma>удоўж</lemma>
+    <lemma annotation="напр.: па дарозе">уздоўжкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>покрай</lemma>
+    <lemma>по протежение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. po dráze">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pokraj</lemma>
+    <lemma>pored</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="по пат">по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. po drodze">po</lemma>
+    <lemma>wzdłuż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по дороге">вдоль</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="napr. po dráhe">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mimogrede</lemma>
+    <lemma>skupaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>успут</lemma>
+    <lemma>уздуж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по дорозі">вздовж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kune</lemma>
+    <lemma>kune</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entlang neben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. een weg">langs</lemma>
+  </synset>
+</multilingual-synset>

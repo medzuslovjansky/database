@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7345"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7345"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      dubliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэзерваваць</lemma>
+    <lemma>дубляваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>правя резервно копие</lemma>
+    <lemma>правя бекъп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. data">zálohovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bekapirati</lemma>
+    <lemma>napraviti backup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дуплира</lemma>
+    <lemma>удвојува</lemma>
+    <lemma>копира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>robić backup</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резервировать</lemma>
+    <lemma>дублировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="napr. data">zálohovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>narediti varnostne kopije</lemma>
+    <lemma>kopija</lemma>
+    <lemma annotation="datoteke">naredite kopijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правити бекап</lemma>
+    <lemma>копирати</lemma>
+    <lemma annotation="фајла">правити копију</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>робити резервну копію</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apogilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sicherungskopie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>een back-up maken</lemma>
+  </synset>
+</multilingual-synset>

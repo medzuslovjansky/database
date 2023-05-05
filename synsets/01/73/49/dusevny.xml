@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17349"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17349"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      duševny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>душэўны</lemma>
+    <lemma>псіхічны</lemma>
+    <lemma>разумовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>душевен</lemma>
+    <lemma>психичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>duševní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>duševan</lemma>
+    <lemma>duhovni</lemma>
+    <lemma>mentalni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>душевен</lemma>
+    <lemma>ментален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mentalny</lemma>
+    <lemma>duchowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>душевный</lemma>
+    <lemma>психический</lemma>
+    <lemma>умственный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>duševný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Duševna. duševne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>душеван</lemma>
+    <lemma>менталан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>душевний</lemma>
+    <lemma>психічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mensa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>geistig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geestelijk</lemma>
+    <lemma>mentaal</lemma>
+  </synset>
+</multilingual-synset>

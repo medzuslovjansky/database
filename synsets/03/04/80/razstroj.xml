@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30480"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30480"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru pl sh bm"
+    >
+      råzstroj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расстройства</lemma>
+    <lemma>растройванне</lemma>
+    <lemma>разлад</lemma>
+    <lemma>засмучэнне</lemma>
+    <lemma>парушэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>безредие</lemma>
+    <lemma>дезорганизация</lemma>
+    <lemma>прекратяване</lemma>
+    <lemma>нарушение</lemma>
+    <lemma>разстройство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepořádek</lemma>
+    <lemma>zmatek</lemma>
+    <lemma>rozruch</lemma>
+    <lemma>rozrušení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastrojstvo</lemma>
+    <lemma>nered</lemma>
+    <lemma>raspad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>растројство</lemma>
+    <lemma>дезорганизација</lemma>
+    <lemma>немир</lemma>
+    <lemma annotation="душевно и материјално">вознемиренос</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bałagan</lemma>
+    <lemma>nieporządek</lemma>
+    <lemma>dezorganizacja</lemma>
+    <lemma>rozstrój</lemma>
+    <lemma>rozstrojenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расстройство</lemma>
+    <lemma>нарушение</lemma>
+    <lemma>разлад</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>neporiadok</lemma>
+    <lemma>zmätok</lemma>
+    <lemma>rozruch</lemma>
+    <lemma>rozrušenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>motnja</lemma>
+    <lemma>motnja dezintegracije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растројство</lemma>
+    <lemma>неред</lemma>
+    <lemma>распад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розлад</lemma>
+    <lemma>порушення</lemma>
+    <lemma>дизорганізація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malordo</lemma>
+    <lemma>desorganización</lemma>
+    <lemma>desorganización</lemma>
+    <lemma>perturbo</lemma>
+    <lemma>renversita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unordnung</lemma>
+    <lemma>Desorganisation</lemma>
+    <lemma>Desorganisation</lemma>
+    <lemma>Unruhe</lemma>
+    <lemma>verärgert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wanorde</lemma>
+    <lemma>verstoring</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35298"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35298"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      dovŕšenosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўната</lemma>
+    <lemma>завершанасць</lemma>
+    <lemma>скончанасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пълнота</lemma>
+    <lemma>цялост</lemma>
+    <lemma>цялостност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úplnost</lemma>
+    <lemma>dovršenost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potpunost</lemma>
+    <lemma>cjelovitost</lemma>
+    <lemma>kompletnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>целосност</lemma>
+    <lemma>завршеност</lemma>
+    <lemma>комплетност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompletność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полнота</lemma>
+    <lemma>завершённость</lemma>
+    <lemma>законченность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úplnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaključka</lemma>
+    <lemma>popolnost</lemma>
+    <lemma>cele</lemma>
+    <lemma>cele</lemma>
+    <lemma>cele in v celoti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завршеност</lemma>
+    <lemma>довршеност</lemma>
+    <lemma>целина</lemma>
+    <lemma>целост</lemma>
+    <lemma>у целини и целости</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довершеність</lemma>
+    <lemma>досконалість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompleteco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vollständigkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volledigheid</lemma>
+    <lemma>compleetheid</lemma>
+  </synset>
+</multilingual-synset>

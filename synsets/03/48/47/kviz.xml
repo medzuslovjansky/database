@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34847"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34847"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru z yu mk"
+      steen:genesis="E"
+    >
+      kviz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віктарына</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>куиз</lemma>
+    <lemma>викторина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvíz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kviz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>квиз</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>turniej</lemma>
+    <lemma>kwiz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>викторина</lemma>
+    <lemma>квиз</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvíz</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kviz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квиз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вікторина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvizo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Quiz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwis</lemma>
+    <lemma>quiz</lemma>
+  </synset>
+</multilingual-synset>

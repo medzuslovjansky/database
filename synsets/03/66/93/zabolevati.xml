@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36693"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36693"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      zabolěvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захворваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заболявам</lemma>
+    <lemma>разболявам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>onemocnět</lemma>
+    <lemma>rozstonat se</lemma>
+    <lemma>churavět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razboljeti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заболи</lemma>
+    <lemma>разболи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zachorować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заболевать</lemma>
+    <lemma>захварывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ochorieť</lemma>
+    <lemma>rozstoná sa</lemma>
+    <lemma>chorľavieť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zbolevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разболети се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>захворювати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malsaniĝi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>krank werden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziek worden</lemma>
+  </synset>
+</multilingual-synset>

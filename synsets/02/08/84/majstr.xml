@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20884"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20884"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="D"
+    >
+      majstr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>майстар</lemma>
+    <lemma>умелец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>майстор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mistr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>majstor</lemma>
+    <lemma>meštar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мајстор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mistrz</lemma>
+    <lemma>majster</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мастер</lemma>
+    <lemma>умелец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>majster</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>mojster</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мајстор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>майстер</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>mastro</lemma>
+    <lemma>majstro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Meister</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gekwalificeerd persoon">meester</lemma>
+  </synset>
+</multilingual-synset>

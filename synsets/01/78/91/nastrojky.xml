@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17891"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17891"
+      steen:pos="f.pl."
+      steen:type="2"
+      steen:same="ru ub sh bg"
+    >
+      nastrojky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>налады</lemma>
+    <lemma>наладкі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настройки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastavení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postavke</lemma>
+    <lemma>podešavanja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поставувања</lemma>
+    <lemma>поставки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustawienia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настройки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastavenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nastavitve</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>подешавања</lemma>
+    <lemma>подешавање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>налаштування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agordojn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>die Einstellungen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instellingen</lemma>
+  </synset>
+</multilingual-synset>

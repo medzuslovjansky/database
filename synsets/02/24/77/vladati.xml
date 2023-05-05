@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22477"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22477"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="22477"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валодаць</lemma>
+    <lemma>мець досвед</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>владея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vládnout</lemma>
+    <lemma>být zběhlý v</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>biti upućen</lemma>
+    <lemma>vješt</lemma>
+    <lemma>znati nešto</lemma>
+    <lemma>vladadi znanjem</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завладеа со</lemma>
+    <lemma>владее</lemma>
+    <lemma annotation="со одредена вештина, знаење">се научи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>być biegłym w czymś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>владеть</lemma>
+    <lemma>иметь опыт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vládnuť</lemma>
+    <lemma>byť zbehlý v</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>treba naročiti</lemma>
+    <lemma>veš</lemma>
+    <lemma>veš kaj</lemma>
+    <lemma>veš vladadi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бити упућен</lemma>
+    <lemma>вешт</lemma>
+    <lemma>знати нешто</lemma>
+    <lemma>владати знањем</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>володіти</lemma>
+    <lemma>мати досвід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>be kompetenta en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sein beherrschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beheersen</lemma>
+  </synset>
+</multilingual-synset>

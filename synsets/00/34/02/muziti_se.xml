@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3402"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3402"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="j"
+    >
+      mųžiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выходзіць замуж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>омъжвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vdávat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>udati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се мажи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamążpójść</lemma>
+    <lemma>wychodzić za mąż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выходить замуж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vydávať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poročiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>удати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вийти заміж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kun viro">edziĝi</lemma>
+    <lemma annotation="kun viro">edziĝas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="mit einem Mann">heiraten</lemma>
+    <lemma annotation="mit einem Mann">heiratet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="met een man">trouwen</lemma>
+  </synset>
+</multilingual-synset>

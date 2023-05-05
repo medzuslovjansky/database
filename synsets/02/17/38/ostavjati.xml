@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21738"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21738"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      ostavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпісваць</lemma>
+    <lemma>завяшчаць</lemma>
+    <lemma annotation="саст.">запавядаць</lemma>
+    <lemma annotation="у спадчыну">пакідаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>завещае</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odkazovat</lemma>
+    <lemma>zůstavovat</lemma>
+    <lemma>přenechávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zaveštavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>остава</lemma>
+    <lemma>завештува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozostawiać w spadku</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завещать</lemma>
+    <lemma annotation="в наследство">оставлять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odkazovať</lemma>
+    <lemma>ostavovať</lemma>
+    <lemma>porúčať</lemma>
+    <lemma>zanechávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaveštavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завештавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заповідати</lemma>
+    <lemma annotation="у спадок">залишати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>legar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vererben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="erfenis">nalaten</lemma>
+  </synset>
+</multilingual-synset>

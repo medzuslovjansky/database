@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11235"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11235" steen:pos="m." steen:type="1">prědmet</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадмет</lemma>
+    <lemma>спакмень</lemma>
+    <lemma>тэма</lemma>
+    <lemma>пытанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тема на тема</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>předmět</lemma>
+    <lemma>téma</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predmet</lemma>
+    <lemma>tema</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тема</lemma>
+    <lemma>предмет</lemma>
+    <lemma>субјект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przedmiot</lemma>
+    <lemma>temat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предмет</lemma>
+    <lemma>тема</lemma>
+    <lemma>вопрос</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predmet</lemma>
+    <lemma>téma</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predmet</lemma>
+    <lemma>tema</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предмет</lemma>
+    <lemma>тема</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>предмет</lemma>
+    <lemma>тема</lemma>
+    <lemma>питання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>temo</lemma>
+    <lemma>temo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Thema Thema</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderwerp</lemma>
+  </synset>
+</multilingual-synset>

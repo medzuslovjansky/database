@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1121"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1121" steen:pos="v.tr. pf." steen:type="1">
+      odvråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэдзіць</lemma>
+    <lemma>прадухіліць</lemma>
+    <lemma>апярэдзіць</lemma>
+    <lemma>выперадзіць</lemma>
+    <lemma>адхіліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предотврати</lemma>
+    <lemma>облекчи</lemma>
+    <lemma>предупреди</lemma>
+    <lemma annotation="tr.">да отвърнем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvrátit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="od">odvratiti</lemma>
+    <lemma annotation="od">odgovoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одврати</lemma>
+    <lemma>спречи</lemma>
+    <lemma>превенира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwrócić</lemma>
+    <lemma>zapobiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предупредить</lemma>
+    <lemma>предотвратить</lemma>
+    <lemma>отвратить</lemma>
+    <lemma>отвернуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvračanje</lemma>
+    <lemma>preprečevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвратити</lemma>
+    <lemma>спречити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>попередити</lemma>
+    <lemma>запобігти</lemma>
+    <lemma>відвернути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forturni</lemma>
+    <lemma>deturni</lemma>
+    <lemma>malhelpi</lemma>
+    <lemma annotation="tr.">forklini</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abwenden</lemma>
+    <lemma>ablenken</lemma>
+    <lemma>zu verhindern</lemma>
+    <lemma annotation="tr.">abwenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afwenden</lemma>
+  </synset>
+</multilingual-synset>

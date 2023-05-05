@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23716"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23716" steen:pos="f." steen:type="2" steen:same="cs">
+      zasuvka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шуфляда</lemma>
+    <lemma>шуфлядка</lemma>
+    <lemma>прыскрынак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чекмедже</lemma>
+    <lemma>дърпало</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zásuvka</lemma>
+    <lemma>šuplík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ladica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фиока</lemma>
+    <lemma>чекмеџе</lemma>
+    <lemma>комода</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szuflada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="стола">ящик</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zásuvka</lemma>
+    <lemma>šuplík</lemma>
+    <lemma>fijok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predalov</lemma>
+    <lemma>predal</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фиока</lemma>
+    <lemma>ладица</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="столу">ящик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tirkesto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schublade</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>la</lemma>
+    <lemma>lade</lemma>
+  </synset>
+</multilingual-synset>

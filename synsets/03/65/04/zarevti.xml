@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36504"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36504"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v cs sl bm"
+    >
+      zarevti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зараўці</lemma>
+    <lemma>зарыкаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зарева</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zařvat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>riknuti</lemma>
+    <lemma>zarikati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зареве</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaryczeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зареветь</lemma>
+    <lemma>зарычать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zarevať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bučanje</lemma>
+    <lemma>zariknuti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рикнути</lemma>
+    <lemma>зарикнути</lemma>
+    <lemma>зарикати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заревіти</lemma>
+    <lemma>заревти</lemma>
+    <lemma>зарикати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>roar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brüllen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brullen</lemma>
+  </synset>
+</multilingual-synset>

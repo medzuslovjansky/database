@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1313"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1313" steen:pos="m." steen:type="1">kamenj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>камък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kámen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kamen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>камен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kamień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>камень</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kameň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kamen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>камен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>камінь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>steen</lemma>
+  </synset>
+</multilingual-synset>

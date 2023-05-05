@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36917"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36917"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="I"
+    >
+      izmodelovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылепіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извая</lemma>
+    <lemma>моделирам (от глина и т. н.).</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="z hlíny atd.">vymodelovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblikovati</lemma>
+    <lemma>modelirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изваја</lemma>
+    <lemma annotation="од глина">измоделира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wylepić</lemma>
+    <lemma>ulepić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вылепить</lemma>
+    <lemma annotation="из глины и т.п.">изваять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="z hliny atď">vymodelovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>modelirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извајати</lemma>
+    <lemma>обликовати</lemma>
+    <lemma>измоделовати</lemma>
+    <lemma>измоделирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виліпити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skulpti</lemma>
+    <lemma annotation="kun argilo ktp">muldi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Skulptur</lemma>
+    <lemma annotation="mit Ton usw.">Schimmel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>modelleren</lemma>
+    <lemma>boetseren</lemma>
+  </synset>
+</multilingual-synset>

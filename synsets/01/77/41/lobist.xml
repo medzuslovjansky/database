@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17741"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17741"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="pl"
+      steen:genesis="I"
+    >
+      lobist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лабіст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лобист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lobbista</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lobist</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лобист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lobbysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лоббист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lobista</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lobist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лобиста</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лобіст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lobiisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lobbyist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lobbyist</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="364"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="364"
+      steen:addition="(+3)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      sȯglåsno
+    </lemma>
+    <lemma
+      steen:id="364"
+      steen:addition="(+3)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      sųglåsno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паводле</lemma>
+    <lemma>паводля</lemma>
+    <lemma>згодна</lemma>
+    <lemma>сугалосна</lemma>
+    <lemma>у адпаведнасці з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>според</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podle</lemma>
+    <lemma>v souladu s</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sukladno</lemma>
+    <lemma>prema</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>согласно со</lemma>
+    <lemma>според</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>według</lemma>
+    <lemma>zgodnie z</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>согласно</lemma>
+    <lemma>в соответствии с</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podľa</lemma>
+    <lemma>v súlade s</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>po katerem</lemma>
+    <lemma>ko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>према</lemma>
+    <lemma>по</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>згідно</lemma>
+    <lemma>відповідно до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gemäß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volgens</lemma>
+    <lemma>conform</lemma>
+    <lemma>overeenkomstig</lemma>
+  </synset>
+</multilingual-synset>

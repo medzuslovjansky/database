@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23269"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23269" steen:pos="f." steen:type="1" steen:genesis="I">
+      kanalizacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каналізацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>канализация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kanalizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kanalizacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>канализација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kanalizacja</lemma>
+    <lemma>ścieki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>канализация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kanalizácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kanalizacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>канализација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>каналізація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kloakaĵo</lemma>
+    <lemma>canalisation</lemma>
+    <lemma>canalización</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abwasser</lemma>
+    <lemma>Kanalisation</lemma>
+    <lemma>Kanalisierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>riool</lemma>
+    <lemma>riolering</lemma>
+  </synset>
+</multilingual-synset>

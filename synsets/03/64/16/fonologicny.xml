@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36416"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36416"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      fonologičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фаналагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фонологичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fonologický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fonološki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фонолошки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fonologiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фонологический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fonologický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fonološko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фонолошки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фонологічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>phonologic</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>phonologisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fonologisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20423"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20423"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      lišiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазбавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лиша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbavit</lemma>
+    <lemma>odejmout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lišiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лиши</lemma>
+    <lemma>одземе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozbawić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лишить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbaviť</lemma>
+    <lemma>odňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvzeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лишити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позбавити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>berauben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontdoen van</lemma>
+  </synset>
+</multilingual-synset>

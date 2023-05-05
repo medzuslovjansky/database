@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16842"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16842"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk yu bg"
+    >
+      obagriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пабарваваць</lemma>
+    <lemma>пачырваніць</lemma>
+    <lemma>скрывавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боядисам в червено</lemma>
+    <lemma>оцветя в червено</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>začervenit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zacrveniti</lemma>
+    <lemma>obojiti u crveno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обагри</lemma>
+    <lemma>обои црвено</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaczerwienić</lemma>
+    <lemma>pomalować na czerwono</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обагрить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>začerveniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obagriti</lemma>
+    <lemma>pobarvan v rdeče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обагрити</lemma>
+    <lemma>обојити у црвено</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обагрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pentri en ruĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lack in rot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rood schilderen</lemma>
+  </synset>
+</multilingual-synset>

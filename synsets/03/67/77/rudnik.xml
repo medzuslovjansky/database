@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36777"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36777" steen:pos="m." steen:type="1" steen:same="v j">
+      rudnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>руднік</lemma>
+    <lemma>рудня</lemma>
+    <lemma>шахта</lemma>
+    <lemma>капальня</lemma>
+    <lemma>прыіск</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мина</lemma>
+    <lemma>рудник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důl</lemma>
+    <lemma>šachta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rudnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рудник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kopalnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рудник</lemma>
+    <lemma>шахта</lemma>
+    <lemma>прииск</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>baňa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rudnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рудник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рудник</lemma>
+    <lemma>шахта</lemma>
+    <lemma>копальня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>la mia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bergwerk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mijn</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="637"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="637" steen:pos="m." steen:type="2" steen:genesis="E">
+      biznes
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бізнес</lemma>
+    <lemma>бізнэс</lemma>
+    <lemma>біз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бизнес</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>byznys</lemma>
+    <lemma>podnikání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biznis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бизнис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biznes</lemma>
+    <lemma>interesy</lemma>
+    <lemma>sprawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бизнес</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podnikanie</lemma>
+    <lemma>biznis</lemma>
+    <lemma>obchod</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>podjetništvo</lemma>
+    <lemma>biznis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бизнис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бізнес</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>negoco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Business</lemma>
+    <lemma>Geschäft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bedrijf</lemma>
+    <lemma>zakenleven</lemma>
+  </synset>
+</multilingual-synset>

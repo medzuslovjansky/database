@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1912"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1912"
+      steen:addition="(poslje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      poslati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паслаць</lemma>
+    <lemma>адправіць</lemma>
+    <lemma>выправіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изпрати</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poslat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poslati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испрати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>posłać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>послать</lemma>
+    <lemma>отправить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poslať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poslati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>послати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>послати</lemma>
+    <lemma>відправити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alsendota</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>senden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zenden</lemma>
+    <lemma>sturen</lemma>
+  </synset>
+</multilingual-synset>

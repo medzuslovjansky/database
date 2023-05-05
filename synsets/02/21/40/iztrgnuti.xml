@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22140"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22140"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      iztrgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выцягнуць</lemma>
+    <lemma>вырваць</lemma>
+    <lemma>дастаць</lemma>
+    <lemma>выняць</lemma>
+    <lemma>выдраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изтръгна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vytrhnout</lemma>
+    <lemma>vytáhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istrgnuti</lemma>
+    <lemma>iščupati</lemma>
+    <lemma>izvući</lemma>
+    <lemma>ekstrahirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истрга</lemma>
+    <lemma>извлече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyekstraktować</lemma>
+    <lemma>wyciągnąć</lemma>
+    <lemma>wyrwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исторгнуть</lemma>
+    <lemma>извлечь</lemma>
+    <lemma>вытащить</lemma>
+    <lemma>выдернуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vytrhnúť</lemma>
+    <lemma>vytiahnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iztrgal</lemma>
+    <lemma>pripravi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истргнути</lemma>
+    <lemma>извући</lemma>
+    <lemma>ишчупати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>витягти</lemma>
+    <lemma>вийняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eltiraĵo</lemma>
+    <lemma>eltiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>extrahieren</lemma>
+    <lemma>herausziehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uittrekken</lemma>
+    <lemma>uitrukken</lemma>
+  </synset>
+</multilingual-synset>

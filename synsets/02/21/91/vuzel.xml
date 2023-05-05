@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22191"
+      steen:addition="(vųzla)"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      vųzel
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="адзінка хуткасці">вузел</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="единица за скорост">възел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="jednotka rychlosti">uzel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čvor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="наутичка милја">јазол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="jednostka prędkości">węzeł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="единица скорости">узел</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="jednotka rýchlosti">uzol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="milj">Vozel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="наутичка миља">чвор</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="одиниця швидкості">вузол</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="naŭtika mejlo">noda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="nautische Meile">Knoten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zeevaart">knoop</lemma>
+  </synset>
+</multilingual-synset>

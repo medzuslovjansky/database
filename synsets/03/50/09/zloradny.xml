@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35009"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      zloradny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зларадны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>злораден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>škodolibý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zlurad</lemma>
+    <lemma>zloban</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>злорад</lemma>
+    <lemma>злорадосен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chełpliwy</lemma>
+    <lemma>żłośliwy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>злорадный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>škodoradostný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zluradan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>злурадан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>злорадний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gloating</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schadenfreude</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vol leedvermaak</lemma>
+  </synset>
+</multilingual-synset>

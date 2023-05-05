@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32038" steen:pos="m.anim." steen:type="1">skotnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гавяднік</lemma>
+    <lemma>гадавальнік</lemma>
+    <lemma>гадаўнік</lemma>
+    <lemma>даглядчык жывёлы</lemma>
+    <lemma annotation="зап.">жывёлагадовец</lemma>
+    <lemma annotation="зап.">жывёлавод</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скотовъдец</lemma>
+    <lemma>животновъд</lemma>
+    <lemma>говедар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ošetřovatel dobytka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stočar</lemma>
+    <lemma>govedar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сточар</lemma>
+    <lemma>говедар</lemma>
+    <lemma>овчар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oborowy</lemma>
+    <lemma>bydlarz</lemma>
+    <lemma>pastuch</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скотовод</lemma>
+    <lemma>животновод</lemma>
+    <lemma>скотник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ošetrovateľ dobytka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živinorejec</lemma>
+    <lemma>kavboj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сточар</lemma>
+    <lemma>говедар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скотар</lemma>
+    <lemma>тваринник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cattleman</lemma>
+    <lemma>paŝtisto</lemma>
+    <lemma>brutojn-bieno laboristo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Viehzüchter</lemma>
+    <lemma>Hirt</lemma>
+    <lemma>Viehlandarbeiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veehouder</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2007"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2007" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      kandidat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кандыдат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кандидат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kandidát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kandidat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кандидат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kandydat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кандидат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kandidát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kandidat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кандидат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кандидат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kandidato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kandidat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kandidaat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21484"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21484"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru cs j"
+    >
+      protivrěčiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>супярэчыць</lemma>
+    <lemma>пярэчыць</lemma>
+    <lemma>запярэчваць</lemma>
+    <lemma>адмаўляць</lemma>
+    <lemma>аспрэчваць</lemma>
+    <lemma>зняпраўджваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>противоречат</lemma>
+    <lemma>отричат</lemma>
+    <lemma>отричат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odporovat</lemma>
+    <lemma>popírat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>proturječiti</lemma>
+    <lemma>protiviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>противречи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaprzeczać</lemma>
+    <lemma>przeczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>противоречить</lemma>
+    <lemma>возражать</lemma>
+    <lemma>отрицать</lemma>
+    <lemma>опровергать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odporovať</lemma>
+    <lemma>popierať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nasprotujejo</lemma>
+    <lemma>nasprotujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>противуречити</lemma>
+    <lemma>противречити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>суперечити</lemma>
+    <lemma>заперечувати</lemma>
+    <lemma>спростовувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontraŭdiri</lemma>
+    <lemma>nei</lemma>
+    <lemma>neas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>im Widerspruch leugnen</lemma>
+    <lemma>negieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tegenspreken</lemma>
+    <lemma>in tegenspraak zijn</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36419"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36419"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      zaščićati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бараніць</lemma>
+    <lemma>адбараняць</lemma>
+    <lemma>абараняць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>защитвам</lemma>
+    <lemma>предпазвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaštiťovat</lemma>
+    <lemma>bránit</lemma>
+    <lemma>chránit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaštićivati</lemma>
+    <lemma>štiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заштитува</lemma>
+    <lemma>штити</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bronić</lemma>
+    <lemma>ochraniać</lemma>
+    <lemma>osłaniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>защищать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>brániť</lemma>
+    <lemma>chrániť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>varovati</lemma>
+    <lemma>braniti</lemma>
+    <lemma>zaštićavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штитити</lemma>
+    <lemma>бранити</lemma>
+    <lemma>заштићавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>захищати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝildo</lemma>
+    <lemma>protekti</lemma>
+    <lemma>defendi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schild</lemma>
+    <lemma>schützen</lemma>
+    <lemma>verteidigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschermen</lemma>
+    <lemma>afschermen</lemma>
+    <lemma>verdedigen</lemma>
+  </synset>
+</multilingual-synset>

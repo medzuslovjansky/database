@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34735"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34735"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      oznamenovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзначыць</lemma>
+    <lemma>пазначыць</lemma>
+    <lemma>азначыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Марк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>označit</lemma>
+    <lemma>vyznačit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obilježiti</lemma>
+    <lemma>označiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обележи</lemma>
+    <lemma>означи</lemma>
+    <lemma>маркира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oznaczyć</lemma>
+    <lemma>oznakować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ознаменовать</lemma>
+    <lemma>обозначить</lemma>
+    <lemma>означить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>označiť</lemma>
+    <lemma>vyznačiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znamka</lemma>
+    <lemma>znamka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обележити</lemma>
+    <lemma>означити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ознаменувати</lemma>
+    <lemma>позначити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>markon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kennzeichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>markeren</lemma>
+  </synset>
+</multilingual-synset>

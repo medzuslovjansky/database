@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35401"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs sh bm"
+      steen:genesis="E"
+    >
+      zip
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>маланка</lemma>
+    <lemma>зашпілька-маланка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цип</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zip</lemma>
+    <lemma>zdrhovadlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šlic</lemma>
+    <lemma>ciferšlus</lemma>
+    <lemma>smičak</lemma>
+    <lemma>rasporak</lemma>
+    <lemma>patentni zatvarač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>suwak</lemma>
+    <lemma>zamek błyskawiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>молния</lemma>
+    <lemma>застежка-молния</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zips</lemma>
+    <lemma>zdrhovadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zadrgo</lemma>
+    <lemma>zadrgo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>патентни затварач</lemma>
+    <lemma>рајсфершлус</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>блискавка</lemma>
+    <lemma>застібка-блискавка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>zipo</lemma>
+    <lemma>poŝtkodo</lemma>
+    <lemma>fiador</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Reißverschluss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ritssluiting</lemma>
+    <lemma>rits</lemma>
+  </synset>
+</multilingual-synset>

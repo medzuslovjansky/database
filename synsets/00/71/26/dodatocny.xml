@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7126"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7126"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      dodatȯčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дадатковы</lemma>
+    <lemma>дапаўняльны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>допълнителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dodatečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dodatan</lemma>
+    <lemma>dodatni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>додатен</lemma>
+    <lemma>дополнителен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dodatkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дополнительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dodatočný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dodatna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>додатан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>додатковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aldona</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zusätzlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijkomend</lemma>
+    <lemma>extra</lemma>
+  </synset>
+</multilingual-synset>

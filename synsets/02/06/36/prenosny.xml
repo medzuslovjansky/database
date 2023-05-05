@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20636"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20636" steen:pos="adj." steen:type="1" steen:same="v z j">
+      prěnosny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вобразны</lemma>
+    <lemma>метамарфічны</lemma>
+    <lemma>фігуральны</lemma>
+    <lemma>пераносны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>преносен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přenosný</lemma>
+    <lemma>obrazný</lemma>
+    <lemma>metaforický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prenesen</lemma>
+    <lemma>slikovit</lemma>
+    <lemma>alegoričan</lemma>
+    <lemma>metaforičan</lemma>
+    <lemma>figurativan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преносен</lemma>
+    <lemma>метафорички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="metaforyczny">przenośny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переносный</lemma>
+    <lemma>образный</lemma>
+    <lemma>фигуральный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prenosný</lemma>
+    <lemma>obrazný</lemma>
+    <lemma>metaforický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prenesen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>у преносном смислу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>образний</lemma>
+    <lemma>метафоричний</lemma>
+    <lemma>переносний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>figura</lemma>
+    <lemma>metafora</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bildlich</lemma>
+    <lemma>metaphorisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overdrachtelijk</lemma>
+  </synset>
+</multilingual-synset>

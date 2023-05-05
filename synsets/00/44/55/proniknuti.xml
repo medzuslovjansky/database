@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4455"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4455"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="z bg"
+    >
+      proniknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пранікнуць</lemma>
+    <lemma>пракрасціся</lemma>
+    <lemma>трапіць</lemma>
+    <lemma>патрапіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проникне</lemma>
+    <lemma>да проникнат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proniknout</lemma>
+    <lemma>prostoupit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prožeti</lemma>
+    <lemma>ispuniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проникна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeniknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проникнуть</lemma>
+    <lemma>попасть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preniknúť</lemma>
+    <lemma>prestúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prilagodljivi</lemma>
+    <lemma>da zadostijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прожети</lemma>
+    <lemma>испунити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проникнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trempas</lemma>
+    <lemma>penetri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>pervade dringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doordringen</lemma>
+    <lemma>penetreren</lemma>
+  </synset>
+</multilingual-synset>

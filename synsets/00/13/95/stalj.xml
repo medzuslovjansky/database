@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1395"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1395"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      stalj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сталь</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стомана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ocel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čelik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>челик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stal</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сталь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oceľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jeklo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>челик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сталь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtalo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Stahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>staal</lemma>
+  </synset>
+</multilingual-synset>

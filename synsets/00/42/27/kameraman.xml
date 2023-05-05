@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4227"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4227"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cs yu mk"
+      steen:genesis="I"
+    >
+      kameraman
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аператар</lemma>
+    <lemma>відэааператар</lemma>
+    <lemma>тэлеаператар</lemma>
+    <lemma>кінааператар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>видеооператор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kameraman</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kamerman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>камерман</lemma>
+    <lemma>снимател</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kamerzysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оператор</lemma>
+    <lemma>видеооператор</lemma>
+    <lemma>телеоператор</lemma>
+    <lemma>кинооператор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kameraman</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>snemalec</lemma>
+    <lemma>snemalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сниматељ</lemma>
+    <lemma>камерман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оператор</lemma>
+    <lemma>телеоператор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gazeta fotisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kameramann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cameraman</lemma>
+  </synset>
+</multilingual-synset>

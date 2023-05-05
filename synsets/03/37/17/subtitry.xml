@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33717"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33717"
+      steen:pos="m.pl."
+      steen:type="2"
+      steen:same="v mk~ bg"
+      steen:genesis="I"
+    >
+      subtitry
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>субтытры</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>субтитри</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>titulky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>titlovi</lemma>
+    <lemma>podnaslovi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>титли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w filmie">napisy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>субтитры</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>titulky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podnapisi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>титлови</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>субтитри</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subtekstojn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Untertitel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondertitels</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16844"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16844"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl sk j"
+    >
+      obrěmeniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абцяжарваць</lemma>
+    <lemma>абцяжаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тежест</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatěžkat</lemma>
+    <lemma>zatížit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opteretiti</lemma>
+    <lemma>obremeniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обремени</lemma>
+    <lemma>оптовари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obciążyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обременить</lemma>
+    <lemma>отяготить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaťažko</lemma>
+    <lemma>zaťažiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obremenitev</lemma>
+    <lemma>obremenitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оптеретити</lemma>
+    <lemma>натоварити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обтяжити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝarĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Last</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>belasten</lemma>
+  </synset>
+</multilingual-synset>

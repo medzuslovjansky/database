@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="91"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="91"
+      steen:addition="(žre)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      žrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жэрці</lemma>
+    <lemma>з&apos;ядаць</lemma>
+    <lemma>есці</lemma>
+    <lemma>пажыраць</lemma>
+    <lemma>паглынаць</lemma>
+    <lemma>есці з прагнасцю</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>налапвам</lemma>
+    <lemma>изгълтвам</lemma>
+    <lemma>изяждам</lemma>
+    <lemma>поглъщам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žrát</lemma>
+    <lemma>hltat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žderati</lemma>
+    <lemma>proždirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ждере</lemma>
+    <lemma>лапа</lemma>
+    <lemma>лакомо јаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żreć</lemma>
+    <lemma>pożerać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жрать</lemma>
+    <lemma>пожирать</lemma>
+    <lemma>есть с жадностью</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žrať</lemma>
+    <lemma>hltať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žreti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ждерати</lemma>
+    <lemma>прождирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жерти</lemma>
+    <lemma>пожирати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>manĝegi</lemma>
+    <lemma>manĝaĉi</lemma>
+    <lemma annotation="animale">manĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschlingen</lemma>
+    <lemma>verschlingen sie</lemma>
+    <lemma>essen gierig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vreten</lemma>
+    <lemma>verzwelgen</lemma>
+  </synset>
+</multilingual-synset>

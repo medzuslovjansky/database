@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25512"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25512"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      formovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фарміраваць</lemma>
+    <lemma>фармаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>форма</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>formovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>formirati</lemma>
+    <lemma>oblikovati</lemma>
+    <lemma>uobličiti</lemma>
+    <lemma>uobličivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>формира</lemma>
+    <lemma>обликува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>formować</lemma>
+    <lemma>kształtować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>формировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>formovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oblika</lemma>
+    <lemma>oblikovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>формирати</lemma>
+    <lemma>уобличавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>формувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>formo</lemma>
+    <lemma>formo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>formen</lemma>
+    <lemma>gestalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vormen</lemma>
+    <lemma>formeren</lemma>
+  </synset>
+</multilingual-synset>

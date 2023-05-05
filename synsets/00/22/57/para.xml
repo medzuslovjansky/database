@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2257"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2257" steen:pos="f." steen:type="1" steen:genesis="I">
+      para
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пара</lemma>
+    <lemma>двойца</lemma>
+    <lemma>двое</lemma>
+    <lemma>абодва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пара</lemma>
+    <lemma>пара</lemma>
+    <lemma>пара</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pár</lemma>
+    <lemma>dvojice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>par</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пар</lemma>
+    <lemma>двојка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czegoś">para</lemma>
+    <lemma>dwójka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пара</lemma>
+    <lemma>двое</lemma>
+    <lemma>чета</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pár</lemma>
+    <lemma>dvojica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>par</lemma>
+    <lemma>dva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пар</lemma>
+    <lemma>двоје</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пара</lemma>
+    <lemma>двоє</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paro</lemma>
+    <lemma>paro</lemma>
+    <lemma>twosome</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>paare</lemma>
+    <lemma>twosome</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>paar</lemma>
+    <lemma>tweetal</lemma>
+  </synset>
+</multilingual-synset>

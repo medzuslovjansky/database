@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3274"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3274"
+      steen:addition="(pojede)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      pojehati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паехаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на транспорта">да се вози</lemma>
+    <lemma>ride</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="se">odvesti</lemma>
+    <lemma annotation="kolima">poći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>појде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pojechać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поехать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>jet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="avto">bo (do) go</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">одвести</lemma>
+    <lemma annotation="колима">поћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поїхати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per transporto">iras</lemma>
+    <lemma>vojaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Transport">gehen</lemma>
+    <lemma>Fahrt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijden</lemma>
+    <lemma annotation="per vervoermiddel">gaan</lemma>
+  </synset>
+</multilingual-synset>

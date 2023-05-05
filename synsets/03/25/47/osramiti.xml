@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32547"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32547"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk hr bg"
+    >
+      osråmiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зганьбіць</lemma>
+    <lemma>абняславіць</lemma>
+    <lemma>аганьбаваць</lemma>
+    <lemma>пасарамаціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>позорище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zhanobit</lemma>
+    <lemma>zneuctít</lemma>
+    <lemma>potupit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osramotiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оскверни</lemma>
+    <lemma>осрами</lemma>
+    <lemma>испогани</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zhańbić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обесчестить</lemma>
+    <lemma>посрамить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zneuctiť</lemma>
+    <lemma>potupiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nečast</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>осрамотити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осоромити</lemma>
+    <lemma>збезчестити</lemma>
+    <lemma>зганьбити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malhonoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schande</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schande toebrengen</lemma>
+  </synset>
+</multilingual-synset>

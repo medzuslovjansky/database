@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1234"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1234"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      od
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="прыналежнасць">ад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="kým" />
+  </synset>
+  <synset lang="hr">
+    <lemma>od</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kogo">przez</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="принадлежность">от</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="kým" />
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pripada">o</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="припадање">од</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="приналежність">від</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bij lijdende vorm">door</lemma>
+  </synset>
+</multilingual-synset>

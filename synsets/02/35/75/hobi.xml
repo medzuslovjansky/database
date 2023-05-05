@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23575"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23575"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:genesis="E"
+    >
+      hobi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хобі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хоби</lemma>
+    <lemma>любимо занимание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hobby</lemma>
+    <lemma>koníček</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hobi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хоби</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>hobby</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хобби</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hobby</lemma>
+    <lemma>koníček</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hobi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хоби</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хобі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝatokupo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hobby</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hobby</lemma>
+  </synset>
+</multilingual-synset>

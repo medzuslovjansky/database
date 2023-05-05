@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35727"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35727" steen:pos="f." steen:type="1" steen:same="v z j">
+      slåmka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>саломка</lemma>
+    <lemma annotation="для пітва">трубачка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пие сторновки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slámka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slamka</lemma>
+    <lemma>slamčica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сламка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>słomka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>соломка</lemma>
+    <lemma annotation="для питья">трубочка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slamka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slame</lemma>
+    <lemma>slamice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сламка</lemma>
+    <lemma>сламчица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>соломинка</lemma>
+    <lemma annotation="для пиття">трубочка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trinkante pajlo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Strohhalm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rietje</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5076"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5076" steen:pos="adj." steen:type="1">drugy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>іншы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>друг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>druhý</lemma>
+    <lemma>jiný</lemma>
+    <lemma>další</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="ина, ино">инъ</lemma>
+    <lemma annotation="дроуга, дроуго">дроугъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>drugi</lemma>
+    <lemma>ostali</lemma>
+    <lemma>ini</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>друг</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>другой</lemma>
+    <lemma>иной</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>druhý</lemma>
+    <lemma>iný</lemma>
+    <lemma>ďalší</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="lok.">Drugo ostala ini</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>други</lemma>
+    <lemma>остали</lemma>
+    <lemma annotation="арх.">ини</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>другий</lemma>
+    <lemma>інший</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aliaj</lemma>
+    <lemma>alia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>andere</lemma>
+    <lemma>ein anderer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ander</lemma>
+  </synset>
+</multilingual-synset>

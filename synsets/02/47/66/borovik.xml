@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24766"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24766" steen:pos="m." steen:type="2" steen:same="v pl">
+      borovik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баравік</lemma>
+    <lemma>чырвонагаловік</lemma>
+    <lemma>белы грыб</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="гъба">манатарка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="borový">hřib</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="gljiva">vrganj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид печурка од родот boletus">вргањ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>borowik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>боровик</lemma>
+    <lemma>белый гриб</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sosnový">hríb</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Boletus</lemma>
+    <lemma annotation="gobe, gob">jurčki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вргањ</lemma>
+    <lemma annotation="гљива, печурка">виловњача</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>боровик</lemma>
+    <lemma>білий гриб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>boletus</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Röhrling</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boleet</lemma>
+  </synset>
+</multilingual-synset>

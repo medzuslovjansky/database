@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22667"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22667"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      obraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ператвараць</lemma>
+    <lemma>пераварочваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="СТХ. в СТГ.">преобразуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něco v">obracet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pretvarati</lemma>
+    <lemma>mijenjati</lemma>
+    <lemma>konvertirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претвора</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamieniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превращать</lemma>
+    <lemma>обращать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niečo v">obracať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtenje</lemma>
+    <lemma>sprememba</lemma>
+    <lemma>ne obratno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обртати</lemma>
+    <lemma>мењати</lemma>
+    <lemma>чинити обрнутим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетворювати</lemma>
+    <lemma>обертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sth. en sth.">konverti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="etw. in etw.">konvertieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omzetten</lemma>
+  </synset>
+</multilingual-synset>

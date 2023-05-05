@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22093"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22093" steen:pos="f." steen:type="1">těsnina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цясніна</lemma>
+    <lemma>перацяг</lemma>
+    <lemma>перавал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дере</lemma>
+    <lemma annotation="планински">проход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soutěska</lemma>
+    <lemma>rokle</lemma>
+    <lemma>průsmyk</lemma>
+    <lemma>kaňon</lemma>
+    <lemma>údolí</lemma>
+    <lemma>těsnina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijevoj</lemma>
+    <lemma>prolaz</lemma>
+    <lemma>tjesnac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>теснец</lemma>
+    <lemma>превој</lemma>
+    <lemma>клисура</lemma>
+    <lemma>планински премин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wąwóz</lemma>
+    <lemma>przesmyk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ущелье</lemma>
+    <lemma>перевал</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tiesňava</lemma>
+    <lemma>súteska</lemma>
+    <lemma>roklina</lemma>
+    <lemma>priesmyk</lemma>
+    <lemma>kaňon</lemma>
+    <lemma>údolie</lemma>
+    <lemma>tesnina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čeri</lemma>
+    <lemma>ozek prehod</lemma>
+    <lemma>prehod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>теснац</lemma>
+    <lemma>пролаз</lemma>
+    <lemma>сутеска</lemma>
+    <lemma>сутјеска</lemma>
+    <lemma>кланац</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ущелина</lemma>
+    <lemma>перевал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ravino</lemma>
+    <lemma annotation="monto">pasejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlucht</lemma>
+    <lemma annotation="Berg">Pass</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ravijn</lemma>
+    <lemma>bergpas</lemma>
+  </synset>
+</multilingual-synset>

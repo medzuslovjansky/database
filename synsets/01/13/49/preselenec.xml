@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11349"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11349" steen:pos="m.anim." steen:type="1">
+      prěselenec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасяленец</lemma>
+    <lemma annotation="саст.">пераходзень</lemma>
+    <lemma>мігрант</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мигрантите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přistěhovalec</lemma>
+    <lemma>migrant</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>migrant</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преселник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>migrant</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переселенец</lemma>
+    <lemma>мигрант</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prisťahovalec</lemma>
+    <lemma>migrant</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preseljenik</lemma>
+    <lemma>migrant</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пресељеник</lemma>
+    <lemma>мигрант</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переселенець</lemma>
+    <lemma>мігрант</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>migrantaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wanderarbeiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>migrant</lemma>
+  </synset>
+</multilingual-synset>

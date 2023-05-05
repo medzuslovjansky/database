@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32671"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32671"
+      steen:addition="(råzproda)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      råzprodati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распрадаць</lemma>
+    <lemma>спрадаць</lemma>
+    <lemma>паспрадаць</lemma>
+    <lemma>параспрадаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>продава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozprodat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasprodati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распродаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozprzedać</lemma>
+    <lemma>wyprzedać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распродать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpredať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razprodati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>распродати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпродати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vendi eksteren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausverkaufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitverkopen</lemma>
+  </synset>
+</multilingual-synset>

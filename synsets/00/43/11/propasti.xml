@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4311"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4311"
+      steen:addition="(propade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z sh bg"
+    >
+      propasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прапасці</lemma>
+    <lemma>запаветраць</lemma>
+    <lemma>знікнуць</lemma>
+    <lemma>загінуць</lemma>
+    <lemma>згібець</lemma>
+    <lemma>пагінуць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="краят на света">умира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dolů">propadnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>propasti</lemma>
+    <lemma>stradati</lemma>
+    <lemma>izginuti</lemma>
+    <lemma>poginuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пропадна</lemma>
+    <lemma>падна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пропасть</lemma>
+    <lemma>погибнуть</lemma>
+    <lemma>провалиться</lemma>
+    <lemma>потерпеть неудачу</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="dole">prepadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kolaps</lemma>
+    <lemma>die</lemma>
+    <lemma>die</lemma>
+    <lemma>die</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пропасти</lemma>
+    <lemma>страдати</lemma>
+    <lemma>изгинути</lemma>
+    <lemma>погинути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пропасти</lemma>
+    <lemma>загинути</lemma>
+    <lemma>провалитися</lemma>
+    <lemma>потерпіти невдачу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pereos</lemma>
+    <lemma>fali tra</lemma>
+    <lemma>malsukcesi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durchfallen">zugrunde gehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>falen</lemma>
+    <lemma>omkomen</lemma>
+  </synset>
+</multilingual-synset>

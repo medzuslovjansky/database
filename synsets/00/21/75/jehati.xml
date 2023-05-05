@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2175"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2175"
+      steen:addition="(jede)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      jehati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ехаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пътувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">voziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="со превоз">оди</lemma>
+    <lemma>вози</lemma>
+    <lemma>патува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jechać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ехать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="je">pogon</lemma>
+    <lemma>za potovanje v določeno smer</lemma>
+    <lemma>da se premaknete</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">возити</lemma>
+    <lemma>путовати у одређеном смеру</lemma>
+    <lemma>кретати се превозним средством</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>їхати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per transporto">iras</lemma>
+    <lemma>vojaĝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>fahren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijden</lemma>
+    <lemma annotation="per vervoermiddel">gaan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2840"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2840" steen:pos="v.tr. ipf." steen:type="1">pekti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пячы</lemma>
+    <lemma>пекчы</lemma>
+    <lemma>выпякаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се пече</lemma>
+    <lemma annotation="tr.">пържи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>péct</lemma>
+    <lemma>péci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>peći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>печь</lemma>
+    <lemma>выпекать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>piecť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bake</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пекти</lemma>
+    <lemma>випікати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baku</lemma>
+    <lemma annotation="tr.">rostita</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>backen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bakken</lemma>
+  </synset>
+</multilingual-synset>

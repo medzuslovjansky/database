@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28471"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28471"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      nepostojanny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непастаянны</lemma>
+    <lemma>нясталы</lemma>
+    <lemma>зменлівы</lemma>
+    <lemma>няўстойльвы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>непостоянен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nestálý</lemma>
+    <lemma>proměnlivý</lemma>
+    <lemma>nestabilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nepostojan</lemma>
+    <lemma>nestalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непостојан</lemma>
+    <lemma>нестабилен</lemma>
+    <lemma>променлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niestały</lemma>
+    <lemma>zmienny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>непостоянный</lemma>
+    <lemma>изменчивый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nestály</lemma>
+    <lemma>premenlivý</lemma>
+    <lemma>nestabilný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nestabilen</lemma>
+    <lemma>nestabilna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непостојан</lemma>
+    <lemma>нестабилан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>непостійний</lemma>
+    <lemma>мінливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfirmajn</lemma>
+    <lemma>nekonstanta</lemma>
+    <lemma>ŝanĝiĝema</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unsicher</lemma>
+    <lemma>unbeständig</lemma>
+    <lemma>wandelbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onstabiel</lemma>
+    <lemma>veranderlijk</lemma>
+  </synset>
+</multilingual-synset>

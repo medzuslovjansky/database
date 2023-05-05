@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="90"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="90" steen:pos="m." steen:type="1">hlěv</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хлеў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свинарник</lemma>
+    <lemma>кочина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chlév</lemma>
+    <lemma>chlívek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svinjac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кочина</lemma>
+    <lemma>свињарник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chlew</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хлев</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chliev</lemma>
+    <lemma>chlievik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svinjak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свињац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хлів</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porkejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schweinestall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>varkensstal</lemma>
+  </synset>
+</multilingual-synset>

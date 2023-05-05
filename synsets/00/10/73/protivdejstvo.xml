@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1073" steen:pos="n.sg." steen:type="2">
+      protivdějstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зап.">процідзеянне</lemma>
+    <lemma annotation="зап.">супрацьдзеянне</lemma>
+    <lemma>супраціў</lemma>
+    <lemma>супраціўленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>устойчивост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otpor</lemma>
+    <lemma>protudjelovanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>противдејство</lemma>
+    <lemma>отпор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>противодействие</lemma>
+    <lemma>сопротивление</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preprečitev odpornost</lemma>
+    <lemma>nasprotno delovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>противдејство</lemma>
+    <lemma>отпор</lemma>
+    <lemma>супротно деловање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>протидія</lemma>
+    <lemma>опір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rezisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Widerstand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tegenwerking</lemma>
+    <lemma>weerstand</lemma>
+  </synset>
+</multilingual-synset>

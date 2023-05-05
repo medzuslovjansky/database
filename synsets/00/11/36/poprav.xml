@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1136"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1136"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+    >
+      poprav
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>справа</lemma>
+    <lemma>праваруч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вдясно от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vpravo</lemma>
+    <lemma>napravo od</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>деснъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>desno. nadesno</lemma>
+    <lemma>udesno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>десно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>po prawej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>справа</lemma>
+    <lemma>по правую сторону</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vpravo</lemma>
+    <lemma>napravo od</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>десно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>праворуч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dekstre</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechts von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechts van</lemma>
+    <lemma>ter rechterzijde van</lemma>
+  </synset>
+</multilingual-synset>

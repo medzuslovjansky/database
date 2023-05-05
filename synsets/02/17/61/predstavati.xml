@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21761"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21761"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prědstavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="перад судом">паўставаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="пред съда">се яви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="před soudem">postavit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="pred sudom">pojavljivati se</lemma>
+    <lemma annotation="pred sud">dolaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пред суд">претставува</lemma>
+    <lemma>застапува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przed sądem">stawić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="перед судом">представать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="pred súdom">postaviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="na sodišču">nastopiti</lemma>
+    <lemma annotation="na sodišču">stroški</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пред судом">појављивати се</lemma>
+    <lemma annotation="пред судом">стајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="перед судом">ставати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="antaŭ tribunalo">aperi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="vor Gericht">erscheinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="voor de rechtbank">verschijnen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2816"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2816"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="ru pl j"
+    >
+      orųžje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зброя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оръжие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbraň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oružje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оружје</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>broń</lemma>
+    <lemma>oręż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оружие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbraň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>orožje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оружје</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зброя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>armilo</lemma>
+    <lemma>brakoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Waffe</lemma>
+    <lemma>Waffen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wapens</lemma>
+  </synset>
+</multilingual-synset>

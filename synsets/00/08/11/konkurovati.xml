@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="811"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="811"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      konkurovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канкураваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съпернича</lemma>
+    <lemma>конкурирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konkurovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konkurirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конкурира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konkurować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конкурировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konkurovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tekmujejo</lemma>
+    <lemma>trdijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конкурисати</lemma>
+    <lemma>такмичити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конкурувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konkurencas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>konkurrieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>concurreren</lemma>
+  </synset>
+</multilingual-synset>

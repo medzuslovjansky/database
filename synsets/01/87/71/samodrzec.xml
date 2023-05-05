@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18771"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18771"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      samodŕžec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>самаўладнік</lemma>
+    <lemma>самадзержац</lemma>
+    <lemma>аўтакрат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>самодържец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>samovládce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>samodržac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>самодржец</lemma>
+    <lemma>автократ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>autokrata</lemma>
+    <lemma>samowładca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>самодержец</lemma>
+    <lemma>автократ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>samovládcu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Samodržac</lemma>
+    <lemma>An avtokrat</lemma>
+    <lemma>An avtokrat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>самодржац</lemma>
+    <lemma>автократ</lemma>
+    <lemma>аутократа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>самодержець</lemma>
+    <lemma>самовладець</lemma>
+    <lemma>самодержавець</lemma>
+    <lemma>монарх</lemma>
+    <lemma>автократ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭtokrato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Autokrat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>autocraat</lemma>
+  </synset>
+</multilingual-synset>

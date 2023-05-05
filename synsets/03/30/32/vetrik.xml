@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33032"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33032"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru be z sh"
+    >
+      větrik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ветрык</lemma>
+    <lemma>брыз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ветрец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>větřík</lemma>
+    <lemma>vánek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjetarac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ветрец</lemma>
+    <lemma>ветре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wietrzyk</lemma>
+    <lemma>bryza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ветерок</lemma>
+    <lemma>бриз</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vetrík</lemma>
+    <lemma>vánok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vetarac</lemma>
+    <lemma>vetrič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ветарац</lemma>
+    <lemma>поветарац</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вітерець</lemma>
+    <lemma>бриз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venteto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brise</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bries</lemma>
+  </synset>
+</multilingual-synset>

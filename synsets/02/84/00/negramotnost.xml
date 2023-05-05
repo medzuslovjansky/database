@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28400" steen:pos="f." steen:type="1" steen:same="v cs bg">
+      negramotnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непісьменнасць</lemma>
+    <lemma>няграматнасць</lemma>
+    <lemma>цямнота</lemma>
+    <lemma>невуцтва</lemma>
+    <lemma>няпісьменнасць</lemma>
+    <lemma>неадукаванасць</lemma>
+    <lemma>неадукованасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неграмотност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>negramotnost</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nepismenost</lemma>
+    <lemma>analfabetizam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неписменост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>analfabetyzm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безграмотность</lemma>
+    <lemma>неграмотность</lemma>
+    <lemma>необразованность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>negramotnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nepismenost</lemma>
+    <lemma>nepismenost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неписменост</lemma>
+    <lemma>аналфабетизам</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неписьменність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>analfabetismo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Analphabetentum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ongeletterdheid</lemma>
+    <lemma>analfabetisme</lemma>
+  </synset>
+</multilingual-synset>

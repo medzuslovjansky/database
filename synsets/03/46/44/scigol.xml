@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34644"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34644"
+      steen:addition="(ščigla)"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sl~ sh bg"
+    >
+      ščigȯl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шчыгол</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>щиглец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stehlík</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>štiglic</lemma>
+    <lemma>štiglić</lemma>
+    <lemma>češljugar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шарена појна птичка">штиглец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szczygieł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>щегол</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>Stehlík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zlatnik</lemma>
+    <lemma>siskin</lemma>
+    <lemma>Zlatnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штиглиц</lemma>
+    <lemma>штиглић</lemma>
+    <lemma>чешљугар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>щиголь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kardelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stieglitz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goudvink</lemma>
+  </synset>
+</multilingual-synset>

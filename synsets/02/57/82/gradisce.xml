@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25782"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25782" steen:pos="n." steen:type="1">grådišče</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="археал.">гарадзішча</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="археол.">градище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hradiště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gradište</lemma>
+    <lemma>gradina</lemma>
+    <lemma>grad</lemma>
+    <lemma>burg</lemma>
+    <lemma>kaštel</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="архео.">градиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="arch.">grodzisko</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="археол.">городище</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hradisko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>utrjeno naselje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утврђено насеље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="археол.">городище</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>monteto fuorto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hügel fort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heuvelfort</lemma>
+  </synset>
+</multilingual-synset>

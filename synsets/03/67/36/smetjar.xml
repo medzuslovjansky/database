@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36736"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36736"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub pl sk yu mk"
+    >
+      smetjaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смяцяр</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>боклук</lemma>
+    <lemma>боклук</lemma>
+    <lemma>прах</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>popelář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smetlar</lemma>
+    <lemma>škovacin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѓубреџија</lemma>
+    <lemma>собирач на смет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śmieciarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мусорщик</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>smetiar</lemma>
+    <lemma>zberač odpadu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smeti</lemma>
+    <lemma>pobiranje smeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сметлар</lemma>
+    <lemma>ђубретар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>смітник</lemma>
+    <lemma>смітник</lemma>
+    <lemma>смітник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rubo-kolektisto</lemma>
+    <lemma>garbageman</lemma>
+    <lemma>polvisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Müllsammler</lemma>
+    <lemma>Müllmann</lemma>
+    <lemma>Müllmann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vuilnisman</lemma>
+  </synset>
+</multilingual-synset>

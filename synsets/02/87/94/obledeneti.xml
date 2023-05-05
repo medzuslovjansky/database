@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28794"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28794"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      obleděněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абледзянець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>замразяване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zledovatět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zalediti</lemma>
+    <lemma>smrznuti</lemma>
+    <lemma>zamrznuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замрзна</lemma>
+    <lemma>покри со лед</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oblodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обледенеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zľadovatieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>olediti</lemma>
+    <lemma>zamrznjene</lemma>
+    <lemma>zamrznitev</lemma>
+    <lemma annotation="fig.">oblediti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оледити</lemma>
+    <lemma>заледити</lemma>
+    <lemma>смрзнути</lemma>
+    <lemma>замрзнути</lemma>
+    <lemma annotation="фиг.">обледити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обледеніти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frostigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einfrieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invriezen</lemma>
+    <lemma>verijzen</lemma>
+  </synset>
+</multilingual-synset>

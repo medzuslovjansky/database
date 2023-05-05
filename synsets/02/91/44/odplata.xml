@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29144"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29144" steen:pos="f." steen:type="1" steen:same="v j">
+      odplata
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адплата</lemma>
+    <lemma>сплата</lemma>
+    <lemma>пакрыццё</lemma>
+    <lemma>аплата</lemma>
+    <lemma>зварот</lemma>
+    <lemma>кампенсаванне</lemma>
+    <lemma>замена</lemma>
+    <lemma>пагашэнне</lemma>
+    <lemma>касаванне</lemma>
+    <lemma>выплата</lemma>
+    <lemma>гасьба</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>погасяване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>splátka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otplata</lemma>
+    <lemma>rata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отплата</lemma>
+    <lemma>одмазда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spłata</lemma>
+    <lemma>rata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отплата</lemma>
+    <lemma>возмещение</lemma>
+    <lemma>погашение</lemma>
+    <lemma annotation="долга">оплата</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>splátka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odplačilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отплата</lemma>
+    <lemma>рата</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сплата</lemma>
+    <lemma>виплата</lemma>
+    <lemma>відшкодування</lemma>
+    <lemma>погашення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>repago</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rückzahlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugbetaling</lemma>
+    <lemma>afbetaling</lemma>
+  </synset>
+</multilingual-synset>

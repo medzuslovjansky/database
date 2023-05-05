@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18733"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18733"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru uk pl"
+    >
+      srųbyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ссякаць</lemma>
+    <lemma>сцінаць</lemma>
+    <lemma>адсякаць</lemma>
+    <lemma>адцінаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>НАРЕЖЕТЕ врозь</lemma>
+    <lemma>рана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>narubávat</lemma>
+    <lemma>nasekávat</lemma>
+    <lemma>sekat</lemma>
+    <lemma>odrubávat</lemma>
+    <lemma>odsekávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odrubljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсече</lemma>
+    <lemma>пресече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zrąbywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>срубать</lemma>
+    <lemma>отрубать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>narubávat</lemma>
+    <lemma>naštiepal</lemma>
+    <lemma>sekať</lemma>
+    <lemma>odrubávat</lemma>
+    <lemma>odsekávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="drevo">odrubljivati</lemma>
+    <lemma>cepljeno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="стабло">одрубљивати</lemma>
+    <lemma>исецати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрубувати</lemma>
+    <lemma>відрубувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hakas aparte</lemma>
+    <lemma>haki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hacken auseinander</lemma>
+    <lemma>fällen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omhakken</lemma>
+    <lemma>stukhakken</lemma>
+  </synset>
+</multilingual-synset>

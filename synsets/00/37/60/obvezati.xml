@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3760"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3760"
+      steen:addition="(obvęže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      obvęzati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абавязаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>задължи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="povinnost">zavázat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obvezati</lemma>
+    <lemma>obvezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обврзе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zobowiązać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обязать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="povinnosť">zaviazať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Odobritev zavezati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обвезати</lemma>
+    <lemma>обавезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зобов&apos;язати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>devigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verpflichten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verplichten</lemma>
+    <lemma>verplicht zijn</lemma>
+  </synset>
+</multilingual-synset>

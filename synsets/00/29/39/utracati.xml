@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2939"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2939"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl cs"
+    >
+      utraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>губляць</lemma>
+    <lemma>траціць</lemma>
+    <lemma>страчваць</lemma>
+    <lemma>разгубліваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>загуби</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ztrácet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izgubiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>губи</lemma>
+    <lemma>троши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tracić</lemma>
+    <lemma>stracać</lemma>
+    <lemma>utracać</lemma>
+    <lemma>gubić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>утрачивать</lemma>
+    <lemma>терять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>strácať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izgubiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>губити</lemma>
+    <lemma>трошити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>втрачати</lemma>
+    <lemma>втрачати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perdi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verlieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verliezen</lemma>
+    <lemma>kwijtraken</lemma>
+  </synset>
+</multilingual-synset>

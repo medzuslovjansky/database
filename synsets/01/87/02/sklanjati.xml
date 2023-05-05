@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18702"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18702" steen:pos="v.tr. ipf." steen:type="1">
+      sklanjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">скланяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="граматика">намаляване</lemma>
+    <lemma>обляга</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">skloňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>deklinirati</lemma>
+    <lemma>sklanjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="граматиката">деклинира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">odmieniać</lemma>
+    <lemma>deklinować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">склонять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="gram.">skloňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="slovnica">Odklon</lemma>
+    <lemma>kakor ga padežima</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="граматика">деклинација</lemma>
+    <lemma>промена по падежима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="грам.">відмінювати</lemma>
+    <lemma>схиляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gramatiko">malkresko</lemma>
+    <lemma>fleksias</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Grammatik">Rückgang</lemma>
+    <lemma>inflect</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">verbuigen</lemma>
+  </synset>
+</multilingual-synset>

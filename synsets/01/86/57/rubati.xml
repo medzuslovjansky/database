@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18657"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18657"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru uk pl"
+    >
+      rųbati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>секчы</lemma>
+    <lemma>пляжыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>КОТЛЕТ</lemma>
+    <lemma>че</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rubat</lemma>
+    <lemma>kácet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>cepati</lemma>
+    <lemma annotation="sjekirom">sjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rąbać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рубить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zahrať</lemma>
+    <lemma>rúbať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odtrganje</lemma>
+    <lemma annotation="ax">rezane</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цепати</lemma>
+    <lemma annotation="секиром">сећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рубати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>haki</lemma>
+    <lemma>falis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hacken</lemma>
+    <lemma>fiel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hakken</lemma>
+    <lemma>vellen</lemma>
+  </synset>
+</multilingual-synset>

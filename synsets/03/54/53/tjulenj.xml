@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35453"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35453"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs yu bg"
+    >
+      tjulenj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цюлень</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="животни">печат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tuleň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tuljan</lemma>
+    <lemma>foka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фока</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>foka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тюлень</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tuleň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tesnila</lemma>
+    <lemma>tesnilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фока</lemma>
+    <lemma>туљан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тюлень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="besto">foko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Tier">Dichtung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeehond</lemma>
+  </synset>
+</multilingual-synset>

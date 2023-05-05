@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36321"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36321"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z sh bm"
+    >
+      odvykati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адвыкаць</lemma>
+    <lemma>адвучвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>направи отучился</lemma>
+    <lemma>ви непривычки</lemma>
+    <lemma>да излезе от навици</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvykat si</lemma>
+    <lemma>odnaučovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">odvikavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се одвикнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odzwyczajać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отвыкать</lemma>
+    <lemma>отучаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvykať si</lemma>
+    <lemma>odnaučovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvračala</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвикавати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відвикати</lemma>
+    <lemma>відучуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akiri disaccustomed</lemma>
+    <lemma>akiri nekutima</lemma>
+    <lemma>eliri kutimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erhalten entwöhnt</lemma>
+    <lemma>erhalten ungewohnt</lemma>
+    <lemma>erhalten aus einer Gewohnheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontwennen</lemma>
+  </synset>
+</multilingual-synset>

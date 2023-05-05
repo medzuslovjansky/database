@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1649"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1649"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      uvěrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запэўніваць</lemma>
+    <lemma>упэўніваць</lemma>
+    <lemma>пераконваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>уверять</lemma>
+    <lemma>убеждавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ujišťovat se</lemma>
+    <lemma>přesvědčovat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uvjeravati</lemma>
+    <lemma>ubeđivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapewniać</lemma>
+    <lemma>przekonywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уверять</lemma>
+    <lemma>убеждать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uisťovať sa</lemma>
+    <lemma>presvedčovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričati</lemma>
+    <lemma>prepričati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уверавати</lemma>
+    <lemma>убеђивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запевняти</lemma>
+    <lemma>переконувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>certigi</lemma>
+    <lemma>konvinki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versichern</lemma>
+    <lemma>überzeugen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzekeren</lemma>
+    <lemma>overtuigen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31267"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31267"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v yu~ mk~ bg"
+    >
+      vȯzvod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узвод</lemma>
+    <lemma>атрад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взвод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>četa</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pluton</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взвод</lemma>
+    <lemma>отряд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čata</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrstica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вод</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>взвод</lemma>
+    <lemma>загін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plotono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>peloton</lemma>
+  </synset>
+</multilingual-synset>

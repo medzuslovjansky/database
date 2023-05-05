@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17040"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17040" steen:pos="m." steen:type="2" steen:same="ru yu mk">
+      slog
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>склад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сричка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slabika</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sylaba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slabika</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zlog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>склад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>silabo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Silbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lettergreep</lemma>
+    <lemma>syllabe</lemma>
+  </synset>
+</multilingual-synset>

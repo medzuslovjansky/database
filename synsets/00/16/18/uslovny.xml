@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1618"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1618" steen:pos="adj." steen:type="2" steen:same="ru pl">
+      uslovny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>умоўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>условно условно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podmíněný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uslovan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>условен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>warunkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>условный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podmienečný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogojno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>услован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>умовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kondicionalo</lemma>
+    <lemma>kontingento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bedingt</lemma>
+    <lemma>bedingte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorwaardelijk</lemma>
+  </synset>
+</multilingual-synset>

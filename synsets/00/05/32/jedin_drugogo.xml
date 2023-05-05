@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="532"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="532" steen:pos="pron.rec." steen:type="1">
+      jedin drugogo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзін аднаго</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>един друг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jeden druhého</lemma>
+    <lemma>navzájem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="a">jedan drugog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>едно на друго</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jeden drugiego</lemma>
+    <lemma>wzajemnie</lemma>
+    <lemma>nazwajem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>друг друга</lemma>
+    <lemma>один другого</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jeden druhého</lemma>
+    <lemma>navzájom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>drug drugega</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>један другог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>один одного</lemma>
+    <lemma>один другого</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unu la alian</lemma>
+    <lemma>reciproke</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sich gegenseitig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elkaar</lemma>
+  </synset>
+</multilingual-synset>

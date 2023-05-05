@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2608"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2608"
+      steen:addition="(izpije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изпивам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popiti</lemma>
+    <lemma>ispiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выпить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vypiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izpiti pijače</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>попити</lemma>
+    <lemma>испити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trinkaĵon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trinken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>drinken</lemma>
+    <lemma>opdrinken</lemma>
+  </synset>
+</multilingual-synset>

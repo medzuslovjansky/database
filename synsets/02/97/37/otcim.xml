@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29737"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29737"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      otčim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>айчым</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>баща</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otčím</lemma>
+    <lemma>nevlastní otec</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>očuh</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>очув</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ojczym</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отчим</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>otčim</lemma>
+    <lemma>nevlastný otec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>očim</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>очух</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вітчим</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>duonpatro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Stiefvater</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stiefvader</lemma>
+  </synset>
+</multilingual-synset>

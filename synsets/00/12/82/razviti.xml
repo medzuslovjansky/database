@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1282"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1282"
+      steen:addition="(råzvije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      råzviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="tr.">разработване на</lemma>
+    <lemma annotation="tr.">да се развива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvinout</lemma>
+    <lemma>vyvinout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>развие</lemma>
+    <lemma>еволуира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozwinąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozvinúť</lemma>
+    <lemma>vyvinúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razvijejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розвинути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tr.">evoluigi</lemma>
+    <lemma annotation="tr.">evolui</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="tr.">entwickeln</lemma>
+    <lemma annotation="tr.">entwickelt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontwikkelen</lemma>
+  </synset>
+</multilingual-synset>

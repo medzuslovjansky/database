@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="571"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="571" steen:pos="v.tr. pf." steen:type="1">zahvatiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захапіць</lemma>
+    <lemma>апантаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хвана</lemma>
+    <lemma>запленя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obsadit</lemma>
+    <lemma>zabrat</lemma>
+    <lemma annotation="silou">uchvátit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zahvatiti</lemma>
+    <lemma>obuhvatiti</lemma>
+    <lemma>uhvatiti</lemma>
+    <lemma>ugrabiti</lemma>
+    <lemma>obuzeti</lemma>
+    <lemma>preuzeti</lemma>
+    <lemma>ovladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заплени</lemma>
+    <lemma>фати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przechwycić</lemma>
+    <lemma>przejąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>захватить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>obsadiť</lemma>
+    <lemma>zabrať</lemma>
+    <lemma annotation="silou">uchvátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasegli ulov</lemma>
+    <lemma>prenos</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ухватити</lemma>
+    <lemma>обухватити</lemma>
+    <lemma>ухватити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>захопити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erfassung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gevangennemen</lemma>
+    <lemma>vangen</lemma>
+  </synset>
+</multilingual-synset>

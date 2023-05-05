@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28965"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28965"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      obučati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навучаць</lemma>
+    <lemma>вучыць</lemma>
+    <lemma>абучаць</lemma>
+    <lemma>вывучаць</lemma>
+    <lemma>адукоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>инструктира</lemma>
+    <lemma>да учат</lemma>
+    <lemma>да се обучават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>školit</lemma>
+    <lemma>trénovat</lemma>
+    <lemma>instruovat</lemma>
+    <lemma>vyučovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obučavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkolić</lemma>
+    <lemma>instruować</lemma>
+    <lemma>trenować</lemma>
+    <lemma>pouczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обучать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>školiť</lemma>
+    <lemma>trénovať</lemma>
+    <lemma>inštruovať</lemma>
+    <lemma>vyučovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trenirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обучавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>навчати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instrui</lemma>
+    <lemma>instrui</lemma>
+    <lemma>trajno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anweisen</lemma>
+    <lemma>lehren</lemma>
+    <lemma>Zug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instrueren</lemma>
+    <lemma>trainen</lemma>
+  </synset>
+</multilingual-synset>

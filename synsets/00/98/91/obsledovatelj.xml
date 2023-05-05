@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9891"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9891"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="ru be"
+    >
+      obslědovatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інспектар</lemma>
+    <lemma>кантралёр</lemma>
+    <lemma>рэвізор</lemma>
+    <lemma>наглядчык</lemma>
+    <lemma>правяральнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>геодезист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šetřitel</lemma>
+    <lemma>inspektor</lemma>
+    <lemma>kontrolor</lemma>
+    <lemma>revizor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispitivač</lemma>
+    <lemma>kontrolor</lemma>
+    <lemma>nadzornik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истражувач</lemma>
+    <lemma>испитувач</lemma>
+    <lemma>инспектор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>badacz</lemma>
+    <lemma>inspektor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инспектор</lemma>
+    <lemma>контролёр</lemma>
+    <lemma>ревизор</lemma>
+    <lemma>обследователь</lemma>
+    <lemma>проверяющий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inšpektor</lemma>
+    <lemma>kontrolór</lemma>
+    <lemma>revízor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raziskovalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истраживач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інспектор</lemma>
+    <lemma>контролер</lemma>
+    <lemma>ревізор</lemma>
+    <lemma>дослідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agrimensor</lemma>
+    <lemma>inspektisto</lemma>
+    <lemma>ekzamenanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Landvermesser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderzoeker</lemma>
+    <lemma>inspecteur</lemma>
+  </synset>
+</multilingual-synset>

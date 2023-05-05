@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21670"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21670"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      zarodȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зародак</lemma>
+    <lemma>эмбрыён</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зародиш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zárodek</lemma>
+    <lemma>embryo</lemma>
+    <lemma>plod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zametak</lemma>
+    <lemma>embrij</lemma>
+    <lemma>embrio</lemma>
+    <lemma>embrion</lemma>
+    <lemma>fetus</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зародок</lemma>
+    <lemma>зародиш</lemma>
+    <lemma>ембрион</lemma>
+    <lemma>фетус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>embrion</lemma>
+    <lemma>zarodek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зародыш</lemma>
+    <lemma>эмбрион</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zárodok</lemma>
+    <lemma>embryo</lemma>
+    <lemma>plod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zarodek</lemma>
+    <lemma>plod</lemma>
+    <lemma>zarodkov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заметак</lemma>
+    <lemma>зародак</lemma>
+    <lemma>ембрион</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зародок</lemma>
+    <lemma>ембріон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>embrio</lemma>
+    <lemma>feto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Embryo</lemma>
+    <lemma>Fötus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>embryo</lemma>
+    <lemma>foetus</lemma>
+  </synset>
+</multilingual-synset>

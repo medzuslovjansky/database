@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4191"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      sȯglåsiti sę
+    </lemma>
+    <lemma
+      steen:id="4191"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      sųglåsiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>згадзіцца</lemma>
+    <lemma>пагадзіцца</lemma>
+    <lemma>дапасавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съгласен съм</lemma>
+    <lemma>са съгласни</lemma>
+    <lemma>съгласни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>souhlasit</lemma>
+    <lemma>shodnout se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>složiti se</lemma>
+    <lemma>suglasiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се согласувам</lemma>
+    <lemma>согласност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zgodzić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>согласиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>súhlasiť</lemma>
+    <lemma>zhodnúť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>strinjam</lemma>
+    <lemma>se strinjam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сложити се</lemma>
+    <lemma>сагласити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>погодитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsentas</lemma>
+    <lemma>konsenton</lemma>
+    <lemma>koincidas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zustimmen</lemma>
+    <lemma>Zustimmung</lemma>
+    <lemma>stimmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>het eens zijn</lemma>
+    <lemma>instemmen</lemma>
+  </synset>
+</multilingual-synset>

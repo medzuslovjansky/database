@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15818"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15818" steen:pos="adj." steen:type="1" steen:genesis="I">
+      diskusijny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыскусійны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дискусионен</lemma>
+    <lemma>спорен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>diskutabilní</lemma>
+    <lemma>kontroverzní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>diskutabilan</lemma>
+    <lemma>sporan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дискутабилен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kontrowersyjny</lemma>
+    <lemma>dyskusyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дискуссионный</lemma>
+    <lemma>спорный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diskutabilný</lemma>
+    <lemma>kontroverzný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sporna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>контроверзни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дискусійний</lemma>
+    <lemma>спірний</lemma>
+    <lemma>контроверсійний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>polemika</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umstritten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>controversieel</lemma>
+    <lemma>omstreden</lemma>
+  </synset>
+</multilingual-synset>

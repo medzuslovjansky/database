@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36027"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="pl j"
+      steen:genesis="F"
+    >
+      frizer
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цырульнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фризьор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kadeřník</lemma>
+    <lemma>holič</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>frizer</lemma>
+    <lemma>brijač</lemma>
+    <lemma>brico</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фризер</lemma>
+    <lemma>бербер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fryzjer</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>парикмахер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kaderník</lemma>
+    <lemma>holič</lemma>
+    <lemma>barber</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>frizer</lemma>
+    <lemma>Barber</lemma>
+    <lemma>Barber</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фризер</lemma>
+    <lemma>бербер</lemma>
+    <lemma>брица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перукар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frizisto</lemma>
+    <lemma>barbiro</lemma>
+    <lemma>Friseur</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Friseur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kapper</lemma>
+  </synset>
+</multilingual-synset>

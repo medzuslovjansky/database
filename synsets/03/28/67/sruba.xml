@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32867"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32867"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="be z ru~ uk~"
+    >
+      šruba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шруба</lemma>
+    <lemma>вінт</lemma>
+    <lemma>ніт</lemma>
+    <lemma>болт</lemma>
+    <lemma>просва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>винт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šroub</lemma>
+    <lemma>vrut</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vijak</lemma>
+    <lemma>šaraf</lemma>
+    <lemma>zavrtanj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завртка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śruba</lemma>
+    <lemma>wkręt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>винт</lemma>
+    <lemma>болт</lemma>
+    <lemma>шуруп</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skrutka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vijak</lemma>
+    <lemma>vijak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завртањ</lemma>
+    <lemma>вијак</lemma>
+    <lemma>шраф</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гвинт</lemma>
+    <lemma>болт</lemma>
+    <lemma>шуруп</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝraŭbo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schraube</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schroef</lemma>
+  </synset>
+</multilingual-synset>

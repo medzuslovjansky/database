@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7561"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7561"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      ględęći na
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>датычна</lemma>
+    <lemma>адносна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>относно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohledně</lemma>
+    <lemma>s ohledem na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>u pogledu</lemma>
+    <lemma>glede</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гледајки на</lemma>
+    <lemma>во однос на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odnośnie</lemma>
+    <lemma>ze względu na</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>касательно</lemma>
+    <lemma>относительно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ohľadom</lemma>
+    <lemma>s ohľadom na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>išče naprej</lemma>
+    <lemma>v primerjavi s</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гледајући на</lemma>
+    <lemma>у односу на</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стосовно</lemma>
+    <lemma>з огляду на</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hinsichtlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezien</lemma>
+    <lemma>ten aanzien van</lemma>
+    <lemma>gelet op</lemma>
+  </synset>
+</multilingual-synset>

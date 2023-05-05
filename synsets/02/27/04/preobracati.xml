@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22704"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22704"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="sh"
+    >
+      prěobraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ператвараць</lemma>
+    <lemma>пераўтвараць</lemma>
+    <lemma>звяртаць</lemma>
+    <lemma>абарачаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="СТХ. в СТГ.">преобразуване</lemma>
+    <lemma annotation="СТХ. в СТГ.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převádět</lemma>
+    <lemma>přeměňovat</lemma>
+    <lemma annotation="něco na něco">konvertovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preobraćivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врти</lemma>
+    <lemma>превртува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w">zmieniać</lemma>
+    <lemma>konwertować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превращать</lemma>
+    <lemma>обращать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prevádzať</lemma>
+    <lemma>premieňať</lemma>
+    <lemma annotation="niečo na niečo">konvertovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pretvorba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преобраћати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетворювати</lemma>
+    <lemma>обертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sth. en sth.">konverti</lemma>
+    <lemma annotation="sth. en sth.">siavice</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="etw. in etw.">konvertieren</lemma>
+    <lemma annotation="etw. in etw.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omzetten</lemma>
+  </synset>
+</multilingual-synset>

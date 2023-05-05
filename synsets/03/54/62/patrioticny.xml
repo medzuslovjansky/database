@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35462"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35462"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      patriotičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патрыятычны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Местната</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>patriotický</lemma>
+    <lemma>vlastenecký</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>patriotski</lemma>
+    <lemma>domoljubno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патриотски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>patriotyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>патриотичный</lemma>
+    <lemma>патриотический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>patrioticky</lemma>
+    <lemma>vlastenecký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Domoljubna</lemma>
+    <lemma>patriotičan</lemma>
+    <lemma>domoljubno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>партиотски</lemma>
+    <lemma>патриотичан</lemma>
+    <lemma>патриотички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>патріотичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>patriota</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>patriotisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>patriottisch</lemma>
+    <lemma>vaderlandslievend</lemma>
+  </synset>
+</multilingual-synset>

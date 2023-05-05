@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19770"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19770" steen:pos="n.sg." steen:type="1">
+      językotvorjeńje
+    </lemma>
+    <lemma steen:id="19770" steen:pos="n.sg." steen:type="1">
+      językotvorstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>моватварэнне</lemma>
+    <lemma>стварэнне штутчнай мовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>създаване на език</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="umělého">tvorba jazyka</lemma>
+    <lemma>jazykotvorba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jezikotvorstvo</lemma>
+    <lemma>stvaranje jezika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>создавање на јазик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>językotwórstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конлангинг</lemma>
+    <lemma>создание искусственного языка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="umelého">tvorba jazyka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezikotvorstvo</lemma>
+    <lemma>ustvarja jezik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>језикотворство</lemma>
+    <lemma>стварање језика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мовотворення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lingvo kreo</lemma>
+    <lemma>conlanging</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sprache Schöpfung</lemma>
+    <lemma>conlanging</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>taalcreatie</lemma>
+    <lemma>linguafictie</lemma>
+  </synset>
+</multilingual-synset>

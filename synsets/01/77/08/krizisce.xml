@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17708"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17708" steen:pos="n." steen:type="1">križišče</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скрыжаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кръстовище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křižovatka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>križanje</lemma>
+    <lemma>raskršće</lemma>
+    <lemma>raskrižje</lemma>
+    <lemma>križište</lemma>
+    <lemma>raskrsnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раскрсница</lemma>
+    <lemma>крстопат</lemma>
+    <lemma>крстосница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skrzyżowanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скрещение</lemma>
+    <lemma>пересечение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>križovatka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>križišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>раскрсница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перехрещення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komunaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Überschneidung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tussen wegen">kruising</lemma>
+  </synset>
+</multilingual-synset>

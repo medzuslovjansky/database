@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22193"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22193"
+      steen:addition="(vųzla)"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      vųzel
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="транспартны">вузел</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>превозен възел</lemma>
+    <lemma>транспортен възел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dopravní">uzel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čvor</lemma>
+    <lemma>čvorište</lemma>
+    <lemma>petlja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>транспортен јазол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>węzeł transportowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="транспортный">узел</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="dopravné">uzol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="promet">vozlišče</lemma>
+    <lemma annotation="promet">prostor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="саобраћај">чвор</lemma>
+    <lemma annotation="саобраћај">петља</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="транспортний">вузол</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pakaĵo</lemma>
+    <lemma annotation="fervojo ktp">krucvojo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bundle</lemma>
+    <lemma annotation="Bahn etc.">Übergang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>knooppunt</lemma>
+  </synset>
+</multilingual-synset>

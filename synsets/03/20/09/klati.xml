@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32009"
+      steen:addition="(kolje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      klåti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калоць</lemma>
+    <lemma>рэзаць</lemma>
+    <lemma>забіваць жывёлы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>коля</lemma>
+    <lemma>умъртвявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>porážet</lemma>
+    <lemma>ubíjet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klati</lemma>
+    <lemma>kasapiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заколува</lemma>
+    <lemma>усмртува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szlachtować</lemma>
+    <lemma>ubijać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колоть</lemma>
+    <lemma>резать</lemma>
+    <lemma>забивать скот</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>porážať</lemma>
+    <lemma>ubíjať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakol</lemma>
+    <lemma>in pokol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клати</lemma>
+    <lemma>касапити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забивати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>buĉado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schlachten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slachten</lemma>
+  </synset>
+</multilingual-synset>

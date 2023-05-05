@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21270"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      dikobraz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзікабраз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>морско свинче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dikobraz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dikobraz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>морско прасе</lemma>
+    <lemma>боцкаво прасе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jeżozwierz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дикобраз</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dikobraz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Porcupine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бодљикаво прасе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дикобраз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>histriko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Stachelschwein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stekelvarken</lemma>
+  </synset>
+</multilingual-synset>

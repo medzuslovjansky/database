@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1717"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1717"
+      steen:addition="(pnja)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      penj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пень</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пън</lemma>
+    <lemma>на багажника</lemma>
+    <lemma>капак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pařez</lemma>
+    <lemma>peň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>panj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трупец</lemma>
+    <lemma>балван</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пень</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>peň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>štor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пањ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arbo stumpo</lemma>
+    <lemma>trunko</lemma>
+    <lemma>ĝermo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Baumstumpf</lemma>
+    <lemma>Stamm</lemma>
+    <lemma>Stummel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stronk</lemma>
+    <lemma>boomstronk</lemma>
+  </synset>
+</multilingual-synset>

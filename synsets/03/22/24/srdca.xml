@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32224"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32224" steen:pos="n.pl." steen:type="1">sŕdca</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="карты">чырвы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="карта">Изгаря чисто злато</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="karty">srdce</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="boja u kartama">srce</lemma>
+    <lemma>herc</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="карти">срца</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kierki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">червы</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="karty">srdca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="barvne karte">srce</lemma>
+    <lemma>srca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="боја у картама">срце</lemma>
+    <lemma>херц</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">чирва</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">koroj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Herzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">harten</lemma>
+  </synset>
+</multilingual-synset>

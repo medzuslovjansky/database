@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5040"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5040" steen:pos="adj." steen:type="1">bezzvųčny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязгучны</lemma>
+    <lemma annotation="зычны гук">глухі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="съгласна">беззвучна</lemma>
+    <lemma>безмълвен</lemma>
+    <lemma>беззвучен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neznělý</lemma>
+    <lemma>bezzvučný</lemma>
+    <lemma>nezvučný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bezvučan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безвучен</lemma>
+    <lemma annotation="консонант">безгласен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="spółgłoska">bezdźwięczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беззвучный</lemma>
+    <lemma annotation="согласный звук">глухой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neznelý</lemma>
+    <lemma>bezzvučný</lemma>
+    <lemma>nezvučný</lemma>
+    <lemma>tichý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nezveneč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безвучан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>беззвучний</lemma>
+    <lemma>безголосий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="konsonanto">senvoĉaj</lemma>
+    <lemma>senvoĉa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>stimmlos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stemloos</lemma>
+  </synset>
+</multilingual-synset>

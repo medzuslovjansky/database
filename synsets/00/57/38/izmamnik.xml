@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5738"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5738" steen:pos="m.anim." steen:type="2" steen:same="j">
+      izmamnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>махляр</lemma>
+    <lemma>жулік</lemma>
+    <lemma>ашуканец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>измамник</lemma>
+    <lemma>мошеник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podvodník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obmanjivač</lemma>
+    <lemma>varalica</lemma>
+    <lemma>varatelj</lemma>
+    <lemma>prevarant</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измамник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oszust</lemma>
+    <lemma>wyłudzacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мошенник</lemma>
+    <lemma>жулик</lemma>
+    <lemma>обманщик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podvodník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mamitelj</lemma>
+    <lemma>slepar</lemma>
+    <lemma>Crook</lemma>
+    <lemma>tat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мамитељ</lemma>
+    <lemma>варалица</lemma>
+    <lemma>преварант</lemma>
+    <lemma>лопов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шахрай</lemma>
+    <lemma>крутій</lemma>
+    <lemma>аферист</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>defrauder</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Betrüger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oplichter</lemma>
+    <lemma>fraudeur</lemma>
+  </synset>
+</multilingual-synset>

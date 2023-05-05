@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3117"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3117"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      srěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сярод</lemma>
+    <lemma>паміж</lemma>
+    <lemma annotation="дыял.">прамеж</lemma>
+    <lemma annotation="дыял.">спаміж</lemma>
+    <lemma>між</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сред</lemma>
+    <lemma>на сред</lemma>
+    <lemma>на сред</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mezi</lemma>
+    <lemma>uprostřed</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>usred</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>среде</lemma>
+    <lemma>меѓу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wśród</lemma>
+    <lemma>pośród</lemma>
+    <lemma>pomiędzy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>среди</lemma>
+    <lemma>между</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>medzi</lemma>
+    <lemma>uprostred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>v sredini</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>усред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>серед</lemma>
+    <lemma>посеред</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inter</lemma>
+    <lemma>amongs</lemma>
+    <lemma>meze</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unter</lemma>
+    <lemma>amongs</lemma>
+    <lemma>unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>te midden van</lemma>
+    <lemma>onder</lemma>
+    <lemma>tussen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28227"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28227"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      nastradati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напакутавацца</lemma>
+    <lemma>нацярпецца</lemma>
+    <lemma>намучыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настрадам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natrápit se</lemma>
+    <lemma>hodně strádat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">napatiti</lemma>
+    <lemma annotation="se">namučiti</lemma>
+    <lemma>ispatiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>настрада</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nacierpieć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настрадаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>natrápit sa</lemma>
+    <lemma>veľa trpieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napatiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напатити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>настраждатися</lemma>
+    <lemma>натерпітися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suferos multajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>leiden viel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veel lijden</lemma>
+  </synset>
+</multilingual-synset>

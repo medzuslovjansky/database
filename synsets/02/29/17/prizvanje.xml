@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22917"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22917" steen:pos="n." steen:type="3" steen:same="ru">
+      prizvańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакліканне</lemma>
+    <lemma>прызначэнне</lemma>
+    <lemma>прызванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>професия</lemma>
+    <lemma>призвание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>povolání</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sklonost</lemma>
+    <lemma>zov</lemma>
+    <lemma>zvanje</lemma>
+    <lemma annotation="profesija">poziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повик</lemma>
+    <lemma>позив</lemma>
+    <lemma>зов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powołanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>призвание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>povolania</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prednost</lemma>
+    <lemma>poklic</lemma>
+    <lemma>poklic</lemma>
+    <lemma annotation="poklic">poklic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>склоност</lemma>
+    <lemma>зов</lemma>
+    <lemma>звање</lemma>
+    <lemma annotation="професија">позив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>покликання</lemma>
+    <lemma>призначення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vokante</lemma>
+    <lemma>alvokiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berufung</lemma>
+    <lemma>Berufung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roeping</lemma>
+  </synset>
+</multilingual-synset>

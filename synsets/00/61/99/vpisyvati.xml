@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6199"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6199" steen:pos="v.tr. ipf." steen:type="1">
+      vpisyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упісваць</lemma>
+    <lemma annotation="дадзеныя">уводзіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вписвам</lemma>
+    <lemma>въвеждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="data">zapisovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="podataka">unos</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>впишува</lemma>
+    <lemma>внесува</lemma>
+    <lemma annotation="податоци">запишува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wpisywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вписывать</lemma>
+    <lemma annotation="данные">вводить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="dáta">zapisovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vnos podatkov)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уписивати</lemma>
+    <lemma annotation="податаке">уносити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вписувати</lemma>
+    <lemma annotation="дані">вводити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="datumoj">eniri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Daten eingeben)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gegevens">invoeren</lemma>
+  </synset>
+</multilingual-synset>

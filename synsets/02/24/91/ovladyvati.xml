@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22491"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22491"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      ovladyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>авалодваць</lemma>
+    <lemma>апантоўваць</lemma>
+    <lemma>асвойваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>капитанът на сила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvládat</lemma>
+    <lemma annotation="znalosti">získávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ovladavati</lemma>
+    <lemma>savlađivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овладува</lemma>
+    <lemma>завладува</lemma>
+    <lemma>загосподари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opanowywać</lemma>
+    <lemma>władać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>овладевать</lemma>
+    <lemma>осваивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvládať</lemma>
+    <lemma annotation="znalosti">získavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevladujejo pogajanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>овладавати</lemma>
+    <lemma>савлађивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оволодівати</lemma>
+    <lemma>опановувати</lemma>
+    <lemma>засвоювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mastro</lemma>
+    <lemma>gajno uzkapablo en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Meister</lemma>
+    <lemma>gewinnen Beherrschung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beheersen</lemma>
+    <lemma>meester zijn van</lemma>
+    <lemma>de macht hebben over</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20978"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20978" steen:pos="f." steen:type="2" steen:same="ru sh">
+      pastva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чарада</lemma>
+    <lemma>зграя</lemma>
+    <lemma>гайня</lemma>
+    <lemma>статак</lemma>
+    <lemma>плойма</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>паства</lemma>
+    <lemma>паства</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kongregace</lemma>
+    <lemma>shromáždění věřících</lemma>
+    <lemma annotation="círk.">stádo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stado</lemma>
+    <lemma>pastva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стадо</lemma>
+    <lemma annotation="црковен термин">паства</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gromada</lemma>
+    <lemma>tłum</lemma>
+    <lemma>kongregacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стая</lemma>
+    <lemma>стадо</lemma>
+    <lemma>орава</lemma>
+    <lemma>паства</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kongregácia</lemma>
+    <lemma>zhromaždenie veriacich</lemma>
+    <lemma annotation="cirk.">stádo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jata</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стадо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зграя</lemma>
+    <lemma>стадо</lemma>
+    <lemma>орава</lemma>
+    <lemma>паства</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝafoj</lemma>
+    <lemma>komunumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herde</lemma>
+    <lemma>Gemeinde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>congregatie</lemma>
+  </synset>
+</multilingual-synset>

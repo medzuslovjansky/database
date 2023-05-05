@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="40"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="40" steen:pos="f." steen:type="1">glåva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>галава</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>глава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlava</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>глава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>głowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>голова</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlava</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>глава</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>голова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kapon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Haupt</lemma>
+    <lemma>Kopf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoofd</lemma>
+  </synset>
+</multilingual-synset>

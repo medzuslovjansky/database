@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="952"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="952" steen:pos="v.tr. ipf." steen:type="1">grabiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="граблямі">грэбці</lemma>
+    <lemma>грабаваць</lemma>
+    <lemma>падграбаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грабя</lemma>
+    <lemma>крада</lemma>
+    <lemma>обирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="listí">hrabat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grabljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грибла</lemma>
+    <lemma>гребе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. liście">grabić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="граблями">грести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="lístie">hrabať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rake</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грабуљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грести</lemma>
+    <lemma annotation="граблями">згрібати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rastilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>harken</lemma>
+  </synset>
+</multilingual-synset>

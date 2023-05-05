@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25123" steen:pos="adj." steen:type="2" steen:same="v pl">
+      darmovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дармовой</lemma>
+    <lemma>бясплатны</lemma>
+    <lemma>бязвыплатны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безплатен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezplatný</lemma>
+    <lemma>bezúplatný</lemma>
+    <lemma>neplacený</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>безомзднꙑй</lemma>
+    <lemma>безме́зднꙑй</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>besplatan</lemma>
+    <lemma>badava</lemma>
+    <lemma>džabe</lemma>
+    <lemma>džaba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бесплатен</lemma>
+    <lemma>слободен</lemma>
+    <lemma>гратис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>darmowy</lemma>
+    <lemma>bezpłatny</lemma>
+    <lemma>gratisowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дармовой</lemma>
+    <lemma>бесплатный</lemma>
+    <lemma>безвозмездный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezplatný</lemma>
+    <lemma>neplatený</lemma>
+    <lemma>bezodplatný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brezplačen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесплатан</lemma>
+    <lemma>слободан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>даровий</lemma>
+    <lemma>дармовий</lemma>
+    <lemma>безкоштовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senpaga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unentgeltlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gratis</lemma>
+  </synset>
+</multilingual-synset>

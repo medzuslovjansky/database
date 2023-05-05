@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30450"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30450" steen:pos="m." steen:type="1" steen:same="v sh bm">
+      råzsadnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="с/г">расаднік</lemma>
+    <lemma>рассаднік</lemma>
+    <lemma>гадавальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ясли-градини</lemma>
+    <lemma>семена диван</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahradní školka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasadnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расадник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łoże siewne</lemma>
+    <lemma>szkółka drzew</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассадник</lemma>
+    <lemma>питомник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záhradné škôlka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расадник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розсадник</lemma>
+    <lemma>розплідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infanvartejo-ĝardeno</lemma>
+    <lemma>semo-lito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kindergarten-Garten</lemma>
+    <lemma>Saatbeet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kweekbed</lemma>
+  </synset>
+</multilingual-synset>

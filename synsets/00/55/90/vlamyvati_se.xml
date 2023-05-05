@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5590"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5590"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v pl sk sl"
+    >
+      vlamyvati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>урывацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="за да обера">промъквам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlámávat se</lemma>
+    <lemma>vloupávat se</lemma>
+    <lemma>pronikat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>provaljivati</lemma>
+    <lemma>obijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>провалува</lemma>
+    <lemma>обива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>włamywać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вламываться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlámavať sa</lemma>
+    <lemma>prenikať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za počitek</lemma>
+    <lemma>rob</lemma>
+    <lemma>kradejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проваљивати</lemma>
+    <lemma>обијати</lemma>
+    <lemma>красти</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>уломлюватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rompi en</lemma>
+    <lemma>burgle</lemma>
+    <lemma annotation="en">haki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einbrechen</lemma>
+    <lemma>einbrechen</lemma>
+    <lemma annotation="in">hacken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inbreken</lemma>
+  </synset>
+</multilingual-synset>

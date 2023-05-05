@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17237"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17237" steen:pos="f." steen:type="2" steen:genesis="I">
+      dama
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шахматы">ферзь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шах">царица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">dáma</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dama</lemma>
+    <lemma annotation="šah">kraljica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дама</lemma>
+    <lemma annotation="шах">кралица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">królowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">ферзь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šach">dáma</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dama</lemma>
+    <lemma>kraljica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>краљица</lemma>
+    <lemma annotation="шах">дама</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">ферзь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">reĝino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Schach">Dame</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">dame</lemma>
+  </synset>
+</multilingual-synset>

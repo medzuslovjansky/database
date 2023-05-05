@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28288"
+      steen:addition="(natŕpi)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      natŕpěti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нацярпецца</lemma>
+    <lemma>нагаравацца</lemma>
+    <lemma annotation="напр. страху">набрацца</lemma>
+    <lemma annotation="нацярпецца бед">набедвацца</lemma>
+    <lemma annotation="нацярпецца голаду">вы́галадацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настрадам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natrpět se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>natrpeti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се натрпи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nacierpieć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>натерпеться</lemma>
+    <lemma>настрадаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>natrpieť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napolni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>натрпети се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>натерпітися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suferos multajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>leiden viel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veel lijden</lemma>
+  </synset>
+</multilingual-synset>

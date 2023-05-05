@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25860"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25860"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cz j"
+    >
+      grųdny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грудны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гръден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prsní</lemma>
+    <lemma>hrudní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grudni</lemma>
+    <lemma>prsni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>граден</lemma>
+    <lemma>градни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piersiowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грудной</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prsný</lemma>
+    <lemma>hrudný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prsi</lemma>
+    <lemma>prsi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грудни</lemma>
+    <lemma>прсни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грудний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pectorales</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brust</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>borstvinnen</lemma>
+  </synset>
+</multilingual-synset>

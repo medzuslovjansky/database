@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6973"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6973"
+      steen:addition="#(da)"
+      steen:pos="v.pf."
+      steen:type="1"
+    >
+      dati råbotų
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наняць</lemma>
+    <lemma>працаўладкаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наемам</lemma>
+    <lemma>давам работам вземам на работа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>najmout</lemma>
+    <lemma>zaměstnat</lemma>
+    <lemma>dát práci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unajmiti</lemma>
+    <lemma>zaposliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вработува</lemma>
+    <lemma>дава работа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatrudnić</lemma>
+    <lemma>nająć</lemma>
+    <lemma>dać pracę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нанять</lemma>
+    <lemma>трудоустроить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>najať</lemma>
+    <lemma>zamestnať</lemma>
+    <lemma>dať prácu</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>najeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>запослити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>найняти</lemma>
+    <lemma>працевлаштувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rekompencon por tio</lemma>
+    <lemma>dungado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mieten</lemma>
+    <lemma>beschäftigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tewerkstellen</lemma>
+    <lemma>in dienst nemen</lemma>
+  </synset>
+</multilingual-synset>

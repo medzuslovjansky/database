@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27286" steen:pos="m." steen:type="2" steen:same="v pl">
+      lom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лом</lemma>
+    <lemma>металалом</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скрап</lemma>
+    <lemma>метални отпадъци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odlomek</lemma>
+    <lemma>drť</lemma>
+    <lemma>drobný odpada</lemma>
+    <lemma>suť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lom</lemma>
+    <lemma>krš</lemma>
+    <lemma>nered</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лом</lemma>
+    <lemma>крш</lemma>
+    <lemma>отпад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odłamek</lemma>
+    <lemma>złom</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лом</lemma>
+    <lemma>металлолом</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drť</lemma>
+    <lemma>drobný odpad</lemma>
+    <lemma>suť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kovina">Kras</lemma>
+    <lemma>odpadne kovine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="метал">крш</lemma>
+    <lemma>старо гвожђе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peceto</lemma>
+    <lemma>forĵetaĵoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schrott</lemma>
+    <lemma>Schutt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schroot</lemma>
+  </synset>
+</multilingual-synset>

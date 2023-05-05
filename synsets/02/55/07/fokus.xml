@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25507"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25507"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v bg"
+      steen:genesis="I"
+    >
+      fokus
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фокус</lemma>
+    <lemma>трук</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>номер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trik</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trik</lemma>
+    <lemma>štos</lemma>
+    <lemma>smicalica</lemma>
+    <lemma>majstorija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sztuczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фокус</lemma>
+    <lemma>трюк</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трик</lemma>
+    <lemma>штос</lemma>
+    <lemma>смицалица</lemma>
+    <lemma>зачкољица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>трюк</lemma>
+    <lemma>фокус</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lertaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trick</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>truc</lemma>
+  </synset>
+</multilingual-synset>

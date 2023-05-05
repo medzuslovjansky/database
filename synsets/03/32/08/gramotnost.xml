@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33208" steen:pos="f." steen:type="1" steen:same="v cs bg">
+      gramotnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кампетэнтнасць</lemma>
+    <lemma>умельства</lemma>
+    <lemma>уменне</lemma>
+    <lemma>умеласць</lemma>
+    <lemma>здольнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компетентност</lemma>
+    <lemma>грамотност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>gramotnost</lemma>
+    <lemma>způsobilost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjerodavnost</lemma>
+    <lemma>nadležnost</lemma>
+    <lemma>kompetencija</lemma>
+    <lemma>kvalificiranost</lemma>
+    <lemma>osposobljenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>надлежност</lemma>
+    <lemma>компетентност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompetencja</lemma>
+    <lemma>fachowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грамотность</lemma>
+    <lemma>компетентность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gramotnosť</lemma>
+    <lemma>spôsobilosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pristojnost</lemma>
+    <lemma>pristojnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надлежност</lemma>
+    <lemma>компетентност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>компетенція</lemma>
+    <lemma>фаховість</lemma>
+    <lemma>грамотність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompetento</lemma>
+    <lemma>knowledgeability</lemma>
+    <lemma>elegibilidad</lemma>
+    <lemma>lerteco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kompetenz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>deskundigheid</lemma>
+    <lemma>vakkundigheid</lemma>
+    <lemma>bekwaamheid</lemma>
+    <lemma>competentie</lemma>
+  </synset>
+</multilingual-synset>

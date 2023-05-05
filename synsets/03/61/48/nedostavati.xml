@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36148"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36148"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="ru pl sb sh mk"
+    >
+      nedostavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бракаваць</lemma>
+    <lemma>неставаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>не достигам</lemma>
+    <lemma>липсвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nedostávat se</lemma>
+    <lemma>postrádat</lemma>
+    <lemma>nestačit</lemma>
+    <lemma>chybět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nedostajati</lemma>
+    <lemma>manjkati</lemma>
+    <lemma>faliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>недостига</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brakować</lemma>
+    <lemma>niedostawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>недоставать</lemma>
+    <lemma>не хватать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nedostávať sa</lemma>
+    <lemma>nestačiť</lemma>
+    <lemma>chýbať</lemma>
+    <lemma>postrádať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogrešati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>недостајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бракувати</lemma>
+    <lemma>не вистачати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mankas</lemma>
+    <lemma>mankus</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mangel</lemma>
+    <lemma>fehlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontbreken</lemma>
+  </synset>
+</multilingual-synset>

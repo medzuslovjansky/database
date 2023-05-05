@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20047"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20047"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v sh bm"
+    >
+      postojanny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сталы</lemma>
+    <lemma>увесьчасны</lemma>
+    <lemma>нязменны</lemma>
+    <lemma>заўсёдны</lemma>
+    <lemma>векавіты</lemma>
+    <lemma>шторазовы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>непрекъснат</lemma>
+    <lemma>стабилен</lemma>
+    <lemma>постоянен</lemma>
+    <lemma>постоянен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stálý</lemma>
+    <lemma>nepřetržitý</lemma>
+    <lemma>vytrvalý</lemma>
+    <lemma>neustálý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postojan</lemma>
+    <lemma>stalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постојан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieustanny</lemma>
+    <lemma>ciągły</lemma>
+    <lemma>permanentny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>постоянный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stále</lemma>
+    <lemma>nepretržité</lemma>
+    <lemma>vytrvalé</lemma>
+    <lemma>neustále</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stabilno</lemma>
+    <lemma>enakomerno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>постојан</lemma>
+    <lemma>непрекидан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>постійний</lemma>
+    <lemma>сталий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontinua</lemma>
+    <lemma>stabila</lemma>
+    <lemma>konstanta</lemma>
+    <lemma>konstanta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kontinuierliche</lemma>
+    <lemma>stetige</lemma>
+    <lemma>konstant bleib</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voortdurend</lemma>
+    <lemma>doorlopend</lemma>
+    <lemma>constant</lemma>
+    <lemma>permanent</lemma>
+  </synset>
+</multilingual-synset>

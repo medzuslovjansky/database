@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14120"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14120" steen:pos="v.tr. pf." steen:type="1">
+      zamglati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>засціць</lemma>
+    <lemma>атуманіць</lemma>
+    <lemma>замгліць</lemma>
+    <lemma>затуманіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замъгля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamlžit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zamagiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замагли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamglić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>затуманить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zahmliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamagiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замаглити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затуманити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nebulo</lemma>
+    <lemma>nebulo supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nebel</lemma>
+    <lemma>beschlagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mistig worden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33588"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33588" steen:pos="f." steen:type="1" steen:same="v sk j~">
+      kostěnka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="бот.">касцяніца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>костилка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>peckovice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koštunica</lemma>
+    <lemma>koštuničarka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коскено овошје</lemma>
+    <lemma annotation="род">слива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pestkowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="бот.">костянка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kôstkovica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vrsta rastline s Kosstunice">užitna semena</lemma>
+    <lemma annotation="vrsta rastline">kostna riba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="врста биљке са коштуницама">коштуница</lemma>
+    <lemma annotation="врста биљке">коштуњача</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кістянка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>drupa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drupe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>steenvrucht</lemma>
+  </synset>
+</multilingual-synset>

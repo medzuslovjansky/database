@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28232"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      nastrojiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>настроіць</lemma>
+    <lemma>наладзіць</lemma>
+    <lemma annotation="напр. прыёмнік">наставіць</lemma>
+    <lemma>навесці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настроя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="nástroj">naladit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ugoditi</lemma>
+    <lemma>uštimati</lemma>
+    <lemma>naštimati</lemma>
+    <lemma>namjestiti</lemma>
+    <lemma>pripasati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>настрои</lemma>
+    <lemma>подеси</lemma>
+    <lemma>нагоди</lemma>
+    <lemma>наштима</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="instrument">nastroić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="инструмент">настроить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="nástroj">naladiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nastrojiti</lemma>
+    <lemma>tune</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>настројити</lemma>
+    <lemma>наштимати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="інструмент">настроїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>melodio</lemma>
+    <lemma>melodio supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tune</lemma>
+    <lemma>tune up</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="muziekinstrument">stemmen</lemma>
+  </synset>
+</multilingual-synset>

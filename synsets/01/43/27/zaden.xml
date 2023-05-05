@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14327"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14327"
+      steen:addition="(žadna, žadno)"
+      steen:pos="pron.indef."
+      steen:type="2"
+    >
+      žaden
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дыял.">жадны</lemma>
+    <lemma>ніякі</lemma>
+    <lemma>аніякі</lemma>
+    <lemma>ніводзін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>никой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žádný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nijedan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>никој</lemma>
+    <lemma>ниеден</lemma>
+    <lemma>ништо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żaden</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>никакой</lemma>
+    <lemma>ни один</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žiaden</lemma>
+    <lemma>žiadny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ne</lemma>
+    <lemma>ne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ниједан</lemma>
+    <lemma>нико</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жоден</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>neniu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nein</lemma>
+    <lemma>keine</lemma>
+    <lemma>keine</lemma>
+    <lemma>nichts</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geen</lemma>
+    <lemma>geen enkele</lemma>
+  </synset>
+</multilingual-synset>

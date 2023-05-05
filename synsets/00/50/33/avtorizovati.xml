@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5033"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5033"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      avtorizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аўтарызаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>упълномощавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oprávnit</lemma>
+    <lemma>autorizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>autorizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авторизира</lemma>
+    <lemma>овласти</lemma>
+    <lemma>ополномошти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upoważniać</lemma>
+    <lemma>zezwalać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>авторизовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oprávniť</lemma>
+    <lemma>autorizovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odobriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ауторизовати</lemma>
+    <lemma>овластити</lemma>
+    <lemma>опуномоћити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>авторизувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rajtigi</lemma>
+    <lemma>permesi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>autorisieren</lemma>
+    <lemma>ermächtigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>autoriseren</lemma>
+  </synset>
+</multilingual-synset>

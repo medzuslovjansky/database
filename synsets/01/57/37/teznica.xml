@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15737"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15737" steen:pos="f." steen:type="5">tęžnica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазоўнік</lemma>
+    <lemma>пазоўца</lemma>
+    <lemma>заяўнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кандидатът</lemma>
+    <lemma>ищецът</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stěžovatelka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tužiteljica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тужителка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="osoba składająca skargę lub zażalenie">powód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заявитель</lemma>
+    <lemma>истец</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sťažovateľka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pritožnik je pritožnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жалилац</lemma>
+    <lemma>подносилац жалбе</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заявник</lemma>
+    <lemma>позивач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plendanto</lemma>
+    <lemma>akuzanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beschwerdeführer</lemma>
+    <lemma>Kläger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanklacht</lemma>
+    <lemma annotation="in rechtszaak">eis</lemma>
+  </synset>
+</multilingual-synset>

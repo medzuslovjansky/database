@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18080"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18080" steen:addition="(odmete)" steen:pos="v.tr. pf.">
+      odmesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змесці</lemma>
+    <lemma>прыбраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>помете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smést</lemma>
+    <lemma>odmést</lemma>
+    <lemma>zamést</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomesti</lemma>
+    <lemma>počistiti</lemma>
+    <lemma>ukloniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замете</lemma>
+    <lemma>зачисти</lemma>
+    <lemma>смете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmiesť</lemma>
+    <lemma>zamiesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odklop</lemma>
+    <lemma>jasno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одмести</lemma>
+    <lemma>почистити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>змісти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pereigos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wegfegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegvegen</lemma>
+  </synset>
+</multilingual-synset>

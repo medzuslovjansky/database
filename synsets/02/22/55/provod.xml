@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22255" steen:pos="m." steen:type="2" steen:same="ru pl">
+      provod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>такаправодная жыла</lemma>
+    <lemma>токаправодная жыла</lemma>
+    <lemma annotation="электр.">жыла</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="электр.">олово</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="elek.">vodič</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodič</lemma>
+    <lemma>provodnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="елек.">проводник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="elektr.">przewodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>токопроводящая жила</lemma>
+    <lemma annotation="электр.">жила</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="elek.">vodič</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проводник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>струмопровідна жила</lemma>
+    <lemma annotation="електр.">жила</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="Elec.">konduki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="elektr.">führen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="elektr.">geleider</lemma>
+  </synset>
+</multilingual-synset>

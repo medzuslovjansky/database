@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15957"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15957" steen:pos="m." steen:type="1" steen:genesis="I">
+      kompjuter
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камп&apos;ютар</lemma>
+    <lemma>кампутар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компютър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počítač</lemma>
+    <lemma>komputer</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompjutor</lemma>
+    <lemma>kompjuter</lemma>
+    <lemma>računalo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компјутер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komputer</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компьютер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>počítač</lemma>
+    <lemma>komputer</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>računalnik</lemma>
+    <lemma>računalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рачунар</lemma>
+    <lemma>компјутер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>комп&apos;ютер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komputilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Computer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>computer</lemma>
+  </synset>
+</multilingual-synset>

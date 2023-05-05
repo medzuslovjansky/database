@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6991"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6991"
+      steen:addition="(děje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      dějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здзяйсняць</lemma>
+    <lemma>дзейнічаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>действам</lemma>
+    <lemma>постъпвам</lemma>
+    <lemma>правя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jednat</lemma>
+    <lemma>působit</lemma>
+    <lemma>dít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>djelovati</lemma>
+    <lemma>činiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дејствува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>działać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совершать</lemma>
+    <lemma>действовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jednať</lemma>
+    <lemma>pôsobiť</lemma>
+    <lemma>diať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>delati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>деловати</lemma>
+    <lemma>радити</lemma>
+    <lemma>чинити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>діяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Handlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handelen</lemma>
+  </synset>
+</multilingual-synset>

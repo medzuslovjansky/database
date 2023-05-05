@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19838"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19838" steen:pos="m." steen:type="1" steen:genesis="I">
+      magazin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>часопіс</lemma>
+    <lemma>журнал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>списание</lemma>
+    <lemma annotation="ост.">журнал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>časopis</lemma>
+    <lemma>magazín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>magazin</lemma>
+    <lemma>revija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>магазин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czasopismo</lemma>
+    <lemma annotation="czasopismo">magazyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>журнал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>časopis</lemma>
+    <lemma>magazín</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>časopis</lemma>
+    <lemma>revijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>часопис</lemma>
+    <lemma>магазин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>журнал</lemma>
+    <lemma>часопис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>revuo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zeitschrift</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdschrift</lemma>
+  </synset>
+</multilingual-synset>

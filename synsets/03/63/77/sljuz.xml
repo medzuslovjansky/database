@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36377"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36377"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl bg"
+      steen:genesis="G"
+    >
+      šljuz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шлюз</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шлюз</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>splav</lemma>
+    <lemma>šlajsna</lemma>
+    <lemma>stavidlo</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>brana</lemma>
+    <lemma>ustava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="систем од брани на река или водни површини">
+      преводница
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śluza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шлюз</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>splav</lemma>
+    <lemma>priepust</lemma>
+    <lemma>stavadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezovi</lemma>
+    <lemma>ustava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>брана</lemma>
+    <lemma>устава</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шлюз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kluzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schleuse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sluis</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3192"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3192"
+      steen:addition="(dobųde)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      dobyti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здабыць</lemma>
+    <lemma>атрымаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>добивам</lemma>
+    <lemma>получавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nabýt</lemma>
+    <lemma>dostat</lemma>
+    <lemma>obdržet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dobiti</lemma>
+    <lemma>dobaviti</lemma>
+    <lemma>steći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доби</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nabyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>добыть</lemma>
+    <lemma>получить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadobudnúť</lemma>
+    <lemma>dostať</lemma>
+    <lemma>obdržať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dobiti</lemma>
+    <lemma>prejeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>добити</lemma>
+    <lemma>примити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>добути</lemma>
+    <lemma>отримати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ricevi</lemma>
+    <lemma>akiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erhalten</lemma>
+    <lemma>erhalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>krijgen</lemma>
+    <lemma>verkrijgen</lemma>
+  </synset>
+</multilingual-synset>

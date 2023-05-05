@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18465"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18465"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl~ cs sh~"
+    >
+      pridatȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыдатак</lemma>
+    <lemma>дадатак</lemma>
+    <lemma>дапаўненне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>допълнение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přidání</lemma>
+    <lemma>přídavek</lemma>
+    <lemma>dodatek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dodatak</lemma>
+    <lemma>dopuna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дополнение</lemma>
+    <lemma>прилог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dodatek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>придаток</lemma>
+    <lemma>дополнение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pridanie</lemma>
+    <lemma>prídavok</lemma>
+    <lemma>dodatok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poleg tega dodatek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>додатак</lemma>
+    <lemma>допуна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>додаток</lemma>
+    <lemma>доповнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Krome</lemma>
+    <lemma>aldoni-sur</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zusatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevoeging</lemma>
+  </synset>
+</multilingual-synset>

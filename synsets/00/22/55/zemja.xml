@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2255" steen:pos="f." steen:type="1" steen:same="v z j">
+      zemja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зямля</lemma>
+    <lemma>грунт</lemma>
+    <lemma>глеба</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>земя</lemma>
+    <lemma>почва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>země</lemma>
+    <lemma>půda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemlja</lemma>
+    <lemma>tlo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земја</lemma>
+    <lemma>почва</lemma>
+    <lemma>тло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ziemia</lemma>
+    <lemma>gleba</lemma>
+    <lemma>grunt</lemma>
+    <lemma>ląd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>земля</lemma>
+    <lemma>грунт</lemma>
+    <lemma>почва</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>krajiny</lemma>
+    <lemma>pôda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zemlja</lemma>
+    <lemma>zemlja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земља</lemma>
+    <lemma>тло</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>земля</lemma>
+    <lemma>грунт</lemma>
+    <lemma>грунт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tero</lemma>
+    <lemma>tero</lemma>
+    <lemma>tero</lemma>
+    <lemma>tero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erde</lemma>
+    <lemma>Boden</lemma>
+    <lemma>Boden</lemma>
+    <lemma>Land</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aarde</lemma>
+    <lemma>grond</lemma>
+    <lemma>bodem</lemma>
+  </synset>
+</multilingual-synset>

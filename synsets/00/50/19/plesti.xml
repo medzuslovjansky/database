@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5019"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5019"
+      steen:addition="(plete)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      plesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>плесці</lemma>
+    <lemma>верзці</lemma>
+    <lemma>плямпаць</lemma>
+    <lemma>вярзці</lemma>
+    <lemma>плявузгаць</lemma>
+    <lemma>заплятаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Spit</lemma>
+    <lemma>да плетат</lemma>
+    <lemma>да тъкат</lemma>
+    <lemma>да тъкат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plést</lemma>
+    <lemma>splétat</lemma>
+    <lemma>zaplétat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pleść</lemma>
+    <lemma annotation="włosy">zaplatać</lemma>
+    <lemma>robić na drutach</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плести</lemma>
+    <lemma>заплетать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pliesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pleti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>плести</lemma>
+    <lemma>заплітати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brokato</lemma>
+    <lemma>triki</lemma>
+    <lemma>plait</lemma>
+    <lemma>ŝtofo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geflecht</lemma>
+    <lemma>stricken</lemma>
+    <lemma>flechten</lemma>
+    <lemma>weben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlechten</lemma>
+    <lemma>weven</lemma>
+  </synset>
+</multilingual-synset>

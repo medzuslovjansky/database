@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10828"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10828"
+      steen:pos="conj."
+      steen:type="2"
+      steen:same="ru uk z"
+    >
+      poka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакуль</lemma>
+    <lemma>покі</lemma>
+    <lemma>покуль</lemma>
+    <lemma>у той час як</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>въпреки че</lemma>
+    <lemma>доколкото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatím</lemma>
+    <lemma>zatímco</lemma>
+    <lemma>pokud</lemma>
+    <lemma>dokud</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dok</lemma>
+    <lemma>sve dok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>додека</lemma>
+    <lemma>до</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dopóki</lemma>
+    <lemma>póki</lemma>
+    <lemma>aż nie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пока</lemma>
+    <lemma>покуда</lemma>
+    <lemma>в то время как</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zatiaľ</lemma>
+    <lemma>zatiaľ čo</lemma>
+    <lemma>kým</lemma>
+    <lemma>ak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ker</lemma>
+    <lemma>dokler</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>док</lemma>
+    <lemma>све док</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поки</lemma>
+    <lemma>доки</lemma>
+    <lemma>допоки</lemma>
+    <lemma>аж поки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dum</lemma>
+    <lemma>kiom</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>während</lemma>
+    <lemma>so weit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zolang</lemma>
+  </synset>
+</multilingual-synset>

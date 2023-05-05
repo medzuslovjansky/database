@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20872"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20872"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kaligrafija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каліграфія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>краснопис</lemma>
+    <lemma>калиграфия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kaligrafie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kaligrafija</lemma>
+    <lemma>krasopis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>калиграфија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kaligrafia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каллиграфия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kaligrafia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kaligrafija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>калиграфија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>каліграфія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaligrafio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kalligraphie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kalligrafie</lemma>
+  </synset>
+</multilingual-synset>

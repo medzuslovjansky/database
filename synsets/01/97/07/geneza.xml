@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19707"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19707" steen:pos="f." steen:type="1" steen:genesis="I">
+      geneza
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>генезіс</lemma>
+    <lemma>паходжанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>генезис</lemma>
+    <lemma>произход</lemma>
+    <lemma>начало</lemma>
+    <lemma annotation="първата книга на Стария завет">книга Битие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>geneze</lemma>
+    <lemma>původ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>geneza</lemma>
+    <lemma>nastanak</lemma>
+    <lemma>postanak</lemma>
+    <lemma>postajanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>генеза</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>geneza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>генезис</lemma>
+    <lemma>происхождение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>genéza</lemma>
+    <lemma>pôvod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>genesis</lemma>
+    <lemma>izvor</lemma>
+    <lemma>rojstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>генеза</lemma>
+    <lemma>постанак</lemma>
+    <lemma>рађање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>походження</lemma>
+    <lemma>генезис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>genezo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Genesis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genese</lemma>
+  </synset>
+</multilingual-synset>

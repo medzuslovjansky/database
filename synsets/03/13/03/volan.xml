@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31303"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31303" steen:pos="m." steen:type="2" steen:same="v bg">
+      volan
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валан</lemma>
+    <lemma>бадмінтон</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>волан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pérák</lemma>
+    <lemma>badmintonový míček</lemma>
+    <lemma>košík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>loptica za badminton</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>волан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do badmintona">lotka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>волан</lemma>
+    <lemma>бадминтон</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pérák</lemma>
+    <lemma>badmintonový loptička</lemma>
+    <lemma>košík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Žogic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лоптица за бадминтон</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>волан</lemma>
+    <lemma>бадмінтон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>shuttlecock</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Federball</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="badminton">shuttle</lemma>
+  </synset>
+</multilingual-synset>

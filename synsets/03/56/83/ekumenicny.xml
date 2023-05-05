@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35683"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35683"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      ekumeničny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>экуменічны</lemma>
+    <lemma>сусветны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вселенски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ekumenický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ekumenski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>екуменски</lemma>
+    <lemma>вселенски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ekumeniczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экуменический</lemma>
+    <lemma>вселенский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ekumenický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ekumenski</lemma>
+    <lemma>Ekumenski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>екуменски</lemma>
+    <lemma>васељенски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>екуменичний</lemma>
+    <lemma>вселенський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekumenaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ökumenisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oecumenisch</lemma>
+  </synset>
+</multilingual-synset>

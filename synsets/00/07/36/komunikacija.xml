@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="736"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="736" steen:pos="f." steen:type="1" steen:genesis="I">
+      komunikacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камунікацыя</lemma>
+    <lemma>сувязь</lemma>
+    <lemma>зносіны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>общение</lemma>
+    <lemma>комуникация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>komunikace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>komunikacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>комуникација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komunikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>коммуникация</lemma>
+    <lemma>связь</lemma>
+    <lemma>общение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>komunikácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>komunikacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>комуникација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спілкування</lemma>
+    <lemma>комунікація</lemma>
+    <lemma>зв&apos;язок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komunikado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kommunikation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>communicatie</lemma>
+  </synset>
+</multilingual-synset>

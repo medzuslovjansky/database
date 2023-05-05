@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34637"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34637"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      smažiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смажыць</lemma>
+    <lemma>скварыць</lemma>
+    <lemma>пекчы</lemma>
+    <lemma>пражыць</lemma>
+    <lemma>пячы</lemma>
+    <lemma>прэгчы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пържа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smažit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pržiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пржи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smażyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жарить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>smažiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>cvreti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пржити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>смажити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>friti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>braten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bakken</lemma>
+  </synset>
+</multilingual-synset>

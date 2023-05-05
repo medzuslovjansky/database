@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20065"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20065" steen:pos="adv." steen:type="1">
+      prědpoložiteljno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>меркавана</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предполага се</lemma>
+    <lemma>твърди</lemma>
+    <lemma>че</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravděpodobně</lemma>
+    <lemma>údajně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjerojatno</lemma>
+    <lemma>valjda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>веројатно</lemma>
+    <lemma>наводно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypuszczalnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предположительно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pravdepodobne</lemma>
+    <lemma>údajne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Verjetno</lemma>
+    <lemma>verjetno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вероватно</lemma>
+    <lemma>по свој прилици</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>імовірно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supozeble</lemma>
+    <lemma>supozeble</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vermutlich</lemma>
+    <lemma>angeblich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermoedelijk</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8103"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8103" steen:pos="v.tr. pf." steen:type="1">
+      izråbotati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпрацаваць</lemma>
+    <lemma>вырабіць</lemma>
+    <lemma>распрацаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изработя</lemma>
+    <lemma>произведа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyrobit</lemma>
+    <lemma>vypracovat</lemma>
+    <lemma>vytvořit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>proizvesti</lemma>
+    <lemma>izraditi</lemma>
+    <lemma>stvoriti</lemma>
+    <lemma>formirati</lemma>
+    <lemma>napraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изработи</lemma>
+    <lemma>направи</lemma>
+    <lemma>произведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypracować</lemma>
+    <lemma>opracować</lemma>
+    <lemma>wytworzyć</lemma>
+    <lemma>wyprodukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выработать</lemma>
+    <lemma>изготовить</lemma>
+    <lemma>произвести</lemma>
+    <lemma>разработать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyrobiť</lemma>
+    <lemma>vypracovať</lemma>
+    <lemma>vytvoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizvajajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>произвести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виробити</lemma>
+    <lemma>виготовити</lemma>
+    <lemma>розробити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>produktajxojn</lemma>
+    <lemma>fabrikado</lemma>
+    <lemma annotation="tr.">evoluigi</lemma>
+    <lemma>inĝeniero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>produzieren</lemma>
+    <lemma>produzieren</lemma>
+    <lemma annotation="tr.">entwickeln</lemma>
+    <lemma>Ingenieur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitwerken</lemma>
+  </synset>
+</multilingual-synset>

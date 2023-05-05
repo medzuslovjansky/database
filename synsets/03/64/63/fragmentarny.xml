@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36463"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36463"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      fragmentarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фрагментарны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фрагментарен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fragmentární</lemma>
+    <lemma>zlomkovitý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fragmentaran</lemma>
+    <lemma>djelomičan</lemma>
+    <lemma>nepotpun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фрагментарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fragmentaryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фрагментарный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fragmentárny</lemma>
+    <lemma>čiastkový</lemma>
+    <lemma>zlomkovitý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fragmentarna</lemma>
+    <lemma>delni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фрагментован</lemma>
+    <lemma>делимичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фрагментарний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fragmentaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fragmentarisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fragmentarisch</lemma>
+  </synset>
+</multilingual-synset>

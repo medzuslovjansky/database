@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36911"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36911" steen:pos="m." steen:type="1" steen:same="v pl j">
+      spektakl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спектакль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>спектакъл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="divadlo">představení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spektakl</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спектакл</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spektakl</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спектакль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="divadlo">predstavenie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>spektakel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спектакл</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спектакль</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spektaklo</lemma>
+    <lemma annotation="teatro">prezentado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spektakel</lemma>
+    <lemma annotation="Theater">Performance</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorstelling</lemma>
+    <lemma>toneelstuk</lemma>
+  </synset>
+</multilingual-synset>

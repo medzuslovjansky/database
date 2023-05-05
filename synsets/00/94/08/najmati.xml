@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9408" steen:pos="v.tr. ipf." steen:type="1">najmati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наймаць</lemma>
+    <lemma>арандаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наемам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>najímat si</lemma>
+    <lemma>pronajímat si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznajmljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изнајмува</lemma>
+    <lemma>закупува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>najmować</lemma>
+    <lemma annotation="od kogoś">wynajmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нанимать</lemma>
+    <lemma>арендовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>najímať si</lemma>
+    <lemma>prenajímať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>najem</lemma>
+    <lemma>najem</lemma>
+    <lemma>vzeti v najem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изнајмљивати</lemma>
+    <lemma>најмити</lemma>
+    <lemma>узимати у најам</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наймати</lemma>
+    <lemma>орендувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dungi</lemma>
+    <lemma annotation="de SBD.">lui</lemma>
+    <lemma>luado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mieten</lemma>
+    <lemma>vermieten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29626" steen:pos="n." steen:type="1" steen:same="ru cs j">
+      oskvŕnjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апаганенне</lemma>
+    <lemma>паганенне</lemma>
+    <lemma>апаганьванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>desecretion</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znesvěcení</lemma>
+    <lemma>poskvrnění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oskvrnjivanje</lemma>
+    <lemma>skvrnjenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>осквернавување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbezczeszczenie</lemma>
+    <lemma>świętokradztwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осквернение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znesvätenie</lemma>
+    <lemma>poškvrnenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oskrunjene</lemma>
+    <lemma annotation="sl.">očrnitve</lemma>
+    <lemma annotation="sl.">obrekovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оскрнављење</lemma>
+    <lemma annotation="фиг.">каљање</lemma>
+    <lemma annotation="фиг.">блаћење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осквернення</lemma>
+    <lemma>збезчещення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desecretion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>desecretion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezoedeling</lemma>
+    <lemma>ontheiliging</lemma>
+  </synset>
+</multilingual-synset>

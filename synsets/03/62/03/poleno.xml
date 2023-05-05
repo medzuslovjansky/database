@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36203"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z sl mk"
+    >
+      polěno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>палена</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дневник</lemma>
+    <lemma>голяма част дърва за огрев</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poleno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cjepanica</lemma>
+    <lemma>klada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>полено</lemma>
+    <lemma>цепеница</lemma>
+    <lemma>суровица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>polano</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полено</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poleno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Dnevnik</lemma>
+    <lemma>dnevniki</lemma>
+    <lemma>les</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>полено</lemma>
+    <lemma>цепаница</lemma>
+    <lemma>клада</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поліно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtipo</lemma>
+    <lemma>grandan pecon de brulligno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einzuloggen</lemma>
+    <lemma>großes Stück Brennholz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>houtblok</lemma>
+  </synset>
+</multilingual-synset>

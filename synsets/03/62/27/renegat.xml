@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36227"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36227"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      renegat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэнегат</lemma>
+    <lemma>здраднік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ренегат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>renegát</lemma>
+    <lemma>odpadlík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odmetnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ренгант</lemma>
+    <lemma>отпадник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>renegat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ренегат</lemma>
+    <lemma>изменник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>renegát</lemma>
+    <lemma>odpadlík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpadnik</lemma>
+    <lemma>prebežnik</lemma>
+    <lemma>Odmetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпадник</lemma>
+    <lemma>пребег</lemma>
+    <lemma>одметник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ренегат</lemma>
+    <lemma>зрадник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>renegato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Renegat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>renegaat</lemma>
+  </synset>
+</multilingual-synset>

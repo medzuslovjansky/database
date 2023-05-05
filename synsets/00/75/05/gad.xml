@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7505"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7505"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cs sb sl"
+    >
+      gad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змяя</lemma>
+    <lemma>вужака</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>змия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>had</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>гадъ</lemma>
+    <lemma>змии</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zmija</lemma>
+    <lemma>guja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гад</lemma>
+    <lemma>змија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wąż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>змея</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>had</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kača</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>змија</lemma>
+    <lemma>гуја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>змія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>serpenton</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schlange</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slang</lemma>
+  </synset>
+</multilingual-synset>

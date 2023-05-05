@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2905"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2905"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđan
+    </lemma>
+    <lemma
+      steen:id="2905"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđanin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грамадзянін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гражданин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>občan</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>građanin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>граѓанин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obywatel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гражданин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>občan</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>državljan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грађанин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>громадянин</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>civitano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bürger</lemma>
+    <lemma>Städter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>burger</lemma>
+  </synset>
+</multilingual-synset>

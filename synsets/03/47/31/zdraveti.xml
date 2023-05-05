@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34731"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34731" steen:pos="v.intr. ipf." steen:type="1">
+      zdråvěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здаравець</lemma>
+    <lemma>ачуньваць</lemma>
+    <lemma>папраўляцца</lemma>
+    <lemma>выздараўліваць</lemma>
+    <lemma>здаравець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оздравявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzdravovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poboljšati se</lemma>
+    <lemma>oporaviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оздравува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdrowieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>здороветь</lemma>
+    <lemma>выздоравливать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uzdravovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdraviti</lemma>
+    <lemma>izterja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>здравити</lemma>
+    <lemma>опорављати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>здоровіти</lemma>
+    <lemma>видужувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>saniĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>besser</lemma>
+    <lemma annotation="von einer Krankheit">erholen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="na ziekte">herstellen</lemma>
+    <lemma annotation="na ziekte">beter worden</lemma>
+  </synset>
+</multilingual-synset>

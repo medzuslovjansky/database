@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21019"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21019"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      poprěčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярочны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>през напречното</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příčný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poprečan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>попречен</lemma>
+    <lemma>напречен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprzeczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поперечный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>priečny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prečna</lemma>
+    <lemma>širina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>попречан</lemma>
+    <lemma>попрек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поперечний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kruce</lemma>
+    <lemma>transversa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>quer</lemma>
+    <lemma>Quer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dwars</lemma>
+    <lemma>kruiselings</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17717"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17717" steen:pos="f." steen:type="3" steen:same="sh mk">
+      kupoprodaž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>купля-продаж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>договор за покупка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kupní smlouva</lemma>
+    <lemma>koupě-prodej</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kupoprodaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>купопродажба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umowa kupna-sprzedaży</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>купля-продажа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kúpna zmluva</lemma>
+    <lemma>kúpa-predaj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nakup in prodaja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>купопродаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>купівля-продаж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aĉetinterkonsento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kaufvertrag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koopovereenkomst</lemma>
+  </synset>
+</multilingual-synset>

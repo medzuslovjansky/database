@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36357"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36357"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      domenno imę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даменнае імя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>име на домейн</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doménové jméno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naziv domene</lemma>
+    <lemma>ime domene</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>име на домен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nazwa domeny internetowej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доменное имя</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>doménové meno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>domena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>назив домена</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доменне ім&apos;я</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>domajna nomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Domain-Namen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>domeinnaam</lemma>
+  </synset>
+</multilingual-synset>

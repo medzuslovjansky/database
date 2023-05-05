@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20942"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20942"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      opekun
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апякун</lemma>
+    <lemma>давераная асоба</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>управител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>správce</lemma>
+    <lemma>opatrovník</lemma>
+    <lemma>pověřenec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjerenik</lemma>
+    <lemma>punomoćnik</lemma>
+    <lemma>opunomoćenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>застапник</lemma>
+    <lemma>повереник</lemma>
+    <lemma>управник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiernik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>попечитель</lemma>
+    <lemma>доверенное лицо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>správca</lemma>
+    <lemma>opatrovník</lemma>
+    <lemma>povereník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrbnik</lemma>
+    <lemma>odvetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повереник</lemma>
+    <lemma>пуномоћник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опікун</lemma>
+    <lemma>довірена особа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuratoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Treuhänder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>curator</lemma>
+  </synset>
+</multilingual-synset>

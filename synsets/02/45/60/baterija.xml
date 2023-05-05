@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24560"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24560" steen:pos="f." steen:type="1" steen:genesis="I">
+      baterija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>батарэя</lemma>
+    <lemma>батарэйка</lemma>
+    <lemma>акумулятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>батерия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>baterie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>baterija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бактерија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bateria</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>батарея</lemma>
+    <lemma>батарейка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>batéria</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>baterija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>батерија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>батарея</lemma>
+    <lemma>акумулятор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baterio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Batterie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>batterij</lemma>
+  </synset>
+</multilingual-synset>

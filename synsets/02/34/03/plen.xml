@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23403"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23403"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs yu mk (pl)"
+    >
+      plen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здабыча</lemma>
+    <lemma>здобыч</lemma>
+    <lemma>здабыццё</lemma>
+    <lemma>трафей</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>попой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lup</lemma>
+    <lemma>plen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plijen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łup</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>добыча</lemma>
+    <lemma>трофей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lup</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здобич</lemma>
+    <lemma>трофей</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>boteto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beute</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buit</lemma>
+  </synset>
+</multilingual-synset>

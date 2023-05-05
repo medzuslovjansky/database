@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21609" steen:pos="m." steen:type="2" steen:same="pl sh">
+      urok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загавор</lemma>
+    <lemma>заклінанне</lemma>
+    <lemma>чары</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чар</lemma>
+    <lemma>обаяние на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kouzlo</lemma>
+    <lemma>zaklínadlo</lemma>
+    <lemma>čáry</lemma>
+    <lemma>uřknutí</lemma>
+    <lemma annotation="zast. ourok">úrok</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>urok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>урок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czary">urok</lemma>
+    <lemma>zaklęcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заклинание</lemma>
+    <lemma>чары</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kúzlo</lemma>
+    <lemma>zaklínadlo</lemma>
+    <lemma>čary</lemma>
+    <lemma>urieknutie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>urok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>урок</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заклинання</lemma>
+    <lemma>чари</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉarmo</lemma>
+    <lemma>sorĉo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Charme</lemma>
+    <lemma>Zauber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>betovering</lemma>
+  </synset>
+</multilingual-synset>

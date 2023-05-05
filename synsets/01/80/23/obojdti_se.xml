@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18023"
+      steen:addition="(obȯjde; obšel)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      obȯjdti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абысціся</lemma>
+    <lemma annotation="з кім-небудзь">павесціся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се управлява</lemma>
+    <lemma>да се обработва</lemma>
+    <lemma>за да направите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obejít se</lemma>
+    <lemma>zvádnout</lemma>
+    <lemma>vyrovnat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snaći se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се помине</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obejść się</lemma>
+    <lemma>poradzić sobie</lemma>
+    <lemma>dać sobie radę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обойтись</lemma>
+    <lemma annotation="с кем-либо">поступить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obísť sa</lemma>
+    <lemma>zvädnúť</lemma>
+    <lemma>vyrovnať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>upravljam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снаћи се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обійтися</lemma>
+    <lemma annotation="з ким-небудь">повестися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>administri</lemma>
+    <lemma>fari fari kun</lemma>
+    <lemma>ricevas per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwalten</lemma>
+    <lemma>mit dem auskommen</lemma>
+    <lemma>erhalten durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich redden met</lemma>
+  </synset>
+</multilingual-synset>

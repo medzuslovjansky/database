@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23881"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23881" steen:pos="adj." steen:type="2" steen:same="ru j">
+      neodložny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неадкладны</lemma>
+    <lemma>безадкладны</lemma>
+    <lemma>тэрміновы</lemma>
+    <lemma>спешны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неотложен</lemma>
+    <lemma>спешен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neodkladný</lemma>
+    <lemma>naléhavý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neodlpžan</lemma>
+    <lemma>hitan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неодложен</lemma>
+    <lemma>итен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pilny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неотложный</lemma>
+    <lemma>срочный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neodkladný</lemma>
+    <lemma>naliehavý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neodlpžan</lemma>
+    <lemma>nujno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неодложан</lemma>
+    <lemma>хитан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невідкладний</lemma>
+    <lemma>терміновий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>urĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dringend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>urgent</lemma>
+    <lemma>dringend</lemma>
+  </synset>
+</multilingual-synset>

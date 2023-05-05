@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32112" steen:pos="m." steen:type="1" steen:genesis="I">
+      simptom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сімптом</lemma>
+    <lemma>азнака</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>симптом</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>symptom</lemma>
+    <lemma>příznak</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>simptom</lemma>
+    <lemma>obilježje</lemma>
+    <lemma annotation="fig.">predznak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>симптом</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>symptom</lemma>
+    <lemma>objaw</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>симптом</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>symptóm</lemma>
+    <lemma>príznak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>simptom</lemma>
+    <lemma>spomenik</lemma>
+    <lemma>znamenje (slika).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>симптом</lemma>
+    <lemma>обележје</lemma>
+    <lemma annotation="фиг.">предзнак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>симптом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>simptomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Symptom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>symptoom</lemma>
+  </synset>
+</multilingual-synset>

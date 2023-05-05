@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22416"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22416"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      vvoziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>увозіць</lemma>
+    <lemma>імпартаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>внасям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dovážet</lemma>
+    <lemma>importovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uvoziti</lemma>
+    <lemma>importirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увезува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>importować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ввозить</lemma>
+    <lemma>импортировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dovážať</lemma>
+    <lemma>importovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uvoz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увозити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ввозити</lemma>
+    <lemma>імпортувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>importado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>importieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invoeren</lemma>
+    <lemma>importeren</lemma>
+  </synset>
+</multilingual-synset>

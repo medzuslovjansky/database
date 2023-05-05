@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20345"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20345" steen:pos="adj." steen:type="2" steen:same="ru pl">
+      běgly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>беглы</lemma>
+    <lemma annotation="аб гаворкі">свабодны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свободно владеещ даден език</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plynulý</lemma>
+    <lemma>plynný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tečan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>течен</lemma>
+    <lemma>човек што течно зборува</lemma>
+    <lemma>речит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biegły</lemma>
+    <lemma>płynny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беглый</lemma>
+    <lemma annotation="о речи">свободный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plynulý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tekoč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. говор">течан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fluaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>redeflüssig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vloeiend</lemma>
+    <lemma>vlot</lemma>
+  </synset>
+</multilingual-synset>

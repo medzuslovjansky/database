@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26296"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26296" steen:pos="adj." steen:type="1" steen:same="v z j">
+      jalovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>яловы</lemma>
+    <lemma annotation="пра жывёл">бясплодны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стерилен</lemma>
+    <lemma>ялов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jalový</lemma>
+    <lemma>neplodný</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>непло́днꙑй</lemma>
+    <lemma>ꙗлов</lemma>
+    <lemma>безпло́днꙑй</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jalov</lemma>
+    <lemma>neplodan</lemma>
+    <lemma>sterilan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јалов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezpłodny</lemma>
+    <lemma>jałowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>яловый</lemma>
+    <lemma annotation="о животных">бесплодный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jalový</lemma>
+    <lemma>neplodný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jalovo</lemma>
+    <lemma>brezplodno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јалов</lemma>
+    <lemma>неплодан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>яловий</lemma>
+    <lemma>стерильний</lemma>
+    <lemma annotation="про тварин">безплідний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="besto">sterila</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Tier">steriles</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvruchtbaar</lemma>
+    <lemma annotation="dier">steriel</lemma>
+  </synset>
+</multilingual-synset>

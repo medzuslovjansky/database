@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33625"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33625"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zagladiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разгладзіць</lemma>
+    <lemma>распрасаваць</lemma>
+    <lemma>пагладзіць</lemma>
+    <lemma>папрасаваць</lemma>
+    <lemma>згладзіць</lemma>
+    <lemma>спрасаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>загладя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyžehlit</lemma>
+    <lemma>vyhladit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgladiti</lemma>
+    <lemma>ispeglati</lemma>
+    <lemma>izglačati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измазни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wygładzić</lemma>
+    <lemma>wyprasować</lemma>
+    <lemma>zaprasować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разгладить</lemma>
+    <lemma>погладить</lemma>
+    <lemma>сгладить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyžehliť</lemma>
+    <lemma>vyhladiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zglajena</lemma>
+    <lemma>železo</lemma>
+    <lemma>zlikane</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изгладити</lemma>
+    <lemma>испеглати</lemma>
+    <lemma>изглачати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>розгладити</lemma>
+    <lemma>погладити</lemma>
+    <lemma>згладити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fero</lemma>
+    <lemma>mildigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eisen</lemma>
+    <lemma>glätten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">strijken</lemma>
+    <lemma>gladstrijken</lemma>
+  </synset>
+</multilingual-synset>

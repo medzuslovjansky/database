@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1375"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1375" steen:pos="m." steen:type="2" steen:genesis="I">
+      servis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сэрвіс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>услуги</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>servis</lemma>
+    <lemma>služba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>servis</lemma>
+    <lemma>usluga</lemma>
+    <lemma>posluživanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>услуга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>serwis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сервис</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>servis</lemma>
+    <lemma>služba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ponudnik storitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сервис</lemma>
+    <lemma>услуга</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сервіс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>servo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bedienung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>service</lemma>
+    <lemma>onderhoud</lemma>
+  </synset>
+</multilingual-synset>

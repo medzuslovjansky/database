@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35667"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35667" steen:pos="m.anim." steen:type="1">
+      prědložitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аўтар прапановы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>автора</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navrhovatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predlagač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предлагач</lemma>
+    <lemma>предложувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wnioskodawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>автор предложения</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>navrhovateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zagovornik</lemma>
+    <lemma>dobavitelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предлагач</lemma>
+    <lemma>понуђач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>той, що пропонує</lemma>
+    <lemma>автор пропозиції</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>proponente</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Antragsteller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorsteller</lemma>
+  </synset>
+</multilingual-synset>

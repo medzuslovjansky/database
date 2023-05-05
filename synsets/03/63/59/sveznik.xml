@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36359"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36359" steen:pos="m.">svęznik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">злучнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="грам.">съюз</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">spojka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>veznik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="грам.">сврзник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spójnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">союз</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">spojka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>veznik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="грам.">везник</lemma>
+    <lemma annotation="грам.">свезица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сполучник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gramatiko">kune</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bindewort</lemma>
+    <lemma>Konjunktion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voegwoord</lemma>
+  </synset>
+</multilingual-synset>

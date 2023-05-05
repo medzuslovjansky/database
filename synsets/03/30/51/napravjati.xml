@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33051"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33051"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      napravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпраўляць</lemma>
+    <lemma>рамантаваць</lemma>
+    <lemma>папраўляць</lemma>
+    <lemma>карэктаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>направлявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napravovat</lemma>
+    <lemma>opravovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popravljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поправа</lemma>
+    <lemma>оправа</lemma>
+    <lemma>исправа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naprawiać</lemma>
+    <lemma>reperować</lemma>
+    <lemma>korygować</lemma>
+    <lemma>zadośćuczyniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>направлять</lemma>
+    <lemma>ремонтировать</lemma>
+    <lemma>чинить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naprávať</lemma>
+    <lemma>opravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naredi dobro</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>направити добро</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправляти</lemma>
+    <lemma>лагодити</lemma>
+    <lemma>корегувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korekta</lemma>
+    <lemma>ripari</lemma>
+    <lemma>aro Bone</lemma>
+    <lemma>ŝminko bona</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>richtig</lemma>
+    <lemma>Reparatur</lemma>
+    <lemma>Set rechts</lemma>
+    <lemma>machen gute</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herstellen</lemma>
+    <lemma>corrigeren</lemma>
+    <lemma>repareren</lemma>
+  </synset>
+</multilingual-synset>

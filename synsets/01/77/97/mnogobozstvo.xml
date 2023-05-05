@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17797"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17797" steen:pos="n.sg." steen:type="1">
+      mnogobožstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>політэізм</lemma>
+    <lemma>шматбожжа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>многобожие</lemma>
+    <lemma>политеизъм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mnohobožství</lemma>
+    <lemma>polyteismus</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mnogoboštvo</lemma>
+    <lemma>politeizam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>многубоштво</lemma>
+    <lemma>политеизам</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>politeizm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>политеизм</lemma>
+    <lemma>многобожие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mnohobožstvo</lemma>
+    <lemma>polyteizmus</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mnogožje</lemma>
+    <lemma annotation="arch.">politeizem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>многожје</lemma>
+    <lemma annotation="арх.">многобоштво</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>політеїзм</lemma>
+    <lemma>багатобожжя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>politeismo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Polytheismus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>polytheïsme</lemma>
+  </synset>
+</multilingual-synset>

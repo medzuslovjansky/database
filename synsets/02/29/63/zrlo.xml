@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22963"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22963" steen:pos="n." steen:type="2" steen:same="ru yu">
+      žrlo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кратар</lemma>
+    <lemma>кратэр</lemma>
+    <lemma>жарало</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ждрело</lemma>
+    <lemma>кратер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kráter</lemma>
+    <lemma>jícen</lemma>
+    <lemma>hltan</lemma>
+    <lemma annotation="zbraň">ústí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ždrijelo</lemma>
+    <lemma>krater</lemma>
+    <lemma>otvor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ждрело</lemma>
+    <lemma>муцка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krater</lemma>
+    <lemma annotation="broń">wylot lufy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кратер</lemma>
+    <lemma>жерло</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kráter</lemma>
+    <lemma>pažerák</lemma>
+    <lemma>hltan</lemma>
+    <lemma>prieduch</lemma>
+    <lemma annotation="u strelných zbraní">hlaveň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>krater</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ждрело</lemma>
+    <lemma>кратер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жерло</lemma>
+    <lemma>кратер</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kratero</lemma>
+    <lemma annotation="anatomie kaj ĉe pafiloj">faŭko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Krater</lemma>
+    <lemma annotation="Pistole">Maulkorb</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>krater</lemma>
+    <lemma annotation="geweer">loop</lemma>
+  </synset>
+</multilingual-synset>

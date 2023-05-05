@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36707"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36707"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru uk j"
+    >
+      sųbesědnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суразмоўца</lemma>
+    <lemma>суразмоўнік</lemma>
+    <lemma>сумоўца</lemma>
+    <lemma>размоўца</lemma>
+    <lemma>суразмовец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>събеседник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>účastník dialogu</lemma>
+    <lemma>besedující</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sugovornik</lemma>
+    <lemma>subesjednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соговорник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozmówca</lemma>
+    <lemma>współrozmówca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собеседник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>účastník dialógu</lemma>
+    <lemma>besedujúci</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>sobesednik</lemma>
+    <lemma>sogovornik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саговорник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>співрозмовник</lemma>
+    <lemma>співбесідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interparolanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gesprächspartner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gesprekspartner</lemma>
+  </synset>
+</multilingual-synset>

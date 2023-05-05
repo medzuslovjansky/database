@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11790"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11790"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="sl"
+    >
+      råziskyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даследаваць</lemma>
+    <lemma>вывучаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проучване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkoumat</lemma>
+    <lemma>bádat</lemma>
+    <lemma>prozkoumat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istraživati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истражува</lemma>
+    <lemma>иследува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>badać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исследовать</lemma>
+    <lemma>изучать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skúmať</lemma>
+    <lemma>bádať</lemma>
+    <lemma>preskúmať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preučiti</lemma>
+    <lemma>raziskati</lemma>
+    <lemma annotation="pacient">pregledati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испитивати</lemma>
+    <lemma>истраживати</lemma>
+    <lemma annotation="пацијента">прегледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>досліджувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esploro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Forschung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderzoeken</lemma>
+  </synset>
+</multilingual-synset>

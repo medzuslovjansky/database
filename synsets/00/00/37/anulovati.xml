@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      anulovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адмяняць</lemma>
+    <lemma>ануляваць</lemma>
+    <lemma>скасаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анулирам</lemma>
+    <lemma>отменям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrušit</lemma>
+    <lemma>anulovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ništiti</lemma>
+    <lemma>poništavati</lemma>
+    <lemma annotation="pf.">anulirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анулира</lemma>
+    <lemma>поништува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>anulować</lemma>
+    <lemma>skasować</lemma>
+    <lemma>unieważnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отменять</lemma>
+    <lemma>аннулировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrušiť</lemma>
+    <lemma>anulovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>anulirati</lemma>
+    <lemma>razveljaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>анулирати</lemma>
+    <lemma>поништити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анулювати</lemma>
+    <lemma>скасувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nuligi</lemma>
+    <lemma>senvalidigi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>annulieren</lemma>
+    <lemma>streichen</lemma>
+    <lemma>absagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>annuleren</lemma>
+  </synset>
+</multilingual-synset>

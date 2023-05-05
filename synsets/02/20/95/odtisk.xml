@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22095"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22095"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru cz sl hr"
+    >
+      odtisk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбітак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>печат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="stopa">otisk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otisak</lemma>
+    <lemma>trag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпечаток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odcisk</lemma>
+    <lemma annotation="po odciśnięciu">ślad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оттиск</lemma>
+    <lemma>отпечаток</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odtisk</lemma>
+    <lemma annotation="stopa">odtlačok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odtis</lemma>
+    <lemma>proga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отисак</lemma>
+    <lemma>траг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відтиск</lemma>
+    <lemma>відбиток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>presi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drucken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afdruk</lemma>
+  </synset>
+</multilingual-synset>

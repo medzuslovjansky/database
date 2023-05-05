@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21688"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21688"
+      steen:addition="(stoji)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs yu"
+    >
+      stojati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каштаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>цена</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="cena">stát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koštati</lemma>
+    <lemma>stajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чини</lemma>
+    <lemma>кошта</lemma>
+    <lemma>цени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kosztować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стоить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="cena">štát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stroški</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коштати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коштувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kosto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>kosten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kosten</lemma>
+  </synset>
+</multilingual-synset>

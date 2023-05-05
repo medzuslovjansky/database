@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35571"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35571"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="F"
+    >
+      kuzen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стрыечны брат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>братовчед</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bratranec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rođak</lemma>
+    <lemma>bratić</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>братучед</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kuzyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двоюродный брат</lemma>
+    <lemma>кузен</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bratranec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bratranec</lemma>
+    <lemma>spol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рођак</lemma>
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>двоюрідний брат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vira">kuzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Cousin)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zoon van broer of zuster">neef</lemma>
+  </synset>
+</multilingual-synset>

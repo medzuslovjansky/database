@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5901"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5901" steen:pos="n." steen:type="1">blågoslovjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бласлаўленне</lemma>
+    <lemma>блаславенне</lemma>
+    <lemma>дабраславенне</lemma>
+    <lemma annotation="рэліг.">багаслаўленне</lemma>
+    <lemma annotation="рэліг.">багаславенне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благословия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>požehnání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blagosloviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благословување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>błogosławieństwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благословение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>požehnanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>blagoslov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>благослов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>благословення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>benon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Segen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zegen</lemma>
+  </synset>
+</multilingual-synset>

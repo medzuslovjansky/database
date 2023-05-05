@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20910"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20910"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="pl cz sh"
+    >
+      naprųžiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напружыць</lemma>
+    <lemma>нацягнуць</lemma>
+    <lemma>напяць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напружвам</lemma>
+    <lemma>напрягам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natáhnout</lemma>
+    <lemma>napnout</lemma>
+    <lemma>napružit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">napregnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истегна</lemma>
+    <lemma>испружи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naprężyć</lemma>
+    <lemma>napiąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напрячь</lemma>
+    <lemma>натянуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>natiahnuť</lemma>
+    <lemma>napnúť</lemma>
+    <lemma>napružiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sev</lemma>
+    <lemma>napeti</lemma>
+    <lemma annotation="noge">da zagotovi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напрегнути</lemma>
+    <lemma>затегнути</lemma>
+    <lemma annotation="ноге">пружити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напружити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streĉado</lemma>
+    <lemma>tiro firme</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>strecken</lemma>
+    <lemma>ziehen Sie es fest</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spannen</lemma>
+    <lemma>opspannen</lemma>
+    <lemma>oprekken</lemma>
+  </synset>
+</multilingual-synset>

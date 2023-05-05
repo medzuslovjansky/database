@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32726"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32726" steen:pos="f." steen:type="2" steen:same="v dsb">
+      linza
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лінза</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>леща</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="oční">čočka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>leća</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>леќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>soczewka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>линза</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="očná">šošovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="optika">Leče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="оптика">сочиво</lemma>
+    <lemma annotation="оптика">лећа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лінза</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lenso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Linse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lens</lemma>
+  </synset>
+</multilingual-synset>

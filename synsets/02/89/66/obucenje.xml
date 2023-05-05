@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28966"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28966" steen:pos="n." steen:type="2" steen:same="ru be bm">
+      obučeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навучанне</lemma>
+    <lemma>вучэнне</lemma>
+    <lemma>абучэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обучение</lemma>
+    <lemma>обучение</lemma>
+    <lemma>Обучение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trénink</lemma>
+    <lemma>výuka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obuka</lemma>
+    <lemma>nastava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обука</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkolenie</lemma>
+    <lemma>korepetycje</lemma>
+    <lemma>instrukcja</lemma>
+    <lemma>instruktaż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обучение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tréning</lemma>
+    <lemma>výučba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vadba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обука</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>навчання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trejnado</lemma>
+    <lemma>instruado</lemma>
+    <lemma>instruado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Training</lemma>
+    <lemma>Unterricht</lemma>
+    <lemma>Nachhilfe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>training</lemma>
+    <lemma>instructie</lemma>
+  </synset>
+</multilingual-synset>

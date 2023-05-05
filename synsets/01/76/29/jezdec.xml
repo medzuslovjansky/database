@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17629"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17629" steen:pos="m.anim." steen:type="1">jezdec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шахматы">конь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шахматна фигура">кон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">jezdec</lemma>
+    <lemma annotation="šachy, lidově">kůň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>skakač</lemma>
+    <lemma>konj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">коњ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">koń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">конь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šach">jazdec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="šah">konj</lemma>
+    <lemma annotation="šah">kolesar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="шах">коњ</lemma>
+    <lemma annotation="шах">скакач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">кінь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">kavaliro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Schach">Springer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">paard</lemma>
+  </synset>
+</multilingual-synset>

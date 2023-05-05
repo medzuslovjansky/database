@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21880"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21880"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      odstråniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адкінуць</lemma>
+    <lemma annotation="ад ідэі">адмовіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нулиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstarnit</lemma>
+    <lemma>zrušit</lemma>
+    <lemma>zlikvidovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odbaciti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстрани</lemma>
+    <lemma>отфрли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. ideę">odrzucić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отбросить</lemma>
+    <lemma annotation="от идеи">отказаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrušiť</lemma>
+    <lemma>zlikvidovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrzi stran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одбацити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відкинути</lemma>
+    <lemma annotation="від ідеї">відмовитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forĵetas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwerfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwerpen</lemma>
+  </synset>
+</multilingual-synset>

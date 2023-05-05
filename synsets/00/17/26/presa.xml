@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1726"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1726" steen:pos="f." steen:type="1" steen:genesis="I">
+      presa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прэса</lemma>
+    <lemma>друк</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съобщение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tisk</lemma>
+    <lemma>média</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tisak</lemma>
+    <lemma>štampa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prasa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пресса</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tlač</lemma>
+    <lemma>médiá</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tiskanje</lemma>
+    <lemma>tiskanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штампа</lemma>
+    <lemma>тисак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>преса</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gazetaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drücken Sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="media">pers</lemma>
+  </synset>
+</multilingual-synset>

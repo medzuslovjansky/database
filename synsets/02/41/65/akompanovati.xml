@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24165"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24165"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      akompanovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акампанаваць</lemma>
+    <lemma>суправаджаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>придружавам</lemma>
+    <lemma>съпровождам</lemma>
+    <lemma annotation="музика">акомпанирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hud.">doprovázet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pratiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>придружува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akompaniować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аккомпанировать</lemma>
+    <lemma>сопровождать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hud.">doprevádzať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>spremljati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пратити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>акомпанувати</lemma>
+    <lemma>супроводжувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akompani</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>begleiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begeleiden</lemma>
+  </synset>
+</multilingual-synset>

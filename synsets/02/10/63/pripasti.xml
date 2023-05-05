@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21063"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21063"
+      steen:addition="(pripade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      pripasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на дзень, на долю">выпасці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в определен ден, за някой много">през есента</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připadnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pripasti</lemma>
+    <lemma>pasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>падна</lemma>
+    <lemma>припадна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na jakiś dzień, komuś w udziale">przypaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на день, на долю">выпасть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pripadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripadajo</lemma>
+    <lemma>padec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>припасти</lemma>
+    <lemma>пасти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на день">припасти</lemma>
+    <lemma annotation="на долю">випасти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="unu tagon, por ies multe">fali</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="an einem bestimmten Tag, an jemandes lot">fallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op een bepaald tijdstip">vallen</lemma>
+    <lemma>toevallen</lemma>
+    <lemma>toekomen</lemma>
+  </synset>
+</multilingual-synset>

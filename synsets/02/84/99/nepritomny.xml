@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28499"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28499" steen:pos="adj." steen:type="3" steen:same="cs">
+      nepritomny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адсутны</lemma>
+    <lemma>непрысутны</lemma>
+    <lemma>нябылы</lemma>
+    <lemma>нябытны</lemma>
+    <lemma>якога няма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отсъстващ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepřítomný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odsutan</lemma>
+    <lemma>neprisutan</lemma>
+    <lemma>izočan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсутен</lemma>
+    <lemma>замајан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieobecny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отсутствующий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neprítomný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odsoten odsoten</lemma>
+    <lemma>odsoten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отсутан</lemma>
+    <lemma>неприсутан</lemma>
+    <lemma>изостао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відсутній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forestas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerstreut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afwezig</lemma>
+  </synset>
+</multilingual-synset>

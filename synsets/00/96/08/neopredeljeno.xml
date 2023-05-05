@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9608"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9608" steen:pos="adv." steen:type="2" steen:same="ru j">
+      neoprěděljeno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неакрэслена</lemma>
+    <lemma>няпэўна</lemma>
+    <lemma>невыразна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неопределено</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neurčitě</lemma>
+    <lemma>nedefinovaně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neodređeno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неодредено</lemma>
+    <lemma>неопределено</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na czas nieokreślony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неопределённо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neurčito</lemma>
+    <lemma>nedefinovane</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za nedoločen čas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неодређено</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невизначено</lemma>
+    <lemma>невстановлено</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senfine</lemma>
+    <lemma>indeterminately</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auf unbestimmte Zeit</lemma>
+    <lemma>indeterminately</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onbepaald</lemma>
+  </synset>
+</multilingual-synset>

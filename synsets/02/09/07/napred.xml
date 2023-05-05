@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20907"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20907"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      naprěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадзя</lemma>
+    <lemma>наперад</lemma>
+    <lemma>заўчасна</lemma>
+    <lemma>зарана</lemma>
+    <lemma>ранавата</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>предварително</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unaprijed</lemma>
+    <lemma>prije</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>порано</lemma>
+    <lemma>понапред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wcześniej</lemma>
+    <lemma>przedtem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заранее</lemma>
+    <lemma>наперёд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vopred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prej</lemma>
+    <lemma>preden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>раније</lemma>
+    <lemma>пред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наперед</lemma>
+    <lemma>заздалегідь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anticipe</lemma>
+    <lemma>anticipe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vorher</lemma>
+    <lemma>im Voraus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>op voorhand</lemma>
+    <lemma>bij voorbaat</lemma>
+  </synset>
+</multilingual-synset>

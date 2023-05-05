@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="100" steen:pos="adj." steen:type="1">pomoćny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карысны</lemma>
+    <lemma>дапаможны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>полезна</lemma>
+    <lemma>помощни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomocný</lemma>
+    <lemma>užitečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomoćan</lemma>
+    <lemma>od pomoći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>корисен</lemma>
+    <lemma>помошен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomocny</lemma>
+    <lemma>pomocniczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полезный</lemma>
+    <lemma>вспомогательный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pomocný</lemma>
+    <lemma>užitočný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomoćan</lemma>
+    <lemma>koristno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помоћан</lemma>
+    <lemma>од помоћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корисний</lemma>
+    <lemma>допоміжний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>helpema</lemma>
+    <lemma>helpa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hilfreich</lemma>
+    <lemma>Hilfs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behulpzaam</lemma>
+    <lemma>hulp-</lemma>
+  </synset>
+</multilingual-synset>

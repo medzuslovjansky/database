@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21567"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21567" steen:pos="f." steen:type="1">sěkųća</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="матэм.">сечная</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="мат.">секанс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mat.">sečna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sekanta</lemma>
+    <lemma>sjecišnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="математика">секанта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mat.">sieczna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="матем.">секущая</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="mat.">sečnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Šečić</lemma>
+    <lemma>Sijekući</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сечица</lemma>
+    <lemma>секанта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="геомет.">січна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekanto (matematiko).</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="math.">Sekante</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>secans</lemma>
+  </synset>
+</multilingual-synset>

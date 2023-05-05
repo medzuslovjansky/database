@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2231"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2231"
+      steen:pos="pron.poss."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      tvoj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>твой</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="ед.ч.">твой</lemma>
+    <lemma>ти</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tvůj</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="твоꙗ, твоѥ">твои</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tvoj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>твој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>twój</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>твой</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tvoj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vaš</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>твој</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>твій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sg.">via</lemma>
+    <lemma>via</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="sg.">Ihre</lemma>
+    <lemma>dein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jouw</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23915"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23915"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru~ uk pl bg~"
+    >
+      protęga
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скразняк</lemma>
+    <lemma>скразнік</lemma>
+    <lemma>пройма</lemma>
+    <lemma>скавыш</lemma>
+    <lemma>цяга</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на въздуха">проект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průvan</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>propuh</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>провев</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeciąg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сквозняк</lemma>
+    <lemma>тяга</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prievan</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osnutek</lemma>
+    <lemma>osnutek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>промаја</lemma>
+    <lemma>пропух</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>протяг</lemma>
+    <lemma>тяга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de aero">redakti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Luft">Entwurf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="lucht">tocht</lemma>
+  </synset>
+</multilingual-synset>

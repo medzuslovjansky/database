@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24131"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24131"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      agronom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аграном</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>агроном</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>agronom</lemma>
+    <lemma>rostlinář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemljoradnik</lemma>
+    <lemma>poljoprivrednik</lemma>
+    <lemma>agronom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>агроном</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>agronom</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>агроном</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>agronóm</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="strokovnjak za agronomijo">agronom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земљорадник</lemma>
+    <lemma>пољопривредник</lemma>
+    <lemma>агроном</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>агроном</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>agrikulturisto</lemma>
+    <lemma>terkulturisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Landwirtschaftsexperte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>landbouwkundige</lemma>
+  </synset>
+</multilingual-synset>

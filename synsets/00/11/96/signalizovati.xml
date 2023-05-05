@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1196"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1196"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      signalizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сігналізаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сигнал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>signalizovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>signalizirati</lemma>
+    <lemma>signalizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сигнализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sygnalizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сигнализировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>signalizovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pošiljanje signalov</lemma>
+    <lemma>signalov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сигнализирати</lemma>
+    <lemma>сигнализовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сигналізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>signalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Signal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>signaleren</lemma>
+  </synset>
+</multilingual-synset>

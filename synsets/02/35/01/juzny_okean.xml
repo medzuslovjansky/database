@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23501"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23501"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      Južny okean
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>Паўднёвы акіян</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>Южен океан</lemma>
+    <lemma>Южен полярен океан</lemma>
+    <lemma>Южен ледовит океан</lemma>
+    <lemma>Антарктически океан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>Jižní oceán</lemma>
+    <lemma>Antarktický oceán</lemma>
+    <lemma>Jižní ledový oceán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Južni ocean</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>Јужен океан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>Ocean Południowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>Южный океан</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>Južný oceán</lemma>
+    <lemma>Antarktický oceán</lemma>
+    <lemma>Južný ľadový oceán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>južni ocean</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>Јужни океан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>Південний океан</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suda Oceano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Südlicher Ozean</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Zuidelijke Oceaan</lemma>
+  </synset>
+</multilingual-synset>

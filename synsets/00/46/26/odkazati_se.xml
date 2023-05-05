@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4626"
+      steen:addition="(odkaže)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      odkazati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ад пасады">адмовіцца</lemma>
+    <lemma>адрачыся</lemma>
+    <lemma>адкаснуцца</lemma>
+    <lemma>адцурацца</lemma>
+    <lemma>сцурацца</lemma>
+    <lemma>зрачыся</lemma>
+    <lemma>скласці паўнамоцтвы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да абдикира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>abdikovat</lemma>
+    <lemma>odstoupit</lemma>
+    <lemma>zříct se</lemma>
+    <lemma>zříci se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>abdicirati</lemma>
+    <lemma>odstupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се откажа</lemma>
+    <lemma>се одрече</lemma>
+    <lemma>одби</lemma>
+    <lemma>абдицира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zabdykować</lemma>
+    <lemma>podać się do dymisji</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="от должности">отказаться</lemma>
+    <lemma>отречься</lemma>
+    <lemma>сложить полномочия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>abdikovať</lemma>
+    <lemma>odstúpiť</lemma>
+    <lemma>zriecť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obupajte</lemma>
+    <lemma>opustiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрећи се</lemma>
+    <lemma>одустати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="від посади">відмовитися</lemma>
+    <lemma>відректися</lemma>
+    <lemma>скласти повноваження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>abdiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abdanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aftreden</lemma>
+    <lemma>abdiceren</lemma>
+  </synset>
+</multilingual-synset>

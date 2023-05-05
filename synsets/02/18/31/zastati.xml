@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21831"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21831"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      zastati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на месцы здарэння">застаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хвана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chytit</lemma>
+    <lemma>přichytit</lemma>
+    <lemma>nachytat</lemma>
+    <lemma annotation="při činu">přistihnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zateći</lemma>
+    <lemma>uhvatiti na djelu</lemma>
+    <lemma>iznenaditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на дело">фати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na gorącym uczynku">przyłapać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на месте происшествия">застать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>chytiť</lemma>
+    <lemma>prichytiť</lemma>
+    <lemma>nachytať</lemma>
+    <lemma annotation="pri čine">pristihnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ulov na delovnem mestu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ухватити на делу</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="на місці події">застати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en la ago">kaptaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in der Tat">catch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>betrappen</lemma>
+  </synset>
+</multilingual-synset>

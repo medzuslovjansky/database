@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30978"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30978"
+      steen:pos="f.pl."
+      steen:type="1"
+      steen:same="v z bg"
+      steen:genesis="I"
+    >
+      vakacije
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вакацыі</lemma>
+    <lemma>канікулы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ваканция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prázdniny</lemma>
+    <lemma>vakance</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odmor</lemma>
+    <lemma>praznik</lemma>
+    <lemma>raspust</lemma>
+    <lemma>ferije</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распуст</lemma>
+    <lemma>одмор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wakacje</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каникулы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prázdniny</lemma>
+    <lemma>vakácie</lemma>
+    <lemma>voľno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>počitnice</lemma>
+    <lemma annotation="letno">dopust</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>распуст</lemma>
+    <lemma annotation="годишњи">одмор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>канікули</lemma>
+    <lemma>вакації</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ferioj</lemma>
+    <lemma annotation="studentoj, lernantoj">ferioj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ferien</lemma>
+    <lemma annotation="Studenten, Schüler">Ferien</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vakantie</lemma>
+  </synset>
+</multilingual-synset>

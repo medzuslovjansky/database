@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="278"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="278" steen:pos="f." steen:type="1">pečęť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пячатка</lemma>
+    <lemma>пячаць</lemma>
+    <lemma>штамп</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>печат</lemma>
+    <lemma>печат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>razítko</lemma>
+    <lemma>pečeť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pečat</lemma>
+    <lemma>štambilj</lemma>
+    <lemma>žig</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>печат</lemma>
+    <lemma>штембил</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pieczątka</lemma>
+    <lemma>stempel</lemma>
+    <lemma>plomba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>печать</lemma>
+    <lemma>штамп</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pečiatka</lemma>
+    <lemma>pečať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pečat</lemma>
+    <lemma>žig</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>печат</lemma>
+    <lemma>штамбиљ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>печатка</lemma>
+    <lemma>штамп</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poŝtmarkoj</lemma>
+    <lemma>sigelon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stempel</lemma>
+    <lemma>Siegel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zegel</lemma>
+    <lemma>stempel</lemma>
+  </synset>
+</multilingual-synset>

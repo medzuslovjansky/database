@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4187"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4187"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      zapadno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>на захад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>западно</lemma>
+    <lemma>назапад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>západně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapadno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>западно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zachodnio</lemma>
+    <lemma>na zachód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>на запад</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>západne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zahodno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>западно</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>на захід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okcidenten</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>westwärts</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>westwaarts</lemma>
+  </synset>
+</multilingual-synset>

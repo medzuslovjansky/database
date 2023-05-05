@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34935"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34935"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl mk"
+      steen:genesis="E"
+    >
+      slajd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слайд</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на снимката">слайд</lemma>
+    <lemma>diapositive</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slajd</lemma>
+    <lemma>diapozitiv</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slajd</lemma>
+    <lemma>dijapozitiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="фотографија">слајд</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>slajd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слайд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slajd</lemma>
+    <lemma>diapozitív</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slide</lemma>
+    <lemma>slide</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слајд</lemma>
+    <lemma>дијапозитив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слайд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="foto">tobogano</lemma>
+    <lemma>diapositive</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fotografie">Schieber</lemma>
+    <lemma>diapositive</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dia</lemma>
+    <lemma>slide</lemma>
+  </synset>
+</multilingual-synset>

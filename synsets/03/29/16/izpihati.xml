@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32916"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32916"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="sl"
+    >
+      izpihati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вывіхваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкълчвам</lemma>
+    <lemma>изваждам кост от ямката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vymykat</lemma>
+    <lemma>vyklubovat</lemma>
+    <lemma>vyvrkat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izglavljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исчанчува</lemma>
+    <lemma>преместува</lemma>
+    <lemma>дислоцира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwichać</lemma>
+    <lemma>wybijać ze stawu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вывихивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vymykať</lemma>
+    <lemma>vykĺbovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zasuk iščašavati</lemma>
+    <lemma>izglavljivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искретати</lemma>
+    <lemma>ишчашавати</lemma>
+    <lemma>изглављивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вивихувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>luxate</lemma>
+    <lemma>dislocate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>luxate</lemma>
+    <lemma>verrenken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bot">ontwrichten</lemma>
+  </synset>
+</multilingual-synset>

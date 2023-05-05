@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21885"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21885"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      prostirati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шырыць</lemma>
+    <lemma annotation="дыял.">распашыраць</lemma>
+    <lemma>распаўсюджваць</lemma>
+    <lemma>пашыраць</lemma>
+    <lemma>расцягваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>участък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natahovat</lemma>
+    <lemma>rozprostírat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prostirati</lemma>
+    <lemma>protezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>простира</lemma>
+    <lemma>протега</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozpościerać</lemma>
+    <lemma>rozciągać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распространять</lemma>
+    <lemma>растягивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>naťahovať</lemma>
+    <lemma>rozprestierať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namaz</lemma>
+    <lemma>namaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>простирати</lemma>
+    <lemma>протезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поширювати</lemma>
+    <lemma>розтягувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>etendu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausstrecken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstrekken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32007"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32007"
+      steen:addition="(zakolje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zaklåti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закалоць</lemma>
+    <lemma>кальнуць</lemma>
+    <lemma>поркнуць</lemma>
+    <lemma>парнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заколя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabodnout</lemma>
+    <lemma>probodnout</lemma>
+    <lemma>zapíchnout</lemma>
+    <lemma>proklát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaklati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заколе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakłuć</lemma>
+    <lemma>zadźgać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заколоть</lemma>
+    <lemma>кольнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaklať</lemma>
+    <lemma>zabodnúť</lemma>
+    <lemma>prebodnúť</lemma>
+    <lemma>zapichnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заклати</lemma>
+    <lemma>преклати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заколоти</lemma>
+    <lemma>кольнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stab</lemma>
+    <lemma>puŝo</lemma>
+    <lemma>frapo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stab</lemma>
+    <lemma>Schub</lemma>
+    <lemma>Schlacht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>neersteken</lemma>
+  </synset>
+</multilingual-synset>

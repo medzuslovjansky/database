@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36243"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36243"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kursor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kurzor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kursor</lemma>
+    <lemma>pokazivač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kursor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kurzor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kazalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>курсор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kursoron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mauszeiger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cursor</lemma>
+  </synset>
+</multilingual-synset>

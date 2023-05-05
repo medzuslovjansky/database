@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24205"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24205" steen:pos="f." steen:type="1" steen:genesis="I">
+      akuratnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акуратнасць</lemma>
+    <lemma>дакладнасць</lemma>
+    <lemma>правільнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>точност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přesnost</lemma>
+    <lemma>akurátnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preciznost</lemma>
+    <lemma>točnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>точност</lemma>
+    <lemma>.прецизност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dokładność</lemma>
+    <lemma>precyzja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>точность</lemma>
+    <lemma annotation="точность">аккуратность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>presnosť</lemma>
+    <lemma>akurátnosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>natančnost</lemma>
+    <lemma>točnost</lemma>
+    <lemma>preciznost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прецизност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>точність</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ĝusteco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Genauigkeit</lemma>
+    <lemma>Präzision</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accuratesse</lemma>
+    <lemma>precisie</lemma>
+    <lemma>nauwkeurigheid</lemma>
+  </synset>
+</multilingual-synset>

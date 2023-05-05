@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5862" steen:pos="v.refl. pf." steen:type="1">
+      priučiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прывучыцца</lemma>
+    <lemma>прызвычаіцца</lemma>
+    <lemma>звыкнуць</lemma>
+    <lemma annotation="дыял.">абыкнуць</lemma>
+    <lemma>абвыкнуць</lemma>
+    <lemma>прывыкнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>възпитаваме себе си</lemma>
+    <lemma>да се обучават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivykat si</lemma>
+    <lemma>zvykat si</lemma>
+    <lemma>trénovat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>navićii se</lemma>
+    <lemma>prilagoditi se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се приучи</lemma>
+    <lemma>се привикна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyzwyczaić się</lemma>
+    <lemma>wyszkolić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приучиться</lemma>
+    <lemma>привыкнуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>privykať si</lemma>
+    <lemma>zvykať si</lemma>
+    <lemma>trénovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navićii prilagoditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>навићии се</lemma>
+    <lemma>прилагодити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>привчитися</lemma>
+    <lemma>звикнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kutimigi sin mem</lemma>
+    <lemma>trejni sin mem</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gewöhne sich</lemma>
+    <lemma>trainieren sich selbst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zichzelf aanleren</lemma>
+    <lemma>zichzelf aanwennen</lemma>
+    <lemma>zichzelf trainen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23307"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23307"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="I"
+    >
+      proba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>проба</lemma>
+    <lemma>спроба</lemma>
+    <lemma>тэст</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опит</lemma>
+    <lemma>тест</lemma>
+    <lemma>тест</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkouška</lemma>
+    <lemma>pokus</lemma>
+    <lemma>test</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ogled</lemma>
+    <lemma>pokus</lemma>
+    <lemma>priprema</lemma>
+    <lemma>proba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проба</lemma>
+    <lemma>опит</lemma>
+    <lemma>тест</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>próba</lemma>
+    <lemma>test</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проба</lemma>
+    <lemma>попытка</lemma>
+    <lemma>тест</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skúška</lemma>
+    <lemma>pokus</lemma>
+    <lemma>test</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glej</lemma>
+    <lemma>priprava preskusa</lemma>
+    <lemma>preskusa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оглед</lemma>
+    <lemma>покус</lemma>
+    <lemma>припрема</lemma>
+    <lemma>проба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проба</lemma>
+    <lemma>спроба</lemma>
+    <lemma>тест</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>provo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Versuch</lemma>
+    <lemma>Test</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>poging</lemma>
+    <lemma>proef</lemma>
+  </synset>
+</multilingual-synset>

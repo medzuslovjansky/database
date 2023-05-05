@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22086"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru sh (cz)"
+    >
+      stečeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>збег</lemma>
+    <lemma annotation="дыял.">зыйсце</lemma>
+    <lemma>супадзенне</lemma>
+    <lemma>супаданне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сливане на съвпадение</lemma>
+    <lemma>съвпадение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soutok</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sticaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слевање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbieg</lemma>
+    <lemma>zlanie się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стечение</lemma>
+    <lemma>совпадение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sútok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naključje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стицај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>збіг</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>confluencia</lemma>
+    <lemma>konkurenco</lemma>
+    <lemma>koincido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zusammenfluß</lemma>
+    <lemma>concurrence</lemma>
+    <lemma>Zufall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenloop</lemma>
+    <lemma>samenvloeiing</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1039"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1039"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      vslěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з прычыны</lemma>
+    <lemma>праз</lemma>
+    <lemma>з-за</lemma>
+    <lemma>у выніку</lemma>
+    <lemma>з нагоды</lemma>
+    <lemma>у сувязі з</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>след</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvůli</lemma>
+    <lemma>v důsledku</lemma>
+    <lemma>na základě</lemma>
+    <lemma>z důvodu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uslijed</lemma>
+    <lemma>zbog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заради следново</lemma>
+    <lemma>поради</lemma>
+    <lemma>како резултат на</lemma>
+    <lemma>врз основа на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z powodu</lemma>
+    <lemma>w wyniku</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вследствие</lemma>
+    <lemma>из-за</lemma>
+    <lemma>в результате</lemma>
+    <lemma>по причине</lemma>
+    <lemma>в связи с</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kvôli</lemma>
+    <lemma>v dôsledku</lemma>
+    <lemma>na základe</lemma>
+    <lemma>z dôvodu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>je nastala zaradi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>услед</lemma>
+    <lemma>због</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>внаслідок</lemma>
+    <lemma>в результаті</lemma>
+    <lemma>з причини</lemma>
+    <lemma>у зв&apos;язку з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekvante pro</lemma>
+    <lemma>rezulte de</lemma>
+    <lemma>surbaze</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>folgende</lemma>
+    <lemma>weil der als Folge der</lemma>
+    <lemma>basierend auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>als gevolg van</lemma>
+    <lemma>ten gevolge van</lemma>
+  </synset>
+</multilingual-synset>

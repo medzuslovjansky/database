@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20055"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="na"
+      steen:id="20055"
+      steen:addition="(pozri)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="z"
+    >
+      pozrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паглядзець</lemma>
+    <lemma>пабачыць</lemma>
+    <lemma>зірнуць</lemma>
+    <lemma>глянуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да видим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="na">podívat se</lemma>
+    <lemma>prohlédnout si</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pogledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>погледне</lemma>
+    <lemma>погледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popatrzeć</lemma>
+    <lemma>spojrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поглядеть</lemma>
+    <lemma>посмотреть</lemma>
+    <lemma annotation="на">взглянуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="na">pozrieť sa</lemma>
+    <lemma>pozrieť si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>погледати</lemma>
+    <lemma>посмотрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подивитися</lemma>
+    <lemma>поглянути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigardi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Guck mal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="naar">kijken</lemma>
+    <lemma annotation="op">een blik werpen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20073" steen:pos="m." steen:type="1">prěvod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="тэксту">пераклад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>превод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překlad</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prijevod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>превод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tłumaczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="текста">перевод</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preklad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="тексту">переклад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>traduko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Übersetzung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertaling</lemma>
+  </synset>
+</multilingual-synset>

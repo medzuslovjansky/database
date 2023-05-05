@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12992"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12992"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="yu mk"
+      steen:genesis="I"
+    >
+      tipka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клавіша</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ключ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klávesa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tipka</lemma>
+    <lemma>dirka</lemma>
+    <lemma>taster</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>копче</lemma>
+    <lemma>клуч</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przycisk</lemma>
+    <lemma>klawisz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клавиша</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kláves</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Race</lemma>
+    <lemma>tipka</lemma>
+    <lemma>tipka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дирка</lemma>
+    <lemma>типка</lemma>
+    <lemma>тастер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клавіша</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝlosilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlüssel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="toetsenbord, typmachine">toets</lemma>
+  </synset>
+</multilingual-synset>

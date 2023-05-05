@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35876"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35876"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v"
+      steen:genesis="E"
+    >
+      kondicioner
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кандыцыянер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>климатик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klimatizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klima-uređaj</lemma>
+    <lemma>klimatizacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клима уред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klimatyzator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кондиционер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klimatizácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klimatska naprava</lemma>
+    <lemma>klimatska naprava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клима</lemma>
+    <lemma>клима уређај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кондиціонер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klimatizilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klimaanlage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>airconditioner</lemma>
+  </synset>
+</multilingual-synset>

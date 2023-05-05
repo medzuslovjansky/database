@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29274"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29274"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru z yu bg"
+    >
+      odtajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адтаць</lemma>
+    <lemma>размарозіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>размразяване</lemma>
+    <lemma>размразяване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odtát</lemma>
+    <lemma>rozmrazit</lemma>
+    <lemma>roztopit</lemma>
+    <lemma>rozpustit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odmrznuti</lemma>
+    <lemma>odlediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одмрзне</lemma>
+    <lemma>истопи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozmrozić</lemma>
+    <lemma>odtajać</lemma>
+    <lemma>stajać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оттаять</lemma>
+    <lemma>разморозить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odtajať</lemma>
+    <lemma>roztopiť</lemma>
+    <lemma>rozpustiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stali</lemma>
+    <lemma annotation="led">raztopi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одмрзнути</lemma>
+    <lemma annotation="лед">отопити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відтанути</lemma>
+    <lemma>розморозити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>degelo</lemma>
+    <lemma>revivigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tauwetter</lemma>
+    <lemma>aufzutauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dooi</lemma>
+  </synset>
+</multilingual-synset>

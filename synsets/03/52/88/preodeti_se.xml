@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35288"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru uk"
+    >
+      prěoděti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераапрануцца</lemma>
+    <lemma>пераадзецца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>облича се променят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převléct se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preodjenuti se</lemma>
+    <lemma>preobući se</lemma>
+    <lemma>presvući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се преоблече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przebrać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переодеться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prezliecť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preobleka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преобући</lemma>
+    <lemma>преоденути</lemma>
+    <lemma annotation="обућа">преобути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перевдягнутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>beligi</lemma>
+    <lemma>ŝanĝo vestoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verkleiden</lemma>
+    <lemma>die Kleidung wechseln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich omkleden</lemma>
+    <lemma>zich verkleden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3942"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3942" steen:pos="n." steen:type="1">sȯdŕžańje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змест</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съдържание</lemma>
+    <lemma>съдържание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obsah</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kazalo</lemma>
+    <lemma>sadržaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>содржина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>treść</lemma>
+    <lemma>zawartość</lemma>
+    <lemma>spis treści</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>содержание</lemma>
+    <lemma>оглавление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obsah</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vsebina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>садржај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зміст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enhavo</lemma>
+    <lemma>enhavtabelon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Inhalt</lemma>
+    <lemma>Inhaltsverzeichnis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inhoud</lemma>
+  </synset>
+</multilingual-synset>

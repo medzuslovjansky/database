@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25170"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25170"
+      steen:addition="(degťa)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z"
+    >
+      degeť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзёгаць</lemma>
+    <lemma>смала</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>катран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dehet</lemma>
+    <lemma>smůla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>katran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>катран</lemma>
+    <lemma>смола</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smoła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дёготь</lemma>
+    <lemma>смола</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>decht</lemma>
+    <lemma>smola</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>katran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>катран</lemma>
+    <lemma>смола</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>смола</lemma>
+    <lemma>дьоготь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gudro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Teer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teer</lemma>
+  </synset>
+</multilingual-synset>

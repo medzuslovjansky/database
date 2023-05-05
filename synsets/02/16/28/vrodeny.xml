@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21628"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21628" steen:pos="adj." steen:type="1">vrođeny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыроджаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вроден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrozený</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>urođen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вроден</lemma>
+    <lemma>својствен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wrodzony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>врожденный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vrodený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prirojene</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>урођен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уроджений</lemma>
+    <lemma>вроджений</lemma>
+    <lemma>природжений</lemma>
+    <lemma>успадкований</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>denaska</lemma>
+    <lemma>denaska</lemma>
+    <lemma>propra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>angeboren</lemma>
+    <lemma>angeborene</lemma>
+    <lemma>inhärente</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aangeboren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2090"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2090" steen:pos="adj." steen:type="1">svęty</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свети</lemma>
+    <lemma>sacret</lemma>
+    <lemma>свети</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svatý</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>свѧтецъ</lemma>
+    <lemma>свѧтꙑй</lemma>
+    <lemma>Свѧтъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свет</lemma>
+    <lemma annotation="светец">свети</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>święty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>святой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>svätý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>saint</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>святий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sanktulo</lemma>
+    <lemma>sacret</lemma>
+    <lemma>sankta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>saint</lemma>
+    <lemma>Sacret</lemma>
+    <lemma>heilig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heilig</lemma>
+  </synset>
+</multilingual-synset>

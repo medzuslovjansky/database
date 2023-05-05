@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="820"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="820" steen:pos="f." steen:type="1" steen:genesis="I">
+      kompeticija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канкурэнцыя</lemma>
+    <lemma>суперніцтва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надпревара</lemma>
+    <lemma>състезание</lemma>
+    <lemma>конкурс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soutěž</lemma>
+    <lemma>závod</lemma>
+    <lemma>soupeření</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompeticija</lemma>
+    <lemma>konkurencija</lemma>
+    <lemma>suparništvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конкуренција</lemma>
+    <lemma>натпреварување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rywalizacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конкуренция</lemma>
+    <lemma>соперничество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>súťaž</lemma>
+    <lemma>závod</lemma>
+    <lemma>súperenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konkurenca rivalizacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>такмичење</lemma>
+    <lemma>ривализација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конкуренція</lemma>
+    <lemma>суперництво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konkurado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wettbewerb</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>competitie</lemma>
+  </synset>
+</multilingual-synset>

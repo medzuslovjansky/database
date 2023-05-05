@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3528" steen:pos="v.tr. ipf." steen:type="1">
+      prěpravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапраўляць</lemma>
+    <lemma>перабаўляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кръст</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přepravovat</lemma>
+    <lemma>převážet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prevoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>минува</lemma>
+    <lemma>преведува</lemma>
+    <lemma>испраќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeprawiać</lemma>
+    <lemma annotation="przez">przechodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переправлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prepravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr na drugo stran">prevesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. на другу страну">преводити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переправляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kruco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kreuz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kruisen</lemma>
+  </synset>
+</multilingual-synset>

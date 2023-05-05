@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28099"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28099"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      napirati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напіраць</lemma>
+    <lemma>сціскаць</lemma>
+    <lemma>душыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mačkat</lemma>
+    <lemma>tisknout</lemma>
+    <lemma>tlačit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>upirati</lemma>
+    <lemma>naprezati</lemma>
+    <lemma>zapeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napierać</lemma>
+    <lemma>naciskać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напирать</lemma>
+    <lemma>теснить</lemma>
+    <lemma>давить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stláčať</lemma>
+    <lemma>tlačiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надирати</lemma>
+    <lemma>наваљивати</lemma>
+    <lemma>притискивати</lemma>
+    <lemma>притискати</lemma>
+    <lemma>напрезати</lemma>
+    <lemma>захтевати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напирати</lemma>
+    <lemma>тіснити</lemma>
+    <lemma>давити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gazetaro</lemma>
+    <lemma>puŝon kontraŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drücken</lemma>
+    <lemma>drücken gegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tegen">drukken</lemma>
+  </synset>
+</multilingual-synset>

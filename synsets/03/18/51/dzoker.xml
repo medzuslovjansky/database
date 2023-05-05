@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31851"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31851"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="E"
+    >
+      džoker
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="карты">джокер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="карта">жокер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="karty">joker</lemma>
+    <lemma>žolík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>džoker</lemma>
+    <lemma>joker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џокер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>joker</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">джокер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="karty">joker</lemma>
+    <lemma>žolík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>joker</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>џокер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">джокер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">ĵokeron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Joker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">joker</lemma>
+  </synset>
+</multilingual-synset>

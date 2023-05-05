@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22992"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22992"
+      steen:addition="(-ogo)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      doråstly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дарослы</lemma>
+    <lemma>пасталелы</lemma>
+    <lemma>які пасталеў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пораснал</lemma>
+    <lemma>възрастен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="muž">dospělý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odrastao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пораснат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dorosły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взрослый</lemma>
+    <lemma>повзрослевший</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="muž">dospelý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odrasel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрастао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дорослий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plenkreskulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufgewachsen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volwassene</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="810"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="810" steen:pos="adj." steen:type="1" steen:genesis="I">
+      konkretny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канкрэтны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>конкретен</lemma>
+    <lemma>определен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konkrétní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konkretan</lemma>
+    <lemma>opipljiv</lemma>
+    <lemma>stvaran</lemma>
+    <lemma>predmetan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конкретен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konkretny</lemma>
+    <lemma>specyficzny</lemma>
+    <lemma>szczególny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конкретный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konkrétny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>beton</lemma>
+    <lemma>se določi</lemma>
+    <lemma>dejanski</lemma>
+    <lemma>natančno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конкретан</lemma>
+    <lemma>одређен</lemma>
+    <lemma>стваран</lemma>
+    <lemma>прецизан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конкретний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konkreta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beton</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>concreet</lemma>
+    <lemma>specifiek</lemma>
+  </synset>
+</multilingual-synset>

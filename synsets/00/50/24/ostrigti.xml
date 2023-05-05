@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5024"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5024" steen:pos="v.tr. pf." steen:type="1">ostrigti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абстрыгчы</lemma>
+    <lemma>астрыгчы</lemma>
+    <lemma>падстрыгчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ножици</lemma>
+    <lemma annotation="коса">клип</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ostříhat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ošišati</lemma>
+    <lemma>podseca</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>остриже</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ostrzyc</lemma>
+    <lemma>ściąć włosy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>остричь</lemma>
+    <lemma>подстричь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ostrihať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>frizuro</lemma>
+    <lemma>obroba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>остригнути</lemma>
+    <lemma>острићи</lemma>
+    <lemma>ошишати</lemma>
+    <lemma>одсећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обстригти</lemma>
+    <lemma>підстригти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tondi</lemma>
+    <lemma annotation="haroj">tranĉo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schere</lemma>
+    <lemma annotation="Haar">geschnitten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheren</lemma>
+    <lemma annotation="haar">knippen</lemma>
+  </synset>
+</multilingual-synset>

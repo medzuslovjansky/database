@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="569"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="be z j"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="569"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="be z j"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уладаць</lemma>
+    <lemma>панаваць</lemma>
+    <lemma>уладарыць</lemma>
+    <lemma>валадарыць</lemma>
+    <lemma>кіраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>владея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vládnout</lemma>
+    <lemma>panovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vladati</lemma>
+    <lemma>upravljati zemljom/organizacijom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>владее</lemma>
+    <lemma>води</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rządzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>править</lemma>
+    <lemma>властвовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vládnuť</lemma>
+    <lemma>panovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>urejajo državo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>управљати земљом</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>правити</lemma>
+    <lemma>володарювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regado</lemma>
+    <lemma>regulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herrschaft</lemma>
+    <lemma>Herrschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regeren</lemma>
+  </synset>
+</multilingual-synset>

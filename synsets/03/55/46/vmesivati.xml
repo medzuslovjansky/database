@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35546"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35546"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl yu bm"
+    >
+      vměšivati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>умешваць</lemma>
+    <lemma>залучаць</lemma>
+    <lemma>уцягваць</lemma>
+    <lemma>дамешваць</lemma>
+    <lemma>прымешваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>включвам</lemma>
+    <lemma>намесвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někoho, něco">zapojovat</lemma>
+    <lemma>přibírat</lemma>
+    <lemma>včleňovat</lemma>
+    <lemma>zahrnovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uvlačiti</lemma>
+    <lemma annotation="nekoga u nešto">umiješavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вмешува</lemma>
+    <lemma>вклучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wmieszać</lemma>
+    <lemma>wciągać</lemma>
+    <lemma>angażować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вмешивать</lemma>
+    <lemma>вовлекать</lemma>
+    <lemma>примешивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="niekoho">zapájať</lemma>
+    <lemma>priberať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potegnite</lemma>
+    <lemma annotation="nekdo, nekaj">umešavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увлачити</lemma>
+    <lemma annotation="некога у нешто">умешавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вмішувати</lemma>
+    <lemma>залучати</lemma>
+    <lemma>домішувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="iu en projekto">ampleksi</lemma>
+    <lemma>miksi en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="jemand in einem Projekt">beinhalten</lemma>
+    <lemma>mischte in</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="iemand ~ bij">betrekken</lemma>
+  </synset>
+</multilingual-synset>

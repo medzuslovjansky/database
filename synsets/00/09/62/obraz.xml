@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="962"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="962" steen:pos="m." steen:type="1">obraz</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вобраз</lemma>
+    <lemma>карціна</lemma>
+    <lemma>выява</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>живопис</lemma>
+    <lemma>рисунка</lemma>
+    <lemma>живопис</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>obraz</lemma>
+    <lemma>malba</lemma>
+    <lemma>obrázek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>образ</lemma>
+    <lemma>слика</lemma>
+    <lemma>лик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obraz</lemma>
+    <lemma>wizerunek</lemma>
+    <lemma>malowidło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>образ</lemma>
+    <lemma>картина</lemma>
+    <lemma>рисунок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obraz</lemma>
+    <lemma>maľba</lemma>
+    <lemma>obrázok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="arch.">Slika znakov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слика</lemma>
+    <lemma annotation="арх.">лик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>образ</lemma>
+    <lemma>картина</lemma>
+    <lemma>малюнок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bildo</lemma>
+    <lemma>bildo</lemma>
+    <lemma>pentraĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bild</lemma>
+    <lemma>Bild</lemma>
+    <lemma>Gemälde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beeld</lemma>
+    <lemma>afbeelding</lemma>
+    <lemma>plaatje</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36325"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36325"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cs sl"
+    >
+      zavisny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ад алкаголю, наркотыкаў і г.д.">залежны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пристрастен</lemma>
+    <lemma>зависим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závislý</lemma>
+    <lemma>navyklý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovisan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зависен</lemma>
+    <lemma annotation="од алкохол на пр.">болен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uzależniony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="от алкоголя, наркотиков и т. п.">зависимый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>závislý</lemma>
+    <lemma>navyknutý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvisna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зависан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="від алкоголю, наркотиків і т. п.">залежний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>addicted</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>süchtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verslaafd</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19363"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19363" steen:pos="m." steen:type="2" steen:same="v">
+      zahvat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захоп</lemma>
+    <lemma>захопліванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хващане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uchvácení</lemma>
+    <lemma>zabrání</lemma>
+    <lemma>obsazení</lemma>
+    <lemma annotation="násilné">převzetí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zahvaćanje</lemma>
+    <lemma>obuhvaćanje</lemma>
+    <lemma>hvatanje</lemma>
+    <lemma>grabljenje</lemma>
+    <lemma>obuzimanje</lemma>
+    <lemma>preuzimanje</lemma>
+    <lemma>ovladavanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заплена</lemma>
+    <lemma>фаќање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zajęcie</lemma>
+    <lemma>przejęcie</lemma>
+    <lemma>konfiskata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>захват</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uchvátenie</lemma>
+    <lemma>zabranie</lemma>
+    <lemma>obsadenie</lemma>
+    <lemma annotation="násilné">prevzatie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rubež</lemma>
+    <lemma>prenos</lemma>
+    <lemma>zajemanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заплена</lemma>
+    <lemma>преузимање</lemma>
+    <lemma>хватање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>захоплення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preno</lemma>
+    <lemma>ravo</lemma>
+    <lemma>Opa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>capture</lemma>
+    <lemma>Verzückung</lemma>
+    <lemma>Übernahme</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overname</lemma>
+    <lemma>inbeslagname</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24941"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24941"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      čaditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чадзіць</lemma>
+    <lemma>дыміць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пуша</lemma>
+    <lemma>димя</lemma>
+    <lemma>чадя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čadit</lemma>
+    <lemma>kouřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čađiti</lemma>
+    <lemma>ćađaviti</lemma>
+    <lemma>gariti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чадиш</lemma>
+    <lemma>димиш</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czadzić</lemma>
+    <lemma>emitować opary/wyziewy/spaliny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чадить</lemma>
+    <lemma>дымить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čmudiť</lemma>
+    <lemma>dymiť</lemma>
+    <lemma>čadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oddajajo hlape</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чађити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чадіти</lemma>
+    <lemma>диміти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elsendas fumoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rauchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rook, damp">uitstoten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1894"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1894" steen:pos="m." steen:type="1" steen:genesis="I">
+      strajk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>страйк</lemma>
+    <lemma>забастоўка</lemma>
+    <lemma>стачка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стачка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stávka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>štrajk</lemma>
+    <lemma>obustava rada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>штрајк</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strajk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>забастовка</lemma>
+    <lemma>стачка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>štrajk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stavke</lemma>
+    <lemma>delo zaustavitve</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штрајк</lemma>
+    <lemma>обустава рада</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>страйк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>striko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Streik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>staking</lemma>
+  </synset>
+</multilingual-synset>

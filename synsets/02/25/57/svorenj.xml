@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22557" steen:pos="m." steen:type="1" steen:same="ru pl">
+      svorenj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шворан</lemma>
+    <lemma>болт</lemma>
+    <lemma>засаўка</lemma>
+    <lemma annotation="на дзвярах">завала</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>болт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šroub</lemma>
+    <lemma>svorník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vijak</lemma>
+    <lemma>šaraf</lemma>
+    <lemma>šraf</lemma>
+    <lemma>zavrtanj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>болцна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sworzeń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>штырь</lemma>
+    <lemma>затвор</lemma>
+    <lemma>задвижка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skrutku</lemma>
+    <lemma>svorník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vijak</lemma>
+    <lemma>vijak</lemma>
+    <lemma>vijak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завртањ</lemma>
+    <lemma>шраф</lemma>
+    <lemma>шараф</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>штир</lemma>
+    <lemma>затвор</lemma>
+    <lemma>засувка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>riglilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bolzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bout</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1146"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1146"
+      steen:addition="(dotyče)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      dotykati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кранаць</lemma>
+    <lemma>кратаць</lemma>
+    <lemma>чапаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>докосвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotýkat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doticati</lemma>
+    <lemma>dodirivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>досегнува</lemma>
+    <lemma>допира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dotykać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трогать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dotýkať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dotik</lemma>
+    <lemma>dotik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дотицати</lemma>
+    <lemma>дотаћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>торкати</lemma>
+    <lemma>чіпати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tuŝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>berühren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanraken</lemma>
+  </synset>
+</multilingual-synset>

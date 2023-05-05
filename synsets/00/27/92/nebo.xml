@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2792"
+      steen:addition="(neba/nebese)"
+      steen:pos="n."
+      steen:type="1"
+    >
+      nebo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неба</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>небе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nebe</lemma>
+    <lemma>obloha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nebo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>небо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niebo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>небо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nebo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nebo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>небо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>небо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉielo</lemma>
+    <lemma>ĉielo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Himmel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hemel</lemma>
+  </synset>
+</multilingual-synset>

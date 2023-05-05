@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6252"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6252" steen:pos="m." steen:type="1">zapisnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нататнік</lemma>
+    <lemma>блакнот</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бележник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zápisník</lemma>
+    <lemma>sešítek</lemma>
+    <lemma>notes</lemma>
+    <lemma>záznamník</lemma>
+    <lemma>poznámkový blok</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>спъискъ</lemma>
+    <lemma>записка</lemma>
+    <lemma>писаниѥ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bilježnica</lemma>
+    <lemma>notes</lemma>
+    <lemma>rokovnik</lemma>
+    <lemma>teka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бележник</lemma>
+    <lemma>нотес</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>notatnik</lemma>
+    <lemma>notebook</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>блокнот</lemma>
+    <lemma>записная книжка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zápisník</lemma>
+    <lemma>zošitok</lemma>
+    <lemma>notes</lemma>
+    <lemma>záznamník</lemma>
+    <lemma>poznámkový blok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>laptop</lemma>
+    <lemma>prenosni računalniki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бележница</lemma>
+    <lemma>бележник</lemma>
+    <lemma>нотес</lemma>
+    <lemma>свеска</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>блокнот</lemma>
+    <lemma>записник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kajero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Notizbuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blocnote</lemma>
+    <lemma>notitieboek</lemma>
+  </synset>
+</multilingual-synset>

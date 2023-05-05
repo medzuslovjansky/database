@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5509"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5509" steen:pos="v.tr. pf." steen:type="1">odvezti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адвезці</lemma>
+    <lemma>вывесці</lemma>
+    <lemma>завесці</lemma>
+    <lemma>павезці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>- донеси</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvézt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwieźć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>увезти</lemma>
+    <lemma>отвезти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odviezť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vzletno promet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвести превозом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відвезти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venigu for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Weg bringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="per vervoermiddel">wegbrengen</lemma>
+  </synset>
+</multilingual-synset>

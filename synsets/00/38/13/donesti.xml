@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3813"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3813" steen:pos="v.tr. pf." steen:type="1">donesti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>данесці</lemma>
+    <lemma>адрапартаваць</lemma>
+    <lemma>праінфармаваць</lemma>
+    <lemma>паведаміць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>докладвам</lemma>
+    <lemma>информирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udat</lemma>
+    <lemma>ohlásit</lemma>
+    <lemma>oznámit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvijestiti</lemma>
+    <lemma>informirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извести</lemma>
+    <lemma>информира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poinformować</lemma>
+    <lemma>zrelacjonować</lemma>
+    <lemma>powiadomić</lemma>
+    <lemma annotation="komuś">donieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>донести</lemma>
+    <lemma>отрапортовать</lemma>
+    <lemma>проинформировать</lemma>
+    <lemma>сообщить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>udať</lemma>
+    <lemma>ohlásiť</lemma>
+    <lemma>oznámiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poročilo</lemma>
+    <lemma>obvesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>известити</lemma>
+    <lemma>информисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доповісти</lemma>
+    <lemma>повідомити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>raporto</lemma>
+    <lemma>informi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>berichten</lemma>
+    <lemma>informieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>melden</lemma>
+    <lemma>informeren</lemma>
+  </synset>
+</multilingual-synset>

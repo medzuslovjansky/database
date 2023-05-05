@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5" steen:pos="adj." steen:type="1" steen:same="v z j">
+      tęžky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цяжкі</lemma>
+    <lemma>важкі</lemma>
+    <lemma>уважысты</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тежък</lemma>
+    <lemma>увесистый</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>těžký</lemma>
+    <lemma>silný</lemma>
+    <lemma>hustý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>težak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="маса">тежок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ciężki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тяжелый</lemma>
+    <lemma>увесистый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ťažký</lemma>
+    <lemma>silný</lemma>
+    <lemma>hustý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>težko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тежак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>важкий</lemma>
+    <lemma>важкий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peza</lemma>
+    <lemma>estas sxargxo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwer</lemma>
+    <lemma>gewichtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zwaar</lemma>
+  </synset>
+</multilingual-synset>

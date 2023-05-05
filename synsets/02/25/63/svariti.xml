@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22563"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22563" steen:pos="v.tr. pf." steen:type="1">svariti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зварыць</lemma>
+    <lemma annotation="зваркай">прыварыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>готви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svařit</lemma>
+    <lemma annotation="kov">spojit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavariti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zespawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сварить</lemma>
+    <lemma annotation="сваркой">приварить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvariť</lemma>
+    <lemma annotation="kov">spojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zvar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заварити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зварити</lemma>
+    <lemma annotation="зварюванням">приварити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>veldo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schweißen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lassen</lemma>
+    <lemma>solderen</lemma>
+  </synset>
+</multilingual-synset>

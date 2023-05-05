@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20513"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20513"
+      steen:addition="(nabije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      nabiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>набіць</lemma>
+    <lemma>наперці</lemma>
+    <lemma>напхаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напълвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nabít</lemma>
+    <lemma>nacpat</lemma>
+    <lemma>naplnit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nabiti</lemma>
+    <lemma>ispuniti</lemma>
+    <lemma>napuniti</lemma>
+    <lemma>sabiti</lemma>
+    <lemma>ugurati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наполни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czymś">wypchać</lemma>
+    <lemma annotation="broń">nabić</lemma>
+    <lemma annotation="czymś">nadziać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>набить</lemma>
+    <lemma>начинить</lemma>
+    <lemma>зарядить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nabiť</lemma>
+    <lemma>napchať</lemma>
+    <lemma>naplniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>polnjenja</lemma>
+    <lemma>napolnjena</lemma>
+    <lemma>polnjenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испунити</lemma>
+    <lemma>набити</lemma>
+    <lemma>напунити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>начинити</lemma>
+    <lemma>набити</lemma>
+    <lemma>наповнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aĵoj</lemma>
+    <lemma>plenigo</lemma>
+    <lemma annotation="pafilo">ŝarĝo</lemma>
+    <lemma>tamp</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stuff</lemma>
+    <lemma>füllen</lemma>
+    <lemma annotation="Pistole">Last</lemma>
+    <lemma>stampfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opvullen</lemma>
+    <lemma annotation="wapen">laden</lemma>
+  </synset>
+</multilingual-synset>

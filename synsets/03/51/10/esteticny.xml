@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35110"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35110"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      estetičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эстэтычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>естетичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>estetický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>estetski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>естетски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>estetyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эстетический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>estetický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>estetski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>естетски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>естетичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>estetika</lemma>
+    <lemma>aesthetical</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ästhetik</lemma>
+    <lemma>ästhetische</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>esthetisch</lemma>
+  </synset>
+</multilingual-synset>

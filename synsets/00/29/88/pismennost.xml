@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2988"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2988" steen:pos="f." steen:type="2" steen:same="ru bg">
+      piśmennosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пісьмовасць</lemma>
+    <lemma>пісьменства</lemma>
+    <lemma>пісьменнасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>писменост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>písmo</lemma>
+    <lemma>systém psaní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pismo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>писменост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="system pisania">pismo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>письменность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>písmo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="znak sistem">Pismo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="знаковни систем">писмо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>писемність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skribsistemo</lemma>
+    <lemma>skribo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schreibsystem</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schrijfsysteem</lemma>
+    <lemma>schrift</lemma>
+  </synset>
+</multilingual-synset>

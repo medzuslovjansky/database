@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25645"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25645"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      glodati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грызці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гриза</lemma>
+    <lemma>глождя</lemma>
+    <lemma>(за чувство) терзая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlodat</lemma>
+    <lemma>hryzat</lemma>
+    <lemma>kousat</lemma>
+    <lemma>ohryzávaz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glodati</lemma>
+    <lemma>nagrizati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>глода</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gryźć</lemma>
+    <lemma>obgryzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>глодать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlodať</lemma>
+    <lemma>ohlodávať</lemma>
+    <lemma>hrýzť</lemma>
+    <lemma>ohrýzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mlin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>глодати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гризти</lemma>
+    <lemma>глодати</lemma>
+    <lemma>обгризати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ronĝas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kluiven</lemma>
+  </synset>
+</multilingual-synset>

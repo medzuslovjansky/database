@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18255"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      podgovoriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падгаварыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>натравить</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podnítit</lemma>
+    <lemma>pobídnout</lemma>
+    <lemma>navést</lemma>
+    <lemma>ponouktnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nagovoriti</lemma>
+    <lemma>potaknuti</lemma>
+    <lemma annotation="fig.">prišapnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наговори</lemma>
+    <lemma>поттикна</lemma>
+    <lemma>подбуцна</lemma>
+    <lemma>сасна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podmówić</lemma>
+    <lemma>namówić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подговорить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podnietiť</lemma>
+    <lemma>nabádať</lemma>
+    <lemma>nahovoriť na</lemma>
+    <lemma>naviesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričati</lemma>
+    <lemma>povzroči</lemma>
+    <lemma annotation="sl.">šepeta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наговорити</lemma>
+    <lemma>подстаћи</lemma>
+    <lemma annotation="фиг.">пришапнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підмовити</lemma>
+    <lemma>намовити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anregen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aansporen</lemma>
+    <lemma annotation="tot">aanzetten</lemma>
+  </synset>
+</multilingual-synset>

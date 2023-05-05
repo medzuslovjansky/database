@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22894"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22894"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru cz~ sh"
+    >
+      obzor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агляд</lemma>
+    <lemma>поле зроку</lemma>
+    <lemma>поле пагляду</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поле на зрение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obzor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obzor</lemma>
+    <lemma>horizont</lemma>
+    <lemma>vidokrug</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>видик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pole widzenia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обзор</lemma>
+    <lemma>поле зрения</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obzor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obzorje</lemma>
+    <lemma>horizont</lemma>
+    <lemma>vidno polje</lemma>
+    <lemma>perspektiva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обзор</lemma>
+    <lemma>обзорје</lemma>
+    <lemma>видно поље</lemma>
+    <lemma>видик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>огляд</lemma>
+    <lemma>поле зору</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vidkampo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blickfeld</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezichtsveld</lemma>
+  </synset>
+</multilingual-synset>

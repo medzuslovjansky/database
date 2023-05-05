@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1793"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1793" steen:pos="adj." steen:type="1">mŕtvy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мёртвы</lemma>
+    <lemma>вымерлы</lemma>
+    <lemma>неактыўны</lemma>
+    <lemma>згаслы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изчезнали</lemma>
+    <lemma>измрял</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaniklý</lemma>
+    <lemma>mrtvý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izumro</lemma>
+    <lemma>odumro</lemma>
+    <lemma>mrtav</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изумрен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>martwy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мёртвый</lemma>
+    <lemma annotation="напр. язык">вымерший</lemma>
+    <lemma>неактивный</lemma>
+    <lemma>погасший</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaniknutý</lemma>
+    <lemma>mŕtvy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mrtev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мртав</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мертвий</lemma>
+    <lemma annotation="напр. мова">вимерлий</lemma>
+    <lemma>неактивний</lemma>
+    <lemma>згаслий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>formortis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausgestorben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overleden</lemma>
+    <lemma>gestorven</lemma>
+  </synset>
+</multilingual-synset>

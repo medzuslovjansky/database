@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="121"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="121"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      potvŕditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пацвердзіць</lemma>
+    <lemma>спраўдзіць</lemma>
+    <lemma>пасведчыць</lemma>
+    <lemma>засведчыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>потвърди това</lemma>
+    <lemma>потвърди автентичността</lemma>
+    <lemma>потвърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potvrdit</lemma>
+    <lemma>dosvědčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potvrditi</lemma>
+    <lemma>ovjeriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потврди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>potwierdzić</lemma>
+    <lemma>zaświadczyć</lemma>
+    <lemma>poświadczyć</lemma>
+    <lemma>zaatestować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подтвердить</lemma>
+    <lemma>удостоверить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>potvrdiť</lemma>
+    <lemma>dosvedčiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrjujejo</lemma>
+    <lemma>pričajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потврдити</lemma>
+    <lemma>посведочити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підтвердити</lemma>
+    <lemma>засвідчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konfirmas</lemma>
+    <lemma>atestas</lemma>
+    <lemma>Aŭtentigu</lemma>
+    <lemma>konfirmi</lemma>
+    <lemma>fundamenti</lemma>
+    <lemma>reaserti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bestätigen</lemma>
+    <lemma>bescheinigen</lemma>
+    <lemma>authentifizieren</lemma>
+    <lemma>erhärten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevestigen</lemma>
+    <lemma>authenticeren</lemma>
+    <lemma>waarmerken</lemma>
+  </synset>
+</multilingual-synset>

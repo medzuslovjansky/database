@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36035"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36035"
+      steen:addition="(ščekoče)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru be dsb sk sl"
+    >
+      ščekotati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казытаць</lemma>
+    <lemma annotation="зап.">шчакатаць</lemma>
+    <lemma>куціняць</lemma>
+    <lemma>ласкатаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гъди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lechtat</lemma>
+    <lemma>šimrat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>golicati</lemma>
+    <lemma>škakljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скокотка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łaskotać</lemma>
+    <lemma>łechtać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>щекотать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>štekliť</lemma>
+    <lemma>Simr</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žgečkati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>голицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лоскотати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cosquillas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kitzeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kietelen</lemma>
+    <lemma>kriebelen</lemma>
+  </synset>
+</multilingual-synset>

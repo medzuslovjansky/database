@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14071"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14071" steen:pos="adj." steen:type="2" steen:same="z">
+      zagraničny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замежны</lemma>
+    <lemma>загранічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чуждестранен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahraniční</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stran</lemma>
+    <lemma>tuđ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задграничен</lemma>
+    <lemma>странски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagraniczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заграничный</lemma>
+    <lemma>иностранный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zahraničný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Stran</lemma>
+    <lemma>tuje</lemma>
+    <lemma>tuje</lemma>
+    <lemma>zunanje</lemma>
+    <lemma>inozeman</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стран</lemma>
+    <lemma>туђ</lemma>
+    <lemma>иностран</lemma>
+    <lemma>спољни</lemma>
+    <lemma>иноземан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закордонний</lemma>
+    <lemma>іноземний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksterlandaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fremd</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buitenlands</lemma>
+  </synset>
+</multilingual-synset>

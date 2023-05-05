@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21181"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21181"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru cz"
+      steen:genesis="S"
+    >
+      tajnopisec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шыфравальнік</lemma>
+    <lemma>шыфравальшчык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шифровчик</lemma>
+    <lemma>криптограф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kryptograf</lemma>
+    <lemma>tajnopisec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kriptograf</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>криптограф</lemma>
+    <lemma>шифрант</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kryptograf</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шифровальщик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kryptograf</lemma>
+    <lemma>tajnopisec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šifrant</lemma>
+    <lemma>A Šifre</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шифрант</lemma>
+    <lemma>криптограф</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>шифрувальник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>criptógrafo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kryptograph</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cryptograaf</lemma>
+  </synset>
+</multilingual-synset>

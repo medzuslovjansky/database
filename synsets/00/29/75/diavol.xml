@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2975"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2975"
+      steen:addition="(diavla)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      diavȯl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>д&apos;ябал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дявол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ďábel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrag</lemma>
+    <lemma>đavao</lemma>
+    <lemma>sotona</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѓавол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>diabeł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дьявол</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diabol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hudič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ђаво</lemma>
+    <lemma>враг</lemma>
+    <lemma>сотона</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>диявол</lemma>
+    <lemma>дідько</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diablo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Teufel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>duivel</lemma>
+  </synset>
+</multilingual-synset>

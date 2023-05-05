@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4228"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4228" steen:pos="v.tr. pf." steen:type="1">
+      pridělati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прызначаць</lemma>
+    <lemma>задаваць</lemma>
+    <lemma>даваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>назначи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přidělit</lemma>
+    <lemma>zadat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zadavati</lemma>
+    <lemma annotation="zadatak">davati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зададе</lemma>
+    <lemma>придаде</lemma>
+    <lemma>додаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zadawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>назначать</lemma>
+    <lemma>задавать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prideliť</lemma>
+    <lemma>zadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Določi</lemma>
+    <lemma annotation="naloga">da smo dobili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задавати</lemma>
+    <lemma annotation="задатак">давати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>призначати</lemma>
+    <lemma>задавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>asigni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zuordnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toekennen</lemma>
+    <lemma>toewijzen</lemma>
+  </synset>
+</multilingual-synset>

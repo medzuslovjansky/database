@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1994"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1994"
+      steen:addition="(zȯve)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      zvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клікаць</lemma>
+    <lemma>зваць</lemma>
+    <lemma>запрашаць</lemma>
+    <lemma>выклікаць</lemma>
+    <lemma>вызываць</lemma>
+    <lemma>склікаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>призовавам</lemma>
+    <lemma>каня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvát</lemma>
+    <lemma>pozývat</lemma>
+    <lemma>volat</lemma>
+    <lemma>svolávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pozivati</lemma>
+    <lemma annotation="u goste">zvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вика</lemma>
+    <lemma>повикува</lemma>
+    <lemma>поканува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapraszać</lemma>
+    <lemma>zwoływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звать</lemma>
+    <lemma>приглашать</lemma>
+    <lemma>вызывать</lemma>
+    <lemma>созывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvať</lemma>
+    <lemma>pozývať</lemma>
+    <lemma>volať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na poziv</lemma>
+    <lemma annotation="gostje">na poziv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позивати</lemma>
+    <lemma annotation="у госте">звати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звати</lemma>
+    <lemma>запрошувати</lemma>
+    <lemma>викликати</lemma>
+    <lemma>скликати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>inviti</lemma>
+    <lemma>kunvoki</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>einladen</lemma>
+    <lemma>herbeirufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitnodigen</lemma>
+  </synset>
+</multilingual-synset>

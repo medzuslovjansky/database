@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20366"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20366" steen:pos="m." steen:type="1" steen:same="ru pl cz">
+      domysl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здагадка</lemma>
+    <lemma>дагадка</lemma>
+    <lemma>дапушчэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>догадка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>domněnka</lemma>
+    <lemma>dohad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pretpostavka</lemma>
+    <lemma>presumpcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претпоставка</lemma>
+    <lemma>досетка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>domysł</lemma>
+    <lemma>przypuszczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>догадка</lemma>
+    <lemma>домысел</lemma>
+    <lemma>допущение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>domnienka</lemma>
+    <lemma>dohad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predpostavka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претпоставка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здогад</lemma>
+    <lemma>здогадка</lemma>
+    <lemma>домисел</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konjekto</lemma>
+    <lemma>konjekti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erraten</lemma>
+    <lemma>Vermutungen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanname</lemma>
+    <lemma>vermoeden</lemma>
+  </synset>
+</multilingual-synset>

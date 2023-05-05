@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20778"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20778"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      umoriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змарыць</lemma>
+    <lemma>стаміць</lemma>
+    <lemma>знясіліць</lemma>
+    <lemma>змардаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>емисии</lemma>
+    <lemma>гуми</lemma>
+    <lemma>умора</lemma>
+    <lemma annotation="tr.">глад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyčerpat</lemma>
+    <lemma>unavit</lemma>
+    <lemma>umořit</lemma>
+    <lemma>vyhladovět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umoriti</lemma>
+    <lemma>zamoriti</lemma>
+    <lemma>iscrpiti</lemma>
+    <lemma>malaksati</lemma>
+    <lemma>sustati</lemma>
+    <lemma>posustati</lemma>
+    <lemma>klonuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умори</lemma>
+    <lemma>замори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmęczyć</lemma>
+    <lemma>wyczerpać</lemma>
+    <lemma>wycieńczyć</lemma>
+    <lemma>zagłodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уморить</lemma>
+    <lemma>истощить</lemma>
+    <lemma>изнурить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyčerpať</lemma>
+    <lemma>unaviť</lemma>
+    <lemma>umoriť</lemma>
+    <lemma>vyhladovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>utrudijo</lemma>
+    <lemma>utrujeni</lemma>
+    <lemma>izčrpani</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уморити</lemma>
+    <lemma>заморити</lemma>
+    <lemma>исцрпети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>уморити</lemma>
+    <lemma>виснажити</lemma>
+    <lemma>виснажити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ellasilo</lemma>
+    <lemma>pneŭo</lemma>
+    <lemma>laceco</lemma>
+    <lemma annotation="tr.">malsati</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auspuff</lemma>
+    <lemma>Reifen</lemma>
+    <lemma>Müdigkeit</lemma>
+    <lemma annotation="tr.">verhungern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermoeien</lemma>
+    <lemma>uitputten</lemma>
+  </synset>
+</multilingual-synset>

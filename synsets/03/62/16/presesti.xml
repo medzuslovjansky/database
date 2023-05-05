@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36216"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36216"
+      steen:addition="(prěsęde)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      prěsęsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="с едно превозно средство на друго">промени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přesednout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presjesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преседна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesiąść się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пересесть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>presadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gibati</lemma>
+    <lemma>tek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пресести се</lemma>
+    <lemma>прећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пересісти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de unu veturilo al alia">ŝanĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einem Fahrzeug zu einem anderen">Änderung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overstappen</lemma>
+  </synset>
+</multilingual-synset>

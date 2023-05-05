@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22257"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22257"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      provodnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праваднік</lemma>
+    <lemma>кандуктар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="жп">проводник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průvodčí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kondukter</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кондуктер</lemma>
+    <lemma>спроводник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konduktor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проводник</lemma>
+    <lemma>кондуктор</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sprievodcovia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кондуктер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>провідник</lemma>
+    <lemma>кондуктор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="trajno">dirigento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Zug">Leiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conducteur</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1747"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1747" steen:pos="adj." steen:type="1" steen:same="v cz j">
+      zakonny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>законны</lemma>
+    <lemma>легальны</lemma>
+    <lemma>абгрунтаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>законен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zákonný</lemma>
+    <lemma>odůvodněný</lemma>
+    <lemma>oprávněný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zakonit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>законит</lemma>
+    <lemma>законски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uzasadniony</lemma>
+    <lemma>legalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>законный</lemma>
+    <lemma>легальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zákonný</lemma>
+    <lemma>odôvodnený</lemma>
+    <lemma>oprávnený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakonita</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>законит</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>законний</lemma>
+    <lemma>легальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pravigebla</lemma>
+    <lemma>legitima</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gerechtfertigt</lemma>
+    <lemma>gebühr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechtvaardigbaar</lemma>
+    <lemma annotation="niet tegennatuurlijk">natuurlijk</lemma>
+  </synset>
+</multilingual-synset>

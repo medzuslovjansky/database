@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10438"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10438"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      pamętny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памятны</lemma>
+    <lemma>незабыўны</lemma>
+    <lemma>векапомны</lemma>
+    <lemma>непазбыўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>монументален</lemma>
+    <lemma>закачливите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>památný</lemma>
+    <lemma>pamětní</lemma>
+    <lemma>nezapomenutelný</lemma>
+    <lemma>vzpomínkový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spomenički</lemma>
+    <lemma>memorijalni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>споменичен</lemma>
+    <lemma>монументален</lemma>
+    <lemma>незаборавен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pamiętny</lemma>
+    <lemma>niezapomniany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>памятный</lemma>
+    <lemma>незабываемый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pamätný</lemma>
+    <lemma>pamätihodný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nepozabno</lemma>
+    <lemma annotation="v smislu - se ne spomnite, kaj takega">
+      brez primere
+    </lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>незабораван</lemma>
+    <lemma annotation="у смислу - не памти се тако нешто">незапамћен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пам&apos;ятний</lemma>
+    <lemma>незабутній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>memorinda</lemma>
+    <lemma>memorigajxo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>monumental</lemma>
+    <lemma>unvergesslich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>memorabel</lemma>
+  </synset>
+</multilingual-synset>

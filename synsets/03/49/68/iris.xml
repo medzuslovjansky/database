@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34968"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34968"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ub sk bm"
+      steen:genesis="I"
+    >
+      iris
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ірыс</lemma>
+    <lemma>вясёлкавая абалонка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на окото">ирис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="oka">duhovka</lemma>
+    <lemma>iris</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šarenica</lemma>
+    <lemma>iris</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ирис</lemma>
+    <lemma annotation="око">шареница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tęczówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ирис</lemma>
+    <lemma>радужная оболочка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="oka">dúhovka</lemma>
+    <lemma>kosatec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iris</lemma>
+    <lemma>perunike</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шареница</lemma>
+    <lemma>дужица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ірис</lemma>
+    <lemma annotation="очей">райдужна оболонка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="okulo">iriso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Auge">Iris</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="oog">iris</lemma>
+  </synset>
+</multilingual-synset>

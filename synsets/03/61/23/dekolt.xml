@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36123"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      dekolt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэкальтэ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>деколте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dekolt</lemma>
+    <lemma>výstřih</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dekolte</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>деколте</lemma>
+    <lemma>расцеп</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dekolt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>декольте</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dekolt</lemma>
+    <lemma>výstrih</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dekolte</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>деколте</lemma>
+    <lemma>изрез</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>декольте</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>décolletage</lemma>
+    <lemma>dekoltaĵo</lemma>
+    <lemma>fendiĝon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>décolletage</lemma>
+    <lemma>Ausschnitt</lemma>
+    <lemma>Spaltung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>decolleté</lemma>
+  </synset>
+</multilingual-synset>

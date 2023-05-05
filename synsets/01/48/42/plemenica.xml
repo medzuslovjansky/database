@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14842"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14842" steen:pos="f." steen:type="2" steen:same="v bg">
+      plemenica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пляменніца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>племенница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neteř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nećakinja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="дете од брат или сестра">внука</lemma>
+    <lemma>братаница</lemma>
+    <lemma>сестрична</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>siostrzenica</lemma>
+    <lemma>bratanica</lemma>
+    <lemma>nieściora</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>племянница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neter</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nečakinja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сестричина</lemma>
+    <lemma>братаница</lemma>
+    <lemma>нећака</lemma>
+    <lemma>нећакиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>племінниця</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nevino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nichte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nicht</lemma>
+  </synset>
+</multilingual-synset>

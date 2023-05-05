@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="781"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="781"
+      steen:addition="(najde; našel)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      najdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знайсці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>намирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>najít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>најди</lemma>
+    <lemma>пронајди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znaleźć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>найти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nájsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>najti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>знайти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trovi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>finden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vinden</lemma>
+  </synset>
+</multilingual-synset>

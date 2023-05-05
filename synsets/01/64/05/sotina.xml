@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16405"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16405" steen:pos="num.fract." steen:type="1">sȯtina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адна сотая</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>една сотая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>setina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stotìna</lemma>
+    <lemma>stoti dio</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стотинка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jedna setna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одна сотая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stotina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стотина</lemma>
+    <lemma>стоти део</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одна сота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>centa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ein Hundertstel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="breuk">honderdste</lemma>
+  </synset>
+</multilingual-synset>

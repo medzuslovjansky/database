@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5528" steen:pos="v.tr. ipf." steen:type="1">
+      zapisyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запісваць</lemma>
+    <lemma annotation="на дыск">захоўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>записвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukládat</lemma>
+    <lemma>zapisovat</lemma>
+    <lemma>nahrávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запишува</lemma>
+    <lemma annotation="на компјутер">снима</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nagrywać</lemma>
+    <lemma>zapisywać</lemma>
+    <lemma>rejestrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>записывать</lemma>
+    <lemma annotation="на диск">сохранять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ukladať</lemma>
+    <lemma>zapisovať</lemma>
+    <lemma>nahrávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustrelil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снимати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>записувати</lemma>
+    <lemma annotation="на диск">зберігати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>disko</lemma>
+    <lemma annotation="en komputilo">krom</lemma>
+    <lemma>noti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Aufzeichnung</lemma>
+    <lemma>(auf einem Computer) speichern</lemma>
+    <lemma>aufschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geluid">opnemen</lemma>
+    <lemma annotation="op een computer">opslaan</lemma>
+  </synset>
+</multilingual-synset>

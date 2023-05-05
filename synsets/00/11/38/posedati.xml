@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1138"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1138"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z yu"
+    >
+      posědati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валодаць</lemma>
+    <lemma>уладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>притежава</lemma>
+    <lemma>притежава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlastnit</lemma>
+    <lemma>držet</lemma>
+    <lemma>ovládat</lemma>
+    <lemma annotation="schopnost">dosahovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posjedovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поседува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>posiadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>владеть</lemma>
+    <lemma>обладать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlastniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imajo</lemma>
+    <lemma>imajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поседовати</lemma>
+    <lemma>имати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>володіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>propra</lemma>
+    <lemma>posedi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>eigene</lemma>
+    <lemma>besitzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezitten</lemma>
+  </synset>
+</multilingual-synset>

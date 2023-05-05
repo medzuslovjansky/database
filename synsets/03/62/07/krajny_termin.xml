@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36207"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36207" steen:pos="m." steen:type="2" steen:same="z yu">
+      krajny termin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крайні тэрмін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>краен срок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krajní termín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krajnji rok</lemma>
+    <lemma>zadnji rok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>краен рок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>termin ostateczny</lemma>
+    <lemma>termin wykonania</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>крайний срок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krajný termín</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rok</lemma>
+    <lemma>končni izraz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крајњи рок</lemma>
+    <lemma>крајњи термин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>остаточний термін</lemma>
+    <lemma>граничний термін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>limdato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Frist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>deadline</lemma>
+  </synset>
+</multilingual-synset>

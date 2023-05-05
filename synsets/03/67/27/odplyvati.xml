@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36727"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36727" steen:pos="v.intr. ipf." steen:type="1">
+      odplyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адплываць</lemma>
+    <lemma>плысці</lemma>
+    <lemma>плыць</lemma>
+    <lemma>выплываць</lemma>
+    <lemma>сплываць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отплава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odplouvat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otploviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпловува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpływać</lemma>
+    <lemma annotation="statkiem">wypływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отплывать</lemma>
+    <lemma annotation="на корабле">уплывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plaviť sa preč</lemma>
+    <lemma>odplavovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>otplovljavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпловљавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="кораблем">відпливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>veli for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wegsegeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegvaren</lemma>
+    <lemma>afvaren</lemma>
+  </synset>
+</multilingual-synset>

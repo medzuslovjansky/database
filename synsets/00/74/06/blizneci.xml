@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7406"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7406" steen:pos="m.pl." steen:type="1">blizneci</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блізняты</lemma>
+    <lemma>двайняты</lemma>
+    <lemma>браты-блізняты</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>братя-близнаци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvojčata chlapci</lemma>
+    <lemma>blíženci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blizanci</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>близнаци</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bliźnięta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>близнецы</lemma>
+    <lemma>братья-близнецы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dvojčatá chlapci</lemma>
+    <lemma>blížence</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dvojčka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>близанци</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>брати-близнюки</lemma>
+    <lemma>близнята</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝemelaj fratoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zwillingsbrüder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tweelingbroers</lemma>
+  </synset>
+</multilingual-synset>

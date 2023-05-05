@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1875"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1875"
+      steen:addition="(izběži)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      izběgti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>збегчы</lemma>
+    <lemma>уцячы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избягам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>utéci</lemma>
+    <lemma>uniknout</lemma>
+    <lemma>uprchnout</lemma>
+    <lemma>vyběhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobjeći</lemma>
+    <lemma>uteći</lemma>
+    <lemma>umaknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избега</lemma>
+    <lemma>побегна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uciec</lemma>
+    <lemma>ucieknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убежать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>utiecť</lemma>
+    <lemma>uniknúť</lemma>
+    <lemma>utiecť</lemma>
+    <lemma>vybehnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pobegniti</lemma>
+    <lemma>pobegniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утећи</lemma>
+    <lemma>побећи</lemma>
+    <lemma>умаћи</lemma>
+    <lemma>умакнути</lemma>
+    <lemma>збрисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>втекти</lemma>
+    <lemma>утікти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eskapi</lemma>
+    <lemma>fuĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entkommen</lemma>
+    <lemma>fliehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vluchten</lemma>
+  </synset>
+</multilingual-synset>

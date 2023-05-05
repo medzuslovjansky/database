@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36672"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36672"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      naględny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наглядны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нагледен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>názorný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>očit</lemma>
+    <lemma>očigledan</lemma>
+    <lemma>očevidan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нагледен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poglądowy</lemma>
+    <lemma>naoczny</lemma>
+    <lemma>namacalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наглядный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>názorný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nazoren</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>очигледан</lemma>
+    <lemma>очевидан</lemma>
+    <lemma>показни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наочний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vida</lemma>
+    <lemma>demonstra</lemma>
+    <lemma>priskriba</lemma>
+    <lemma>grafika</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>visuell</lemma>
+    <lemma>demonstrativ</lemma>
+    <lemma>beschreibend</lemma>
+    <lemma>grafisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanschouwelijk</lemma>
+    <lemma>inzichtelijk</lemma>
+  </synset>
+</multilingual-synset>

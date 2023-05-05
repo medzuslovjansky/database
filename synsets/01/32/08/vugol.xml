@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13208"
+      steen:addition="(vųgla)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      vųgȯl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кут</lemma>
+    <lemma>вугал</lemma>
+    <lemma>рог</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ъгъл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>roh</lemma>
+    <lemma>kout</lemma>
+    <lemma>úhel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kut</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>агол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kąt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>угол</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>roh</lemma>
+    <lemma>kút</lemma>
+    <lemma>uhol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>угао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кут</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>angulo</lemma>
+    <lemma>angulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Winkel</lemma>
+    <lemma>Winkel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoek</lemma>
+  </synset>
+</multilingual-synset>

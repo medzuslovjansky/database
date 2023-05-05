@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20148"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20148"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      komponent
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кампанент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съставка</lemma>
+    <lemma>компонент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>součást</lemma>
+    <lemma>komponenta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>komponenta</lemma>
+    <lemma>sastavnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компонента</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>składnik</lemma>
+    <lemma>komponent</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компонент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>súčasť</lemma>
+    <lemma>komponent</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>komponento</lemma>
+    <lemma>komponento</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компонента</lemma>
+    <lemma>састојак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>компонент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komponanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Komponente</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>component</lemma>
+  </synset>
+</multilingual-synset>

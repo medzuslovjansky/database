@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3134"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3134" steen:pos="f." steen:type="2" steen:same="ru bm">
+      počva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глеба</lemma>
+    <lemma>грунт</lemma>
+    <lemma>зямля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>почвата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>půda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tlo</lemma>
+    <lemma>zemlja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>почва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gleba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>почва</lemma>
+    <lemma>грунт</lemma>
+    <lemma>земля</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pôda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zemljišč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земљиште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ґрунт</lemma>
+    <lemma>земля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grundo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Boden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bodem</lemma>
+    <lemma>grond</lemma>
+  </synset>
+</multilingual-synset>

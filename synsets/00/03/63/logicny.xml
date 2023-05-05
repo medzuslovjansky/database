@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="363"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="363" steen:pos="adj." steen:type="1" steen:genesis="I">
+      logičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>логичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>logický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>logičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>логичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>logiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>логичный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>logický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>logično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>логичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>логічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>logika</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>logisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>logisch</lemma>
+  </synset>
+</multilingual-synset>

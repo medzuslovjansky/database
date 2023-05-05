@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9393"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9393" steen:pos="m." steen:type="2" steen:same="v pl sl~">
+      nakaz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загад</lemma>
+    <lemma>наказ</lemma>
+    <lemma>даручэнне</lemma>
+    <lemma>мандат</lemma>
+    <lemma>ордэр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заповед</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příkaz</lemma>
+    <lemma>rozkaz</lemma>
+    <lemma>nařízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ukaz</lemma>
+    <lemma>naredba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>команда</lemma>
+    <lemma>наредба</lemma>
+    <lemma>налог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nakaz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приказ</lemma>
+    <lemma>наказ</lemma>
+    <lemma>поручение</lemma>
+    <lemma>мандат</lemma>
+    <lemma>ордер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>príkaz</lemma>
+    <lemma>rozkaz</lemma>
+    <lemma>nariadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Da</lemma>
+    <lemma>ukaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>налог</lemma>
+    <lemma>наредба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наказ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komando</lemma>
+    <lemma>ordono</lemma>
+    <lemma>ordo</lemma>
+    <lemma>mandato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Befehl</lemma>
+    <lemma>Auftrag</lemma>
+    <lemma>Auftrag</lemma>
+    <lemma>Options</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevel</lemma>
+    <lemma>commando</lemma>
+  </synset>
+</multilingual-synset>

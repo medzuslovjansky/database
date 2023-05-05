@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="288"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru uk"
+      steen:genesis="I"
+    >
+      defis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злучок</lemma>
+    <lemma>дэфіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тире</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomlčka</lemma>
+    <lemma annotation="spojovací či rozdělovací">čárka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povlaka</lemma>
+    <lemma>spojnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црта</lemma>
+    <lemma>тире</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łącznik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дефис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pomlčka</lemma>
+    <lemma annotation="spojovacie aj rozdeľovacia">čiarka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vezaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>црта</lemma>
+    <lemma>тире</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дефіс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streketo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bindestrich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koppelteken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30987"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30987"
+      steen:pos="m.pl."
+      steen:type="2"
+      steen:same="ru be pl cz"
+    >
+      valenky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валёнкі</lemma>
+    <lemma>чэсанкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ботуши</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>válenky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>valjenke</lemma>
+    <lemma>ruske čizme za zimu od valjanog sukna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид меки крзнени обувки, чизми">валенки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>walonki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>валенки</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>válenky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gumijasti škornji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="рус.">ваљенке</lemma>
+    <lemma>чизме од ваљаног сукна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повстяники</lemma>
+    <lemma>повстяки</lemma>
+    <lemma>валянки</lemma>
+    <lemma>валянці</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sentis botoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Filzstiefel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vilten laarzen">valenki</lemma>
+  </synset>
+</multilingual-synset>

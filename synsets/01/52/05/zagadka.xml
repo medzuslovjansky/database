@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15205"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15205" steen:pos="f." steen:type="2">zagadka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>задача</lemma>
+    <lemma>праблема</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задача</lemma>
+    <lemma>проблем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záhada</lemma>
+    <lemma>otázka</lemma>
+    <lemma>problém</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>problem</lemma>
+    <lemma>teškoća</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проблем</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwestia</lemma>
+    <lemma>zagadnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задача</lemma>
+    <lemma>проблема</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záhada</lemma>
+    <lemma>otázka</lemma>
+    <lemma>problém</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>težava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проблем</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завдання</lemma>
+    <lemma>проблема</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>problemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Problem</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vraagstuk</lemma>
+    <lemma>kwestie</lemma>
+  </synset>
+</multilingual-synset>

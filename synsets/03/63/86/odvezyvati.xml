@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36386"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36386"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      odvęzyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адвязваць</lemma>
+    <lemma>адпінаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="sth./sbd. от sth.">развързвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvazovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">odvezivati</lemma>
+    <lemma annotation="se">razvezivati</lemma>
+    <lemma>driješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одврзува</lemma>
+    <lemma>разврзува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwiązywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отвязывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odväzovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="sth./sbd. od sth.">odvezati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвезивати</lemma>
+    <lemma>развезивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відв&apos;язувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sth./sbd. de sth.">malligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="etw./sbd. von etw.">lösen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>losmaken</lemma>
+  </synset>
+</multilingual-synset>

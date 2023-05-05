@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9409"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9409" steen:pos="m.anim." steen:type="1">
+      najemny råbotnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наёмны працаўнік</lemma>
+    <lemma>наёмны работнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>баемен работник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>námezdní dělník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>najamni radnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наемен работник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>najemny pracownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наёмный работник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nájomný robotník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hranilca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>најамни радник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>найомний робітник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hiree</lemma>
+    <lemma>wageworker</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mieter</lemma>
+    <lemma>Lohnarbeiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>loonarbeider</lemma>
+  </synset>
+</multilingual-synset>

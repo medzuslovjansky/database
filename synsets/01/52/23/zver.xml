@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15223"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15223"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      zvěŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жывёла</lemma>
+    <lemma>жывёліна</lemma>
+    <lemma>звер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>животно</lemma>
+    <lemma>звяр</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvíře</lemma>
+    <lemma>živočich</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>životinja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѕвер</lemma>
+    <lemma>животно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwierzę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>животное</lemma>
+    <lemma>зверь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zviera</lemma>
+    <lemma>živočích</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žival</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>животиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тварина</lemma>
+    <lemma>звір</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>animalo</lemma>
+    <lemma>besto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Tier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dier</lemma>
+  </synset>
+</multilingual-synset>

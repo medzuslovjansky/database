@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5214"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5214" steen:pos="m." steen:type="1">směr</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кірунак</lemma>
+    <lemma>прасцінак</lemma>
+    <lemma>накіраванне</lemma>
+    <lemma annotation="зап.">напрамак</lemma>
+    <lemma annotation="зап.">накірунак</lemma>
+    <lemma>накіроўванне</lemma>
+    <lemma>скіроўванне</lemma>
+    <lemma>скіраванне</lemma>
+    <lemma>трэнд</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>посоката на тенденцията на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>směr</lemma>
+    <lemma>trend</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smjer</lemma>
+    <lemma>pravac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>насока</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kierunek</lemma>
+    <lemma>trend</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>направление</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>smer</lemma>
+    <lemma>trend</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smer</lemma>
+    <lemma>smer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смер</lemma>
+    <lemma>правац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напрям</lemma>
+    <lemma>напрямок</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>direkto</lemma>
+    <lemma>tendenco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Richtung</lemma>
+    <lemma>Trend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>richting</lemma>
+  </synset>
+</multilingual-synset>

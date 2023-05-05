@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32154"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32154" steen:pos="adj." steen:type="3" steen:same="ru">
+      laskavy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ласкавы</lemma>
+    <lemma>пяшчотны</lemma>
+    <lemma>адчувальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ласкав</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>něžný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nježan</lemma>
+    <lemma>osjetljiv</lemma>
+    <lemma>delikatan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нежен</lemma>
+    <lemma>чуствителен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czuły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ласковый</lemma>
+    <lemma>нежный</lemma>
+    <lemma>чувствительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nežný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nežen</lemma>
+    <lemma annotation="v primerjavi z nekom">občutljiv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нежан</lemma>
+    <lemma annotation="у односу на некога">осетљив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ласкавий</lemma>
+    <lemma>ніжний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tenera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zärtlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teder</lemma>
+  </synset>
+</multilingual-synset>

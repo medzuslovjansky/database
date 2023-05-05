@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31626" steen:pos="m.anim." steen:type="1">zlåtaŕ</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ювелір</lemma>
+    <lemma>пазалотнік</lemma>
+    <lemma annotation="саст.">злотнік</lemma>
+    <lemma annotation="саст.">златар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>златар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zlatník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zlatar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>златар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>złotnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ювелир</lemma>
+    <lemma annotation="устар.">золотарь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zlatník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zlatar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>златар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ювелір</lemma>
+    <lemma annotation="устар.">золотар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fandisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Goldschmied</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goudsmid</lemma>
+  </synset>
+</multilingual-synset>

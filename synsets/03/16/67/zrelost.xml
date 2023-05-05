@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31667"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31667"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      zrělosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сталасць</lemma>
+    <lemma>даспеласць</lemma>
+    <lemma>спеласць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зрялост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zralost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zrelost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зрелост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dojrzałość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зрелость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrelosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zrelost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зрелост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрілість</lemma>
+    <lemma>стиглість</lemma>
+    <lemma>спілість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>matureco</lemma>
+    <lemma>matureco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reif</lemma>
+    <lemma>Reif</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rijpheid</lemma>
+    <lemma>volwassenheid</lemma>
+  </synset>
+</multilingual-synset>

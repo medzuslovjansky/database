@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3252"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3252"
+      steen:addition="(stųpnja)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      stųpenj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ступень</lemma>
+    <lemma>прыступка</lemma>
+    <lemma>ступенька</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стъпала</lemma>
+    <lemma>стълби</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stupeň</lemma>
+    <lemma>schod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stupanj</lemma>
+    <lemma>stuba</lemma>
+    <lemma>stepenica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скалило</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stopień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ступень</lemma>
+    <lemma>ступенька</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stupeň</lemma>
+    <lemma>schod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>korak</lemma>
+    <lemma>stopnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>степеник</lemma>
+    <lemma>степен</lemma>
+    <lemma>стуба</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ступінь</lemma>
+    <lemma>сходинка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grado</lemma>
+    <lemma>ŝtuparo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grad</lemma>
+    <lemma>Treppen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mate</lemma>
+    <lemma>graad</lemma>
+    <lemma>trede</lemma>
+  </synset>
+</multilingual-synset>

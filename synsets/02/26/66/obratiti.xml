@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22666"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22666"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="uk pl yu"
+    >
+      obråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павярнуць</lemma>
+    <lemma>пакруціць</lemma>
+    <lemma>абвінуць</lemma>
+    <lemma>абгарнуць</lemma>
+    <lemma>абкруціць</lemma>
+    <lemma>абярнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>върти</lemma>
+    <lemma annotation="tr.">върти</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otočit</lemma>
+    <lemma>rotovat</lemma>
+    <lemma annotation="dokola">oběhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obrtati</lemma>
+    <lemma>okretati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сврте</lemma>
+    <lemma>обрна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrócić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>повернуть</lemma>
+    <lemma>обернуть</lemma>
+    <lemma>оборотить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>otočiť</lemma>
+    <lemma>rotovať</lemma>
+    <lemma annotation="dokola">obehnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtenje</lemma>
+    <lemma>vrtenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обртати</lemma>
+    <lemma>окретати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повернути</lemma>
+    <lemma>обгорнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Rotacii</lemma>
+    <lemma annotation="tr.">rondiras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drehen</lemma>
+    <lemma annotation="tr.">drehen sich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ronddraaien</lemma>
+    <lemma>roteren</lemma>
+  </synset>
+</multilingual-synset>

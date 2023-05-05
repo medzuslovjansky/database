@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11264"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11264" steen:pos="n." steen:type="1">prědstavjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадстаўленне</lemma>
+    <lemma>прыстаўленне</lemma>
+    <lemma>прывядзенне</lemma>
+    <lemma>паказванне</lemma>
+    <lemma>падаванне</lemma>
+    <lemma>падача</lemma>
+    <lemma>рэкамендацыя</lemma>
+    <lemma>рэкамендаванне</lemma>
+    <lemma>прэзентацыя</lemma>
+    <lemma>спектакль</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>въведение</lemma>
+    <lemma>представяне</lemma>
+    <lemma annotation="Драма">представа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>představení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predstavljanje</lemma>
+    <lemma>prezentacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претставување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przedstawienie</lemma>
+    <lemma>prezentacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>представление</lemma>
+    <lemma>презентация</lemma>
+    <lemma>спектакль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predstavenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predstavitev</lemma>
+    <lemma>predstavitev</lemma>
+    <lemma>predstava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>представљање</lemma>
+    <lemma>презентација</lemma>
+    <lemma>представа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>представлення</lemma>
+    <lemma>презентація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enkonduko</lemma>
+    <lemma>prezento</lemma>
+    <lemma annotation="teatro">prezento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einführung</lemma>
+    <lemma>Präsentation</lemma>
+    <lemma annotation="Theater">Performance</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>introductie</lemma>
+    <lemma>voorstelling</lemma>
+    <lemma>presentatie</lemma>
+  </synset>
+</multilingual-synset>

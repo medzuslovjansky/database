@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20913"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20913"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      napustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дыму / вады">напусціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напускам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napustit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pustiti</lemma>
+    <lemma>propustiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="dymu, płynu">napuścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дыму">напустить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napustiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. voda">odsotnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. воду">напустити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="води / диму">напустити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="akvo / fumo">enlasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Wasser / Rauch">lassen in</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>iets laten vollopen met</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7236"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7236"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      stačiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выстачаць</lemma>
+    <lemma>ставаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>достатъчно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stačit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dovoljno</lemma>
+    <lemma>dostatno</lemma>
+    <lemma>dosta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доволно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wystarczać</lemma>
+    <lemma>starczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хватать</lemma>
+    <lemma annotation="быть достаточным">доставать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stačiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Dovolj</lemma>
+    <lemma>dovolj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>довољно</lemma>
+    <lemma>у довољној мери</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вистачати</lemma>
+    <lemma annotation="бути достатнім, в достатній кількості">діставати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sufiĉas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>reichen</lemma>
+    <lemma>genügen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voldoen</lemma>
+    <lemma>toereikend zijn</lemma>
+    <lemma>genoeg zijn</lemma>
+  </synset>
+</multilingual-synset>

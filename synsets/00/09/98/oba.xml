@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="998"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="998"
+      steen:addition="(obě)"
+      steen:pos="num.card."
+      steen:type="1"
+    >
+      oba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абодва</lemma>
+    <lemma>абое</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oba</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="обѣ">оба</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="obje">oba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>и двете</lemma>
+    <lemma>обете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оба</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="oboje">Oboje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="обе">оба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обидва</lemma>
+    <lemma>оба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ambaŭ</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>beide</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beide</lemma>
+    <lemma>allebei</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2284"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2284"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="be z sh bg"
+    >
+      prěz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праз</lemma>
+    <lemma>цераз</lemma>
+    <lemma>упоперак</lemma>
+    <lemma>напоперак</lemma>
+    <lemma>поперак</lemma>
+    <lemma>напярок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>посредством</lemma>
+    <lemma>чрез</lemma>
+    <lemma>чрез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přes</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kroz</lemma>
+    <lemma>preko</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преку</lemma>
+    <lemma>низ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przez</lemma>
+    <lemma>poprzez</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>через</lemma>
+    <lemma>поперёк</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>cez</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skozi</lemma>
+    <lemma>čez</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кроз</lemma>
+    <lemma>преко</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>через</lemma>
+    <lemma>крізь</lemma>
+    <lemma>упоперек</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tra</lemma>
+    <lemma>trans</lemma>
+    <lemma>pere</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+    <lemma>über</lemma>
+    <lemma>über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>door</lemma>
+    <lemma>via</lemma>
+  </synset>
+</multilingual-synset>

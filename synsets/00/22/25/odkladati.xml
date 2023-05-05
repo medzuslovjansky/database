@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2225"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2225" steen:pos="v.tr. ipf." steen:type="1">
+      odkladati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адкладаць</lemma>
+    <lemma>адкладваць</lemma>
+    <lemma>даўніць</lemma>
+    <lemma>адтэрміноўваць</lemma>
+    <lemma>затрвмліваць</lemma>
+    <lemma>затрвмоўваць</lemma>
+    <lemma>стрымліваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спиране</lemma>
+    <lemma>отлагане</lemma>
+    <lemma>забавяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odkládat</lemma>
+    <lemma>pozastavovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odgađati</lemma>
+    <lemma>odlagati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одолжува</lemma>
+    <lemma>одолговлекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odraczać</lemma>
+    <lemma annotation="np. wyrok">zawieszać</lemma>
+    <lemma>odwlekać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на время">откладывать</lemma>
+    <lemma>отсрочивать</lemma>
+    <lemma>задерживать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odkladať</lemma>
+    <lemma>pozastavovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamudo</lemma>
+    <lemma>preložena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одлагати</lemma>
+    <lemma>одгађати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на якийсь час">відкладати</lemma>
+    <lemma>відстрочувати</lemma>
+    <lemma>затримувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malakcepti</lemma>
+    <lemma>prokrasti</lemma>
+    <lemma>prokrasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aussetzen</lemma>
+    <lemma>aufschieben</lemma>
+    <lemma>Verzögerungs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstellen</lemma>
+  </synset>
+</multilingual-synset>

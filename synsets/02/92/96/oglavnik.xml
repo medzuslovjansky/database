@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29296"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29296"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs~ sl sh~ mk~ bg"
+    >
+      oglåvnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кантар</lemma>
+    <lemma>аброць</lemma>
+    <lemma>вобруць</lemma>
+    <lemma>повад</lemma>
+    <lemma annotation="для сабаку">шворка</lemma>
+    <lemma>павадок</lemma>
+    <lemma>павадак</lemma>
+    <lemma>свора</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>halter</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohlávka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ular</lemma>
+    <lemma>povodnik</lemma>
+    <lemma>povodac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оглавник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kantar</lemma>
+    <lemma>uździenica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>недоуздок</lemma>
+    <lemma>повод</lemma>
+    <lemma>поводок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ohlávka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povodcem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>улар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оброть</lemma>
+    <lemma>вуздечка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cabestro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Halfter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>halster</lemma>
+  </synset>
+</multilingual-synset>

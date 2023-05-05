@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23074" steen:pos="m." steen:type="2" steen:same="j">
+      vid
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>від</lemma>
+    <lemma>поле зроку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взор</lemma>
+    <lemma>зрение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vid</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вид</lemma>
+    <lemma>способност за гледање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wzrok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вид</lemma>
+    <lemma>поле зрения</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zrak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="občutek">vid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="чуло">вид</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вид</lemma>
+    <lemma>поле зору</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sehvermögen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezichtsvermogen</lemma>
+  </synset>
+</multilingual-synset>

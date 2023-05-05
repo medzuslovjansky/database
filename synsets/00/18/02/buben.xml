@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1802"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1802"
+      steen:addition="(bųbna)"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="z yu"
+    >
+      bųben
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бубен</lemma>
+    <lemma>барабан</lemma>
+    <lemma>тарабан</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>барабан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>buben</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bubanj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тапан</lemma>
+    <lemma>барабан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bęben</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бубен</lemma>
+    <lemma>барабан</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bubon</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>boben</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бубањ</lemma>
+    <lemma>добош</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бубон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tamburo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Trommel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>trommel</lemma>
+    <lemma>trom</lemma>
+  </synset>
+</multilingual-synset>

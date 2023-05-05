@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1398"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1398" steen:pos="adj." steen:type="1" steen:same="v z j">
+      sovětsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>савецкі</lemma>
+    <lemma>падсавецкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Съветският</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sovětský</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sovjetski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>советски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sowiecki</lemma>
+    <lemma>radziecki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>советский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sovietsky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sovjetska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>совјетски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>радянський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Sovetio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sowjetisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Sovjet-</lemma>
+  </synset>
+</multilingual-synset>

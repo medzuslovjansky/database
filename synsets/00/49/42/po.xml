@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4942"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4942"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па</lemma>
+    <lemma annotation="напр.: па шыю">да</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="po krk">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>do</lemma>
+    <lemma>sve do</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>до</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. po szyję">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по шею">до</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="po krk">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>k</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>до</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по шию">до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bis zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. nek">tot aan</lemma>
+  </synset>
+</multilingual-synset>

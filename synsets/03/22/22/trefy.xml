@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32222"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32222" steen:pos="f.pl." steen:type="1" steen:genesis="F">
+      trefy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крэсці</lemma>
+    <lemma>жолудзі</lemma>
+    <lemma annotation="карты">трэфы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="карта">спатия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trefy</lemma>
+    <lemma>kříže</lemma>
+    <lemma annotation="karty">žaludy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tref</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>треф</lemma>
+    <lemma annotation="карти">детелинка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="karty">trefl</lemma>
+    <lemma annotation="karty">żołądź</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">трефы</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trefy</lemma>
+    <lemma>kríže</lemma>
+    <lemma annotation="karty">žalude</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klub</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>треф</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">трефи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">kluboj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Clubs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">ruiten</lemma>
+  </synset>
+</multilingual-synset>

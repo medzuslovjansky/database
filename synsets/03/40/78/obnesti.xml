@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34078"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34078"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="cs sl"
+    >
+      obnesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знасіць</lemma>
+    <lemma annotation="абутак">вынасіць пастопваць</lemma>
+    <lemma>пазношваць</lemma>
+    <lemma>дарваць</lemma>
+    <lemma>падарваць</lemma>
+    <lemma>сцягаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>затрахали</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obnostit</lemma>
+    <lemma>opotřebovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otrcati</lemma>
+    <lemma>istrošiti</lemma>
+    <lemma>izlizati</lemma>
+    <lemma>ofucati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>износи</lemma>
+    <lemma>истроши</lemma>
+    <lemma annotation="од носење">потроши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przez noszenie">zużyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>износить</lemma>
+    <lemma>потрепать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obnosiť</lemma>
+    <lemma>opotrebovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="obutev, oblačila">količina</lemma>
+    <lemma>oblačila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="обућу, одећу">износити</lemma>
+    <lemma>истрошити</lemma>
+    <lemma>излизати</lemma>
+    <lemma>офуцати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="речі">зносити</lemma>
+    <lemma annotation="взуття">стоптати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eluzi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abnutzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">afdragen</lemma>
+  </synset>
+</multilingual-synset>

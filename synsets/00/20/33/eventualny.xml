@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2033"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2033"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      eventuaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магчымы</lemma>
+    <lemma>меркаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>евентуален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>případný</lemma>
+    <lemma>možný</lemma>
+    <lemma>eventuální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eventualan</lemma>
+    <lemma>moguć</lemma>
+    <lemma>možebitan</lemma>
+    <lemma>pretpostavljiv</lemma>
+    <lemma>uvjetan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>евентуален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ewentualny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возможный</lemma>
+    <lemma>предположительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prípadný</lemma>
+    <lemma>možný</lemma>
+    <lemma>eventuálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>morebitno</lemma>
+    <lemma>mogoče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>евентуалан</lemma>
+    <lemma>могућ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>можливий</lemma>
+    <lemma>вірогідний</lemma>
+    <lemma>імовірний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eble</lemma>
+    <lemma>imagebla</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schließlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eventueel</lemma>
+  </synset>
+</multilingual-synset>

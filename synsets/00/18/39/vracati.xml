@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1839"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1839"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="pl cz sh"
+    >
+      vraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вяртаць</lemma>
+    <lemma>павяртаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>връщам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vracet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vratiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>враќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddawać</lemma>
+    <lemma>zwracać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возвращать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vracať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrnitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вратити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>повертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="redoni">reveno</lemma>
+    <lemma>redoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zurückgeben">Rückkehr</lemma>
+    <lemma>zurück geben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teruggeven</lemma>
+    <lemma>retourneren</lemma>
+  </synset>
+</multilingual-synset>

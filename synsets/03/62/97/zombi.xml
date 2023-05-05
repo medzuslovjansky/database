@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36297"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36297"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      zombi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зомбі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зомби</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zombie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zombi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зомби</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zombi</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зомби</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zombie</lemma>
+    <lemma>živá mŕtvola</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zombi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зомби</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зомбі</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>zombio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zombie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zombie</lemma>
+  </synset>
+</multilingual-synset>

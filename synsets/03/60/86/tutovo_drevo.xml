@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36086" steen:pos="n." steen:type="2" steen:same="v bg">
+      tutovo drěvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шаўкоўніца</lemma>
+    <lemma>морва</lemma>
+    <lemma>тутаўнік</lemma>
+    <lemma>тутавае дрэва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="дърво">черница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="strom">moruše</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="drvo">dud</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црница</lemma>
+    <lemma annotation="дрво">дудинка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="drzewo">morwa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шелковица</lemma>
+    <lemma>тутовник</lemma>
+    <lemma>тутовое дерево</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="strom">moruše</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="drevo">Mulberry</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="дрво">дуд</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шовковиця</lemma>
+    <lemma>шовковичне дерево</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="arbo">mulberry</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Maulbeerbaum)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>moerbeiboom</lemma>
+  </synset>
+</multilingual-synset>

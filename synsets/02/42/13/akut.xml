@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24213"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl cz sh bg"
+    >
+      akut
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>востры акцэнт</lemma>
+    <lemma>націск</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>акут</lemma>
+    <lemma>остро ударение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>akut</lemma>
+    <lemma>ostrý akcent</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>akutni naglasak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>акутен акцент</lemma>
+    <lemma>легнат акцент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akcent ostry</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>акут</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>akút</lemma>
+    <lemma>ostrý prízvuk</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ostrivec</lemma>
+    <lemma>akut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>акутни акценат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>акут</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akuto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Akut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accent aigu</lemma>
+  </synset>
+</multilingual-synset>

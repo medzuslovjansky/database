@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34311"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34311"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v pl sh"
+    >
+      izplyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="уплаў">выплываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изплавам</lemma>
+    <lemma>изплувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplavávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isplivavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испливува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вплавь">выплывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplavávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na površini</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испливавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naĝi eksteren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hinausschwimmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegzwemmen</lemma>
+  </synset>
+</multilingual-synset>

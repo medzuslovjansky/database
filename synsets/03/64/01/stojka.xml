@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36401" steen:pos="f." steen:type="1" steen:same="v cs j">
+      stojka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пастава</lemma>
+    <lemma>поза</lemma>
+    <lemma annotation="спорт">стойка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поза</lemma>
+    <lemma>поза</lemma>
+    <lemma annotation="спорт, борба">позиция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stojka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poza</lemma>
+    <lemma>stav</lemma>
+    <lemma>položaj</lemma>
+    <lemma>držanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>став</lemma>
+    <lemma>држење</lemma>
+    <lemma annotation="спорт, борба">став</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>postawa</lemma>
+    <lemma>postura</lemma>
+    <lemma>poza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поза</lemma>
+    <lemma annotation="спорт">стойка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stojka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poza</lemma>
+    <lemma>drža</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поза</lemma>
+    <lemma>држање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поза</lemma>
+    <lemma annotation="спорт">стійка</lemma>
+    <lemma>стойка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pozo</lemma>
+    <lemma>sinteno</lemma>
+    <lemma annotation="sportoj, batalo">sinteno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pose</lemma>
+    <lemma>Haltung</lemma>
+    <lemma annotation="Sport, Kampf">Haltung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pose</lemma>
+    <lemma>houding</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22479"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22479"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="uk sk sh bm"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="22479"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="uk sk sh bm"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дамінаваць</lemma>
+    <lemma>быць пашыраным</lemma>
+    <lemma>быць распаўсюджаным</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>овладявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vládnout</lemma>
+    <lemma>dominovat</lemma>
+    <lemma>být převládající</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>predvladavati</lemma>
+    <lemma>dominirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преовладува</lemma>
+    <lemma>доминираа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dominować</lemma>
+    <lemma>owładywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доминировать</lemma>
+    <lemma>быть распространённым</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vládnuť</lemma>
+    <lemma>dominovať</lemma>
+    <lemma>byť prevládajúci</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predvladavati</lemma>
+    <lemma>prevladujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преовладавати</lemma>
+    <lemma>предвладавати</lemma>
+    <lemma>доминирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>домінувати</lemma>
+    <lemma>бути поширеним</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regas</lemma>
+    <lemma>estu ĝenerala</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dominieren</lemma>
+    <lemma>werden weit verbreitet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>domineren</lemma>
+    <lemma>de boventoon voeren</lemma>
+  </synset>
+</multilingual-synset>

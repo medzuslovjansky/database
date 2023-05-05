@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34850"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34850"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      obraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навярняць</lemma>
+    <lemma annotation="у рэлігію">пераварочваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="СБД. към религията">преобразуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obracet</lemma>
+    <lemma annotation="někoho k něčemu, na něco">převádět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pretvarati</lemma>
+    <lemma>mijenjati</lemma>
+    <lemma>konvertirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преобратува</lemma>
+    <lemma annotation="религија">конвертира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawracać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в религию">обращать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obracať</lemma>
+    <lemma annotation="niekoho k niečomu, na niečo">prevádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pretvorba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преобратити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="у віру">навертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="SBD. al religio">konverti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="sbd. zu einer Religion">konvertieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bekeren</lemma>
+  </synset>
+</multilingual-synset>

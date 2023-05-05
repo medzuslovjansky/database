@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35703"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35703"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      žrec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жрэц</lemma>
+    <lemma>бажэннік</lemma>
+    <lemma annotation="паганскі">святар</lemma>
+    <lemma>пробашч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жрец</lemma>
+    <lemma annotation="езически">свещеник</lemma>
+    <lemma>друид</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="staroslovanský kněz">žrec</lemma>
+    <lemma>druid</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrač</lemma>
+    <lemma>šaman</lemma>
+    <lemma>druid</lemma>
+    <lemma>mag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свештеник</lemma>
+    <lemma>жрец</lemma>
+    <lemma annotation="пагански">друид</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kapłan</lemma>
+    <lemma>druid</lemma>
+    <lemma>żerca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жрец</lemma>
+    <lemma annotation="языческий">священник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žrec</lemma>
+    <lemma>pohanský kňaz</lemma>
+    <lemma annotation="u starých slovanov">veštec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>svečenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свештеник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жрець</lemma>
+    <lemma>друїд</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pastro</lemma>
+    <lemma annotation="pagana">sacerdoto</lemma>
+    <lemma>druido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Heide">Druide Priester</lemma>
+    <lemma />
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="heidens">priester</lemma>
+    <lemma>druïde</lemma>
+  </synset>
+</multilingual-synset>

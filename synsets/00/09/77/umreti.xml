@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="977"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="977"
+      steen:addition="(umre)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      umreti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памерці</lemma>
+    <lemma>струпянець</lemma>
+    <lemma>паўміраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>умра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umřít</lemma>
+    <lemma>zemřít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umrijeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умре</lemma>
+    <lemma>почина</lemma>
+    <lemma>упокои</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умереть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>umrieť</lemma>
+    <lemma>zomrieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>die</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умрети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>померти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>morti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sterben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sterven</lemma>
+    <lemma>overlijden</lemma>
+    <lemma>doodgaan</lemma>
+  </synset>
+</multilingual-synset>

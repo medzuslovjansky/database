@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2170"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2170"
+      steen:addition="(zabųde)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+    >
+      zabyti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>забравя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapomenout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaboraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заборави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapomnieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>забыть</lemma>
+    <lemma>запамятовать</lemma>
+    <lemma>позабыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zabudnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pozabiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заборавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forgesas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vergessen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergeten</lemma>
+  </synset>
+</multilingual-synset>

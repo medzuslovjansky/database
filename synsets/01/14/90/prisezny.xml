@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11490"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11490"
+      steen:addition="(-ogo)"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      prisęžny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысяжны</lemma>
+    <lemma>прысяглы</lemma>
+    <lemma>павераны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съдебен заседател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>porotce</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>porotnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поротник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przysięgły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присяжный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>porotca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>porotnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поротник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>присяжний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="leĝo">ĵurio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschworene</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jurylid</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18093"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18093"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk pl"
+    >
+      odrųbati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адрубіць</lemma>
+    <lemma>адсячы</lemma>
+    <lemma>уцяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оттяпать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>utnout</lemma>
+    <lemma>odseknout</lemma>
+    <lemma>useknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odrubiti</lemma>
+    <lemma>odsjeći</lemma>
+    <lemma>odrezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odrąbać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отрубить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stopnúť</lemma>
+    <lemma>odseknúť</lemma>
+    <lemma>useknúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dajmo dajmo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрубити</lemma>
+    <lemma>одсећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відрубати</lemma>
+    <lemma>відсікти</lemma>
+    <lemma>відтяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hakas for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abhacken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afhakken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16738"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16738"
+      steen:addition="(-ogo)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      zloty
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злоты [PLN]</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="PLN">злота</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="PLN">zlotý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zlot</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="полска парична единица">злота</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="PLN">złoty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>злотый [PLN]</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="PLN">zlotý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="poljski valuti">zlot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пољска валута">злот</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>злотий [PLN]</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Zloty</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zloty</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zloty</lemma>
+  </synset>
+</multilingual-synset>

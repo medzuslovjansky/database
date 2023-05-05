@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33579"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33579"
+      steen:addition="(svije)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk pl sk"
+    >
+      sviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звіць</lemma>
+    <lemma>павіць</lemma>
+    <lemma annotation="ніткі міжсобку">сплесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мелирование</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>splést</lemma>
+    <lemma>svinout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>satkati</lemma>
+    <lemma>splesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увие</lemma>
+    <lemma>уплете</lemma>
+    <lemma>заплетка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spleść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свить</lemma>
+    <lemma annotation="нити между собой">сплести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spliesť</lemma>
+    <lemma>zvinúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasuk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уплести</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>звити</lemma>
+    <lemma annotation="нитки між собою">сплести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>weave</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weven</lemma>
+    <lemma>breien</lemma>
+  </synset>
+</multilingual-synset>

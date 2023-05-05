@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30057"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30057"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="v j cu"
+    >
+      radi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзеля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>заради това</lemma>
+    <lemma>сметката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvůli</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>radi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поради</lemma>
+    <lemma>заради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z powodu</lemma>
+    <lemma>ze względu na</lemma>
+    <lemma>na rzecz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ради</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvôli</lemma>
+    <lemma>z dôvodu</lemma>
+    <lemma>pre</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaradi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ради</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заради</lemma>
+    <lemma>через</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pro</lemma>
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>im Interesse der</lemma>
+    <lemma>wegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ten behoeve van</lemma>
+    <lemma>met het oog op</lemma>
+  </synset>
+</multilingual-synset>

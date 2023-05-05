@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35187"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35187"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      bacil
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бацыла</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бацил</lemma>
+    <lemma>микроб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bacil</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bacil</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бацил</lemma>
+    <lemma>бактерија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="bakteria">pałeczka</lemma>
+    <lemma annotation="bakteria">laseczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бацилла</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bacil</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bacil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бацил</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бацила</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bacilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bazillus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bacil</lemma>
+  </synset>
+</multilingual-synset>

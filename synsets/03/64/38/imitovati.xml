@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36438"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36438"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      imitovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>імітаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>имитирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>imitovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>imitirati</lemma>
+    <lemma>oponašati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>имитира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>imitować</lemma>
+    <lemma>naśladować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>имитировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>imitovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posnemajo</lemma>
+    <lemma>posnemati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имитирати</lemma>
+    <lemma>опонашати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>імітувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imiti</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>imitieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>imiteren</lemma>
+  </synset>
+</multilingual-synset>

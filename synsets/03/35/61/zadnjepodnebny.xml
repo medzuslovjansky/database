@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33561"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33561"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl sk yu"
+    >
+      zadnjepodnebny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заднеязыкі</lemma>
+    <lemma>заднеязычны</lemma>
+    <lemma>заднепаднябенны</lemma>
+    <lemma annotation="гук">велярны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задненонебен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zadopatrový</lemma>
+    <lemma>velární</lemma>
+    <lemma>postpalatální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadnjonepčani</lemma>
+    <lemma>stražnjonepčani velarni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заднонепчен</lemma>
+    <lemma>веларен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tylnopodniebienny</lemma>
+    <lemma>welarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заднеязычный</lemma>
+    <lemma>задненёбный</lemma>
+    <lemma annotation="звук">велярный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zadopatrový</lemma>
+    <lemma>velárny</lemma>
+    <lemma>postpalatálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>back</lemma>
+    <lemma>velarni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задњонепчани</lemma>
+    <lemma>веларни</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>задньоязиковий</lemma>
+    <lemma>задньопіднебінний</lemma>
+    <lemma annotation="звук">велярний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>post-palatala</lemma>
+    <lemma>velara</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Post-Gaumen</lemma>
+    <lemma>velar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>postpalataal</lemma>
+    <lemma>velaar</lemma>
+  </synset>
+</multilingual-synset>

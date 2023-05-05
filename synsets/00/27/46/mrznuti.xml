@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2746"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2746" steen:pos="v.intr. ipf." steen:type="1">
+      mrznųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мерзнуць</lemma>
+    <lemma>мёрзнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мръзна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mrznout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrznuti</lemma>
+    <lemma annotation="se">smrzavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замрзнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marznąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мёрзнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mrznúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mrznuti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мрзнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мерзнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="netransitiva">frostigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intransitiv">freeze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevriezen</lemma>
+  </synset>
+</multilingual-synset>

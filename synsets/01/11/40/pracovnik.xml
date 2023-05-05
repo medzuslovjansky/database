@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11140"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11140"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      pracovnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>працаўнік</lemma>
+    <lemma>супрацоўнік</lemma>
+    <lemma>працоўны</lemma>
+    <lemma>работніцкі</lemma>
+    <lemma>рабочы</lemma>
+    <lemma>службовец</lemma>
+    <lemma>урадовец</lemma>
+    <lemma>які служыць</lemma>
+    <lemma>служылы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>работник</lemma>
+    <lemma>служител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pracovník</lemma>
+    <lemma>zaměstnanec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>radnik</lemma>
+    <lemma>zaposlenik</lemma>
+    <lemma>djelatnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>работник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pracownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>работник</lemma>
+    <lemma>сотрудник</lemma>
+    <lemma>рабочий</lemma>
+    <lemma>служащий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pracovník</lemma>
+    <lemma>zamestnanec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>delavec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>працівник</lemma>
+    <lemma>співробітник</lemma>
+    <lemma>робітник</lemma>
+    <lemma>службовець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laboristo</lemma>
+    <lemma>oficisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Arbeiter</lemma>
+    <lemma>Angestellte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werknemer</lemma>
+    <lemma>arbeider</lemma>
+  </synset>
+</multilingual-synset>

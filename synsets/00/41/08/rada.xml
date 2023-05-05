@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4108"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4108" steen:pos="f." steen:type="2" steen:same="ub z">
+      rada
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рада</lemma>
+    <lemma>парада</lemma>
+    <lemma>дарада</lemma>
+    <lemma>падказка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съвет</lemma>
+    <lemma annotation="оферта">съвет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ráda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>savjet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>совет</lemma>
+    <lemma>предлог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совет</lemma>
+    <lemma>подсказка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navodila</lemma>
+    <lemma>predlogi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>савет</lemma>
+    <lemma>сугестија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>порада</lemma>
+    <lemma>підказка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsiloj</lemma>
+    <lemma annotation="sugesto">pinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beratung</lemma>
+    <lemma annotation="Vorschlag">Spitze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>raad</lemma>
+    <lemma>advies</lemma>
+    <lemma>tip</lemma>
+  </synset>
+</multilingual-synset>

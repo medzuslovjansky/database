@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11302"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11302" steen:pos="v.tr. pf." steen:type="1">
+      prěključiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перамкнуць</lemma>
+    <lemma>пераключыць</lemma>
+    <lemma>перакінуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ключ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přepnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>priključiti</lemma>
+    <lemma>promijeniti</lemma>
+    <lemma annotation="tv kanale">prebaciti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>префрли</lemma>
+    <lemma>приклучи</lemma>
+    <lemma annotation="тв">смени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przełączyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переключить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prepnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preključiti</lemma>
+    <lemma>sprememba</lemma>
+    <lemma annotation="TV kanali">akcija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прекључити</lemma>
+    <lemma>променити</lemma>
+    <lemma annotation="тв канале">пребацити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перемкнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝalti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schalter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omschakelen</lemma>
+  </synset>
+</multilingual-synset>

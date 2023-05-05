@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32585"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32585"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      vȯzkliknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>усклікнуць</lemma>
+    <lemma>ускрыкнуць</lemma>
+    <lemma>выклікнуць</lemma>
+    <lemma>выгукнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възкликна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvolat</lemma>
+    <lemma>vykřiknout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uzviknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>воскликна</lemma>
+    <lemma>извика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykrzyknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воскликнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvolať</lemma>
+    <lemma>vykríknuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vzkliknil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узвикнути</lemma>
+    <lemma>ускликнути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вигукнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekkrii</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausrufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitroepen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5191" steen:pos="adj." steen:type="1">srědnji</lemma>
+    <lemma steen:id="5191" steen:pos="adj." steen:type="1">srědny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="матэм.">сярэдні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>средно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průměrný</lemma>
+    <lemma>střední</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prosječan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>просечен</lemma>
+    <lemma>среден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeciętny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="матем.">средний</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priemerný</lemma>
+    <lemma>stredný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povprečna</lemma>
+    <lemma>srednja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>просечан</lemma>
+    <lemma>средњи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="матем.">середній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>averaĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Durchschnittlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gemiddeld</lemma>
+  </synset>
+</multilingual-synset>

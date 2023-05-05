@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25504"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25504" steen:pos="f." steen:type="1" steen:genesis="I">
+      fleksija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>флексія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>флексия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skloňování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fleksija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>флексија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">odmiana</lemma>
+    <lemma>fleksja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>флексия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skloňovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>upogib (g).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="грам.">флексија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>словозміна</lemma>
+    <lemma>флексія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fleksio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Flexion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inflectie</lemma>
+  </synset>
+</multilingual-synset>

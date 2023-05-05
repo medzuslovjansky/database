@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24833"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24833"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="pl yu mk"
+    >
+      broditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прабірацца</lemma>
+    <lemma>пераходзіць уброд</lemma>
+    <lemma>блукаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бродя</lemma>
+    <lemma>блуждая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brodit</lemma>
+    <lemma>brodit se</lemma>
+    <lemma>přebrozovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>броди</lemma>
+    <lemma>оди</lemma>
+    <lemma>мине</lemma>
+    <lemma annotation="преку планина,вода">премине</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пробираться</lemma>
+    <lemma>переходить вброд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>brodiť</lemma>
+    <lemma>brodiť sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>broditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бродити</lemma>
+    <lemma>газити</lemma>
+    <lemma annotation="у смислу: воду">бродити брод</lemma>
+    <lemma>бродити воду</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бродити</lemma>
+    <lemma>блукати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>chapoteo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>waten</lemma>
+    <lemma>durchwaten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waden</lemma>
+  </synset>
+</multilingual-synset>

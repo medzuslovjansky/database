@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11984"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11984" steen:pos="f." steen:type="2" steen:same="j">
+      rěč
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дума</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slovo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>riječ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реч</lemma>
+    <lemma>збор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>słowo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слово</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>slovo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="da besedo">Beseda govora</lemma>
+    <lemma annotation="dana beseda">obljuba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>реч</lemma>
+    <lemma annotation="држати реч">говор</lemma>
+    <lemma annotation="дати реч">обећање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слово</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vorto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>woord</lemma>
+  </synset>
+</multilingual-synset>

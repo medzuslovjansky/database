@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2924"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2924"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      nadzirati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наглядаць</lemma>
+    <lemma>прыглядаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надзиравам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dohlížet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadzirati</lemma>
+    <lemma>nadgledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>надзира</lemma>
+    <lemma>надгледува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>doglądać</lemma>
+    <lemma>nadzorować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>надзирать</lemma>
+    <lemma>присматривать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dohliadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spremljanje</lemma>
+    <lemma>nadzor</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>надзирати</lemma>
+    <lemma>надгледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наглядати</lemma>
+    <lemma>пильнувати</lemma>
+    <lemma>контролювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontroli</lemma>
+    <lemma>supervisar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beaufsichtigen</lemma>
+    <lemma>überwachen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overzien</lemma>
+    <lemma>toezicht houden</lemma>
+  </synset>
+</multilingual-synset>

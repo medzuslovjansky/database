@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28803"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28803"
+      steen:addition="(obleti)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      obletěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абляцець</lemma>
+    <lemma>абкруціцца</lemma>
+    <lemma>апасці</lemma>
+    <lemma>паападаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>облетают</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obletět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obletjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>облета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oblecieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>облететь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obletieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Letno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>облетети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>облетіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flugi ronda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fliegen rund</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rondvliegen</lemma>
+    <lemma>om … heen vliegen</lemma>
+  </synset>
+</multilingual-synset>

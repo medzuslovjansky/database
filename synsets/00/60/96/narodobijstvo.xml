@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6096" steen:pos="n.sg." steen:type="1">
+      narodobijstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>генацыд</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>геноцид</lemma>
+    <lemma>народоубийство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>genocida</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>genocid</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>геноцид</lemma>
+    <lemma>масовно убиство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ludobójstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>геноцид</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>genocída</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>genocid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>геноцид</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>людовбивство</lemma>
+    <lemma>геноцид</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>genocido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Völkermord</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genocide</lemma>
+    <lemma>volkenmoord</lemma>
+  </synset>
+</multilingual-synset>

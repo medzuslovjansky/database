@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="746"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="746"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      mimo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>міма</lemma>
+    <lemma>паўз</lemma>
+    <lemma>паблізу</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>покрай</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>покрај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мимо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preteklosti</lemma>
+    <lemma>poleg</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мимо</lemma>
+    <lemma>поред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мимо</lemma>
+    <lemma>повз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasinteco</lemma>
+    <lemma>per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vorbei an</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>langs</lemma>
+    <lemma>voorbij</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36411"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36411"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="I"
+    >
+      råzkvartirovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раскватараваць</lemma>
+    <lemma>закватараваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разквартирувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ubyvovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razmjestiti</lemma>
+    <lemma>rasporediti</lemma>
+    <lemma>smjestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смести</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkwaterować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расквартировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ubyvovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uvajanje</lemma>
+    <lemma>uvajanje</lemma>
+    <lemma>poiščite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разместити</lemma>
+    <lemma>распоредити</lemma>
+    <lemma>сместити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розквартирувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="trupoj">kvarono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>einquartieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inkwartieren</lemma>
+  </synset>
+</multilingual-synset>

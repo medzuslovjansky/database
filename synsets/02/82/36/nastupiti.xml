@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28236"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28236"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru cs~ yu"
+    >
+      nastųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наступіць</lemma>
+    <lemma>надысці</lemma>
+    <lemma>настаць</lemma>
+    <lemma>запанаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настъпва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastoupit</lemma>
+    <lemma annotation="čas">přijít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napredovati</lemma>
+    <lemma>uznapredovati</lemma>
+    <lemma annotation="se">razviti</lemma>
+    <lemma annotation="se">odmaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>надојде</lemma>
+    <lemma>настапи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nastąpić</lemma>
+    <lemma>nadejść</lemma>
+    <lemma annotation="zacząć się">nastać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наступить</lemma>
+    <lemma>настать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastúpiť</lemma>
+    <lemma annotation="čas">prísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvesti</lemma>
+    <lemma>stojalo</lemma>
+    <lemma>doseg</lemma>
+    <lemma>poteptali</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наступити</lemma>
+    <lemma>стати</lemma>
+    <lemma>доћи</lemma>
+    <lemma>згазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>настати</lemma>
+    <lemma>прийти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anticipe</lemma>
+    <lemma>venu</lemma>
+    <lemma>metita en</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Voraus</lemma>
+    <lemma>kommen</lemma>
+    <lemma>stellen in</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>op komst zijn</lemma>
+    <lemma annotation="tijd">aanbreken</lemma>
+  </synset>
+</multilingual-synset>

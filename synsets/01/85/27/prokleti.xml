@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18527"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18527"
+      steen:addition="(proklne)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      proklęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праклясці</lemma>
+    <lemma>склясці</lemma>
+    <lemma>выклясці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кълна се в</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapřísahat se</lemma>
+    <lemma>přísahat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kunete</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проколна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeklnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проклясть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zaprisahať sa</lemma>
+    <lemma>prisahať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Preklinjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">заклињати</lemma>
+    <lemma annotation="се">клети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проклясти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĵuri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwören</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vloeken</lemma>
+  </synset>
+</multilingual-synset>

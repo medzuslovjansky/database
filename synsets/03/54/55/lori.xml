@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35455"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35455"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      lori
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="папугай">лоры</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вид папагал">лори</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>malý papoušek</lemma>
+    <lemma>lori</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lori</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид папагал">лори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lory</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="попугай">лори</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>malý papagáj</lemma>
+    <lemma>lori</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vrsta parrot">Lori</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="врста папагаја">лори</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лорі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Lory</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>lory</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lori</lemma>
+  </synset>
+</multilingual-synset>

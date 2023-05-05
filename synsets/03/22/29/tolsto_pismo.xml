@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32229"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32229" steen:pos="n." steen:type="3" steen:same="be">
+      tȯlsto piśmo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўтлусты шрыфт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>с удебелен шрифт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tučné písmo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bold</lemma>
+    <lemma>podebljana slova</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>здебелено пишување</lemma>
+    <lemma>здебелено писмо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pismo pogrubione</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полужирный шрифт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tučné písmo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krepko črke</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подебљана слова</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>напівжирний шрифт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grasa fasono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fettdruck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vetgedrukt</lemma>
+  </synset>
+</multilingual-synset>

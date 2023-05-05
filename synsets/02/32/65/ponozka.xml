@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23265"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23265"
+      steen:pos="f."
+      steen:type="3"
+      steen:same="cs"
+      steen:genesis="S"
+    >
+      ponožka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шкарпэтка</lemma>
+    <lemma>шкарпэта</lemma>
+    <lemma>насок</lemma>
+    <lemma>мысок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чорап</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ponožka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čarapa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чорапа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skarpeta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>носок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ponožka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nogavica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чарапа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шкарпетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝtrumpeto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Socke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sok</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20865"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20865"
+      steen:addition="(hvěje)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      hvějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вагацца</lemma>
+    <lemma>разгойдваць</lemma>
+    <lemma>хістаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>колебая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chvět</lemma>
+    <lemma>kolísat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">kolebati</lemma>
+    <lemma annotation="se">ljuljati</lemma>
+    <lemma annotation="se">njihati</lemma>
+    <lemma annotation="se">zibati</lemma>
+    <lemma>varirati</lemma>
+    <lemma>oscilirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ганѕа</lemma>
+    <lemma>се ниша</lemma>
+    <lemma>се клати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chwiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колебать</lemma>
+    <lemma>раскачивать</lemma>
+    <lemma>шатать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chvieť</lemma>
+    <lemma>kolísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popuščanja</lemma>
+    <lemma>tresenje</lemma>
+    <lemma>kolisati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>колебати</lemma>
+    <lemma>љуљати</lemma>
+    <lemma>колисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коливати</lemma>
+    <lemma>гойдати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>balanciĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen zwaaien</lemma>
+    <lemma>doen wiegen</lemma>
+    <lemma>aan het wankelen brengen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23612"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23612"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz sl hr"
+    >
+      odtisknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аддрукаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>печат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otisknout</lemma>
+    <lemma>vtisknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otisnuti</lemma>
+    <lemma>utisnuti</lemma>
+    <lemma>odštampati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отечати</lemma>
+    <lemma>втисне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odcisnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отпечатать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odtlačiť</lemma>
+    <lemma>vtisnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odtis</lemma>
+    <lemma>prstni odtis</lemma>
+    <lemma>pustiti pečat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отиснути</lemma>
+    <lemma>оставити отисак</lemma>
+    <lemma>оставити траг</lemma>
+    <lemma>утиснути</lemma>
+    <lemma>одштампати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віддрукувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>presi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drucken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afdrukken</lemma>
+  </synset>
+</multilingual-synset>

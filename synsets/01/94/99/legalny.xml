@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19499"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19499" steen:pos="adj." steen:type="1" steen:genesis="I">
+      legaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>легальны</lemma>
+    <lemma>законны</lemma>
+    <lemma>прававы</lemma>
+    <lemma>юрыдычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>правен</lemma>
+    <lemma>юридически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>legální</lemma>
+    <lemma>právní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>legalan</lemma>
+    <lemma>dopušten</lemma>
+    <lemma>pravovaljan</lemma>
+    <lemma>zakonit</lemma>
+    <lemma>zakonski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>легален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>legalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>легальный</lemma>
+    <lemma>законный</lemma>
+    <lemma>правовой</lemma>
+    <lemma>юридический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>legálny</lemma>
+    <lemma>právny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravni</lemma>
+    <lemma>zkonit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>легалан</lemma>
+    <lemma>зконит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>легальний</lemma>
+    <lemma>законний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>leĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>legal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>legaal</lemma>
+    <lemma>wettig</lemma>
+  </synset>
+</multilingual-synset>

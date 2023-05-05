@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36927"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36927"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sr bm"
+    >
+      vajatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скульптар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скулптор</lemma>
+    <lemma>ваятел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sochař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kipar</lemma>
+    <lemma>skulptor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скулптор</lemma>
+    <lemma>вајар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rzeźbiarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скульптор</lemma>
+    <lemma>ваятель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sochár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kipar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вајар</lemma>
+    <lemma>кипар</lemma>
+    <lemma>скулптор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скульптор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skulptisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bildhauer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beeldhouwer</lemma>
+  </synset>
+</multilingual-synset>

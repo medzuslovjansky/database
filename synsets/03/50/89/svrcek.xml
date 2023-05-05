@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35089"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35089"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      svŕček
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цвыркун</lemma>
+    <lemma>цвіркун</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="насекомо">сверчок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cvrček</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cvrčak</lemma>
+    <lemma>cikada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жеже-пече</lemma>
+    <lemma>штурец</lemma>
+    <lemma annotation="инсект" />
+  </synset>
+  <synset lang="pl">
+    <lemma>świerszcz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сверчок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cvrček</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kriket</lemma>
+    <lemma>insektov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цврчак</lemma>
+    <lemma>кукац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цвіркун</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="insekto">grilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Insekt">Cricket</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>krekel</lemma>
+  </synset>
+</multilingual-synset>

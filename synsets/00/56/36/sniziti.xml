@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5636"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5636"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      sniziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знізіць</lemma>
+    <lemma>панізіць</lemma>
+    <lemma>зменшыць</lemma>
+    <lemma>скараціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на цените">записвам</lemma>
+    <lemma>долна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>snížit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sniziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снижи</lemma>
+    <lemma>спушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zniżyć</lemma>
+    <lemma>obniżyć</lemma>
+    <lemma>zredukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снизить</lemma>
+    <lemma>понизить</lemma>
+    <lemma>сократить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znížiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>manj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снизити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>понизити</lemma>
+    <lemma>знизити</lemma>
+    <lemma>скоротити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>redukti</lemma>
+    <lemma>malaltigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Preis">reduzieren</lemma>
+    <lemma>niedriger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlagen</lemma>
+    <lemma>reduceren</lemma>
+  </synset>
+</multilingual-synset>

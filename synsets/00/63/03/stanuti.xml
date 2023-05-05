@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6303"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6303" steen:pos="v.intr. pf." steen:type="1">
+      stanųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>устаць</lemma>
+    <lemma>стаць</lemma>
+    <lemma>заняць пазіцыю</lemma>
+    <lemma>спыніцца</lemma>
+    <lemma>запыніцца</lemma>
+    <lemma>супыніцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">спирка</lemma>
+    <lemma>спиране</lemma>
+    <lemma>да заеме позиция</lemma>
+    <lemma>да стоят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stanout</lemma>
+    <lemma>zaujmout postoj</lemma>
+    <lemma>stát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>застана</lemma>
+    <lemma>зазема позиција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stanąć</lemma>
+    <lemma>zatrzymać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>встать</lemma>
+    <lemma>занять позицию</lemma>
+    <lemma>остановиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stáť</lemma>
+    <lemma>zaujať postoj</lemma>
+    <lemma>štát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stop</lemma>
+    <lemma>stop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стати</lemma>
+    <lemma>станути</lemma>
+    <lemma>зауставити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>встати</lemma>
+    <lemma>зайняти позицію</lemma>
+    <lemma>зупинитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">halto</lemma>
+    <lemma>lamuloj</lemma>
+    <lemma>preni pozicion</lemma>
+    <lemma>stando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">Stopp</lemma>
+    <lemma>Halt</lemma>
+    <lemma>eine Position einnehmen</lemma>
+    <lemma>stehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stoppen</lemma>
+    <lemma>tot staan komen</lemma>
+    <lemma>halthouden</lemma>
+  </synset>
+</multilingual-synset>

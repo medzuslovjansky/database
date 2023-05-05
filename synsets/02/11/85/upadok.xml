@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21185" steen:pos="m." steen:type="1" steen:same="ru pl cz">
+      upadȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заняпад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спад</lemma>
+    <lemma>упадък</lemma>
+    <lemma>упадък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úpadek</lemma>
+    <lemma>pokles</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opadanje</lemma>
+    <lemma>propadanje</lemma>
+    <lemma>nazadak</lemma>
+    <lemma>regresija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пад</lemma>
+    <lemma>распаѓање</lemma>
+    <lemma>декаденција</lemma>
+    <lemma>гниење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. obyczajów">upadek</lemma>
+    <lemma annotation="np. na rynku">spadek</lemma>
+    <lemma>dekadencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>упадок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>úpadok</lemma>
+    <lemma>pokles</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kdaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>занепад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dekadenco</lemma>
+    <lemma>kadukiĝo</lemma>
+    <lemma>dekadenco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rückgang</lemma>
+    <lemma>Verfall</lemma>
+    <lemma>Verfall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verval</lemma>
+  </synset>
+</multilingual-synset>

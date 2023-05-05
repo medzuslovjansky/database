@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3836"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3836" steen:pos="f.sg." steen:type="1">běda</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бяда</lemma>
+    <lemma>праблема</lemma>
+    <lemma>непрыемнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>беда</lemma>
+    <lemma>проблем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="e">potíž</lemma>
+    <lemma>problémy</lemma>
+    <lemma annotation="zast.">běda</lemma>
+    <lemma annotation="e">obtíž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nevolja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>беда</lemma>
+    <lemma>проблем</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kłopoty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беда</lemma>
+    <lemma>проблема</lemma>
+    <lemma>неприятность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ťažkosti</lemma>
+    <lemma>problémy</lemma>
+    <lemma annotation="zast.">beda</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>težava</lemma>
+    <lemma>problem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>невоља</lemma>
+    <lemma>тешкоћа</lemma>
+    <lemma>неприлика</lemma>
+    <lemma>тегоба</lemma>
+    <lemma>потешкоћа</lemma>
+    <lemma>беда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>біда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>problemojn</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schwierigkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ellende</lemma>
+    <lemma>zorgen</lemma>
+  </synset>
+</multilingual-synset>

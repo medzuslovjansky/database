@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24748"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24748" steen:pos="adj." steen:type="1">bojny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баявы</lemma>
+    <lemma>ваенны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>военен</lemma>
+    <lemma>армейски</lemma>
+    <lemma>войскови</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bojový</lemma>
+    <lemma>vojenský</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>borben</lemma>
+    <lemma>bojni</lemma>
+    <lemma>vojni</lemma>
+    <lemma>vojnički</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>боен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bojowy</lemma>
+    <lemma>wojskowy</lemma>
+    <lemma>walczący</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>боевой</lemma>
+    <lemma>военный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bojový</lemma>
+    <lemma>vojenský</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>borben</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>борбен</lemma>
+    <lemma>бојни</lemma>
+    <lemma>војни</lemma>
+    <lemma>војнички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бойовий</lemma>
+    <lemma>військовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>batalo</lemma>
+    <lemma>batalado</lemma>
+    <lemma>milita</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kampf</lemma>
+    <lemma>Militär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strijd-</lemma>
+    <lemma>gevechts-</lemma>
+    <lemma>militair</lemma>
+  </synset>
+</multilingual-synset>

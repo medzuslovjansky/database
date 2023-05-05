@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22660"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22660"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      povŕnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павярнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="tr.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otočit</lemma>
+    <lemma>obrátit</lemma>
+    <lemma>vrátit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>povrnuti</lemma>
+    <lemma>vrnuti</lemma>
+    <lemma>poslati natrag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преврте</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawrócić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="что-либо">повернуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>otočiť</lemma>
+    <lemma>obrátiť</lemma>
+    <lemma>vrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povrnuti</lemma>
+    <lemma>podrli</lemma>
+    <lemma>ga pošlje nazaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поврнути</lemma>
+    <lemma>врнути</lemma>
+    <lemma>послати натраг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="що-небудь">повернути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tr.">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="tr.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omdraaien</lemma>
+  </synset>
+</multilingual-synset>

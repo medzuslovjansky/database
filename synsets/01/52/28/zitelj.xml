@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15228"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15228"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v sh"
+    >
+      žitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жыхар</lemma>
+    <lemma>насельнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жител</lemma>
+    <lemma>обитател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obyvatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stanovnik</lemma>
+    <lemma>žitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жител</lemma>
+    <lemma>станар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mieszkaniec</lemma>
+    <lemma>rezydent</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>житель</lemma>
+    <lemma>обитатель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obyvateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rezident</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>житељ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>житель</lemma>
+    <lemma>мешканець</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>loĝanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einwohner</lemma>
+    <lemma>wohnhaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inwoner</lemma>
+    <lemma>bewoner</lemma>
+  </synset>
+</multilingual-synset>

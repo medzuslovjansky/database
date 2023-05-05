@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35152"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35152"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru uk z yu"
+    >
+      pradavny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>старажытны</lemma>
+    <lemma>старавечны</lemma>
+    <lemma>старадаўні</lemma>
+    <lemma>даўні</lemma>
+    <lemma>даўнейшы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>древните</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pradávný</lemma>
+    <lemma>starověký</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>drevni</lemma>
+    <lemma>pradavni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>древните</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pradawny</lemma>
+    <lemma>starodawny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>древний</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pradávny</lemma>
+    <lemma>staroveký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ancient</lemma>
+    <lemma>ancient</lemma>
+    <lemma>ancient</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прадавни</lemma>
+    <lemma>древни</lemma>
+    <lemma>давни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прадавній</lemma>
+    <lemma>древній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antikva</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>alt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oeroud</lemma>
+    <lemma>antiek</lemma>
+  </synset>
+</multilingual-synset>

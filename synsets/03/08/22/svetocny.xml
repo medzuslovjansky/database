@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30822"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30822"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu~ mk~"
+    >
+      svętȯčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святочны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>празник</lemma>
+    <lemma>празник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sváteční</lemma>
+    <lemma>slavnostní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>praznični</lemma>
+    <lemma>blagdanski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>празничен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świąteczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>праздничный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sviatočné</lemma>
+    <lemma>slávnostné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>praznično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>празнични</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>святковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gaja</lemma>
+    <lemma>ferioj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>festlich</lemma>
+    <lemma>feiertag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>feestelijk</lemma>
+  </synset>
+</multilingual-synset>

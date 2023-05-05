@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34946"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34946"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      integrovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інтэграваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приобщавам</lemma>
+    <lemma>интегрирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>integrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>integrirati</lemma>
+    <lemma>spajati</lemma>
+    <lemma>ujedinjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>интегрира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>integrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интегрировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>integrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>integracija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интегрисати</lemma>
+    <lemma>везивати</lemma>
+    <lemma>спајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інтегрувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>integrigi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>integrieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>integreren</lemma>
+  </synset>
+</multilingual-synset>

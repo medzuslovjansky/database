@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18738"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18738"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="uk z j"
+    >
+      stvŕditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заявіць</lemma>
+    <lemma>выказаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се твърди</lemma>
+    <lemma>твърди</lemma>
+    <lemma>твърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stvrdit</lemma>
+    <lemma>potvrdit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>utvrditi</lemma>
+    <lemma>potvrditi</lemma>
+    <lemma>ustvrditi</lemma>
+    <lemma>ustanoviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>утврди</lemma>
+    <lemma>установи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stwierdzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заявить</lemma>
+    <lemma>высказать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>potvrdiť</lemma>
+    <lemma>potvrdiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trdijo</lemma>
+    <lemma>da se ugotovi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тврдити</lemma>
+    <lemma>утврдити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заявити</lemma>
+    <lemma>висловити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stato</lemma>
+    <lemma>aserto</lemma>
+    <lemma>asertas</lemma>
+    <lemma>ili pledas</lemma>
+    <lemma>asertas</lemma>
+    <lemma>havu</lemma>
+    <lemma annotation="argumento">subteni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>behaupten</lemma>
+    <lemma>Anspruch behaupten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stellen beweren</lemma>
+  </synset>
+</multilingual-synset>

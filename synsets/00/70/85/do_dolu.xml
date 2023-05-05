@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7085" steen:pos="adv." steen:type="1">do dolu</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дадолу</lemma>
+    <lemma>долу</lemma>
+    <lemma>уніз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>до долу</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dolů</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dolje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>до долу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>do dołu</lemma>
+    <lemma>w dół</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вниз</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dol</lemma>
+    <lemma>dol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доле</lemma>
+    <lemma>надоле</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>додолу</lemma>
+    <lemma annotation="напрямок">вниз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malsupren</lemma>
+    <lemma>malsupren</lemma>
+    <lemma annotation="direkto">sube</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nach unten</lemma>
+    <lemma>nach unten</lemma>
+    <lemma annotation="Richtung">unten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omlaag</lemma>
+    <lemma>naar beneden</lemma>
+  </synset>
+</multilingual-synset>

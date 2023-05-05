@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="940"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="940"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      zablokovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заблакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>попреча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zablokovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blokirati</lemma>
+    <lemma>onemogućiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>блокира</lemma>
+    <lemma>попречи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zablokować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заблокировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zablokovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>blok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>блокирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заблокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bloko</lemma>
+    <lemma>obstrukci</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Block</lemma>
+    <lemma>versperren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blokkeren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36505"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36505"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs sl bm"
+    >
+      rev
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>роў</lemma>
+    <lemma>рык</lemma>
+    <lemma>плач</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рев</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řev</lemma>
+    <lemma>ryk</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рев</lemma>
+    <lemma>рик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ryk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рёв</lemma>
+    <lemma>рык</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rev</lemma>
+    <lemma>krik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ревіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brüllen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brul</lemma>
+  </synset>
+</multilingual-synset>

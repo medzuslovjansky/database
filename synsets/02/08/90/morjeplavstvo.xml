@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20890"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20890" steen:pos="n.sg." steen:type="1">
+      morjeplavstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мараплаўства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плаване по море</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mořeplavectví</lemma>
+    <lemma>námořnictví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>moreplovstvo</lemma>
+    <lemma>pomorstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>морепловство</lemma>
+    <lemma>поморство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żegluga morska</lemma>
+    <lemma annotation="morska">nawigacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мореплавание</lemma>
+    <lemma>навигация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>moreplavectvo</lemma>
+    <lemma>námorníctvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomorskim</lemma>
+    <lemma>navigacija po morju</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>морепловство</lemma>
+    <lemma>пловидба морем</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мореплавство</lemma>
+    <lemma>навігація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>marista</lemma>
+    <lemma>navigado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Seefahrt</lemma>
+    <lemma>Navigation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeevaart</lemma>
+  </synset>
+</multilingual-synset>

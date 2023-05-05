@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21876"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21876"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      odstranjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адкідаць</lemma>
+    <lemma>адкідваць</lemma>
+    <lemma annotation="ад ідэі">адмаўляцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нулиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstarňovat</lemma>
+    <lemma>rušit</lemma>
+    <lemma>likvidovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odbacivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстранува</lemma>
+    <lemma>отфрла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. ideę">odrzucać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отбрасывать</lemma>
+    <lemma annotation="от идеи">отказываться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odstarňovat</lemma>
+    <lemma>rušiť</lemma>
+    <lemma>likvidovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zavrnjena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одбацивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відкидати</lemma>
+    <lemma>відхиляти</lemma>
+    <lemma annotation="від ідеї">відмовлятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forĵetas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwerfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwerpen</lemma>
+  </synset>
+</multilingual-synset>

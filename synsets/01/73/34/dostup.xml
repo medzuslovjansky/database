@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17334"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17334" steen:pos="m." steen:type="1">dostųp</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>доступ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="до">достъп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přístup</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pristup</lemma>
+    <lemma>prilaz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристап</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostęp</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доступ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prístup</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dostop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приступ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доступ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aliro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zugriff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toegang</lemma>
+  </synset>
+</multilingual-synset>

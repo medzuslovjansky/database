@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1523"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1523"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ub pl sb sl"
+    >
+      vųž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вуж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жълтоуха водна змия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>užovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bjelouška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="змија">белоушка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaskroniec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уж</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>užovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>beloužka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>белоушка</lemma>
+    <lemma>водарица</lemma>
+    <lemma>рибарица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вуж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>herbo-serpento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ringelnatter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>adder</lemma>
+  </synset>
+</multilingual-synset>

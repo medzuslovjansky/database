@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31196"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31196"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      vikont
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віконт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>виконт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vikomt</lemma>
+    <lemma>vícehrabě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vikont</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виконт</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wicehrabia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>виконт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vikomt</lemma>
+    <lemma>vícehrabě</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vikont</lemma>
+    <lemma annotation="plemena. Naslov">podgrof</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>виконт</lemma>
+    <lemma annotation="плем. титула">подгроф</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віконт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vicgrafo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Viscount</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>burggraaf</lemma>
+  </synset>
+</multilingual-synset>

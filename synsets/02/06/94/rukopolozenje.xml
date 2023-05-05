@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20694"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20694" steen:pos="n." steen:type="2" steen:same="ru j">
+      rųkopoložeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасвячэнне</lemma>
+    <lemma>прысвячэнне</lemma>
+    <lemma>увядзенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="жреца">посвещение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="kněz">svěcení</lemma>
+    <lemma>ordinace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rukopoloženje</lemma>
+    <lemma>hirotonija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ракополагање</lemma>
+    <lemma annotation="свештеник" />
+  </synset>
+  <synset lang="pl">
+    <lemma>ordynacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посвящение</lemma>
+    <lemma annotation="в сан">рукоположение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="kňaz">svätenie</lemma>
+    <lemma>ordinácie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>koordinacije (cerkve).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="цркв.">рукоположење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посвята</lemma>
+    <lemma annotation="у сан">висвячування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="pastro">ordination</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Pfarrer">Ordination</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ordinatie</lemma>
+    <lemma>priesterwijding</lemma>
+  </synset>
+</multilingual-synset>

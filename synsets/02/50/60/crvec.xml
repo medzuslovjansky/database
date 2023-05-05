@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25060"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25060" steen:pos="m.anim." steen:type="2" steen:same="v z">
+      črvec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кашаніль</lemma>
+    <lemma>чэрвец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="насекомо">кохинил</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="biol.">červec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crvac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црвило</lemma>
+    <lemma>штитеста вошка</lemma>
+    <lemma>црвец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koszenila</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кошениль</lemma>
+    <lemma>червец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="biol.">červec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>košeniljka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>црвац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кошеніль</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koĉenilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Koschenille</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cochenille</lemma>
+  </synset>
+</multilingual-synset>

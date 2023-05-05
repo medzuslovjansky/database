@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34524"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34524" steen:pos="n." steen:type="2" steen:same="v z yu~">
+      spozdnjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спазненне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>късно</lemma>
+    <lemma annotation="като влак">късно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpoždění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kašnjenje</lemma>
+    <lemma>zakašnjenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доцнење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spóźnienie</lemma>
+    <lemma>opóźnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опоздание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>oneskorenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamudo</lemma>
+    <lemma>docnjenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кашњење</lemma>
+    <lemma>доцњење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запізнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfrua alveno</lemma>
+    <lemma annotation="ekz trajno">malfrueco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>späte Ankunft</lemma>
+    <lemma annotation="z.B. Zug">Verspätungs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertraging</lemma>
+  </synset>
+</multilingual-synset>

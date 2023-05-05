@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4782"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4782" steen:pos="m." steen:type="1" steen:genesis="I">
+      koncert
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="выступленне">канцэрт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>представление</lemma>
+    <lemma>изпълнение</lemma>
+    <lemma>концет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="představení">koncert</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koncert</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>концерт</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koncert</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="выступление">концерт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="predstavenie">koncert</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>koncert</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>концерт</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="виступ">концерт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koncerto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Konzert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>concert</lemma>
+  </synset>
+</multilingual-synset>

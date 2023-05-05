@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9093"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9093" steen:pos="v.intr. ipf." steen:type="1">
+      mglati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>туманіцца</lemma>
+    <lemma>затуманьвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замаглявам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamlžovat se</lemma>
+    <lemma>zahalovat se mlhou</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>magliti</lemma>
+    <lemma>zamagljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замаглува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mgła">podnosić się</lemma>
+    <lemma>zachodzić mgłą</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="туман">подниматься</lemma>
+    <lemma>затуманиваться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zahmlievať sa</lemma>
+    <lemma>zahaľovať sa hmlou</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>megla</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>маглити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>туманитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nebulo</lemma>
+    <lemma>nebulo supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nebel</lemma>
+    <lemma>beschlagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mistig worden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12208"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      sěverozapadny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўночна-заходні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>северо-западна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>severozápadní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sjeverozapadni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>северозападен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>północnozachodni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>северо-западный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>severozápadné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>severozahod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>северозападни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>північно-західний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nordokcidenta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nordwestlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>noordwestelijk</lemma>
+  </synset>
+</multilingual-synset>

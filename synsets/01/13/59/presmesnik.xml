@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11359"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11359" steen:pos="m.anim." steen:type="1">
+      prěsměšnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасмешнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>птица-присмехулник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pták">drozdec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ptica rugalica</lemma>
+    <lemma>drozd</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мајмун</lemma>
+    <lemma>мајтапчија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ptak">przedrzeźniacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пересмешник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="vták">drozdec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mockingbird</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>птица ругалица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пересмішник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mokanta-birdo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spottdrossel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spotvogel</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35985"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35985" steen:pos="m." steen:type="2" steen:same="z j~">
+      prětok rěky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у рацэ">расход вады</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="хидрология">освобождаване от отговорност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hydrologie">průtok</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>protok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проток</lemma>
+    <lemma annotation="хидрологија">водостој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rzeki, cieku">przepływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в реке">расход воды</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="hydrológia">prietok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проток</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="у річці">витрата води</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="hidrologio">alta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Hydrologie">Entladung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afvloeiingsvermogen van een rivier</lemma>
+  </synset>
+</multilingual-synset>

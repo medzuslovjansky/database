@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23323"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23323"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      botanik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>батанік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ботанист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>botanik</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>botaničar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ботаничар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>botanik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ботаник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>botanik</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>botanik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ботаничар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ботанік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>botanikisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Botaniker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plantkundige</lemma>
+    <lemma>botanicus</lemma>
+  </synset>
+</multilingual-synset>

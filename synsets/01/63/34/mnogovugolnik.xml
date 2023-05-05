@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16334"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16334"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru be cs sr bm"
+    >
+      mnogovųgȯľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шматкутнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>многоъгълник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mnohoúhelník</lemma>
+    <lemma>polygon</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mnogokut</lemma>
+    <lemma>višekutnik</lemma>
+    <lemma>poligon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>многуаголник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wielokąt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>многоугольник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mnohouholník</lemma>
+    <lemma>polygón</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poligon</lemma>
+    <lemma>višeugao</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>многоугао</lemma>
+    <lemma>вишеугао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>багатокутник</lemma>
+    <lemma>многокутник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plurlatero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vieleck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veelhoek</lemma>
+    <lemma>polygoon</lemma>
+  </synset>
+</multilingual-synset>

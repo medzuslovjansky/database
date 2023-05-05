@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29008"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29008" steen:pos="m." steen:type="2" steen:same="ru sh">
+      obzor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агляд</lemma>
+    <lemma>агледзіны</lemma>
+    <lemma>агляданне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>коментар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>recenze</lemma>
+    <lemma>přehled</lemma>
+    <lemma>přezkoumání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pregled</lemma>
+    <lemma>osvrt</lemma>
+    <lemma>kritika</lemma>
+    <lemma>recenzija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преглед</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przegląd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обзор</lemma>
+    <lemma>обозрение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>recenzia</lemma>
+    <lemma>prehľad</lemma>
+    <lemma>preskúmanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Review</lemma>
+    <lemma>pregled</lemma>
+    <lemma annotation="arch.">pregled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преглед</lemma>
+    <lemma>осврт</lemma>
+    <lemma annotation="арх.">обзор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>огляд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>revizio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rezension</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overzicht</lemma>
+  </synset>
+</multilingual-synset>

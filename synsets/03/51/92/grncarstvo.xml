@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35192"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35192" steen:pos="n.sg." steen:type="1">grnčaŕstvo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ганчарства</lemma>
+    <lemma>вытворчасць посуду</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грънчарство</lemma>
+    <lemma>керамика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hrnčířsví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grnčarija</lemma>
+    <lemma>lončarija</lemma>
+    <lemma>lončarstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грнчарство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>garncarstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гончарство</lemma>
+    <lemma>производство посуды</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrnčiarstvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lončarstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грнчарство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гончарство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="komerco">ceramiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Handel">Keramik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pottenbakkerij</lemma>
+  </synset>
+</multilingual-synset>

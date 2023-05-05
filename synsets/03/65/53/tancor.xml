@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36553"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36553"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z bm"
+      steen:genesis="D"
+    >
+      tancor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>танцор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>танцьор</lemma>
+    <lemma>игралец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tanečník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plesač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>танчар</lemma>
+    <lemma>танцувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tancerz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>танцор</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tanečník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plesalka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плесач</lemma>
+    <lemma>играч</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>танцюрист</lemma>
+    <lemma>танцівник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dancisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tänzer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>danser</lemma>
+  </synset>
+</multilingual-synset>

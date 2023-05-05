@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5485"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5485" steen:pos="v.intr. ipf." steen:type="1">
+      izježđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выязджаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отпътувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyjíždět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvoziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвезува</lemma>
+    <lemma>отпатува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjeżdżać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выезжать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vychádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="z uporabo prevoznega sredstva">iti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="користећи превозно средство">одлазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виїжджати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per transporto">forlasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Transport">verlassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrekken</lemma>
+    <lemma annotation="per vervoermiddel">weggaan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17143"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17143" steen:pos="adj." steen:type="1" steen:same="v z">
+      bezvyhodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязвыхадны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безнадежден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezvýchodný</lemma>
+    <lemma>beznadějný</lemma>
+    <lemma annotation="situace">zoufalý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>beznadnan</lemma>
+    <lemma>bez nade</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безнадежен</lemma>
+    <lemma>безизлезен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezwyjściowy</lemma>
+    <lemma annotation="o sytuacji">beznadziejny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безвыходный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>patový</lemma>
+    <lemma>beznádejný</lemma>
+    <lemma annotation="situácia">zúfalý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>obupen</lemma>
+    <lemma>brezupen</lemma>
+    <lemma>brezizhoden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>безнадежан</lemma>
+    <lemma>безизлазан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безвихідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="situacio">senespera</lemma>
+    <lemma annotation="situacio">senespera</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Lage">hoffnungslos</lemma>
+    <lemma annotation="Lage">verzweifelt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hopeloos</lemma>
+    <lemma>uitzichtloos</lemma>
+  </synset>
+</multilingual-synset>

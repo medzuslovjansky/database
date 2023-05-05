@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22835"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22835"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru uk pl bg"
+    >
+      znahaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знахар</lemma>
+    <lemma>шаптун</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg">
+    <lemma>врач</lemma>
+    <lemma>знахар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mastičkář</lemma>
+    <lemma>šarlatán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iscjelitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врач</lemma>
+    <lemma>врачар</lemma>
+    <lemma>исцелител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znachor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знахарь</lemma>
+    <lemma>шарлатан</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>mastičkár</lemma>
+    <lemma>šarlatán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravilec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исцелитељ</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знахар</lemma>
+    <lemma>шарлатан</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉarlatano doktoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Quacksalber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwakzalver</lemma>
+  </synset>
+</multilingual-synset>

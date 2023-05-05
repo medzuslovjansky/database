@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35785"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35785"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      aglomeracija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агламерацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>агломерация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aglomerace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nagomilavanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>агломерација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aglomeracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>агломерация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="koncentrácia, nahromadenie na určitej ploche">
+      aglomerácia
+    </lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>aglomeracija</lemma>
+    <lemma>kopičenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>агломерација</lemma>
+    <lemma>нагомилавање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>агломерація</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>aglomeraĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Agglomeration</lemma>
+    <lemma>Metropolregion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>agglomeratie</lemma>
+  </synset>
+</multilingual-synset>

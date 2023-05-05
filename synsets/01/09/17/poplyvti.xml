@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10917"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10917"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v pl sh"
+    >
+      poplyvti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="уплаў">паплыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poplavat si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaplivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вплавь">поплыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poplávať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jadro za nekaj časa</lemma>
+    <lemma>poplivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пловити неко време</lemma>
+    <lemma>попливати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="уплав">поплисти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwimmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zwemmen</lemma>
+  </synset>
+</multilingual-synset>

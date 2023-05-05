@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36347"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36347"
+      steen:addition="(+3)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be bg"
+    >
+      pričisliti k
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прылічыць да</lemma>
+    <lemma>далучыць да</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>брой сред</lemma>
+    <lemma>се нареждат сред</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>patřit mezi</lemma>
+    <lemma>zahrnout do</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ubrojati</lemma>
+    <lemma>svrstati</lemma>
+    <lemma>uvrstiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вброи меѓу</lemma>
+    <lemma>рангира</lemma>
+    <lemma>придодаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaliczyć do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>причислить к</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>patriť medzi</lemma>
+    <lemma>zahrnúť do</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>se šteje</lemma>
+    <lemma>kategorizirani</lemma>
+    <lemma>razvrščeni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>убројати</lemma>
+    <lemma>сврстати</lemma>
+    <lemma>уврстити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зарахувати до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nombro inter</lemma>
+    <lemma>rango inter</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nummer unter</lemma>
+    <lemma>zählen zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rekenen tot</lemma>
+  </synset>
+</multilingual-synset>

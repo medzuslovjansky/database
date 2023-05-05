@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1754"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1754" steen:pos="v.tr. ipf." steen:type="1">děliti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзяліць</lemma>
+    <lemma>падзяліць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>деля</lemma>
+    <lemma>поделям</lemma>
+    <lemma>споделям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dělit</lemma>
+    <lemma>rozdělit</lemma>
+    <lemma>podělit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dijeliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dzielić</lemma>
+    <lemma>podzielać</lemma>
+    <lemma>rozdzielać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>делить</lemma>
+    <lemma>разделять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>deliť</lemma>
+    <lemma>rozdeliť</lemma>
+    <lemma>podeliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>deliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>делити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ділити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dividi</lemma>
+    <lemma>divido</lemma>
+    <lemma>parto</lemma>
+    <lemma>apartigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Teile</lemma>
+    <lemma>Dividieren</lemma>
+    <lemma>teilweise getrennte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>delen</lemma>
+    <lemma>verdelen</lemma>
+    <lemma>scheiden</lemma>
+  </synset>
+</multilingual-synset>

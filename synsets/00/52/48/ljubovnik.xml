@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5248"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5248"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru be sh mk"
+    >
+      ljubȯvnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>палюбоўнік</lemma>
+    <lemma>каханак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>любовник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>milenec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ljubavnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>љубовник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kochanek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>любовник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>milenec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ljubček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>љубавник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коханець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amanto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Liebhaber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>minnaar</lemma>
+  </synset>
+</multilingual-synset>

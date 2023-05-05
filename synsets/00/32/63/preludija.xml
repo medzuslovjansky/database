@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3263"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3263" steen:pos="f." steen:type="1" steen:genesis="I">
+      preludija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прэдюдыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подготовка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předehra</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>preludijum</lemma>
+    <lemma>uvod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прелудиум</lemma>
+    <lemma>вовед</lemma>
+    <lemma>почеток</lemma>
+    <lemma>предзнак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>preludium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прелюдия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predohra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uvod</lemma>
+    <lemma>uvod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прелудијум</lemma>
+    <lemma>увод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прелюдія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭĉambro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auftakt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>preludium</lemma>
+  </synset>
+</multilingual-synset>

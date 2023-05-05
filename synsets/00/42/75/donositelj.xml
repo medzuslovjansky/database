@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4275"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4275" steen:pos="m.anim." steen:type="1">donositelj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інфарматар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доносник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udavač</lemma>
+    <lemma>informátor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dostavljač</lemma>
+    <lemma>doušnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>информатор</lemma>
+    <lemma>извесувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>donosiciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>информатор</lemma>
+    <lemma>осведомитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>udavač</lemma>
+    <lemma>informátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>informatorja</lemma>
+    <lemma>odpove</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потказивач</lemma>
+    <lemma>денунцијат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інформатор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>denuncanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Informant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>informant</lemma>
+  </synset>
+</multilingual-synset>

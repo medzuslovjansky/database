@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4042"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4042"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      uspěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паспець</lemma>
+    <lemma>даць рады</lemma>
+    <lemma>зладзіцца</lemma>
+    <lemma>управіцца</lemma>
+    <lemma>справіцца</lemma>
+    <lemma>суладаць</lemma>
+    <lemma>атрымаць поспех</lemma>
+    <lemma>дасягнуць поспеху</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за да успее</lemma>
+    <lemma annotation="да направи нещо. хр">да управлява</lemma>
+    <lemma>да направи това</lemma>
+    <lemma>да бъде успешна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uspět</lemma>
+    <lemma>být úspěšný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uspjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>успеа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdążyć</lemma>
+    <lemma annotation="z czymś">dać radę</lemma>
+    <lemma>odnieść sukces</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>успеть</lemma>
+    <lemma>справиться</lemma>
+    <lemma>преуспеть</lemma>
+    <lemma>достичь успеха</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uspieť</lemma>
+    <lemma>byť úspešný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uspeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>успети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>встигнути</lemma>
+    <lemma>впоратися</lemma>
+    <lemma>досягти успіху</lemma>
+    <lemma>досягти успіху</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sukcesi</lemma>
+    <lemma annotation="fari sth.">administri</lemma>
+    <lemma>fari tion</lemma>
+    <lemma>esti sukcesa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gelingen</lemma>
+    <lemma annotation="etw.">verwalten</lemma>
+    <lemma>macht es</lemma>
+    <lemma>erfolgreich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slagen</lemma>
+    <lemma>succes hebben</lemma>
+  </synset>
+</multilingual-synset>

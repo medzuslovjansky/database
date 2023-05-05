@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21907"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21907"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      strojiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="войска">строіць</lemma>
+    <lemma annotation="у рад">шыхтаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="войски">форма на</lemma>
+    <lemma annotation="войски">направи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>formovat</lemma>
+    <lemma annotation="vojska">sestavovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>strojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>строи</lemma>
+    <lemma annotation="војска">постројува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>formować wojska</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="войско">строить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>formovať</lemma>
+    <lemma annotation="vojska">zostavovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Uštrojiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стројити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="військо">строїти</lemma>
+    <lemma annotation="в ряд">шикувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="trupoj">formas</lemma>
+    <lemma annotation="soldatoj">fiksas la</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Truppen">Form (Truppen) aufzustellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="troepen">formeren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26388"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26388"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v~ z sl"
+    >
+      jezdec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вершнік</lemma>
+    <lemma>наезнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ездач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jezdec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jahač</lemma>
+    <lemma>konjanik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коњаник</lemma>
+    <lemma>јавач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jeździec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ездок</lemma>
+    <lemma>всадник</lemma>
+    <lemma>наездник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jazdec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezdec</lemma>
+    <lemma>jahač</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јахач</lemma>
+    <lemma>коњаник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>їздець</lemma>
+    <lemma>вершник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rajdanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fahrer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ruiter</lemma>
+  </synset>
+</multilingual-synset>

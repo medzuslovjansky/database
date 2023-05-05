@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29730"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29730"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z~"
+    >
+      osvojiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асвоіць</lemma>
+    <lemma>авалодаць</lemma>
+    <lemma>апантаць</lemma>
+    <lemma>апанаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се запознаят</lemma>
+    <lemma>да се запознаят</lemma>
+    <lemma>магистър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvládnout</lemma>
+    <lemma>osvojit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="npr. gradivo">osvojiti</lemma>
+    <lemma annotation="s nečim">upoznati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освојува</lemma>
+    <lemma>завладува</lemma>
+    <lemma>запознава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="z czymś">oswoić</lemma>
+    <lemma>opanować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>освоить</lemma>
+    <lemma>овладеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvládnuť</lemma>
+    <lemma>osvojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="na primer, material">win</lemma>
+    <lemma annotation="z nečim">znane</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. градиво">освојити</lemma>
+    <lemma annotation="са нечим">упознати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>освоїти</lemma>
+    <lemma>оволодіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>familiarize</lemma>
+    <lemma>konatiĝi</lemma>
+    <lemma>majstro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vertraut machen</lemma>
+    <lemma>machen</lemma>
+    <lemma>Master</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich vertrouwd maken met</lemma>
+  </synset>
+</multilingual-synset>

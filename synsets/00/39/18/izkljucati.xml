@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3918"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3918" steen:pos="v.tr. ipf." steen:type="1">
+      izključati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выключаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="устройство">изключвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isključivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="уред">исклучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyłączać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выключать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vypínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr moč">izklop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. струју">искључивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вимикати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malŝalti</lemma>
+    <lemma>malŝaltas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auszuschalten</lemma>
+    <lemma>auszuschalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitschakelen</lemma>
+    <lemma annotation="apparaat">uitzetten</lemma>
+  </synset>
+</multilingual-synset>

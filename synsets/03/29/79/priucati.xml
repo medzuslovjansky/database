@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32979"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32979" steen:pos="v.tr. ipf." steen:type="1">
+      priučati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прывучаць</lemma>
+    <lemma>прызвычайваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>привикнат</lemma>
+    <lemma>възпитаваме</lemma>
+    <lemma>да се обучават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivyknout</lemma>
+    <lemma>navyknout</lemma>
+    <lemma>natrénovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obučavati</lemma>
+    <lemma>vježbati</lemma>
+    <lemma annotation="fig.">kaliti</lemma>
+    <lemma>trenirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приучува</lemma>
+    <lemma>привикнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do czegoś">zaprawiać</lemma>
+    <lemma>przyuczać</lemma>
+    <lemma>szkolić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приучать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>privyknúť</lemma>
+    <lemma>navyknúť</lemma>
+    <lemma>natrénovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlak</lemma>
+    <lemma>vaja</lemma>
+    <lemma annotation="sl.">zadušili</lemma>
+    <lemma>vlak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обучавати</lemma>
+    <lemma>вежбати</lemma>
+    <lemma annotation="фиг.">калити</lemma>
+    <lemma>тренирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>привчати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inure</lemma>
+    <lemma>kutimigi</lemma>
+    <lemma>trajno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inure</lemma>
+    <lemma>accustom</lemma>
+    <lemma>Zug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanleren</lemma>
+    <lemma>aanwennen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22949"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22949" steen:pos="adj." steen:type="1">travojedny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>траваедны</lemma>
+    <lemma>раслінаедны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тревопасен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>býložravý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biljožderski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тревопасни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>roślinożerny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>травоядный</lemma>
+    <lemma>растительноядный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bylinožravý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>biljojžderan</lemma>
+    <lemma>biljojedan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>биљојждеран</lemma>
+    <lemma>биљоједан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>травоїдний</lemma>
+    <lemma>рослиноїдний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>herbovoraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>pflanzenfress</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plantenetend</lemma>
+    <lemma>herbivoor</lemma>
+  </synset>
+</multilingual-synset>

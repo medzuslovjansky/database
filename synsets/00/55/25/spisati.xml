@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5525"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5525"
+      steen:addition="(spiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      spisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапісаць</lemma>
+    <lemma>апісаць</lemma>
+    <lemma>скласці спіс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>запиша</lemma>
+    <lemma>направя список</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sepsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapisati</lemma>
+    <lemma>upisati</lemma>
+    <lemma>zabilježiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запише</lemma>
+    <lemma>попише</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переписать</lemma>
+    <lemma>описать</lemma>
+    <lemma>составить список</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>snemanje</lemma>
+    <lemma>vpisana v seznam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>списати</lemma>
+    <lemma>записати</lemma>
+    <lemma>унети у списак</lemma>
+    <lemma>забележити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переписати</lemma>
+    <lemma>описати</lemma>
+    <lemma>скласти список</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>listo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Liste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opsommen</lemma>
+  </synset>
+</multilingual-synset>

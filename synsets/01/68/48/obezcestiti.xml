@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16848"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16848"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru uk pl sk bm"
+    >
+      obezčestiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абняславіць</lemma>
+    <lemma>зняславіць</lemma>
+    <lemma>зганьбіць</lemma>
+    <lemma>аганьбаваць</lemma>
+    <lemma>зганіць</lemma>
+    <lemma>асароміць</lemma>
+    <lemma>запляміць</lemma>
+    <lemma>пасарамаціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>позорище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zostudit</lemma>
+    <lemma>potupit</lemma>
+    <lemma>zahanbit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obeščastiti</lemma>
+    <lemma>osramotiti</lemma>
+    <lemma>poniziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обесчести</lemma>
+    <lemma>посрами</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znieważyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опозорить</lemma>
+    <lemma>осрамить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>potupiť</lemma>
+    <lemma>zahanbiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žalitev</lemma>
+    <lemma>prekletstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увредити</lemma>
+    <lemma>опсовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зганьбити</lemma>
+    <lemma>осоромити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malhonoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schande</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onteren</lemma>
+    <lemma>ontheiligen</lemma>
+    <lemma>bezoedelen</lemma>
+  </synset>
+</multilingual-synset>

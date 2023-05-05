@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32623"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32623"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs~ j"
+    >
+      nenaměrjeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ненаўмысны</lemma>
+    <lemma>безумысны</lemma>
+    <lemma>няўмысны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неволен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neúmyslný</lemma>
+    <lemma>nezáměrný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nenamjeran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ненамерен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niezamierzony</lemma>
+    <lemma>nieumyślny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ненамеренный</lemma>
+    <lemma>неумышленный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neúmyselný</lemma>
+    <lemma>nezámerný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nenameren</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ненамеран</lemma>
+    <lemma>нехотичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ненавмисний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>intenca</lemma>
+    <lemma>neintencitan</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unbeabsichtigt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onopzettelijk</lemma>
+    <lemma>ongewild</lemma>
+  </synset>
+</multilingual-synset>

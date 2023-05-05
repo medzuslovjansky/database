@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6487" steen:pos="f." steen:type="1">baza danyh</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>база даных</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>база данни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>databáze</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>baza podataka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>база на податоци</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>baza danych</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>база данных</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>databáza</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>baza podatkov</lemma>
+    <lemma>podatkovna baza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>база података</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>база даних</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Datumbazo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Datenbank</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>database</lemma>
+    <lemma>gegevensbestand</lemma>
+  </synset>
+</multilingual-synset>

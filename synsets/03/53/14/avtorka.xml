@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35314"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35314" steen:pos="f." steen:genesis="I">avtorka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аўтарка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>авторка</lemma>
+    <lemma>жена-автор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>autorka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>autorica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авторка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>autorka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="женщина">автор</lemma>
+    <lemma>авторка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>autorka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>avtorica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ауторка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>авторка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭtoro</lemma>
+    <lemma>authoress</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Autorin</lemma>
+    <lemma>Verfasserin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>auteur</lemma>
+    <lemma>schrijfster</lemma>
+  </synset>
+</multilingual-synset>

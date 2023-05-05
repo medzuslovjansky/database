@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21834"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21834"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      zastavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>застаўляць</lemma>
+    <lemma>блакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>попречвам</lemma>
+    <lemma>запречвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>blokovat</lemma>
+    <lemma>bránit</lemma>
+    <lemma annotation="věcmi">zastavovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>priječiti</lemma>
+    <lemma>sprečavati</lemma>
+    <lemma>blokirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>попречува</lemma>
+    <lemma>блокира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zablokować</lemma>
+    <lemma>zastawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вещами">заставлять</lemma>
+    <lemma>блокировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>blokovať</lemma>
+    <lemma>brániť</lemma>
+    <lemma annotation="vecami">zastavovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>blok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>блокирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="речами">примушувати</lemma>
+    <lemma>блокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bloko</lemma>
+    <lemma>obstrukci</lemma>
+    <lemma>Cram</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Block</lemma>
+    <lemma>behindern</lemma>
+    <lemma>Cram</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blokkeren</lemma>
+    <lemma annotation="met spullen">vol zetten</lemma>
+  </synset>
+</multilingual-synset>

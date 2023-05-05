@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="621"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="621"
+      steen:addition="(+6)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pri
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пры</lemma>
+    <lemma>падчас</lemma>
+    <lemma>поруч з</lemma>
+    <lemma>каля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>от до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>při</lemma>
+    <lemma>poblíž</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pri</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>при</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>при</lemma>
+    <lemma>рядом с</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pri</lemma>
+    <lemma>blízko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ob</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>при</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>при</lemma>
+    <lemma>поряд</lemma>
+    <lemma>поблизу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>de</lemma>
+    <lemma>proksime</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+    <lemma>in der Nähe von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bij</lemma>
+  </synset>
+</multilingual-synset>

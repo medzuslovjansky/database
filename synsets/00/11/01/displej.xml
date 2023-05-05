@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1101"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1101" steen:pos="m." steen:type="2" steen:genesis="E">
+      displej
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дысплей</lemma>
+    <lemma>манітор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>екран</lemma>
+    <lemma>дисплей</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>displej</lemma>
+    <lemma>obrazovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>displej</lemma>
+    <lemma>ekran</lemma>
+    <lemma>predočnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>екран</lemma>
+    <lemma>дисплеј</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ekran</lemma>
+    <lemma>monitor</lemma>
+    <lemma>wyświetlacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дисплей</lemma>
+    <lemma>монитор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>displej</lemma>
+    <lemma>obrazovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaslon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>екран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дисплей</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>display</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anzeige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scherm</lemma>
+    <lemma>display</lemma>
+  </synset>
+</multilingual-synset>

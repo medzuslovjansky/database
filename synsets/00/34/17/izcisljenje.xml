@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3417"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3417" steen:pos="n." steen:type="2">izčisljeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылічэнне</lemma>
+    <lemma>разлік</lemma>
+    <lemma>кошт</lemma>
+    <lemma>рахунак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изчисление</lemma>
+    <lemma>сметка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výpočet</lemma>
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obračun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пресметка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obliczenie</lemma>
+    <lemma annotation="matem.">rachunek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вычисление</lemma>
+    <lemma>расчёт</lemma>
+    <lemma>счёт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>výpočet</lemma>
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izjava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрачун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розрахунок</lemma>
+    <lemma>рахунок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kalkulo</lemma>
+    <lemma>konto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berechnung</lemma>
+    <lemma>Konto</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>berekening</lemma>
+    <lemma>calculatie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4474"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4474" steen:pos="m." steen:type="2" steen:same="ru sh">
+      sȯvět
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рада</lemma>
+    <lemma>парада</lemma>
+    <lemma>дарада</lemma>
+    <lemma>падказка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съвет</lemma>
+    <lemma>съвет</lemma>
+    <lemma annotation="оферта">съвет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rada</lemma>
+    <lemma>porada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>savjet</lemma>
+    <lemma>sugestija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>совет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rada</lemma>
+    <lemma>porada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совет</lemma>
+    <lemma>подсказка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rada</lemma>
+    <lemma>porada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navodila</lemma>
+    <lemma>predlogi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>савет</lemma>
+    <lemma>сугестија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рада</lemma>
+    <lemma>порада</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsiloj</lemma>
+    <lemma>konsilon</lemma>
+    <lemma>konsilio</lemma>
+    <lemma annotation="sugesto">pinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beratung</lemma>
+    <lemma>Beratung</lemma>
+    <lemma>Rat</lemma>
+    <lemma annotation="Vorschlag">Spitze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>raad</lemma>
+    <lemma>advies</lemma>
+    <lemma>tip</lemma>
+  </synset>
+</multilingual-synset>

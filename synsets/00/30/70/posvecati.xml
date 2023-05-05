@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3070"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3070" steen:pos="v.tr. ipf." steen:type="1">
+      posvęćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысвячаць</lemma>
+    <lemma>уводзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отделят се посвети на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zasvěcovat</lemma>
+    <lemma>obětovávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posvećivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посветува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dedykować</lemma>
+    <lemma annotation="np. czas">poświęcać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посвящать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zasväcovať</lemma>
+    <lemma>obetovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posvečeni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посвећивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посвячувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dediĉas</lemma>
+    <lemma>dediĉi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>widmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wijden">opdragen</lemma>
+    <lemma>toewijden</lemma>
+    <lemma>wijden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14495"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14495" steen:pos="particle" steen:type="2" steen:same="z">
+      či
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ли</lemma>
+    <lemma>дали</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="částice k zavedení otázky">či</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>li</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="честичка за воведување на прашање">ли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ли</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>či</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ali</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ли</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>partiklo enkonduki demandon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>daß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="partikel dat een vraag inluidt" />
+  </synset>
+</multilingual-synset>

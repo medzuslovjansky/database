@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32737"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32737" steen:pos="f." steen:type="1">
+      muzikaľna grupa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>музычны гурт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>музикална група</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kapela</lemma>
+    <lemma>hudební skupina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glazbena skupina</lemma>
+    <lemma>orkestar</lemma>
+    <lemma>bend</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>музичка група</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zespół muzyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>музыкальная группа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kapela</lemma>
+    <lemma>hudobná skupina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Glasbena skupina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>музичка група</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>музичний гурт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bando</lemma>
+    <lemma>muzikgrupo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Band</lemma>
+    <lemma>Musikgruppe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>muziekgroep</lemma>
+    <lemma>band</lemma>
+  </synset>
+</multilingual-synset>

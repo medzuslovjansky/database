@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35189"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35189"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      higieničny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гігіенічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хигиеничен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hygienický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>higijenski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хигиенски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>higieniczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гигиенический</lemma>
+    <lemma>гигиеничный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hygienický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>higienski</lemma>
+    <lemma>higieničen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хигијенски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гігієнічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>higienaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>hygienisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hygiënisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36617"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36617" steen:pos="m." steen:genesis="I">subjekt</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суб&apos;ект</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="философия, логика, право и др.">предмет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>subjekt</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>subjekt</lemma>
+    <lemma>podmet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="филозофија, логика, закон итн.">субјект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podmiot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>субъект</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>subjekt</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predmet</lemma>
+    <lemma>predikat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>субјекат</lemma>
+    <lemma>подмет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>суб&apos;єкт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="filozofio, logiko, leĝo ktp">subjekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Philosophie, Logik, Recht usw.">Fach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>subject</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23389"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23389"
+      steen:addition="(pozajme)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk j"
+    >
+      pozajęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазычыць</lemma>
+    <lemma>запазычыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да вземете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>půjčit si</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>posuditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>позајми</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pożyczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>позаимствовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>požičať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sposoditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позајмити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позичити</lemma>
+    <lemma>запозичити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prunteprenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>leihen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lenen</lemma>
+  </synset>
+</multilingual-synset>

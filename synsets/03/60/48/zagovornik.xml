@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36048"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36048"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v bm"
+    >
+      zagovornik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змоўца</lemma>
+    <lemma>змоўнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заговорник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spiklenec</lemma>
+    <lemma>konspirátor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavjerenik</lemma>
+    <lemma>urotnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заговорник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konspirator</lemma>
+    <lemma>spiskowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заговорщик</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sprisahanec</lemma>
+    <lemma>konšpirátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>patron</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заговорник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>змовник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konspiranto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verschwörer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenzweerder</lemma>
+  </synset>
+</multilingual-synset>

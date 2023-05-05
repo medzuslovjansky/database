@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13593"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13593"
+      steen:addition="(vede)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      vesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>весці</lemma>
+    <lemma annotation="сабе">паводзіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>водя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vést</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>voditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>води</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wieść</lemma>
+    <lemma>przewodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>viesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svinca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>водити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plumbo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>führen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leiden</lemma>
+    <lemma>geleiden</lemma>
+  </synset>
+</multilingual-synset>

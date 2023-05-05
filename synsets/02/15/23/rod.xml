@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21523"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21523" steen:pos="m." steen:type="1">rod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="біёл.">род</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рода</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="biol.">rod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="biol.">rod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w systematyce roślin i zwierząt">rodzaj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="биол.">род</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="biol.">rod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrste</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="биол.">рід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>genro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gattung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="plant-/dierkunde">geslacht</lemma>
+  </synset>
+</multilingual-synset>

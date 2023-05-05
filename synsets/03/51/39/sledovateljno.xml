@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35139"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35139" steen:pos="adv." steen:type="2" steen:same="ru bg">
+      slědovateljno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>такім чынам</lemma>
+    <lemma>выходзіць</lemma>
+    <lemma>значыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>следователно</lemma>
+    <lemma>по този начин</lemma>
+    <lemma>в резултат на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proto</lemma>
+    <lemma>jako výsledek</lemma>
+    <lemma>následně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dakle</lemma>
+    <lemma>stoga</lemma>
+    <lemma>posljedično</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>следствено на тоа</lemma>
+    <lemma>последувателно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeto</lemma>
+    <lemma>zatem</lemma>
+    <lemma>konsekwentnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>следовательно</lemma>
+    <lemma>значит</lemma>
+    <lemma>таким образом</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preto</lemma>
+    <lemma>ako výsledok</lemma>
+    <lemma>následne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tako</lemma>
+    <lemma>zato</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зато</lemma>
+    <lemma>стога</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>отже</lemma>
+    <lemma>отож</lemma>
+    <lemma>значить</lemma>
+    <lemma>таким чином</lemma>
+    <lemma>виходить</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsekvence</lemma>
+    <lemma>do</lemma>
+    <lemma>rezulte</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Folglich daher als Ergebnis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dientengevolge</lemma>
+    <lemma>derhalve</lemma>
+    <lemma>daardoor</lemma>
+  </synset>
+</multilingual-synset>

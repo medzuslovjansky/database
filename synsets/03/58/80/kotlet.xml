@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35880"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35880"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kotlet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>катлета</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>котлет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kotleta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kotlet</lemma>
+    <lemma>kare</lemma>
+    <lemma>krmenadla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>котлет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kotlet</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>котлета</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kotleta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kotlet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>котлет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>котлета</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kotleto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schnitzel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kotelet</lemma>
+    <lemma>schnitzel</lemma>
+  </synset>
+</multilingual-synset>

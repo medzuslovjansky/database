@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1796"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1796"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      iz-nad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з-за</lemma>
+    <lemma>з-па</lemma>
+    <lemma>з-пад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>от горе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zponad</lemma>
+    <lemma>znad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznad</lemma>
+    <lemma>nad</lemma>
+    <lemma>ponad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>над</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>из</lemma>
+    <lemma annotation="места над">с</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sponad</lemma>
+    <lemma>znad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgoraj</lemma>
+    <lemma>nad</lemma>
+    <lemma>na vrhu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изнад</lemma>
+    <lemma>над</lemma>
+    <lemma>поврх</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з-над</lemma>
+    <lemma>із-над</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>de supre</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>von oben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boven … vandaan</lemma>
+  </synset>
+</multilingual-synset>

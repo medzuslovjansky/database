@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35002"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35002" steen:pos="m." steen:type="2" steen:same="v">
+      zator
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затор</lemma>
+    <lemma annotation="зап.">пробка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задръстване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dopravní zácpa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gužva</lemma>
+    <lemma>zastoj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сообраќаен застој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="samochodów">korek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>затор</lemma>
+    <lemma>пробка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dopravná zápcha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="promet">zaseden</lemma>
+    <lemma>urina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="саобраћај">гужва</lemma>
+    <lemma>застој</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затор</lemma>
+    <lemma>пробка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trafikŝtopiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="verkeer">file</lemma>
+  </synset>
+</multilingual-synset>

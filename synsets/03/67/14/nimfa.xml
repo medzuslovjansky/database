@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36714"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36714"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      nimfa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="біял.">німфа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="насекомо">нимфа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hmyz">nymfa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nimfa</lemma>
+    <lemma>kukuljica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma
+      annotation="Последен стадиум во развојот на некои инсекти, ларви и сл."
+    >
+      кукла
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="owad">nimfa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="насекомое">нимфа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hmyz">nymfa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="faza transformacije žuželk">Lutka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="стадијум преображаја инсеката">лутка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="біол.">німфа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="insekto">nimfo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Insekt">Nymphe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nymf</lemma>
+  </synset>
+</multilingual-synset>

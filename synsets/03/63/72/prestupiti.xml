@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36372"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36372" steen:pos="v.tr. pf." steen:type="1">
+      prěstųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераступіць</lemma>
+    <lemma>перакрочыць</lemma>
+    <lemma>перасягнуць</lemma>
+    <lemma>перажырнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>престъпя</lemma>
+    <lemma>прекрача</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překročit</lemma>
+    <lemma annotation="přes něco">přestoupit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prestupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престапи</lemma>
+    <lemma>нагази</lemma>
+    <lemma>премина линија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekroczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переступить</lemma>
+    <lemma>перешагнуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prekročiť</lemma>
+    <lemma annotation="cez niečo">prestúpiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prestopiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преступити</lemma>
+    <lemma>извршити прекршај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переступити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transiri</lemma>
+    <lemma>paŝi super</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überqueren</lemma>
+    <lemma>übersteigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overschrijden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4544"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4544" steen:pos="m.anim." steen:type="1">govoritelj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прамоўца</lemma>
+    <lemma>дакладчык</lemma>
+    <lemma>асоба, якая валодае мовай</lemma>
+    <lemma annotation="пасада">спікер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>говорител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mluvčí</lemma>
+    <lemma>řečník</lemma>
+    <lemma>spíkr</lemma>
+    <lemma>konferneciér</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>govornik</lemma>
+    <lemma>govoritelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>говорник</lemma>
+    <lemma>говорител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mówca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оратор</lemma>
+    <lemma>спикер</lemma>
+    <lemma>диктор</lemma>
+    <lemma>говорящий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hovorca</lemma>
+    <lemma>rečník tlačový tajomník</lemma>
+    <lemma>zástupca</lemma>
+    <lemma>konferneciér</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zvočnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>говорник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>промовець</lemma>
+    <lemma>оратор</lemma>
+    <lemma>спікер</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>parolanto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Sprecher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spreker</lemma>
+  </synset>
+</multilingual-synset>

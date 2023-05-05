@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17663"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17663" steen:pos="f." steen:type="2" steen:same="v">
+      knopka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кнопка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>копче</lemma>
+    <lemma>бутон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tlačítko</lemma>
+    <lemma annotation="aparát">knoflík</lemma>
+    <lemma>klapka</lemma>
+    <lemma annotation="cvoček">připínák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gumb</lemma>
+    <lemma>dugme</lemma>
+    <lemma>puce</lemma>
+    <lemma>botun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>копче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>guzik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кнопка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tlačidlo</lemma>
+    <lemma annotation="aparát">gombík</lemma>
+    <lemma>klapka</lemma>
+    <lemma>cvočka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>gumb</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дугме</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кнопка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>butono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Taste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>knoop</lemma>
+  </synset>
+</multilingual-synset>

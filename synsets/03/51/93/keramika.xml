@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35193"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35193"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      keramika
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кераміка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>керамика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>keramika</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>keramika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="материјал">керамика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ceramika</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>керамика</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>keramika</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>keramika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>керамика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кераміка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ceramiko</lemma>
+    <lemma annotation="materialo">ceramiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Keramik</lemma>
+    <lemma annotation="Material">Keramik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>keramiek</lemma>
+    <lemma>aardewerk</lemma>
+  </synset>
+</multilingual-synset>

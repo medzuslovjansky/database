@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35464"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35464"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      sporadičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спарадычны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спорадично</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sporadický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sporadičan</lemma>
+    <lemma>mjestimičan</lemma>
+    <lemma>povremen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спорадичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sporadyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спорадический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sporadický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prekinitvami</lemma>
+    <lemma>občasnih</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повремен</lemma>
+    <lemma>местимичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спорадичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sporada</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sporadisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sporadisch</lemma>
+  </synset>
+</multilingual-synset>

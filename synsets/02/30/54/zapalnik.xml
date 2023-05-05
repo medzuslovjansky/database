@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23054"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23054" steen:pos="m." steen:type="1">zapaľnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запальнік</lemma>
+    <lemma>запальвальнік</lemma>
+    <lemma>дэтанатар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ударник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zápalník</lemma>
+    <lemma>úderník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>udarna igla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="оружје">ударна игла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalnik</lemma>
+  </synset>
+  <synset lang="ru" verified="false">
+    <lemma annotation="деталь оружия">ударник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zápalník</lemma>
+    <lemma>úderník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="orožje">udarna igla</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="оружје">ударна игла</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="деталь зброї">ударник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>firing pinglo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlagbolzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontsteker</lemma>
+  </synset>
+</multilingual-synset>

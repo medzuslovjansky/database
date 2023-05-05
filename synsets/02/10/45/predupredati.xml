@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21045"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21045"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      prěduprěđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэджваць</lemma>
+    <lemma>папераджаць</lemma>
+    <lemma>перасцерагаць</lemma>
+    <lemma>спасцерагаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ще ви уведомим предварително</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oznamovat v předstihu</lemma>
+    <lemma>upozorňovat předem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predviđati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предупредува</lemma>
+    <lemma>известува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uprzedzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предупреждать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oznamovať v predstihu</lemma>
+    <lemma>upozorňovať vopred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napovedati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предвиђати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>попереджати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sciigi anticipe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>benachrichtigen im Voraus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waarschuwen</lemma>
+  </synset>
+</multilingual-synset>

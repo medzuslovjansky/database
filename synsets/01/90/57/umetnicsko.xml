@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19057"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19057"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="cs~ yu mk"
+    >
+      umětničsko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>артыстычна</lemma>
+    <lemma>мастацка</lemma>
+    <lemma>па-мастацку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>артистично</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umělecky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umjetničko</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уметничко</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>artystycznie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>артистично</lemma>
+    <lemma>художественно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>umelecky</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>umetniško</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уметничко</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>артистично</lemma>
+    <lemma>художньо</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>arte</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>künstlerisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunstzinnig</lemma>
+    <lemma>artistiek</lemma>
+  </synset>
+</multilingual-synset>

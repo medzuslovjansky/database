@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36867"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="na"
+      steen:id="36867"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="v"
+    >
+      naskakati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наскокваць</lemma>
+    <lemma>наскакваць</lemma>
+    <lemma>натыкацца</lemma>
+    <lemma>уссоўвацца</lemma>
+    <lemma>сутыкацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на">налитам</lemma>
+    <lemma annotation="със">сблъскам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naskakovat</lemma>
+    <lemma>nalétat</lemma>
+    <lemma>sedat na lep</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nalijetati</lemma>
+    <lemma>sudarati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на">наскокува</lemma>
+    <lemma annotation="со">судира</lemma>
+    <lemma annotation="на">налетува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na">wpadać</lemma>
+    <lemma annotation="z">zderzać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наскакивать</lemma>
+    <lemma>натыкаться</lemma>
+    <lemma>наталкиваться</lemma>
+    <lemma>налетать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naskakovať</lemma>
+    <lemma>nalietať</lemma>
+    <lemma>sadať na lep</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="v">trk</lemma>
+    <lemma annotation="z">trk</lemma>
+    <lemma annotation="ob">padec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се са нечим">сударати</lemma>
+    <lemma annotation="на некога">налетати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наскакувати</lemma>
+    <lemma>наштовхуватися</lemma>
+    <lemma>натикатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en">kuri</lemma>
+    <lemma annotation="kun">kolizii</lemma>
+    <lemma annotation="sur">fali</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="hinein">laufen</lemma>
+    <lemma annotation="mit">kollidieren</lemma>
+    <lemma annotation="auf">fallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op">stuiten</lemma>
+    <lemma>tegenkomen</lemma>
+    <lemma>treffen</lemma>
+  </synset>
+</multilingual-synset>

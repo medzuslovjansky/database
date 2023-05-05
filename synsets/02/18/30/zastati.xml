@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21830"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21830" steen:pos="v.tr. pf." steen:type="1">zastati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дома">застаць</lemma>
+    <lemma>заспець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="някого вкъщи">намеря</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někoho doma">zastihnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zateći</lemma>
+    <lemma>naći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сретне</lemma>
+    <lemma>најде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zastać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дома">застать</lemma>
+    <lemma>застичь</lemma>
+    <lemma>застигнуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="niekoho doma">zastihnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>najti</lemma>
+    <lemma annotation="nekdo doma">najti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наћи</lemma>
+    <lemma annotation="некога код куће">затећи</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="удома">застати</lemma>
+    <lemma>застигнути</lemma>
+    <lemma>застигнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="SBD. hejme">trovi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="sbd. zu Hause">finden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aantreffen</lemma>
+  </synset>
+</multilingual-synset>

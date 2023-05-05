@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4079"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4079"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl bm"
+      steen:genesis="I"
+    >
+      praktika
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>практыка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>практика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>praxe</lemma>
+    <lemma>praktika</lemma>
+    <lemma>nácvik</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>praksa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пракса</lemma>
+    <lemma>практика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>praktyka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>практика</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>praxa</lemma>
+    <lemma>praktika</lemma>
+    <lemma>nácvik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>praksa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пракса</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>практика</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>praktiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trainieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>praktijk</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5271"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5271" steen:pos="f." steen:type="1">točka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">кропка</lemma>
+    <lemma>пункт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>точка</lemma>
+    <lemma>точка</lemma>
+    <lemma annotation="точка">точка</lemma>
+    <lemma>пълна спирка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tečka</lemma>
+    <lemma>bod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>točka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>точка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kropka</lemma>
+    <lemma>punkt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>точка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bodka</lemma>
+    <lemma>bod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>točka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тачка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>крапка</lemma>
+    <lemma>точка</lemma>
+    <lemma>пункт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>punkto</lemma>
+    <lemma>punkto</lemma>
+    <lemma annotation="punkto">periodo</lemma>
+    <lemma>plena halto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Punkt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>punt</lemma>
+    <lemma>stip</lemma>
+  </synset>
+</multilingual-synset>

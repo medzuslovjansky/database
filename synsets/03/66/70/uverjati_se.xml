@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36670"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36670"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru cs sh mk"
+    >
+      uvěrjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упэўнівацца</lemma>
+    <lemma>пераконвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>убеждавам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ujišťovat se</lemma>
+    <lemma>přesvědčovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uvjeravati se</lemma>
+    <lemma>osvjedočavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се убедува</lemma>
+    <lemma>се уверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upewniać się</lemma>
+    <lemma>przekonywać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убеждаться</lemma>
+    <lemma>удостоверяться</lemma>
+    <lemma>уверяться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uisťovať sa</lemma>
+    <lemma>prevedčovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričati</lemma>
+    <lemma>prepričati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уверавати се</lemma>
+    <lemma>убеђивати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>впевнюватися</lemma>
+    <lemma>переконуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>certigi</lemma>
+    <lemma>konvinkiĝi</lemma>
+    <lemma>certigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sicherstellen</lemma>
+    <lemma>überzeugt sein</lemma>
+    <lemma>sicherstellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich overtuigen</lemma>
+    <lemma>zich vergewissen</lemma>
+  </synset>
+</multilingual-synset>

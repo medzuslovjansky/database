@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9111"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9111"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="cs"
+    >
+      milovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кахаць</lemma>
+    <lemma>любіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>любов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>milovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>voljeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>милува</lemma>
+    <lemma>сака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kochać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>любить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>milovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ljubiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>волети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кохати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Liebe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>houden van</lemma>
+  </synset>
+</multilingual-synset>

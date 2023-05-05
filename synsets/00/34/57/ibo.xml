@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3457"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3457" steen:pos="conj." steen:type="1">ibo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>таму што</lemma>
+    <lemma>так як</lemma>
+    <lemma>бо</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>понеже</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neboť</lemma>
+    <lemma>protože</lemma>
+    <lemma>poněvadž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jer</lemma>
+    <lemma>zato što</lemma>
+    <lemma>budući da</lemma>
+    <lemma>zbog toga što</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бидејќи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bo</lemma>
+    <lemma>ponieważ</lemma>
+    <lemma>gdyż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потому что</lemma>
+    <lemma>так как</lemma>
+    <lemma>ибо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pretože</lemma>
+    <lemma annotation="archaické">ponevadž</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>saj</lemma>
+    <lemma>kajti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јер</lemma>
+    <lemma>зато што</lemma>
+    <lemma>пошто</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бо</lemma>
+    <lemma>тому що</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉar</lemma>
+    <lemma>ekde</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>weil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>want</lemma>
+    <lemma>omdat</lemma>
+  </synset>
+</multilingual-synset>

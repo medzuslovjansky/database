@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22061" steen:pos="m." steen:type="2" steen:same="cz sh">
+      tok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цячэнне</lemma>
+    <lemma>цёк</lemma>
+    <lemma annotation="рух вадкасці">ток</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поток</lemma>
+    <lemma annotation="река">течение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tok</lemma>
+    <lemma annotation="řeka">proud</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tok</lemma>
+    <lemma>protok</lemma>
+    <lemma>protjecanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="река">ток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. rzeki">prąd</lemma>
+    <lemma>nurt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>течение</lemma>
+    <lemma annotation="движение жидкости">ток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tok</lemma>
+    <lemma annotation="rieka">prúd</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>River tok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ток реке</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>течія</lemma>
+    <lemma annotation="рух рідини">струм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rivero">fluo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fluss">Flow</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stroming</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36414"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36414"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      aranžman
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аранжыроўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>аранжимент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aranžmá</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>aranžman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>аранжман</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aranżacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аранжировка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>aranžmán</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>aranžma</lemma>
+    <lemma>priredba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аранжман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аранжування</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="muziko">aranĝo</lemma>
+    <lemma annotation="muziko">aranĝado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Arrangement</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>arrangement</lemma>
+  </synset>
+</multilingual-synset>

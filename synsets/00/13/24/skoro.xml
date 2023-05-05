@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1324"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1324"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v cs sh bg"
+    >
+      skoro
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хутка</lemma>
+    <lemma>у хуткім часе</lemma>
+    <lemma>скора</lemma>
+    <lemma>неўзабаве</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>скоро</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brzy</lemma>
+    <lemma>skoro</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uskoro</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скоро</lemma>
+    <lemma>наскоро</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wkrótce</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скоро</lemma>
+    <lemma>вскоре</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>čoskoro</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kmalu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ускоро</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скоро</lemma>
+    <lemma>незабаром</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>baldaŭ</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>bald</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>binnenkort</lemma>
+  </synset>
+</multilingual-synset>

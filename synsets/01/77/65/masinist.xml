@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17765"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17765"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      mašinist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наборшчык</lemma>
+    <lemma>наборнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>машинописец</lemma>
+    <lemma>човек набиращ текст</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="na stroji">písař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>daktilograf</lemma>
+    <lemma>tipkač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дактилограф</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>maszynista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наборщик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="na stroji">pisár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tipkam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дактилограф</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>набирач</lemma>
+    <lemma>друкар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tajpistino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schreibkraft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>typist</lemma>
+  </synset>
+</multilingual-synset>

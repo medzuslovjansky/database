@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30610"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30610" steen:pos="f." steen:type="1" steen:genesis="I">
+      restavracija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэстаўрацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>възстановяване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>restaurování</lemma>
+    <lemma>obnova</lemma>
+    <lemma>reastaurace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>restauracija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реставрација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="architektura">restauracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>реставрация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>reštaurovanie</lemma>
+    <lemma>obnova</lemma>
+    <lemma>reastaurace</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obnova</lemma>
+    <lemma>popravila</lemma>
+    <lemma annotation="slikarstvo, objekti">obnova</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обнова</lemma>
+    <lemma>поправка</lemma>
+    <lemma annotation="слика, објеката">рестаурација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>реставрація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>restarigon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wiederherstellung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>restauratie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3324"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3324"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      smysl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сэнс</lemma>
+    <lemma annotation="саст.">змысл</lemma>
+    <lemma annotation="саст.">змысел</lemma>
+    <lemma>значэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>смисъл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smysl</lemma>
+    <lemma>význam</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smisao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смисла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sens</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смысл</lemma>
+    <lemma>значение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmysel</lemma>
+    <lemma>význam</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>smisel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смисао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>смисл</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senco</lemma>
+    <lemma>signifo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sinn</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="betekenis, nut">zin</lemma>
+    <lemma>bedoeling</lemma>
+  </synset>
+</multilingual-synset>

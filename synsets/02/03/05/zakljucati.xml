@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20305"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20305" steen:pos="v.tr. ipf." steen:type="1">
+      zaključati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дамову/дагавор">заключаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="договор">сключвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzavírat</lemma>
+    <lemma annotation="smlouva">podepisovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="ugovor">sklapati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="договор">склучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="договор">заключать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uzatvárať</lemma>
+    <lemma annotation="zmluvu">podpísovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pogodba">zaključitvati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="договор">закључитвати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>робити (договір) висновок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="interkonsento">subskribi</lemma>
+    <lemma annotation="interkonsento">konkludi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Vereinbarung">unterzeichnen</lemma>
+    <lemma annotation="Vereinbarung">schließen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aangaan</lemma>
+    <lemma annotation="overeenkomst">sluiten</lemma>
+  </synset>
+</multilingual-synset>

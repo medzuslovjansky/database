@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19404"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19404" steen:pos="f." steen:type="2" steen:same="v j">
+      žarovka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лямпачка</lemma>
+    <lemma>лямпа напальвання</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>крушка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žárovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žarulja</lemma>
+    <lemma>sijalica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сијалица</lemma>
+    <lemma>светилка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żarówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лампочка</lemma>
+    <lemma>лампа накаливания</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žiarovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žarnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сијалица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лампочка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="lumigilo">ampolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>die Glühbirne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gloeilamp</lemma>
+  </synset>
+</multilingual-synset>

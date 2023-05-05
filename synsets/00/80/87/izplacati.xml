@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8087"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8087"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      izplaćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выплачваць</lemma>
+    <lemma>выплочваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изплащам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplácet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isplaćivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исплаќа</lemma>
+    <lemma>исплатува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypłacać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выплачивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplácať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plačilo</lemma>
+    <lemma>nagrada denar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исплаћивати</lemma>
+    <lemma>награђивати новцем</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виплачувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pagas ekstere</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auszahlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitbetalen</lemma>
+  </synset>
+</multilingual-synset>

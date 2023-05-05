@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13252"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13252" steen:pos="m." steen:type="1">um</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>розум</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ум</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozum</lemma>
+    <lemma>um</lemma>
+    <lemma>mysl</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>um</lemma>
+    <lemma>mozak</lemma>
+    <lemma annotation="fig.">misao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ум</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umysł</lemma>
+    <lemma>rozum</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ум</lemma>
+    <lemma>разум</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozum</lemma>
+    <lemma>um</lemma>
+    <lemma>myseľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>um</lemma>
+    <lemma>možgani</lemma>
+    <lemma annotation="fig.">misel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ум</lemma>
+    <lemma>мозак</lemma>
+    <lemma annotation="фиг.">мисао</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>розум</lemma>
+    <lemma>розум</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>menso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verstand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verstand</lemma>
+  </synset>
+</multilingual-synset>

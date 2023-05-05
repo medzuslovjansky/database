@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1408" steen:pos="n." steen:type="1">steklo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шкло</lemma>
+    <lemma annotation="напр.: акна, аўтамабіля">шыбіна</lemma>
+    <lemma annotation="ласк.">шыбка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="материал">стъкло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sklo</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>staklo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="материјал">стакло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стекло</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sklo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>steklo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стакло</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скло</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="materialo">vitro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Glas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="materiaal">glas</lemma>
+  </synset>
+</multilingual-synset>

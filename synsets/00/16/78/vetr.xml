@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1678"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1678" steen:pos="m." steen:type="1">větr</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вецер</lemma>
+    <lemma>ветравей</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вятър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vítr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjetar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ветер</lemma>
+    <lemma>ветар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiatr</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ветер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vietor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>veter</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ветар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вітер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vento</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wind</lemma>
+  </synset>
+</multilingual-synset>

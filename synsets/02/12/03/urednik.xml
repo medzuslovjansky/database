@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21203" steen:pos="m.anim." steen:type="2" steen:same="z">
+      urędnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>службовец</lemma>
+    <lemma>афіцыйнік</lemma>
+    <lemma>ураднік</lemma>
+    <lemma>урадовец</lemma>
+    <lemma>функцыянер</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>функционер</lemma>
+    <lemma>официален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úředník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>urednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>службеник</lemma>
+    <lemma>чиновник</lemma>
+    <lemma>функционер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>urzędnik</lemma>
+    <lemma>funkcjonariusz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чиновник</lemma>
+    <lemma>функционер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úradník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>urednik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уредник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>чиновник</lemma>
+    <lemma>функціонер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>funkciulo</lemma>
+    <lemma>oficiala</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Funktionär</lemma>
+    <lemma>offizielle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>functionaris</lemma>
+    <lemma>ambtenaar</lemma>
+  </synset>
+</multilingual-synset>

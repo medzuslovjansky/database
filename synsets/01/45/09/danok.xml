@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14509"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14509" steen:pos="m." steen:type="2" steen:same="ub pl~ j">
+      danȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даніна</lemma>
+    <lemma>падаць</lemma>
+    <lemma>падатак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>данък</lemma>
+    <lemma>такса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>daň</lemma>
+    <lemma>poplatek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>porez</lemma>
+    <lemma>danak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>данок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podatek</lemma>
+    <lemma>trybut</lemma>
+    <lemma>danina</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дань</lemma>
+    <lemma>подать</lemma>
+    <lemma>налог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>daň</lemma>
+    <lemma>poplatok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>davek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>данак</lemma>
+    <lemma>порез</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>податок</lemma>
+    <lemma>данина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imposto</lemma>
+    <lemma>impostoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Steuer</lemma>
+    <lemma>Tribut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>belasting</lemma>
+  </synset>
+</multilingual-synset>

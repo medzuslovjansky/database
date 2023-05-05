@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="631"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="631" steen:pos="f." steen:type="2" steen:same="v pl">
+      kara
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кара</lemma>
+    <lemma>пакаранне</lemma>
+    <lemma>штраф</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наказание</lemma>
+    <lemma>санкция</lemma>
+    <lemma>глоба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trest</lemma>
+    <lemma>penále</lemma>
+    <lemma>pokuta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kazna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>казна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kara</lemma>
+    <lemma>grzywna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кара</lemma>
+    <lemma>наказание</lemma>
+    <lemma>штраф</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trest</lemma>
+    <lemma>penále</lemma>
+    <lemma>pokuta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kazen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>казна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кара</lemma>
+    <lemma>покарання</lemma>
+    <lemma>штраф</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>puno</lemma>
+    <lemma>puno</lemma>
+    <lemma>fajnan</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Strafe</lemma>
+    <lemma>Strafe</lemma>
+    <lemma>fein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>straf</lemma>
+    <lemma>boete</lemma>
+  </synset>
+</multilingual-synset>

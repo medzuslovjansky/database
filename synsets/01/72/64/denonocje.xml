@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17264"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17264" steen:pos="n." steen:type="3" steen:same="bm">
+      denonočje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суткі</lemma>
+    <lemma annotation="24 гадзіны">дзень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>денонощие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvacetčtyři hodin</lemma>
+    <lemma>den a noc</lemma>
+    <lemma>celý den</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvadeset i četiri sata</lemma>
+    <lemma>dan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>деноноќие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="24 godziny">doba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сутки</lemma>
+    <lemma annotation="24 часа">день</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dvadsaťštyri hodín</lemma>
+    <lemma>deň a noc</lemma>
+    <lemma>celý deň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="24 ur">štiriindvajset ur na dan</lemma>
+    <lemma>dan in noč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двадесет четири сата</lemma>
+    <lemma annotation="24h">један дан</lemma>
+    <lemma>дан и ноћ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="24 години">доба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dudek kvar horoj</lemma>
+    <lemma>tage kaj nokte</lemma>
+    <lemma>nychthemeron</lemma>
+    <lemma>(formala) tago</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>24 Stunden</lemma>
+    <lemma>Tag und Nacht</lemma>
+    <lemma>Nychthemeron</lemma>
+    <lemma>(formal) Tag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>etmaal</lemma>
+  </synset>
+</multilingual-synset>

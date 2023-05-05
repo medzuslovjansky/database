@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21726"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21726"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      dostavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дастаўляць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доставям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dodávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dostavljati</lemma>
+    <lemma>isporučivati</lemma>
+    <lemma>uručivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испорачува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доставлять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dodávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predloži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>достављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доставляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>liberigu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>liefern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afleveren</lemma>
+  </synset>
+</multilingual-synset>

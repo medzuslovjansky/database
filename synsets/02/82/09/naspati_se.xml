@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28209"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28209"
+      steen:addition="(naspi)"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      naspati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выспацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наспивам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyspat se</lemma>
+    <lemma>naspat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naspavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се наспа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyspać się</lemma>
+    <lemma>naspać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выспаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyspať sa</lemma>
+    <lemma>naspat sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spanja</lemma>
+    <lemma>dovolj spanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наспавати</lemma>
+    <lemma>испавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виспатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dormo bone</lemma>
+    <lemma>havi bonan dormon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlaf gut</lemma>
+    <lemma>hat einen guten Schlaf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lang slapen</lemma>
+  </synset>
+</multilingual-synset>

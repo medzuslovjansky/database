@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21146"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21146" steen:pos="m." steen:type="1" steen:same="pl cz sh">
+      spad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>схіл</lemma>
+    <lemma>збочча</lemma>
+    <lemma>узбочча</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>писта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spád</lemma>
+    <lemma>sklon</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>naklon</lemma>
+    <lemma>nagib</lemma>
+    <lemma>padina</lemma>
+    <lemma>nizbrdica</lemma>
+    <lemma>kosina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наклон</lemma>
+    <lemma>падина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stok</lemma>
+    <lemma>zbocze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>склон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spád</lemma>
+    <lemma>sklon</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naklon</lemma>
+    <lemma>naklon</lemma>
+    <lemma>naklon</lemma>
+    <lemma>navzdol</lemma>
+    <lemma>naklon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наклон</lemma>
+    <lemma>нагиб</lemma>
+    <lemma>падина</lemma>
+    <lemma>низбрдица</lemma>
+    <lemma>косина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>схил</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deklivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Steigung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helling</lemma>
+  </synset>
+</multilingual-synset>

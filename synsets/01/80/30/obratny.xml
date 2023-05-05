@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18030"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18030" steen:pos="adj." steen:type="2" steen:same="ru sh">
+      obråtny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адваротны</lemma>
+    <lemma>зваротны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обратно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opačný</lemma>
+    <lemma>zpětný</lemma>
+    <lemma>reverzní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obratan</lemma>
+    <lemma>suprotan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обратен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwrotny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обратный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opačný</lemma>
+    <lemma>spätný</lemma>
+    <lemma>reverzný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obrnjena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрнут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зворотний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inversigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umkehren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omgekeerd</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20334"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20334"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl bg"
+    >
+      barsuk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>барсук</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бурсук</lemma>
+    <lemma>язовец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jezevec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jazavac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јазовец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>borsuk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>барсук</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jazvec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>jazbec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јазавац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>борсук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>melo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dachs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="dier">das</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2880"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2880" steen:pos="v.intr. ipf." steen:type="1">
+      besědovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>размаўляць</lemma>
+    <lemma>гутарыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разговарям</lemma>
+    <lemma>общувам</lemma>
+    <lemma annotation="остар.">хоратя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>besedovat</lemma>
+    <lemma>rozmlouvat</lemma>
+    <lemma>konverzovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razgovarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разговара</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozmawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разговаривать</lemma>
+    <lemma>общаться</lemma>
+    <lemma>беседовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>besedovať</lemma>
+    <lemma>rozprávať sa</lemma>
+    <lemma>konverzovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pogovarjati se</lemma>
+    <lemma>klepetati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разговарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спілкуватися</lemma>
+    <lemma>розмовляти</lemma>
+    <lemma>бесідувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konversacii</lemma>
+    <lemma>babilejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>konversieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>praten</lemma>
+    <lemma>converseren</lemma>
+  </synset>
+</multilingual-synset>

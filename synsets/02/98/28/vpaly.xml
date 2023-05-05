@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29828"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29828"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl sk sh"
+    >
+      vpaly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упалы</lemma>
+    <lemma>запалы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="бузи">изпит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="tvář">vpadlý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>upao</lemma>
+    <lemma>udubljen</lemma>
+    <lemma>ugnut</lemma>
+    <lemma>zabačen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпаднат</lemma>
+    <lemma>зафрлен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapadły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>впалый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="tvár">vpadli</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>denarja</lemma>
+    <lemma>depresivni</lemma>
+    <lemma>potopljeno</lemma>
+    <lemma>daljinsko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упао</lemma>
+    <lemma>удубљен</lemma>
+    <lemma>угнут</lemma>
+    <lemma>забачен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запалий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz vangoj">kava</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. Wangen">Hohl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. wangen">ingevallen</lemma>
+  </synset>
+</multilingual-synset>

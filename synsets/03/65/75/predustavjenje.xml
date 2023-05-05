@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36575"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36575" steen:pos="n.">prědustavjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перадусталёўка</lemma>
+    <lemma>перадналадка</lemma>
+    <lemma>наладка па змоўчанні</lemma>
+    <lemma>наладка па змаўчанні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предварително зададена настройка по подразбиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předvolba</lemma>
+    <lemma>výchozí nastavení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadana postavka</lemma>
+    <lemma>polazni parametar</lemma>
+    <lemma>početna vrijednost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>почетна точка</lemma>
+    <lemma>појдовни параметри</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustawienie domyślne</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предустановка</lemma>
+    <lemma>преднастройка</lemma>
+    <lemma>настройка по умолчанию</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predvolené nastavenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začetne parametre</lemma>
+    <lemma>začetna vrednost je izhodišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>полазни параметри</lemma>
+    <lemma>полазна вредност</lemma>
+    <lemma>почетна тачка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>налаштування за замовченням</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malpostagordita</lemma>
+    <lemma>persilenta agordo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>voreingestellt</lemma>
+    <lemma>Standardeinstellung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>standaardinstelling</lemma>
+  </synset>
+</multilingual-synset>

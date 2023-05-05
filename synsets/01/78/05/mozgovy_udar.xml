@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17805"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17805" steen:pos="m." steen:type="1">mozgovy udar</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інсульт</lemma>
+    <lemma>апаплексія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>инсулт</lemma>
+    <lemma>апоплексия</lemma>
+    <lemma>удар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mozková mrtvice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>moždani udar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мозочен удар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>udar mózgu</lemma>
+    <lemma>apopleksja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инсульт</lemma>
+    <lemma>апоплексия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mozgová mŕtvica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kap</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мождани удар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інсульт</lemma>
+    <lemma>апоплексія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streko</lemma>
+    <lemma>apopleksio</lemma>
+    <lemma>cerbo-vascular akcidento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlaganfall</lemma>
+    <lemma>Apoplexie</lemma>
+    <lemma>Apoplexie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herseninfarct</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20568"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20568" steen:pos="v.tr. ipf." steen:type="1">
+      odbivati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="мяч">адбіваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>победи</lemma>
+    <lemma annotation="на топка">за да отвърне на удара</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odrážet</lemma>
+    <lemma annotation="koule">odbíjet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odbijati</lemma>
+    <lemma>odbacivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одбива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odbijać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мяч">отбивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odrážať</lemma>
+    <lemma annotation="guľa">odbíjať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpadkov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одбијати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="м&apos;яч">відбивати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>debatos</lemma>
+    <lemma annotation="pilko">sukceso reen</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schlagen aus</lemma>
+    <lemma annotation="Ball">schlug zurück</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegslaan</lemma>
+    <lemma annotation="bal">terugslaan</lemma>
+  </synset>
+</multilingual-synset>

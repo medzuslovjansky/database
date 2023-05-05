@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31493"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31493" steen:pos="m." steen:type="2" steen:same="v bm">
+      zagovor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змова</lemma>
+    <lemma>загавор</lemma>
+    <lemma annotation="супаць кагосьці">замова</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заговор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spiknutí</lemma>
+    <lemma>komplot</lemma>
+    <lemma>konspirace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavjera</lemma>
+    <lemma>urota. komplot</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spisek</lemma>
+    <lemma>konspiracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заговор</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sprisahanie</lemma>
+    <lemma>komplot</lemma>
+    <lemma>konšpirácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obramba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заговор</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>змова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konspiro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verschwörung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenzwering</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10011"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10011"
+      steen:pos="n.sg."
+      steen:type="2"
+      steen:same="ru be j"
+    >
+      odobrjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адабрэнне</lemma>
+    <lemma>ухвала</lemma>
+    <lemma>ухваленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>твърдението</lemma>
+    <lemma>апробирането</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>schválení</lemma>
+    <lemma>souhlas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odobrenje</lemma>
+    <lemma>odobravanje</lemma>
+    <lemma>dopuštenje</lemma>
+    <lemma>dozvola</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одобрување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aprobata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одобрение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>schválenie</lemma>
+    <lemma>súhlas</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odobritev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одобрење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>схвалення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aprobo</lemma>
+    <lemma>aprobon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Genehmigung Approbation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goedkeuring</lemma>
+  </synset>
+</multilingual-synset>

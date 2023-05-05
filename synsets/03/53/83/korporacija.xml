@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35383"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35383"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      korporacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карпарацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>корпорация</lemma>
+    <lemma>фирма</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korporace</lemma>
+    <lemma>společnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korporacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>корпорација</lemma>
+    <lemma>друштво</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korporacja</lemma>
+    <lemma>spółka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корпорация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korporácia</lemma>
+    <lemma>spoločnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>družba</lemma>
+    <lemma>podjetje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фирма</lemma>
+    <lemma>компанија</lemma>
+    <lemma>предузеће</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корпорація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korporacio</lemma>
+    <lemma>kompanio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Korporation</lemma>
+    <lemma>Gesellschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bedrijf</lemma>
+    <lemma>vennootschap</lemma>
+  </synset>
+</multilingual-synset>

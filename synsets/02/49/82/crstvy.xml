@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24982"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24982" steen:pos="adj." steen:type="1">črstvy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чэрствы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="хляб">баят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="chléb">starý</lemma>
+    <lemma>uvadlý</lemma>
+    <lemma>zatuchlý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ustajao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бајат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="pieczywo">czerstwy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чёрствый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="chlieb">starý</lemma>
+    <lemma>uvadlý</lemma>
+    <lemma>zatuchnutý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kruh">star</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>устајао</lemma>
+    <lemma annotation="хлеб">бајат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="хліб">черствий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="pano">malfreŝa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vergammeltes Brot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oudbakken</lemma>
+  </synset>
+</multilingual-synset>

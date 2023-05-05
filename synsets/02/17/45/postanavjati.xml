@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21745"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21745"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      postanavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пастанаўляць</lemma>
+    <lemma>вырашаць</lemma>
+    <lemma>меркаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>решение декрет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustanovovat</lemma>
+    <lemma>stanovovat</lemma>
+    <lemma>rozhodovat</lemma>
+    <lemma>vyhlašovat</lemma>
+    <lemma>nařizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odlučivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>установува</lemma>
+    <lemma>утврдува</lemma>
+    <lemma>решава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>postanawiać</lemma>
+    <lemma>decydować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>постановлять</lemma>
+    <lemma>решать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustanovovať</lemma>
+    <lemma>rozhodovať</lemma>
+    <lemma>vyhlasovať</lemma>
+    <lemma>nariaďovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Odločitve znamka</lemma>
+    <lemma>odločnost</lemma>
+    <lemma>odloči</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доносити одлуку</lemma>
+    <lemma>решавати</lemma>
+    <lemma>одлучивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ухвалювати</lemma>
+    <lemma>вирішувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>decidi</lemma>
+    <lemma>dekreto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entscheiden</lemma>
+    <lemma>Dekret</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beslissen</lemma>
+    <lemma>besluiten</lemma>
+  </synset>
+</multilingual-synset>

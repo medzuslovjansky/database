@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32190"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32190" steen:pos="m." steen:type="1" steen:same="v j">
+      prělom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пералом</lemma>
+    <lemma>паломка</lemma>
+    <lemma>палом</lemma>
+    <lemma>расколіна</lemma>
+    <lemma>трэшчына</lemma>
+    <lemma>парэпіна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>фрактура</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zlomenina</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>fraktura</lemma>
+    <lemma>prijelom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скршеница</lemma>
+    <lemma>прелом</lemma>
+    <lemma>фрактура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pęknięcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перелом</lemma>
+    <lemma>поломка</lemma>
+    <lemma>трещина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zlomenina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zlom</lemma>
+    <lemma>prelom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фрактура</lemma>
+    <lemma>прелом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перелом</lemma>
+    <lemma>поломка</lemma>
+    <lemma>тріщина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frakturo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fraktur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>breuk</lemma>
+    <lemma>fractuur</lemma>
+  </synset>
+</multilingual-synset>

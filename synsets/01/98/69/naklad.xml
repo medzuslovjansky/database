@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19869"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19869" steen:pos="m." steen:type="2" steen:same="z yu">
+      naklad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="газеты">тыраж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вестници">тираж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="vydání časopisu">náklad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tiraža</lemma>
+    <lemma>naklada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="весници">тираж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czasopisma">nakład</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="газеты">тираж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vydanie časopisu">náklad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kroženje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тираж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наклад</lemma>
+    <lemma annotation="газети">тираж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĵurnalo">cirkulado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Zeitung">Zirkulation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oplage</lemma>
+  </synset>
+</multilingual-synset>

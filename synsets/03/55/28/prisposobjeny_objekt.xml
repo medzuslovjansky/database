@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35528" steen:pos="m." steen:type="2" steen:same="v pl sl">
+      prisposobjeny objekt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спецыялізаваны будынак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="сградата">на обекта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="budova">zařízení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>industrijski objekt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приспособен објект</lemma>
+    <lemma>специјализиран објект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przystosowany do jakiegoś celu">objekt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>специализированное здание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="budova">zariadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namenski objekt</lemma>
+    <lemma>namenska stavba</lemma>
+    <lemma>pripravili poseben objekt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наменски објекат</lemma>
+    <lemma>наменска зграда</lemma>
+    <lemma>наменски припремљен објекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спеціалізована будівля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="konstruaĵo">instalaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Gebäude">Anlage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>faciliteit</lemma>
+  </synset>
+</multilingual-synset>

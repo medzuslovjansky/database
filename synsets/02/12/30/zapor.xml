@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21230"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21230" steen:pos="m." steen:type="2" steen:same="ru pl sh">
+      zapor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завала</lemma>
+    <lemma>запор</lemma>
+    <lemma>засаўка</lemma>
+    <lemma annotation="дыял.">засоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>резе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzávěr</lemma>
+    <lemma>západka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>reza</lemma>
+    <lemma>kračun</lemma>
+    <lemma>zasun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zasuwa</lemma>
+    <lemma>rygiel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>запор</lemma>
+    <lemma>засов</lemma>
+    <lemma>задвижка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uzáver</lemma>
+    <lemma>západka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zapah</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>реза</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замок</lemma>
+    <lemma>засув</lemma>
+    <lemma>засувка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>riglilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bolzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grendel</lemma>
+  </synset>
+</multilingual-synset>

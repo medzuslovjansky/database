@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="679"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="679"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz bg"
+    >
+      sråvnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>параўноўваць</lemma>
+    <lemma>зраўноўваць</lemma>
+    <lemma>супастаўляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сравни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srovnávat</lemma>
+    <lemma>porovnávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sravnjivati</lemma>
+    <lemma>upoređavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сравнува</lemma>
+    <lemma>споредува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>porównywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сравнивать</lemma>
+    <lemma>сопоставлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>porovnávať</lemma>
+    <lemma>porovnávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uskladiti</lemma>
+    <lemma>upoređavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сравњивати</lemma>
+    <lemma>упоређавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>порівнювати</lemma>
+    <lemma>зіставляти</lemma>
+    <lemma>зрівнювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompari</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vergleichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergelijken</lemma>
+  </synset>
+</multilingual-synset>

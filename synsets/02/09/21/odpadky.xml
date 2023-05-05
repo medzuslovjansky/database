@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20921"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20921" steen:pos="m.pl." steen:type="1" steen:same="z j">
+      odpadky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адходы</lemma>
+    <lemma>абіркі</lemma>
+    <lemma>рэшткі</lemma>
+    <lemma>астаткі</lemma>
+    <lemma>пазадкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да откаже</lemma>
+    <lemma>отпадъци</lemma>
+    <lemma>отпадъци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpadky</lemma>
+    <lemma>odpad</lemma>
+    <lemma>zbytky</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otpaci</lemma>
+    <lemma>đubre</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпадоци</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpady</lemma>
+    <lemma>odpadki</lemma>
+    <lemma annotation="jedzenia">resztki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отходы</lemma>
+    <lemma>обрезки</lemma>
+    <lemma>остатки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpadky</lemma>
+    <lemma>odpad</lemma>
+    <lemma>zvyšky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpadki</lemma>
+    <lemma>smeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отпаци</lemma>
+    <lemma>ђубре</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відходи</lemma>
+    <lemma>обрізки</lemma>
+    <lemma>залишки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forjxetajxo</lemma>
+    <lemma>rubo materialoj</lemma>
+    <lemma>restaĵojn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Müll</lemma>
+    <lemma>Abfälle</lemma>
+    <lemma>Abfälle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afval</lemma>
+  </synset>
+</multilingual-synset>

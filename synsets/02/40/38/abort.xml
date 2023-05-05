@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24038" steen:pos="m." steen:type="1" steen:genesis="I">
+      abort
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аборт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>аборт</lemma>
+    <lemma>помятане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potrat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobačaj</lemma>
+    <lemma>abortus</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>абортус</lemma>
+    <lemma>пометнување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aborcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аборт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>potrat</lemma>
+    <lemma>abort</lemma>
+    <lemma>interrupcia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>splav</lemma>
+    <lemma>abortus</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побачај</lemma>
+    <lemma>абортус</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аборт</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>aborto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Abtreibung</lemma>
+    <lemma>Abbruch</lemma>
+    <lemma annotation="Schwangerschaftsabbruch">Abort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>abortus</lemma>
+  </synset>
+</multilingual-synset>

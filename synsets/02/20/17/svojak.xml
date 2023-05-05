@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22017"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22017"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      svojak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сваяк</lemma>
+    <lemma>швагер</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>зет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="muž sestry">švagr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šurjak</lemma>
+    <lemma>šogor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зет</lemma>
+    <lemma>шура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>swak</lemma>
+    <lemma annotation="mąż siostry">szwagier</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свояк</lemma>
+    <lemma>шурин</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="muž sestry">švagor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>brat v pravu</lemma>
+    <lemma>brat v pravu</lemma>
+    <lemma>šur</lemma>
+    <lemma>brat v pravu</lemma>
+    <lemma>Surin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шурак</lemma>
+    <lemma>шурјак</lemma>
+    <lemma>шура</lemma>
+    <lemma>шогор</lemma>
+    <lemma>шурин</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>свояк</lemma>
+    <lemma>шуряк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bofrato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schwager</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zwager</lemma>
+  </synset>
+</multilingual-synset>

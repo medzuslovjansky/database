@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29879"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29879"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      percepcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>успрыманне</lemma>
+    <lemma>успрыняцце</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възприятие</lemma>
+    <lemma>перцепция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>percepce</lemma>
+    <lemma>vnímání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>percepcija</lemma>
+    <lemma>opažaj</lemma>
+    <lemma>opažanje</lemma>
+    <lemma>poimanje</lemma>
+    <lemma>zor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>перцепција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>percepcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>восприятие</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>percepcie</lemma>
+    <lemma>vnímanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaznavanje</lemma>
+    <lemma>občutek</lemma>
+    <lemma>zaznavanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>перцепција</lemma>
+    <lemma>утисак</lemma>
+    <lemma>опажање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сприйняття</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>percepto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wahrnehmung</lemma>
+    <lemma>Vorstellung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>perceptie</lemma>
+  </synset>
+</multilingual-synset>

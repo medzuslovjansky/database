@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34518"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34518"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru z"
+    >
+      opozdniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затрымаць</lemma>
+    <lemma>адкласці</lemma>
+    <lemma>адтэрмінаваць</lemma>
+    <lemma>адчасаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>забавяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opozdit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odgoditi</lemma>
+    <lemma>odložiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доцни</lemma>
+    <lemma>одложи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opóźnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задержать</lemma>
+    <lemma>отсрочить</lemma>
+    <lemma>отложить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oneskoriť</lemma>
+    <lemma>omeškať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>upočasni</lemma>
+    <lemma>zakasnitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>успорити</lemma>
+    <lemma>одгодити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>затримати</lemma>
+    <lemma>відстрочити</lemma>
+    <lemma>відкласти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prokrasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzögern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertragen</lemma>
+  </synset>
+</multilingual-synset>

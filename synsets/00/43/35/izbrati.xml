@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4335"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4335"
+      steen:addition="(izbere)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izbrati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выбраць</lemma>
+    <lemma>абраць</lemma>
+    <lemma>адабраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vybrat</lemma>
+    <lemma>zvolit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izabrati</lemma>
+    <lemma>odabrati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избере</lemma>
+    <lemma>избира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wybrać</lemma>
+    <lemma>wyselekcjonować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выбрать</lemma>
+    <lemma>избрать</lemma>
+    <lemma>отобрать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vybrať</lemma>
+    <lemma>zvoliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izberi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изабрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вибрати</lemma>
+    <lemma>обрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elekti</lemma>
+    <lemma>elekti</lemma>
+    <lemma>elektu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wählen</lemma>
+    <lemma>auswählen</lemma>
+    <lemma>aussuchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kiezen</lemma>
+    <lemma>uitkiezen</lemma>
+    <lemma>verkiezen</lemma>
+    <lemma>selecteren</lemma>
+  </synset>
+</multilingual-synset>

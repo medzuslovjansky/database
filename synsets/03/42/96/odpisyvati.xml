@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34296"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34296"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub z sl"
+    >
+      odpisyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпісваць</lemma>
+    <lemma annotation="на ліст">адказваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="писмено">отговор</lemma>
+    <lemma>за да се запише обратно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odepisovat</lemma>
+    <lemma annotation="písemně">odpovídat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="na pismo">odgovarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на писмо">одговора</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpisywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на письмо">отвечать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpisovať</lemma>
+    <lemma annotation="písomne">zodpovedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="v pismu">odziv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на писмо">одговарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відписувати</lemma>
+    <lemma annotation="на лист">відповідати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="skribe">respondi</lemma>
+    <lemma>registran reen</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="schriftlich">Antwort</lemma>
+    <lemma>schreiben Sie zurück</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugschrijven</lemma>
+  </synset>
+</multilingual-synset>

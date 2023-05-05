@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6051"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6051" steen:pos="n." steen:type="1">zaglåvje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загаловак</lemma>
+    <lemma>тытул</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заглавие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>název</lemma>
+    <lemma>nadpis</lemma>
+    <lemma>záhlaví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naslov</lemma>
+    <lemma>zaglavlje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наслов</lemma>
+    <lemma>заглавие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nagłówek</lemma>
+    <lemma>tytuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заглавие</lemma>
+    <lemma>заголовок</lemma>
+    <lemma>титул</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>názov</lemma>
+    <lemma>nadpis</lemma>
+    <lemma>záhlavie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naslov</lemma>
+    <lemma>naslov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заглавље</lemma>
+    <lemma>наслов</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заголовок</lemma>
+    <lemma>заголовок</lemma>
+    <lemma>титул</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>titolo</lemma>
+    <lemma>rubriko</lemma>
+    <lemma>surskribo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Titel</lemma>
+    <lemma>Überschrift</lemma>
+    <lemma>Kopf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>briefhoofd</lemma>
+    <lemma>koptekst</lemma>
+  </synset>
+</multilingual-synset>

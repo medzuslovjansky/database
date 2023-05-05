@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8063"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8063" steen:pos="v.tr. ipf." steen:type="1">
+      izmysljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выдумляць</lemma>
+    <lemma>прыдумляць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>измислям</lemma>
+    <lemma>съчинявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="si">vymýšlet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izmišljati</lemma>
+    <lemma>smišljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измислува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymyślać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выдумывать</lemma>
+    <lemma>придумывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="si">vymýšľať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izmišljevati si</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>измишљати</lemma>
+    <lemma>стварати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>видумувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inventi</lemma>
+    <lemma>elpensi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erfinden</lemma>
+    <lemma>ausdenken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzinnen</lemma>
+    <lemma>bedenken</lemma>
+  </synset>
+</multilingual-synset>

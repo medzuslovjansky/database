@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8852"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8852" steen:pos="n." steen:type="3">lětalo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>самалёт</lemma>
+    <lemma>авіялайнер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>самолет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>letadlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>avion</lemma>
+    <lemma>zrakoplov</lemma>
+    <lemma>letjelica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авион</lemma>
+    <lemma>летало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samolot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>самолёт</lemma>
+    <lemma>авиалайнер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lietadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ravnina vazudhoplov zrakoplove</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>авион</lemma>
+    <lemma>вазудхоплов</lemma>
+    <lemma>летелица</lemma>
+    <lemma>аероплан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>літак</lemma>
+    <lemma>авіалайнер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aviadiloj</lemma>
+    <lemma>aviadilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flugzeug</lemma>
+    <lemma>passagier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vliegtuig</lemma>
+  </synset>
+</multilingual-synset>

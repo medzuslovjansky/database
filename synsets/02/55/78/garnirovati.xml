@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25578"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25578"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      garnirovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гарнараваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>украсявам</lemma>
+    <lemma>гарнирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdobit</lemma>
+    <lemma>obkládat</lemma>
+    <lemma>garnýrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>garnirati</lemma>
+    <lemma>ukrasiti</lemma>
+    <lemma>dodati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гарнира</lemma>
+    <lemma>украсува</lemma>
+    <lemma>декорира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гарнировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zdobiť</lemma>
+    <lemma>obkladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okras</lemma>
+    <lemma>jed</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гарнирати</lemma>
+    <lemma annotation="јело">украсити</lemma>
+    <lemma>додати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гарнірувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ornamas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Garnierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>garneren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36529"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36529"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sl bg"
+    >
+      kisla smetana
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смятана</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заквасена сметана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smetana zakysaná</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kiselo vrhnje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кисела павлака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kwaśna">śmietana</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сметана</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kyslá smotana</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kisla smetana</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кисела павлака</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сметана</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>acida kremo</lemma>
+    <lemma>crème fraîche</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Sauerrahm</lemma>
+    <lemma>Schmand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zure room</lemma>
+    <lemma>crème fraîche</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20384"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20384"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      homjak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хамяк</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хамстер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křeček</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hrčak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хрчак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chomik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хомяк</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>škrečok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hrček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хрчак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хом&apos;як</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hamstro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hamster</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hamster</lemma>
+  </synset>
+</multilingual-synset>

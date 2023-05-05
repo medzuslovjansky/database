@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1997"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1997" steen:pos="f." steen:type="1">žila</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вена</lemma>
+    <lemma annotation="крывяносная судзіна">жыла</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вена</lemma>
+    <lemma>жила</lemma>
+    <lemma>жилка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žíla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žila</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вена</lemma>
+    <lemma>жила</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żyła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вена</lemma>
+    <lemma annotation="кровеносный сосуд">жила</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žila</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plovila</lemma>
+    <lemma>žile</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жила</lemma>
+    <lemma>вена</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вена</lemma>
+    <lemma annotation="кровоносна судина">жила</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>vejno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vene</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ader</lemma>
+  </synset>
+</multilingual-synset>

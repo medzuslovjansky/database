@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4950"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4950"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      filtrovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фільтраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>филтрирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>filtrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>filtrirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>филтрира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>filtrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фильтровать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>filtrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>filter</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>филтрирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фільтрувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>filtrilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Filter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>filteren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20926"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20926" steen:pos="f." steen:type="2" steen:same="ru sh">
+      odprava
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адправа</lemma>
+    <lemma>адпраўка</lemma>
+    <lemma>адпраўленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изпращане</lemma>
+    <lemma>доставка</lemma>
+    <lemma>изпращане на Регистрация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odeslání</lemma>
+    <lemma>odbavení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slanje</lemma>
+    <lemma>isporuka</lemma>
+    <lemma>dostava</lemma>
+    <lemma>doprema</lemma>
+    <lemma>dopremanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испраќање</lemma>
+    <lemma>праќање</lemma>
+    <lemma>испорака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odprawa</lemma>
+    <lemma annotation="od portu">odbicie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отправка</lemma>
+    <lemma>отправление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odoslanie</lemma>
+    <lemma>odbavenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pošiljanje</lemma>
+    <lemma>dostava</lemma>
+    <lemma annotation="pred časom, pred vsako transakcijo">srečanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слање</lemma>
+    <lemma>испорука</lemma>
+    <lemma annotation="пред пут, пре неког посла">састанак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відправка</lemma>
+    <lemma>відправлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sendado</lemma>
+    <lemma>sendo</lemma>
+    <lemma>forsendo</lemma>
+    <lemma>check-in</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Senden</lemma>
+    <lemma>Versand</lemma>
+    <lemma>Versand</lemma>
+    <lemma>Check-in</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzending</lemma>
+    <lemma>check-in</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24444"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24444" steen:pos="m." steen:type="1" steen:genesis="I">
+      bak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="частка судна">бак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="предна част на плавателен съд">бак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příď</lemma>
+    <lemma>předek</lemma>
+    <lemma>kozlík</lemma>
+    <lemma>příďový prostor</lemma>
+    <lemma>příď horní paluby</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pramac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="преден дел, преграда кај некој пловила">резевоар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="część statku">bak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="часть судна">бак</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prova</lemma>
+    <lemma>predok</lemma>
+    <lemma>kozlík</lemma>
+    <lemma>bak</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>premec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прамац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="частина судна">бак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teŭgo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vorschiff</lemma>
+    <lemma>Bugkastell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schip">bak</lemma>
+  </synset>
+</multilingual-synset>

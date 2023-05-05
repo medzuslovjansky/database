@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11320"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11320" steen:pos="v.tr. pf." steen:type="1">
+      prěobraziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перайначыць</lemma>
+    <lemma>змяніць</lemma>
+    <lemma>трансфармаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преобрази</lemma>
+    <lemma>трансформация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeměnit</lemma>
+    <lemma>ztransformovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preobraziti</lemma>
+    <lemma>preoblikovati</lemma>
+    <lemma>preobličiti</lemma>
+    <lemma>transformirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преобрази</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeobrazić</lemma>
+    <lemma>przekształcić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преобразить</lemma>
+    <lemma>трансформировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>premeniť</lemma>
+    <lemma>ztransformovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>transformacija</lemma>
+    <lemma>transformacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преобразити</lemma>
+    <lemma>преобликовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетворити</lemma>
+    <lemma>трансформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>morfo</lemma>
+    <lemma>transformas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Morph-Transformation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omvormen</lemma>
+    <lemma>transformeren</lemma>
+  </synset>
+</multilingual-synset>

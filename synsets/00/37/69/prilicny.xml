@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3769"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru sh bm"
+    >
+      priličny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыстойны</lemma>
+    <lemma>ладны</lemma>
+    <lemma>неблагі</lemma>
+    <lemma>значны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приличен</lemma>
+    <lemma>пристоен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ucházející</lemma>
+    <lemma>slušný</lemma>
+    <lemma>docela dobrý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pristojan</lemma>
+    <lemma>naočit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приличен</lemma>
+    <lemma>пристоен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>porządny</lemma>
+    <lemma>przyzwoity</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приличный</lemma>
+    <lemma>пристойный</lemma>
+    <lemma>порядочный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uchádzajúci</lemma>
+    <lemma>slušný</lemma>
+    <lemma>celkom dobrý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spodoben</lemma>
+    <lemma>dostojen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пристојан</lemma>
+    <lemma>наочит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пристойний</lemma>
+    <lemma>порядний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deca</lemma>
+    <lemma>irebla</lemma>
+    <lemma>presentable</lemma>
+    <lemma>tolerebla</lemma>
+    <lemma>propre koncerna</lemma>
+    <lemma>ordigita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>befahrbar</lemma>
+    <lemma>anständig</lemma>
+    <lemma>vorzeigbar</lemma>
+    <lemma>recht gut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanvaardbaar</lemma>
+    <lemma>acceptabel</lemma>
+    <lemma>presentabel</lemma>
+    <lemma>redelijk</lemma>
+    <lemma>netjes</lemma>
+  </synset>
+</multilingual-synset>

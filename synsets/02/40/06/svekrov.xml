@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24006"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24006"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
+      svekrȯv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свякруха</lemma>
+    <lemma annotation="маці мужа">свякроў</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="майка, съпруга">свекърва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="manželova matka">tchýně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svekrva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свекрва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świekra</lemma>
+    <lemma>świekrew</lemma>
+    <lemma annotation="matka męża">teściowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мать мужа">свекровь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="manželovho matka">svokra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tašča</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свекрва</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="мати чоловіка">свекруха</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="edzo patrino">patrino bofiloj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Ehemann der Mutter">Mutter-in-law</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="moeder van echtgenoot">schoonmoeder</lemma>
+  </synset>
+</multilingual-synset>

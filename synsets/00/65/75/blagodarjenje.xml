@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6575"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6575" steen:pos="n." steen:type="1" steen:same="v j">
+      blågodarjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="пачуццё">удзячнасць</lemma>
+    <lemma annotation="дзея">падзяка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благодарност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poděkování</lemma>
+    <lemma>děkování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zahvaljivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благодарно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podziękowanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благодарность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poďakovanie</lemma>
+    <lemma>ďakovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zahvaljevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>захваљивање</lemma>
+    <lemma>благодарење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дякування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Dankon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dank</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dank</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36472"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36472"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      akolada
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акалада</lemma>
+    <lemma>пасвячэнне ў рыцары</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="обред">аколада</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="obřad">akoláda</lemma>
+    <lemma>ocenění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>akolada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="церемонија">награда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ceremonia">akolada</lemma>
+    <lemma>pasowanie na rycerza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>акколада</lemma>
+    <lemma>посвящение в рыцари</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="obrad">akoláda</lemma>
+    <lemma>povýšenie</lemma>
+    <lemma annotation="na rytiera">pasovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>podelitev viteškega naziva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аколада</lemma>
+    <lemma>адубман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аколада</lemma>
+    <lemma>освята в лицарі</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>Iniciado en kavaliro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Ritterschlag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accolade</lemma>
+    <lemma>ridderslag</lemma>
+  </synset>
+</multilingual-synset>

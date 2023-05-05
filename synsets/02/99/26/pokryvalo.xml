@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29926"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29926"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v cs~ sh~ bm~"
+    >
+      pokryvalo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>посцілка</lemma>
+    <lemma>накрыўка</lemma>
+    <lemma>покрыва</lemma>
+    <lemma>пакрывала</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>покривало за легло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přehoz</lemma>
+    <lemma>pokrývka přes postel</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prekrivač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прекривач</lemma>
+    <lemma>постилка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narzuta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>покрывало</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prehoz</lemma>
+    <lemma>pokrývka cez posteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pregrinjalo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прекривач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>покрив</lemma>
+    <lemma>покривало</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bedspread</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tagesdecke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sprei</lemma>
+  </synset>
+</multilingual-synset>

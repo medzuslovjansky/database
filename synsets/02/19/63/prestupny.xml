@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21963"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21963"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      prěstųpny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злачынны</lemma>
+    <lemma>крымінальны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наказателно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trestní</lemma>
+    <lemma>kriminální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kriminalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престапен</lemma>
+    <lemma>кривичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przestępczy</lemma>
+    <lemma>kryminalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преступный</lemma>
+    <lemma>криминальный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trestné</lemma>
+    <lemma>kriminálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kazenska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>злочиначки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>злочинний</lemma>
+    <lemma>кримінальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krimulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verbrecher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>misdadig</lemma>
+    <lemma>crimineel</lemma>
+  </synset>
+</multilingual-synset>

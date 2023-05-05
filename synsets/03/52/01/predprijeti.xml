@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35201"
+      steen:addition="(prědprijme)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru cs~ bg"
+    >
+      prědprijęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распачаць</lemma>
+    <lemma>зрабіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>провеждане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podnikat</lemma>
+    <lemma annotation="opatření">přijímat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poduzeti</lemma>
+    <lemma>prihvatiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преземе</lemma>
+    <lemma>обврзе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podjąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предпринять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podujať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zavezujejo</lemma>
+    <lemma>reševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предузети</lemma>
+    <lemma>латити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вжити</lemma>
+    <lemma>зробити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>entrepreni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unternehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondernemen</lemma>
+  </synset>
+</multilingual-synset>

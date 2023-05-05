@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3726"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3726" steen:pos="m.sg." steen:type="1">skot</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жывёла</lemma>
+    <lemma>жывёліна</lemma>
+    <lemma>скаціна</lemma>
+    <lemma>быдла</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скот</lemma>
+    <lemma>добитък</lemma>
+    <lemma>говедо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skot</lemma>
+    <lemma>dobytek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stoka</lemma>
+    <lemma>marva</lemma>
+    <lemma annotation="arh.">blago</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скот</lemma>
+    <lemma>добиток</lemma>
+    <lemma>животно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bydło</lemma>
+    <lemma>żywy inwentarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скот</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dobytok</lemma>
+    <lemma>dobytok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>živina</lemma>
+    <lemma>govedo</lemma>
+    <lemma annotation="arch.">blago</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стока</lemma>
+    <lemma>марва</lemma>
+    <lemma annotation="арх.">благо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>худоба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brutoj brutoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vieh</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vee</lemma>
+  </synset>
+</multilingual-synset>

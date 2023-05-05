@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19926"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19926"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      oblegčati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аблягчаць</lemma>
+    <lemma>палягчаць</lemma>
+    <lemma>падлегчваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>лекотата</lemma>
+    <lemma>облекчи</lemma>
+    <lemma>намаляване</lemma>
+    <lemma>смекчаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ulehčovat</lemma>
+    <lemma>zmírňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>olakšavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>олеснува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łagodzić</lemma>
+    <lemma>luzować</lemma>
+    <lemma>ulżywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>облегчать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uľahčovať</lemma>
+    <lemma>zmierňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>olajšati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>олакшавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>полегшувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>faciligi</lemma>
+    <lemma>malpligrandigi</lemma>
+    <lemma>helpu</lemma>
+    <lemma>malpezigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erleichtern</lemma>
+    <lemma>erleichtern</lemma>
+    <lemma>entlasten</lemma>
+    <lemma>lindern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="pijn, straf e.d.">verlichten</lemma>
+  </synset>
+</multilingual-synset>

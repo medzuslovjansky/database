@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3741"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3741" steen:pos="m." steen:type="1" steen:genesis="F">
+      režim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэжым</lemma>
+    <lemma>тып</lemma>
+    <lemma>від</lemma>
+    <lemma>спосаб</lemma>
+    <lemma>чын</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>режим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>režim</lemma>
+    <lemma>způsob</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>način</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>режим</lemma>
+    <lemma>терк</lemma>
+    <lemma>модус</lemma>
+    <lemma>начин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tryb</lemma>
+    <lemma>sposób</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>режим</lemma>
+    <lemma>вид</lemma>
+    <lemma>способ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>režim</lemma>
+    <lemma>spôsob</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="mode">način</lemma>
+    <lemma>način</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="рада">начин</lemma>
+    <lemma>режим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>режим</lemma>
+    <lemma>вид</lemma>
+    <lemma>спосіб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>modon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Modus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wijze</lemma>
+    <lemma>manier</lemma>
+    <lemma>modus</lemma>
+  </synset>
+</multilingual-synset>

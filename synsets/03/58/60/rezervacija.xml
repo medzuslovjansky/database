@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35860"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35860"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      rezervacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэзерваванне</lemma>
+    <lemma>бронь</lemma>
+    <lemma>браняванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>резервация</lemma>
+    <lemma>резервация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rezervace</lemma>
+    <lemma>zamluvení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rezervacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резервација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rezerwacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резервирование</lemma>
+    <lemma>бронь</lemma>
+    <lemma>бронирование</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rezervácie</lemma>
+    <lemma>rezervovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rezervacije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>резервација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>резервування</lemma>
+    <lemma>броня</lemma>
+    <lemma>бронювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rezervejo</lemma>
+    <lemma>rezervo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reservierung</lemma>
+    <lemma>Buchung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reservering</lemma>
+    <lemma>boeking</lemma>
+  </synset>
+</multilingual-synset>

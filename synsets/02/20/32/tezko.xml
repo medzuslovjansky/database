@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22032"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22032"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v pl bm"
+    >
+      tęžko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сур&apos;ёзна</lemma>
+    <lemma annotation="хварэць, працаваць, парушаць">цяжка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сериозно</lemma>
+    <lemma annotation="болести, престъпност">сериозно</lemma>
+    <lemma annotation="за работа">твърд</lemma>
+    <lemma>с трудно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>těžce</lemma>
+    <lemma>vážně</lemma>
+    <lemma>tvrdě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>teško</lemma>
+    <lemma>znatno</lemma>
+    <lemma>ozbiljno</lemma>
+    <lemma>jako</lemma>
+    <lemma>mukotrpno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тешко</lemma>
+    <lemma>сериозно</lemma>
+    <lemma>напорно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poważnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>серьёзно</lemma>
+    <lemma annotation="болеть, работать, нарушать">тяжело</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ťažko</lemma>
+    <lemma>vážne</lemma>
+    <lemma>tvrdo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>težka</lemma>
+    <lemma>resno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тешко</lemma>
+    <lemma>озбиљно</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>серйозно</lemma>
+    <lemma annotation="хворіти, працювати, порушувати">важко</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>serioze</lemma>
+    <lemma annotation="malsano, krimo">serioze</lemma>
+    <lemma annotation="laboro">malmola</lemma>
+    <lemma>laborige</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ernst</lemma>
+    <lemma annotation="Krankheit, Kriminalität">ernst</lemma>
+    <lemma annotation="Arbeit">hart</lemma>
+    <lemma>arduously</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="ziekte, misdrijf">ernstig</lemma>
+  </synset>
+</multilingual-synset>

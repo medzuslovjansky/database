@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36288"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru be yu mk"
+    >
+      film črtany
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мультфільм</lemma>
+    <lemma>анімацыйны фільм</lemma>
+    <lemma>мульцік</lemma>
+    <lemma>мультык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анимационен филм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>animovaný film</lemma>
+    <lemma>kreslený film</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crtani film</lemma>
+    <lemma>animirani film</lemma>
+    <lemma>crtić</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="анимиран филм">цртан филм</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kreskówka</lemma>
+    <lemma>film animowany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мультфильм</lemma>
+    <lemma>анимационный фильм</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>animovaný film</lemma>
+    <lemma>kreslený film</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>risanka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цртани филм</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мультфільм</lemma>
+    <lemma>анімаційний фільм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vigla filmo">karikaturo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Animationsfilm">Cartoon</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tekenfilm</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19593"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19593" steen:pos="adj." steen:type="2">vseliky</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="па памеру">усякі</lemma>
+    <lemma>кожнага памеру</lemma>
+    <lemma>хоць якога памеру</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="по размер">всякакъв</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>všeliký</lemma>
+    <lemma>všelijaký</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>bilo koji</lemma>
+    <lemma>svaki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>секакви</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wszelki</lemma>
+    <lemma>każdej ilości</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="по размеру">любой</lemma>
+    <lemma>любого размера</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>všelijaký</lemma>
+    <lemma>všelijaký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>koli</lemma>
+    <lemma>koli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>било који</lemma>
+    <lemma>сваки</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>будь-хто</lemma>
+    <lemma>будь-якого розміру</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ajna</lemma>
+    <lemma>de ĉiu grandeco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>jeder</lemma>
+    <lemma>jede Größe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enig</lemma>
+    <lemma>welke dan ook</lemma>
+    <lemma>van welke grootte dan ook</lemma>
+  </synset>
+</multilingual-synset>

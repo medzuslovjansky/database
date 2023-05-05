@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="999"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="999" steen:pos="adj." steen:type="1">jediny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзіны</lemma>
+    <lemma>самотны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>единствен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jediný</lemma>
+    <lemma>jeden</lemma>
+    <lemma>sám</lemma>
+    <lemma>samotný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jedini</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jedyny</lemma>
+    <lemma>samotny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>единственный</lemma>
+    <lemma>единый</lemma>
+    <lemma>одинокий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jediný</lemma>
+    <lemma>jeden</lemma>
+    <lemma>sám</lemma>
+    <lemma>samotný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Samo eden</lemma>
+    <lemma>samo eden</lemma>
+    <lemma annotation="arch.">edini</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једини</lemma>
+    <lemma>само један</lemma>
+    <lemma annotation="арх.">једин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сам один</lemma>
+    <lemma>наодинці</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nur</lemma>
+    <lemma>sola</lemma>
+    <lemma>sola</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma />
+    <lemma>einzeln</lemma>
+    <lemma>allein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enig</lemma>
+    <lemma>alleen</lemma>
+  </synset>
+</multilingual-synset>

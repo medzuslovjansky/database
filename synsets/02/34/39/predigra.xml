@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23439"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23439"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="cs yu"
+      steen:genesis="S"
+    >
+      prědigra
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уверцюра</lemma>
+    <lemma>увертура</lemma>
+    <lemma>уступ</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>увертюра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předehra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predigra</lemma>
+    <lemma>uvertira</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предигра</lemma>
+    <lemma>увертира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uwertura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>увертюра</lemma>
+    <lemma>вступление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predohra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uvod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предигра</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>увертюра</lemma>
+    <lemma>вступ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uverturo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ouvertüre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ouverture</lemma>
+    <lemma>voorspel</lemma>
+  </synset>
+</multilingual-synset>

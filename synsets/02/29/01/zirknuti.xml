@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22901"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22901"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="uk pl sh mk"
+    >
+      zirknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зіркнуць</lemma>
+    <lemma>зірнуць</lemma>
+    <lemma>глянуць</lemma>
+    <lemma>паглядзець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надзърна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mrknout</lemma>
+    <lemma>kouknout</lemma>
+    <lemma annotation="letmo">pohlédnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zirnuti</lemma>
+    <lemma>zrijeti</lemma>
+    <lemma>gledati</lemma>
+    <lemma>viriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѕирна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zerknąć</lemma>
+    <lemma annotation="np. oknem">wyglądnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поглядеть</lemma>
+    <lemma>взглянуть</lemma>
+    <lemma>посмотреть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mrknúť</lemma>
+    <lemma>kuknúť</lemma>
+    <lemma annotation="letmo">pohliadnuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zirknuti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зиркнути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>подивитися</lemma>
+    <lemma>поглянути</lemma>
+    <lemma>подивитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigardo</lemma>
+    <lemma>la flustristojn peek</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blick</lemma>
+    <lemma>blick</lemma>
+    <lemma>spähen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blikken</lemma>
+    <lemma>een blik werpen</lemma>
+  </synset>
+</multilingual-synset>

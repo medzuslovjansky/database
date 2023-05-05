@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6230"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6230" steen:pos="v.tr. pf." steen:type="1">
+      prěměstiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасунуць</lemma>
+    <lemma>перамясціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="транзитивно">преместване</lemma>
+    <lemma>ПМЖ</lemma>
+    <lemma>промяна</lemma>
+    <lemma>прехвърляне на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přemístit</lemma>
+    <lemma>přesunout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ptremestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премести</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przemieścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переместить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>premiestniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ptremestiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преместити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перемістити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="transitiva">movo</lemma>
+    <lemma>translokiĝi</lemma>
+    <lemma>movo</lemma>
+    <lemma>transigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="verb">move</lemma>
+    <lemma>verlagern</lemma>
+    <lemma>Verschiebung</lemma>
+    <lemma>Übertragung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verplaatsen</lemma>
+  </synset>
+</multilingual-synset>

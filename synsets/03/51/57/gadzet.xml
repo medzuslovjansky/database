@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35157"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35157"
+      steen:pos="m."
+      steen:same="v z sh"
+      steen:genesis="E"
+    >
+      gadžet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гаджэт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>джаджа</lemma>
+    <lemma>приспособление</lemma>
+    <lemma>уред</lemma>
+    <lemma>притурка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="malý přístroj či zařízení nový na trhu">gadget</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gadget</lemma>
+    <lemma>gedžet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гаџет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gadżet</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гаджет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="malý prístroj či zariadenie nové na trhu">vynález</lemma>
+    <lemma>pomôcka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripomoček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гаџет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гаджет</lemma>
+    <lemma>пристрій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gadget</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gerät</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gadget</lemma>
+  </synset>
+</multilingual-synset>

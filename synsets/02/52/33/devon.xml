@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25233"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25233" steen:pos="m." steen:type="1" steen:genesis="I">
+      devon
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="геал.">дэвон</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="геол.">девон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="geol.">devon</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>devon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="геолошки период">девон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>Dewon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="геол.">девон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="geol.">Devón</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="geološka doba">Devon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="геолошки период">девонски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="геологічний період">девон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Devono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Devonian</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Devoon</lemma>
+  </synset>
+</multilingual-synset>

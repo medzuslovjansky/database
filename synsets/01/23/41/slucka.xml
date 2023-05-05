@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12341"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12341" steen:pos="f." steen:type="2" steen:same="ru j">
+      slučka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падзея</lemma>
+    <lemma>здарэнне</lemma>
+    <lemma>выпадак</lemma>
+    <lemma>раз</lemma>
+    <lemma>прыпадак</lemma>
+    <lemma>нагода</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>събитието</lemma>
+    <lemma>което се случва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>událost</lemma>
+    <lemma>děj</lemma>
+    <lemma>případ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>događaj</lemma>
+    <lemma>zgoda</lemma>
+    <lemma>slučajnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>случка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wydarzenie</lemma>
+    <lemma>zdarzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>событие</lemma>
+    <lemma>происшествие</lemma>
+    <lemma>случай</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>udalosť</lemma>
+    <lemma>dej</lemma>
+    <lemma>prípad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dogodek</lemma>
+    <lemma>pojav</lemma>
+    <lemma>izkušnje pustolovščine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>догађај</lemma>
+    <lemma>појава</lemma>
+    <lemma>доживљај</lemma>
+    <lemma>згода</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>evento</lemma>
+    <lemma>okazas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ereignis</lemma>
+    <lemma>geschieht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebeurtenis</lemma>
+  </synset>
+</multilingual-synset>

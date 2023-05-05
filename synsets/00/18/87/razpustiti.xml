@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1887"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1887" steen:pos="v.tr. pf." steen:type="1">
+      råzpustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распусціць</lemma>
+    <lemma>адпусціць</lemma>
+    <lemma>расфармаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разтварят</lemma>
+    <lemma annotation="клас">разтварят</lemma>
+    <lemma annotation="армията">расформировать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozpustit</lemma>
+    <lemma>zrušit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>raspustiti</lemma>
+    <lemma>razriješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распушти</lemma>
+    <lemma>разреши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. organizację">rozwiązać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распустить</lemma>
+    <lemma annotation="всех">отпустить</lemma>
+    <lemma>расформировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpustiť</lemma>
+    <lemma>zrušiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raztopi</lemma>
+    <lemma>odločnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>распустити</lemma>
+    <lemma>разрешити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпустити</lemma>
+    <lemma annotation="усіх">відпустити</lemma>
+    <lemma>розформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>solvi</lemma>
+    <lemma annotation="klaso">eksigi</lemma>
+    <lemma annotation="armeo">dissolvi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auflösen</lemma>
+    <lemma annotation="Klasse">entlassen</lemma>
+    <lemma annotation="Armee">sich auflösen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="leger">ontbinden</lemma>
+    <lemma>naar huis sturen</lemma>
+  </synset>
+</multilingual-synset>

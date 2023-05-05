@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="73"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="73"
+      steen:addition="(jih, jim, njimi)"
+      steen:pos="pron.pers."
+      steen:type="1"
+    >
+      oni
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="муж. род, змяшаны род">яны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="мъжки или смесени">те</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mužský nebo smíšený">oni</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>они</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>они</lemma>
+    <lemma>тие</lemma>
+    <lemma>тој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муж. род, смешанный род">они</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="mužský alebo zmiešaný">oni</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="bodo, jih, jim">so</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="њих, њима, њима">они</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вони</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="vira aŭ miksita">ili</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="männlich oder gemischt">sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="mannelijk of gemengd">zij</lemma>
+  </synset>
+</multilingual-synset>

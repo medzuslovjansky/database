@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10678"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10678"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pod nakazom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пад камандаваннем</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>под командването на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pod velením</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pod zapovjedništvom</lemma>
+    <lemma>pod komandom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>под команда на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pod rozkazami</lemma>
+    <lemma>pod nakazem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>под командованием</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pod velením</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pod poveljstvom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>под командом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>під командуванням</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sub la komando de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unter dem Befehl von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onder bevel van</lemma>
+  </synset>
+</multilingual-synset>

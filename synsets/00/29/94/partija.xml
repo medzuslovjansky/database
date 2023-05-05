@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2994"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2994" steen:pos="f." steen:type="1" steen:genesis="I">
+      partija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>партыя</lemma>
+    <lemma annotation="саст.">старонніцтва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>партия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>strana</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stranka</lemma>
+    <lemma>partija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>партија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>partia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>партия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>strana</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Stranka</lemma>
+    <lemma>Stranka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>партија</lemma>
+    <lemma>странка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>партія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>festo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Partei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>partij</lemma>
+  </synset>
+</multilingual-synset>

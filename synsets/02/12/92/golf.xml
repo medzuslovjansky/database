@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21292"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21292" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      golf
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гольф</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>голф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>golf</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>golf</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>голф</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="sport">golf</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гольф</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>golf</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>golf</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>голф</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гольф</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>golfon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Golf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="sport">golf</lemma>
+  </synset>
+</multilingual-synset>

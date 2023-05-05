@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16128"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16128" steen:pos="f." steen:type="1" steen:genesis="M">
+      tydnjeva gazeta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>штотыднёвік</lemma>
+    <lemma>штотыднёвая газета</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>седмично</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>týdeník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tjedne novine</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="списание">неделник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tygodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>еженедельная газета</lemma>
+    <lemma>еженедельник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>týždenník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>časopisov na teden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>недељне новине</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щотижнева газета</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉiusemajne</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wöchentlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weekblad</lemma>
+  </synset>
+</multilingual-synset>

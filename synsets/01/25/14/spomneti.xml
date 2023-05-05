@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12514"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12514"
+      steen:addition="(spomni)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      spomněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>згадаць</lemma>
+    <lemma>памянуць</lemma>
+    <lemma>успамянуць</lemma>
+    <lemma>упамянуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>споменаването на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zmínit</lemma>
+    <lemma>vzpomenout</lemma>
+    <lemma>připomenout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spomenuti</lemma>
+    <lemma>sjetiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спомене</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wspomnieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>упомянуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spomenúť</lemma>
+    <lemma>spomenúť</lemma>
+    <lemma>pripomenúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ne pozabite</lemma>
+    <lemma>omenjeno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сетити се</lemma>
+    <lemma>поменути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>згадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mencio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erwähnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>noemen</lemma>
+    <lemma>vermelden</lemma>
+  </synset>
+</multilingual-synset>

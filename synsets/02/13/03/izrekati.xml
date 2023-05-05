@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21303"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21303"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      izrěkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выказваць</lemma>
+    <lemma>вымаўляць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изричам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyslovovat</lemma>
+    <lemma>pronášet</lemma>
+    <lemma>vyjadřovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izricati</lemma>
+    <lemma>iskazivati</lemma>
+    <lemma>izgovarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изрекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypowiadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>высказывать</lemma>
+    <lemma>изрекать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyslovovať</lemma>
+    <lemma>prednášať</lemma>
+    <lemma>vyjadrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>express</lemma>
+    <lemma>izgovarjajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изражавати</lemma>
+    <lemma>изрицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>висловлювати</lemma>
+    <lemma>вимовляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzemple</lemma>
+    <lemma>paroli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sagen wir</lemma>
+    <lemma>aussprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zeggen">uitspreken</lemma>
+  </synset>
+</multilingual-synset>

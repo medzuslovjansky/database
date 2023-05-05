@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21760"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21760"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prěstaviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памерці</lemma>
+    <lemma>утрупянець</lemma>
+    <lemma>струпянець</lemma>
+    <lemma>паўміраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да умре</lemma>
+    <lemma>преставиться</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umřít</lemma>
+    <lemma>odejít ze světa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umrijeti</lemma>
+    <lemma>prestaviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умре</lemma>
+    <lemma>премина</lemma>
+    <lemma annotation="фигуративно, преносно">се претстави пред господа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="umrzeć">przekręcić się</lemma>
+    <lemma>wykitować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преставиться</lemma>
+    <lemma>умереть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>umrieť</lemma>
+    <lemma>odísť zo sveta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preselil</lemma>
+    <lemma>da umre</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преставити се</lemma>
+    <lemma>умрети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>преставитися</lemma>
+    <lemma>померти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mortos</lemma>
+    <lemma>forpasos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sterben</lemma>
+    <lemma>vergehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overlijden</lemma>
+    <lemma>heengaan</lemma>
+  </synset>
+</multilingual-synset>

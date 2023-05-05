@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20553"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20553" steen:pos="n.pl." steen:type="2" steen:same="ru sh">
+      nosilka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>насілкі</lemma>
+    <lemma>картафальк</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>носилка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="typ nosítek">máry</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nosila</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>носило</lemma>
+    <lemma>одар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="typ noszy">mary</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>носилки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="typ nosidiel">máry</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stelja</lemma>
+    <lemma>stelja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>носила</lemma>
+    <lemma>носиљка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ноші</lemma>
+    <lemma>носилки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>portilon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bahre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>baar</lemma>
+  </synset>
+</multilingual-synset>

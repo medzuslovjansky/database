@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36732"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36732" steen:pos="v.intr. pf." steen:type="1">
+      priplyvti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="наплаў">прыплысці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пристигат плуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připlavat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>doplivati</lemma>
+    <lemma>preplivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доплива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypłynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вплавь">приплыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priplávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plavati</lemma>
+    <lemma>plavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>допливати</lemma>
+    <lemma>препливати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="вплав">припливти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alveni naĝante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwimmend ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma annotation="zwemmend">arriveren</lemma>
+  </synset>
+</multilingual-synset>

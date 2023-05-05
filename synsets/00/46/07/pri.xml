@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4607"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4607"
+      steen:addition="(+6)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pri
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="кіраванні кагосьці">пры</lemma>
+    <lemma>у часы</lemma>
+    <lemma>у поры</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="обикновено на краля">по време на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>při</lemma>
+    <lemma>během</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pri</lemma>
+    <lemma>tijekom</lemma>
+    <lemma>za vrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>при</lemma>
+    <lemma>за време на</lemma>
+    <lemma annotation="на владеењето на кралот">во текот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podczas</lemma>
+    <lemma>w obecności</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="правлении кого-либо">при</lemma>
+    <lemma>во времена</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pri</lemma>
+    <lemma>behom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za</lemma>
+    <lemma>med</lemma>
+    <lemma>medtem ko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>при</lemma>
+    <lemma>током</lemma>
+    <lemma>за време</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="правління кого-небудь">під час</lemma>
+    <lemma>в часи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="regulo de reĝo">dum</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in der Regel eines Königs">während</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tijdens het koningschap van">onder</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12201"
+      steen:pos="m.sg."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      sěveroiztok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўночны ўсход</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>север-изток</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>severovýchod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sjeveroistok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>североисток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>północny wschód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>северо-восток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>severovýchod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>severovzhodno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>североисток</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>північний схід</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nordoriento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nordost-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>noordoosten</lemma>
+  </synset>
+</multilingual-synset>

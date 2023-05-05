@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4691"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4691"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cz sh bm"
+    >
+      zemjedělec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>земляроб</lemma>
+    <lemma annotation="саст.">арач</lemma>
+    <lemma>рольнік</lemma>
+    <lemma>араты</lemma>
+    <lemma>селянін</lemma>
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>земеделец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zemědělec</lemma>
+    <lemma>farmář</lemma>
+    <lemma>rolník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemljoradnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земјоделец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rolnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>земледелец</lemma>
+    <lemma>крестьянин</lemma>
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poľnohospodár</lemma>
+    <lemma>farmár</lemma>
+    <lemma>roľník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kmečka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земљорадник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>землероб</lemma>
+    <lemma>селянин</lemma>
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>farmisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Farmer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>landbouwer</lemma>
+  </synset>
+</multilingual-synset>

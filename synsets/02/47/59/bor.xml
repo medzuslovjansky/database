@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24759"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24759"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs j"
+      steen:genesis="I"
+    >
+      bor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хвоя</lemma>
+    <lemma>сасна</lemma>
+    <lemma>хваіна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="дърво">бор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>borovice</lemma>
+    <lemma>sosna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="дрво">бор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sosna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сосна</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>borovica</lemma>
+    <lemma>sosna</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="дрво">бор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сосна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kiefer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spar</lemma>
+  </synset>
+</multilingual-synset>

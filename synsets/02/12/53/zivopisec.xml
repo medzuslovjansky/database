@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21253"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v sh bg"
+      steen:genesis="S"
+    >
+      živopisec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жывапісец</lemma>
+    <lemma>мастак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>художник</lemma>
+    <lemma>живописец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>malíř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slikar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сликар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>malarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>живописец</lemma>
+    <lemma>художник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>maliar</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slikar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сликар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>живописець</lemma>
+    <lemma>художник</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pentristo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Maler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schilder</lemma>
+    <lemma>kunstschilder</lemma>
+  </synset>
+</multilingual-synset>

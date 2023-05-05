@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18031"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18031" steen:pos="m." steen:type="2" steen:same="v">
+      obrazec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узор</lemma>
+    <lemma>проба</lemma>
+    <lemma>шаблон</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzorek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uzorak</lemma>
+    <lemma>mustra</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>образец</lemma>
+    <lemma>примерок</lemma>
+    <lemma>мостра</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>próbka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>образец</lemma>
+    <lemma>пример</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vzorka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vzorec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узорак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зразок</lemma>
+    <lemma>приклад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>specimeno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stichprobe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proeve</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1384"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1384" steen:pos="m." steen:type="1" steen:same="v z">
+      sjezd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з&apos;езд</lemma>
+    <lemma>кангрэс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>конгресът е в сесия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sjezd</lemma>
+    <lemma>kongres</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sjednica</lemma>
+    <lemma>kongres</lemma>
+    <lemma>skup</lemma>
+    <lemma>zasjedanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>собир</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kongres</lemma>
+    <lemma annotation="np. stowarzyszenia">zjazd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>съезд</lemma>
+    <lemma>конгресс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zjazd</lemma>
+    <lemma>kongres</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Seje</lemma>
+    <lemma>konference</lemma>
+    <lemma>srečanja</lemma>
+    <lemma>srečanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>седница</lemma>
+    <lemma>конгрес</lemma>
+    <lemma>скуп</lemma>
+    <lemma>заседање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з&apos;їзд</lemma>
+    <lemma>конгрес</lemma>
+    <lemma>сейм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kongreso</lemma>
+    <lemma>kunsido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kongress</lemma>
+    <lemma>Tagung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>congres</lemma>
+    <lemma>sessie</lemma>
+    <lemma>vergadering</lemma>
+  </synset>
+</multilingual-synset>

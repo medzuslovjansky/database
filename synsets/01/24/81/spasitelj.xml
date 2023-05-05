@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12481"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12481"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      spasitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ратаваннік</lemma>
+    <lemma>ратавальнік</lemma>
+    <lemma annotation="зап.">выратавальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Спасител</lemma>
+    <lemma>Спасител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zachránce</lemma>
+    <lemma>spasitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spasitelj</lemma>
+    <lemma>spasilac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спасител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спаситель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>záchranca</lemma>
+    <lemma>spasiteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rešitelj</lemma>
+    <lemma>rešitelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спаситељ</lemma>
+    <lemma>спасилац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рятівник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>savanton savinto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Retter</lemma>
+    <lemma>Erlöser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>redder</lemma>
+  </synset>
+</multilingual-synset>

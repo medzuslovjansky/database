@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16834"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16834"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v~ bg"
+    >
+      prěråzkazyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераказваць</lemma>
+    <lemma>перагаворваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преразказ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převypravovat</lemma>
+    <lemma>parafrázovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>parafrazirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прераскажува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>parafrazować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пересказывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>převypravovat</lemma>
+    <lemma>prerozprávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="večkrat">parafraza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="више пута">парафразирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переказувати</lemma>
+    <lemma>парафразувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parafraza</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Paraphrase</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenvatten</lemma>
+    <lemma>parafraseren</lemma>
+  </synset>
+</multilingual-synset>

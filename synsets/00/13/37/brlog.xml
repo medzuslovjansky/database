@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1337"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1337" steen:pos="m." steen:type="1">bŕlog</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бярлог</lemma>
+    <lemma>логава</lemma>
+    <lemma>логавішча</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бърлога</lemma>
+    <lemma>леговище</lemma>
+    <lemma>свърталище</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brloh</lemma>
+    <lemma>doupě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>brlog</lemma>
+    <lemma>jazbina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>брлог</lemma>
+    <lemma>легло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>barłóg</lemma>
+    <lemma>legowisko</lemma>
+    <lemma>matecznik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>берлога</lemma>
+    <lemma>логово</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>brloh</lemma>
+    <lemma>dúpä</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brlog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>легло</lemma>
+    <lemma>брлог</lemma>
+    <lemma>лога</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>барліг</lemma>
+    <lemma>лігво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaverno</lemma>
+    <lemma>kaŝejo</lemma>
+    <lemma>shakedown</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Höhle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hol</lemma>
+  </synset>
+</multilingual-synset>

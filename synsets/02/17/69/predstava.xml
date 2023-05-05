@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21769" steen:pos="f." steen:type="2" steen:same="cs j">
+      prědstava
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уяўленне</lemma>
+    <lemma>вобраз</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>понятие</lemma>
+    <lemma annotation="ясна картина">идея</lemma>
+    <lemma>изображения</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>představa</lemma>
+    <lemma>idea</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predstava</lemma>
+    <lemma>predodžba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претстава</lemma>
+    <lemma annotation="ментална слика">идеја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mentalne">wyobrażenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мысленная картина">представление</lemma>
+    <lemma>образ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predstava</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>koncept ideja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>идеја</lemma>
+    <lemma>замисао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уявлення</lemma>
+    <lemma>образ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nocio</lemma>
+    <lemma annotation="mensa bildo">ideo</lemma>
+    <lemma>bildo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Begriff</lemma>
+    <lemma annotation="Vorstellung">Idee</lemma>
+    <lemma>Bild</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>idee</lemma>
+    <lemma annotation="mentaal beeld">voorstelling</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35872"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35872"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z"
+      steen:genesis="E"
+    >
+      bilbord
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>білборд</lemma>
+    <lemma>афіша</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>билборд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>billboard</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>džambo plakat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>билборд</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>billboard</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>билборд</lemma>
+    <lemma>афиша</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bilbord</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pano</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рекламни панел</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>афіша</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>afiŝtabulon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Reklametafel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>billboard</lemma>
+  </synset>
+</multilingual-synset>

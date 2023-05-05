@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4976"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4976"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      nominovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>намінаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>номинирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nominovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nominirati</lemma>
+    <lemma>imanovati</lemma>
+    <lemma>nazvati</lemma>
+    <lemma>predlagati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>номинира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nominować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>номинировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nominovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imenuje</lemma>
+    <lemma>imenuje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>именовати</lemma>
+    <lemma>номиновати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>номінувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nomiga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nominieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nomineren</lemma>
+  </synset>
+</multilingual-synset>

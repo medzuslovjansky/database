@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33868"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33868"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      råzkovyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раскоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>расковать</lemma>
+    <lemma annotation="кон">unshoe</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozkovávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>raskivati</lemma>
+    <lemma>otkivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расковува</lemma>
+    <lemma>отковува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkuwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расковывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozkovávat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raskovavati</lemma>
+    <lemma>otkovavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расковавати</lemma>
+    <lemma>отковавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розковувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unchain</lemma>
+    <lemma annotation="ĉevalo">unshoe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unchain</lemma>
+    <lemma annotation="ein Pferd">unshoe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van een paard">de hoefijzers verwijderen</lemma>
+  </synset>
+</multilingual-synset>

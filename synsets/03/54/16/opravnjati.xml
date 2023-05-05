@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35416"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35416"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      opravnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упаўнаважваць</lemma>
+    <lemma>даваць права</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>право</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovlašćivati</lemma>
+    <lemma>opunomoćivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ополномоштува</lemma>
+    <lemma>овластува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uprawniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уполномочивать</lemma>
+    <lemma>давать право</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oprávňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ošlašćavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ошлашћавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уповноважувати</lemma>
+    <lemma>надавати право</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rajtigos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>berechtigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tot">het recht geven</lemma>
+  </synset>
+</multilingual-synset>

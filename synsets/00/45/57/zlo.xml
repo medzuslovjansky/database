@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4557"
+      steen:addition="(zla)"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zlo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зло</lemma>
+    <lemma>ліха</lemma>
+    <lemma>шкода</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zlo</lemma>
+    <lemma>špatnost</lemma>
+    <lemma>křivda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zlo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зло</lemma>
+    <lemma>неправда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zło</lemma>
+    <lemma>krzywda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зло</lemma>
+    <lemma>вред</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zlo</lemma>
+    <lemma>neprávosť</lemma>
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zlo</lemma>
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зло</lemma>
+    <lemma>кривда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зло</lemma>
+    <lemma>кривда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbono</lemma>
+    <lemma>malbone</lemma>
+    <lemma>damaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>böse</lemma>
+    <lemma>falsch</lemma>
+    <lemma>Schaden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwaad</lemma>
+  </synset>
+</multilingual-synset>

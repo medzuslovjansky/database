@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34554"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34554"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      osađati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абсаджванне</lemma>
+    <lemma>утаймаванне</lemma>
+    <lemma annotation="каня">угамаванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="кон">ограничаване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="koně">přitahovat uzdu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krotiti</lemma>
+    <lemma annotation="konja">sedlati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зауздува</lemma>
+    <lemma annotation="коњ">скротува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="konia">osadzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осаживать</lemma>
+    <lemma annotation="лошадь">обуздывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="koňa">priťahovať uzdu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omejili</lemma>
+    <lemma>tame</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обуздавати</lemma>
+    <lemma>кротити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осаджувати</lemma>
+    <lemma annotation="коня">приборкувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĉevalo">bridi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Pferd">zügeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="paard">beteugelen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18477"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18477" steen:pos="m." steen:type="1">prijem</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уступ</lemma>
+    <lemma>уступанне</lemma>
+    <lemma>ступанне</lemma>
+    <lemma>прыём</lemma>
+    <lemma annotation="напр. у арганізацыю">прыймо</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vstup</lemma>
+    <lemma>vchod</lemma>
+    <lemma>vjezd</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ulaz</lemma>
+    <lemma>prijem</lemma>
+    <lemma>pristup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влез</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawo wstępu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вступление</lemma>
+    <lemma annotation="напр. в организацию">приём</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vstup</lemma>
+    <lemma>vchod</lemma>
+    <lemma>vjazd</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vhod</lemma>
+    <lemma>recepcija</lemma>
+    <lemma>dostop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>улаз</lemma>
+    <lemma>пријем</lemma>
+    <lemma>приступ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вступ</lemma>
+    <lemma annotation="напр. в організацію">прийом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enirejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eingang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontvangst</lemma>
+  </synset>
+</multilingual-synset>

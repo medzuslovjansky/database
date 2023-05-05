@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20203"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      tabu
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>табу</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>табу</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tabu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tabu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>табу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tabu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>табу</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tabu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tabu tabu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>табу</lemma>
+    <lemma>забрањена тема</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>табу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tabuo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tabu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>taboe</lemma>
+  </synset>
+</multilingual-synset>

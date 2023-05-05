@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17100"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      zona
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зона</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зона</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zóna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zona</lemma>
+    <lemma>pojas</lemma>
+    <lemma>oblast</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зона</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strefa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зона</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zóna</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>cona</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зона</lemma>
+    <lemma>појас</lemma>
+    <lemma>област</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зона</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>zono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zone</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zone</lemma>
+  </synset>
+</multilingual-synset>

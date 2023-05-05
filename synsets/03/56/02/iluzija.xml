@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35602"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35602"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      iluzija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ілюзія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заблуда</lemma>
+    <lemma>илюзия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>iluze</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iluzija</lemma>
+    <lemma>pričin</lemma>
+    <lemma>privid</lemma>
+    <lemma>obmana</lemma>
+    <lemma>utvara</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>илузија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>iluzja</lemma>
+    <lemma>złudzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иллюзия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ilúzia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iluzija</lemma>
+    <lemma>prevara</lemma>
+    <lemma>iluzija</lemma>
+    <lemma>privid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>илузија</lemma>
+    <lemma>варка</lemma>
+    <lemma>обмана</lemma>
+    <lemma>привид</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ілюзія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>iluzio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Illusion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>illusie</lemma>
+  </synset>
+</multilingual-synset>

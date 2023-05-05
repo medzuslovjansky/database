@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23473"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23473"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="uk rue pl cz"
+    >
+      čajka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кнігаўка</lemma>
+    <lemma>каня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>калугерица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čejka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vivak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="птица">калуѓерица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czajka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чибис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cíbik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="птица">вивак</lemma>
+    <lemma>кика</lemma>
+    <lemma>витица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чайка</lemma>
+    <lemma>чибіс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>upupon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kiebitz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kievit</lemma>
+  </synset>
+</multilingual-synset>

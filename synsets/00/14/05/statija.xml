@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1405"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1405"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru ub cz bm"
+    >
+      statija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>артыкул</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>статия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>článek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>članak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>статија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>artykuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>статья</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>článok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>članek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чланак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стаття</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gazeto, ĵurnalo">artikolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Artikel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="krant, tijdschrift">artikel</lemma>
+  </synset>
+</multilingual-synset>

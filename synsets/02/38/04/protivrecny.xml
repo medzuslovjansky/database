@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23804"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23804"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      protivrěčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>супярэчлівы</lemma>
+    <lemma>непаслядоўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>непоследовательные</lemma>
+    <lemma>противоречиви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>protichůdný</lemma>
+    <lemma>rozporný</lemma>
+    <lemma>rozporuplný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>proturječan</lemma>
+    <lemma>protuslovan</lemma>
+    <lemma>kontradiktoran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>противречен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sprzeczny</lemma>
+    <lemma>niezgodny</lemma>
+    <lemma>przeciwstawny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>противоречивый</lemma>
+    <lemma>непоследовательный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>protichodný</lemma>
+    <lemma>protirečivý</lemma>
+    <lemma>rozporuplný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>protislovno</lemma>
+    <lemma>v nasprotju</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>противречан</lemma>
+    <lemma>опречан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>суперечливий</lemma>
+    <lemma>непослідовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nekonsekvenca</lemma>
+    <lemma>kontraŭdiraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inkohärente</lemma>
+    <lemma>widersprüchliche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tegenstrijdig</lemma>
+    <lemma>inconsistent</lemma>
+  </synset>
+</multilingual-synset>

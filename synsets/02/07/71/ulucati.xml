@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20771"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20771"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      ulučati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паляпшаць</lemma>
+    <lemma annotation="момант">выкарыстоўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="от момента">възползвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čas, příležitost">využívat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>iskorištavati</lemma>
+    <lemma>iskorištavati</lemma>
+    <lemma>koristiti</lemma>
+    <lemma>iskoristovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="можност">искористува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="moment, okazję">wykorzystywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>улучать</lemma>
+    <lemma annotation="момент">использовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="čas, príležitosť">využívať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izkoriščanje</lemma>
+    <lemma>izkoriščanje</lemma>
+    <lemma>uporaba</lemma>
+    <lemma>iskoristovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искориштавати</lemma>
+    <lemma>искоришћавати</lemma>
+    <lemma>користити</lemma>
+    <lemma>искористовати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знаходити</lemma>
+    <lemma annotation="момент">використати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝanco, momento">konfiski</lemma>
+    <lemma annotation="tempo">trovi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Gelegenheit">ergreifen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kans">aangrijpen</lemma>
+  </synset>
+</multilingual-synset>

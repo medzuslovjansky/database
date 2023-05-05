@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35919"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35919"
+      steen:pos="adj."
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      epičsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эпічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>епически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>epický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>epski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>епски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>epicki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эпический</lemma>
+    <lemma>эпичный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>epický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>epska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>епски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>епічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>epopea</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Epos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>episch</lemma>
+  </synset>
+</multilingual-synset>

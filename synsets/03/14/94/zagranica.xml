@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31494" steen:pos="f." steen:type="1">zagranica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замежжа</lemma>
+    <lemma>заграніца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>странство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahraničí</lemma>
+    <lemma>cizina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inozemstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>странство</lemma>
+    <lemma>туѓоземство</lemma>
+    <lemma>јабана</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagranica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заграница</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zahraničie</lemma>
+    <lemma>cudzina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tujini</lemma>
+    <lemma>v tujini</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иностранство</lemma>
+    <lemma>иноземство</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закордон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksterlando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>im Ausland</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buitenland</lemma>
+  </synset>
+</multilingual-synset>

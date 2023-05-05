@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21888"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21888"
+      steen:addition="(prostre)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      prostrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на стол">сабраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="таблица">комплект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prostřít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="sto">prostrijeti</lemma>
+    <lemma>prekriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>простре</lemma>
+    <lemma>посла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="stół">zaścielić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="стол">накрыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prestrieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="sto">namaz</lemma>
+    <lemma>pokrita</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="сто">прострети</lemma>
+    <lemma>прекрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="[на] стіл">накрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tablo">aro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Tabelle">Set</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tafel">dekken</lemma>
+  </synset>
+</multilingual-synset>

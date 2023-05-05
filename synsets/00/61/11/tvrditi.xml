@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6111"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6111"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="uk z j"
+    >
+      tvŕditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цвердзіць</lemma>
+    <lemma>даказваць</lemma>
+    <lemma>паўтараць</lemma>
+    <lemma>завучваць</lemma>
+    <lemma>сцвярджаць</lemma>
+    <lemma>зацвярджаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>твърдят</lemma>
+    <lemma>състояние</lemma>
+    <lemma>твърди</lemma>
+    <lemma>твърди</lemma>
+    <lemma>твърди</lemma>
+    <lemma>твърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tvrdit</lemma>
+    <lemma>prohlašovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tvrditi</lemma>
+    <lemma>izjavljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тврди</lemma>
+    <lemma>изјавува</lemma>
+    <lemma>кажува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>twierdzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>твердить</lemma>
+    <lemma>утверждать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tvrdiť</lemma>
+    <lemma>vyhlasovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zahtevek</lemma>
+    <lemma>ugotovi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тврдити</lemma>
+    <lemma>изјављивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>твердити</lemma>
+    <lemma>стверджувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stato</lemma>
+    <lemma>aserto</lemma>
+    <lemma>asertas</lemma>
+    <lemma>ili pledas</lemma>
+    <lemma>asertas</lemma>
+    <lemma>havu</lemma>
+    <lemma annotation="argumento">subteni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>allege</lemma>
+    <lemma>Staat</lemma>
+    <lemma>bestätigen sie</lemma>
+    <lemma>behaupten</lemma>
+    <lemma>Anspruch behaupten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stellen</lemma>
+    <lemma>beweren</lemma>
+  </synset>
+</multilingual-synset>

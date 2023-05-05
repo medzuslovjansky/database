@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7924"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7924" steen:pos="m." steen:type="1" steen:same="sl">
+      iskaľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пошукавік</lemma>
+    <lemma>пошукавая сістэма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>търсачка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhledávač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tražilica</lemma>
+    <lemma>internetska tražilica</lemma>
+    <lemma>internetski preglednik</lemma>
+    <lemma>web preglednik</lemma>
+    <lemma>web browser</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пребарувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyszukiwarka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поисковик</lemma>
+    <lemma>поисковая система</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhľadávač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spletni brskalnik</lemma>
+    <lemma>spletni brskalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>веб-претраживач</lemma>
+    <lemma>претраживач веба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пошуковик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>serĉilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Suchmaschine</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zoekmachine</lemma>
+  </synset>
+</multilingual-synset>

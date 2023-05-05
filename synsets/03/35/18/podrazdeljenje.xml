@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33518"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33518" steen:pos="n." steen:type="1">podråzděljeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падпадзел</lemma>
+    <lemma>падпадзяленне</lemma>
+    <lemma>падраздзяленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>единица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podrozdělení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="na dijelove">dijeljenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подраздел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozdzielenie na mniejsze części</lemma>
+    <lemma>podział na mniejsze części</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подразделение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podrozdelenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dnevniki</lemma>
+    <lemma>drobljenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ситњење</lemma>
+    <lemma>дробљење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підрозділ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subsekcio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unterteilung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderverdeling</lemma>
+  </synset>
+</multilingual-synset>

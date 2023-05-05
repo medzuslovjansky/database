@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21434"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21434" steen:pos="m." steen:type="2" steen:same="v sh bm">
+      porok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загана</lemma>
+    <lemma>завада</lemma>
+    <lemma annotation="мед.">парок</lemma>
+    <lemma>нястача</lemma>
+    <lemma>хіба</lemma>
+    <lemma>недастача</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дефект</lemma>
+    <lemma>порок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vada</lemma>
+    <lemma>zlozvyk</lemma>
+    <lemma>chyba</lemma>
+    <lemma>neřest</lemma>
+    <lemma>nedostatek</lemma>
+    <lemma>kaz</lemma>
+    <lemma>defekt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>porok</lemma>
+    <lemma>mana</lemma>
+    <lemma>nedostatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>порок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wada</lemma>
+    <lemma>usterka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>порок</lemma>
+    <lemma>недостаток</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vada</lemma>
+    <lemma>závada</lemma>
+    <lemma>chyba</lemma>
+    <lemma>porucha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>porok</lemma>
+    <lemma>napake</lemma>
+    <lemma>pomanjkanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порок</lemma>
+    <lemma>мана</lemma>
+    <lemma>недостатак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вада</lemma>
+    <lemma>недолік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>difekto</lemma>
+    <lemma>vic</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Defekts vice</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>defect</lemma>
+    <lemma>gebrek</lemma>
+  </synset>
+</multilingual-synset>

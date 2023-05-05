@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35286"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      serial
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>серыял</lemma>
+    <lemma>тэлесерыял</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сериал за TV)</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>seriál</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nizanka</lemma>
+    <lemma>serijal</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="ТВ">серија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>serial</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сериал</lemma>
+    <lemma>телесериал</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>seriál</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="tv">Serija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="тв">серија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>серіал</lemma>
+    <lemma>телесеріал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="TV">serio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="TV">Serie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tv">serie</lemma>
+  </synset>
+</multilingual-synset>

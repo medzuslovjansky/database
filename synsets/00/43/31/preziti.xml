@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4331"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4331"
+      steen:addition="(prěžive)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v z"
+    >
+      prěžiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перабыць</lemma>
+    <lemma>перацярпець</lemma>
+    <lemma>перажыць</lemma>
+    <lemma>выпрабаваць</lemma>
+    <lemma>адчуць</lemma>
+    <lemma>зведаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prožít</lemma>
+    <lemma>zažít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>doživjeti</lemma>
+    <lemma>spoznati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преживеа</lemma>
+    <lemma>доживеа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>doznać</lemma>
+    <lemma>doświadczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пережить</lemma>
+    <lemma>испытать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prežiť</lemma>
+    <lemma>zažiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na izkušnje</lemma>
+    <lemma>da vedo</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>доживети</lemma>
+    <lemma>спознати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пережити</lemma>
+    <lemma>витримати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sperto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erfahrung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ervaring</lemma>
+  </synset>
+</multilingual-synset>

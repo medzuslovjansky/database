@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="862" steen:pos="adj." steen:type="1" steen:genesis="I">
+      informovany
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інфармаваны</lemma>
+    <lemma>паведамленны</lemma>
+    <lemma>паінфармаваны</lemma>
+    <lemma>дасведчаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>осведомен</lemma>
+    <lemma>информиран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>informovaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>informiran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>информиран</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poinformowany</lemma>
+    <lemma>świadomy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>информированный</lemma>
+    <lemma>осведомлённый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>informovaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obvestila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>информисан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інформований</lemma>
+    <lemma>обізнаний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>informis</lemma>
+    <lemma>konscia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>informiert</lemma>
+    <lemma>bewusst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geïnformeerd</lemma>
+    <lemma>op de hoogte</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35468"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35468"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sh bg"
+    >
+      skamenělosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скамянеласць</lemma>
+    <lemma>закамянеласць</lemma>
+    <lemma>акамянеласць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изкопаеми</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkamenělina</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>fosil</lemma>
+    <lemma>okamina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скаменетост</lemma>
+    <lemma>фосилизираност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skamieniałość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окаменелость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fosília</lemma>
+    <lemma>skamenelina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fosilna</lemma>
+    <lemma>fosili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фосил</lemma>
+    <lemma>окамина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скам&apos;янілість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fosiliaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fossil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fossiel</lemma>
+  </synset>
+</multilingual-synset>

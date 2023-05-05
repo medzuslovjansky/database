@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34023"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru z yu bg"
+    >
+      tajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>таць</lemma>
+    <lemma>раставаць</lemma>
+    <lemma>адтаваць</lemma>
+    <lemma>адтайваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се стопи</lemma>
+    <lemma>да се размрази</lemma>
+    <lemma>размразени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tát</lemma>
+    <lemma>roztávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>topiti</lemma>
+    <lemma>odmrzavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стопува</lemma>
+    <lemma>одмрзнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tajać</lemma>
+    <lemma>topić</lemma>
+    <lemma>upłynniać</lemma>
+    <lemma>odmrażać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>таять</lemma>
+    <lemma>оттаивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>topiť</lemma>
+    <lemma>roztápať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>taline</lemma>
+    <lemma>odjuge</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>топити</lemma>
+    <lemma>одмрзавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>танути</lemma>
+    <lemma>відтавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>degeli</lemma>
+    <lemma>degelo</lemma>
+    <lemma>revivigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schmelze</lemma>
+    <lemma>Tauwetter</lemma>
+    <lemma>aufzutauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontdooien</lemma>
+  </synset>
+</multilingual-synset>

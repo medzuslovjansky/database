@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26223"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26223"
+      steen:addition="(izplěje/izplěve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izplěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выдзерці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изплевя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oplijeviti</lemma>
+    <lemma>iskorijeniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исплете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyplewić</lemma>
+    <lemma>wyplenić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выполоть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izkoreniniti</lemma>
+    <lemma>trganje iz korenin</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>искоренити</lemma>
+    <lemma>ишчупати с кореном</lemma>
+    <lemma />
+  </synset>
+  <synset lang="uk">
+    <lemma>виполоти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sarki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aussondern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wieden</lemma>
+  </synset>
+</multilingual-synset>

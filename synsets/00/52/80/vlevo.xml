@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5280" steen:pos="adv." steen:type="1">vlěvo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>улева</lemma>
+    <lemma>налева</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наляво</lemma>
+    <lemma>вляво</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlevo</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>lijevo</lemma>
+    <lemma>lijevo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>на лево</lemma>
+    <lemma>лево</lemma>
+    <lemma>во лево</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>w lewo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>влево</lemma>
+    <lemma>налево</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vľavo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>levo</lemma>
+    <lemma>levo</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>лево</lemma>
+    <lemma>налево</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вліво</lemma>
+    <lemma>наліво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>maldekstren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nach links</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>linksaf</lemma>
+    <lemma>naar links</lemma>
+  </synset>
+</multilingual-synset>

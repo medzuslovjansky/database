@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2665"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2665" steen:pos="m." steen:type="1">grad</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ападкі">град</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>град</lemma>
+    <lemma annotation="метеорол.">градушка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krupobití</lemma>
+    <lemma>kroupy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tuča</lemma>
+    <lemma>grȁd</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="врне">град</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="осадки">град</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krupobitie</lemma>
+    <lemma>krúpy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="padavine">Grad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="падавина">град</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>град</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hajlo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hagel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hagel</lemma>
+  </synset>
+</multilingual-synset>

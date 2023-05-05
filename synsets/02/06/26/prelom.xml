@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20626" steen:pos="m." steen:type="1" steen:same="ru cz sh">
+      prělom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пералом</lemma>
+    <lemma>паварот</lemma>
+    <lemma>заваротак</lemma>
+    <lemma>заварот</lemma>
+    <lemma>паваротка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>почивка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přelom</lemma>
+    <lemma>zlom</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prijelom</lemma>
+    <lemma>lom</lemma>
+    <lemma>preokret</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прелом</lemma>
+    <lemma>пресвртница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>złamanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перелом</lemma>
+    <lemma>поворот</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prelom</lemma>
+    <lemma>zlom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prelom</lemma>
+    <lemma>prelom</lemma>
+    <lemma>zasuk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прелом</lemma>
+    <lemma>лом</lemma>
+    <lemma>преокрет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>злам</lemma>
+    <lemma>перелом</lemma>
+    <lemma>поворот</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŭzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>breuk</lemma>
+  </synset>
+</multilingual-synset>

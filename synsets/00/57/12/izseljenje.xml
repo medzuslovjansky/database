@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5712"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5712" steen:pos="n.sg." steen:type="1">izseljeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эміграцыя</lemma>
+    <lemma>высяленне</lemma>
+    <lemma>перасяленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>емиграция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vysídlení</lemma>
+    <lemma>vystěhování</lemma>
+    <lemma>emigrace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iseljavanje</lemma>
+    <lemma>emigracija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>иселување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>emigracja</lemma>
+    <lemma>wysiedlenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эмиграция</lemma>
+    <lemma>выселение</lemma>
+    <lemma>переселение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vysídlenie</lemma>
+    <lemma>vysťahovanie</lemma>
+    <lemma>emigrácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izselitev</lemma>
+    <lemma>izseljevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исељење</lemma>
+    <lemma>емиграција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>еміграція</lemma>
+    <lemma>переселення</lemma>
+    <lemma>виселення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elmigrado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auswanderung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="verdrijving uit het eigen woongebied">emigratie</lemma>
+  </synset>
+</multilingual-synset>

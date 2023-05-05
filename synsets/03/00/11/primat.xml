@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30011"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30011"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      primat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="біял.">прымат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предстоятелят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>primát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primat</lemma>
+    <lemma>prvenstvo</lemma>
+    <lemma>prednost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>примат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ssak">naczelny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="биол.">примат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>primát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>primate</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>примат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="біол.">примат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>primato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Primas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>primaat</lemma>
+  </synset>
+</multilingual-synset>

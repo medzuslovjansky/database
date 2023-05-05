@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22062"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22062" steen:pos="adj." steen:type="2" steen:same="ru j">
+      tekųći
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бягучы</lemma>
+    <lemma>прамежкавы</lemma>
+    <lemma>гэты</lemma>
+    <lemma>цяперашні</lemma>
+    <lemma annotation="час">сучасны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>настоящата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>probíhající</lemma>
+    <lemma>aktuální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tekući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тековен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aktualny</lemma>
+    <lemma>obecny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>текущий</lemma>
+    <lemma annotation="время">настоящий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prebiehajúce</lemma>
+    <lemma>aktuálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sedanji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>текући</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>поточний</lemma>
+    <lemma annotation="час">справжній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fluo</lemma>
+    <lemma>daŭra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>derzeit laufenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huidig</lemma>
+    <lemma>lopend</lemma>
+  </synset>
+</multilingual-synset>

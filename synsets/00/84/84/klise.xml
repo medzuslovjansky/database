@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8484"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8484"
+      steen:pos="n.indecl."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      kliše
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клішэ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клише</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klišé</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kliše</lemma>
+    <lemma>kalup</lemma>
+    <lemma>obrazac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клише</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klisza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клише</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klišé</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kliše</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клише</lemma>
+    <lemma>калуп</lemma>
+    <lemma>образац</lemma>
+    <lemma>мустра</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кліше</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kliŝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klischee</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cliché</lemma>
+  </synset>
+</multilingual-synset>

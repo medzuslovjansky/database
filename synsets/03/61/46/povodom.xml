@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36146"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36146"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+      steen:same="v pl sh bg"
+    >
+      povodom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па выпадку</lemma>
+    <lemma>з нагоды</lemma>
+    <lemma>у звязку з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по повод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>u příležitosti</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povodom</lemma>
+    <lemma>u povodu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>по повод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z okazji</lemma>
+    <lemma>z powodu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по случаю</lemma>
+    <lemma>в связи с</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pri príležitosti</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glede</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поводом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>через</lemma>
+    <lemma>у зв&apos;язку з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okaze de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anlässlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vanwege</lemma>
+    <lemma>naar aanleiding van</lemma>
+  </synset>
+</multilingual-synset>

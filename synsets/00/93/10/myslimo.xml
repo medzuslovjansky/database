@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9310"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9310"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ru uk cs bm"
+    >
+      myslimo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магчыма</lemma>
+    <lemma>мажліва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мислимо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>teoreticky</lemma>
+    <lemma>myslitelně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zamislivo</lemma>
+    <lemma>moguće</lemma>
+    <lemma>vjerojatno</lemma>
+    <lemma>valjda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замисливо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyobrażalnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мыслимо</lemma>
+    <lemma>возможно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>teoreticky</lemma>
+    <lemma>mysliteľne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mogoče</lemma>
+    <lemma>če je to potrebno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>могуће</lemma>
+    <lemma>евентуално</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мислимо</lemma>
+    <lemma>можливо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kredeble</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unter Umständen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>denkbaar</lemma>
+  </synset>
+</multilingual-synset>

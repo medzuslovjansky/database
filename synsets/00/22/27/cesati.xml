@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2227"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2227"
+      steen:addition="(češe)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      česati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чухаць</lemma>
+    <lemma>расчэсваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>четкам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>česat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>češljati</lemma>
+    <lemma>četkati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чеша</lemma>
+    <lemma>четка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czesać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чесать</lemma>
+    <lemma>расчёсывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>česať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>česati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чешљати</lemma>
+    <lemma>четкати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чесати</lemma>
+    <lemma>розчісувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kombilo</lemma>
+    <lemma>broso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>bürsten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kammen</lemma>
+  </synset>
+</multilingual-synset>

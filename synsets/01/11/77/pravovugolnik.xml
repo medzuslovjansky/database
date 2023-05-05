@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11177"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11177"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru be cs sr bm"
+    >
+      pravovųgȯľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прастакутнік</lemma>
+    <lemma annotation="зап.">прамакутнік</lemma>
+    <lemma annotation="зап.">прамавугольнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>правоъгълник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravoúhelník</lemma>
+    <lemma>obdélník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravokutnik</lemma>
+    <lemma>četverokut</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>правоаголник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prostokąt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прямоугольник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravouholník</lemma>
+    <lemma>obdĺžnik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravokotne oblike</lemma>
+    <lemma>pravokotnik</lemma>
+    <lemma>pravokotnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правоуга</lemma>
+    <lemma>правоугаоник</lemma>
+    <lemma>правокутник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прямокутник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rektangulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rechteck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechthoek</lemma>
+  </synset>
+</multilingual-synset>

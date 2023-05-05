@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22397"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22397" steen:pos="f." steen:type="2" steen:same="ru pl bm">
+      kukla
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лялька</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кукла</lemma>
+    <lemma>марионетка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>panenka</lemma>
+    <lemma>loutka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lutka</lemma>
+    <lemma annotation="arh.">kukla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кукла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lalka</lemma>
+    <lemma>kukła</lemma>
+    <lemma>marionetka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кукла</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bábika</lemma>
+    <lemma>bábka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lutka</lemma>
+    <lemma annotation="arch.">lutka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лутка</lemma>
+    <lemma annotation="арх.">кукла</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лялька</lemma>
+    <lemma>маріонетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pupo</lemma>
+    <lemma>marioneto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Puppe</lemma>
+    <lemma>Puppen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pop</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5258"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5258" steen:pos="f." steen:type="1">gospodynja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спадарыня</lemma>
+    <lemma>пані</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>господарка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hospodyně</lemma>
+    <lemma annotation="domu">paní</lemma>
+    <lemma />
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodarica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>господарка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pani</lemma>
+    <lemma>gospodyni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>госпожа</lemma>
+    <lemma>хозяйка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gazdiná</lemma>
+    <lemma annotation="domu">pani</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>gospodarica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>господарица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пані</lemma>
+    <lemma>господиня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz de domanaro">amantino</lemma>
+    <lemma>gastejestrino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Herrin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vrouw des huizes</lemma>
+  </synset>
+</multilingual-synset>

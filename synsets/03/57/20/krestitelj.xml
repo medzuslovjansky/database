@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35720"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35720"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      krestitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хрысціцель</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кръстител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křtitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krstitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крстител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chrzciciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>креститель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>Krstiteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Baptist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крститељ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хреститель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="persono baptanto">Baptisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Person, die tauft">baptist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doper</lemma>
+  </synset>
+</multilingual-synset>

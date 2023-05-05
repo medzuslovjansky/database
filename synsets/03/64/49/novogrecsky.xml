@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36449"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36449" steen:pos="adj." steen:type="1" steen:same="v z j">
+      novogrėčsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сучасная грэчаская мова</lemma>
+    <lemma annotation="мова">навагрэцкая</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>новогръцки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>novořecký</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>novogrčki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>современ грчки</lemma>
+    <lemma>модерен грчки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nowogrecki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="язык">новогреческий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>novogrécky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Romaic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>новогрчки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="мова">новогрецька</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Moderna greka</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Neugriechisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Nieuwgrieks</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35208"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      elementarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>элементарны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>елементарен</lemma>
+    <lemma>прост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elementární</lemma>
+    <lemma>základní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>elementaran</lemma>
+    <lemma>osnovni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>основен</lemma>
+    <lemma>елементарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>elementarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>элементарный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elementárny</lemma>
+    <lemma>základný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osnovno</lemma>
+    <lemma>s sedežem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>елементаран</lemma>
+    <lemma>основан</lemma>
+    <lemma>основни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>елементарний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>elementa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>elementar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elementair</lemma>
+  </synset>
+</multilingual-synset>

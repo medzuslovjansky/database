@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21464"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21464" steen:pos="n." steen:type="2" steen:same="cz sh">
+      prěrěčeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абмоўка</lemma>
+    <lemma>агаворка</lemma>
+    <lemma>памылка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обмолвка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeřeknutí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lapsus</lemma>
+    <lemma>omaška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лапсус</lemma>
+    <lemma>грешка при зборување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przejęzyczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оговорка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prerieknutie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slip</lemma>
+    <lemma>Omaknuti</lemma>
+    <lemma>napaka govor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>омашка</lemma>
+    <lemma>лапсус</lemma>
+    <lemma>говорна грешка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обмовка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gliti de la lango</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Versprecher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verspreking</lemma>
+  </synset>
+</multilingual-synset>

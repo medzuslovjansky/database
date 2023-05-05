@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23343"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23343"
+      steen:addition="(+3)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru pl j"
+    >
+      odnesti sę k
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднесціся</lemma>
+    <lemma annotation="да чагосьці">паставіцца</lemma>
+    <lemma>абыйсціся</lemma>
+    <lemma annotation="з чымсьці">паступіць</lemma>
+    <lemma>пачаць паводзіць сябе</lemma>
+    <lemma annotation="у адносінах да">пачаць трымаць сябе</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се отнасят до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vztáhnout se k</lemma>
+    <lemma annotation="něčeho">dotknout se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odnositi se</lemma>
+    <lemma>biti u vezi s</lemma>
+    <lemma>ponašati se prema</lemma>
+    <lemma>osjećati se prema</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се однесува на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odnieść się do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="к чему-либо">отнестись</lemma>
+    <lemma annotation="с чем-либо">поступить</lemma>
+    <lemma>повести себя по отношению</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vztiahnuť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glejte</lemma>
+    <lemma>glede</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>односити се</lemma>
+    <lemma>тицати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="до чого-небудь">поставитися</lemma>
+    <lemma annotation="з чим-небудь">повестися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>relate al</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>f</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich verhouden tot</lemma>
+    <lemma>betrekking hebben op</lemma>
+  </synset>
+</multilingual-synset>

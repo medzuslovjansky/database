@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19468"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19468"
+      steen:addition="(zrěje)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      zrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спець</lemma>
+    <lemma>паспяваць</lemma>
+    <lemma>спялець</lemma>
+    <lemma>саспяваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зрея</lemma>
+    <lemma>съзрявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zreti</lemma>
+    <lemma>sazrijevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зрее</lemma>
+    <lemma>созрева</lemma>
+    <lemma>старее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dojrzewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зреть</lemma>
+    <lemma>созревать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zrel</lemma>
+    <lemma>dozori</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зрети</lemma>
+    <lemma>сазревати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зріти</lemma>
+    <lemma>дозрівати</lemma>
+    <lemma>стигнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aĝo</lemma>
+    <lemma>matura</lemma>
+    <lemma>maturiĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Alter</lemma>
+    <lemma>reif</lemma>
+    <lemma>reifen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volwassen worden</lemma>
+    <lemma>volgroeid raken</lemma>
+    <lemma>rijpen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34405"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34405"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v z~"
+    >
+      sadovnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>садоўнік</lemma>
+    <lemma>гароднік</lemma>
+    <lemma>агароднік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>градинар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahradník</lemma>
+    <lemma>sadař</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vrtlar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>садач</lemma>
+    <lemma>градинар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ogrodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>садовник</lemma>
+    <lemma>садовод</lemma>
+    <lemma>огородник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záhradník</lemma>
+    <lemma>sadár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtnar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>баштован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>садівник</lemma>
+    <lemma>городник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝardenisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gärtner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tuinman</lemma>
+  </synset>
+</multilingual-synset>

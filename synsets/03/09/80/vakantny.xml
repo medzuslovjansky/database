@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30980"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30980" steen:pos="adj." steen:type="1" steen:genesis="I">
+      vakantny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вакантны</lemma>
+    <lemma>незаняты</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свободни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>volný</lemma>
+    <lemma>prázdný</lemma>
+    <lemma>neobsazený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prazan</lemma>
+    <lemma>slobodan</lemma>
+    <lemma>nepopunjen</lemma>
+    <lemma>neiskorišten</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вакантен</lemma>
+    <lemma>празен</lemma>
+    <lemma>испразнет</lemma>
+    <lemma>слободен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. stanowisko">wolny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вакантный</lemma>
+    <lemma>незанятый</lemma>
+    <lemma>свободный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>voľný</lemma>
+    <lemma>prázdny</lemma>
+    <lemma>neobsadený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prostih delovnih mest</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упражњено радно место</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вакантний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vaka</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vakant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vacant</lemma>
+  </synset>
+</multilingual-synset>

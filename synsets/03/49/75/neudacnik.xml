@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34975"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34975"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      neudačnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няўдачнік</lemma>
+    <lemma>няўдалец</lemma>
+    <lemma>бясшчасны</lemma>
+    <lemma>уломак</lemma>
+    <lemma>выскрабак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>несретник</lemma>
+    <lemma>нещастник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nešťastník</lemma>
+    <lemma>smolař</lemma>
+    <lemma>outsider</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nesretnik</lemma>
+    <lemma>zlosretnik</lemma>
+    <lemma>pehist</lemma>
+    <lemma>baksuz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>несреќник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieudacznik</lemma>
+    <lemma>pechowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неудачник</lemma>
+    <lemma>несчастливчик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nešťastník</lemma>
+    <lemma>smoliar</lemma>
+    <lemma>outsider</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nesrečni</lemma>
+    <lemma>nesposobni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>несрећник</lemma>
+    <lemma>неспособњаковић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невдаха</lemma>
+    <lemma>нещаслива людина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfeliĉa persono</lemma>
+    <lemma>perdanto</lemma>
+    <lemma>eksterulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pechvogel</lemma>
+    <lemma>Verlierer</lemma>
+    <lemma>Außenseiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mislukkeling</lemma>
+    <lemma>pechvogel</lemma>
+    <lemma>loser</lemma>
+  </synset>
+</multilingual-synset>

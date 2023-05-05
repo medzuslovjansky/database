@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26052"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26052" steen:pos="f." steen:type="1">hyba</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>недахоп</lemma>
+    <lemma>дэфект</lemma>
+    <lemma>памылка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chyba</lemma>
+    <lemma>vada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>greška</lemma>
+    <lemma>pogreška</lemma>
+    <lemma>mana</lemma>
+    <lemma>nedostatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грешка</lemma>
+    <lemma>пропуст</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wada</lemma>
+    <lemma>usterka</lemma>
+    <lemma>błąd</lemma>
+    <lemma>pomyłka</lemma>
+    <lemma>skaza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>недостаток</lemma>
+    <lemma>дефект</lemma>
+    <lemma>ошибка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chyba</lemma>
+    <lemma>vada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Napaka. napaka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грешка</lemma>
+    <lemma>квар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помилка</lemma>
+    <lemma>похибка</lemma>
+    <lemma>вада</lemma>
+    <lemma>недолік</lemma>
+    <lemma>хиба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kulpo</lemma>
+    <lemma>eraro</lemma>
+    <lemma>eraro</lemma>
+    <lemma>difekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fehler</lemma>
+    <lemma>Fehler</lemma>
+    <lemma>Fehler</lemma>
+    <lemma>Fehler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fout</lemma>
+    <lemma>gebrek</lemma>
+    <lemma>blunder</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1599"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1599"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      uvěrjeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упэўнены</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разбира се</lemma>
+    <lemma>уверен в себе си</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jistý</lemma>
+    <lemma>sebevědomý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>siguran</lemma>
+    <lemma>izvjestan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уверен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pewny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уверенный</lemma>
+    <lemma>уверен</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>istý</lemma>
+    <lemma>sebavedomý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričan</lemma>
+    <lemma>nekateri</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сигуран</lemma>
+    <lemma>известан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>упевнений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>certa</lemma>
+    <lemma>memfida</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sicher</lemma>
+    <lemma>zuversichtlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeker</lemma>
+    <lemma>overtuigd</lemma>
+  </synset>
+</multilingual-synset>

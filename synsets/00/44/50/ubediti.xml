@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4450"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4450"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      uběditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераканаць</lemma>
+    <lemma>упэўніць</lemma>
+    <lemma>угаварыць</lemma>
+    <lemma>умалёгаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>убеди</lemma>
+    <lemma>убеждаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přesvědčit</lemma>
+    <lemma>přemluvit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uvjeriti</lemma>
+    <lemma>nagovoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>убеди</lemma>
+    <lemma>убедат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekonać</lemma>
+    <lemma>wyperswadować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убедить</lemma>
+    <lemma>уговорить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>presvedčiť</lemma>
+    <lemma>prehovoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričati</lemma>
+    <lemma>prepričati</lemma>
+    <lemma>dobrikati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уверити</lemma>
+    <lemma>убедити</lemma>
+    <lemma>наговорити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>переконати</lemma>
+    <lemma>умовити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konvinki</lemma>
+    <lemma>persvadi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überzeugen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overtuigen</lemma>
+  </synset>
+</multilingual-synset>

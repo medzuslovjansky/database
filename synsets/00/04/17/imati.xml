@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="417"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="417"
+      steen:addition="(imaje)"
+      steen:pos="v.aux. ipf."
+      steen:type="1"
+    >
+      iměti
+    </lemma>
+    <lemma
+      steen:id="417"
+      steen:addition="(imaje)"
+      steen:pos="v.aux. ipf."
+      steen:type="1"
+    >
+      imati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>быць неабходным</lemma>
+    <lemma>быць павінным</lemma>
+    <lemma>павінен</lemma>
+    <lemma>мусіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>трябва да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>muset</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>подобати</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>morati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мора</lemma>
+    <lemma>треба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>musieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>долженствовать</lemma>
+    <lemma>должен</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>musieť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>morati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>морати</lemma>
+    <lemma>требати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мусити</lemma>
+    <lemma>мати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>devi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>müssen</lemma>
+    <lemma>müssen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>moeten</lemma>
+  </synset>
+</multilingual-synset>

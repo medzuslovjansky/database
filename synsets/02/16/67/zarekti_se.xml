@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21667"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21667"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v cz sh mk"
+    >
+      zarěkti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зарачыся</lemma>
+    <lemma>паклясціся</lemma>
+    <lemma>паабяцаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зарека се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slíbit</lemma>
+    <lemma>zapřisáhnout se</lemma>
+    <lemma annotation="někomu">zaříct se</lemma>
+    <lemma annotation="někomu">zaříci se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zareći se</lemma>
+    <lemma>zavjetovati se</lemma>
+    <lemma>zakleti se</lemma>
+    <lemma>zaprisegnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се зарече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyrzec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заречься</lemma>
+    <lemma>поклясться</lemma>
+    <lemma>пообещать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sľúbiť</lemma>
+    <lemma>zaprisahať sa</lemma>
+    <lemma annotation="nekomu">zariekať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preklinjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заклети се</lemma>
+    <lemma>зарећи се</lemma>
+    <lemma>заветовати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заректися</lemma>
+    <lemma>присягнутися</lemma>
+    <lemma>пообіцяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>promeso</lemma>
+    <lemma>promeso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Versprechen</lemma>
+    <lemma>Gelübde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zweren</lemma>
+  </synset>
+</multilingual-synset>

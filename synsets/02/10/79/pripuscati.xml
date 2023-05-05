@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21079"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21079"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      pripušćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спароўваць</lemma>
+    <lemma>злучаць</lemma>
+    <lemma>злучваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="мъж и жена животно">двойка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="samec a samice">připouštět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="npr. mužjak i ženka">pariti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спарува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. byka do krowy">dopuszczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спаривать</lemma>
+    <lemma>случать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="samec a samica">pripúšťať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr moški in ženski">mate</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. мужјак и женка">парити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спарювати</lemma>
+    <lemma>злучати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="viro kaj virino besto">paro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="männlich und weiblich Tier">Paar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="mannelijk en vrouwelijk dier">koppelen</lemma>
+  </synset>
+</multilingual-synset>

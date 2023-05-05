@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36011"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36011"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      poděliti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падзяліцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="Af екс. на Facebook">дял</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podělit se</lemma>
+    <lemma>sdílet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>podijeliti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сподели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podzielić się</lemma>
+    <lemma annotation="np. Facebook">udostępnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поделиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podeliť sa</lemma>
+    <lemma>zdieľať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razdeli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поделити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поділитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="f.ex. en Facebook">porcion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zb auf Facebook">Aktie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bijv. op Facebook">delen</lemma>
+  </synset>
+</multilingual-synset>

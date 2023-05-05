@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5255"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl sh bm"
+      steen:genesis="I"
+    >
+      metal
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>метал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>метал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kov</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>metal</lemma>
+    <lemma>kovina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>метал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>metal</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>металл</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kov</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kovinski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>метал</lemma>
+    <lemma>ковина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>метал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>metalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Metall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>metaal</lemma>
+  </synset>
+</multilingual-synset>

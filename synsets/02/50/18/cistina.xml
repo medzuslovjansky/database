@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25018"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25018" steen:pos="f." steen:type="3" steen:same="sk sl">
+      čistina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паляна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поляна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>paseka</lemma>
+    <lemma>mýtina</lemma>
+    <lemma>polana</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>proplanak</lemma>
+    <lemma>čistina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пространство">чистина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>polana</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поляна</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čistina</lemma>
+    <lemma>paseka</lemma>
+    <lemma>rúbanisko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glade</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чистина</lemma>
+    <lemma>поље</lemma>
+    <lemma>пољана</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поляна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kampeto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Lichtung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tra</lemma>
+    <lemma>laar</lemma>
+  </synset>
+</multilingual-synset>

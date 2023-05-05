@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22100"
+      steen:addition="(tyče)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v"
+    >
+      tykati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тыкаць</lemma>
+    <lemma>поркаць</lemma>
+    <lemma>торкаць</lemma>
+    <lemma>соваць</lemma>
+    <lemma>штурхаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нож</lemma>
+    <lemma>CCA</lemma>
+    <lemma>мушкам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>píchat</lemma>
+    <lemma>bodat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pipati</lemma>
+    <lemma>dodirivati</lemma>
+    <lemma>gurkati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пипа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szturchać</lemma>
+    <lemma annotation="np. palcem">dźgać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тыкать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pichať</lemma>
+    <lemma>bodať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dotik</lemma>
+    <lemma>zbadanje</lemma>
+    <lemma>nudge</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пипати</lemma>
+    <lemma>додиривати</lemma>
+    <lemma>гуркати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>тикати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bastono</lemma>
+    <lemma>jab</lemma>
+    <lemma>poke</lemma>
+    <lemma>prod</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stick</lemma>
+    <lemma>Jab</lemma>
+    <lemma>poke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stompen</lemma>
+    <lemma>aantikken</lemma>
+  </synset>
+</multilingual-synset>

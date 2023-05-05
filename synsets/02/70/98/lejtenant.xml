@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27098"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27098"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl bg"
+    >
+      lejtenant
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лейтэнант</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лейтенант</lemma>
+    <lemma annotation="ост.">поручик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poručík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poručnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поручник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>porucznik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лейтенант</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poručík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poročnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поручник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лейтенант</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>leŭtenanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Leutnant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luitenant</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6130"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6130" steen:pos="m." steen:type="1" steen:genesis="I">
+      akcent
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акцэнт</lemma>
+    <lemma>націск</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>акцент</lemma>
+    <lemma>ударение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přízvuk</lemma>
+    <lemma>akcent</lemma>
+    <lemma>důraz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naglasak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>акцент</lemma>
+    <lemma>нагласок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akcent</lemma>
+    <lemma>nacisk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>акцент</lemma>
+    <lemma>ударение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prízvuk</lemma>
+    <lemma>akcent</lemma>
+    <lemma>dôraz</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>naglas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>акценат</lemma>
+    <lemma>нагласак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>акцент</lemma>
+    <lemma annotation="акцент">наголос</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>akcento</lemma>
+    <lemma>akcentado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Akzent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accent</lemma>
+    <lemma>klemtoon</lemma>
+  </synset>
+</multilingual-synset>

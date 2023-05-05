@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36627"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36627"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      poroditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спарадзіць</lemma>
+    <lemma>парадзіць</lemma>
+    <lemma>зарадзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>породя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zplodit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poroditi</lemma>
+    <lemma>roditi</lemma>
+    <lemma>začeti</lemma>
+    <lemma>stvoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зароди</lemma>
+    <lemma>створи</lemma>
+    <lemma>создаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zrodzić</lemma>
+    <lemma>spłodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>породить</lemma>
+    <lemma>зародить</lemma>
+    <lemma annotation="семя">заронить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>splodiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>poroditi</lemma>
+    <lemma>ustvariti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>родити</lemma>
+    <lemma>створити</lemma>
+    <lemma>оплодити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>породити</lemma>
+    <lemma>зародити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naskigos</lemma>
+    <lemma>generi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zeugen</lemma>
+    <lemma>hervorbringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwekken</lemma>
+  </synset>
+</multilingual-synset>

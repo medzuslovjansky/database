@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34757"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34757"
+      steen:pos="n.indecl."
+      steen:type="2"
+      steen:same="ru pl bm"
+    >
+      portmone
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>партманэнт</lemma>
+    <lemma>партманэ</lemma>
+    <lemma>партманетка</lemma>
+    <lemma>партаманет</lemma>
+    <lemma>кашалёк</lemma>
+    <lemma>гаманец</lemma>
+    <lemma>капшук</lemma>
+    <lemma>папернік</lemma>
+    <lemma>пулярэс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>портфейл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>peněženka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>novčanik</lemma>
+    <lemma>portafolj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>портмоне</lemma>
+    <lemma>паричник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>portmonetka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>портмоне</lemma>
+    <lemma>кошелёк</lemma>
+    <lemma>бумажник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>peňaženka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>denarnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>новчаник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>портмоне</lemma>
+    <lemma>гаманець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>monujo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brieftasche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>portemonnee</lemma>
+    <lemma>beurs</lemma>
+  </synset>
+</multilingual-synset>

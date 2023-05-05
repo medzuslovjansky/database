@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36836"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36836"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      sekunda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="муз. інтэрвал">секунда</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="музикален интервал">секунда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sekunda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sekunda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="музички интервал">секунда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sekunda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муз. интервал">секунда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sekunda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>drugi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="интервал у музици">секунда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="музичний інтервал">секунда</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>duto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="musikalisches Intervall">Sekunde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>secunde</lemma>
+  </synset>
+</multilingual-synset>

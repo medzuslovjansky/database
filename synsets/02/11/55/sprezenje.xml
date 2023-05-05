@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21155"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21155" steen:pos="n." steen:type="2" steen:same="ru sh">
+      spręžeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змяненне</lemma>
+    <lemma annotation="грам.">спражэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спряжение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spřažení</lemma>
+    <lemma>spojení</lemma>
+    <lemma annotation="gram.">časování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sprezanje</lemma>
+    <lemma>konjugacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="Во граматиката: група глаголи со исти форми на флексија">
+      конјугација
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koniugacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спряжение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>afinity</lemma>
+    <lemma>spojenie</lemma>
+    <lemma annotation="gram.">časovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>spreganje</lemma>
+    <lemma>konjugacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конјугација</lemma>
+    <lemma>промена глагола</lemma>
+    <lemma>глаголска флексија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відмінювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konjugacion</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Konjugation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervoeging</lemma>
+    <lemma>conjugatie</lemma>
+  </synset>
+</multilingual-synset>

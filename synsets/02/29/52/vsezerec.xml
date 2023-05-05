@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22952"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22952"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="z sh"
+    >
+      vsežerec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="існасць">усёедная істота</lemma>
+    <lemma annotation="існасць">усяедная істота</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>всеяд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>všežravec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svežder</lemma>
+    <lemma>svjejed</lemma>
+    <lemma>omnivor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сејад</lemma>
+    <lemma>сештојад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wszystkożerca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>всеядное существо</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>všežravec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svaštojedac</lemma>
+    <lemma>svežderac</lemma>
+    <lemma>omnivori</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сваштоједац</lemma>
+    <lemma>свеждерац</lemma>
+    <lemma>свеждер</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>всеїдна істота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉiomanĝanta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Omnivore</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>alleseter</lemma>
+    <lemma>omnivoor</lemma>
+  </synset>
+</multilingual-synset>

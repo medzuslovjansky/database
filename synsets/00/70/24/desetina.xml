@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7024"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7024"
+      steen:pos="num.fract."
+      steen:type="1"
+      steen:same="cs j"
+    >
+      desętina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адна дзесятая</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>една десета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>desetina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>desetina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>десетина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jedna dzięsiąta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одна десятая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>desatina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>deseti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>десетина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одна десята</lemma>
+    <lemma>десятина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dekono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zehntel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="breuk">tiende</lemma>
+  </synset>
+</multilingual-synset>

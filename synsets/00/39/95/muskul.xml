@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3995"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3995"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl sb bm"
+      steen:genesis="I"
+    >
+      muskul
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мускул</lemma>
+    <lemma>мышца</lemma>
+    <lemma>цягліца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мускул</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sval</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mišić</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мускул</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mięsień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мускул</lemma>
+    <lemma>мышца</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sval</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mišic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мишић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мускул</lemma>
+    <lemma>м&apos;яз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muskolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Muskel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spier</lemma>
+  </synset>
+</multilingual-synset>

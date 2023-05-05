@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12306"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12306" steen:pos="f." steen:type="1">slěpica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сляпая</lemma>
+    <lemma>невідушчая</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сляпа жена</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slepkyně</lemma>
+    <lemma>nevidomá</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>slepica</lemma>
+    <lemma>slijepa žena</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слепица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kobieta">ślepiec</lemma>
+    <lemma>niewidoma</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слепая</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>snevidiaca</lemma>
+    <lemma>slepaňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slepo dekle</lemma>
+    <lemma>slepa ženska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слепица</lemma>
+    <lemma>слепа жена</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="жінка">сліпа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>blinda virino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>blinde Frau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blinde vrouw</lemma>
+  </synset>
+</multilingual-synset>

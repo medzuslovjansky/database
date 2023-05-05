@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21205"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21205" steen:pos="m." steen:type="2" steen:same="z j">
+      vpad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уварванне</lemma>
+    <lemma>напад</lemma>
+    <lemma>набег</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нападение</lemma>
+    <lemma>нахлуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vpád</lemma>
+    <lemma>napadení</lemma>
+    <lemma>invaze</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>upad</lemma>
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>упад</lemma>
+    <lemma>напад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inwazja</lemma>
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вторжение</lemma>
+    <lemma>набег</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vpád</lemma>
+    <lemma>napadnutie</lemma>
+    <lemma>invázia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vnašanje</lemma>
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упад</lemma>
+    <lemma>напад</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вторгнення</lemma>
+    <lemma>набіг</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>invado</lemma>
+    <lemma>rastado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Invasion</lemma>
+    <lemma>Überfall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inval</lemma>
+    <lemma>invasie</lemma>
+  </synset>
+</multilingual-synset>

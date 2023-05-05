@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34913"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34913"
+      steen:addition="(plove)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="cs j"
+    >
+      pluti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на караблі">плыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Платно</lemma>
+    <lemma>отидете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plout</lemma>
+    <lemma>plavit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ploviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плови</lemma>
+    <lemma>плута</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="statek">płynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на корабле">плыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>plávať</lemma>
+    <lemma>plaviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jadrati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пловити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на кораблі">пливти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>velo</lemma>
+    <lemma>navigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Segel</lemma>
+    <lemma>navigieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>varen</lemma>
+  </synset>
+</multilingual-synset>

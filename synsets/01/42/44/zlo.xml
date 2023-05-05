@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14244"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14244"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v z sh mk"
+    >
+      zlo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дрэнна</lemma>
+    <lemma>блага</lemma>
+    <lemma>нягодна</lemma>
+    <lemma>млосна</lemma>
+    <lemma>па-дурному</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лошо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>špatně</lemma>
+    <lemma>zle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>loše</lemma>
+    <lemma>slabo</lemma>
+    <lemma>krivo</lemma>
+    <lemma>zlo</lemma>
+    <lemma>nevaljalo</lemma>
+    <lemma>pokvareno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лошо</lemma>
+    <lemma>зло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>źle</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плохо</lemma>
+    <lemma>дурно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zle</lemma>
+    <lemma>chýbne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slabo</lemma>
+    <lemma>zlo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лоше</lemma>
+    <lemma>зло</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>погано</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbone</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schlecht</lemma>
+    <lemma>falsch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slecht</lemma>
+  </synset>
+</multilingual-synset>

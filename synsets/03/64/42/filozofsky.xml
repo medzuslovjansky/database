@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36442"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36442"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      filozofsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>філасофскі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>философски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>filozofický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>filozofski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>филозофски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>filozoficzny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>философский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>filozofický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>filozofsko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>филозофски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>філософський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>filozofia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>philosophisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>filosofisch</lemma>
+  </synset>
+</multilingual-synset>

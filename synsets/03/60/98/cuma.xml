@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36098"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36098" steen:pos="f." steen:type="1" steen:same="v pl bm">
+      čuma
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чума</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чума</lemma>
+    <lemma>мор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kuga</lemma>
+    <lemma>morija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чума</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dżuma</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чума</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mor</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kuga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>куга</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чума</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="malsano">plagoj</lemma>
+    <lemma>pesto</lemma>
+    <lemma>Nigra Morto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Krankheit">Schädling</lemma>
+    <lemma>Pest</lemma>
+    <lemma>Black Death</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pest</lemma>
+    <lemma>zwarte dood</lemma>
+  </synset>
+</multilingual-synset>

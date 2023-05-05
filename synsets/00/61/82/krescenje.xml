@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6182"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6182" steen:pos="n." steen:type="1">krešćeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хрышчэнне</lemma>
+    <lemma>хрост</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кръщене</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křtění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krštenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крштевање</lemma>
+    <lemma>крстење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chrzest</lemma>
+    <lemma>ochrzczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>крещение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krstenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kršćenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крштење</lemma>
+    <lemma>кршћење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хрещення</lemma>
+    <lemma>хрестини</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bapto</lemma>
+    <lemma>baptado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>baptisement</lemma>
+    <lemma>taufe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doop</lemma>
+    <lemma>kerstening</lemma>
+  </synset>
+</multilingual-synset>

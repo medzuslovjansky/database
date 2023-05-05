@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26718"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26718" steen:pos="f." steen:type="1" steen:genesis="F">
+      korveta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="карабель">карвет</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вид кораб">корвета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korveta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korveta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид воен брод">корвета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korweta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="корабль">корвет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korveta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ladja">Corvette</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="брод">корвета</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корвет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>corbeta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Korvette</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>korvet</lemma>
+  </synset>
+</multilingual-synset>

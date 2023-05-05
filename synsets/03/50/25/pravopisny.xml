@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35025" steen:pos="adj." steen:type="1" steen:same="v cs j">
+      pravopisny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>правапісны</lemma>
+    <lemma>арфаграфічны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>орфографический</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravopisný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravopisni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>правописен</lemma>
+    <lemma>ортографски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ortograficzny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>орфографический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravopisný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravopisni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правописни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>орфографічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ortografiaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>orthographisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orthografisch</lemma>
+  </synset>
+</multilingual-synset>

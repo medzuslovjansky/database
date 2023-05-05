@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18619"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18619" steen:pos="v.tr. ipf." steen:type="1">
+      råzrěšati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вырашаць</lemma>
+    <lemma annotation="праблему">рашаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>уреди</lemma>
+    <lemma>уреди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řešit</lemma>
+    <lemma>rozhodovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>riješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>решава</lemma>
+    <lemma>разрешува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozstrzygać</lemma>
+    <lemma annotation="kwestię, problem">rozwiązywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>решать</lemma>
+    <lemma annotation="проблему">разрешать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>riešiť</lemma>
+    <lemma>rozhodovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rešiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вирішувати</lemma>
+    <lemma annotation="проблему">рішати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>decidon</lemma>
+    <lemma>elstarajxo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>lösen</lemma>
+    <lemma>siedeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oplossen</lemma>
+  </synset>
+</multilingual-synset>

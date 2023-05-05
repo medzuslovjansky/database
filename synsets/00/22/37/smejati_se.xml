@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2237"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2237"
+      steen:addition="(směje)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+    >
+      smějati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смяяцца</lemma>
+    <lemma>рагатаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>смях</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smát se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smijati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се смееш</lemma>
+    <lemma>се смеат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smiać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смеяться</lemma>
+    <lemma>хохотать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>smiať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smeh</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смејати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сміятися</lemma>
+    <lemma>реготати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lachen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lachen</lemma>
+  </synset>
+</multilingual-synset>

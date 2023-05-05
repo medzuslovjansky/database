@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17625"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17625" steen:pos="adj." steen:type="3">jednoznačny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адназначны</lemma>
+    <lemma>несумнеўны</lemma>
+    <lemma>безумоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>еднозначен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jednoznačný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jednoznačan</lemma>
+    <lemma>nedvosmislen</lemma>
+    <lemma>eksplicitan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>недвосмислен</lemma>
+    <lemma>јасен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jednoznaczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>однозначный</lemma>
+    <lemma>несомненный</lemma>
+    <lemma>безусловный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jednoznačný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Jasno</lemma>
+    <lemma>nedvoumna</lemma>
+    <lemma>nedvoumna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јасан</lemma>
+    <lemma>једнозначан</lemma>
+    <lemma>недвосмислен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>однозначний</lemma>
+    <lemma>недвозначий</lemma>
+    <lemma>чіткий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksplicita</lemma>
+    <lemma>unusenca</lemma>
+    <lemma>senduba</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>explizit</lemma>
+    <lemma>eindeutige</lemma>
+    <lemma>unmissverständliche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eenduidig</lemma>
+    <lemma>expliciet</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36164"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36164" steen:pos="m." steen:type="2" steen:same="cs">
+      krajec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лустачка</lemma>
+    <lemma>луста</lemma>
+    <lemma>акраец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>крайче</lemma>
+    <lemma annotation="хляб">резен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krajíc</lemma>
+    <lemma>skýva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kriška</lemma>
+    <lemma>šnita</lemma>
+    <lemma>feta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="леб">парче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kromka</lemma>
+    <lemma>pajda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ломтик</lemma>
+    <lemma>ломоть</lemma>
+    <lemma>краюха</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krajec</lemma>
+    <lemma>kúsok chleba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kos kruha)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="хлеба">кришка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>окраєць</lemma>
+    <lemma>окрайчик</lemma>
+    <lemma annotation="хліба">скибка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de pano">tranĉaĵon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Butterbrot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="brood">snee</lemma>
+    <lemma>boterham</lemma>
+  </synset>
+</multilingual-synset>

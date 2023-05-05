@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5793"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5793" steen:pos="f." steen:type="1">sȯtka</lemma>
+    <lemma steen:id="5793" steen:pos="f." steen:type="1">sȯtnja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сотня</lemma>
+    <lemma>сотка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="съществително">сто</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stȍtina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стотка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>setka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сотня</lemma>
+    <lemma>сотка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stovka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стотина</lemma>
+    <lemma>стотка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сотня</lemma>
+    <lemma>сотка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="substantivo">Cent</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Substantiv">Hundert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>honderd</lemma>
+    <lemma>honderdtal</lemma>
+  </synset>
+</multilingual-synset>

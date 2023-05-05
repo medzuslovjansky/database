@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23397"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23397"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cz sb sh bm"
+    >
+      vlivny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уплывовы</lemma>
+    <lemma>які ўплывае</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>влиятелен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlivný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>utjecajan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влијателен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wpływowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>влиятельный</lemma>
+    <lemma>влияющий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vplyvný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vpliven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утицајан</lemma>
+    <lemma>утецајан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>впливовий</lemma>
+    <lemma>впливаючий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>influa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einflussreich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invloedrijk</lemma>
+  </synset>
+</multilingual-synset>

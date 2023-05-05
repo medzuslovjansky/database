@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20790"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20790"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      usmŕtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>умярцвіць</lemma>
+    <lemma>змярцвіць</lemma>
+    <lemma>забіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>убие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>usmrtit</lemma>
+    <lemma>zabít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>usmrtiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>усмрти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uśmiercić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умертвить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>usmrtiť</lemma>
+    <lemma>zabiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kill</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>усмртити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>умертвити</lemma>
+    <lemma>омертвити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mortigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>töten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doden</lemma>
+    <lemma>doodmaken</lemma>
+  </synset>
+</multilingual-synset>

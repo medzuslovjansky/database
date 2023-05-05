@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31311"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31311"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs sl"
+      steen:genesis="F"
+    >
+      voliera
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>птушня</lemma>
+    <lemma annotation="зап.">птушнік</lemma>
+    <lemma>вальера</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клетка за птици</lemma>
+    <lemma>птича клетка</lemma>
+    <lemma>кафез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>voliéra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krletka</lemma>
+    <lemma>kavez za ptice</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кафез за птици</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ptaszarnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>птичник</lemma>
+    <lemma>вольер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>voliéra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ptičje kletke</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кавез за птице</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пташник</lemma>
+    <lemma>вольєр</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>birdejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Voliere</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volière</lemma>
+  </synset>
+</multilingual-synset>

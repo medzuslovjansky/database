@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16311"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16311"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      poet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паэт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>básník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pjesnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poeta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поэт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>básnik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pesnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>песник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poeto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dichter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dichter</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17511"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17511" steen:pos="n." steen:type="1">izčrkańje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкрэсліванне</lemma>
+    <lemma>выкасоўванне</lemma>
+    <lemma>закрэсліванне</lemma>
+    <lemma>закасоўванне</lemma>
+    <lemma>выдаленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изтриване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smazání</lemma>
+    <lemma>vymazání</lemma>
+    <lemma>vyškrtnutí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>brisanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избришување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skreślenie</lemma>
+    <lemma>wykreślenie</lemma>
+    <lemma>usunięcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вычёркивание</lemma>
+    <lemma>зачёркивание</lemma>
+    <lemma>удаление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmazanie</lemma>
+    <lemma>vymazanie</lemma>
+    <lemma>vyčiarknutie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>brisanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>брисање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викреслення</lemma>
+    <lemma>перекреслення</lemma>
+    <lemma>видалення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forigon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Streichung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwijdering</lemma>
+    <lemma>doorhaling</lemma>
+  </synset>
+</multilingual-synset>

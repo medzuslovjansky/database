@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20168"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20168"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cz bg"
+    >
+      sråvnimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>параўнальны</lemma>
+    <lemma>супастаўны</lemma>
+    <lemma>супараўнальны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сравни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srovnatelný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uporedljiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>споредливи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>porównywalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сравнимый</lemma>
+    <lemma>сопоставимый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>porovnateľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>primerljiva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упоредљив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>порівняний</lemma>
+    <lemma>співмірний</lemma>
+    <lemma>зрівнений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komparebla</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vergleichbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergelijkbaar</lemma>
+  </synset>
+</multilingual-synset>

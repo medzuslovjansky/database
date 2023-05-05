@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36250"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cs yu mk"
+    >
+      napajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сілкаваць</lemma>
+    <lemma>забяспечваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="с електричество">храни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="elekřinou">napájet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напојува</lemma>
+    <lemma annotation="струја">снабдува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zasilać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>питать</lemma>
+    <lemma annotation="электричеством">снабжать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="elektrinou">napájať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na voljo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="електрикою">живити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>potenco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Leistung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aandrijven</lemma>
+  </synset>
+</multilingual-synset>

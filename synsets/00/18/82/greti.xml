@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1882"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1882"
+      steen:addition="(grěje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      grěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грэць</lemma>
+    <lemma>абаграваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hřát</lemma>
+    <lemma>ohřívat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grzać</lemma>
+    <lemma>ogrzewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>греть</lemma>
+    <lemma>обогревать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hriať</lemma>
+    <lemma>ohrievať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>greti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грејати</lemma>
+    <lemma>огревати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гріти</lemma>
+    <lemma>обігрівати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varma</lemma>
+    <lemma>varmego</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>warm</lemma>
+    <lemma>Wärme</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwarmen</lemma>
+    <lemma>verhitten</lemma>
+  </synset>
+</multilingual-synset>

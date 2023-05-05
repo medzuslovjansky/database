@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15354"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15354"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="5"
+    >
+      jerbo za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з-за</lemma>
+    <lemma>праз</lemma>
+    <lemma>з прычыны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поради</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvůli</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zbog</lemma>
+    <lemma>budući da</lemma>
+    <lemma>zato što</lemma>
+    <lemma>zbog toga što</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бидејќи за</lemma>
+    <lemma>заради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z powodu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>из-за</lemma>
+    <lemma>по причине</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvôli</lemma>
+    <lemma>pre</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Djerbo za ustrezno Due</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јербо за</lemma>
+    <lemma>због</lemma>
+    <lemma>услед</lemma>
+    <lemma>заради тога</lemma>
+    <lemma>због тога што</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>через</lemma>
+    <lemma>з приводу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vanwege</lemma>
+    <lemma>wegens</lemma>
+  </synset>
+</multilingual-synset>

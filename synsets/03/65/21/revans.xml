@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36521"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36521"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      revanš
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэванш</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>реванш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odveta</lemma>
+    <lemma>revanš</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>revanš</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реванш</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rewanż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>реванш</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odveta</lemma>
+    <lemma>revanš</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>revanša</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>реванш</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>реванш</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sporto">venĝo</lemma>
+    <lemma>revanĉo</lemma>
+    <lemma>partio de rondveturo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Revanche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>revanche</lemma>
+  </synset>
+</multilingual-synset>

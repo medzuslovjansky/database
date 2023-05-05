@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29233"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29233" steen:pos="v.tr. pf." steen:type="1">
+      odsěděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="да канца">выседзець</lemma>
+    <lemma>адседзець</lemma>
+    <lemma>адсядзець</lemma>
+    <lemma>адбыць пакаранне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да седне</lemma>
+    <lemma annotation="оферта">да служи</lemma>
+    <lemma>за да направят време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odsedět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odsjediti</lemma>
+    <lemma>odležati</lemma>
+    <lemma>odslužiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одлежи</lemma>
+    <lemma>отслужи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odsiedzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="до конца">высидеть</lemma>
+    <lemma>отсидеть</lemma>
+    <lemma>отбыть наказание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odsedieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Čas je</lemma>
+    <lemma>da storijo</lemma>
+    <lemma>odrobijati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одседети</lemma>
+    <lemma>одробијати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="до кінця">висидіти</lemma>
+    <lemma>відсидіти</lemma>
+    <lemma>відбути покарання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sidi tra</lemma>
+    <lemma annotation="frazo">servi</lemma>
+    <lemma>do la tempo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sitzen durch</lemma>
+    <lemma annotation="ein Satz">dienen</lemma>
+    <lemma>tun Zeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitzitten</lemma>
+  </synset>
+</multilingual-synset>

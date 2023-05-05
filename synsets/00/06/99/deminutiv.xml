@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="699"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="699" steen:pos="m." steen:type="2" steen:genesis="I">
+      deminutiv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэмінутыў</lemma>
+    <lemma>памяншальна-ласкальная форма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>денуминатив</lemma>
+    <lemma>умалително</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>demunitiv</lemma>
+    <lemma>zdrobnělina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>deminutiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>деминутив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">zdrobnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>деминутив</lemma>
+    <lemma>уменьшительно-ласкательная форма</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zdrobnenina</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pomanjševalnica</lemma>
+    <lemma>manjšalnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>деминутив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>демінутив</lemma>
+    <lemma>зменшувальна форма</lemma>
+    <lemma>пестлива форма</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diminutivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>diminutiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkleinwoord</lemma>
+  </synset>
+</multilingual-synset>

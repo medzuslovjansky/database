@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36907"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36907" steen:pos="m." steen:type="2" steen:same="v bg">
+      vodosborny basen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ракі, вадаёма">басейн</lemma>
+    <lemma>вадазборны басейн</lemma>
+    <lemma>вадазбор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>водосбор</lemma>
+    <lemma>водосборен басейн</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>povodí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slijev</lemma>
+    <lemma>sliv</lemma>
+    <lemma>porječje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слив</lemma>
+    <lemma>речен слив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dorzecze</lemma>
+    <lemma>zlewnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="реки, водоёма">бассейн</lemma>
+    <lemma>водосборный бассейн</lemma>
+    <lemma>водосбор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>povodie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>porečje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>басейн річки</lemma>
+    <lemma>водозбірний басейн</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baseno</lemma>
+    <lemma>akvodislimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flusseinzugsgebiet</lemma>
+    <lemma>Wasserscheide</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waterscheiding</lemma>
+  </synset>
+</multilingual-synset>

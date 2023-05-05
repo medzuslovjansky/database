@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31360"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31360" steen:pos="m." steen:type="2" steen:same="be z">
+      vrěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>язва</lemma>
+    <lemma>болька</lemma>
+    <lemma>паморак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>язва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vřed</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>čir</lemma>
+    <lemma>prišt</lemma>
+    <lemma annotation="med.">grizlica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чир</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wrzód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>язва</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čir</lemma>
+    <lemma>mozolj</lemma>
+    <lemma annotation="med.">canker</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чир</lemma>
+    <lemma>пришт</lemma>
+    <lemma annotation="мед.">гризлица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виразка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ulcero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschwür</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zweer</lemma>
+  </synset>
+</multilingual-synset>

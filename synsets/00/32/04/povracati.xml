@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3204"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3204" steen:pos="v.ipf." steen:type="3" steen:same="ru">
+      povraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паварочваць</lemma>
+    <lemma>скіроўваць</lemma>
+    <lemma>заварочваць</lemma>
+    <lemma>пакручваць</lemma>
+    <lemma>паварочвацца</lemma>
+    <lemma>скіроўвацца</lemma>
+    <lemma>заварочвацца</lemma>
+    <lemma>пакручвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="тр./интр.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="se">vracet</lemma>
+    <lemma annotation="se">obracet</lemma>
+    <lemma annotation="se">navracet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okretati</lemma>
+    <lemma>obrtati</lemma>
+    <lemma>vrtjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врти</lemma>
+    <lemma>врти назад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powracać</lemma>
+    <lemma>zawracać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поворачивать</lemma>
+    <lemma>поворачиваться</lemma>
+    <lemma>разворачиваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="sa">vracať</lemma>
+    <lemma annotation="sa">obracať</lemma>
+    <lemma annotation="sa">navracať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtenje</lemma>
+    <lemma>vrtenje</lemma>
+    <lemma>vrtenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вртети</lemma>
+    <lemma>окретати</lemma>
+    <lemma>обртати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повертати</lemma>
+    <lemma>обертатися</lemma>
+    <lemma>розвертатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tr./intr.">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="tr./intr.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ronddraaien</lemma>
+  </synset>
+</multilingual-synset>

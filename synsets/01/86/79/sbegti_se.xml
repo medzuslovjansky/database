@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18679"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18679"
+      steen:addition="(sběži)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      sběgti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>супасці</lemma>
+    <lemma>сысціся</lemma>
+    <lemma>зысціся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съвпадат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shodnout se</lemma>
+    <lemma>seběhnout se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prikupiti se</lemma>
+    <lemma>skupiti se</lemma>
+    <lemma>zbeći</lemma>
+    <lemma>nagomilati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се совпаѓаат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbiec się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совпасть</lemma>
+    <lemma>сойтись</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zhodnúť sa</lemma>
+    <lemma>zbehnúť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Za zbiranje</lemma>
+    <lemma>zbrati</lemma>
+    <lemma>BECI</lemma>
+    <lemma>pile up</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прикупити се</lemma>
+    <lemma>скупити се</lemma>
+    <lemma>збећи</lemma>
+    <lemma>нагомилати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>збігтися</lemma>
+    <lemma>співпасти</lemma>
+    <lemma>зійтися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koincidas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>übereinstimmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenvallen</lemma>
+    <lemma>congruent zijn</lemma>
+  </synset>
+</multilingual-synset>

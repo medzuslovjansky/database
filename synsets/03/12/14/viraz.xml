@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31214"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31214"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="F"
+    >
+      viraž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віраж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вираж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatáčka</lemma>
+    <lemma>zákruta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okret</lemma>
+    <lemma>zaokret</lemma>
+    <lemma>viraž</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кривина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakręt</lemma>
+    <lemma>wiraż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вираж</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zákruta</lemma>
+    <lemma>zákruta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasuk</lemma>
+    <lemma>bend</lemma>
+    <lemma>viraž</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заокрет</lemma>
+    <lemma>кривина</lemma>
+    <lemma>вираж</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>віраж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kurbiĝon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Biege</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bocht</lemma>
+  </synset>
+</multilingual-synset>

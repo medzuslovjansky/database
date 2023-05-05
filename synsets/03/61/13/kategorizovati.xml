@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36113"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36113"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kategorizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>катэгарызаваць</lemma>
+    <lemma>класіфікаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подреждам</lemma>
+    <lemma>класифицирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kategorizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kategorizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>категоризира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kategoryzować</lemma>
+    <lemma>klasyfikować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>категоризовать</lemma>
+    <lemma>классифицировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kategorizovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kategorizirati</lemma>
+    <lemma>razvrstiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>категоризовати</lemma>
+    <lemma>класификовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>категоризувати</lemma>
+    <lemma>класифікувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kategoriigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einordnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>categoriseren</lemma>
+  </synset>
+</multilingual-synset>

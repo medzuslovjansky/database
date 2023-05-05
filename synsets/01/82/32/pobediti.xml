@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18232"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      poběditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перамагчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>conquest</lemma>
+    <lemma>triumph</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvítězit</lemma>
+    <lemma>dobýt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pobijediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>победи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwyciężyć</lemma>
+    <lemma annotation="np. kraj">podbić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>победить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvíťaziť</lemma>
+    <lemma>dobyť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmaga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>победити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перемогти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supervenkas triumfo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erobern</lemma>
+    <lemma>siegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overwinnen</lemma>
+  </synset>
+</multilingual-synset>

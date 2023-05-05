@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="217"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="217" steen:pos="conj." steen:type="1" steen:same="z">
+      než
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ніж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>než</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nego</lemma>
+    <lemma>no</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одколку</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="что-то">чем</lemma>
+    <lemma>нежели</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>než</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vendar ne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>него</lemma>
+    <lemma>но</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ніж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ol</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>als</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dan</lemma>
+  </synset>
+</multilingual-synset>

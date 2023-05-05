@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5637"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5637" steen:pos="n." steen:type="1" steen:same="v z j">
+      snižeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зніжэнне</lemma>
+    <lemma>паніжэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>снижение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>snížení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sniženje</lemma>
+    <lemma>snižavanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снижение</lemma>
+    <lemma>намаление</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obniżenie</lemma>
+    <lemma annotation="ceny">promocja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снижение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zníženie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmanjševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снижење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зниження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>redukto</lemma>
+    <lemma>malsupren lasante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Preisnachlass</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="prijs">korting</lemma>
+  </synset>
+</multilingual-synset>

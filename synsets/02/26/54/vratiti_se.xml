@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22654"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22654"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru be z j"
+    >
+      vråtiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вярнуцца</lemma>
+    <lemma>павяртацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>върна се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrátit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vratiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се врати</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wrócić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вернуться</lemma>
+    <lemma>возвратиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vrátiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pridi nazaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вратити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>повернутися</lemma>
+    <lemma>повернутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reiri</lemma>
+    <lemma>reveni</lemma>
+    <lemma annotation="intr.">reveno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gehen zurück</lemma>
+    <lemma>komm zurück</lemma>
+    <lemma annotation="intr.">Rückkehr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teruggaan</lemma>
+    <lemma>terugkomen</lemma>
+  </synset>
+</multilingual-synset>

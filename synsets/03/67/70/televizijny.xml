@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36770"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36770"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      televizijny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэлевізійны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>телевизионен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>televizní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>televizijski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>телевизиски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>telewizyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>телевизионный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>televízny</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>televizijski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>телевизијски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>телевізійний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>televido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fernsehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>televisie-</lemma>
+  </synset>
+</multilingual-synset>

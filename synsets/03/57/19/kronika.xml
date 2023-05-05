@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35719"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35719"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kronika
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хроніка</lemma>
+    <lemma>летапіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хроника</lemma>
+    <lemma>летопис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kronika</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kronika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хроника</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kronika</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хроника</lemma>
+    <lemma>летопись</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kronika</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kronika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хроника</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хроніка</lemma>
+    <lemma>літопис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kroniko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Chronik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kroniek</lemma>
+  </synset>
+</multilingual-synset>

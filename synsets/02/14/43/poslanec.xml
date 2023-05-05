@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21443"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21443" steen:pos="m.anim." steen:type="1">poslanec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасланец</lemma>
+    <lemma>пасланнік</lemma>
+    <lemma>вястун</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>посланик</lemma>
+    <lemma>пратеник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>posel</lemma>
+    <lemma>vyslanec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izaslanik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гласник</lemma>
+    <lemma>пратеник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>posłaniec</lemma>
+    <lemma>wysłannik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посланец</lemma>
+    <lemma>посланник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posol</lemma>
+    <lemma>vyslanec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glasnik</lemma>
+    <lemma>odposlanec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гласник</lemma>
+    <lemma>изасланик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посланець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mesaĝisto</lemma>
+    <lemma>sendita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bote</lemma>
+    <lemma>Abgesandter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezant</lemma>
+  </synset>
+</multilingual-synset>

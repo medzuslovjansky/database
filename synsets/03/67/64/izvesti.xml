@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36764"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36764"
+      steen:addition="(izvede)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izvesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="штосьці">вывесці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="от нещо">изведа</lemma>
+    <lemma>заключа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyvodit</lemma>
+    <lemma>odvodit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvesti</lemma>
+    <lemma>utvrditi</lemma>
+    <lemma>zaključiti</lemma>
+    <lemma>deducirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изведе</lemma>
+    <lemma>заклучи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="coś z czegoś">wywieść</lemma>
+    <lemma>wydedukować</lemma>
+    <lemma>wywnioskować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="что-либо из чего-либо">вывести</lemma>
+    <lemma>сделать вывод</lemma>
+    <lemma>заключить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyvodiť</lemma>
+    <lemma>odvodiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odstranite skleniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извести</lemma>
+    <lemma>закључити</lemma>
+    <lemma>утврдити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="що-небудь з чого-небудь">вивести</lemma>
+    <lemma>зробити висновок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Derivas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ableiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naar buiten leiden</lemma>
+    <lemma>uit … helpen</lemma>
+  </synset>
+</multilingual-synset>

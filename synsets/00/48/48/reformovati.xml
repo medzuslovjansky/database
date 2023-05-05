@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4848"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4848"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      reformovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэфармаваць</lemma>
+    <lemma>зрэфармаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>реформа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>reformovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>reformirati</lemma>
+    <lemma>preuredavati</lemma>
+    <lemma>obnavljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реформира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reformować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>реформировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>reformovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Prenovljeni preuredavati</lemma>
+    <lemma>obnovljeni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>реформирати</lemma>
+    <lemma>преуредавати</lemma>
+    <lemma>обнављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>реформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reformo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reform</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hervormen</lemma>
+  </synset>
+</multilingual-synset>

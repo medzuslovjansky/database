@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32459"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32459"
+      steen:addition="(odzȯve)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      odzvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адазваць</lemma>
+    <lemma>адклікаць</lemma>
+    <lemma>адгукаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се оттегли</lemma>
+    <lemma>да се обадят</lemma>
+    <lemma annotation="например в офиса">да напомня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvolat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opozvati</lemma>
+    <lemma>povući</lemma>
+    <lemma>poništiti</lemma>
+    <lemma>ukinuti</lemma>
+    <lemma>dokinuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одзва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. projekt">wycofać</lemma>
+    <lemma annotation="np. z urzędu">odwołać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отозвать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvolať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. odločbe">upora</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. одлуку">повући</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відкликати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>retiri</lemma>
+    <lemma>alvoko dorso</lemma>
+    <lemma annotation="ekz de oficejo">revokon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zurückziehen</lemma>
+    <lemma>Rückruf</lemma>
+    <lemma annotation="z aus dem Amt">Rückruf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugroepen</lemma>
+    <lemma>herroepen</lemma>
+    <lemma>intrekken</lemma>
+  </synset>
+</multilingual-synset>

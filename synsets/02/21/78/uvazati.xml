@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22178"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22178"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      uvažati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разглядаць</lemma>
+    <lemma>разгледжваць</lemma>
+    <lemma>улічваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>помислете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvažovat</lemma>
+    <lemma>zvažovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uzeti u obzir</lemma>
+    <lemma>primiti k znanju</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уважува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uważać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассматривать</lemma>
+    <lemma>учитывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uvažovať</lemma>
+    <lemma>zvažovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>menijo</lemma>
+    <lemma>da potrdi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уважити</lemma>
+    <lemma>узети у обзир</lemma>
+    <lemma>примити к знању</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>розглядати</lemma>
+    <lemma>враховувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>consider</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erwägen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="als">beschouwen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32573"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32573" steen:pos="f." steen:type="3" steen:same="v">
+      klička
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мянушка</lemma>
+    <lemma>псеўданім</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>прозвище</lemma>
+    <lemma>псевдоним</lemma>
+    <lemma>прякор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přezdívka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadimak</lemma>
+    <lemma>ime od milja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>алијас</lemma>
+    <lemma>прекар</lemma>
+    <lemma annotation="на пр. на куче">име</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ksywka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кличка</lemma>
+    <lemma>псевдоним</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prezývka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vzdevek</lemma>
+    <lemma>ime Endearment</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надимак</lemma>
+    <lemma>име од милоште</lemma>
+    <lemma>име од миља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прізвисько</lemma>
+    <lemma>псевдонім</lemma>
+    <lemma annotation="тварини">кличка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alias</lemma>
+    <lemma>kromnomon</lemma>
+    <lemma annotation="ekz-e de hundo">nomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>alias</lemma>
+    <lemma>Spitzname</lemma>
+    <lemma annotation="z.B. ein Hund">Name</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijnaam</lemma>
+    <lemma>schuilnaam</lemma>
+  </synset>
+</multilingual-synset>

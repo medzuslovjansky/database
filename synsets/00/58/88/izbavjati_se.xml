@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5888"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5888"
+      steen:addition="(+2)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+    >
+      izbavjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазбаўляцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избавям се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbavovat se</lemma>
+    <lemma>odstraňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rješavati se</lemma>
+    <lemma>oslobađati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се избави</lemma>
+    <lemma>се ослободи</lemma>
+    <lemma>се спаси</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozbywać się</lemma>
+    <lemma>usuwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>избавляться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbavovať sa</lemma>
+    <lemma>odstraňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>so odločene</lemma>
+    <lemma annotation="nekaj">je treba dostaviti do</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решавати се</lemma>
+    <lemma annotation="нечега">ослобађати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позбавлятися</lemma>
+    <lemma>звільнятися від</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>forigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>loszuwerden</lemma>
+    <lemma>entfernen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich ontdoen van</lemma>
+  </synset>
+</multilingual-synset>

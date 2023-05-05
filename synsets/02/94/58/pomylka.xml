@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29458"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29458" steen:pos="f." steen:type="3" steen:same="pl">
+      pomylka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памылка</lemma>
+    <lemma>абмыла</lemma>
+    <lemma>хіба</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chyba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>greška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomyłka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ошибка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chyba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napaka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помилка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eraro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fehler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergissing</lemma>
+  </synset>
+</multilingual-synset>

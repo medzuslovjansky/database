@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22208" steen:pos="m." steen:type="2" steen:same="cs hr">
+      vodič
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="фіз.">праваднік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="физика">проводник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="fyzika">vodič</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodič</lemma>
+    <lemma>konduktor</lemma>
+    <lemma>sprovodnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="физика">проводник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="fiz.">przewodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="физ.">проводник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="fyzika">vodič</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="fiz.">prevodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="физ.">проводник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="физ.">провідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="Phys.">dirigento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Phys.">Leiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geleider</lemma>
+  </synset>
+</multilingual-synset>

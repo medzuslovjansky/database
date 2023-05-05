@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2564"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2564" steen:pos="m.anim." steen:type="1">karaś</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карась</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шаран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>karas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>karas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид риба слична на крап">караш</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karaś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>карась</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>karas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="riba">koreselj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="риба">караш</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>карась</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="karpo">crucian</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karpfen">crucian</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kroeskarper</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34035"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34035"
+      steen:pos="#v.intr. ipf."
+      steen:type="1"
+      steen:same="v z yu mk"
+    >
+      tȯptati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тупаць</lemma>
+    <lemma>цюпаць</lemma>
+    <lemma>чэпаць</lemma>
+    <lemma>гопаць</lemma>
+    <lemma>тэпаць</lemma>
+    <lemma>таптаць</lemma>
+    <lemma>дратаваць</lemma>
+    <lemma>капыціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настъпвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dupat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тапка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>deptać</lemma>
+    <lemma>tratować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>топать</lemma>
+    <lemma>топтать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dupať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tekalne plasti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>газити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>тупати</lemma>
+    <lemma>топтати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ies piedoj">poŝtmarkoj</lemma>
+    <lemma>premu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="die Füße">Stempel</lemma>
+    <lemma>niedertrampeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stampen</lemma>
+    <lemma>trappelen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33210"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33210" steen:pos="f." steen:type="2" steen:same="v bg">
+      gramota
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грамата</lemma>
+    <lemma>акт</lemma>
+    <lemma>афіцыйны дакумент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>акт</lemma>
+    <lemma>харта</lemma>
+    <lemma>грамота</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>listina</lemma>
+    <lemma>úřední dokument</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spis</lemma>
+    <lemma>akt</lemma>
+    <lemma>dokument</lemma>
+    <lemma>isprava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благодарница</lemma>
+    <lemma>службен документ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akt</lemma>
+    <lemma>karta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грамота</lemma>
+    <lemma>акт</lemma>
+    <lemma>официальный документ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>listina</lemma>
+    <lemma>oficiálny dokument</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zakon datotek uradni dokumenti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>акт</lemma>
+    <lemma>спис</lemma>
+    <lemma>званични документи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грамота</lemma>
+    <lemma>хартія</lemma>
+    <lemma>акт</lemma>
+    <lemma>статут</lemma>
+    <lemma>офіційний документ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>faro</lemma>
+    <lemma>ĉarto</lemma>
+    <lemma>oficiala dokumento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Urkunde</lemma>
+    <lemma>Charter</lemma>
+    <lemma>amtliches Dokument</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handvest</lemma>
+    <lemma>oorkonde</lemma>
+    <lemma>akte</lemma>
+  </synset>
+</multilingual-synset>

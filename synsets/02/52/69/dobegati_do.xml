@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25269"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25269"
+      steen:addition="(+2)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      doběgati do
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дабягаць да</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дотичвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dobíhat do</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postići</lemma>
+    <lemma>doseći</lemma>
+    <lemma>dosegnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стига до</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dobiegać do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>добегать до</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dobiehať do</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Dobec</lemma>
+    <lemma>da</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>добећи до</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>добігати до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per kurado">atingi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Laufen">erreichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="door te rennen">bereiken</lemma>
+  </synset>
+</multilingual-synset>

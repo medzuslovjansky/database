@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10739"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10739"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+    >
+      podȯlg
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паводле</lemma>
+    <lemma>згодна</lemma>
+    <lemma>у адпаведнасці з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>според</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podle</lemma>
+    <lemma>dle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prema</lemma>
+    <lemma>s obzirom na</lemma>
+    <lemma>po</lemma>
+    <lemma>shodno</lemma>
+    <lemma>u skladu s</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>според</lemma>
+    <lemma>во склад со</lemma>
+    <lemma>соодветно со</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>według</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>согласно</lemma>
+    <lemma>в соответствии с</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podľa</lemma>
+    <lemma>podľa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>po katerem</lemma>
+    <lemma>ko</lemma>
+    <lemma>po katerem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>према</lemma>
+    <lemma>по</lemma>
+    <lemma>сходно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>згідно</lemma>
+    <lemma>за</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>laŭ</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>gemäß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volgens</lemma>
+  </synset>
+</multilingual-synset>

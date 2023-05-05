@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33816"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33816"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="sk yu mk"
+    >
+      nenasytnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абжора</lemma>
+    <lemma>пражора</lemma>
+    <lemma>прожар</lemma>
+    <lemma>доргала</lemma>
+    <lemma>жлукта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ненаситник</lemma>
+    <lemma>лакомник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nenasyta</lemma>
+    <lemma>žrout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nezasitnik</lemma>
+    <lemma>izjelica</lemma>
+    <lemma>proždrljivac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ненаситник</lemma>
+    <lemma>лакомец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żarłok</lemma>
+    <lemma>obżerca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обжора</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nenásytný</lemma>
+    <lemma>žrút</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nenasiten</lemma>
+    <lemma>obsesivna</lemma>
+    <lemma>nenasitna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ненасит</lemma>
+    <lemma>прождрљив</lemma>
+    <lemma>незасит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ненажера</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>manĝegulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vielfraß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veelvraat</lemma>
+  </synset>
+</multilingual-synset>

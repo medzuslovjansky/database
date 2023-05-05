@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14117"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14117"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+    >
+      zaměsto
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замест</lemma>
+    <lemma>заміж</lemma>
+    <lemma>наўзамен</lemma>
+    <lemma>заместа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вместо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>namísto</lemma>
+    <lemma>místo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umjesto</lemma>
+    <lemma>namjesto</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наместо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamiast</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вместо</lemma>
+    <lemma>взамен</lemma>
+    <lemma>заместо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>namiesto</lemma>
+    <lemma>miesto</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namesto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уместо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>замість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anstataŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anstatt von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in plaats van</lemma>
+  </synset>
+</multilingual-synset>

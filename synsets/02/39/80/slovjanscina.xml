@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23980"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23980" steen:pos="f.sg." steen:type="2" steen:same="v pl">
+      Slovjanščina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>Славяншчына</lemma>
+    <lemma annotation="славянскія землі">Славія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="славянски земи">Славия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="slovanské země">Slavie</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="slavenske zemlje">Slavija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="словенски земји">Славјанска</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ziemie słowiańskie">Słowiańszczyzna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>Славянщина</lemma>
+    <lemma annotation="славянские земли">Славия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="slovanské krajiny">Slavia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slovenska zemlja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="словенске земље">Славија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="слов&apos;янські землі">Слов&apos;янщина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Slavia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Slavia</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Slavië</lemma>
+  </synset>
+</multilingual-synset>

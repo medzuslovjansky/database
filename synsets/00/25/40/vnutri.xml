@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2540"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2540"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      vnųtri
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>унутры</lemma>
+    <lemma>усярэдзіне</lemma>
+    <lemma>у</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вътре</lemma>
+    <lemma>в</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvnitř</lemma>
+    <lemma>v</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>unutar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>внатре</lemma>
+    <lemma>во</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wewnątrz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>внутри</lemma>
+    <lemma>в</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vnútri</lemma>
+    <lemma>v</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znotraj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>унутар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>усередині</lemma>
+    <lemma>в</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ene</lemma>
+    <lemma>ene</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nach innen</lemma>
+    <lemma>innerhalb</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>binnen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36069"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36069"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pomelo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памэла</lemma>
+    <lemma>шэдак</lemma>
+    <lemma>шэдакі</lemma>
+    <lemma>пампельмус</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>pomelo</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomelo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomelo</lemma>
+    <lemma>šedok</lemma>
+    <lemma>čadek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид тропско овошје">помело</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomelo</lemma>
+    <lemma>pompela</lemma>
+    <lemma>pomarańcza olbrzymia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помело</lemma>
+    <lemma>помпельмус</lemma>
+    <lemma annotation="фрукт">шеддок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pomelo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="sadje">pomelo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="воће">помело</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помело</lemma>
+    <lemma>помпельмус</lemma>
+    <lemma annotation="фрукт">шеддок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pampelmuso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pomelo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pompelmoes</lemma>
+  </synset>
+</multilingual-synset>

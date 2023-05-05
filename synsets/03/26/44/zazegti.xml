@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32644"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32644"
+      steen:addition="(zažže)"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="yu mk"
+    >
+      zažegti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падпаліць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запаля</lemma>
+    <lemma>подпаля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapálit</lemma>
+    <lemma>zažehnout</lemma>
+    <lemma annotation="oheň">rozdělat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potpaliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потпали</lemma>
+    <lemma>запали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podpalić</lemma>
+    <lemma>podłożyć ogień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поджечь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapáliť</lemma>
+    <lemma>zažať</lemma>
+    <lemma annotation="oheň">rozložiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vžgati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потпалити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>підпалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flamigis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anzünden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in brand steken</lemma>
+  </synset>
+</multilingual-synset>

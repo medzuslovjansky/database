@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1439"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1439" steen:pos="m.anim." steen:type="1">svinovod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свінар</lemma>
+    <lemma annotation="зап.">свінагадовец</lemma>
+    <lemma annotation="зап.">свінавод</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>фермер прасе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chovatel prasat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svinjar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свињар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>hodowca świń</lemma>
+    <lemma>świniarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свиновод</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>chovateľ ošípaných</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>swineherd</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свињар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свинар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porko farmisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schweinebauer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>varkensboer</lemma>
+  </synset>
+</multilingual-synset>

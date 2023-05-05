@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23887"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23887"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      osvědomiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даведацца</lemma>
+    <lemma>паведаміцца</lemma>
+    <lemma>запытацца</lemma>
+    <lemma>інфармавацца</lemma>
+    <lemma>спытаць</lemma>
+    <lemma>папытацца</lemma>
+    <lemma>запытаць</lemma>
+    <lemma>спытацца</lemma>
+    <lemma>папытаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>научите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotázat se</lemma>
+    <lemma>informovat se</lemma>
+    <lemma>zjistit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osvjedočiti se</lemma>
+    <lemma>informirati se</lemma>
+    <lemma>raspitati se</lemma>
+    <lemma>uvjeriti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се увери</lemma>
+    <lemma>се распраша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dowiedzieć się</lemma>
+    <lemma>uświadomić sobie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осведомиться</lemma>
+    <lemma>спросить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opýtať sa</lemma>
+    <lemma>informovať sa</lemma>
+    <lemma>zistiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Če želite vedeti</lemma>
+    <lemma>razumeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сазнати</lemma>
+    <lemma>схватити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довідатися</lemma>
+    <lemma>запитати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esploros</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anfragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vernemen</lemma>
+    <lemma>zich realiseren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2104"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2104"
+      steen:addition="(ide; šel)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      idti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ісці</lemma>
+    <lemma>йсці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>идвам</lemma>
+    <lemma>ида</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ići</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>иде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>iść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>идти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>go</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ићи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>йти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>go</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>gehen</lemma>
+    <lemma>laufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gaan</lemma>
+    <lemma>lopen</lemma>
+  </synset>
+</multilingual-synset>

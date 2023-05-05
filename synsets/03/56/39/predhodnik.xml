@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35639"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35639"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cs yu mk"
+    >
+      prědhodnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэднік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предшественик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předchůdce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prethodnik</lemma>
+    <lemma>predšasnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претходник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprzednik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предшественник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predchodca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predhodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претходник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>попередник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vorgänger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorloper</lemma>
+  </synset>
+</multilingual-synset>

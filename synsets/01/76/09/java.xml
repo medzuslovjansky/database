@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17609" steen:pos="f." steen:type="1" steen:same="ru pl sh">
+      java
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ява</lemma>
+    <lemma>рэальнасць</lemma>
+    <lemma>рэчаіснасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>реалност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>realita</lemma>
+    <lemma>skutečnost</lemma>
+    <lemma>jev</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>java</lemma>
+    <lemma>realnost</lemma>
+    <lemma>zbilja</lemma>
+    <lemma>stvarnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јаве</lemma>
+    <lemma>реалност</lemma>
+    <lemma>стварност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jawa</lemma>
+    <lemma>rzeczywistość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>явь</lemma>
+    <lemma>реальность</lemma>
+    <lemma>действительность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>realita</lemma>
+    <lemma>skutočnosť</lemma>
+    <lemma>jav</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>java</lemma>
+    <lemma>realnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јава</lemma>
+    <lemma>стварност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>реальність</lemma>
+    <lemma>ява</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>realaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wirklichkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werkelijkheid</lemma>
+  </synset>
+</multilingual-synset>

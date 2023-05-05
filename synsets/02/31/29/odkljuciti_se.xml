@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23129"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23129" steen:pos="v.refl. pf." steen:type="1">
+      odključiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адключыцца</lemma>
+    <lemma>адлучыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">изключете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpojit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isključiti se</lemma>
+    <lemma>ugasiti se</lemma>
+    <lemma annotation="se">zgasnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се исклучи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozłączyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отключиться</lemma>
+    <lemma>отсоединиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpojiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izključen</lemma>
+    <lemma annotation="z nečim">se prekine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искључити се</lemma>
+    <lemma annotation="са нечим">прекинути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відключитися</lemma>
+    <lemma>від&apos;єднатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">malkonekti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">disconnect</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>de verbinding verbreken</lemma>
+  </synset>
+</multilingual-synset>

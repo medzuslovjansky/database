@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36055"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36055"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="cs hsb yu cu"
+    >
+      opica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>малпа</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Маймуна</lemma>
+    <lemma>Маймуна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opice</lemma>
+    <lemma>lidoop</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>majmun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мајмун</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>małpa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обезьяна</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opica</lemma>
+    <lemma>ľudoop</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мајмун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мавпа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>simio</lemma>
+    <lemma>simion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Affe</lemma>
+    <lemma>Affe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aap</lemma>
+  </synset>
+</multilingual-synset>

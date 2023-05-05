@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22082"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22082"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      proiztěkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паходзіць</lemma>
+    <lemma>вынікаць</lemma>
+    <lemma>ісці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="с">изход</lemma>
+    <lemma annotation="с">извор на напрежение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplývat</lemma>
+    <lemma>plynout</lemma>
+    <lemma>mít za následek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proizticati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потекнува</lemma>
+    <lemma>произлегува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynikać z</lemma>
+    <lemma>wypływać z</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проистекать</lemma>
+    <lemma>следовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyplývať</lemma>
+    <lemma>plynúť</lemma>
+    <lemma>mať za následok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizticati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>произтицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виникати</lemma>
+    <lemma>випливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de">rezulti</lemma>
+    <lemma annotation="de">printempo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="aus">Ergebnis</lemma>
+    <lemma annotation="von">die Feder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="uit">voortvloeien</lemma>
+  </synset>
+</multilingual-synset>

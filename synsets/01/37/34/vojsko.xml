@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13734"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13734" steen:pos="n." steen:type="1">vojsko</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>войска</lemma>
+    <lemma>армія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>войска</lemma>
+    <lemma>армия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojsko</lemma>
+    <lemma>armáda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vojska</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>војска</lemma>
+    <lemma>армија</lemma>
+    <lemma>воени сили</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wojsko</lemma>
+    <lemma>armia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>войско</lemma>
+    <lemma>армия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vojsko</lemma>
+    <lemma>armáda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vojska</lemma>
+    <lemma>vojska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>војска</lemma>
+    <lemma>армија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>військо</lemma>
+    <lemma>армія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>armeo</lemma>
+    <lemma annotation="armeo">forto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Armee</lemma>
+    <lemma annotation="Armee">Kraft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leger</lemma>
+  </synset>
+</multilingual-synset>

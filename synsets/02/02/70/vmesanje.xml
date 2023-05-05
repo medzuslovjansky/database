@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20270" steen:pos="n." steen:type="1">vměšańje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>умяшанне</lemma>
+    <lemma>умешванне</lemma>
+    <lemma>замешванне</lemma>
+    <lemma>інтэрвенцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>намеса</lemma>
+    <lemma>вмешателство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>intervence</lemma>
+    <lemma>vměšování</lemma>
+    <lemma>rušení</lemma>
+    <lemma>zasahování</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>intervencija</lemma>
+    <lemma annotation="policijska, vojna">akcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вмешување</lemma>
+    <lemma>мешање</lemma>
+    <lemma>интервенција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>interwencja</lemma>
+    <lemma>wmieszanie</lemma>
+    <lemma>ingerencja</lemma>
+    <lemma>wtrącanie się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вмешательство</lemma>
+    <lemma>интервенция</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>intervencie</lemma>
+    <lemma>zasahovanie</lemma>
+    <lemma>rušenie</lemma>
+    <lemma>zasahovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="policija, vojska">intervencije dejanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интервенција</lemma>
+    <lemma annotation="полицијска, војна">акција</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>втручання</lemma>
+    <lemma>інтервенція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interveno</lemma>
+    <lemma>enmiksiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Intervention</lemma>
+    <lemma>Einmischung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interventie</lemma>
+    <lemma>bemoeienis</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22081"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22081" steen:pos="m." steen:type="2" steen:same="ru cz">
+      pritok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыток</lemma>
+    <lemma>наплыў</lemma>
+    <lemma>нарасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>притока на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přítok</lemma>
+    <lemma>nával</lemma>
+    <lemma annotation="lidí, emocí">příliv</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>priljev</lemma>
+    <lemma>dotok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилив</lemma>
+    <lemma>наплив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приток</lemma>
+    <lemma>наплыв</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prítok</lemma>
+    <lemma>nával</lemma>
+    <lemma annotation="ľudí, emócií">príliv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priliv</lemma>
+    <lemma>prepustnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прилив</lemma>
+    <lemma>доток</lemma>
+    <lemma>!приљев</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наплив</lemma>
+    <lemma>натік</lemma>
+    <lemma>приплив</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enfluo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zustrom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevloed</lemma>
+  </synset>
+</multilingual-synset>

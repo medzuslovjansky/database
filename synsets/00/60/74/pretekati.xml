@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6074" steen:pos="v.intr. ipf." steen:type="1">
+      prětěkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перацякаць</lemma>
+    <lemma>пералівацца</lemma>
+    <lemma>вылівацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>препълване</lemma>
+    <lemma>пренасяне на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přetékat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prelijevati</lemma>
+    <lemma>curiti</lemma>
+    <lemma>izlijevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претекува</lemma>
+    <lemma>прелева</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeciekać</lemma>
+    <lemma>wycieckać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перетекать</lemma>
+    <lemma>переливаться</lemma>
+    <lemma>выливаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pretekať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razlitje</lemma>
+    <lemma>puščanje</lemma>
+    <lemma>flush</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преливати</lemma>
+    <lemma>прелевати</lemma>
+    <lemma>цурити</lemma>
+    <lemma>изливати</lemma>
+    <lemma>излевати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетікати</lemma>
+    <lemma>переливатися</lemma>
+    <lemma>виливатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>overflow</lemma>
+    <lemma>fluas super</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Überlauf</lemma>
+    <lemma>fließen über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vloeistof">overlopen</lemma>
+  </synset>
+</multilingual-synset>

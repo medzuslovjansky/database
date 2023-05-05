@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22080"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22080" steen:pos="m." steen:type="2" steen:same="ru cz sh">
+      pritok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ракі">прыток</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="река">притока на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="řeky">přítok</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pritoka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="река">притока</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rzeki">dopływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="реки">приток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="rieky">prítok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>притока</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="річки">притока</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rivero">alfluanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fluss">Nebenfluss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zijrivier</lemma>
+  </synset>
+</multilingual-synset>

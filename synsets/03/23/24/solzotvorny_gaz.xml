@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32324"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32324" steen:pos="m." steen:type="1">
+      sȯlzotvorny gaz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слезацечны газ</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сълзотворен газ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slzný plyn</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>suzavac</lemma>
+    <lemma>lakrimogen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>солзавец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gaz łzawiący</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слезоточивый газ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slzný plyn</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="boj plin">solzivec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="бојни гас">сузавац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сльозогінний газ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>larmigan gason</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tränengas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>traangas</lemma>
+  </synset>
+</multilingual-synset>

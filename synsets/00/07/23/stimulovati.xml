@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="723"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="723"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      stimulovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стымуляваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стимулира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stimulovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stimulirati</lemma>
+    <lemma>poticati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се стимулира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stymulować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стимулировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stimulovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spodbujanje</lemma>
+    <lemma>pospeševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стимулисати</lemma>
+    <lemma>подстицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стимулювати</lemma>
+    <lemma>заохочувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stimulas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stimulieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stimuleren</lemma>
+    <lemma>prikkelen</lemma>
+  </synset>
+</multilingual-synset>

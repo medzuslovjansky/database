@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35570"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35570"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v sh bm"
+    >
+      fabrikant
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фабрыкант</lemma>
+    <lemma>прамысловец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фабрикант</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>továrník</lemma>
+    <lemma>průmyslník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tvorničar</lemma>
+    <lemma>fabrikant</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фабрикант</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fabrykant</lemma>
+    <lemma>producent</lemma>
+    <lemma>wytwórca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фабрикант</lemma>
+    <lemma>промышленник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>továrnik</lemma>
+    <lemma>fabrikant</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizvajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фабрикант</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фабрикант</lemma>
+    <lemma>мануфактурник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Fabrikejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hersteller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fabrikant</lemma>
+  </synset>
+</multilingual-synset>

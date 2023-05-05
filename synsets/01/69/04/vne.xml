@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16904"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16904"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="ru"
+    >
+      vně
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па-за</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извън</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vně</lemma>
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izvan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вон</lemma>
+    <lemma>надвор од</lemma>
+    <lemma>надворешно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вне</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvonka</lemma>
+    <lemma>mimo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zunaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изван</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зовні</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekster</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>außerhalb</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buiten</lemma>
+  </synset>
+</multilingual-synset>

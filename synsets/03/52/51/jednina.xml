@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35251" steen:pos="f." steen:type="2" steen:same="uk yu mk">
+      jednina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзіночны лік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>единствен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jednotné číslo</lemma>
+    <lemma>singular</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jednina</lemma>
+    <lemma>singular</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еднина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>liczba pojedyncza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>единственное число</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jednotné číslo</lemma>
+    <lemma>singular</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>singular</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једнина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>однина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unuopa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Singular</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enkelvoud</lemma>
+  </synset>
+</multilingual-synset>

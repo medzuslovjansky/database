@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21472"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21472"
+      steen:addition="(prilěti)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      priletěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыляцець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в полет">да дойдат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přiletět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>doletjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прелета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przylecieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прилететь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priletieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>letenje v</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>долетети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прилетіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per flugantaj">alveni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von Fliegen">ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma annotation="door de lucht">arriveren</lemma>
+    <lemma>aanvliegen</lemma>
+  </synset>
+</multilingual-synset>

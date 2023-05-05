@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4148"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4148" steen:pos="f." steen:type="1" steen:genesis="D">
+      vintovka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вінтоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пушка</lemma>
+    <lemma>винтовка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>puška</lemma>
+    <lemma>kulovnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>puška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пушка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gwintówka</lemma>
+    <lemma>strzelba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>винтовка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>puška</lemma>
+    <lemma>guľovnice</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>puška</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пушка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гвинтівка</lemma>
+    <lemma>рушниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fusilo</lemma>
+    <lemma>pafilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gewehr</lemma>
+    <lemma>Pistole</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geweer</lemma>
+  </synset>
+</multilingual-synset>

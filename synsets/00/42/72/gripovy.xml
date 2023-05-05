@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4272"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4272" steen:pos="adj." steen:type="1" steen:genesis="I">
+      gripovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грыпозны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="отнасящ се до грип">грипов</lemma>
+    <lemma annotation="болен от грип">грипозен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chřipkový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gripozan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грипозен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grypowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гриппозный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chrípkový</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>gripozni</lemma>
+    <lemma>influenčni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грипозан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грипозний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gripo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grippe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>griep-</lemma>
+  </synset>
+</multilingual-synset>

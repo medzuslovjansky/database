@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35869"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35869"
+      steen:pos="v.intr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      avtostopovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падарожнічаць аўтастопам</lemma>
+    <lemma>вандраваць аўтаспынам</lemma>
+    <lemma>падарожнічаць аўтаспынам</lemma>
+    <lemma>вандраваць аўтастопам</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пътувам на стоп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="auto">stopovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>autostopirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>автостопира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podróżować autostopem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>путешествовать автостопом</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="auto">stopovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>avtoštopati</lemma>
+    <lemma>štopati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аутостопирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подорожувати автостопом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>petveturi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>trampen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>liften</lemma>
+  </synset>
+</multilingual-synset>

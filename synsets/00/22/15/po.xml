@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2215"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2215"
+      steen:addition="(+6)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па</lemma>
+    <lemma>паводле</lemma>
+    <lemma annotation="напр.: па ўсім свеце">на</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>навсякъде</lemma>
+    <lemma>кръгли</lemma>
+    <lemma annotation="по протежение на повърхността">на</lemma>
+    <lemma>все по -</lemma>
+    <lemma>по</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. po celém kraji">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>po</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="по целата земја">по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. po całym kraju">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по всему свету">на</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="napr. po celom kraji">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="... po vsej državi ...">s</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="...целој земљи...">по</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по всьому світу">на</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉie</lemma>
+    <lemma>rondaj</lemma>
+    <lemma annotation="laŭ surfaco">sur</lemma>
+    <lemma>ĉie</lemma>
+    <lemma>trans</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>im gesamten</lemma>
+    <lemma>runden</lemma>
+    <lemma annotation="entlang der Oberfläche">auf</lemma>
+    <lemma>die alle über</lemma>
+    <lemma>über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dwars door</lemma>
+    <lemma>… rond</lemma>
+  </synset>
+</multilingual-synset>

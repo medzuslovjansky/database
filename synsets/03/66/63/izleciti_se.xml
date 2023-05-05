@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36663"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36663"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      izlěčiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылечыцца</lemma>
+    <lemma>ачуняць</lemma>
+    <lemma>ацаліцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>излекувам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyléčit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izliječiti se</lemma>
+    <lemma>oporaviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се излечи</lemma>
+    <lemma>се исцели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyleczyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вылечиться</lemma>
+    <lemma>излечиться</lemma>
+    <lemma>поправиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyliečiť sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pozdraviti se</lemma>
+    <lemma>ozdraveti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>излечити се</lemma>
+    <lemma>оздравити</lemma>
+    <lemma>опоравити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вилікуватися</lemma>
+    <lemma>одужати</lemma>
+    <lemma>зцілитися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>saniĝi</lemma>
+    <lemma>resaniĝi</lemma>
+    <lemma>kuraci sin</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einer Krankheit">erholen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genezen</lemma>
+    <lemma annotation="van een ziekte">herstellen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2874"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2874"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      sdeformovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэфармаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>деформира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdeformovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>deformirati</lemma>
+    <lemma>izobličiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>деформира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdeformować</lemma>
+    <lemma>zniekształcić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>деформировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zdeformovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>deformirana</lemma>
+    <lemma>izkrivljena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>деформисати</lemma>
+    <lemma>изобличити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>деформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deformi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verformen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervormen</lemma>
+    <lemma>misvormen</lemma>
+  </synset>
+</multilingual-synset>

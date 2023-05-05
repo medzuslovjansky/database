@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35966"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35966"
+      steen:addition="(+4)"
+      steen:pos="v.intr. ipf./pf."
+      steen:genesis="I"
+    >
+      pretendovati na
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="прад&apos;яўляць правы, вымагаць">прэтэндаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вземания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nárokovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>potraživati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="истакнува права на нешто">претендира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rościć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="предъявлять права, требовать">претендовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>nárokovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zahtevek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потраживати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="пред&apos;являти права, вимагати">претендувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pretendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anspruch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>claimen</lemma>
+    <lemma>opeisen</lemma>
+  </synset>
+</multilingual-synset>

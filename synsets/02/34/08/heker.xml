@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23408"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru sl"
+      steen:genesis="E"
+    >
+      heker
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hacker</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>haker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>haker</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hacker</lemma>
+    <lemma>heker</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>heker</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хакер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hacker</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hacker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hacker</lemma>
+  </synset>
+</multilingual-synset>

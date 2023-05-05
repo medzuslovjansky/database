@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17433"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17433" steen:pos="m.anim." steen:type="2" steen:same="j">
+      grådonačęľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мэр</lemma>
+    <lemma>кіраўнік горада</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>градоначалник</lemma>
+    <lemma>кмет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>starosta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gradonačelnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>градоначалник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>burmistrz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мэр</lemma>
+    <lemma>градоначальник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>starosta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>župan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>градоначелник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мер</lemma>
+    <lemma>міський голова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>urbestro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bürgermeister</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>burgemeester</lemma>
+  </synset>
+</multilingual-synset>

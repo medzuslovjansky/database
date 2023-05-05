@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17522"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17522" steen:pos="v.intr. ipf." steen:type="1">
+      sdyhati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здыхаць</lemma>
+    <lemma>паміраць (аб жывёлах</lemma>
+    <lemma>трупянець</lemma>
+    <lemma>канаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="Животни">да умре</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dechnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crkavati</lemma>
+    <lemma>ugibati</lemma>
+    <lemma>krepavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умирање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdychać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сдыхать</lemma>
+    <lemma annotation="о животных">умирать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dýchnuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>die</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цркнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здихати</lemma>
+    <lemma annotation="про тварин">помирати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="animaloj">morti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Tiere">sterben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="dieren">doodgaan</lemma>
+  </synset>
+</multilingual-synset>

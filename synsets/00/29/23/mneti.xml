@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2923"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2923"
+      steen:addition="(mni)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      mněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>думаць</lemma>
+    <lemma>меркаваць</lemma>
+    <lemma>лічыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мисля</lemma>
+    <lemma>размишлявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mínit</lemma>
+    <lemma>myslet</lemma>
+    <lemma>vyjadřovat svůj názor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>misliti</lemma>
+    <lemma>mniti</lemma>
+    <lemma>smatrati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мисли</lemma>
+    <lemma>размислува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>myśleć</lemma>
+    <lemma>mniemać</lemma>
+    <lemma>sądzić</lemma>
+    <lemma>przypuszczać</lemma>
+    <lemma>twierdzić</lemma>
+    <lemma>być zdania</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>думать</lemma>
+    <lemma>полагать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mieniť</lemma>
+    <lemma>myslieť</lemma>
+    <lemma>vyjadrovať svoj názor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mislim mneti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мислити</lemma>
+    <lemma>мнети</lemma>
+    <lemma>!мнити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>думати</lemma>
+    <lemma>гадати</lemma>
+    <lemma>мати думку</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pensas</lemma>
+    <lemma>kredu</lemma>
+    <lemma>supozas</lemma>
+    <lemma />
+    <lemma>opinias havi opinion</lemma>
+    <lemma>opinias verŝajna</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>denken</lemma>
+    <lemma>glauben</lemma>
+    <lemma>annehmen</lemma>
+    <lemma>Opin</lemma>
+    <lemma>eine Meinung haben</lemma>
+    <lemma>denken Sie wahrscheinlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vinden</lemma>
+    <lemma>van mening zijn</lemma>
+  </synset>
+</multilingual-synset>

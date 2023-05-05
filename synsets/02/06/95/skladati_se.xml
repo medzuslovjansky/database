@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20695"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20695"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      skladati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складацца</lemma>
+    <lemma>складвацца</lemma>
+    <lemma>скідацца</lemma>
+    <lemma>скідвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>басейн от пари</lemma>
+    <lemma>да вземе колекция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skládat se</lemma>
+    <lemma>udělat sbírku</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prilagati</lemma>
+    <lemma>skupljati prilog</lemma>
+    <lemma annotation="troškove">dijeliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дава</lemma>
+    <lemma>собира</lemma>
+    <lemma annotation="пари на пр">дели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na coś">składać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>складываться</lemma>
+    <lemma>скидываться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skladať sa</lemma>
+    <lemma>urobiť zbierku</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priložiti</lemma>
+    <lemma>zbirajo uslugo</lemma>
+    <lemma annotation="stroški">da delež</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прилагати</lemma>
+    <lemma>скупљати прилог</lemma>
+    <lemma annotation="трошкове">делити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складатися</lemma>
+    <lemma annotation="грошима">скидатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lageto mono</lemma>
+    <lemma>prenu kolekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pool Geld</lemma>
+    <lemma>nehmen Sie eine Sammlung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geld">bij elkaar leggen</lemma>
+  </synset>
+</multilingual-synset>

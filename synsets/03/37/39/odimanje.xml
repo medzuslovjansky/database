@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33739"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33739"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v pl yu~ mk~"
+    >
+      odimańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адніманне</lemma>
+    <lemma>адыманне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изваждане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odčítání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oduzimanje</lemma>
+    <lemma>odbijanje</lemma>
+    <lemma>suptrakcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одземање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odejmowanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вычитание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odčítanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odštevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одузимање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віднімання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subtraho</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Subtraktion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="getal">aftrekken</lemma>
+  </synset>
+</multilingual-synset>

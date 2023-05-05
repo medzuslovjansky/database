@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35182"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35182"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pamflet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памфлет</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>брошура</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pamflet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pamflet</lemma>
+    <lemma>brošura</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>памфлет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pamflet</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>памфлет</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pamflet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pamflet</lemma>
+    <lemma>ironično datoteka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>памфлет</lemma>
+    <lemma>ироничан спис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>памфлет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pamfleto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pamphlet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pamflet</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20892"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20892" steen:pos="m." steen:type="1" steen:same="z j">
+      nadpis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загаловак</lemma>
+    <lemma>назва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надслов</lemma>
+    <lemma>заглавие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nadpis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naslov</lemma>
+    <lemma>titula</lemma>
+    <lemma>naziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наслов</lemma>
+    <lemma>заглавие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nagłówek</lemma>
+    <lemma annotation="pisany">tytuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заголовок</lemma>
+    <lemma>название</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadpis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naslov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наслов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заголовок</lemma>
+    <lemma>назва</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaplinio</lemma>
+    <lemma>titolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Header</lemma>
+    <lemma>Titel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koptekst</lemma>
+    <lemma>hoofdtekst</lemma>
+    <lemma>titel</lemma>
+  </synset>
+</multilingual-synset>

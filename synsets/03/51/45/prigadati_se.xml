@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35145"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35145"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru uk bm"
+    >
+      prigađati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патрабавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да бъде полезен</lemma>
+    <lemma>дойде по-удобно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hodit se</lemma>
+    <lemma>být užitečný</lemma>
+    <lemma>přicházet vhod</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>biti od koristi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се пригодува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przydawać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пригождаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hodiť sa</lemma>
+    <lemma>byť užitočný</lemma>
+    <lemma>prichádzať vhod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>koristno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бити од користи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ставати в нагоді</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>utila</lemma>
+    <lemma>veni en oportuna</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>werden nützlich</lemma>
+    <lemma>kommen in praktisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>van pas komen</lemma>
+  </synset>
+</multilingual-synset>

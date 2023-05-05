@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1610"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1610"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      izkalkulovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылічыць</lemma>
+    <lemma>вылічаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изчислявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypočítat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iskalulirati</lemma>
+    <lemma>izračunati</lemma>
+    <lemma>proračunati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>искалкулира</lemma>
+    <lemma>пресмета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyliczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скалькулировать</lemma>
+    <lemma>подсчитать</lemma>
+    <lemma>рассчитать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vypočítať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izračunati izračunati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>израчунати</lemma>
+    <lemma>обрачунати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розрахувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kalkuli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berechnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>berekenen</lemma>
+    <lemma>calculeren</lemma>
+  </synset>
+</multilingual-synset>

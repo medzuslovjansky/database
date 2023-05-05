@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5212"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5212" steen:pos="m." steen:type="1">dvor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvůr</lemma>
+    <lemma>nádvoří</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvorište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dziedziniec</lemma>
+    <lemma>podwórze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dvor</lemma>
+    <lemma>nádvorie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvorišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двориште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>двір</lemma>
+    <lemma>подвір&apos;я</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="korto">korto</lemma>
+    <lemma>korto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Hof">Hof</lemma>
+    <lemma>Hof</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>erf</lemma>
+    <lemma>binnenplaats</lemma>
+  </synset>
+</multilingual-synset>

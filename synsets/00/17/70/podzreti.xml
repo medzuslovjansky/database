@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1770"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1770"
+      steen:addition="(podzri)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      podzrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>западозрыць</lemma>
+    <lemma>запасочыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подозра</lemma>
+    <lemma>заподозра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podezřít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>slutiti</lemma>
+    <lemma>sumnjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>осомничи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podejrzewać</lemma>
+    <lemma>posadzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заподозрить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podezřít</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nakazuje dvom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слутити</lemma>
+    <lemma>сумњати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запідозрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suspektato</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vermuten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermoeden</lemma>
+    <lemma>verdenken</lemma>
+  </synset>
+</multilingual-synset>

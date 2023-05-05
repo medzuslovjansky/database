@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18960"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18960"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      teolog
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэолаг</lemma>
+    <lemma>багаслоў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>богослов</lemma>
+    <lemma>теолог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>teolog</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>teolog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>теолог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>teolog</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>теолог</lemma>
+    <lemma>богослов</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>teológ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>teolog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>теолог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>теолог</lemma>
+    <lemma>богослов</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>theologist</lemma>
+    <lemma>teologo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Theologe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>theoloog</lemma>
+  </synset>
+</multilingual-synset>

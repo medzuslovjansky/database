@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30809"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30809" steen:pos="m.anim." steen:type="1">Strělec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="задыяк">Стралец</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Стрелец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="astr.">Střelec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Strijelac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="хороскоп">Стрелец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zodiak">Strzelec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="зодиак">Стрелец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="astr.">Strelec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ozvezdje">Strelec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="сазвежђе">Стрелац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="зодіак">Стрілець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Sagitario</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schütze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Boogschutter</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36428"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36428"
+      steen:addition="(podda)"
+      steen:pos="v.tr. pf."
+      steen:type="NaN"
+    >
+      poddati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>саступіць</lemma>
+    <lemma>папусціць</lemma>
+    <lemma>спусціць</lemma>
+    <lemma>схіліцца</lemma>
+    <lemma>здаць</lemma>
+    <lemma>падначаліць</lemma>
+    <lemma>падпарадкаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предаване</lemma>
+    <lemma>предаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzdát</lemma>
+    <lemma>odevzdat</lemma>
+    <lemma>postoupit</lemma>
+    <lemma>podlehnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">predati</lemma>
+    <lemma annotation="se">prepustiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предаде</lemma>
+    <lemma>потчини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poddać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уступить</lemma>
+    <lemma>сдать</lemma>
+    <lemma>подчинить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vzdať</lemma>
+    <lemma>odovzdať</lemma>
+    <lemma>postúpiť</lemma>
+    <lemma>podľahnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predaja)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">предати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>піддати</lemma>
+    <lemma>здати</lemma>
+    <lemma>подати</lemma>
+    <lemma>уступити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kapitulaco</lemma>
+    <lemma>submetiĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kapitulieren</lemma>
+    <lemma>einreichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderwerpen</lemma>
+  </synset>
+</multilingual-synset>

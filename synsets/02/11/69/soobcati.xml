@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21169"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21169"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      sȯobćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паведамляць</lemma>
+    <lemma>перадаваць</lemma>
+    <lemma>інфармаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за да общуват</lemma>
+    <lemma>доклад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvědomit</lemma>
+    <lemma>zpravit</lemma>
+    <lemma>ohlásit</lemma>
+    <lemma>informovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>saopćivati</lemma>
+    <lemma>priopćavati</lemma>
+    <lemma>obavještavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соопшти</lemma>
+    <lemma>извести</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiadamiać</lemma>
+    <lemma>informować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сообщать</lemma>
+    <lemma>информировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uvedomiť</lemma>
+    <lemma>upovedomiť</lemma>
+    <lemma>ohlásiť</lemma>
+    <lemma>informovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sporočamo</lemma>
+    <lemma>odgovor</lemma>
+    <lemma>obvesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саопштавати</lemma>
+    <lemma>јављати</lemma>
+    <lemma>обавештавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повідомляти</lemma>
+    <lemma>інформувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komuniki</lemma>
+    <lemma>raporto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kommunizieren</lemma>
+    <lemma>Bericht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mededelen</lemma>
+    <lemma>bekendmaken</lemma>
+  </synset>
+</multilingual-synset>

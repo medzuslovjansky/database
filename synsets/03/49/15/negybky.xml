@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34915"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34915"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be cs"
+    >
+      negybky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нягібкі</lemma>
+    <lemma>нягнуткі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>твърд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neohebný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>negibak</lemma>
+    <lemma>krut</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крут</lemma>
+    <lemma>тврд</lemma>
+    <lemma>цврст</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sztywny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>негибкий</lemma>
+    <lemma>жёсткий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neohybný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>negibak</lemma>
+    <lemma>kruto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>негибак</lemma>
+    <lemma>крут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>який не гнеться</lemma>
+    <lemma>жорсткий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigidaj</lemma>
+    <lemma>rigida</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>steife</lemma>
+    <lemma>starre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stijf</lemma>
+    <lemma>rigide</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5506"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5506"
+      steen:addition="(provede)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      provesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="час">прабавіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="време">провеждане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čas">strávit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>provesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czas">spędzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="время">провести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="čas">stráviť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preživeti čas)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="време">провести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="час">провести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tempo">elspezi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeit verbringen)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doorbrengen</lemma>
+  </synset>
+</multilingual-synset>

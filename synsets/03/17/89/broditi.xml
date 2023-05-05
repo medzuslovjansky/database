@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31789"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31789"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      broditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блукаць</lemma>
+    <lemma>вандраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бродя</lemma>
+    <lemma>блуждая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>toulat se</lemma>
+    <lemma>potulovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lutati</lemma>
+    <lemma>tumarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>блуда</lemma>
+    <lemma>лута</lemma>
+    <lemma>скита</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>błądzić</lemma>
+    <lemma>włóczyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бродить</lemma>
+    <lemma>странствовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>túlať sa</lemma>
+    <lemma>potulovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>wander</lemma>
+    <lemma>rove</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лутати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бродити</lemma>
+    <lemma>блукати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vagi</lemma>
+    <lemma>Rove</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wandern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dwalen</lemma>
+    <lemma>zwerven</lemma>
+  </synset>
+</multilingual-synset>

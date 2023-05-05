@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16972"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16972" steen:pos="m." steen:type="1">
+      množiteljny čislovnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мультыплікатыўны лічэбнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>множител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">číslovka násobná</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>višestruk</lemma>
+    <lemma>višekratan</lemma>
+    <lemma>multiplikativan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>множествен број</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>liczebnik mnożny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мультипликативное числительное</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">číslovka násobná</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>multiplikativni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мултипликативан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мультиплікативний числівник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>multiplika numeralo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Multiplikationszeichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>multiplicatief telwoord</lemma>
+  </synset>
+</multilingual-synset>

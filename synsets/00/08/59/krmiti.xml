@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="859"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="859" steen:pos="v.tr. ipf." steen:type="1">krmiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карміць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>храня</lemma>
+    <lemma>кърмя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krmit</lemma>
+    <lemma>živit</lemma>
+    <lemma>sytit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hraniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крми</lemma>
+    <lemma>храни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karmić</lemma>
+    <lemma>żywić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кормить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kŕmiť</lemma>
+    <lemma>živiť</lemma>
+    <lemma>sýtitť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krme</lemma>
+    <lemma annotation="vira">da krma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хранити</lemma>
+    <lemma annotation="животиње">крмити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>годувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nutri</lemma>
+    <lemma>nutrigi</lemma>
+    <lemma>manĝigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Futter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voeden</lemma>
+    <lemma>voeren</lemma>
+  </synset>
+</multilingual-synset>

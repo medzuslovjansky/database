@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18727"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18727"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru be cz sl bg"
+    >
+      spręgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змяняць</lemma>
+    <lemma annotation="грам.">спрагаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>конъюгат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spřahat</lemma>
+    <lemma>spojovat</lemma>
+    <lemma>zapřahat</lemma>
+    <lemma annotation="gram.">časovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sprezati</lemma>
+    <lemma>konjugirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конјугира</lemma>
+    <lemma>деколинира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koniugować</lemma>
+    <lemma annotation="czasownik">odmieniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спрягать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spriahať</lemma>
+    <lemma>spájať</lemma>
+    <lemma>zapriahať</lemma>
+    <lemma annotation="gram.">časovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>spregati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упрезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відмінювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konjugita</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>konjugieren</lemma>
+    <lemma>beugen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="grammatica">vervoegen</lemma>
+  </synset>
+</multilingual-synset>

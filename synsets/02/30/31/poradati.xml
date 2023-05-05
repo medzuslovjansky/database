@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23031"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23031"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      porađati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спараджаць</lemma>
+    <lemma>нараджаць</lemma>
+    <lemma>параджаць</lemma>
+    <lemma>вырабляць</lemma>
+    <lemma>прадуктаваць</lemma>
+    <lemma>рабіць</lemma>
+    <lemma>выклікаць</lemma>
+    <lemma>вызываць</lemma>
+    <lemma>правакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пораждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivádět na svět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poroditi</lemma>
+    <lemma>roditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>породува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powodować</lemma>
+    <lemma>wywoływać</lemma>
+    <lemma>wydawać na świat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>порождать</lemma>
+    <lemma>производить</lemma>
+    <lemma>вызывать</lemma>
+    <lemma>провоцировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>privádzať na svet</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>povzročati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>родити</lemma>
+    <lemma>породити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>породжувати</lemma>
+    <lemma>робити</lemma>
+    <lemma>викликати</lemma>
+    <lemma>провокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aperigu</lemma>
+    <lemma>okazigas</lemma>
+    <lemma>generi</lemma>
+    <lemma>kaŭzo</lemma>
+    <lemma>generi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hervorbringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voortbrengen</lemma>
+    <lemma>veroorzaken</lemma>
+    <lemma annotation="veroorzaken">oproepen</lemma>
+  </synset>
+</multilingual-synset>

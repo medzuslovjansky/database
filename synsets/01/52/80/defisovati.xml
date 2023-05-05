@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15280"
+      steen:pos="v.tr. ipf."
+      steen:type="5"
+      steen:genesis="I"
+    >
+      defisovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перанасіць</lemma>
+    <lemma>ставіць злучок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пренасям думи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="slova pomlčkou">dělit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvajati</lemma>
+    <lemma>razdvajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разделува</lemma>
+    <lemma annotation="пишан текст со црта, со тире">пренесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wyrazy łącznikiem">dzielić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переносить</lemma>
+    <lemma>ставить дефис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="slová pomlčkou">deliť</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>делити</lemma>
+    <lemma annotation="помоћу цртице">преносити израз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>писати через дефіс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hyphenate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mit Bindestrich schreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="woord">afbreken</lemma>
+  </synset>
+</multilingual-synset>

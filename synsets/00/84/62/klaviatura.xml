@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8462"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8462"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z"
+      steen:genesis="I"
+    >
+      klaviatura
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клавіятура</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клавиатура</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klávesnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klavijatura</lemma>
+    <lemma>tastatura</lemma>
+    <lemma>tipkovnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тастатура</lemma>
+    <lemma>клавијатура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klawiatura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клавиатура</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klávesnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tipkovnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тастатура</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клавіатура</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klavaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tastatur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toetsenbord</lemma>
+  </synset>
+</multilingual-synset>

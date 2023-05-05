@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36916"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36916"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="I"
+    >
+      modelovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ляпіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вая</lemma>
+    <lemma>извайвам</lemma>
+    <lemma>моделирам (от глина и т. н.).</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="z hlíny atd.">modelovat</lemma>
+    <lemma>stavět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblikovati</lemma>
+    <lemma>modelirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ваја</lemma>
+    <lemma annotation="од глина">моделира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lepić</lemma>
+    <lemma>modelować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лепить</lemma>
+    <lemma>вылеплять</lemma>
+    <lemma annotation="из глины и т.п.">ваять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="z hliny atď">modelovať</lemma>
+    <lemma>stavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>modelirati</lemma>
+    <lemma>kipariti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вајати</lemma>
+    <lemma>обликовати</lemma>
+    <lemma>моделирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ліпити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skulpti</lemma>
+    <lemma annotation="kun argilo ktp">muldi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Skulptur</lemma>
+    <lemma annotation="mit Ton usw.">Schimmel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>modelleren</lemma>
+    <lemma>boetseren</lemma>
+  </synset>
+</multilingual-synset>

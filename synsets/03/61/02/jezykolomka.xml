@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36102"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36102"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="pl~ cs yu"
+    >
+      językolomka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>языкаломка</lemma>
+    <lemma>хуткамоўка</lemma>
+    <lemma>скорагаворка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скороговорка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jazykolam</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>brzalica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>брзозборка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łamaniec językowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скороговорка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jazykolam</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tongue twisters</lemma>
+    <lemma>brzavica</lemma>
+    <lemma>twisters jezik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>брзалица</lemma>
+    <lemma>брзавица</lemma>
+    <lemma>језиколомка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скоромовка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Langrompilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zungenbrecher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tongbreker</lemma>
+  </synset>
+</multilingual-synset>

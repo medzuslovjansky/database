@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21910"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21910" steen:pos="m." steen:type="4">stroj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>строй</lemma>
+    <lemma>лад</lemma>
+    <lemma>парадак</lemma>
+    <lemma>будова</lemma>
+    <lemma>упарадкоўванне</lemma>
+    <lemma>устройства</lemma>
+    <lemma>уладкаванне</lemma>
+    <lemma>сістэма</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ред</lemma>
+    <lemma>устройство</lemma>
+    <lemma>система</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řád</lemma>
+    <lemma>uspořádání</lemma>
+    <lemma>systém</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sustav</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>строј</lemma>
+    <lemma>поредок</lemma>
+    <lemma>систем</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustrój</lemma>
+    <lemma>system</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>строй</lemma>
+    <lemma>порядок</lemma>
+    <lemma>устройство</lemma>
+    <lemma>система</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poriadok</lemma>
+    <lemma>usporiadanie</lemma>
+    <lemma>systém</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sistem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>систем</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стрій</lemma>
+    <lemma>лад</lemma>
+    <lemma>порядок</lemma>
+    <lemma>система</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ordon</lemma>
+    <lemma>aranĝo</lemma>
+    <lemma>sistemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reihenfolge</lemma>
+    <lemma>Anordnung</lemma>
+    <lemma>System</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orde</lemma>
+    <lemma>systeem</lemma>
+  </synset>
+</multilingual-synset>

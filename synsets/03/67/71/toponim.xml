@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36771"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36771"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      toponim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тапонім</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>топоним</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>toponymum</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>toponim</lemma>
+    <lemma>topik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>топоним</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>toponim</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>топоним</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>toponym</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Krajevno ime</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>топоним</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>топонім</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>toponimo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Toponym</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toponiem</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6171"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6171" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      episkop
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>епіскап</lemma>
+    <lemma>біскуп</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>епископ</lemma>
+    <lemma>владика</lemma>
+    <lemma>митрополит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>episkop</lemma>
+    <lemma>pravoslavný biskup</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biskup</lemma>
+    <lemma>episkop</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>епископ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biskup</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>епископ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>episkop</lemma>
+    <lemma>pravoslávny biskup</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Bishop</lemma>
+    <lemma>Bishop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>епископ</lemma>
+    <lemma>бискуп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>єпископ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>episkopo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bischof</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bisschop</lemma>
+  </synset>
+</multilingual-synset>

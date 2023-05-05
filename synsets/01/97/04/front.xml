@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19704"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19704" steen:pos="m." steen:type="1" steen:genesis="I">
+      front
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фронт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фронт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fronta</lemma>
+    <lemma annotation="voj.">front</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fronta</lemma>
+    <lemma>front</lemma>
+    <lemma>pročelje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фронт</lemma>
+    <lemma>предница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>front</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фронт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="voj.">front</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spredaj</lemma>
+    <lemma>čelo</lemma>
+    <lemma>sprednja stran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фронт</lemma>
+    <lemma>чело</lemma>
+    <lemma>предња страна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фронт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Front</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>front</lemma>
+  </synset>
+</multilingual-synset>

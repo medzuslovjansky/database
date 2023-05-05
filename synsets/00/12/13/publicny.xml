@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1213" steen:pos="adj." steen:type="1" steen:genesis="I">
+      publičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>публічны</lemma>
+    <lemma>грамадскі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>социални</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>veřejný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>javni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јавен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>publiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>публичный</lemma>
+    <lemma>общественный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>verejný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>javno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јавни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>публічний</lemma>
+    <lemma>громадський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>publika</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Öffentlichkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>openbaar</lemma>
+    <lemma>publiek</lemma>
+  </synset>
+</multilingual-synset>

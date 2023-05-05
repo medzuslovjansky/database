@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36682"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36682"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kosmetička
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>касметык</lemma>
+    <lemma>касметолаг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>козметичка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kosmetička</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kozmetičarka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>козметичарка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kosmetyczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="женщина">косметолог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kozmetička</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kozmetičarka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>козметичарка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="жінка">косметолог</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>beligistino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kosmetikerin</lemma>
+    <lemma>Kosmetikerin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schoonheidsspecialiste</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19721"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19721" steen:pos="v.tr. ipf." steen:type="1">
+      hråniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абараняць</lemma>
+    <lemma>ахоўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>защитавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chránit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čuvati</lemma>
+    <lemma>štititi</lemma>
+    <lemma>braniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чува</lemma>
+    <lemma>штити</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chronić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>защищать</lemma>
+    <lemma>охранять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chrániť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ohranjati</lemma>
+    <lemma>varovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чувати</lemma>
+    <lemma>штитити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>охороняти</lemma>
+    <lemma>захищати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>protekti</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schützen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschermen</lemma>
+  </synset>
+</multilingual-synset>

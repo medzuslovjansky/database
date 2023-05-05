@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25487"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      fabrikovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фабрыкаваць</lemma>
+    <lemma>вырабляць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>произвеждам</lemma>
+    <lemma>изработвам</lemma>
+    <lemma>фабрикувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyrobit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fabricirati</lemma>
+    <lemma>proizvoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фабрикува</lemma>
+    <lemma>произведува</lemma>
+    <lemma>измислува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fabrykować</lemma>
+    <lemma>produkować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>производить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyrobiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izdela</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фабриковати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виробляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fabriki</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>fabrizieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fabriceren</lemma>
+  </synset>
+</multilingual-synset>

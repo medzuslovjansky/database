@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6197"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6197" steen:pos="m.anim." steen:type="1">duhovnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святар</lemma>
+    <lemma>царкоўнаслужыцель</lemma>
+    <lemma>поп</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свещенослужител</lemma>
+    <lemma>жрец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>duchovní</lemma>
+    <lemma>kněz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svećenik</lemma>
+    <lemma>klerik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>духовник</lemma>
+    <lemma>свештеник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>duchowny</lemma>
+    <lemma>kapłan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>священник</lemma>
+    <lemma>священнослужитель</lemma>
+    <lemma>церковнослужитель</lemma>
+    <lemma>поп</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>duchovný</lemma>
+    <lemma>kňaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>duhovnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свештеник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>духівник</lemma>
+    <lemma>священик</lemma>
+    <lemma>піп</lemma>
+    <lemma>панотець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kleriko</lemma>
+    <lemma>pastro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Pfarrer</lemma>
+    <lemma>Priester</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geestelijke</lemma>
+    <lemma>priester</lemma>
+  </synset>
+</multilingual-synset>

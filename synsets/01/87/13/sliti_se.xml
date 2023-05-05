@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18713"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18713"
+      steen:addition="(slije)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      sliti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зліцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сливане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slít se</lemma>
+    <lemma>sloučit se</lemma>
+    <lemma>spojit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sliti se</lemma>
+    <lemma>spojiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се слее</lemma>
+    <lemma>се спои</lemma>
+    <lemma>се соедини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>scalić się</lemma>
+    <lemma>złączyć się</lemma>
+    <lemma>zlać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zliať sa</lemma>
+    <lemma>zlúčiť sa</lemma>
+    <lemma>spojiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>združiti</lemma>
+    <lemma>zareze</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стопити се</lemma>
+    <lemma>слити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>злитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>merge</lemma>
+    <lemma>fuzeo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschmelzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samengaan</lemma>
+    <lemma>samenvloeien</lemma>
+    <lemma>fuseren</lemma>
+  </synset>
+</multilingual-synset>

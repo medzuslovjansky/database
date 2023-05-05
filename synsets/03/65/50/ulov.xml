@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36550"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36550" steen:pos="m." steen:type="1" steen:same="v z j">
+      ulov
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>улоў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>улов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úlovek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ulov</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>улов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ryb itp.">połów</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>улов</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>úlovok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ulov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>улов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>улов</lemma>
+    <lemma>влов</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="fiŝoj">kaptaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Fang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vis">vangst</lemma>
+  </synset>
+</multilingual-synset>

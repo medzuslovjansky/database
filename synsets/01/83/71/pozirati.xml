@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18371"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="na"
+      steen:id="18371"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      pozirati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глядзець</lemma>
+    <lemma>пазіраць</lemma>
+    <lemma>зорыць</lemma>
+    <lemma>узірацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гледам</lemma>
+    <lemma>гледам</lemma>
+    <lemma>гледам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prohlížet si</lemma>
+    <lemma>dívat se na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gledati</lemma>
+    <lemma>motriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>погледнува</lemma>
+    <lemma>погледува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>patrzeć</lemma>
+    <lemma>spoglądać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смотреть</lemma>
+    <lemma annotation="на">глядеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prezerať si</lemma>
+    <lemma>pozerať sa na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pazi</lemma>
+    <lemma>upoštevajte</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>гледати</lemma>
+    <lemma>посматрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дивитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spekti</lemma>
+    <lemma>observi</lemma>
+    <lemma>rigardi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beobachten</lemma>
+    <lemma>beobachten</lemma>
+    <lemma>schauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="naar">kijken</lemma>
+    <lemma annotation="op">een blik werpen</lemma>
+  </synset>
+</multilingual-synset>

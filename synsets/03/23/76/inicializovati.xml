@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32376"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32376"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      inicializovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ініцыялізаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>инициализирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>inicializovat</lemma>
+    <lemma>iniciovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inicijalizirati</lemma>
+    <lemma>pokrenuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>иницијализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inicjować</lemma>
+    <lemma>inicjalizować</lemma>
+    <lemma>rozpoczynać</lemma>
+    <lemma>rozpocząć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инициализировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inicializovať</lemma>
+    <lemma>iniciovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začetnih</lemma>
+    <lemma>tek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иницијализирати</lemma>
+    <lemma>покренути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ініціалізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>initialise</lemma>
+    <lemma>pravalorizi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>initialisieren</lemma>
+    <lemma>initialisieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>initialiseren</lemma>
+  </synset>
+</multilingual-synset>

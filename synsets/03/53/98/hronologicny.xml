@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35398"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35398"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      hronologičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>храналагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хронологичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chronologický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kronološki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хронолошки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chronologiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хронологический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chronologický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kronološki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хронолошки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хронологічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kronologia</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>chronologisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>chronologisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4101"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4101" steen:pos="v.tr. ipf." steen:type="1">
+      umenšati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змяншаць</lemma>
+    <lemma>памяншаць</lemma>
+    <lemma>меншыць</lemma>
+    <lemma>зменшваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>намалявам</lemma>
+    <lemma>смалявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zmenšovat</lemma>
+    <lemma>snižovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>smanjivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>намалува</lemma>
+    <lemma>смалува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umniejszać</lemma>
+    <lemma>pomniejszać</lemma>
+    <lemma>zmniejszać</lemma>
+    <lemma>redukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уменьшать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zmenšovať</lemma>
+    <lemma>znižovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmanjšanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смањивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зменшувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malpliigi</lemma>
+    <lemma>redukti</lemma>
+    <lemma>fari pli malgranda</lemma>
+    <lemma>Abate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reduzieren</lemma>
+    <lemma>kleiner machen</lemma>
+    <lemma annotation="machen">klein</lemma>
+    <lemma>Abate</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkleinen</lemma>
+    <lemma>verminderen</lemma>
+    <lemma>reduceren</lemma>
+  </synset>
+</multilingual-synset>

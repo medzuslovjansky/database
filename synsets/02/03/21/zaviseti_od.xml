@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20321"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20321"
+      steen:addition="(zavisi)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      zavisěti od
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ад чаго-небудзь">залежыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завися от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záviset na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavisiti od</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зависи од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zależeć od</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="от чего-либо">зависеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>závisieť na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvisna</lemma>
+    <lemma>odvisno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зависити од</lemma>
+    <lemma>у зависности</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="від чого-небудь">залежати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dependi de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>darauf ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afhangen van</lemma>
+  </synset>
+</multilingual-synset>

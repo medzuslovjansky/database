@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35897"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35897"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      inspiracija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>натхненне</lemma>
+    <lemma>выкліканне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вдъхновение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>inspirace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inspiracija</lemma>
+    <lemma>nadahnuće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инспирација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inspiracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вдохновение</lemma>
+    <lemma>внушение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inšpirácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navdih</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инспирација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>натхнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inspiro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Inspiration</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inspiratie</lemma>
+  </synset>
+</multilingual-synset>

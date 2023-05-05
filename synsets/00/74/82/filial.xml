@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7482"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7482" steen:pos="m." steen:type="1" steen:genesis="I">
+      filial
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>філіял</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>филиал</lemma>
+    <lemma>клон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>filiálka</lemma>
+    <lemma>pobočka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>filjala</lemma>
+    <lemma>podružnica</lemma>
+    <lemma>ogranak</lemma>
+    <lemma>ispostava</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>филијала</lemma>
+    <lemma>подружница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przedsiębiorstwa">filia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>филиал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>filiálka</lemma>
+    <lemma>pobočka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hčerinska družba</lemma>
+    <lemma>podružnica</lemma>
+    <lemma>oddelek</lemma>
+    <lemma>oddelek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>филијала</lemma>
+    <lemma>огранак</lemma>
+    <lemma>одељење</lemma>
+    <lemma>одсек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>філія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>filio</lemma>
+    <lemma annotation="de entrepreno">branĉo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tochtergesellschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>filiaal</lemma>
+  </synset>
+</multilingual-synset>

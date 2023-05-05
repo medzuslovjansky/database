@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22154"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22154"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru be pl sh bm"
+    >
+      råztvoriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>растварыць</lemma>
+    <lemma>рассыціць</lemma>
+    <lemma>рашчыніць</lemma>
+    <lemma>расчыніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="за течност">разтваря</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozpustit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastvoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раствори</lemma>
+    <lemma>растопи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. sól">rozpuścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>растворить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpustiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raztopi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растворити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розчинити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en likva">solvi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in einer Flüssigkeit">Löst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in een vloeistof">oplossen</lemma>
+  </synset>
+</multilingual-synset>

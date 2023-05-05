@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20791"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20791"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru cz sb sh bm"
+    >
+      vliv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уплыў</lemma>
+    <lemma>уздзейнічанне</lemma>
+    <lemma>уздзеянне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>влияние</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vliv</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>utjecaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влијание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wpływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>влияние</lemma>
+    <lemma>воздействие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vplyv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vpliv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утицај</lemma>
+    <lemma>утецај</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вплив</lemma>
+    <lemma>дія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>influo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beeinflussen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invloed</lemma>
+  </synset>
+</multilingual-synset>

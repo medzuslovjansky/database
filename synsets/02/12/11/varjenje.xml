@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21211"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21211"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      varjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>страваванне</lemma>
+    <lemma>ператраўленне</lemma>
+    <lemma>пераварванне</lemma>
+    <lemma>ператраўліванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>храносмилането</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trávení</lemma>
+    <lemma>zažívání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>varenje</lemma>
+    <lemma>probava</lemma>
+    <lemma>probavljanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>варење</lemma>
+    <lemma>дигестија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trawienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пищеварение</lemma>
+    <lemma>переваривание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trávenie</lemma>
+    <lemma>zažívanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>varjenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>варење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>травлення</lemma>
+    <lemma>переварювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>digesto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verdauung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spijsvertering</lemma>
+  </synset>
+</multilingual-synset>

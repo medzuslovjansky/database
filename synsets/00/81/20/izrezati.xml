@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8120"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8120"
+      steen:addition="(izrěže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      izrězati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выразаць</lemma>
+    <lemma>вырэзваць</lemma>
+    <lemma>высячы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изрежа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyřezat</lemma>
+    <lemma>vystřihat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izrezati</lemma>
+    <lemma>razrezati</lemma>
+    <lemma>isjeći</lemma>
+    <lemma>urezati</lemma>
+    <lemma>usjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсече</lemma>
+    <lemma>исече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrzeźbić</lemma>
+    <lemma>wyrzezać</lemma>
+    <lemma>wyciąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вы́резать</lemma>
+    <lemma>высечь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyrezať</lemma>
+    <lemma>vystríhať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izrezljati</lemma>
+    <lemma>izklesati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изрезати</lemma>
+    <lemma>исећи</lemma>
+    <lemma>исклесати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вирізати</lemma>
+    <lemma>вирізьбити</lemma>
+    <lemma>висікти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eltranĉi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausgeschnitten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitsnijden</lemma>
+  </synset>
+</multilingual-synset>

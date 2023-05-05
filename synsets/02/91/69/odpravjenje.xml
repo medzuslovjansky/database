@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29169"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29169" steen:pos="n." steen:type="1">odpravjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпраўленне</lemma>
+    <lemma>адыход</lemma>
+    <lemma>выправа</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вижте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odlet</lemma>
+    <lemma>odjezd</lemma>
+    <lemma>odchod</lemma>
+    <lemma>odpravení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odlazak</lemma>
+    <lemma>polazak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заминување</lemma>
+    <lemma>поаѓање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odlot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отправление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odlet</lemma>
+    <lemma>odchod</lemma>
+    <lemma>odchod</lemma>
+    <lemma>odpravenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gremo</lemma>
+    <lemma>gremo</lemma>
+    <lemma annotation="letalo">Odlet</lemma>
+    <lemma>send (lok).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одлазак</lemma>
+    <lemma>полазак</lemma>
+    <lemma annotation="авиона">одлетање</lemma>
+    <lemma annotation="арх.">отправа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відправлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>foriro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abfahrt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vliegtuig">vertrek</lemma>
+  </synset>
+</multilingual-synset>

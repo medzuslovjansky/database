@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26324"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26324" steen:pos="f." steen:type="4">jatrȯv</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="жонка брата мужа">нявестка</lemma>
+    <lemma>ятроўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="сестра на брата съпруга">етърва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>švagrová</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jetrva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јатрва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bratowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="жена брата мужа">невестка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>švagriná</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sestra v zakonu</lemma>
+    <lemma>sestra prava</lemma>
+    <lemma>sestra prava</lemma>
+    <lemma>sestra prava</lemma>
+    <lemma>sestra-v-zakon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свастика</lemma>
+    <lemma>заова</lemma>
+    <lemma>јетрва</lemma>
+    <lemma>снаха</lemma>
+    <lemma>шурњаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>своячка</lemma>
+    <lemma>зовиця</lemma>
+    <lemma>братова</lemma>
+    <lemma annotation="дружина брата чоловіка">швагрова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="edzo bofratino">fratino bofiloj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schwager der Frau">Schwester-in-law</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vrouw van broer van echtgenoot">schoonzuster</lemma>
+  </synset>
+</multilingual-synset>

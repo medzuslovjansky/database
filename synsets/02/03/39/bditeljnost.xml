@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20339"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20339"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="ru cs~ bg"
+    >
+      bditeljnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пільнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бдителност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bdělost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>budnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>будност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czujność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бдительность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bdelosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>budnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>будност</lemma>
+    <lemma>бдење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пильність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atentemo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wachsamkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waakzaamheid</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8473"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8473" steen:pos="adj." steen:type="1">klětȯčny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клеткавы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клетъчен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>buněčný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>staničan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клеточни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="bot.">komórkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клеточный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bunkový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ćellijski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ћеллијски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клітинний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cel-</lemma>
+  </synset>
+</multilingual-synset>

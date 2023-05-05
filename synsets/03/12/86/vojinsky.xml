@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31286" steen:pos="adj." steen:type="1">vojinsky</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>воінскі</lemma>
+    <lemma>ваярскі</lemma>
+    <lemma>вайсковы</lemma>
+    <lemma>ваенны</lemma>
+    <lemma>ваяўнічы</lemma>
+    <lemma>ваяцкі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>войнски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojenský</lemma>
+    <lemma>bojový</lemma>
+    <lemma>válečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vojnički</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>боречки</lemma>
+    <lemma>војнички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żołnierski</lemma>
+    <lemma annotation="np. sport">walki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>военный</lemma>
+    <lemma>воинственный</lemma>
+    <lemma>воинский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vojenský</lemma>
+    <lemma>bojový</lemma>
+    <lemma>vojnový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vojaška</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>војнички</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>військовий</lemma>
+    <lemma>войовничий</lemma>
+    <lemma>військовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>martial</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kriegerisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oorlogszuchtig</lemma>
+    <lemma>krijgshaftig</lemma>
+  </synset>
+</multilingual-synset>

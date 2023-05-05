@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="720"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="720" steen:pos="m." steen:type="1">råzgovor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>размова</lemma>
+    <lemma>гутарка</lemma>
+    <lemma>гамонка</lemma>
+    <lemma annotation="дыял.">гавэнда</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>беседа</lemma>
+    <lemma>интервю</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozhovor</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>бесѣ́да</lemma>
+    <lemma>бесада</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razgovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozmowa</lemma>
+    <lemma>konwersacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разговор</lemma>
+    <lemma>беседа</lemma>
+    <lemma>интервью</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozhovor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>intervju</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разговор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розмова</lemma>
+    <lemma>бесіда</lemma>
+    <lemma>інтерв&apos;ю</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konversacio</lemma>
+    <lemma>intervjuo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gespräch</lemma>
+    <lemma>Interview</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gesprek</lemma>
+    <lemma>conversatie</lemma>
+  </synset>
+</multilingual-synset>

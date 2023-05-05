@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="101"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="101" steen:pos="adj." steen:type="1">črveny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чырвоны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>червен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>červený</lemma>
+    <lemma>rudý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>crven</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>црвен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czerwony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>красный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>červený</lemma>
+    <lemma>rudý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rdeč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>црвен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>червоний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ruĝa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>rot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rood</lemma>
+  </synset>
+</multilingual-synset>

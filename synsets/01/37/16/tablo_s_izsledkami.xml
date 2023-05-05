@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13716"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13716"
+      steen:pos="n.indecl."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      tablo s izslědkami
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>табло</lemma>
+    <lemma>спіс лідараў</lemma>
+    <lemma>спіс лідэраў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>табло с резултатите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výsledková tabulka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tablica</lemma>
+    <lemma>tabela</lemma>
+    <lemma>ljestvica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>семафор</lemma>
+    <lemma>табла на водачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tablica wyników</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>табло</lemma>
+    <lemma>список лидеров</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výsledková tabuľka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="seznam top">semafor miza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>семафор</lemma>
+    <lemma annotation="листа најбољих">табела</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>табло</lemma>
+    <lemma>список лідерів</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>leaderboard</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bestenliste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scorebord</lemma>
+  </synset>
+</multilingual-synset>

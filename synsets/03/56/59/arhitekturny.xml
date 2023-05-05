@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35659"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35659"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      arhitekturny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>архітэктурны</lemma>
+    <lemma>дойлідны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>архитектурен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>architektonický</lemma>
+    <lemma>archtekturní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>arhitektonski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>архиектурен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>architektoniczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>архитектурный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>architektonický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>arhitekturen</lemma>
+    <lemma>arhitektonski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>архитектонски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>архітектурний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arkitektura</lemma>
+    <lemma>arkitektura</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>architektonisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>architectonisch</lemma>
+  </synset>
+</multilingual-synset>

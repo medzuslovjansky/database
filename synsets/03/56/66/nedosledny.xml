@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35666"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35666"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="sk yu mk"
+    >
+      nedoslědny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непаслядоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>несъвместими</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nedůsledný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nedosljedan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>недоследен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niespójny</lemma>
+    <lemma>niekonsekwentny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>непоследовательный</lemma>
+    <lemma>противоречивый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nedôsledný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lisast</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>недоследан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>непослідовний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nekonsekvenca</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inkonsistent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inconsistent</lemma>
+  </synset>
+</multilingual-synset>

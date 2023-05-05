@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18" steen:pos="f.sg." steen:type="1" steen:genesis="I">
+      astronomija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>астраномія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>астрономия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>astronomie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>astronomija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>астрономија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>astronomia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>астрономия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>astronómia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>astronomija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>астрономија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>астрономія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>astronomio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Astronomie</lemma>
+    <lemma>Sternkunde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>astronomie</lemma>
+    <lemma>sterrenkunde</lemma>
+  </synset>
+</multilingual-synset>

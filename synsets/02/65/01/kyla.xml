@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26501"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26501"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru cs yu mk"
+    >
+      kyla
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грыжа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>херния</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kýla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kila</lemma>
+    <lemma>hernija</lemma>
+    <lemma>bruh</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кила</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepuklina</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грыжа</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kyla</lemma>
+    <lemma>prietrž</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kila</lemma>
+    <lemma>hernia</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кила</lemma>
+    <lemma>хернија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грижа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hernio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hernie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hernia</lemma>
+  </synset>
+</multilingual-synset>

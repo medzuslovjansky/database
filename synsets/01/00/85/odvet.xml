@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10085" steen:pos="m." steen:type="2">odvět</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="сустрэчнае дзеянне">адказ</lemma>
+    <lemma>водгук</lemma>
+    <lemma>водгалас</lemma>
+    <lemma>водгулле</lemma>
+    <lemma>адгалос</lemma>
+    <lemma>рэакцыя</lemma>
+    <lemma>адпор</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>реакция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpověď</lemma>
+    <lemma>protiúder</lemma>
+    <lemma>reakce</lemma>
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otpor</lemma>
+    <lemma>reakcija</lemma>
+    <lemma>odgovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одговор</lemma>
+    <lemma>реакција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sprzeciw</lemma>
+    <lemma annotation="przeciw czemuś">reakcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="встречное действие">ответ</lemma>
+    <lemma>отклик</lemma>
+    <lemma>реакция</lemma>
+    <lemma>отпор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpoveď</lemma>
+    <lemma>protiúder</lemma>
+    <lemma>reakcia</lemma>
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odgovor</lemma>
+    <lemma>odgovor</lemma>
+    <lemma>protest</lemma>
+    <lemma>upor</lemma>
+    <lemma>reakcije</lemma>
+    <lemma>maščevanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одговор</lemma>
+    <lemma>одзив</lemma>
+    <lemma>протест</lemma>
+    <lemma>отпор</lemma>
+    <lemma>реакција</lemma>
+    <lemma>одмазда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="зустрічна дія">відповідь</lemma>
+    <lemma>відгук</lemma>
+    <lemma>реакція</lemma>
+    <lemma>відсіч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontraŭreago</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gegenschlag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzet</lemma>
+    <lemma>tegenreactie</lemma>
+  </synset>
+</multilingual-synset>

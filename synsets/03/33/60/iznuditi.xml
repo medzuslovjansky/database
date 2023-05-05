@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33360"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33360"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      iznuditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вымагаць</lemma>
+    <lemma>прымусіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изнудя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vynutit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznuditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изнуди</lemma>
+    <lemma>принуди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymusić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вымогать</lemma>
+    <lemma>вынудить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vynútiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izsiliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изнудити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>змусити</lemma>
+    <lemma>примусити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>postulu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erpressen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afpersen</lemma>
+    <lemma>afdwingen</lemma>
+  </synset>
+</multilingual-synset>

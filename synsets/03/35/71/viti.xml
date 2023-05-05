@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33571"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33571"
+      steen:addition="(vije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru uk pl cz bg"
+    >
+      viti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аплятаць</lemma>
+    <lemma>абвіваць</lemma>
+    <lemma>апавінаць</lemma>
+    <lemma>увінаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>влакното</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vít</lemma>
+    <lemma>vinout</lemma>
+    <lemma>motat</lemma>
+    <lemma>svíjet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>viti</lemma>
+    <lemma>pleti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свива</lemma>
+    <lemma>плете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pleść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оплетать</lemma>
+    <lemma>обвивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ví</lemma>
+    <lemma>vinúť</lemma>
+    <lemma>motať</lemma>
+    <lemma>zvíjať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Veter</lemma>
+    <lemma>pleti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вити</lemma>
+    <lemma>плети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>обвивати</lemma>
+    <lemma>обмотувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>twine</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schnur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlechten</lemma>
+  </synset>
+</multilingual-synset>

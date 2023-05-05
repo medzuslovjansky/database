@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20816"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20816"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      Vodolěj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="задыяк">Вадаліў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="зодия">водолей</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="astr.">Vodnář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodenjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="хороскоп">Водолија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zodiak">Wodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="зодиак">Водолей</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="astr.">Vodnár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="zasvežđe">Vodnar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="засвежђе">Водолија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="зодіак">Водолій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Akvario</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wassermann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Waterman</lemma>
+  </synset>
+</multilingual-synset>

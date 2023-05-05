@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36545"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36545"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cs yu mk"
+      steen:genesis="I"
+    >
+      predator
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>драпежнік</lemma>
+    <lemma>хіжак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>хищник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dravec</lemma>
+    <lemma>predátor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="životinja">grabjivac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грабливец</lemma>
+    <lemma>грабежливец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drapieżnik</lemma>
+    <lemma>drapieżca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хищник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dravec</lemma>
+    <lemma>predátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="žival">morski pes</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истребљивач</lemma>
+    <lemma annotation="животиња">ловац</lemma>
+    <lemma annotation="животиња">грабљивац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хижак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>predanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Raubtier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roofdier</lemma>
+  </synset>
+</multilingual-synset>

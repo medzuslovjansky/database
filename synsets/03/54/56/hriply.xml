@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35456"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35456"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z yu mk"
+    >
+      hriply
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хрыплы</lemma>
+    <lemma>хрыпаты</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хриплив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chraplavý</lemma>
+    <lemma>chraptivý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>promukao</lemma>
+    <lemma annotation="glas">nečist</lemma>
+    <lemma annotation="glas">hrapav</lemma>
+    <lemma>razderan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рапав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ochrypły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хриплый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chrapľavý</lemma>
+    <lemma>chrapľavý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="glas">grobo</lemma>
+    <lemma>hripav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="глас">храпав</lemma>
+    <lemma>промукао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хрипкий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>raŭka</lemma>
+    <lemma>raŭkaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>heiser</lemma>
+    <lemma>rau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schor</lemma>
+  </synset>
+</multilingual-synset>

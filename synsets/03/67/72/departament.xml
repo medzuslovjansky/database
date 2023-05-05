@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36772"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36772"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="F"
+    >
+      departament
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэпартамент</lemma>
+    <lemma>падраздзяленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на организацията">департамент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oddělení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odio</lemma>
+    <lemma>odjel</lemma>
+    <lemma>odjeljenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оддел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>departament</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>департамент</lemma>
+    <lemma>подразделение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oddelenie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>oddelek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одељак</lemma>
+    <lemma>одељење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>департамент</lemma>
+    <lemma>підрозділ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="subdivido de organizo">fako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Unterteilung der Organisation">Abteilung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="onderdeel van een organisatie">departement</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23288"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      radiolog
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>радыёлаг</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рентгенолог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>radiolog</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>radiolog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>радиолог</lemma>
+    <lemma>рендгенолог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>radiolog</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>радиолог</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rádiológ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>radiolog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радиолог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>радіолог</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>radiologo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Röntgenologe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>radioloog</lemma>
+  </synset>
+</multilingual-synset>

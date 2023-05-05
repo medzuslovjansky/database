@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36329"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36329"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      transkribovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>транскрыбаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>транскрибирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>transkribovat</lemma>
+    <lemma>přepsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>transkribirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>транскрибира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>transkrybować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>транскрибировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>transkribovat</lemma>
+    <lemma>prepísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>транскрипција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>транскрибувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transskribi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>transkribieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>transcriberen</lemma>
+  </synset>
+</multilingual-synset>

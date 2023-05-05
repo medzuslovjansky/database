@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35167"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35167"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      fakultativny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>факультатыўны</lemma>
+    <lemma>апцыянальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>факултативен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fakultativní</lemma>
+    <lemma>volitelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fakultativan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>факултативен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opcjonalny</lemma>
+    <lemma>fakultatywny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>факультативный</lemma>
+    <lemma>опциональный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fakultatívny</lemma>
+    <lemma>voliteľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fakultativno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>факултативан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>факультативний</lemma>
+    <lemma>необов&apos;язковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nedeviga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Optional</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>facultatief</lemma>
+  </synset>
+</multilingual-synset>

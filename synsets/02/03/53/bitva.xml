@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20353"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20353" steen:pos="f." steen:type="1" steen:same="ru pl cz">
+      bitva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бітва</lemma>
+    <lemma>змаганне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>битка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bitva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bitka</lemma>
+    <lemma>boj</lemma>
+    <lemma>borba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>битка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bitwa</lemma>
+    <lemma>walka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>битва</lemma>
+    <lemma>сражение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bitka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bitka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>битка</lemma>
+    <lemma>бој</lemma>
+    <lemma>борба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>битва</lemma>
+    <lemma>бій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>batalo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schlacht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slag</lemma>
+    <lemma>veldslag</lemma>
+  </synset>
+</multilingual-synset>

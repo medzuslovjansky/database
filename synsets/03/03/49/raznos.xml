@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30349"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30349" steen:pos="m.">råznos</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разноска</lemma>
+    <lemma>разнясенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например вестници">за доставка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>roznos</lemma>
+    <lemma annotation="např. noviny">dodání</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>raznos</lemma>
+    <lemma>isporuka</lemma>
+    <lemma>dostavljanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>достава</lemma>
+    <lemma annotation="на пример, весници">испорака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разноска</lemma>
+    <lemma>разнесение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>roznos</lemma>
+    <lemma annotation="napr. noviny">dodanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nos</lemma>
+    <lemma>dostava</lemma>
+    <lemma>dostava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разнос</lemma>
+    <lemma>испорука</lemma>
+    <lemma>достављање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розноска</lemma>
+    <lemma>рознесення</lemma>
+    <lemma>поширення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz gazetoj">livero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. Zeitungen">Lieferung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezorging</lemma>
+    <lemma annotation="bv. kranten">rondbrengen</lemma>
+  </synset>
+</multilingual-synset>

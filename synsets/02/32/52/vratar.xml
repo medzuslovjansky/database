@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23252"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23252"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="uk j"
+    >
+      vråtaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парцье</lemma>
+    <lemma>швейцар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>носач</lemma>
+    <lemma>пиколо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dveřník</lemma>
+    <lemma>portýr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vratar</lemma>
+    <lemma>portir</lemma>
+    <lemma>čuvar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>портир</lemma>
+    <lemma annotation="на багаж">носач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>portier</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>портье</lemma>
+    <lemma>швейцар</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>videovrátnik</lemma>
+    <lemma>nosič</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>receptor</lemma>
+    <lemma>Porter</lemma>
+    <lemma annotation="arch.">vratardžija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вратар</lemma>
+    <lemma>портир</lemma>
+    <lemma annotation="арх.">вратарџија</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>портьє</lemma>
+    <lemma>швейцар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pordisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Porter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>portier</lemma>
+  </synset>
+</multilingual-synset>

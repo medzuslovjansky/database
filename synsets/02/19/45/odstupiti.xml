@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21945"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21945"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="z j"
+    >
+      odstųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уступіць</lemma>
+    <lemma>саступіць</lemma>
+    <lemma>пераступіць</lemma>
+    <lemma>здацца</lemma>
+    <lemma>аддаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>не се предавай</lemma>
+    <lemma>дай</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="výnos">postoupit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>povući se</lemma>
+    <lemma>odustati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапи</lemma>
+    <lemma>предаде</lemma>
+    <lemma>даде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustąpić</lemma>
+    <lemma>scedować</lemma>
+    <lemma>zrezygnować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уступить</lemma>
+    <lemma>сдаться</lemma>
+    <lemma>отдать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="výnos">postúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvzame</lemma>
+    <lemma>prekliče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повући се</lemma>
+    <lemma>одустати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поступитися</lemma>
+    <lemma>здатися</lemma>
+    <lemma>віддати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>produktokvanto</lemma>
+    <lemma>cedante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ausbeute abtreten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toegeven</lemma>
+    <lemma>opgeven</lemma>
+    <lemma annotation="van">afzien</lemma>
+  </synset>
+</multilingual-synset>

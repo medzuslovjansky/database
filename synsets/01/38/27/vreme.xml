@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13827"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13827" steen:pos="n." steen:type="1">vrěmę</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">час</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="граматика">време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">čas</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="грама.">време</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">czas</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">время</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">čas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>време</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="грам.">час</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streĉita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tempus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">tijd</lemma>
+  </synset>
+</multilingual-synset>

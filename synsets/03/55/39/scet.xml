@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35539"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35539" steen:pos="m." steen:type="3" steen:same="ru cs~">
+      sčet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рахунак</lemma>
+    <lemma>чэк</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проверка на сметка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>račun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сметка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rachunek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>счёт</lemma>
+    <lemma>чек</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>račun</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рачун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рахунок</lemma>
+    <lemma>чек</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉeko</lemma>
+    <lemma>beko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rechnung überprüfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rekening</lemma>
+  </synset>
+</multilingual-synset>

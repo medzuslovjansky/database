@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27282"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27282"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru yu mk"
+    >
+      loknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хлябнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>излочвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>loknout</lemma>
+    <lemma>chlemtnout</lemma>
+    <lemma annotation="zvěř">hltnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>loknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>локна</lemma>
+    <lemma>испи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chłepnąć</lemma>
+    <lemma>żłopnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лакнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lognúť</lemma>
+    <lemma>slopnúť</lemma>
+    <lemma>dať si</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>lokniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>локнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хлебнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lektrinkos supren</lemma>
+    <lemma>trinku</lemma>
+    <lemma>guzzle</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schlecken</lemma>
+    <lemma>saufen</lemma>
+    <lemma>runterkippen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slobberen</lemma>
+  </synset>
+</multilingual-synset>

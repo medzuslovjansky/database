@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26999"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26999" steen:pos="m." steen:type="1" steen:same="v z">
+      kurnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>куратнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>курник</lemma>
+    <lemma>кокошарник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kurník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kokošinjac</lemma>
+    <lemma>kokošarnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кокошарник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kurnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>курятник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kurník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Kurnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кокошињац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>курник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>coop</lemma>
+    <lemma>hennery</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>coop</lemma>
+    <lemma>hennery</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kippenhok</lemma>
+  </synset>
+</multilingual-synset>

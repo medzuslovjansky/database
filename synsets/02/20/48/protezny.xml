@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22048"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22048" steen:pos="adj." steen:type="2" steen:same="ru z">
+      protęžny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="гук">працяглы</lemma>
+    <lemma>працяжны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="звук">продължителни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="zvuk">protažený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dugotrajan</lemma>
+    <lemma>trajan</lemma>
+    <lemma>razvučen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="звук">долготраен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeciągający się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="звук">протяжный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="zvuk">pretiahnutý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Razvučen</lemma>
+    <lemma>dolgotrajen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развучен</lemma>
+    <lemma>дуготрајан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="звук">протяжний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sono">longe tirita-ekstere</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Ton">langgezogenen-out</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitgestrekt</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13732"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13732" steen:pos="adj." steen:type="1">vojenny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вайсковы</lemma>
+    <lemma>ваенны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>военен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>válečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ratni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>воен</lemma>
+    <lemma>борбен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wojenny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>военный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vojnový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vojna</lemma>
+    <lemma annotation="arch.">evolucijski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ратни</lemma>
+    <lemma annotation="арх.">војени</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>воєнний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>milito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Krieg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oorlog-</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21853"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21853"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      dostigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даганяць</lemma>
+    <lemma>наганяць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>достигам</lemma>
+    <lemma>настигам</lemma>
+    <lemma>стигам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dostíhávat</lemma>
+    <lemma>dohánět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dostizati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>достигнува</lemma>
+    <lemma>достасува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dościgać</lemma>
+    <lemma>doganiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настигать</lemma>
+    <lemma>догонять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dobiehať</lemma>
+    <lemma>doháňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nadoknaditi</lemma>
+    <lemma>dogoniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>достизати</lemma>
+    <lemma>догонити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наздоганяти</lemma>
+    <lemma>наганяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preterpasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überholen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="niet achterop raken">bijhouden</lemma>
+    <lemma>inhalen</lemma>
+  </synset>
+</multilingual-synset>

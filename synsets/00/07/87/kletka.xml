@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="787"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="787" steen:pos="f." steen:type="1">klětka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клетка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клетка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="za ptice">kavez</lemma>
+    <lemma>krletka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клетка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klatka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клетка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klietka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ptice">kletka</lemma>
+    <lemma>celice</lemma>
+    <lemma>kletka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="за птице">кавез</lemma>
+    <lemma>ћелија</lemma>
+    <lemma>крлетка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клітка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Käfig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kooi</lemma>
+  </synset>
+</multilingual-synset>

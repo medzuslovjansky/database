@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30309"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30309"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      råzměrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>размерваць</lemma>
+    <lemma>размераць</lemma>
+    <lemma>вымерваць</lemma>
+    <lemma>вымяраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>измерване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozměřovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izmeravati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>размерува</lemma>
+    <lemma>мери</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymierzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>размерять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zameriavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izmeravati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>измеравати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розміряти</lemma>
+    <lemma>вимірювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mezuri for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abmessen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afmeten</lemma>
+  </synset>
+</multilingual-synset>

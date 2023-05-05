@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1595"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1595" steen:pos="m." steen:type="1">izmysl</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выдумка</lemma>
+    <lemma>вымысел</lemma>
+    <lemma>фікцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="нещо измислено">изобретение</lemma>
+    <lemma>измислица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výmysl</lemma>
+    <lemma>smyšlenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pronalazak</lemma>
+    <lemma>izum</lemma>
+    <lemma>otkriće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изум</lemma>
+    <lemma>пронајдок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymysł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выдумка</lemma>
+    <lemma>придумка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>výmysel</lemma>
+    <lemma>predstava</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ugotovitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проналазак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>видумка</lemma>
+    <lemma>вимисел</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="io konsistigita">invento</lemma>
+    <lemma>fabrikado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="etwas erfunden">Erfindung</lemma>
+    <lemma>Herstellung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzinsel</lemma>
+    <lemma>bedenksel</lemma>
+  </synset>
+</multilingual-synset>

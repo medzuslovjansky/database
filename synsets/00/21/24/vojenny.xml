@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2124"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2124" steen:pos="adj." steen:type="1">vojenny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вайсковы</lemma>
+    <lemma>ваенны</lemma>
+    <lemma>баявы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>военен</lemma>
+    <lemma>войнишки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojenský</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vojni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>воен</lemma>
+    <lemma>армиски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wojskowy</lemma>
+    <lemma>militarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>войсковой</lemma>
+    <lemma>военный</lemma>
+    <lemma>боевой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vojenský</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vojaška</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>војни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>військовий</lemma>
+    <lemma>бойовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>milita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Militär-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>militair</lemma>
+  </synset>
+</multilingual-synset>

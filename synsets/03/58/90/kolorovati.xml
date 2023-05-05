@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35890"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35890"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru z"
+      steen:genesis="I"
+    >
+      kolorovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>афарбоўваць</lemma>
+    <lemma>размалёўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оцветявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>barvit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kolorirati</lemma>
+    <lemma>kolorizirati</lemma>
+    <lemma>bojiti</lemma>
+    <lemma>obojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обојува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kolorować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окрашивать</lemma>
+    <lemma>раскрашивать</lemma>
+    <lemma>оцветнять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>farbiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>barvati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бојити</lemma>
+    <lemma>фарбати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фарбувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>koloro</lemma>
+    <lemma>koloro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Farbe</lemma>
+    <lemma>Farbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kleuren</lemma>
+    <lemma>inkleuren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6519"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6519" steen:pos="f.sg." steen:type="1">bezkonečnosť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бясконцасць</lemma>
+    <lemma>бязмежнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безкрайност</lemma>
+    <lemma
+      annotation="първото се употребява за време и място, второто само за време"
+    >
+      вечност
+    </lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nekonečno</lemma>
+    <lemma>nekonečnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>beskonačnost</lemma>
+    <lemma>beskrajnost</lemma>
+    <lemma>beskraj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бесконечност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieskończoność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бесконечность</lemma>
+    <lemma>бескрайность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nekonečno</lemma>
+    <lemma>nekonečnosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>neskončnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесконачан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нескінченність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senfineco</lemma>
+    <lemma>perpetuality</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Unendlichkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oneindigheid</lemma>
+  </synset>
+</multilingual-synset>

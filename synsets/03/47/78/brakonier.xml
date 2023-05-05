@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34778"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34778"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      brakonier
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>браканьер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бракониер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pytlák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lovokradica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ловокрадец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poacher</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>браконьер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pytliak</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>divji lovec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ловокрадица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>браконьєр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poacher</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wilddieb</lemma>
+    <lemma>Wilderer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stroper</lemma>
+  </synset>
+</multilingual-synset>

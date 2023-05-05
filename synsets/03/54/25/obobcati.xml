@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35425"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35425"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      obobćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абагульняць</lemma>
+    <lemma>падагульняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>домысливать</lemma>
+    <lemma>обобщава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zobecňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uopćavati</lemma>
+    <lemma>generalizirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обопштува генерализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>generalizować</lemma>
+    <lemma>uogólniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обобщать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zovšeobecňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posploševati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уопштавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>узагальнювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komunigi</lemma>
+    <lemma>ĝeneraligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verallgemeinern</lemma>
+    <lemma>verallgemeinern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>generaliseren</lemma>
+  </synset>
+</multilingual-synset>

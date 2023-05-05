@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28233"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28233" steen:pos="v.tr. pf." steen:type="2">
+      nastrojiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>настроіць</lemma>
+    <lemma>падбухторыць</lemma>
+    <lemma>падбіць</lemma>
+    <lemma>падгаварыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настройвам нкг.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivodit náladu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">rasporediti</lemma>
+    <lemma annotation="se">razmjestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отфрли</lemma>
+    <lemma>откачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kogoś">nastroić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="кого-либо">настроить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>privodiť náladu</lemma>
+    <lemma>nastrojiť</lemma>
+    <lemma>nastrájať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nastrojiti</lemma>
+    <lemma>set</lemma>
+    <lemma>tekmo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>настројити</lemma>
+    <lemma>подесити</lemma>
+    <lemma>ускладити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>настроїти</lemma>
+    <lemma annotation="когось">підбурити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ies sintenon">disponi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="jemandes Haltung">entsorgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="iemands houding">stemmen</lemma>
+  </synset>
+</multilingual-synset>

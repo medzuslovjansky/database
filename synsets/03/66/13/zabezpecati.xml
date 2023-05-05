@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36613"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36613"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      zabezpečati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забяспечваць</lemma>
+    <lemma>забеспячаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>обезпечавам</lemma>
+    <lemma>осигурявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabezpečovat</lemma>
+    <lemma>obstarávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opskrbljivati</lemma>
+    <lemma>snabdijevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обезбедува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostarczać</lemma>
+    <lemma>ubezpieczać</lemma>
+    <lemma>zabezpieczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обеспечивать</lemma>
+    <lemma>предоставлять</lemma>
+    <lemma>гарантировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zabezpečovať</lemma>
+    <lemma>obstarávať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>preskrbovati</lemma>
+    <lemma>oskrbovati</lemma>
+    <lemma>zagotovljati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опскрбљивати</lemma>
+    <lemma>осигуравати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забезпечувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provizi</lemma>
+    <lemma>certigi</lemma>
+    <lemma>akiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bereitstellen</lemma>
+    <lemma>sicherstellen</lemma>
+    <lemma>beschaffen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorzien van</lemma>
+    <lemma>zorgen voor</lemma>
+  </synset>
+</multilingual-synset>

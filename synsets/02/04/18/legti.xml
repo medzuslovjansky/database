@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20418"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20418"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      legti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>легчы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лягам си</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="si">lehnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>leći</lemma>
+    <lemma>legnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лежи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lec</lemma>
+    <lemma>legnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лечь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľahnúť si</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>leči</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лећи</lemma>
+    <lemma>легнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лягти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuŝu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sich legen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gaan liggen</lemma>
+  </synset>
+</multilingual-synset>

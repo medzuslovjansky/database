@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="833"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="833"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>за</lemma>
+    <lemma>ззаду</lemma>
+    <lemma>пасля</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зад</lemma>
+    <lemma>след</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="časově">za</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iza</lemma>
+    <lemma>nakon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зад</lemma>
+    <lemma>одзади</lemma>
+    <lemma>по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>за</lemma>
+    <lemma>позади</lemma>
+    <lemma>после</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="časovo">za</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za po</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иза</lemma>
+    <lemma>после</lemma>
+    <lemma>након</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>за</lemma>
+    <lemma>позаду</lemma>
+    <lemma>після</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malantaŭe</lemma>
+    <lemma>post</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hinten</lemma>
+    <lemma>nach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>achter</lemma>
+    <lemma>na</lemma>
+  </synset>
+</multilingual-synset>

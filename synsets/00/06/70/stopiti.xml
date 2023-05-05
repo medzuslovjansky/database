@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="670"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="670" steen:pos="v.tr. pf." steen:type="1">stopiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стапіць</lemma>
+    <lemma annotation="разам">сплавіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сливане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sloučit</lemma>
+    <lemma>spojit</lemma>
+    <lemma>stavit</lemma>
+    <lemma>slít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stopiti</lemma>
+    <lemma>sjediniti</lemma>
+    <lemma>spojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стопи</lemma>
+    <lemma>спои</lemma>
+    <lemma>интегрира</lemma>
+    <lemma>испомеша</lemma>
+    <lemma>соедини</lemma>
+    <lemma>фузионира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zlać</lemma>
+    <lemma annotation="razem">stopić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стопить</lemma>
+    <lemma annotation="вместе">сплавить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stopiť</lemma>
+    <lemma>zlúčiť</lemma>
+    <lemma>spojiť</lemma>
+    <lemma>zliať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spajanje</lemma>
+    <lemma>spajanje</lemma>
+    <lemma>spajanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стопити</lemma>
+    <lemma>сјединити</lemma>
+    <lemma>спојити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стопити</lemma>
+    <lemma annotation="разом">сплавити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>merge</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschmelzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samensmelten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24113"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24113" steen:pos="f." steen:type="1" steen:genesis="I">
+      agitka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агітка</lemma>
+    <lemma>агітацыйная ўлётка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>листовка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>agitka</lemma>
+    <lemma>agitační leták</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>agitka</lemma>
+    <lemma>letak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>леток</lemma>
+    <lemma>памфлет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>agitka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>агитка</lemma>
+    <lemma>агитационная листовка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>agitka</lemma>
+    <lemma>agitačný leták</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>letak</lemma>
+    <lemma>prospekt</lemma>
+    <lemma>brošura</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>летак</lemma>
+    <lemma annotation="пропагандни">флајер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>агітка</lemma>
+    <lemma>агітаційна листівка</lemma>
+    <lemma>прокламація</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>agit-folio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Agitation">Beilage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="agitatie">folder</lemma>
+  </synset>
+</multilingual-synset>

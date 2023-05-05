@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33586"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33586"
+      steen:addition="(vihra)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      vihȯr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віхор</lemma>
+    <lemma>віхура</lemma>
+    <lemma>варонка</lemma>
+    <lemma>вір</lemma>
+    <lemma annotation="дыял.">крутаверць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Еди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vír</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vir</lemma>
+    <lemma>vrtlog</lemma>
+    <lemma>kovitlac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wir</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вихрь</lemma>
+    <lemma>воронка</lemma>
+    <lemma>водоворот</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vír</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vortex</lemma>
+    <lemma>vortex</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вир</lemma>
+    <lemma>вртлог</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вихор</lemma>
+    <lemma>воронка</lemma>
+    <lemma>вир</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kirlo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wirbel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draaikolk</lemma>
+    <lemma>werveling</lemma>
+  </synset>
+</multilingual-synset>

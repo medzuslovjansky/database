@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35878"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35878"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="z j"
+      steen:genesis="I"
+    >
+      klimatizacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кандыцыянаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>климатизация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klimatizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klimatizacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>климатизација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klimatyzacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кондиционирование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klimatizácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klimatska naprava</lemma>
+    <lemma>klimatska naprava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клима</lemma>
+    <lemma>климатизација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кондиціонування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klimatizilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klimaanlage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>airconditioning</lemma>
+    <lemma>airco</lemma>
+  </synset>
+</multilingual-synset>

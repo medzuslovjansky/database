@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32414"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32414" steen:pos="m." steen:type="1" steen:genesis="I">
+      barak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>барак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>казарма</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojenská budova</lemma>
+    <lemma>barák</lemma>
+    <lemma>kasárna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kasarna</lemma>
+    <lemma>vojarna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>касарна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>barak</lemma>
+    <lemma>koszary</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>барак</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>barak</lemma>
+    <lemma>kasáreň</lemma>
+    <lemma>vojenská budova</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vojašnica</lemma>
+    <lemma>kasarna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>барака</lemma>
+    <lemma>касарна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>барак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kazerna</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Baracke</lemma>
+    <lemma>Hütte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>barak</lemma>
+  </synset>
+</multilingual-synset>

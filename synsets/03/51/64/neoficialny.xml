@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35164"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35164"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      neoficiaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неафіцыйны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неофициален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neoficiální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neslužben</lemma>
+    <lemma>privatan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неофицијален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieoficjalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неофициальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neoficiálny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neuradni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>незваничан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неофіційний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neoficiala</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inoffiziell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onofficieel</lemma>
+  </synset>
+</multilingual-synset>

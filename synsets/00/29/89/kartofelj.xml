@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2989"
+      steen:addition="(kartoflja)"
+      steen:pos="m."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kartofelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бульба</lemma>
+    <lemma>бульбіна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>картоф</lemma>
+    <lemma>компир</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brambor</lemma>
+    <lemma>zemák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krumpir</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компир</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ziemniak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>картофель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zemiak</lemma>
+    <lemma>krumpeľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gomolji krompirja</lemma>
+    <lemma>krompir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кромпир</lemma>
+    <lemma>кртола</lemma>
+    <lemma>крумпир</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>картопля</lemma>
+    <lemma>бульба</lemma>
+    <lemma>бараболя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>terpomon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kartoffel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aardappel</lemma>
+  </synset>
+</multilingual-synset>

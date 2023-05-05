@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35166"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35166"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru pl sh"
+      steen:genesis="I"
+    >
+      opcionaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апцыйны</lemma>
+    <lemma>апцыянальны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по желание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>volitelný</lemma>
+    <lemma>opční</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opcionalan</lemma>
+    <lemma>mogući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опционален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opcjonalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опциональный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>voliteľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neobvezno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опционалан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опціональний</lemma>
+    <lemma>необов&apos;язковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nedeviga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Optional</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>optioneel</lemma>
+    <lemma>facultatief</lemma>
+  </synset>
+</multilingual-synset>

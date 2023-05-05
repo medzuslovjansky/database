@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1001"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1001" steen:pos="adv." steen:type="1">někųdy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>некуды</lemma>
+    <lemma>кудысьці</lemma>
+    <lemma>кудысь</lemma>
+    <lemma>куды-нікуды</lemma>
+    <lemma>няма куды</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>по някакъв начин</lemma>
+    <lemma>някак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>někudy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nekuda</lemma>
+    <lemma>nekud</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>на некој начин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>którędyś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кое-куда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>niekedy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nekje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>некуда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>декуди</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>iel</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>irgendwohin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>langs een of andere weg</lemma>
+  </synset>
+</multilingual-synset>

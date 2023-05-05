@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4650"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4650" steen:pos="f." steen:type="1" steen:genesis="I">
+      profesija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прафесія</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>професия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>profese</lemma>
+    <lemma>povolání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>profesija</lemma>
+    <lemma>zanimanje</lemma>
+    <lemma>poziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>професија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>профессия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>profesie</lemma>
+    <lemma>povolania</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poklic</lemma>
+    <lemma>poklic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>професија</lemma>
+    <lemma>занимање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>професія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>profesio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beruf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beroep</lemma>
+  </synset>
+</multilingual-synset>

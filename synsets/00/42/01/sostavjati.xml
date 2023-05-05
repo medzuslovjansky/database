@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4201"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      sȯstavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>цяло</lemma>
+    <lemma>да се съберат</lemma>
+    <lemma>да направи</lemma>
+    <lemma>да се организира</lemma>
+    <lemma>да се състави</lemma>
+    <lemma annotation="хартия">съставят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sestavovat</lemma>
+    <lemma>montovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sastavljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>составува</lemma>
+    <lemma>склопува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>montować</lemma>
+    <lemma>zestawiać</lemma>
+    <lemma>składać</lemma>
+    <lemma>układać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>составлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zostavovať</lemma>
+    <lemma>montovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dati skupaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>састављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складати</lemma>
+    <lemma>компонувати</lemma>
+    <lemma>збирати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunmetita Kolektigxu</lemma>
+    <lemma>kompili</lemma>
+    <lemma>aranĝi</lemma>
+    <lemma>kompensi</lemma>
+    <lemma annotation="dokumento">ili strekas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zusammen</lemma>
+    <lemma>montieren</lemma>
+    <lemma>zusammenstellen</lemma>
+    <lemma>arrangieren</lemma>
+    <lemma>Make up</lemma>
+    <lemma annotation="Dokument">auszuarbeiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in elkaar zetten</lemma>
+    <lemma>samenstellen</lemma>
+    <lemma>opstellen</lemma>
+    <lemma>opmaken</lemma>
+  </synset>
+</multilingual-synset>

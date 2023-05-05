@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="67"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="67" steen:pos="m." steen:type="1">hrebetny mozȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спінны мозг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гръбначен мозък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mícha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>leđna moždina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="животински">рбетен мозок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rdzeń kręgowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спинной мозг</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>miecha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hrbtenjača</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кичмена мождина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спинний мозок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mjelo</lemma>
+    <lemma annotation="besto">kerno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rückenmark</lemma>
+    <lemma annotation="Tier">Mark</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ruggenmerg</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36656"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36656"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      zablųđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памыляцца</lemma>
+    <lemma>абмыляцца</lemma>
+    <lemma>дапускаць памылку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>греша</lemma>
+    <lemma>обърквам</lemma>
+    <lemma>заблуждавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mýlit se</lemma>
+    <lemma>chybovat</lemma>
+    <lemma>plést se</lemma>
+    <lemma>být na omylu</lemma>
+    <lemma>být v bludech</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>griješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заблудува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popełniać błędy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заблуждаться</lemma>
+    <lemma>ошибаться</lemma>
+    <lemma>допускать ошибку</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>mýliť sa</lemma>
+    <lemma>blúdiť</lemma>
+    <lemma>pliesť sa</lemma>
+    <lemma>byť na omyle</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>err</lemma>
+    <lemma>err bivanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грешити</lemma>
+    <lemma>бивати у заблуди</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>помилятися</lemma>
+    <lemma>помилятися</lemma>
+    <lemma>робити помилки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eraras</lemma>
+    <lemma>esti en eraro</lemma>
+    <lemma>eraras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>irre</lemma>
+    <lemma>sei im Irrtum</lemma>
+    <lemma>mache Fehler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>het fout hebben</lemma>
+    <lemma>het mis hebben</lemma>
+    <lemma>fouten maken</lemma>
+  </synset>
+</multilingual-synset>

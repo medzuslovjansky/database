@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31853"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31853"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      valet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валет</lemma>
+    <lemma annotation="карты">ніжнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="карта">Джак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spodek</lemma>
+    <lemma annotation="karty">kluk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="u kartama">dečko</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="карти">џандар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>walet</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">валет</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="karty">dolník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pub</lemma>
+    <lemma>Jack</lemma>
+    <lemma annotation="zemljevidi">ACA</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пуб</lemma>
+    <lemma>жандар</lemma>
+    <lemma annotation="у картама">жаца</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="карти">валет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">fanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Buchse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">boer</lemma>
+  </synset>
+</multilingual-synset>

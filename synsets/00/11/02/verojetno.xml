@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1102"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1102" steen:pos="adv." steen:type="1">věrojętno</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>імаверна</lemma>
+    <lemma>эвентуальна</lemma>
+    <lemma>па-эвентуальнаму</lemma>
+    <lemma>вераемна</lemma>
+    <lemma>магчыма</lemma>
+    <lemma>праўдападобна</lemma>
+    <lemma>найхутчэй</lemma>
+    <lemma>пэўна</lemma>
+    <lemma>напэўна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вероятно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravděpodobně</lemma>
+    <lemma>asi</lemma>
+    <lemma>snad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjerojatno</lemma>
+    <lemma>valjda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>веројатно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawdopodobnie</lemma>
+    <lemma>chyba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вероятно</lemma>
+    <lemma>скорее всего</lemma>
+    <lemma>наверно</lemma>
+    <lemma>наверное</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravdepodobne</lemma>
+    <lemma>asi</lemma>
+    <lemma>snáď</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>verjetno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вероватно</lemma>
+    <lemma>ваљда</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ймовірно</lemma>
+    <lemma>швидше за все</lemma>
+    <lemma>напевно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>probable</lemma>
+    <lemma>verŝajne</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wahrscheinlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waarschijnlijk</lemma>
+  </synset>
+</multilingual-synset>

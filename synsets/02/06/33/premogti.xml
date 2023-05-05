@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20633"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20633" steen:pos="v.tr. pf." steen:type="1">
+      prěmogti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перамагчы</lemma>
+    <lemma>перасіліць</lemma>
+    <lemma>пераадолець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се преодолее</lemma>
+    <lemma>за да се преодолее</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překonat</lemma>
+    <lemma>zdolat</lemma>
+    <lemma>přemoct</lemma>
+    <lemma>přemoci</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prevladati</lemma>
+    <lemma>nadvladati</lemma>
+    <lemma>nadjačati</lemma>
+    <lemma annotation="slabost">pobijediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премавна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przemóc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превозмочь</lemma>
+    <lemma>преодолеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prekonať</lemma>
+    <lemma>zdolať</lemma>
+    <lemma>premôcť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>premagati premagati</lemma>
+    <lemma>override</lemma>
+    <lemma annotation="bolan">win</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превазићи</lemma>
+    <lemma>надвладати</lemma>
+    <lemma>надјачати</lemma>
+    <lemma annotation="слабост">победити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перемогти</lemma>
+    <lemma>пересилити</lemma>
+    <lemma>здолати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>superi</lemma>
+    <lemma>venki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überwinden</lemma>
+    <lemma>überwinden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overwinnen</lemma>
+    <lemma>te boven komen</lemma>
+  </synset>
+</multilingual-synset>

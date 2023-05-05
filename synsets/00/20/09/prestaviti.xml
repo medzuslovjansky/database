@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2009" steen:pos="v.tr. pf." steen:type="1">
+      prěstaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераставіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>affairs</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přestavit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presložiti</lemma>
+    <lemma>reorganizirati</lemma>
+    <lemma>preustrojiti</lemma>
+    <lemma>rekonstruirati</lemma>
+    <lemma>razmjestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преправи</lemma>
+    <lemma>реконструира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przestawić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переставить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prestaviť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prenos</lemma>
+    <lemma>prevoz</lemma>
+    <lemma annotation="nekaj na ogenj">premikanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преместити</lemma>
+    <lemma>пренети</lemma>
+    <lemma annotation="нешто на ватру">преставити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переставити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reshuffle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Umbildung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verplaatsen</lemma>
+    <lemma>verzetten</lemma>
+  </synset>
+</multilingual-synset>

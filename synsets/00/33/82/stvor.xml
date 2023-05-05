@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3382"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3382" steen:pos="m." steen:type="2" steen:same="pl sh">
+      stvor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>твор</lemma>
+    <lemma>стварэнне</lemma>
+    <lemma>існасць</lemma>
+    <lemma>істота</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>създание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stvoření</lemma>
+    <lemma>tvor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stvor</lemma>
+    <lemma>(živo) biće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>створ</lemma>
+    <lemma>суштество</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rzecz/osoba">stworzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>творение</lemma>
+    <lemma>создание</lemma>
+    <lemma>существо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stvorenie</lemma>
+    <lemma>tvor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pošast</lemma>
+    <lemma>bitje</lemma>
+    <lemma>bitje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>створ</lemma>
+    <lemma>створење</lemma>
+    <lemma>биће</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>творіння</lemma>
+    <lemma>створення</lemma>
+    <lemma>істота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kreitaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kreatur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schepsel</lemma>
+    <lemma>creatuur</lemma>
+  </synset>
+</multilingual-synset>

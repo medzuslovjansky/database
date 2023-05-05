@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1759"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1759"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v j"
+      steen:genesis="F"
+    >
+      resurs
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэсурс</lemma>
+    <lemma>сродак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ресурс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdroj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>resurs</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ресурс</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>źródło</lemma>
+    <lemma>zasób</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ресурс</lemma>
+    <lemma>средство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zdroj</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>resurs</lemma>
+    <lemma>sredstvo</lemma>
+    <lemma>vir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ресурс</lemma>
+    <lemma>залиха</lemma>
+    <lemma>извор</lemma>
+    <lemma>средство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ресурс</lemma>
+    <lemma>засіб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rimedo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ressource</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hulpbron</lemma>
+  </synset>
+</multilingual-synset>

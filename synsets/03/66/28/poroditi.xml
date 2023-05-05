@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36628"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36628"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      poroditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спарадзіць</lemma>
+    <lemma>парадзіць</lemma>
+    <lemma>выклікаць</lemma>
+    <lemma>спрычыніцца</lemma>
+    <lemma>павыклікаць</lemma>
+    <lemma>вырабіць</lemma>
+    <lemma>зрабіць</lemma>
+    <lemma>здзейсніць</lemma>
+    <lemma>справакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>породя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrodit</lemma>
+    <lemma>vzniknout</lemma>
+    <lemma>vytvořit</lemma>
+    <lemma>vyvolat</lemma>
+    <lemma>generovat</lemma>
+    <lemma>přinést</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">poroditi</lemma>
+    <lemma>roditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>породи</lemma>
+    <lemma>роди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spowodować</lemma>
+    <lemma>wywołać</lemma>
+    <lemma>wydać na świat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>породить</lemma>
+    <lemma>вызвать</lemma>
+    <lemma>произвести</lemma>
+    <lemma>спровоцировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrodiť</lemma>
+    <lemma>vzniknúť</lemma>
+    <lemma>vytvoriť</lemma>
+    <lemma>vyvolať</lemma>
+    <lemma>priniesť na svet</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>poroditi</lemma>
+    <lemma>povzročiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>породити се</lemma>
+    <lemma>родити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>породити</lemma>
+    <lemma>викликати</lemma>
+    <lemma>спровокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aperigu</lemma>
+    <lemma>okazigas</lemma>
+    <lemma>generi</lemma>
+    <lemma>kaŭzo</lemma>
+    <lemma>generi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hervorbringen</lemma>
+    <lemma>hervorrufen</lemma>
+    <lemma>erzeugen</lemma>
+    <lemma>verursachen</lemma>
+    <lemma>erzeugen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voortbrengen</lemma>
+    <lemma>veroorzaken</lemma>
+    <lemma annotation="veroorzaken">oproepen</lemma>
+  </synset>
+</multilingual-synset>

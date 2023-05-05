@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22566"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22566"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      dovŕšati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завяршаць</lemma>
+    <lemma>сканчаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завършвам</lemma>
+    <lemma>довършвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dokončovat</lemma>
+    <lemma>dovršovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>završavati</lemma>
+    <lemma>okončavati</lemma>
+    <lemma>privoditi kraju</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>довршува</lemma>
+    <lemma>завршува</lemma>
+    <lemma>комплетира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakańczać</lemma>
+    <lemma>kończyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завершать</lemma>
+    <lemma>оканчивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dokončovať</lemma>
+    <lemma>završovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vztrajno do popolne</lemma>
+    <lemma>konec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>довршавати</lemma>
+    <lemma>завршавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>завершувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompletaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Komplett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voltooien</lemma>
+    <lemma>afmaken</lemma>
+    <lemma>klaarmaken</lemma>
+    <lemma>afronden</lemma>
+  </synset>
+</multilingual-synset>

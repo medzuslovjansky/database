@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22009"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      prisųđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысуджаць</lemma>
+    <lemma>прысуджваць</lemma>
+    <lemma annotation="напр.: штраф, арышт">накладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="наказание">наложи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odsuzovat</lemma>
+    <lemma annotation="trest">ukládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presuđivati</lemma>
+    <lemma>određivati</lemma>
+    <lemma>odmjeravati</lemma>
+    <lemma>razrezivati</lemma>
+    <lemma>nametati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пресудува</lemma>
+    <lemma>одредува</lemma>
+    <lemma>доделува</lemma>
+    <lemma>одмерува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nakładać</lemma>
+    <lemma annotation="karę">wymierzać</lemma>
+    <lemma annotation="na karę">skazywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присуждать</lemma>
+    <lemma annotation="наказание">налагать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odsudzovať</lemma>
+    <lemma annotation="trest">ukladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obremenitev (kazen) naložila</lemma>
+    <lemma annotation="DDV">naj se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="казну">наложити</lemma>
+    <lemma>наметнути</lemma>
+    <lemma annotation="порез">одредити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>присуджувати</lemma>
+    <lemma annotation="покарання">накладати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="puno">trudi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Strafe">verhängen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="straf">opleggen</lemma>
+  </synset>
+</multilingual-synset>

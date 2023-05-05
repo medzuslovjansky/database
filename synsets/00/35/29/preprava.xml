@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3529"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3529" steen:pos="f." steen:type="1">prěprava</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераправа</lemma>
+    <lemma>перавоз</lemma>
+    <lemma>перавод</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преминаване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeprava</lemma>
+    <lemma>převoz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijelaz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przejście</lemma>
+    <lemma>przejazd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переправа</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preprava</lemma>
+    <lemma>prevoz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prehod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>речни прелаз</lemma>
+    <lemma>прелаз преко воде</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переправа</lemma>
+    <lemma>переїзд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kruciĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kreuzung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kruising</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22237"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22237" steen:pos="n." steen:type="2" steen:same="ru pl sh">
+      svědȯčstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасведчанне</lemma>
+    <lemma>асведчанне</lemma>
+    <lemma>сведчанне</lemma>
+    <lemma>сертыфікат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сертификат и удостоверение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svědectví</lemma>
+    <lemma>osvědčení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svjedočanstvo</lemma>
+    <lemma>svjedodžba</lemma>
+    <lemma>potvrda</lemma>
+    <lemma>certifikat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сведителство</lemma>
+    <lemma>потврда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świadectwo</lemma>
+    <lemma>certyfikat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свидетельство</lemma>
+    <lemma>сертификат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>svedectvo</lemma>
+    <lemma>osvedčenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pričevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сведочанство</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>свідоцтво</lemma>
+    <lemma>сертифікат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atestilo</lemma>
+    <lemma>atesto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zertifikat</lemma>
+    <lemma>Zeugnis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>certificaat</lemma>
+    <lemma>getuigschrift</lemma>
+  </synset>
+</multilingual-synset>

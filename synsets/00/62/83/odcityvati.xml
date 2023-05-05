@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6283"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6283"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z yu mk"
+    >
+      odčityvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>счытаць</lemma>
+    <lemma>зняць паказчыкі</lemma>
+    <lemma>адсканаваць</lemma>
+    <lemma>адсканіраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например, в метри, на температурата">за четене</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odčítávat</lemma>
+    <lemma>odečítat</lemma>
+    <lemma>odčítat</lemma>
+    <lemma>číst</lemma>
+    <lemma>odměřovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odćitavati</lemma>
+    <lemma>očitavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отчитува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odczytywać</lemma>
+    <lemma>skanować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>считать</lemma>
+    <lemma>снять показания</lemma>
+    <lemma>отсканировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odčitovať</lemma>
+    <lemma>odmeriavať</lemma>
+    <lemma>čítať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odčitavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>очитати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зчитати</lemma>
+    <lemma annotation="приладів">прочитати покази</lemma>
+    <lemma>відсканувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz metroj, temperaturo">legi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z.B. m, Temperatur">Lesen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aflezen</lemma>
+    <lemma>uitlezen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10961"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10961" steen:pos="v.refl. ipf." steen:type="1">
+      porųčati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ручацца</lemma>
+    <lemma>гарантаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гаранция за арест</lemma>
+    <lemma>гарантирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaručovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jamčiti</lemma>
+    <lemma>garantirati</lemma>
+    <lemma>davati jamstvo</lemma>
+    <lemma>davati garanciju</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се гарантира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ręczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ручаться</lemma>
+    <lemma>гарантировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zarúčať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Garancija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јамчити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поручатися</lemma>
+    <lemma>ручатися</lemma>
+    <lemma>гарантувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>garantio</lemma>
+    <lemma>mandato</lemma>
+    <lemma>vouch</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Garantie</lemma>
+    <lemma>Options</lemma>
+    <lemma>bürgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich garant stellen</lemma>
+    <lemma annotation="voor">instaan</lemma>
+  </synset>
+</multilingual-synset>

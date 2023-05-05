@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18500"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18500"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru cs yu"
+    >
+      pritvorny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>удаваны</lemma>
+    <lemma>уданы</lemma>
+    <lemma>няшчыры</lemma>
+    <lemma>прыкідлівы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>престорен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předstíraný</lemma>
+    <lemma>přetvářlivý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>lažan</lemma>
+    <lemma>patvoren</lemma>
+    <lemma>neistinit</lemma>
+    <lemma>obmanljiv</lemma>
+    <lemma>varljiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преправен</lemma>
+    <lemma>престорен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>udawany</lemma>
+    <lemma>pozorny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>притворный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>predstieraný</lemma>
+    <lemma>pretváravý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napačna</lemma>
+    <lemma>lažne</lemma>
+    <lemma>napačne</lemma>
+    <lemma>zavajajoče</lemma>
+    <lemma>varljivo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лажан</lemma>
+    <lemma>патворен</lemma>
+    <lemma>неистинит</lemma>
+    <lemma>обманљив</lemma>
+    <lemma>варљив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>удаваний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trompaj</lemma>
+    <lemma>falsa</lemma>
+    <lemma>falsa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vortäuschung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nep</lemma>
+    <lemma>namaak</lemma>
+  </synset>
+</multilingual-synset>

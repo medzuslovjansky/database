@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23860"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23860"
+      steen:addition="(+6)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+    >
+      prisųtstvovati pri
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысутнічаць</lemma>
+    <lemma>быць</lemma>
+    <lemma>бытаваць</lemma>
+    <lemma>трываць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да присъстват</lemma>
+    <lemma>за да присъстват на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>účastnit se</lemma>
+    <lemma>být přítomen na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prisustvovati</lemma>
+    <lemma>pribivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>присуствува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>być obecnym przy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присутствовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>účastniť sa</lemma>
+    <lemma>byť prítomný na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>udeležiti</lemma>
+    <lemma>biti prisoten</lemma>
+    <lemma>da bivanje danes</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>присуствовати</lemma>
+    <lemma>бити присутан</lemma>
+    <lemma>бивати присутан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бути присутнім</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ĉeesti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>besuchen zugegen sein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanwezig zijn bij</lemma>
+  </synset>
+</multilingual-synset>

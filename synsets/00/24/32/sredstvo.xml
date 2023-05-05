@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2432"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2432" steen:pos="n." steen:type="1">srědstvo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="прыём, спосаб, прылада">сродак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>средно средство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prostředek</lemma>
+    <lemma>medium</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sredstvo</lemma>
+    <lemma>oruđe</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="орудие">средство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do zrobienia czegoś">środki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="приём, способ, орудие">средство</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prostriedok</lemma>
+    <lemma>medium</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sredstvo</lemma>
+    <lemma>orodje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>средство</lemma>
+    <lemma>оруђе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="прийом, спосіб, знаряддя">засіб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>meza</lemma>
+    <lemma>rimedoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Mittel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>middel</lemma>
+    <lemma>hulpmiddel</lemma>
+  </synset>
+</multilingual-synset>

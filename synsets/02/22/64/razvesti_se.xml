@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22264"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22264"
+      steen:addition="(råzvede)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      råzvesti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развесціся</lemma>
+    <lemma>разгадавацца</lemma>
+    <lemma>загадавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>развод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvést se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razvesti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се разведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozwieść się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развестись</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozviesť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za razvezo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развести се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розвестися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksedziĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Scheidung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="echtscheiding">scheiden</lemma>
+  </synset>
+</multilingual-synset>

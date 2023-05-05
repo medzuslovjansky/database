@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2873"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2873" steen:pos="m.anim." steen:type="1">lěkaŕ</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лекар</lemma>
+    <lemma>доктар</lemma>
+    <lemma>урач</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лекар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lékař</lemma>
+    <lemma>doktor</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>врачь</lemma>
+    <lemma>балии</lemma>
+    <lemma>балии</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>liječnik</lemma>
+    <lemma>doktor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лекар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lekarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>врач</lemma>
+    <lemma>доктор</lemma>
+    <lemma annotation="разг., устар.">лекарь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lekár</lemma>
+    <lemma>doktor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лекар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лікар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuracisto</lemma>
+    <lemma>doktoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Arzt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>arts</lemma>
+    <lemma>dokter</lemma>
+  </synset>
+</multilingual-synset>

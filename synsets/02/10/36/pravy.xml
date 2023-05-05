@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21036"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21036"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      pravy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>правільны</lemma>
+    <lemma>невінаваты</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>правилно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>správný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravilan</lemma>
+    <lemma>ispravan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>точен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprawny</lemma>
+    <lemma>słuszny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правильный</lemma>
+    <lemma>правый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>správny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pravilno</lemma>
+    <lemma>pravilna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правилан</lemma>
+    <lemma>исправан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>правильний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝusta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>richtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>juist</lemma>
+  </synset>
+</multilingual-synset>

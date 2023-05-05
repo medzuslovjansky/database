@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35162"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35162"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="sk yu mk"
+    >
+      doslědnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паслядоўнасць</lemma>
+    <lemma>несупярэчлівасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>последователност</lemma>
+    <lemma>систематичност</lemma>
+    <lemma>методичност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důslednost</lemma>
+    <lemma>konzistence</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dosljednost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доследност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spójność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>последовательность</lemma>
+    <lemma>непротиворечивость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôslednosť</lemma>
+    <lemma>konzistencia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>doslednost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доследност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>послідовність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kohereco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Konsistenz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>consistentie</lemma>
+  </synset>
+</multilingual-synset>

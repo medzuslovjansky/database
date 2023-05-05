@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28041"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28041" steen:pos="m." steen:type="1" steen:same="v pl">
+      nakolěnnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надкаленнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наколенник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kolenní jablko</lemma>
+    <lemma>čéška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>patela</lemma>
+    <lemma>iver</lemma>
+    <lemma>čašica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="patella">чашката на коленото</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rzepka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>надколенник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kolenné jablko</lemma>
+    <lemma>jabĺčko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nakolenjak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наколењак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наколінок</lemma>
+    <lemma>надколінок</lemma>
+    <lemma>надколінник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kneecap</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kniescheibe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>knieschijf</lemma>
+  </synset>
+</multilingual-synset>

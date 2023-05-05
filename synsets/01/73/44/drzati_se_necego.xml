@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17344"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17344"
+      steen:addition="#(dŕži)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+    >
+      dŕžati sę něčego
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прытрымлівацца чаго-небудзь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>държа се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>držet se něčeho</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>držati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се држи до/за нешто</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trzymać się czegoś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>держаться</lemma>
+    <lemma>придерживаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>držať sa niečoho</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>držijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>држати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>триматися</lemma>
+    <lemma>дотримуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teno sur io</lemma>
+    <lemma>gluiĝas al io</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>halten auf etwas</lemma>
+    <lemma>klammern sich an etwas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vasthouden aan iets</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4310"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4310"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z sh bg"
+    >
+      propadati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прападаць</lemma>
+    <lemma>знікаць</lemma>
+    <lemma>гінуць</lemma>
+    <lemma>правальвацца</lemma>
+    <lemma>трываць няшчасце</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="краят на света">умира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dolů">propadat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>propadati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пропаѓа</lemma>
+    <lemma>паѓа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пропадать</lemma>
+    <lemma>погибать</lemma>
+    <lemma>проваливаться</lemma>
+    <lemma>терпеть неудачу</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="dole">prepadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gniloba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пропадати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пропадати</lemma>
+    <lemma>гинути</lemma>
+    <lemma>терпіти невдачу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pereos</lemma>
+    <lemma>fali tra</lemma>
+    <lemma>malsukcesi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durchfallen">zugrunde gehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>falen</lemma>
+    <lemma>omkomen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22219"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22219"
+      steen:addition="(izpově)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izpověděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паспавядацца</lemma>
+    <lemma>выспаведацца</lemma>
+    <lemma>пакаяцца</lemma>
+    <lemma>прызнацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изповядам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přiznat se</lemma>
+    <lemma>zpovědět se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispovjediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исповеда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyznać się</lemma>
+    <lemma>spowiedzieć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исповедаться</lemma>
+    <lemma>покаяться</lemma>
+    <lemma>признаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>priznať sa</lemma>
+    <lemma>vyspovedať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Priznam</lemma>
+    <lemma>priznam grehe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исповедити</lemma>
+    <lemma>признати грехе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>висповідатися</lemma>
+    <lemma>визнати</lemma>
+    <lemma>зізнатися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>konfesi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bekennen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>biechten</lemma>
+    <lemma>opbiechten</lemma>
+  </synset>
+</multilingual-synset>

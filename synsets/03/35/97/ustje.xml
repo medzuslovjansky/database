@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33597"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33597" steen:pos="n." steen:type="1" steen:same="v z j">
+      usťje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>утока</lemma>
+    <lemma>вусце</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>устието на река</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ústí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ušće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>устие</lemma>
+    <lemma>утока</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ujście</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>устье</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ústie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>usta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ушће</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гирло річки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rivero buŝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flussmündung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rivier">monding</lemma>
+  </synset>
+</multilingual-synset>

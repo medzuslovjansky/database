@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35176"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35176"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      dokumentaľny film
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дакументальны фільм</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>документален филм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dokumentární film</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dokumentarni film</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>документарен филм</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>film dokumentalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>документальный фильм</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dokumentárny film</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dokumentarni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>документарни филм</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>документальний фільм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dokumenta filmo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dokumentarfilm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>documentaire</lemma>
+  </synset>
+</multilingual-synset>

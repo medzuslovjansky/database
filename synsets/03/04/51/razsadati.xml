@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30451"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30451"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v bm"
+    >
+      råzsađati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рассаджваць</lemma>
+    <lemma>высаджваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>седалка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zasazovat</lemma>
+    <lemma>vysazovat</lemma>
+    <lemma>sázet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasađivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расадува</lemma>
+    <lemma>пресадува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rośliny">rozsadzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассаживать</lemma>
+    <lemma annotation="растения">высаживать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zasadzovať</lemma>
+    <lemma>vysádzať</lemma>
+    <lemma>vsádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rasađivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расађивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розсаджувати</lemma>
+    <lemma annotation="рослини">висаджувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>planti ekstere</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auspflanzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verplanten</lemma>
+    <lemma>verspreiden</lemma>
+  </synset>
+</multilingual-synset>

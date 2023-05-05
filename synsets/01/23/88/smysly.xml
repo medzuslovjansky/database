@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12388"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12388" steen:pos="m.pl." steen:type="1">smysly</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пачуцці</lemma>
+    <lemma>адчуванні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чувства</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smysly</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osjetila</lemma>
+    <lemma>čula</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сетилата</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmysły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чувства</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmysly</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vid, sluh, ...">čutila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="вида, слуха...">чула</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>почуття</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senses</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sinne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zintuigen</lemma>
+  </synset>
+</multilingual-synset>

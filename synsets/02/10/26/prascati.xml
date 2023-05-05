@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21026"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21026"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prašćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дараваць</lemma>
+    <lemma>выбачаць</lemma>
+    <lemma>прабачаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прости</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpustit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opraštati</lemma>
+    <lemma>praštati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>простува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przebaczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прощать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odpustiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpustiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опростити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прощати</lemma>
+    <lemma>пробачати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pardoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzeihen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergeven</lemma>
+  </synset>
+</multilingual-synset>

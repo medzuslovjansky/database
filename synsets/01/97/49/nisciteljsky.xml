@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19749"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19749"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      niščiteljsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разбуральны</lemma>
+    <lemma>руйнавальны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опустошителни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zničující</lemma>
+    <lemma>destruktivní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uništavajući</lemma>
+    <lemma>uništavalački</lemma>
+    <lemma>razoran</lemma>
+    <lemma>rušilački</lemma>
+    <lemma>destruktivan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уништувачки</lemma>
+    <lemma>разорен</lemma>
+    <lemma>деструктивен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niszczycielski</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разрушительный</lemma>
+    <lemma>опустошительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zničujúci</lemma>
+    <lemma>deštruktívny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>destruktivno</lemma>
+    <lemma>arack</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уништавалачки</lemma>
+    <lemma>разарачки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>руйнівний</lemma>
+    <lemma>спустошливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>detrua</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>destruktiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>destructief</lemma>
+  </synset>
+</multilingual-synset>

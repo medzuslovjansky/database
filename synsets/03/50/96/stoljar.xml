@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35096"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl sk sh bm"
+    >
+      stoljaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сталяр</lemma>
+    <lemma>стальмах</lemma>
+    <lemma>цясляр</lemma>
+    <lemma>цесля</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Строително дърводелски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>truhlář</lemma>
+    <lemma>stolař</lemma>
+    <lemma>tesař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stolar</lemma>
+    <lemma>cimerman</lemma>
+    <lemma>drvodjelac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>столар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stolarz</lemma>
+    <lemma>cieśla</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>столяр</lemma>
+    <lemma>плотник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stolár</lemma>
+    <lemma>stolár</lemma>
+    <lemma>tesár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tesar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>столар</lemma>
+    <lemma>дрводеља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>столяр</lemma>
+    <lemma>тесляр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉarpentisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zimmermann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>timmerman</lemma>
+  </synset>
+</multilingual-synset>

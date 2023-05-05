@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18133"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18133"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      opekun
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апякун</lemma>
+    <lemma>заступнік</lemma>
+    <lemma>абаронца</lemma>
+    <lemma>абаронец</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пазач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poručník</lemma>
+    <lemma>opatrovník</lemma>
+    <lemma>pěstoun</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čuvar</lemma>
+    <lemma>zaštitnik</lemma>
+    <lemma>branitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чувар</lemma>
+    <lemma>заштитник</lemma>
+    <lemma>старател</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przybrany rodzic">opiekun</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опекун</lemma>
+    <lemma>покровитель</lemma>
+    <lemma>защитник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poručník</lemma>
+    <lemma>opatrovník</lemma>
+    <lemma>pestún</lemma>
+    <lemma>zákonný zástupca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>varuh</lemma>
+    <lemma>zaščitnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чувар</lemma>
+    <lemma>заштитник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опікун</lemma>
+    <lemma>покровитель</lemma>
+    <lemma>захисник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuratoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wächter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voogd</lemma>
+  </synset>
+</multilingual-synset>

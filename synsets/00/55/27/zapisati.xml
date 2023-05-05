@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5527"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5527"
+      steen:addition="(zapiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zapisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запісаць</lemma>
+    <lemma annotation="на дыск">захаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запиша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uložit</lemma>
+    <lemma>zapsat</lemma>
+    <lemma>nahrát</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>напьсати</lemma>
+    <lemma>написати</lemma>
+    <lemma>въпьсати</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snimiti</lemma>
+    <lemma>spremiti</lemma>
+    <lemma>skinuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запише</lemma>
+    <lemma>сними</lemma>
+    <lemma>дигитализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nagrać</lemma>
+    <lemma>zapisać</lemma>
+    <lemma>zarejestrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>записать</lemma>
+    <lemma annotation="на диск">сохранить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uložiť</lemma>
+    <lemma>zapísať</lemma>
+    <lemma>nahrať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gorijo</lemma>
+    <lemma>gorijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>записати</lemma>
+    <lemma>снимити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>записати</lemma>
+    <lemma annotation="на диск">зберегти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>disko</lemma>
+    <lemma annotation="en komputilo">krom</lemma>
+    <lemma>noti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Aufzeichnung</lemma>
+    <lemma>(auf einem Computer) speichern</lemma>
+    <lemma>aufschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="geluid">opnemen</lemma>
+    <lemma annotation="op een computer">opslaan</lemma>
+  </synset>
+</multilingual-synset>

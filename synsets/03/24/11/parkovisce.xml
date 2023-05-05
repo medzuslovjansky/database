@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32411"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32411" steen:pos="n." steen:type="1" steen:genesis="I">
+      parkovišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паркоўка</lemma>
+    <lemma>паркаванне</lemma>
+    <lemma>аўтастаянка</lemma>
+    <lemma>аўтапрыпынак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>паркинг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>parkoviště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>parkiralište</lemma>
+    <lemma>parking</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>паркинг</lemma>
+    <lemma>паркиралиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>parking</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>парковка</lemma>
+    <lemma>автостоянка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>parkovisko</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>parkirišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>паркиралиште</lemma>
+    <lemma>стајалиште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>парковка</lemma>
+    <lemma>автостоянка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭto parko</lemma>
+    <lemma>parkejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Parkplatz</lemma>
+    <lemma>Parkplatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>parkeerplaats</lemma>
+    <lemma>parkeerterrein</lemma>
+  </synset>
+</multilingual-synset>

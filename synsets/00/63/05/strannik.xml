@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6305"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6305"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      strånnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыхільнік</lemma>
+    <lemma>сімпатызант</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>принадлежа</lemma>
+    <lemma>принадлежа</lemma>
+    <lemma>привърженик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přívrženec</lemma>
+    <lemma>stoupenec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pristalica</lemma>
+    <lemma>pristaša</lemma>
+    <lemma>sljedbenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приврзаник</lemma>
+    <lemma>поддржувач</lemma>
+    <lemma>партиски член</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwolennik</lemma>
+    <lemma>stronnik</lemma>
+    <lemma>kibic</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сторонник</lemma>
+    <lemma>приверженец</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prívrženec</lemma>
+    <lemma>stúpenec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>adhezivna</lemma>
+    <lemma>spremljevalec</lemma>
+    <lemma>sledilec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>присталица</lemma>
+    <lemma>следбеник</lemma>
+    <lemma>приврженик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прибічник</lemma>
+    <lemma>прихильник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>adepto</lemma>
+    <lemma>subtenanto</lemma>
+    <lemma>partianino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Haft-</lemma>
+    <lemma>Fan</lemma>
+    <lemma>Partisan</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>adept</lemma>
+    <lemma>aanhanger</lemma>
+    <lemma>volgeling</lemma>
+  </synset>
+</multilingual-synset>

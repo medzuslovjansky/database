@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5061"
+      steen:addition="(vȯzda)"
+      steen:pos="v.pf."
+      steen:type="1"
+    >
+      vȯzdati česť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ушанаваць</lemma>
+    <lemma>адплаціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="чест">отдаде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzdát čest</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odati</lemma>
+    <lemma>iskazati</lemma>
+    <lemma annotation="počast">izraziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оддаде почест</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddać cześć</lemma>
+    <lemma>oddać honory</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воздать почести</lemma>
+    <lemma>почтить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vzdať česť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spomin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одати почаст</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>віддати почесті</lemma>
+    <lemma>ушанувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>salajro honoro</lemma>
+    <lemma>salajro honoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zahlen Ehre</lemma>
+    <lemma>zahlen Ehre</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eer bewijzen</lemma>
+  </synset>
+</multilingual-synset>

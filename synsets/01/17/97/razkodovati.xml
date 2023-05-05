@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11797"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11797"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      råzkodovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэкадаваць</lemma>
+    <lemma>расшыфраваць</lemma>
+    <lemma>адшыфраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>декодира</lemma>
+    <lemma>декриптиране на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozkódovat</lemma>
+    <lemma>dekódovat</lemma>
+    <lemma>dešifrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dekodirati</lemma>
+    <lemma>dešifrirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>декодира</lemma>
+    <lemma>дешифрира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozszyfrowywać</lemma>
+    <lemma>rozkodować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>декодировать</lemma>
+    <lemma>расшфировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozkódovať</lemma>
+    <lemma>dekódovať</lemma>
+    <lemma>dešifrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razvozlati</lemma>
+    <lemma>dekodiranje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дешифровати</lemma>
+    <lemma>дешифрирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>декодувати</lemma>
+    <lemma>розшфрувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malkodi</lemma>
+    <lemma>malĉifri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dekodieren</lemma>
+    <lemma>entschlüsseln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>decoderen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35377"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35377"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v bg"
+      steen:genesis="S"
+    >
+      sųměstimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сумяшчальны</lemma>
+    <lemma>стасоўны</lemma>
+    <lemma>стасавальны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съвместимост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slučitelný</lemma>
+    <lemma>kompatibilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompatibilan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компатибилен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompatybilny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совместимый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zlučiteľný</lemma>
+    <lemma>kompatibilný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>usklajeno</lemma>
+    <lemma>dosledno</lemma>
+    <lemma>združljiv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>усклађен</lemma>
+    <lemma>сагласан</lemma>
+    <lemma>компатибилан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сумісний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kongrua</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kompatibel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>compatibel</lemma>
+  </synset>
+</multilingual-synset>

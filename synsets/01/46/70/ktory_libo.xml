@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14670"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14670"
+      steen:pos="pron.indef."
+      steen:type="2"
+      steen:same="v z"
+    >
+      ktory-libo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>якісьці</lemma>
+    <lemma>які-небудзь</lemma>
+    <lemma>якісь</lemma>
+    <lemma>абы які</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>всеки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>libovolný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="po redu">bilo koji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>било кој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>którykolwiek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>какой-либо</lemma>
+    <lemma>какой-нибудь</lemma>
+    <lemma>любой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľubovoľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="zaporedno">koli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>било који</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>який-небудь</lemma>
+    <lemma>котрийсь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ajna</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>irgendein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enig</lemma>
+    <lemma>welke dan ook</lemma>
+  </synset>
+</multilingual-synset>

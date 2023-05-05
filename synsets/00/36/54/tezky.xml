@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3654"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3654" steen:pos="adj." steen:type="1" steen:same="v pl bm">
+      tęžky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цяжкі</lemma>
+    <lemma annotation="хвароба, злачынства">сур&apos;ёзны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сериозни</lemma>
+    <lemma annotation="болест, престъпление">сериозни</lemma>
+    <lemma annotation="за работа">твърд</lemma>
+    <lemma>неуморим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>těžký</lemma>
+    <lemma>vážný</lemma>
+    <lemma>tvrdý</lemma>
+    <lemma>náročný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>težak</lemma>
+    <lemma>znatan</lemma>
+    <lemma>ozbiljan</lemma>
+    <lemma>jak</lemma>
+    <lemma>mukotrpan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тежок</lemma>
+    <lemma>сериозен</lemma>
+    <lemma>проблематичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poważny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тяжкий</lemma>
+    <lemma annotation="болезнь, преступление">серьёзный</lemma>
+    <lemma annotation="работа">тяжёлый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ťažký</lemma>
+    <lemma>vážny</lemma>
+    <lemma>tvrdý</lemma>
+    <lemma>náročný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomembno</lemma>
+    <lemma>resno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>важан</lemma>
+    <lemma>озбиљан</lemma>
+    <lemma>тежак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>тяжкий</lemma>
+    <lemma annotation="хвороба, злочин">серйозний</lemma>
+    <lemma annotation="робота">важкий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tombo</lemma>
+    <lemma annotation="malsano, krimo">seriozaj</lemma>
+    <lemma annotation="laboro">malmola</lemma>
+    <lemma>laboriga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grab</lemma>
+    <lemma annotation="Krankheit, Kriminalität">schwere</lemma>
+    <lemma annotation="Arbeit">hart</lemma>
+    <lemma>beschwerliche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="ziekte, misdrijf">ernstig</lemma>
+  </synset>
+</multilingual-synset>

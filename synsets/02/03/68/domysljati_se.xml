@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20368"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20368"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="pl cz sh"
+    >
+      domysljati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здагадвацца</lemma>
+    <lemma>дадумвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>догаждам се</lemma>
+    <lemma annotation="гатанката">познавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>domýšlet se</lemma>
+    <lemma>domnívat se</lemma>
+    <lemma>připouštět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dosjećati se</lemma>
+    <lemma>domičljati</lemma>
+    <lemma>shvaćati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се замислува</lemma>
+    <lemma>претпоставува</lemma>
+    <lemma>погодува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>domyślać się</lemma>
+    <lemma>przypuszczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>догадываться</lemma>
+    <lemma>додумываться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>domnievať sa</lemma>
+    <lemma>pripúšťať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pretpostavljati (razmišljanje) špekulirajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="мислити">претпостављати</lemma>
+    <lemma>нагађати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здогадуватись</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diveni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vermuten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aannemen</lemma>
+    <lemma>vermoeden</lemma>
+  </synset>
+</multilingual-synset>

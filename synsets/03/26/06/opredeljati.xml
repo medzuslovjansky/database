@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32606"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32606"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      oprěděljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вызначаць</lemma>
+    <lemma>акрасляць</lemma>
+    <lemma>акрэсліваць</lemma>
+    <lemma>выяўляць</lemma>
+    <lemma>высвятляць</lemma>
+    <lemma>ставіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се определи</lemma>
+    <lemma>определи</lemma>
+    <lemma>определи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>definovat</lemma>
+    <lemma>určovat</lemma>
+    <lemma>zadávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opredjeljivati se</lemma>
+    <lemma>odlučivati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>определува</lemma>
+    <lemma>утврдува</lemma>
+    <lemma>дефинира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>definiować</lemma>
+    <lemma>określać</lemma>
+    <lemma>wyszczególniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>определять</lemma>
+    <lemma>устанавливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>definovať</lemma>
+    <lemma>určovať</lemma>
+    <lemma>zadávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>določi</lemma>
+    <lemma>opredeljavati</lemma>
+    <lemma>ugotoviti</lemma>
+    <lemma>določiti</lemma>
+    <lemma>opredeliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одређивати</lemma>
+    <lemma>опредељавати</lemma>
+    <lemma>утврђивати</lemma>
+    <lemma>дефинисати</lemma>
+    <lemma>наводити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>визначати</lemma>
+    <lemma>встановлювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>difini</lemma>
+    <lemma>determini</lemma>
+    <lemma>specifi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>definieren</lemma>
+    <lemma>bestimmen</lemma>
+    <lemma>angeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bepalen</lemma>
+    <lemma>specificeren</lemma>
+  </synset>
+</multilingual-synset>

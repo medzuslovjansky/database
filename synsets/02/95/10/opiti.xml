@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29510"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29510"
+      steen:addition="(opije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      opiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абпаіць</lemma>
+    <lemma>апаіць</lemma>
+    <lemma annotation="алкаголем">напаіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вода</lemma>
+    <lemma>обърквам</lemma>
+    <lemma>пьянить</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napiti</lemma>
+    <lemma>opiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опие</lemma>
+    <lemma>опијани</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upić</lemma>
+    <lemma annotation="kogoś">spić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опоить</lemma>
+    <lemma annotation="алкоголем">напоить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pijan</lemma>
+    <lemma>pijan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напити</lemma>
+    <lemma>опити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обпоїти</lemma>
+    <lemma annotation="алкоголем">напоїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>make ebria</lemma>
+    <lemma>konfuzi</lemma>
+    <lemma>inebriate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>machen betrunken</lemma>
+    <lemma>fuddle</lemma>
+    <lemma>inebriate</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dronken voeren</lemma>
+    <lemma>bezatten</lemma>
+  </synset>
+</multilingual-synset>

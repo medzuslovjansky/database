@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16473"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16473"
+      steen:addition="(råzbere)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      råzbrati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зразумець</lemma>
+    <lemma>спасцерагчы</lemma>
+    <lemma>уцяміць</lemma>
+    <lemma>разабраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разбирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chápat</lemma>
+    <lemma>rozumět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razabrati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разбере</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozumieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>понять</lemma>
+    <lemma>разобрать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>chápať</lemma>
+    <lemma>rozumieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaznati</lemma>
+    <lemma>razumeti</lemma>
+    <lemma>doumeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разабрати</lemma>
+    <lemma>разумети</lemma>
+    <lemma>схватити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрозуміти</lemma>
+    <lemma>розібрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompreni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begrijpen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35095"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35095"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      atletičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атлетычны</lemma>
+    <lemma>спартыўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>атлетичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>atletický</lemma>
+    <lemma>sportovní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>atletski</lemma>
+    <lemma>sportski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>атлетски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>atletyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>атлетичный</lemma>
+    <lemma>спортивный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>atletický</lemma>
+    <lemma>športový</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>atletski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>атлетски</lemma>
+    <lemma>спортски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>атлетичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Atleta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>athletisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>atletisch</lemma>
+  </synset>
+</multilingual-synset>

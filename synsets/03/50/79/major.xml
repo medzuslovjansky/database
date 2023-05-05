@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35079"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35079"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      major
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>маёр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>майор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>major</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>major</lemma>
+    <lemma>bojnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мајор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>major</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>майор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>major</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>velika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мајор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>майор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="armeo rango">grava</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Haupt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>majoor</lemma>
+  </synset>
+</multilingual-synset>

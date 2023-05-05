@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33214"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33214"
+      steen:pos="f."
+      steen:type="3"
+      steen:same="bg ru~ sh~ mk~"
+    >
+      primamka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прынада</lemma>
+    <lemma>прывабка</lemma>
+    <lemma>прываба</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стръв</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>návnada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mamac</lemma>
+    <lemma>meka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мамка</lemma>
+    <lemma>примка</lemma>
+    <lemma>замка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przynęta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приманка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>návnada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vaba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мамац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>принада</lemma>
+    <lemma>приманка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>logaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Köder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lokaas</lemma>
+  </synset>
+</multilingual-synset>

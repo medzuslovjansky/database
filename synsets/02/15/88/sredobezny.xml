@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21588"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21588" steen:pos="adj." steen:type="2" steen:same="sh">
+      srědoběžny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адцэнтровы</lemma>
+    <lemma annotation="зап.">цэнтрабежны</lemma>
+    <lemma>адсяродны</lemma>
+    <lemma>адсяродкавы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>центробежен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstředivý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>centrifugalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>центрифугални</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odśrodkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>центробежный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odstredivý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>centrifugalna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>центрифугални</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відцентровий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>centrifuga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zentrifugal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>centrifugaal</lemma>
+    <lemma>middelpuntvliedend</lemma>
+  </synset>
+</multilingual-synset>

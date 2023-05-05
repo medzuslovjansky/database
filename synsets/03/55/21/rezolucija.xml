@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35521"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35521"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      rezolucija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэзалюцыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разделителна способност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rezoluce</lemma>
+    <lemma>usnesení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rezolucija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резолуција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rezolucja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резолюция</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rezolúcie</lemma>
+    <lemma>uznesenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>resolucija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>резолуција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>резолюція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>distingivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auflösung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>resolutie</lemma>
+  </synset>
+</multilingual-synset>

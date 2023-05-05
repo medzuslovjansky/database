@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36855"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36855" steen:pos="n." steen:type="1" steen:same="z j">
+      strašilo za ptice
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пудзіла</lemma>
+    <lemma>пужала</lemma>
+    <lemma>чучала</lemma>
+    <lemma>страшыдла</lemma>
+    <lemma annotation="для птушак" />
+    <lemma>страхоцце</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плашило</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>strašák na ptáky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>strašilo za ptice</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>страшило за птици</lemma>
+    <lemma>плашило за птици</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strach na wróble</lemma>
+    <lemma>straszydło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чучело</lemma>
+    <lemma>пугало</lemma>
+    <lemma annotation="для птиц">страшило</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>strašiak na vtákov</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Scarecrow</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>страшило</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>опудало проти птахів</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>timigilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vogelscheuche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vogelverschrikker</lemma>
+  </synset>
+</multilingual-synset>

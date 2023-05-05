@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14924"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14924"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru~ cs yu"
+    >
+      prědhodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэдні</lemma>
+    <lemma>які папярэднічае</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предишни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předchozí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prethodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претходен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprzedni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предшествующий</lemma>
+    <lemma>предыдущий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predchádzajúce</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prejšnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претходни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передуючий</lemma>
+    <lemma>попередній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bisherige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vorig</lemma>
+  </synset>
+</multilingual-synset>

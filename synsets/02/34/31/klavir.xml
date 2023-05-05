@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23431"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23431"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="rue cs yu"
+      steen:genesis="D"
+    >
+      klavir
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клавіры</lemma>
+    <lemma>фартэпіяна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пиано</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klavír</lemma>
+    <lemma>piano</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klavir</lemma>
+    <lemma>glasovir</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клавир</lemma>
+    <lemma>пијано</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pianino</lemma>
+    <lemma>fortepian</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клавир</lemma>
+    <lemma>фортепиано</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klavír</lemma>
+    <lemma>piano</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klavir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клавир</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клавір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>piano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klavier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>piano</lemma>
+  </synset>
+</multilingual-synset>

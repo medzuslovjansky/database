@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35896"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35896"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      inspirovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>натхняць</lemma>
+    <lemma>выклікаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вдъхновявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>inspirovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inspirirati</lemma>
+    <lemma>nadahnuti</lemma>
+    <lemma>potaknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инспирира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inspirować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вдохновлять</lemma>
+    <lemma>внушать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inšpirovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>INSPIRE</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инспирисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>надихати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Inspire</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inspirieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inspireren</lemma>
+  </synset>
+</multilingual-synset>

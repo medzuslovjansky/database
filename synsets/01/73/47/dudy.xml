@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17347"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17347"
+      steen:pos="f.pl."
+      steen:type="2"
+      steen:same="pl cs sl"
+    >
+      dudy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дуда</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гайди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dudy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gajde</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гајди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dudy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>волынка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gajdy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dude</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гајде</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>волинка</lemma>
+    <lemma>дуда</lemma>
+    <lemma annotation="інструменти">коза</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sakŝalmoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dudelsack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doedelzak</lemma>
+  </synset>
+</multilingual-synset>

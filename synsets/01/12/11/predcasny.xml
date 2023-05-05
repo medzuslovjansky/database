@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11211"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11211" steen:pos="adj." steen:type="1">prědčasny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заўчасны</lemma>
+    <lemma>дачасны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рано</lemma>
+    <lemma>преждевременно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předčasný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijevremen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предвремен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przedwczesny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преждевременный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predčasné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prezgodaj</lemma>
+    <lemma>zgodnje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превремен</lemma>
+    <lemma>рани</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передчасний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frua</lemma>
+    <lemma>antaŭtempa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>früh</lemma>
+    <lemma>verfrüht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voortijdig</lemma>
+    <lemma>prematuur</lemma>
+  </synset>
+</multilingual-synset>

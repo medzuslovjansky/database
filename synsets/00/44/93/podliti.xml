@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4493"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4493"
+      steen:addition="(podlije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      podliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вода</lemma>
+    <lemma>напояване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podlít</lemma>
+    <lemma>zavlažit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>navodniti</lemma>
+    <lemma>natopiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>навади</lemma>
+    <lemma>наводни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podlać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podliať</lemma>
+    <lemma>zavlažiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fugirna masa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подлити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>полити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akvo</lemma>
+    <lemma>irigacii</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wasser</lemma>
+    <lemma>Bewässerung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begieten</lemma>
+    <lemma>irrigeren</lemma>
+  </synset>
+</multilingual-synset>

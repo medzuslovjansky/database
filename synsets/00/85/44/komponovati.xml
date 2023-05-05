@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8544"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8544"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      komponovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складаць</lemma>
+    <lemma>кампанаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>композирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>komponovat</lemma>
+    <lemma>skládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>komponirati</lemma>
+    <lemma>skladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компонира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komponować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>составлять</lemma>
+    <lemma>компоновать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>komponovať</lemma>
+    <lemma>skladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sestavite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компоновати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складати</lemma>
+    <lemma>компонувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Verki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>komponieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>componeren</lemma>
+  </synset>
+</multilingual-synset>

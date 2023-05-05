@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21865"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21865" steen:pos="f." steen:type="1">stråna</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дамовы">бок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="договор, искове">участник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="smlouva, žaloba">strana</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stranka</lemma>
+    <lemma>partija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>страна</lemma>
+    <lemma annotation="договор, тужба">странка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="umowy">strona</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="договора">сторона</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="zmluva, žaloba">strana</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Stranka</lemma>
+    <lemma>Stranka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>странка</lemma>
+    <lemma>партија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="договору">сторона</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="interkonsento, proceso">partio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Vereinbarung, Klage">Partei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in een overeenkomst of conflict">partij</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35580"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35580"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      posvědčiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сведчыць</lemma>
+    <lemma>даць сведчанні</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>показания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dosvědčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posvjedočiti</lemma>
+    <lemma>svjedočiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посведочи</lemma>
+    <lemma>искажа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zeznać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свидетельствовать</lemma>
+    <lemma>дать показания</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dosvedčiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrjujejo</lemma>
+    <lemma>pričajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потврдити</lemma>
+    <lemma>посведочити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>засвідчити</lemma>
+    <lemma>надати свідчення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atestas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bezeugen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>getuigen</lemma>
+  </synset>
+</multilingual-synset>

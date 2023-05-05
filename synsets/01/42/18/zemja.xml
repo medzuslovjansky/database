@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14218"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14218" steen:pos="f." steen:type="1" steen:same="v z j">
+      Zemja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>Зямля</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>Земя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>Země</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="planet">Zemlja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>Земја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>Ziemia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>Земля</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>Krajina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Država</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>Земља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>Земля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Tero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Aarde</lemma>
+  </synset>
+</multilingual-synset>

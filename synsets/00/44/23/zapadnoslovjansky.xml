@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4423"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4423"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      zapadnoslovjansky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заходнеславянскі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>западнославянски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>západoslovanský</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapadnoslavenski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>западнословенски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zachodniosłowiański</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>западнославянский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>Západoslovanský</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>West Slav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>западнословенски</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>західнослов&apos;янський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Okcidenta slava</lemma>
+    <lemma>Okcidenta slava</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Westslawische</lemma>
+    <lemma>Western slawischen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>West-Slavisch</lemma>
+  </synset>
+</multilingual-synset>

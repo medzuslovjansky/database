@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="632"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="632" steen:pos="m." steen:type="1" steen:genesis="F">
+      šans
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шанец</lemma>
+    <lemma>шанц</lemma>
+    <lemma>шанс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шанс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šance</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šansa</lemma>
+    <lemma>prilika</lemma>
+    <lemma>prigoda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шанса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szansa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шанс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šanca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priložnost</lemma>
+    <lemma>možnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шанса</lemma>
+    <lemma>могућност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шанс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝanco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Chance</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kans</lemma>
+  </synset>
+</multilingual-synset>

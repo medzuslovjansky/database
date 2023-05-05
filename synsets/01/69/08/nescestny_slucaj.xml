@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16908"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16908" steen:pos="m." steen:type="1" steen:same="ru uk j">
+      neščęstny slučaj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няшчасны выпадак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>злополука</lemma>
+    <lemma>нещастен случай</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nešťastný případ</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nesreća</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>несреќен случај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypadek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>несчастный случай</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nešťastný prípad</lemma>
+    <lemma>nehoda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nesreča</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>несрећа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нещасний випадок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akcidento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unfall</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ongeluk</lemma>
+    <lemma>ongeval</lemma>
+  </synset>
+</multilingual-synset>

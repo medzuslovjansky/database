@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28163"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28163"
+      steen:addition="(narve)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      narvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="кветак">нарваць</lemma>
+    <lemma>назбіраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бера цветя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="květiny">natrhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nabrati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>набра</lemma>
+    <lemma>бере</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="roślin">narwać</lemma>
+    <lemma annotation="roślin ręcznie">nazbierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="цветы">нарвать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="kvetiny">natrhať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="rože">Prevzem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="цвеће">набрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="квітів">нарвати</lemma>
+    <lemma annotation="квітів">назбирати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="floroj">elektu</lemma>
+    <lemma annotation="florojn">kolekti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Blumen">Pick</lemma>
+    <lemma annotation="Blumen">sammeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plukken</lemma>
+  </synset>
+</multilingual-synset>

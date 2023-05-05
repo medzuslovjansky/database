@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27885"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27885" steen:pos="m." steen:type="1" steen:same="v z">
+      mys
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мыс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нос в морето</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mys</lemma>
+    <lemma>ostroh</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рт</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przylądek</lemma>
+    <lemma>cypel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мыс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mys</lemma>
+    <lemma>ostroh</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cape</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рт</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kabo">mantelo</lemma>
+    <lemma>promontorio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Vorgewende">Umhang</lemma>
+    <lemma>Promontorium</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kaap</lemma>
+  </synset>
+</multilingual-synset>

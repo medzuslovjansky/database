@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32074"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="pl uk"
+    >
+      konjaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>конегадовец</lemma>
+    <lemma>канявод</lemma>
+    <lemma>каняр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>коневъд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>koníř</lemma>
+    <lemma>koňař</lemma>
+    <lemma>chovatel koní</lemma>
+    <lemma>obchodník s koňmi</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konjušar</lemma>
+    <lemma>konjar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коњар</lemma>
+    <lemma>џамбаз</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koniarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>коневод</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>koniar</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konjereja</lemma>
+    <lemma>trgovec s konji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коњар</lemma>
+    <lemma>коњушар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коняр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉevalbredisto</lemma>
+    <lemma>ĉevalkomercisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pferdezüchter</lemma>
+    <lemma>Pferdehändler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>paardenfokker</lemma>
+    <lemma>paardenhandelaar</lemma>
+  </synset>
+</multilingual-synset>

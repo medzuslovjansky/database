@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4517"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4517" steen:pos="f." steen:type="1">klětka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="біял.">клетка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клетка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>buňka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stanica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клет</lemma>
+    <lemma>ќелија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cela</lemma>
+    <lemma annotation="biol.">komórka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="биол.">клетка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bunka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>celice</lemma>
+    <lemma>kletka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ћелија</lemma>
+    <lemma>крлетка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клітина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="anatomie">cel</lemma>
+  </synset>
+</multilingual-synset>

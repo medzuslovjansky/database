@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21899"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21899"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      strěgti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сцерагчы</lemma>
+    <lemma>пільнаваць</lemma>
+    <lemma>вартаваць</lemma>
+    <lemma>ахоўваць</lemma>
+    <lemma>стражаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опазване</lemma>
+    <lemma>защита на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>střežit</lemma>
+    <lemma>hlídat</lemma>
+    <lemma>chránit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čuvati</lemma>
+    <lemma>štititi</lemma>
+    <lemma>paziti</lemma>
+    <lemma>brinuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чува</lemma>
+    <lemma>заштитува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strzec</lemma>
+    <lemma>chronić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стеречь</lemma>
+    <lemma>охранять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>strážiť</lemma>
+    <lemma>strážiť</lemma>
+    <lemma>chrániť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ohranjati</lemma>
+    <lemma>varovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чувати</lemma>
+    <lemma>штитити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стерегти</lemma>
+    <lemma>охороняти</lemma>
+    <lemma>захищати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gvardio</lemma>
+    <lemma>protekti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wache</lemma>
+    <lemma>schützen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschermen</lemma>
+  </synset>
+</multilingual-synset>

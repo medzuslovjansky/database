@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33407"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33407"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru cs bg"
+    >
+      uhađati za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="за кімсьці">даглядаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съдът</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvořit se</lemma>
+    <lemma>ucházet se o</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>udvarati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се грижи</lemma>
+    <lemma annotation="за некого, нешто">внимава на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zalecać się do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="за кем-либо">ухаживать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dvoriť sa</lemma>
+    <lemma>uchádzať sa o</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za flirt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>удварати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="за ким-небудь">доглядати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tribunalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gericht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>het hof maken</lemma>
+  </synset>
+</multilingual-synset>

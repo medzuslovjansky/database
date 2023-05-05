@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21927"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21927"
+      steen:addition="(stųpnja)"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      stųpenj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ступень</lemma>
+    <lemma>стадыя</lemma>
+    <lemma>этап</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="развитие">фаза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stupeň</lemma>
+    <lemma annotation="vývoj">etapa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stupanj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="фаза на развој">степен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>etap</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ступень</lemma>
+    <lemma>стадия</lemma>
+    <lemma>этап</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stupeň</lemma>
+    <lemma annotation="vývoj">etapa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>faza</lemma>
+    <lemma>razred</lemma>
+    <lemma>faza</lemma>
+    <lemma>faza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ступањ</lemma>
+    <lemma>степен</lemma>
+    <lemma>ниво</lemma>
+    <lemma>стање</lemma>
+    <lemma>стадијум</lemma>
+    <lemma>фаза</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ступінь</lemma>
+    <lemma>стадія</lemma>
+    <lemma>етап</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de disvolviĝo">stadio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Entwicklungsstufe)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stadium</lemma>
+    <lemma>fase</lemma>
+    <lemma>etappe</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35868"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35868"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      avtostop
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аўтаспын</lemma>
+    <lemma>аўтастоп</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пътуване на (авто)стоп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>autostop</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>autostop</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>автостоп</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>autostop</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>автостоп</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>autostop</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>avtoštop</lemma>
+    <lemma>štopanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аутостопирање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>автостоп</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>petveture</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Trampen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>liften</lemma>
+  </synset>
+</multilingual-synset>

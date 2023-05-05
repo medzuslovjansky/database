@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34550"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34550"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="bm"
+    >
+      orašati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акрапляць</lemma>
+    <lemma>апырскваць</lemma>
+    <lemma>абпырскваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поръсва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kropit</lemma>
+    <lemma>zkrápět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prskati</lemma>
+    <lemma>škropiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оросува</lemma>
+    <lemma>попрскува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skrapiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окроплять</lemma>
+    <lemma>обрызгивать</lemma>
+    <lemma>опрыскивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kropiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spray</lemma>
+    <lemma>spray</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прскати</lemma>
+    <lemma>шкропити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>окропляти</lemma>
+    <lemma>зволожувати</lemma>
+    <lemma>обприскувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>besprinkle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>besprengen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>besprenkelen</lemma>
+    <lemma>besproeien</lemma>
+  </synset>
+</multilingual-synset>

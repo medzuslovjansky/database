@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25445"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25445" steen:pos="f." steen:type="1">dvojka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>двойка</lemma>
+    <lemma>пара</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чифт</lemma>
+    <lemma>двойка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvojice</lemma>
+    <lemma>pár</lemma>
+    <lemma>duo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvojka</lemma>
+    <lemma>par</lemma>
+    <lemma>duo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>двојка</lemma>
+    <lemma>двајца</lemma>
+    <lemma>пар</lemma>
+    <lemma>дуо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dwójka</lemma>
+    <lemma annotation="ilość">para</lemma>
+    <lemma>duo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двойка</lemma>
+    <lemma>пара</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dvojica</lemma>
+    <lemma>pár</lemma>
+    <lemma>duo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dvojica</lemma>
+    <lemma>duo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двојка</lemma>
+    <lemma>пар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>двійка</lemma>
+    <lemma>пара</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paro</lemma>
+    <lemma>duopo</lemma>
+    <lemma>grupo de du</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Paar</lemma>
+    <lemma>duo</lemma>
+    <lemma>eine Gruppe von zwei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tweetal</lemma>
+    <lemma>duo</lemma>
+  </synset>
+</multilingual-synset>

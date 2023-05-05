@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17089"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17089"
+      steen:addition="(+3)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      v protivnosti k
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>у адрозненне ад</lemma>
+    <lemma>у процілегласць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за разлика от обратното</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oproti tomu</lemma>
+    <lemma>narozdíl od</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>naprotiv</lemma>
+    <lemma>naspram</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наспроти</lemma>
+    <lemma>за разлика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>w przeciwieństwie do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>в отличие от</lemma>
+    <lemma>в противоположность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>oproti tomu</lemma>
+    <lemma>na rozdiel od</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nasprotno</lemma>
+    <lemma>v nasprotju</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напротив</lemma>
+    <lemma>наспрам</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>на відміну від</lemma>
+    <lemma>в протилежність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malkiel</lemma>
+    <lemma>en opozicio al</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>im Gegensatz zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in tegenstelling tot</lemma>
+  </synset>
+</multilingual-synset>

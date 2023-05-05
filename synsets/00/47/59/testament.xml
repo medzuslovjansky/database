@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4759"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4759" steen:pos="m." steen:type="1" steen:genesis="I">
+      testament
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэстамент</lemma>
+    <lemma>адпіс</lemma>
+    <lemma>завяшчанне</lemma>
+    <lemma>запавет</lemma>
+    <lemma>тастамент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="завещание">Завет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závěť</lemma>
+    <lemma>poslední vůle</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>testament</lemma>
+    <lemma>oporuka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тестамент</lemma>
+    <lemma>завет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завещание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>závet</lemma>
+    <lemma>posledná vôľa</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaobljubo zaobljubo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заповіт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="volo">testamento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Wille">Testament</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>testament</lemma>
+  </synset>
+</multilingual-synset>

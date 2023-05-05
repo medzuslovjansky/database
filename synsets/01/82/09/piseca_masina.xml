@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18209"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18209"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl bm"
+      steen:genesis="I"
+    >
+      pišęća mašina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>машынапіска</lemma>
+    <lemma>друкарская машына</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пишеща машина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>psací stroj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pisaći stroj</lemma>
+    <lemma>pisaća mašina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>машина за пишување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>maszyna do pisania</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пишущая машинка</lemma>
+    <lemma>печатная машинка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>písací stroj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pisalni stroj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>писаћа машина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>друкарська машинка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tajpilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schreibmaschine</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schrijfmachine</lemma>
+    <lemma>typmachine</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34880"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34880"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ub pl~ cs sl~"
+    >
+      včasny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>учасны</lemma>
+    <lemma annotation="зап.">своечасовы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>своевременно</lemma>
+    <lemma>поради</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>včasný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravodoban</lemma>
+    <lemma>pravovremen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>навремен</lemma>
+    <lemma>благовремен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>terminowy</lemma>
+    <lemma>w właściwym momencie</lemma>
+    <lemma>w odpowiedniej chwili</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>своевременный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skorý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hitro</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>благовремен</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>своєчасний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oportuna</lemma>
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechtzeitige</lemma>
+    <lemma>durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdig</lemma>
+  </synset>
+</multilingual-synset>

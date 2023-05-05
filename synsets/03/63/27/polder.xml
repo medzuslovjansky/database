@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36327"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36327"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="N"
+    >
+      polder
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>польдар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>в beemster</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>polder</lemma>
+    <lemma>poldr</lemma>
+    <lemma>nádrž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>polder</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="низинско земјиште вештачки одземено од морето">
+      полдер
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>polder</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>польдер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>polder</lemma>
+    <lemma>poldrov</lemma>
+    <lemma>nádrž</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="rodovitne zemlje pod morjem">polderjev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="плодно копно ниже мора">полдери</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>польдер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>polder</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Polder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>polder</lemma>
+  </synset>
+</multilingual-synset>

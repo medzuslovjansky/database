@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34657"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34657"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z~"
+    >
+      osvajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асвойваць</lemma>
+    <lemma>авалодваць</lemma>
+    <lemma>апаноўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се запознаят</lemma>
+    <lemma>да се запознаят</lemma>
+    <lemma>магистър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvládat</lemma>
+    <lemma>osvojovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osvojiti</lemma>
+    <lemma>zauzeti</lemma>
+    <lemma>pokoriti</lemma>
+    <lemma>zavladati</lemma>
+    <lemma>zadobiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освојува</lemma>
+    <lemma>запознава</lemma>
+    <lemma>завладува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="z czymś">oswajać</lemma>
+    <lemma>opanowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осваивать</lemma>
+    <lemma>овладевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvládať</lemma>
+    <lemma>osvojovať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr gradivo">conquer</lemma>
+    <lemma annotation="znanje">prevzemata</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. градиво">освајати</lemma>
+    <lemma annotation="знање">стицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>засвоювати</lemma>
+    <lemma>опановувати</lemma>
+    <lemma>оволодівати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>familiarize</lemma>
+    <lemma>konatiĝi</lemma>
+    <lemma>majstro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vertraut machen</lemma>
+    <lemma>machen</lemma>
+    <lemma>Master</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigen maken</lemma>
+  </synset>
+</multilingual-synset>

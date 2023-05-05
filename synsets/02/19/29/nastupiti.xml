@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21929"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21929"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      nastųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="нагою">наступіць</lemma>
+    <lemma annotation="нечакана наступіць">нахапіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настъпя нщ.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čin">nastoupit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nastupiti</lemma>
+    <lemma>stupiti</lemma>
+    <lemma>započeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стапне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nadepnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ногой">наступить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="čin">nastúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Stomp</lemma>
+    <lemma>tramp</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>згазити</lemma>
+    <lemma>угазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="ногою">наступити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tretas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schritt auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op">trappen</lemma>
+  </synset>
+</multilingual-synset>

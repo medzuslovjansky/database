@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21470"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21470"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      prěslědovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераследаваць</lemma>
+    <lemma>дамагацца</lemma>
+    <lemma>пераследваць</lemma>
+    <lemma>гнясці</lemma>
+    <lemma>гнацца</lemma>
+    <lemma>турыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гони</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pronásledovat</lemma>
+    <lemma>hnát</lemma>
+    <lemma>stíhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>goniti</lemma>
+    <lemma>ganjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преследува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ścigać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преследовать</lemma>
+    <lemma>гнаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prenasledovať</lemma>
+    <lemma>hnať</lemma>
+    <lemma>stíhať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vir">pregon</lemma>
+    <lemma annotation="sodišče">brlog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="животиње">гонити</lemma>
+    <lemma annotation="судски">прогањати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переслідувати</lemma>
+    <lemma>гнатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>persekuti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verfolgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervolgen</lemma>
+    <lemma>achtervolgen</lemma>
+  </synset>
+</multilingual-synset>

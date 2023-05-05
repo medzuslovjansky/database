@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36476"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36476"
+      steen:pos="f.pl."
+      steen:type="2"
+      steen:same="pl sk yu"
+      steen:genesis="F"
+    >
+      pomfritky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бульба фры</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="САЩ">Пържени картофи</lemma>
+    <lemma annotation="Обединено кралство">картофени чипсове</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hranolky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomfrit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>помфрит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>frytki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>картофель фри</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hranolky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Chips</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помфрит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>картопля фрі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="Usono">Frititaj terpomoj</lemma>
+    <lemma annotation="UK">frititaj terpomoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="USA">Pommes Frites</lemma>
+    <lemma annotation="Großbritannien">Kartoffelchips</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>frieten</lemma>
+    <lemma>patat</lemma>
+  </synset>
+</multilingual-synset>

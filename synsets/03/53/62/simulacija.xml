@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35362"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35362"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      simulacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сімуляцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>симулация</lemma>
+    <lemma>симулиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>simulace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>simulacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>симулација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>symulacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>симуляция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>simulácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>simulacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>симулација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>симуляція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>simulado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Simulation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>simulatie</lemma>
+  </synset>
+</multilingual-synset>

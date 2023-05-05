@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4803"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4803" steen:pos="pron.pers." steen:type="1">mene</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мяне</lemma>
+    <lemma>мне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>за мен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mě</lemma>
+    <lemma annotation="2.p., 4.p.">mne</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mene</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мене</lemma>
+    <lemma>ме</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>меня</lemma>
+    <lemma>мне</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="2.p">mňa</lemma>
+    <lemma annotation="4.p">ma</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>me</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мене</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мене</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="akuzativo, genitivo">mi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mij</lemma>
+  </synset>
+</multilingual-synset>

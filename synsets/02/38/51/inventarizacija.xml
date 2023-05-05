@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23851"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23851" steen:pos="f." steen:type="1" steen:genesis="I">
+      inventarizacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інвентарызацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>инвентаризация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>inventarizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inventura</lemma>
+    <lemma>inventarizacija</lemma>
+    <lemma>inventiranje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инвентаризација</lemma>
+    <lemma>опремување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inwentaryzacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инвентаризация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inventúra</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>inventar</lemma>
+    <lemma>popis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инвентаризација</lemma>
+    <lemma>инвентар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інвентаризація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inventarisation</lemma>
+    <lemma>inventarization</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Inventarisierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inventarisatie</lemma>
+  </synset>
+</multilingual-synset>

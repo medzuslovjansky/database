@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36695"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36695" steen:pos="f.sg." steen:type="2" steen:same="ru bg">
+      zabolěvajemosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захворвальнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заболеваемост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nemocnost</lemma>
+    <lemma>morbidita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>morbiditet</lemma>
+    <lemma>obolijevanje</lemma>
+    <lemma>pobol</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>морбидитет</lemma>
+    <lemma annotation="стапка, сооднос на болни наспроти здрави лица">
+      заболеност
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zachorowalność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заболеваемость</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chorobnosť</lemma>
+    <lemma>morbidita</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>obolevnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>болесност</lemma>
+    <lemma>однос болесних према здравим</lemma>
+    <lemma>модбидитет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>захворюваність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="indico">morbilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Morbidität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziektecijfer</lemma>
+  </synset>
+</multilingual-synset>

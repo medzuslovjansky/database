@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="721"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="721"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs sh bm"
+    >
+      vinovnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вінаваты</lemma>
+    <lemma annotation="зап.">віноўнік</lemma>
+    <lemma>парушальнік</lemma>
+    <lemma>злачынец</lemma>
+    <lemma>злачынца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>престъпник</lemma>
+    <lemma>виновник</lemma>
+    <lemma>извършител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>viník</lemma>
+    <lemma>pachatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vinovnik</lemma>
+    <lemma>krivac</lemma>
+    <lemma>počinitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виновник</lemma>
+    <lemma>сторител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przestępca</lemma>
+    <lemma>winowajca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>виновник</lemma>
+    <lemma>нарушитель</lemma>
+    <lemma>преступник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vinník</lemma>
+    <lemma>páchateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krivec</lemma>
+    <lemma>krivec</lemma>
+    <lemma>kazensko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>виновник</lemma>
+    <lemma>кривац</lemma>
+    <lemma>злочинац</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>винуватець</lemma>
+    <lemma>порушник</lemma>
+    <lemma>злочинець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kriminto</lemma>
+    <lemma>kulpulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Täter</lemma>
+    <lemma>Täter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dader</lemma>
+    <lemma>schuldige</lemma>
+  </synset>
+</multilingual-synset>

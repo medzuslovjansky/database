@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24886"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24886"
+      steen:addition="(byčka)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      byček
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бычок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>биче</lemma>
+    <lemma>теле</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>býček</lemma>
+    <lemma>junec</lemma>
+    <lemma>mladý vůl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>junac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јунец</lemma>
+    <lemma>младо бикче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>byczek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бычок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>býček</lemma>
+    <lemma>junec</lemma>
+    <lemma>mladý vôl</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јунац</lemma>
+    <lemma>младо мушко говече</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бичок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>steer</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Ochse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stierkalf</lemma>
+  </synset>
+</multilingual-synset>

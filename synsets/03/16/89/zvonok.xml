@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31689"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31689" steen:pos="m." steen:type="1">zvonȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дзвярны">званок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звънец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dveřní">zvonek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="na vratima">zvonce</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="дома, врата">ѕвонче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dzwonek do drzwi</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дверной">звонок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvonec</lemma>
+    <lemma annotation="napr. dverný">zvonček</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="na vratih">zvonec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на вратима">звонце</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="дверний">дзвінок</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sonorilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Türklingel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>deurbel</lemma>
+  </synset>
+</multilingual-synset>

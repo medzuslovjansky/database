@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20920"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20920" steen:pos="m.anim." steen:type="1">očevidec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>відавочца</lemma>
+    <lemma>відавочнік</lemma>
+    <lemma>сведка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>очевидец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>očitý svědek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>očevidac</lemma>
+    <lemma>svjedok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>очевидец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naoczny świadek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>очевидец</lemma>
+    <lemma>свидетель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>očitý svedok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>očividec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>очевидац</lemma>
+    <lemma>сведок</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>очевидець</lemma>
+    <lemma>свідок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atestanto ocular</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Augenzeuge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ooggetuige</lemma>
+  </synset>
+</multilingual-synset>

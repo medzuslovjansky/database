@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36373"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36373"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      elektrik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>электрык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>електричар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elektrikář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>električar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>електричар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>elektryk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>электрик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elektrikár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>električar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>електричар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>електрик</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>elektristo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Elektriker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elektricien</lemma>
+  </synset>
+</multilingual-synset>

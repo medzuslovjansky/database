@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15128"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15128"
+      steen:addition="(vě)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      věděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ведаць</lemma>
+    <lemma>знаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зная</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vědět</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>вѣдѣти</lemma>
+    <lemma>знати</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>знае</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiedzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знать</lemma>
+    <lemma annotation="книжн., трад-нар.">ведать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vedieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vedeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знать</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>scias</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kennt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weten</lemma>
+  </synset>
+</multilingual-synset>

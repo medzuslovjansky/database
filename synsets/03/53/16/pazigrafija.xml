@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35316"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35316"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pazigrafija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазіграфія</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>pasigraphy</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pasigrafie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pasigrafija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="универзално писмо, универзална писменост">
+      пасиграфија
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pasygrafia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пазиграфия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pasigrafia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pismo sredstva univerzalni">pasigrafija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="писмо, универзални знаци">пасиграфија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пазиграфия</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Pasigrafio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pasigrafie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pasigrafie</lemma>
+    <lemma>beeldtaal</lemma>
+  </synset>
+</multilingual-synset>

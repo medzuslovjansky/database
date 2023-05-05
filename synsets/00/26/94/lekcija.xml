@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2694"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2694" steen:pos="f." steen:type="1" steen:genesis="I">
+      lekcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лекцыя</lemma>
+    <lemma>занятак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лекция</lemma>
+    <lemma>урок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přednáška</lemma>
+    <lemma>lekce</lemma>
+    <lemma>výuka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lekcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лекција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lekcja</lemma>
+    <lemma>wykład</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лекция</lemma>
+    <lemma>занятие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prednáška</lemma>
+    <lemma>lekcia</lemma>
+    <lemma>výučba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pouk</lemma>
+    <lemma>predavanje</lemma>
+    <lemma annotation="poučevanje">čas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лекција</lemma>
+    <lemma>предавање</lemma>
+    <lemma annotation="настава">час</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лекція</lemma>
+    <lemma>урок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prelego</lemma>
+    <lemma>leciono</lemma>
+    <lemma>klaso periodo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vortrag</lemma>
+    <lemma>Lektion</lemma>
+    <lemma>Unterrichtsstunde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>les</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3519"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3519"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kopijovati
+    </lemma>
+    <lemma
+      steen:id="3519"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kopirovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>капіяваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>копирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kopírovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kopirati</lemma>
+    <lemma>umnožiti</lemma>
+    <lemma>umnožavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>копира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kopiować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>копировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kopírovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kopirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>копирати</lemma>
+    <lemma>умножавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>копіювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Kopio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kopieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kopiëren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="88"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="88" steen:pos="adj." steen:type="1" steen:genesis="I">
+      religiozny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэлігійны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>религиозни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náboženský</lemma>
+    <lemma>religiózní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>religiozan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>религиски</lemma>
+    <lemma>религиозен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>religijny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>религиозный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>náboženský</lemma>
+    <lemma>religiózne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>verska</lemma>
+    <lemma>pobožni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>религиозни</lemma>
+    <lemma>побожни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>релігійний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>religia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>religiös</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>religieus</lemma>
+    <lemma>godsdienstig</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8301"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8301" steen:pos="adj." steen:type="1">jednosměrny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднабаковы</lemma>
+    <lemma>аднанакіраваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>еднопосочен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jednosměrný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jednosmjeran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еднонасочен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jednokierunkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>односторонний</lemma>
+    <lemma>однонаправленный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jednosmerný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ena smer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једносмеран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>односторонній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Unudirekta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einweg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eenrichtings-</lemma>
+  </synset>
+</multilingual-synset>

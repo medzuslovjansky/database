@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21083"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21083"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      pripustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дапусціць</lemma>
+    <lemma>прызнаць</lemma>
+    <lemma>асвядоміць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>призная</lemma>
+    <lemma>предоставяне на достъп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připustit</lemma>
+    <lemma>přiznat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>priznati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>припушти</lemma>
+    <lemma>допушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyznać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>допустить</lemma>
+    <lemma>признать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pripustiť</lemma>
+    <lemma>priznať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priznati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>признати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>припустити</lemma>
+    <lemma>допустити</lemma>
+    <lemma>визнати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agnoskas</lemma>
+    <lemma>subvencio allaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zugeben</lemma>
+    <lemma>erteilen die Zulassung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toelaten</lemma>
+  </synset>
+</multilingual-synset>

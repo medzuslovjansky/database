@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19676"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19676"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      dokladati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дадаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>добавям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přikládat</lemma>
+    <lemma>přidávat</lemma>
+    <lemma>dokládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dodavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>додава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dokładać</lemma>
+    <lemma>dodawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>добавлять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prikladať</lemma>
+    <lemma>pridávať</lemma>
+    <lemma>dokladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dodano</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>додавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>додавати</lemma>
+    <lemma>докладати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aldoni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>hinzufügen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevoegen</lemma>
+  </synset>
+</multilingual-synset>

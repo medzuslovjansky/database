@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21147"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21147"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh bg"
+    >
+      spasati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ратаваць</lemma>
+    <lemma annotation="зап.">выратоўваць</lemma>
+    <lemma>адратоўваць</lemma>
+    <lemma>уратоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спаси</lemma>
+    <lemma>спаси</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zachraňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spašavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спасува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ocalać</lemma>
+    <lemma>wybawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спасать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zachraňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>reševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>спасавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рятувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krom</lemma>
+    <lemma>rekupero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>retten</lemma>
+    <lemma>erlösen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>redden</lemma>
+  </synset>
+</multilingual-synset>

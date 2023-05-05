@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36538"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36538"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl cz"
+      steen:genesis="F"
+    >
+      karuselj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карусель</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въртележка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kolotoč</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrtuljak</lemma>
+    <lemma>ringišpil</lemma>
+    <lemma>karusel</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рингишпил</lemma>
+    <lemma>вртелешка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karuzela</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>карусель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kolotoč</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrtiljak</lemma>
+    <lemma>vrtiljak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вртешка</lemma>
+    <lemma>рингишпил</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>карусель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>karuselo</lemma>
+    <lemma>gaja-iri-ronda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Karussell</lemma>
+    <lemma>Karussell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draaimolen</lemma>
+  </synset>
+</multilingual-synset>

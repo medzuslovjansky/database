@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35474"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35474" steen:pos="n.sg." steen:type="1" steen:same="v z">
+      izjavjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выяўленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>откриване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odhalení</lemma>
+    <lemma>zjištění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otkrivanje</lemma>
+    <lemma>razotkrivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>откривање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjawienie</lemma>
+    <lemma>wykrywanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обнаружение</lemma>
+    <lemma>выявление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odhalenie</lemma>
+    <lemma>zistenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaznavanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>откривање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виявлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>detekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Entdeckung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>detectie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32223"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32223" steen:pos="f.pl." steen:type="1" steen:genesis="F">
+      piky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="карты">віны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="карта">дама</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="karty">piky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pikovi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="карти">пик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="karty">piki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">пики</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="karty">piky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrhovi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пикови</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">піки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">piko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Spaten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">schoppen</lemma>
+  </synset>
+</multilingual-synset>

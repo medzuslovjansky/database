@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1745"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1745"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pomimo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нягледзячы на</lemma>
+    <lemma>не зважаючы на</lemma>
+    <lemma>насуперак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>въпреки че</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navzdory</lemma>
+    <lemma>přesto</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unatoč</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>и покрај тоа</lemma>
+    <lemma>и покрај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomimo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>несмотря на</lemma>
+    <lemma>вопреки</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>napriek</lemma>
+    <lemma>napriek tomu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poleg tega</lemma>
+    <lemma>kljub preteklosti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поред</lemma>
+    <lemma>упркос</lemma>
+    <lemma>мимо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>незважаючи на</lemma>
+    <lemma>всупереч</lemma>
+    <lemma>опріч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malgraŭ</lemma>
+    <lemma>spite</lemma>
+    <lemma>spite</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trotz</lemma>
+    <lemma>trotz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondanks</lemma>
+    <lemma>niettegenstaande</lemma>
+  </synset>
+</multilingual-synset>

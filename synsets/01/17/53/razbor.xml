@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11753"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11753" steen:pos="m." steen:type="3" steen:same="bg">
+      råzbor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разбор</lemma>
+    <lemma>разгляд</lemma>
+    <lemma>аналіз</lemma>
+    <lemma>расклад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>анализ</lemma>
+    <lemma>коментар</lemma>
+    <lemma>критика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozbor</lemma>
+    <lemma>analýza</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>analiza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анализа</lemma>
+    <lemma>критика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>analiza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разбор</lemma>
+    <lemma>анализ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozbor</lemma>
+    <lemma>analýza</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izbor</lemma>
+    <lemma>analiza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разбор</lemma>
+    <lemma>анализа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розбір</lemma>
+    <lemma>аналіз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>analizo</lemma>
+    <lemma>recenzo</lemma>
+    <lemma>kritiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Analyse</lemma>
+    <lemma>Bewertung</lemma>
+    <lemma>Kritik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>analyse</lemma>
+  </synset>
+</multilingual-synset>

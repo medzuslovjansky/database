@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36542"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36542"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z yu mk"
+      steen:genesis="E"
+    >
+      toster
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тостар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тостер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opékač topinek</lemma>
+    <lemma>topinkovač</lemma>
+    <lemma>toustovač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>toster</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тостер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>toster</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тостер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>opekač hrianok</lemma>
+    <lemma>hriankovač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>toaster</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тостер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тостер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>panrostilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Toaster</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>broodrooster</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10265"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10265"
+      steen:addition="(+5)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      orųdovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абсталяваць</lemma>
+    <lemma>абладаваць</lemma>
+    <lemma>абладзіць</lemma>
+    <lemma>уладзіць</lemma>
+    <lemma>узброіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>инструмент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vybavit</lemma>
+    <lemma>zařídit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opremati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опремува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyposażać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оборудовать</lemma>
+    <lemma>вооружить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vybaviť</lemma>
+    <lemma annotation="niečím">zariadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>equip</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опремати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обладнати</lemma>
+    <lemma>озброїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ilo supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tool</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="met uitrusting">uitrusten</lemma>
+  </synset>
+</multilingual-synset>

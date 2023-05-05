@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20027"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="uk z yu mk"
+    >
+      podmet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадмет</lemma>
+    <lemma annotation="грам.">дзейнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предмет</lemma>
+    <lemma annotation="грам.">подлог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">podmět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predmet</lemma>
+    <lemma>tema</lemma>
+    <lemma>sadržaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подмет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podmiot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предмет</lemma>
+    <lemma annotation="грам.">подлежащее</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="gram.">podmet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predmet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>субјекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>предмет</lemma>
+    <lemma annotation="грам.">підмет</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subjekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gegenstand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderwerp</lemma>
+    <lemma>subject</lemma>
+  </synset>
+</multilingual-synset>

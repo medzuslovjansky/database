@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17071"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17071"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      zonaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>занальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зонален</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zonální</lemma>
+    <lemma>zónový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zonski</lemma>
+    <lemma>pojasni</lemma>
+    <lemma>oblasni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зонски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strefowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зональный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zonálny</lemma>
+    <lemma>zónový</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>conski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зонски</lemma>
+    <lemma>појасни</lemma>
+    <lemma>обласни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зональний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>zona</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zonal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zonaal</lemma>
+  </synset>
+</multilingual-synset>

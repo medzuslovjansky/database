@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33517"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33517" steen:pos="v.tr. ipf." steen:type="1">
+      podråzděljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзяліць</lemma>
+    <lemma>падпадзяляць</lemma>
+    <lemma>падрадзяляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разделени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dále rozdělovat na menší části</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="na manje dijelove">dijeliti</lemma>
+    <lemma>usitnjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подразделува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozdzielać na mniejsze części</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подразделять</lemma>
+    <lemma>разделять на части</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ďalej rozdeľovať na menšie časti</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdrobljeni</lemma>
+    <lemma>zdrobljena</lemma>
+    <lemma>razdeljen na manjše dele</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уситњавати</lemma>
+    <lemma>дробити</lemma>
+    <lemma>делити на мање делове</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розділяти на частини</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subdividi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unterteilen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderverdelen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="826"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="826"
+      steen:addition="(ognja)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      ogȯnj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агонь</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>огън</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oheň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oganj</lemma>
+    <lemma>vatra</lemma>
+    <lemma>plamen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оган</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ogień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>огонь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oheň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ogenj</lemma>
+    <lemma>ogenj</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>ватра</lemma>
+    <lemma>огањ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вогонь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fajro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Feuer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vuur</lemma>
+  </synset>
+</multilingual-synset>

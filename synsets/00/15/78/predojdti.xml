@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1578"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1578"
+      steen:addition="(prědȯjde; prědšel)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prědȯjdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэднічаць</lemma>
+    <lemma>адбыцца перш</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předejít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prethoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претходи</lemma>
+    <lemma>се случи претходно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poprzedzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воспредшествовать</lemma>
+    <lemma>произойти прежде</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pred</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претходити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>статися раніше</lemma>
+    <lemma>передути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vorausgehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorafgaan</lemma>
+  </synset>
+</multilingual-synset>

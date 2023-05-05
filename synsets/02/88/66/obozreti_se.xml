@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28866"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28866"
+      steen:addition="(obȯzri)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru be z yu mk"
+    >
+      obȯzrěti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агледзецца</lemma>
+    <lemma>азірнуцца</lemma>
+    <lemma>паглядзець навокал</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>огледайте се наоколо</lemma>
+    <lemma>вид</lemma>
+    <lemma>проучване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozhlídnout se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obazreti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разгледа</lemma>
+    <lemma>загледа</lemma>
+    <lemma>угледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozejrzeć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оглядеться</lemma>
+    <lemma>осмотреться</lemma>
+    <lemma>посмотреть вокруг</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rozhliadnuť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="približno">rezgledati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="унаоколо">резгледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оглядітися</lemma>
+    <lemma>озирнутися</lemma>
+    <lemma>подивитися навколо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉirkaŭrigardi</lemma>
+    <lemma>vido</lemma>
+    <lemma>enketon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schauen Sie sich um</lemma>
+    <lemma>schauen</lemma>
+    <lemma>Umfrage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rondkijken</lemma>
+  </synset>
+</multilingual-synset>

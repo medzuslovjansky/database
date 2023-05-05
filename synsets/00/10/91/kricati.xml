@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1091"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1091"
+      steen:addition="(kriči)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      kričati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крычаць</lemma>
+    <lemma>плакаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>крещя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křičet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kričati</lemma>
+    <lemma>vrištati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крика</lemma>
+    <lemma>писка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krzyczeć</lemma>
+    <lemma>wrzeszczeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кричать</lemma>
+    <lemma>плакать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kričať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kričijo kričati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>викати</lemma>
+    <lemma>кричати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кричати</lemma>
+    <lemma>волати</lemma>
+    <lemma>плакати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krio</lemma>
+    <lemma>krio</lemma>
+    <lemma>krio</lemma>
+    <lemma>krio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schreien</lemma>
+    <lemma>schreien</lemma>
+    <lemma>schreien</lemma>
+    <lemma>weinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schreeuwen</lemma>
+    <lemma>brullen</lemma>
+    <lemma>gillen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22249"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22249"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs sh+ bg"
+    >
+      dovod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>довад</lemma>
+    <lemma>доказ</lemma>
+    <lemma>сведчанне</lemma>
+    <lemma>аргумент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>довод</lemma>
+    <lemma>аргумент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důvod</lemma>
+    <lemma>argument</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dokaz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>аргумент</lemma>
+    <lemma>основа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dowód</lemma>
+    <lemma>argument</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>довод</lemma>
+    <lemma>аргумент</lemma>
+    <lemma>обоснование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôvod</lemma>
+    <lemma>argument</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dokaz</lemma>
+    <lemma>potrditev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доказ</lemma>
+    <lemma>потврда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довід</lemma>
+    <lemma>аргумент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>argumenton</lemma>
+    <lemma>tero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Argument</lemma>
+    <lemma>Boden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>argument</lemma>
+    <lemma>grond</lemma>
+  </synset>
+</multilingual-synset>

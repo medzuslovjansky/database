@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36675"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v"
+      steen:genesis="E"
+    >
+      bufer obměna
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>буфер абмену</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буферна памет</lemma>
+    <lemma>клипборда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>schránka</lemma>
+    <lemma annotation="buffer">vyrovnávací paměť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>međuspremnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клипборд</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komp.">schowek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буфер обмена</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>schránka</lemma>
+    <lemma>vyrovnávaca pamäť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odložišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клипборд</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буфер обміну</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>tondujo</lemma>
+    <lemma>poŝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zwischenablage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="comp.">klembord</lemma>
+  </synset>
+</multilingual-synset>

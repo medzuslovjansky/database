@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33141"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33141"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bm sb"
+    >
+      narěkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>называць</lemma>
+    <lemma>даваць імя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нарека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pojmenovávat</lemma>
+    <lemma>dávat jméno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nazivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нарекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nazywać</lemma>
+    <lemma>nadawać imię</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>давать имя</lemma>
+    <lemma>называть</lemma>
+    <lemma>нарекать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pomenovávať</lemma>
+    <lemma>dávať meno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>називати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>називати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>doni nomon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gib einen Namen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>een naam geven</lemma>
+  </synset>
+</multilingual-synset>

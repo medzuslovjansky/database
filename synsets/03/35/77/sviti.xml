@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33577"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33577"
+      steen:addition="(svije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ub z bg"
+    >
+      sviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакрыць</lemma>
+    <lemma>абкрыць</lemma>
+    <lemma>ахіліць</lemma>
+    <lemma>акрыць</lemma>
+    <lemma>абвіць</lemma>
+    <lemma>апавіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обвиваться</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovinout</lemma>
+    <lemma>obtočit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obaviti</lemma>
+    <lemma>omotati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замота</lemma>
+    <lemma>засука</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spowić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>покрыть</lemma>
+    <lemma>обвить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovinúť</lemma>
+    <lemma>obtočiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obloga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умотати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>обернути</lemma>
+    <lemma>обмотати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>wreathe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>winden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlechten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32159"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32159" steen:pos="m." steen:type="2" steen:same="uk z">
+      ledovec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ледавік</lemma>
+    <lemma>глетчар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ледник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ledovec</lemma>
+    <lemma>glacier</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ledenjak</lemma>
+    <lemma>glečer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ледник</lemma>
+    <lemma>глечер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lodowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ледник</lemma>
+    <lemma>глетчер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľadovec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ledenik</lemma>
+    <lemma>ledenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ледник</lemma>
+    <lemma>глечер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>льодовик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>glaĉero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gletscher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gletsjer</lemma>
+  </synset>
+</multilingual-synset>

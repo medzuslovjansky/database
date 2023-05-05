@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2690"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2690" steen:pos="f." steen:type="1" steen:genesis="I">
+      luna
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>месяц</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>луна</lemma>
+    <lemma>месечина</lemma>
+    <lemma>месец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="planeta">měsíc</lemma>
+    <lemma>luna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Mjesec</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>месечина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>księżyc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>луна</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="planéta">mesiac</lemma>
+    <lemma>luna</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mesec</lemma>
+    <lemma annotation="nebeško telo">mesec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>месец</lemma>
+    <lemma annotation="небеско тело">луна</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>місяць</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>luno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mond</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maan</lemma>
+  </synset>
+</multilingual-synset>

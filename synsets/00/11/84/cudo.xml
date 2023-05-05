@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1184"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1184"
+      steen:addition="(čuda/čudese)"
+      steen:pos="n."
+      steen:type="1"
+    >
+      čudo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цуд</lemma>
+    <lemma>дзіва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чудо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>div</lemma>
+    <lemma>zázrak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čudo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чудо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cud</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чудо</lemma>
+    <lemma>диво</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čudo</lemma>
+    <lemma>div</lemma>
+    <lemma>zázrak</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čudež</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чудо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чудо</lemma>
+    <lemma>диво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>miro</lemma>
+    <lemma>miraklo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wunder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wonder</lemma>
+  </synset>
+</multilingual-synset>

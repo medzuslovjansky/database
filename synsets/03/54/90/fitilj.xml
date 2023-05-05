@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35490"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35490"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru bm"
+      steen:genesis="T"
+    >
+      fitilj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кнот</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фитил</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>knot</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fitilj</lemma>
+    <lemma>stijenj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фитил</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>knot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фитиль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>knôt</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stenj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фитиљ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ґніт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>meĉo</lemma>
+    <lemma>Candlewick</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Docht</lemma>
+    <lemma>Kerzendocht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lont</lemma>
+  </synset>
+</multilingual-synset>

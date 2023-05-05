@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36096"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z bg"
+      steen:genesis="F"
+    >
+      seržant
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сяржант</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сержант</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>seržant</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodnik</lemma>
+    <lemma>narednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наредник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sierżant</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сержант</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>seržant</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>narednik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>водник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сержант</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>serĝento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sergeant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sergeant</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2155"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2155"
+      steen:pos="m./f."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      pųť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шлях</lemma>
+    <lemma>дарога</lemma>
+    <lemma>падарожжа</lemma>
+    <lemma>вандроўка</lemma>
+    <lemma>падарожнічанне</lemma>
+    <lemma>вандраванне</lemma>
+    <lemma>язда</lemma>
+    <lemma>раз&apos;езд</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пътуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cesta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>putovanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пат</lemma>
+    <lemma>патување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podróż</lemma>
+    <lemma>wyprawa</lemma>
+    <lemma>wędrówka</lemma>
+    <lemma>wycieczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>путь</lemma>
+    <lemma>путешествие</lemma>
+    <lemma>поездка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>cesta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>путовање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подорож</lemma>
+    <lemma>поїздка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vojaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reise</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reis</lemma>
+  </synset>
+</multilingual-synset>

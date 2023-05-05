@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20467"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20467" steen:pos="f." steen:type="1">měrka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мерка</lemma>
+    <lemma>лінейка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мярка</lemma>
+    <lemma>мерило</lemma>
+    <lemma annotation="за измерване">линия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravítko</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мерка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miarka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мерка</lemma>
+    <lemma>мерило</lemma>
+    <lemma>линейка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pravítko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukrep</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мірка</lemma>
+    <lemma>мірило</lemma>
+    <lemma>лінійка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por mezurado">reganto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zum Messen">Lineal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>meetlat</lemma>
+    <lemma>meetlint</lemma>
+  </synset>
+</multilingual-synset>

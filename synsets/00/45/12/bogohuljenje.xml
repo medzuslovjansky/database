@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4512"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4512"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      bogohuljeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блюзьнерства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>богохулство</lemma>
+    <lemma>сквернословие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rouhání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bogohulje</lemma>
+    <lemma>huljenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>богохулење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bluźnierstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>богохульство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rúhanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bogokletstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>богохуљење</lemma>
+    <lemma>псовање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>блюзнірство</lemma>
+    <lemma>богохульство</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>blasfemo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Blasphemie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blasfemie</lemma>
+    <lemma>godslastering</lemma>
+  </synset>
+</multilingual-synset>

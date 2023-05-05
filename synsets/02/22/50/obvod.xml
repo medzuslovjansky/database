@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22250" steen:pos="m." steen:type="2" steen:same="z">
+      obvod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кола</lemma>
+    <lemma>наваколле</lemma>
+    <lemma>перыферыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>периферни устройства</lemma>
+    <lemma>обиколката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obvod</lemma>
+    <lemma>okraj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obod</lemma>
+    <lemma>ivica</lemma>
+    <lemma>rub</lemma>
+    <lemma>kraj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обем</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obwód</lemma>
+    <lemma>skraj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окружность</lemma>
+    <lemma>периферия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obvod</lemma>
+    <lemma>okraj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Obseg</lemma>
+    <lemma>platišča</lemma>
+    <lemma>rob</lemma>
+    <lemma>rob</lemma>
+    <lemma annotation="mesto">kraj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обим</lemma>
+    <lemma>обод</lemma>
+    <lemma>ивица</lemma>
+    <lemma>руб</lemma>
+    <lemma annotation="града">крај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коло</lemma>
+    <lemma>периферія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>periferio</lemma>
+    <lemma>cirkonferenco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Peripherie</lemma>
+    <lemma>umfang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omtrek</lemma>
+    <lemma>periferie</lemma>
+  </synset>
+</multilingual-synset>

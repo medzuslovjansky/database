@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36773"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36773"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      departament
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="адм.-тэр. адзінка">дэпартамент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="администр. единица">департамент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="správní jednotka">departament</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>departman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>департман</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="jednostka administracyjna">departament</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="адм.-тер. единица">департамент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="správna jednotka">department</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>departma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>департман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="адм.-тер. одиниця">департамент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="landa subdivido">fako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Länderunterteilung">Abteilung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="provincie">departement</lemma>
+  </synset>
+</multilingual-synset>

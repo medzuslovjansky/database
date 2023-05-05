@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33408" steen:pos="f." steen:type="1" steen:genesis="F">
+      pilulka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пілюля</lemma>
+    <lemma>пігулка</lemma>
+    <lemma>таблетка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>хапчета</lemma>
+    <lemma>хапчета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pilulka</lemma>
+    <lemma>tableta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pilula</lemma>
+    <lemma>tableta</lemma>
+    <lemma>dražeja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пилула</lemma>
+    <lemma>капсула</lemma>
+    <lemma>таблета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pigułka</lemma>
+    <lemma>tabletka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пилюля</lemma>
+    <lemma>таблетка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pilulka</lemma>
+    <lemma>tableta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pilule</lemma>
+    <lemma>tablete</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пилула</lemma>
+    <lemma>таблета</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пігулка</lemma>
+    <lemma>таблетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pilolo</lemma>
+    <lemma>tablojdo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pille</lemma>
+    <lemma>Tablette</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pil</lemma>
+  </synset>
+</multilingual-synset>

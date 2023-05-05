@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21023" steen:pos="f." steen:type="1">poprųga</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папруга</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>седло-дебелина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>popruh</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kolan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ремен</lemma>
+    <lemma annotation="за коњи">колан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popręg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подпруга</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>popruh</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Tla</lemma>
+    <lemma>Kolan</lemma>
+    <lemma annotation="za konje">Kolan trak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>попруг</lemma>
+    <lemma>колан</lemma>
+    <lemma annotation="за коње">колански каиш</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>попруга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>selo-girth</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sattelgurt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van een zadel">singel</lemma>
+  </synset>
+</multilingual-synset>

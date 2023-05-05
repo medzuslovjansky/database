@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31295"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31295"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      vokalist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вакаліст</lemma>
+    <lemma>спявак</lemma>
+    <lemma>пясняр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>певец</lemma>
+    <lemma>вокалист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vokalista</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vokalist</lemma>
+    <lemma>pjevač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вокалист</lemma>
+    <lemma>пејач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wokalista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вокалист</lemma>
+    <lemma>певец</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vokalista</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pevka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>певач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вокаліст</lemma>
+    <lemma>співак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vocalista</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sänger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vocalist</lemma>
+  </synset>
+</multilingual-synset>

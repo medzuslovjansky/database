@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36295"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36295"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      råzkaznik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расказнік</lemma>
+    <lemma>разказчык</lemma>
+    <lemma>апавяданнік</lemma>
+    <lemma>апавядаўца</lemma>
+    <lemma>апавядальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разказвач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypravěč</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pričalac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раскажувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narrator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассказчик</lemma>
+    <lemma>повествователь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozprávač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>storyteller</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приповедач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оповідач</lemma>
+    <lemma>розповідач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rakontanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erzähler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verteller</lemma>
+  </synset>
+</multilingual-synset>

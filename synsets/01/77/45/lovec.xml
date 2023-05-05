@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17745"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17745" steen:pos="m.anim." steen:type="1">lovec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шахматы">слон</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="фигура в шаха">офицер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">střelec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lovac</lemma>
+    <lemma>laufer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">ловец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">goniec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">слон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šach">strelec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hunter</lemma>
+    <lemma annotation="šah">skakalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ловац</lemma>
+    <lemma>лауфер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">слон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">episkopo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schach">Bishop</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">loper</lemma>
+  </synset>
+</multilingual-synset>

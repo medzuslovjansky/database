@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36591"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36591"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      pokloniti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пакланіцца</lemma>
+    <lemma>раскланіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="жест">лък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poklonit se</lemma>
+    <lemma>uklonit se</lemma>
+    <lemma>sklonit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pokloniti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се поклони</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skłaniać się</lemma>
+    <lemma>pokłaniać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поклониться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pokloniť sa</lemma>
+    <lemma>ukloniť sa</lemma>
+    <lemma>skloniť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поклонити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поклонитися</lemma>
+    <lemma>вклонитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gesto">pafarko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Geste">Bogen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buigen</lemma>
+    <lemma>een buiging maken</lemma>
+  </synset>
+</multilingual-synset>

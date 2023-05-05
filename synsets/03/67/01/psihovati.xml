@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36701"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36701"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru be bg"
+      steen:genesis="I"
+    >
+      psihovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>псіхаваць</lemma>
+    <lemma>выходзіць з сябе</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>психирам се</lemma>
+    <lemma>филмирам се</lemma>
+    <lemma>панирам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šílet</lemma>
+    <lemma>bláznit</lemma>
+    <lemma>vyšilovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ludeti</lemma>
+    <lemma>blesaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изнервира</lemma>
+    <lemma>збесна</lemma>
+    <lemma annotation="од нервоза">полуде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>психовать</lemma>
+    <lemma>выходить из себя</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>psychovať</lemma>
+    <lemma>šalieť</lemma>
+    <lemma>blázniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iti nor</lemma>
+    <lemma>norčevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лудети</lemma>
+    <lemma>блесавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>психувати</lemma>
+    <lemma>виходити з себе</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>freneziĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausrasten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doordraaien</lemma>
+    <lemma>gek doen</lemma>
+    <lemma>hysterisch doen</lemma>
+  </synset>
+</multilingual-synset>

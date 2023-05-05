@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6064"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6064" steen:pos="m.anim." steen:type="3" steen:same="sl">
+      dopisyvatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карэспандэнт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дописник</lemma>
+    <lemma>репортер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korespondent</lemma>
+    <lemma>dopisovatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dopisnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дописник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korespondent</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корреспондент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korešpondent</lemma>
+    <lemma>dopisovateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dopisnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дописник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кореспондент</lemma>
+    <lemma>дописувач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korespondanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Korrespondent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>correspondent</lemma>
+  </synset>
+</multilingual-synset>

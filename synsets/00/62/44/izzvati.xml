@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6244"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6244"
+      steen:addition="(izzȯve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izzvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вы́клікаць</lemma>
+    <lemma>справакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>предизвикам</lemma>
+    <lemma>провокирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyzvat</lemma>
+    <lemma>vyprovokovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izazvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предизвика</lemma>
+    <lemma>провоцира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyzwać</lemma>
+    <lemma>sprowokować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вызвать</lemma>
+    <lemma>спровоцировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyzvať</lemma>
+    <lemma>vyprovokovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izzivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изазвати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>викликати</lemma>
+    <lemma>спровокувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>defio</lemma>
+    <lemma>provoki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herausforderung</lemma>
+    <lemma>provozieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitdagen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30698"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30698"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v~ z j"
+      steen:genesis="I"
+    >
+      skica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эскіз</lemma>
+    <lemma>нарыс</lemma>
+    <lemma>чарнавік</lemma>
+    <lemma>накід</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>скица</lemma>
+    <lemma>проект</lemma>
+    <lemma>план</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skica</lemma>
+    <lemma>návrh</lemma>
+    <lemma>osnova</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>skica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkic</lemma>
+    <lemma>zarys</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эскиз</lemma>
+    <lemma>черновик</lemma>
+    <lemma>набросок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skica</lemma>
+    <lemma>návrh</lemma>
+    <lemma>osnova</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skica</lemma>
+    <lemma>načrt</lemma>
+    <lemma>načrt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скица</lemma>
+    <lemma>нацрт</lemma>
+    <lemma>план</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ескіз</lemma>
+    <lemma>чернетка</lemma>
+    <lemma>нарис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skizo</lemma>
+    <lemma>malneto</lemma>
+    <lemma>skizo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Skizze</lemma>
+    <lemma>Entwurf</lemma>
+    <lemma>outline</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schets</lemma>
+  </synset>
+</multilingual-synset>

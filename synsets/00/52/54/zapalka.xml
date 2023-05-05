@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5254"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5254" steen:pos="f." steen:type="2" steen:same="be z">
+      zapalka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запалка</lemma>
+    <lemma annotation="дыял.">сярнік</lemma>
+    <lemma>сярнічка</lemma>
+    <lemma annotation="саст.">сернік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кибрит</lemma>
+    <lemma>палерка</lemma>
+    <lemma>паличе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zápalka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šibica</lemma>
+    <lemma>žigica</lemma>
+    <lemma>palidrvce</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кибрит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapałka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спичка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zápalka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ujemajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шибица</lemma>
+    <lemma>палидрвце</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сірник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por fari fajron">kongrui</lemma>
+    <lemma>Spunk</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zur Herstellung von Feuer">match</lemma>
+    <lemma>Spunk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lucifer</lemma>
+  </synset>
+</multilingual-synset>

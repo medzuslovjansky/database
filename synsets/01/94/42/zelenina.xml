@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19442"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19442" steen:pos="f." steen:type="1">zelenina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зеляніна</lemma>
+    <lemma>зеляніва</lemma>
+    <lemma>гародніна</lemma>
+    <lemma>сырызна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зеленчук</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zelenina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povrće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зеленчук</lemma>
+    <lemma>зеленило</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>warzywa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>овощ</lemma>
+    <lemma>зелень</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zelenina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zelenjava</lemma>
+    <lemma annotation="arch.">zelenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поврће</lemma>
+    <lemma>зелениш</lemma>
+    <lemma annotation="арх.">зеленина</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>овоч</lemma>
+    <lemma>зелень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>legomo</lemma>
+    <lemma>legomoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gemüse</lemma>
+    <lemma>Gemüse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>groente</lemma>
+  </synset>
+</multilingual-synset>

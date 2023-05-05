@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2004"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2004"
+      steen:addition="(pripomni)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      pripomněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нагадаць</lemma>
+    <lemma>напомніць</lemma>
+    <lemma>напамянуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да напомня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připomenout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>podsjetiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>припомни</lemma>
+    <lemma>потсети</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypomnieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напомнить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pripomenúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opomni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подсетити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нагадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>memorigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erinnern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herinneren aan</lemma>
+    <lemma>in de herinnering oproepen</lemma>
+  </synset>
+</multilingual-synset>

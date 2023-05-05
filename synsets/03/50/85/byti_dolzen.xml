@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35085"
+      steen:pos="v.aux. ipf."
+      steen:type="3"
+      steen:same="ru"
+    >
+      byti dȯlžen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>быць належным</lemma>
+    <lemma>павінны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>трябва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>muset</lemma>
+    <lemma>být povinen</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>длъжьнъ бꙑти</lemma>
+    <lemma>имѣти</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>morati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>треба</lemma>
+    <lemma>мора</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>musieć</lemma>
+    <lemma>powinien</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>быть должным</lemma>
+    <lemma>долженствовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>musieť</lemma>
+    <lemma>byť povinný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>morati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>требати</lemma>
+    <lemma>морати</lemma>
+    <lemma annotation="нп. урадити нешто">бити дужан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>має бути</lemma>
+    <lemma>повинен бути</lemma>
+    <lemma>мусить бути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>devas</lemma>
+    <lemma>devas</lemma>
+    <lemma>devas</lemma>
+    <lemma>devas</lemma>
+    <lemma>estas devigata</lemma>
+    <lemma>devi</lemma>
+    <lemma>ŝuldas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>verpflichtet sein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>moeten</lemma>
+  </synset>
+</multilingual-synset>

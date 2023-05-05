@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33131"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33131" steen:pos="m.anim." steen:type="1">bezbožnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязбожнік</lemma>
+    <lemma>атэіст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>атеист</lemma>
+    <lemma>невярващ</lemma>
+    <lemma>безбожник</lemma>
+    <lemma>богоборец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezbožník</lemma>
+    <lemma>bezbožec</lemma>
+    <lemma>ateista</lemma>
+    <lemma>nevěřící</lemma>
+    <lemma>neznaboh</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bezbožnik</lemma>
+    <lemma>ateist</lemma>
+    <lemma>nevjernik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безбожник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ateista</lemma>
+    <lemma>bezbożnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безбожник</lemma>
+    <lemma>атеист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezbožník</lemma>
+    <lemma>bezverec</lemma>
+    <lemma>neverec</lemma>
+    <lemma>neveriaci</lemma>
+    <lemma>neznaboh</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brezbožec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>атеиста</lemma>
+    <lemma>неверник</lemma>
+    <lemma>безбожник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>атеїст</lemma>
+    <lemma>невіруючий</lemma>
+    <lemma>безбожник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ateisto</lemma>
+    <lemma>nekredanto</lemma>
+    <lemma>sendia homo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Atheist</lemma>
+    <lemma>Skeptiker</lemma>
+    <lemma>gottlose Person</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goddeloze</lemma>
+    <lemma>atheïst</lemma>
+  </synset>
+</multilingual-synset>

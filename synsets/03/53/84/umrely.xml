@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35384"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35384"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z sh bg"
+    >
+      umrěly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памерлы</lemma>
+    <lemma>памёрлы</lemma>
+    <lemma>які памёр</lemma>
+    <lemma>мёртвы</lemma>
+    <lemma>нежывы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>на починалия</lemma>
+    <lemma annotation="починал">покойния</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zemřelý</lemma>
+    <lemma>zesnulý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umrli</lemma>
+    <lemma>pokojni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умрен</lemma>
+    <lemma>починат</lemma>
+    <lemma>покојник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmarły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умерший</lemma>
+    <lemma>мёртвый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zosnulý</lemma>
+    <lemma>zosnulý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umrl prepozno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умрли</lemma>
+    <lemma>покојни</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>померлий</lemma>
+    <lemma>мертвий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forpasita</lemma>
+    <lemma annotation="forpasita">malfrue</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstorben</lemma>
+    <lemma annotation="verstorben">spät</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overleden</lemma>
+    <lemma>wijlen</lemma>
+  </synset>
+</multilingual-synset>

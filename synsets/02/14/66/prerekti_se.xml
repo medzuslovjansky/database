@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21466"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21466"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      prěrěkti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абмовіцца</lemma>
+    <lemma>агаварыцца</lemma>
+    <lemma>памыліцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>направи обмолвку</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeřeknout se</lemma>
+    <lemma>přeříci se</lemma>
+    <lemma>přeříct se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>omašiti se</lemma>
+    <lemma>napraviti jezičnu grešku</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>направи говорна грешка</lemma>
+    <lemma>направи лапсус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przejęzyczyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оговориться</lemma>
+    <lemma>ошибиться в речи</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prerieknúť sa</lemma>
+    <lemma>preriecť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>da ne</lemma>
+    <lemma>da bi jezikovno napako</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>омашити се</lemma>
+    <lemma>направити језичку грешку</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обмовитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fari malhelpas de la lango</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sich versprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich verspreken</lemma>
+  </synset>
+</multilingual-synset>

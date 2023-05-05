@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36804"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36804"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      iznahodȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вынаходніцтва</lemma>
+    <lemma>вынаходства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изобретение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vynález</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izum</lemma>
+    <lemma>pronalazak</lemma>
+    <lemma>otkriće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изум</lemma>
+    <lemma>пронајдок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynalazek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изобретение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vynález</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izum se izum</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изум</lemma>
+    <lemma>проналазак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>винахід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>invento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erfindung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvinding</lemma>
+  </synset>
+</multilingual-synset>

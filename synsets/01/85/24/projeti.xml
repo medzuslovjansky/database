@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18524"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18524"
+      steen:addition="(projme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      projęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праняць</lemma>
+    <lemma>працяць</lemma>
+    <lemma annotation="напр. холад">прабраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например, смразяваща">за да проникне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prostoupit</lemma>
+    <lemma annotation="chlad">proniknout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proniknuti</lemma>
+    <lemma>prodrijeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пројде</lemma>
+    <lemma>навлезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. chłód">owładnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пронять</lemma>
+    <lemma annotation="напр. холод">пробрать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prestúpiť</lemma>
+    <lemma annotation="chlad">preniknúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prodrejo</lemma>
+    <lemma>prodrejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проникнути</lemma>
+    <lemma>продрети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр. холод">пройняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz malvarma">penetri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="z kalt">eindringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. kou">priemen</lemma>
+  </synset>
+</multilingual-synset>

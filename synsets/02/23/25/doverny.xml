@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22325"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22325" steen:pos="adj." steen:type="2" steen:same="ru cz">
+      dověrny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даверны</lemma>
+    <lemma>сакрэтны</lemma>
+    <lemma>тайны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поверителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důvěrný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjerljiv</lemma>
+    <lemma>pouzdan</lemma>
+    <lemma>tajan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доверлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poufny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доверительный</lemma>
+    <lemma>секретный</lemma>
+    <lemma>тайный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôverný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaupno</lemma>
+    <lemma>tajno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поверљив</lemma>
+    <lemma>тајан</lemma>
+    <lemma>поуздан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конфіденційний</lemma>
+    <lemma>довірений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konfidenca</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>geheim</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrouwelijk</lemma>
+  </synset>
+</multilingual-synset>

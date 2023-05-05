@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="413"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="413" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      fermer
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>земеделец</lemma>
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>farmář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>seljak</lemma>
+    <lemma>seljanin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земјоделец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>farmer</lemma>
+    <lemma>rolnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>farmár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kmet</lemma>
+    <lemma>hick</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сељак</lemma>
+    <lemma>сељанин</lemma>
+    <lemma>паор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фермер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>farmisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bauer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boer</lemma>
+  </synset>
+</multilingual-synset>

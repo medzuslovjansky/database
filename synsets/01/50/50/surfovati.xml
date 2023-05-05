@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15050"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15050"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      surfovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сёрфіць</lemma>
+    <lemma>серфіць</lemma>
+    <lemma>катацца на дошцы для сёрфінга</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прибой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>surfovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>surfati</lemma>
+    <lemma>daskati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сурфа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>surfować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сёрфить</lemma>
+    <lemma>кататься на доске для сёрфинга</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>surfovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>surf</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сурфовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>серфити</lemma>
+    <lemma>займатися серфінгом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>surf</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Surfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>surfen</lemma>
+  </synset>
+</multilingual-synset>

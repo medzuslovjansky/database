@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15692"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15692"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      apelant
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апелянт</lemma>
+    <lemma>заяўнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жалбоподател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navrhovatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podnositelj žaljbi</lemma>
+    <lemma>apelant</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жалител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>apelant</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>апеллянт</lemma>
+    <lemma>заявитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>navrhovateľ</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pritožnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жалилац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заявник</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>apelanto</lemma>
+    <lemma>apelacianto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Berufungskläger</lemma>
+    <lemma>Beschwerdeführer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>appellant</lemma>
+  </synset>
+</multilingual-synset>

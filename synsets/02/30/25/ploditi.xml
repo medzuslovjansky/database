@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23025"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru z sl"
+    >
+      ploditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спраджаць</lemma>
+    <lemma>нараджаць</lemma>
+    <lemma>параджаць</lemma>
+    <lemma>пладзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наплодили</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plodit</lemma>
+    <lemma annotation="ryby">třít se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrijestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оплодува</lemma>
+    <lemma>плоди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapładniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>порождать</lemma>
+    <lemma>плодить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>plodiť</lemma>
+    <lemma annotation="ryby">trieť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Bodita rodovitna</lemma>
+    <lemma>oplođivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плодити</lemma>
+    <lemma>оплођивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>породжувати</lemma>
+    <lemma>плодити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frajo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>laichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevruchten</lemma>
+  </synset>
+</multilingual-synset>

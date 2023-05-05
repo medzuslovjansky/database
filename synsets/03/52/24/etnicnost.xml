@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35224"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35224"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      etničnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нацыянальнасць</lemma>
+    <lemma>этнічная прыналежнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>етнос</lemma>
+    <lemma>националност</lemma>
+    <lemma>народност</lemma>
+    <lemma>етническа принадлежност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>etnický původ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>etnicitet</lemma>
+    <lemma>narodnost</lemma>
+    <lemma>etnička pripadnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>етничка припадност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>etniczność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>национальность</lemma>
+    <lemma>этническая принадлежность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>etnický pôvod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>narodnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>етничка припадност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>етнічна приналежність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>etneco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ethnizität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>etniciteit</lemma>
+  </synset>
+</multilingual-synset>

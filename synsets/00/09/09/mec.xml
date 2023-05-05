@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="909" steen:pos="m." steen:type="2" steen:same="v">
+      męč
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мяч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>топка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>míč</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lopta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>топка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piłka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мяч</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lopta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žoga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лопта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>м&apos;яч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pilko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Ball</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bal</lemma>
+  </synset>
+</multilingual-synset>

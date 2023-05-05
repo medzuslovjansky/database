@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18286" steen:pos="n." steen:type="2" steen:same="ub pl">
+      pohođeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паходжанне</lemma>
+    <lemma>крыніца</lemma>
+    <lemma>генезіс</lemma>
+    <lemma>генез</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>произход</lemma>
+    <lemma>битие</lemma>
+    <lemma>източник на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>původ</lemma>
+    <lemma>vznik</lemma>
+    <lemma>zdroj</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>porijeklo</lemma>
+    <lemma>postanak</lemma>
+    <lemma>postanje</lemma>
+    <lemma>izvor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потекло</lemma>
+    <lemma>битие</lemma>
+    <lemma>извор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>geneza</lemma>
+    <lemma annotation="pochodzenie">źródło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>происхождение</lemma>
+    <lemma>источник</lemma>
+    <lemma>генезис</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pôvod</lemma>
+    <lemma>vznik</lemma>
+    <lemma>zdroj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poreklo</lemma>
+    <lemma>izvor</lemma>
+    <lemma>genesis</lemma>
+    <lemma>izvor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порекло</lemma>
+    <lemma>постанак</lemma>
+    <lemma>постање</lemma>
+    <lemma>извор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>походження</lemma>
+    <lemma>джерело</lemma>
+    <lemma>генезис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>origino</lemma>
+    <lemma>genezo</lemma>
+    <lemma>fonto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Herkunft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afkomst</lemma>
+    <lemma>bron</lemma>
+  </synset>
+</multilingual-synset>

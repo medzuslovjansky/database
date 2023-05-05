@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20943"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20943" steen:pos="n.sg." steen:type="2" steen:same="v pl">
+      opekunstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="над чым-небудзь">апякунства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за либия.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pověřenectví</lemma>
+    <lemma>správcovství</lemma>
+    <lemma>správa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjerenstvo</lemma>
+    <lemma>povjereništvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поверенство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiernictwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="над чем-либо">попечительство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>povereníctvo</lemma>
+    <lemma>správcovstvo</lemma>
+    <lemma>správa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrbnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повереништво</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="над чим-небудь">опікування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuratoreco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Treuhandschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>curatorschap</lemma>
+    <lemma>curatele</lemma>
+  </synset>
+</multilingual-synset>

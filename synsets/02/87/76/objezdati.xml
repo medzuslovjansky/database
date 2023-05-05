@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28776"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28776" steen:pos="v.tr. ipf." steen:type="1">
+      obježđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аб&apos;язджаць</lemma>
+    <lemma>абмінаць</lemma>
+    <lemma>абкружаць</lemma>
+    <lemma>абкручвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>давай кръг</lemma>
+    <lemma>кръг пътуване</lemma>
+    <lemma>направи кука</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>objíždět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obilaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обиколува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>objeżdżać</lemma>
+    <lemma annotation="wokoło">zwiedzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>объезжать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obchádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="avto">krogi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="колима">обилазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>об&apos;їжджати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉirkaŭiri</lemma>
+    <lemma>vojaĝoj ronda</lemma>
+    <lemma>fari ĉirkaŭiron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gehen rund</lemma>
+    <lemma>reisen rund</lemma>
+    <lemma>machen einen Umweg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>om … heen rijden</lemma>
+    <lemma>rondreizen</lemma>
+  </synset>
+</multilingual-synset>

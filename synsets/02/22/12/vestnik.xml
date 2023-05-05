@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22212"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22212"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      věstnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вястун</lemma>
+    <lemma>звястун</lemma>
+    <lemma>веснік</lemma>
+    <lemma>абвеснік</lemma>
+    <lemma>вяшчальнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вестоносец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohlašovatel</lemma>
+    <lemma>posel</lemma>
+    <lemma>herold</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjesnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гласник</lemma>
+    <lemma>послание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>posłaniec</lemma>
+    <lemma>herold</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вестник</lemma>
+    <lemma>глашатай</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ohlasovateľ</lemma>
+    <lemma>posol</lemma>
+    <lemma>herold</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>List RS</lemma>
+    <lemma>delegat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>весник</lemma>
+    <lemma>изасланик</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вісник</lemma>
+    <lemma>глашатай</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>heroldo</lemma>
+    <lemma>mesaĝisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herold</lemma>
+    <lemma>Bote</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezant</lemma>
+    <lemma>heraut</lemma>
+  </synset>
+</multilingual-synset>

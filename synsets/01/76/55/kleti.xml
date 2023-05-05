@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17655"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17655"
+      steen:addition="(klne)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      klęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праклінаць</lemma>
+    <lemma>лаяць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кълна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klít</lemma>
+    <lemma>proklínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>psovati</lemma>
+    <lemma>kleti</lemma>
+    <lemma>beštimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>колне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kląć</lemma>
+    <lemma>przeklinać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проклинать</lemma>
+    <lemma>ругать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kliať</lemma>
+    <lemma>preklínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preklinjanja</lemma>
+    <lemma>klet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>псовати</lemma>
+    <lemma>клети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кляти</lemma>
+    <lemma>проклинати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbenos</lemma>
+    <lemma>ĵuras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fluch</lemma>
+    <lemma>schwören sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vloeken</lemma>
+  </synset>
+</multilingual-synset>

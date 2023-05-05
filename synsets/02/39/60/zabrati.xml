@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23960"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23960"
+      steen:addition="(zabere)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="uk z"
+    >
+      zabrati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взема</lemma>
+    <lemma>забера</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odebrat</lemma>
+    <lemma>odnést</lemma>
+    <lemma>odvézt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uzeti</lemma>
+    <lemma>odnijeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земе</lemma>
+    <lemma>собере</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zabrać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>забрать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odobrať</lemma>
+    <lemma>odniesť</lemma>
+    <lemma>odviezť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvigni</lemma>
+    <lemma>dvigni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узети</lemma>
+    <lemma>покупити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forprenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wegbringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>meenemen</lemma>
+    <lemma>wegnemen</lemma>
+    <lemma>weghalen</lemma>
+    <lemma>wegpakken</lemma>
+  </synset>
+</multilingual-synset>

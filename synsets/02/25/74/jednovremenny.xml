@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22574"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22574" steen:pos="adj." steen:type="2" steen:same="ru sh">
+      jednovrěmenny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адначасовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>едновременен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>současný</lemma>
+    <lemma>simultánní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istovremen</lemma>
+    <lemma>istodoban</lemma>
+    <lemma>simultan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>едновремен</lemma>
+    <lemma>истовремен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jednoczesny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одновременный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>súčasný</lemma>
+    <lemma>simultánny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hkrati</lemma>
+    <lemma>hkrati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истовремен</lemma>
+    <lemma>у исто време</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одночасний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>samtempaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>gleichzeitig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gelijktijdig</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12389"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12389"
+      steen:addition="(snabdi)"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+    >
+      snabděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>забяспечыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>доставка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zásobit</lemma>
+    <lemma>dodat</lemma>
+    <lemma>opatřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snabdjeti</lemma>
+    <lemma>opskrbiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снабди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaopatrzyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снабдить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zásobiť</lemma>
+    <lemma>dodať</lemma>
+    <lemma>opatriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dostavi</lemma>
+    <lemma>naročajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снабдети</lemma>
+    <lemma>набавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>забезпечити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provizo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>liefern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leveren</lemma>
+    <lemma>voorzien van</lemma>
+    <lemma>bevoorraden met</lemma>
+  </synset>
+</multilingual-synset>

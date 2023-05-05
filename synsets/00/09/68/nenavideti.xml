@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="968"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="968"
+      steen:addition="(nenavidi)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      nenaviděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ненавідзець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ненавиждам</lemma>
+    <lemma>мразя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nenávidět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>омраза</lemma>
+    <lemma>мразат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nienawidzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ненавидеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nenávidieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sovraštvo</lemma>
+    <lemma>nenavidet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мрзети</lemma>
+    <lemma>ненавидети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ненавидіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malamas</lemma>
+    <lemma>abomenon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>hassen</lemma>
+    <lemma>verabscheuen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>haten</lemma>
+  </synset>
+</multilingual-synset>

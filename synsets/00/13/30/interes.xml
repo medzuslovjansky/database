@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1330"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1330" steen:pos="m." steen:type="1" steen:genesis="I">
+      interes
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цікавасць</lemma>
+    <lemma>зацікаўленасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>интерес</lemma>
+    <lemma>заинтересованост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zájem</lemma>
+    <lemma>interes</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zainteresiranost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>интерес</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zainteresowanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интерес</lemma>
+    <lemma>заинтересованность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>záujem</lemma>
+    <lemma>interes</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obresti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заинтересованост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інтерес</lemma>
+    <lemma>цікавість</lemma>
+    <lemma>зацікавленість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>intereso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Interesse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interesse</lemma>
+    <lemma>belangstelling</lemma>
+  </synset>
+</multilingual-synset>

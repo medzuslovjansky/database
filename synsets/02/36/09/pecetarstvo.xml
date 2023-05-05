@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23609" steen:pos="n.sg." steen:type="1" steen:same="ru bg">
+      pečętaŕstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>друк</lemma>
+    <lemma>друкаванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>печат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tiskařství</lemma>
+    <lemma>tiskárna</lemma>
+    <lemma>polygrafie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispis</lemma>
+    <lemma>printanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>печатарство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>druk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>печать</lemma>
+    <lemma>печатание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tlačiarstvo</lemma>
+    <lemma>tlačiareň</lemma>
+    <lemma>polygrafia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tiskanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штампање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>друк</lemma>
+    <lemma>друкування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>printado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drucken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>drukkerij</lemma>
+  </synset>
+</multilingual-synset>

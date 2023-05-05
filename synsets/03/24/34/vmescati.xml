@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32434"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32434" steen:pos="v.tr. ipf." steen:type="1">
+      vměšćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>месціцца</lemma>
+    <lemma>месцавацца</lemma>
+    <lemma>размяшчацца</lemma>
+    <lemma>сяліцца</lemma>
+    <lemma>пасяляцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настанявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ubytovávat</lemma>
+    <lemma>umísťovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>smještati</lemma>
+    <lemma annotation="nekoga u hotelu">prijavljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сместува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakwaterowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>размещаться</lemma>
+    <lemma>селиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ubytovávať</lemma>
+    <lemma>umiestňovať</lemma>
+    <lemma>umiesťovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nastanjeni</lemma>
+    <lemma annotation="na osebo">poročilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смештати</lemma>
+    <lemma annotation="некога у хотелу">пријављивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>розміщуватися</lemma>
+    <lemma>селитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="hotelo">akomodi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Hotel">zubringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderdak bieden</lemma>
+    <lemma annotation="hotel">plaatsen</lemma>
+  </synset>
+</multilingual-synset>

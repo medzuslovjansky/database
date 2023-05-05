@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2775"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2775" steen:pos="m." steen:type="1">natisk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>націск</lemma>
+    <lemma>ціск</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>натиск</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nátisk</lemma>
+    <lemma>nápor</lemma>
+    <lemma>nátlak</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tlak</lemma>
+    <lemma>vršiti pritisak</lemma>
+    <lemma annotation="silom ili riječima">utjecati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>притисок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nacisk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>натиск</lemma>
+    <lemma>давление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nátisk</lemma>
+    <lemma>nápor</lemma>
+    <lemma>nátlak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tlak</lemma>
+    <lemma>tlak</lemma>
+    <lemma annotation="sila ali besed">vpliv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>притисак</lemma>
+    <lemma>вршити притисак</lemma>
+    <lemma annotation="силом или речима">утицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>натискати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Druck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>druk</lemma>
+  </synset>
+</multilingual-synset>

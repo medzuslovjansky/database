@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33675"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zamrzati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мерзнуць</lemma>
+    <lemma>замярзаць</lemma>
+    <lemma>застыгаць</lemma>
+    <lemma>сцюдзянець</lemma>
+    <lemma>застываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>измръзвам</lemma>
+    <lemma>премръзвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umrzat</lemma>
+    <lemma>zmrzat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">smrzavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премрзнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamarzać</lemma>
+    <lemma>lodowacieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замерзать</lemma>
+    <lemma>застывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamŕzať</lemma>
+    <lemma>mrznúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamrzne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смрзавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замерзати</lemma>
+    <lemma>застигати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frostigi al morto</lemma>
+    <lemma>glacio finiĝis</lemma>
+    <lemma>esti frosto-mordis</lemma>
+    <lemma>frostigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erfrieren</lemma>
+    <lemma>vereisen</lemma>
+    <lemma>sei erfroren</lemma>
+    <lemma>erstarren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doodvriezen</lemma>
+    <lemma>bevriezen</lemma>
+  </synset>
+</multilingual-synset>

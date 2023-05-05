@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36625"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36625"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs yu mk"
+      steen:genesis="I"
+    >
+      moŕsky jež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>марскі вожык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>морски таралеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mořský ježek</lemma>
+    <lemma>ježovka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ježinac</lemma>
+    <lemma>morski jež</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>морски еж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jeżowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>морской ёж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>morský ježko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Morski ježek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>морски јеж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>морський їжак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>equino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Seeigel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zee-egel</lemma>
+  </synset>
+</multilingual-synset>

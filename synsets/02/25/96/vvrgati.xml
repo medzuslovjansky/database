@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22596"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22596"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      vvŕgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уводзіць</lemma>
+    <lemma>уганяць</lemma>
+    <lemma>уцягваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>потъвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatlačovat</lemma>
+    <lemma>vrážet</lemma>
+    <lemma>uvrhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uguravati</lemma>
+    <lemma>ubacivati</lemma>
+    <lemma>utiskivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задлаби</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wtrącać</lemma>
+    <lemma>wpychać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ввергать</lemma>
+    <lemma>вводить</lemma>
+    <lemma>втягивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zatlačovať</lemma>
+    <lemma>vrážať</lemma>
+    <lemma>uvrhať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrgavati</lemma>
+    <lemma annotation="sila">mesto</lemma>
+    <lemma>razporejen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вргавати</lemma>
+    <lemma annotation="силом">стављати</lemma>
+    <lemma>бацати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ввергати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plonĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stürzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>storten</lemma>
+  </synset>
+</multilingual-synset>

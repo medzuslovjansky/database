@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29796"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29796" steen:pos="adj." steen:type="1">ozimy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зімавы</lemma>
+    <lemma>азімы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="засаждане">зима</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="plodiny">zimní</lemma>
+    <lemma>ozimý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ozimi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="култури">зимски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ozimy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>озимый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="plodiny">zimný</lemma>
+    <lemma>ozimný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zimski posevki</lemma>
+    <lemma>zima</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>озими усев</lemma>
+    <lemma>озим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>озимий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kultivaĵoj">vintro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Kulturen">Winter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="oogst">winter-</lemma>
+    <lemma>in de herfst gezaaid</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13227"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13227" steen:pos="m." steen:type="1" steen:same="v pl j">
+      ukaz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>указ</lemma>
+    <lemma>пастанова</lemma>
+    <lemma>дэкрэт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>эдикт</lemma>
+    <lemma>декрет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nařízení</lemma>
+    <lemma>výnos</lemma>
+    <lemma>vyhláška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ukaz</lemma>
+    <lemma>odluka</lemma>
+    <lemma>rješenje</lemma>
+    <lemma>akt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>указ</lemma>
+    <lemma>декрет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>edykt</lemma>
+    <lemma>dekret</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>указ</lemma>
+    <lemma>постановление</lemma>
+    <lemma>декрет</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>nariadenia</lemma>
+    <lemma>výnos</lemma>
+    <lemma>vyhláška</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukaz</lemma>
+    <lemma>odločitev</lemma>
+    <lemma>rešitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>указ</lemma>
+    <lemma>одлука</lemma>
+    <lemma>решење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>указ</lemma>
+    <lemma>наказ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>edikto</lemma>
+    <lemma>dekreto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Edikt</lemma>
+    <lemma>Erlass</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>decreet</lemma>
+    <lemma>edict</lemma>
+  </synset>
+</multilingual-synset>

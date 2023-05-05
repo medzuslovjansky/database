@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1711"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1711"
+      steen:addition="(prějde; prěšel)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      prějdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перайсці</lemma>
+    <lemma>перасекчы</lemma>
+    <lemma>мінуць</lemma>
+    <lemma>перацяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кръст</lemma>
+    <lemma>за да се преодолее</lemma>
+    <lemma>да се премине</lemma>
+    <lemma>за да се мине</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přejít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prijeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прејде</lemma>
+    <lemma>помина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przejść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перейти</lemma>
+    <lemma>пересечь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prejsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priti čez</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перейти</lemma>
+    <lemma>перетнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Transcend transiros</lemma>
+    <lemma>transiru</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überqueren</lemma>
+    <lemma>überschreiten</lemma>
+    <lemma>überkreuzen</lemma>
+    <lemma>übergehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doorlopen</lemma>
+    <lemma>ondergaan</lemma>
+  </synset>
+</multilingual-synset>

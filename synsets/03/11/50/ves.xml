@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31150"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31150"
+      steen:addition="(vsi)"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="be z yu"
+    >
+      veś
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вёска</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>село</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vesnice</lemma>
+    <lemma>ves</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>selo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>село</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wieś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>деревня</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dediny</lemma>
+    <lemma>ves</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vasi</lemma>
+    <lemma annotation="arch.">vsi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>село</lemma>
+    <lemma annotation="арх.">вес</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>село</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vilaĝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dorf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dorp</lemma>
+  </synset>
+</multilingual-synset>

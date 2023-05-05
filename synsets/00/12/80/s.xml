@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1280"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      s
+    </lemma>
+    <lemma
+      steen:id="1280"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      so
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з</lemma>
+    <lemma>са</lemma>
+    <lemma>разам з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>С</lemma>
+    <lemma>заедно с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>s</lemma>
+    <lemma>se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>s</lemma>
+    <lemma>s</lemma>
+    <lemma>uz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>со</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>с</lemma>
+    <lemma>со</lemma>
+    <lemma>вместе с</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>s</lemma>
+    <lemma>sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>y</lemma>
+    <lemma>z</lemma>
+    <lemma>z</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>с</lemma>
+    <lemma>са</lemma>
+    <lemma>уз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з</lemma>
+    <lemma>із</lemma>
+    <lemma>спільно з</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kun</lemma>
+    <lemma>kune kun</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mit</lemma>
+    <lemma>zusammen mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>met</lemma>
+  </synset>
+</multilingual-synset>

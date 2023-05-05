@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11010"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11010" steen:pos="n." steen:type="3" steen:same="cs">
+      postavjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стварэнне</lemma>
+    <lemma>збудаванне</lemma>
+    <lemma>майстраванне</lemma>
+    <lemma>будынак</lemma>
+    <lemma>будаванне</lemma>
+    <lemma>будаўніцтва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>строителство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stavba</lemma>
+    <lemma>konstrukce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgradnja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>создание</lemma>
+    <lemma>конструкција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>budowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>создание</lemma>
+    <lemma>сооружение</lemma>
+    <lemma>строительство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>budova</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namestitev</lemma>
+    <lemma>gradnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>постављање</lemma>
+    <lemma>изградња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>створення</lemma>
+    <lemma>спорудження</lemma>
+    <lemma>будівництво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konstruado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Konstruktion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bouw</lemma>
+  </synset>
+</multilingual-synset>

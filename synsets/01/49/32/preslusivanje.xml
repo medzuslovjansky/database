@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14932"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14932" steen:pos="n." steen:type="2" steen:same="z j">
+      prěslušivańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апытанне</lemma>
+    <lemma>апытанка</lemma>
+    <lemma>допыт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разпит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výslech</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>saslušanje</lemma>
+    <lemma>ispitivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испитување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesłuchanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опрос</lemma>
+    <lemma>допрос</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výsluch</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sluha</lemma>
+    <lemma>sluh</lemma>
+    <lemma annotation="npr ulit">avdicija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саслушање</lemma>
+    <lemma>расправа</lemma>
+    <lemma annotation="нпр. глумачка">аудиција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опитування</lemma>
+    <lemma>допит</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pridemandado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verhör</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondervraging</lemma>
+    <lemma>verhoor</lemma>
+  </synset>
+</multilingual-synset>

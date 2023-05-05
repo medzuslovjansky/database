@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17548"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17548"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      izjavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выяўляць</lemma>
+    <lemma>раскрываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изявявам</lemma>
+    <lemma>разкривам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>objevovat</lemma>
+    <lemma>odhalovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>objavljivati</lemma>
+    <lemma>otkrivati</lemma>
+    <lemma>razotkrivati</lemma>
+    <lemma>objelodanjivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изјавува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjawiać</lemma>
+    <lemma>ujawniać</lemma>
+    <lemma>objawiać</lemma>
+    <lemma>odtajniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выявлять</lemma>
+    <lemma>раскрывать</lemma>
+    <lemma>обнаруживать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>objavovať</lemma>
+    <lemma>odhaľovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razkrije</lemma>
+    <lemma annotation="npr. dejstvo">količino</lemma>
+    <lemma>kažejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>откривати</lemma>
+    <lemma annotation="нпр. чињенице">износити</lemma>
+    <lemma>показивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виявляти</lemma>
+    <lemma>розкривати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malkaŝi</lemma>
+    <lemma>malkaŝi</lemma>
+    <lemma>detekti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>offenbaren</lemma>
+    <lemma>offenbaren</lemma>
+    <lemma>erkennen</lemma>
+    <lemma />
+  </synset>
+  <synset lang="nl">
+    <lemma>detecteren</lemma>
+    <lemma>aan het licht brengen</lemma>
+  </synset>
+</multilingual-synset>

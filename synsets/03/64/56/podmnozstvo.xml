@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36456"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36456"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v cs sl bm"
+    >
+      podmnožstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="матэм.">падмноства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="математика">подмножество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mat.">podmnožina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podskup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="математика">подмножество</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podzbiór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="матем.">подмножество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="mat.">podmnožina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podmnožica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подскуп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="матем.">підмножина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="matematiko">subaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Mathematik">Untergruppe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>subset</lemma>
+  </synset>
+</multilingual-synset>

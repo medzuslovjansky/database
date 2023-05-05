@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5202"
+      steen:pos="n.indecl."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kanoe
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каноэ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кану</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kánoe</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kanu</lemma>
+    <lemma>kanoa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кану</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kanoe</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каноэ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kanoe</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kanu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кану</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>каное</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kanuo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kanu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kano</lemma>
+  </synset>
+</multilingual-synset>

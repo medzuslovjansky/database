@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20997"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20997"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v cs sl bg"
+    >
+      plavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>плаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плува</lemma>
+    <lemma>плува</lemma>
+    <lemma>плува</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plavat</lemma>
+    <lemma>plout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plivati</lemma>
+    <lemma>ploviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>плива</lemma>
+    <lemma>плови</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плавать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plavati</lemma>
+    <lemma>jadra</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пливати</lemma>
+    <lemma>пловити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>плавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naĝi</lemma>
+    <lemma>kaleŝego</lemma>
+    <lemma>velo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schwimmen</lemma>
+    <lemma>Schwimmer</lemma>
+    <lemma>Segel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zwemmen</lemma>
+    <lemma>varen</lemma>
+    <lemma>drijven</lemma>
+  </synset>
+</multilingual-synset>

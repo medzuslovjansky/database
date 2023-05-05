@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4074"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      revidovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэвізаваць</lemma>
+    <lemma>правяраць</lemma>
+    <lemma>інспектаваць</lemma>
+    <lemma>пераглядаць</lemma>
+    <lemma>пераглядваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преоценка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>revidovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>revidirati</lemma>
+    <lemma>pregledavati</lemma>
+    <lemma>preispitivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ревидира</lemma>
+    <lemma>прегледува</lemma>
+    <lemma>проверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rewidować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ревизовать</lemma>
+    <lemma>проверять</lemma>
+    <lemma>инспектировать</lemma>
+    <lemma>пересматривать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>revidovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popravijo</lemma>
+    <lemma>pogled</lemma>
+    <lemma>pregled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ревидирати</lemma>
+    <lemma>прегледавати</lemma>
+    <lemma>преиспитивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ревізувати</lemma>
+    <lemma>перевіряти</lemma>
+    <lemma>інспектувати</lemma>
+    <lemma>переглядати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>decus revizii</lemma>
+    <lemma>auditoría</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>überarbeiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herzien</lemma>
+    <lemma>reviseren</lemma>
+  </synset>
+</multilingual-synset>

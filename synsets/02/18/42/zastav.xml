@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21842"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21842" steen:pos="m." steen:type="2" steen:same="pl cz">
+      zastav
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заклад</lemma>
+    <lemma>стан</lemma>
+    <lemma>зарука</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>залог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zástava</lemma>
+    <lemma>záloha</lemma>
+    <lemma>zajištění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zalog</lemma>
+    <lemma>depozit</lemma>
+    <lemma>jamstvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>капар</lemma>
+    <lemma>залог</lemma>
+    <lemma>депозит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zastaw</lemma>
+    <lemma>depozyt</lemma>
+    <lemma>zabezpieczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>залог</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zástava</lemma>
+    <lemma>záloha</lemma>
+    <lemma>zaistenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>določitvi plačila</lemma>
+    <lemma>zastavi</lemma>
+    <lemma>depozit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>капара</lemma>
+    <lemma>залог</lemma>
+    <lemma>депозит</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запорука</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>promeso</lemma>
+    <lemma>peono</lemma>
+    <lemma>deponejo</lemma>
+    <lemma>sekureco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pfand</lemma>
+    <lemma>Pfand</lemma>
+    <lemma>Pfand</lemma>
+    <lemma>Sicherheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderpand</lemma>
+  </synset>
+</multilingual-synset>

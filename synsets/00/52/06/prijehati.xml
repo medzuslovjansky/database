@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5206"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5206"
+      steen:addition="(prijede)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      prijehati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыехаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на транспорта">дойде</lemma>
+    <lemma>да пристигнете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přijet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>doći prijevoznim sredstvom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристигна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyjechać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приехать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pricestovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prevozna sredstva</lemma>
+    <lemma>da bi dobili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доћи превозним средством</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приїхати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per transporto">veni</lemma>
+    <lemma>alvenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Transport">kommen</lemma>
+    <lemma>ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma annotation="per vervoermiddel">arriveren</lemma>
+  </synset>
+</multilingual-synset>

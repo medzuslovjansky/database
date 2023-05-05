@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14605"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14605"
+      steen:pos="v.intr. ipf."
+      steen:type="3"
+      steen:same="sk"
+    >
+      jestvovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>існаваць</lemma>
+    <lemma>быць</lemma>
+    <lemma>мецца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съществувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>existovat</lemma>
+    <lemma>být</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biti</lemma>
+    <lemma>bivati</lemma>
+    <lemma>bivstvovati</lemma>
+    <lemma>postojati</lemma>
+    <lemma>živjeti</lemma>
+    <lemma>egzistirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постои</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>istnieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>существовать</lemma>
+    <lemma>иметься</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jestvovať</lemma>
+    <lemma>existovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obstajale</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>постојати</lemma>
+    <lemma>бивати</lemma>
+    <lemma>бити</lemma>
+    <lemma>бивствовати</lemma>
+    <lemma annotation="арх.">јествовати</lemma>
+    <lemma>живети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>існувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzistas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>existieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestaan</lemma>
+  </synset>
+</multilingual-synset>

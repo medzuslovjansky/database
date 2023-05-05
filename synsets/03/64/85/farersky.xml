@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36485"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36485" steen:pos="adj." steen:type="1" steen:same="v z j">
+      farersky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фарэрскі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="език">фарьорски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>faerský</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>farski</lemma>
+    <lemma>ferojski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фарски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>farerski</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фарерский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>faerský</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ferščina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фарски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фарерський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>feroja</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Färöer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Faeröers</lemma>
+  </synset>
+</multilingual-synset>

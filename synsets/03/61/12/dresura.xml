@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36112"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      dresura
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дрэсура</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дресировка</lemma>
+    <lemma>обучение на животни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>drezúra</lemma>
+    <lemma>výcvik zvířat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dresura</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дресура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tresura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дрессура</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drezúra</lemma>
+    <lemma>výcvik zvierat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konj</lemma>
+    <lemma>živali za usposabljanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дресура</lemma>
+    <lemma>обука животиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дресирування</lemma>
+    <lemma>дресировка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>besto trejnado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tiertraining</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dressuur</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36036"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36036"
+      steen:addition="(loskoče)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub pl sb cz"
+    >
+      loskotati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казытаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гъделичкам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lechtat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>škakljati</lemma>
+    <lemma>golicati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скокотка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łaskotać</lemma>
+    <lemma>łechtać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>щекотать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>štekliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žgečkati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>голицати</lemma>
+    <lemma annotation="регион.">чигљикати</lemma>
+    <lemma annotation="регион.">чкакљати</lemma>
+    <lemma>шкакљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лоскотати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cosquillas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kitzeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kietelen</lemma>
+    <lemma>kriebelen</lemma>
+  </synset>
+</multilingual-synset>

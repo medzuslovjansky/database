@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20650"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20650"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      priměniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ужыць</lemma>
+    <lemma>спажыць</lemma>
+    <lemma annotation="дыял.">датарнаваць</lemma>
+    <lemma>дастасаваць</lemma>
+    <lemma>скарыстаць</lemma>
+    <lemma>выкарыстаць</lemma>
+    <lemma>спатрэбіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="метод, правило">прилага</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aplikovat</lemma>
+    <lemma>uplatnit</lemma>
+    <lemma>použít</lemma>
+    <lemma>užít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primijeniti</lemma>
+    <lemma>upotrijebiti</lemma>
+    <lemma>iskoristiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>примени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zastosować</lemma>
+    <lemma>użyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>применить</lemma>
+    <lemma>употребить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>aplikovať</lemma>
+    <lemma>uplatniť</lemma>
+    <lemma>použiť</lemma>
+    <lemma>užiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uporablja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>применити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застосувати</lemma>
+    <lemma>вжити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="metodo, regulo">apliki</lemma>
+    <lemma annotation="uzo">dungo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>anwenden</lemma>
+    <lemma>verwenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toepassen</lemma>
+    <lemma>hanteren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32982"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32982" steen:pos="f." steen:type="1" steen:same="ru cs j">
+      žętva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жніво</lemma>
+    <lemma>збор ураджаю</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жътва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sklizeň</lemma>
+    <lemma>žeň</lemma>
+    <lemma>žatva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žetva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жетва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żniwa</lemma>
+    <lemma>zbiory</lemma>
+    <lemma>plony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жатва</lemma>
+    <lemma annotation="урожая">уборка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žatva</lemma>
+    <lemma>zber</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izkoriščanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жетва</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жнива</lemma>
+    <lemma>прибирання урожаю</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>rikolto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ernte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oogst</lemma>
+  </synset>
+</multilingual-synset>

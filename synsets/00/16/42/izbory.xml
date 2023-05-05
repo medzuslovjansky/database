@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1642"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1642" steen:pos="m.pl." steen:type="1">izbory</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выбары</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избори</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>volby</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izbori</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wybory</lemma>
+    <lemma>elekcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выборы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>voľby</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>volitve</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>избори</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вибори</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elektoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wahlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkiezingen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33969"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33969"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      ryti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рыць</lemma>
+    <lemma>капаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>копаят</lemma>
+    <lemma>закапываться</lemma>
+    <lemma>корен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rýt</lemma>
+    <lemma>rýpat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>riti</lemma>
+    <lemma>kopati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рие</lemma>
+    <lemma>копа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ryć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рыть</lemma>
+    <lemma>копать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ryť</lemma>
+    <lemma>rýpať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rit</lemma>
+    <lemma>kopanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рити</lemma>
+    <lemma>копати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рити</lemma>
+    <lemma>копати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dig</lemma>
+    <lemma>nestotruo</lemma>
+    <lemma>radiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dig</lemma>
+    <lemma>Bau</lemma>
+    <lemma>root</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>graven</lemma>
+  </synset>
+</multilingual-synset>

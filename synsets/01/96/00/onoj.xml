@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19600"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19600"
+      steen:addition="(ona, ono)"
+      steen:pos="pron.dem."
+      steen:type="2"
+    >
+      onoj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>той</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>там</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tamten</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="она, оно">онъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>onaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="онаа, она">оној</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tamten</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тот</lemma>
+    <lemma annotation="уст.">оный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tamten</lemma>
+    <lemma>henten</lemma>
+    <lemma>ten</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ona je">on</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="она, оно">онај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>той</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tien</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drüben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gene</lemma>
+    <lemma>die … daar</lemma>
+  </synset>
+</multilingual-synset>

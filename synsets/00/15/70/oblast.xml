@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1570"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1570" steen:pos="f." steen:type="2" steen:same="ru cz">
+      oblasť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ведаў">галіна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="знания и т.н.">област</lemma>
+    <lemma>домейн</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="znalostí">oblast</lemma>
+    <lemma>obor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblast</lemma>
+    <lemma>područje</lemma>
+    <lemma annotation="napr. znanosti">polje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>област</lemma>
+    <lemma>сфера</lemma>
+    <lemma>поле</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakres</lemma>
+    <lemma>dziedzina</lemma>
+    <lemma>teren</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="знаний">область</lemma>
+    <lemma>сфера</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vedomostí">oblasť</lemma>
+    <lemma>odbor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>območje</lemma>
+    <lemma>polje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>област</lemma>
+    <lemma>поље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="знань">область</lemma>
+    <lemma>сфера</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de scio ktp">kampo</lemma>
+    <lemma>havaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von Wissen usw.">Feld</lemma>
+    <lemma>Domain</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vakgebied</lemma>
+    <lemma>terrein</lemma>
+    <lemma annotation="kennis e.d.">gebied</lemma>
+  </synset>
+</multilingual-synset>

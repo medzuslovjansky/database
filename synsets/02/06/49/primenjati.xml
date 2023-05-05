@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20649"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20649"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      priměnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ужываць</lemma>
+    <lemma annotation="дыял.">датарноўваць</lemma>
+    <lemma>скарыстоўваць</lemma>
+    <lemma>дастасоўваць</lemma>
+    <lemma>выкарыстоўваць</lemma>
+    <lemma>карыстаць</lemma>
+    <lemma>тарнаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="метод, правило">прилага</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aplikovat</lemma>
+    <lemma>uplatnit</lemma>
+    <lemma>používat</lemma>
+    <lemma>užívat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primjenjivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>применува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stosować</lemma>
+    <lemma>używać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>применять</lemma>
+    <lemma>употреблять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>aplikovať</lemma>
+    <lemma>uplatniť</lemma>
+    <lemma>používať</lemma>
+    <lemma>užívať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>primenjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>примењати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застосовувати</lemma>
+    <lemma>вживати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="metodo, regulo">apliki</lemma>
+    <lemma annotation="uzo">dungo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>anwenden</lemma>
+    <lemma>verwenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toepassen</lemma>
+    <lemma>hanteren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16268"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16268"
+      steen:addition="(lži)"
+      steen:pos="f."
+      steen:type="1"
+      steen:genesis="S"
+    >
+      lȯž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мана</lemma>
+    <lemma>хлусня</lemma>
+    <lemma>ілжа</lemma>
+    <lemma>няпраўда</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лъжа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lež</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>laž</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лага</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kłamstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ложь</lemma>
+    <lemma>враньё</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lož</lemma>
+    <lemma>klamstvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>laž</lemma>
+    <lemma>laž</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лаж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>брехня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mensogo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lüge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leugen</lemma>
+  </synset>
+</multilingual-synset>

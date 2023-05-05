@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2999"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2999"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      citovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цытаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цитирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>citovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>navoditi</lemma>
+    <lemma>citirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цитира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cytować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цитировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>citovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>citirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цитирати</lemma>
+    <lemma>наводити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цитувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>citaĵo</lemma>
+    <lemma>citas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zitieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>citeren</lemma>
+    <lemma>aanhalen</lemma>
+  </synset>
+</multilingual-synset>

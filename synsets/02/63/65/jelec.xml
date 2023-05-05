@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26365"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26365" steen:pos="m.anim." steen:type="1">jelec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="рыба">ялец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="druh ryby">jelec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jelec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="рыба">елец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="druh ryby">jalec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="риба">єлець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dace</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Weißfisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>serpeling</lemma>
+  </synset>
+</multilingual-synset>

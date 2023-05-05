@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22595"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22595"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      vvŕgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кінуць</lemma>
+    <lemma annotation="у турму">змясціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в затвора">хвърля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="do vězení">uvrhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>strpati</lemma>
+    <lemma>baciti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="во затвор">фрли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do więzienia">wtrącić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бросить</lemma>
+    <lemma annotation="в тюрьму">поместить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="do väzenia">uvrhnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>met</lemma>
+    <lemma annotation="v zaporu">naj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бацити</lemma>
+    <lemma annotation="у затвор">стрпати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>кинути</lemma>
+    <lemma annotation="у в&apos;язницю">помістити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en malliberejo">ĵeti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="im Gefängnis">werfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in de gevangenis">gooien</lemma>
+  </synset>
+</multilingual-synset>

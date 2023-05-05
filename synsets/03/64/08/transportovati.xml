@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36408"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      transportovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>транспартаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>транспортирам</lemma>
+    <lemma>превозвам</lemma>
+    <lemma>превозя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>transportovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>transportirati</lemma>
+    <lemma>otpremiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>транспортира</lemma>
+    <lemma>пренесе</lemma>
+    <lemma>пренесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>transportować</lemma>
+    <lemma>przetransportować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>транспортировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>transportovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>promet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>транспортовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>транспортувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transporto</lemma>
+    <lemma>transdoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Transport</lemma>
+    <lemma>vermitteln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>transporteren</lemma>
+  </synset>
+</multilingual-synset>

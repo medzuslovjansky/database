@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18567"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18567" steen:pos="v.tr. ipf." steen:type="1">
+      pušćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пускаць</lemma>
+    <lemma>пушчаць</lemma>
+    <lemma>адпускаць</lemma>
+    <lemma>выпускаць</lemma>
+    <lemma annotation="прыводзіць у рух">запускаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>хайде</lemma>
+    <lemma>да се махаме</lemma>
+    <lemma>да се освободи</lemma>
+    <lemma>да се приведе в движение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pouštět</lemma>
+    <lemma>uvolňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>puštati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>puszczać</lemma>
+    <lemma>uruchamiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пускать</lemma>
+    <lemma>отпускать</lemma>
+    <lemma>выпускать</lemma>
+    <lemma annotation="приводить в движение">запускать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>púšťať</lemma>
+    <lemma>uvoľňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izpusti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пустити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пускати</lemma>
+    <lemma>відпускати</lemma>
+    <lemma>випускати</lemma>
+    <lemma annotation="приводити в рух">запускати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lasu</lemma>
+    <lemma>lasu iri</lemma>
+    <lemma>eldono</lemma>
+    <lemma>aro en moviĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>lassen</lemma>
+    <lemma>loslassen</lemma>
+    <lemma>loslassen</lemma>
+    <lemma>in Gang gesetzt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>laten</lemma>
+    <lemma>loslaten</lemma>
+    <lemma>in beweging zetten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33205"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33205"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs bg"
+    >
+      gramotny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пісьменны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грамотен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>gramotný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obrazovan</lemma>
+    <lemma>naobražen</lemma>
+    <lemma>učen</lemma>
+    <lemma>pismen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грамотен</lemma>
+    <lemma>образуван</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piśmienny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грамотный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gramotný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pismeni</lemma>
+    <lemma>izobraženi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>писмен</lemma>
+    <lemma>образован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>письменний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gebildet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geletterd</lemma>
+  </synset>
+</multilingual-synset>

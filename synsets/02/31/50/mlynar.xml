@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23150"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23150"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub z yu"
+    >
+      mlynaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>млынар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мелничар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mlynář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mlinar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>млинар</lemma>
+    <lemma>мелничар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>młynarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мельник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mlynár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Miller</lemma>
+    <lemma>mlinar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>млинар</lemma>
+    <lemma>воденичар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>млинар</lemma>
+    <lemma>мірошник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muelisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Müller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>molenaar</lemma>
+  </synset>
+</multilingual-synset>

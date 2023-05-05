@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26984"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26984" steen:pos="f." steen:type="2" steen:same="v cz">
+      kupja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>покуп</lemma>
+    <lemma>закупка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>покупка</lemma>
+    <lemma>купуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nákup</lemma>
+    <lemma>koupě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kupovina</lemma>
+    <lemma>kupnja</lemma>
+    <lemma>kupovanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>купување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kupno</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>купля</lemma>
+    <lemma>закупка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nákup</lemma>
+    <lemma>kúpa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nakupovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>куповање</lemma>
+    <lemma>куповина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>купівля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aĉeto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kauf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankoop</lemma>
+  </synset>
+</multilingual-synset>

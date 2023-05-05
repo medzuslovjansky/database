@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20944"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20944"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      opirati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="трымацца">абапірацца</lemma>
+    <lemma>апірацца</lemma>
+    <lemma>грунтавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прислониться към нещо</lemma>
+    <lemma>останало нещо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opírat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opirati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се опира</lemma>
+    <lemma>се потпира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opierać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="держаться">опираться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opierať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>resist</lemma>
+    <lemma>upreti</lemma>
+    <lemma>pusto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опирати се</lemma>
+    <lemma>упирати</lemma>
+    <lemma>наслањати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="триматися">спиратися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apogi kontraŭ io</lemma>
+    <lemma>ripozi sur io</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anlehnen etwas</lemma>
+    <lemma>ruhen auf etwas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leunen op</lemma>
+    <lemma>steunen op</lemma>
+  </synset>
+</multilingual-synset>

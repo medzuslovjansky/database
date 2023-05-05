@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1629"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1629"
+      steen:addition="(vas, vam, vami)"
+      steen:pos="pron.pers."
+      steen:type="1"
+    >
+      vy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vy</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>вꙑ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="a), vama">vi (vas, vam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вие</lemma>
+    <lemma>вас</lemma>
+    <lemma>вам</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вы</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ti, ti, ti">vi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="вас, вама, вама">ви</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ви</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="pl.">vi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="pl.">Sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jullie</lemma>
+    <lemma>u</lemma>
+  </synset>
+</multilingual-synset>

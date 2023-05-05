@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25687"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25687" steen:pos="m." steen:type="1" steen:same="v j">
+      gnoj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гной</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гной</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hnis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gnoj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гној</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wydzielina">ropa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гной</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hnis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pus</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гној</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>puso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Eiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pus</lemma>
+    <lemma>etter</lemma>
+  </synset>
+</multilingual-synset>

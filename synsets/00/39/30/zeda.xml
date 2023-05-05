@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3930"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3930" steen:pos="f." steen:type="1">žęđa</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смага</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жажда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žízeň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žeđ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>копнеж</lemma>
+    <lemma>желба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do picia">pragnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="желание пить">жажда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>smäd</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žeja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жеђ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="бажання пити">спрага</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>soifo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Durst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dorst</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20903"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20903" steen:pos="m." steen:type="2" steen:same="ru pl">
+      naplyv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наплыў</lemma>
+    <lemma>прыток</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наплив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příliv</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>priljev</lemma>
+    <lemma>priliv</lemma>
+    <lemma>nadolaženje</lemma>
+    <lemma>pojačavanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наплив</lemma>
+    <lemma>прилив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наплыв</lemma>
+    <lemma>приток</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>príliv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priliv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прилив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наплив</lemma>
+    <lemma>натік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enfluo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zustrom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevloed</lemma>
+  </synset>
+</multilingual-synset>

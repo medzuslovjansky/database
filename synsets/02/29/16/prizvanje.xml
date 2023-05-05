@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22916"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22916" steen:pos="n." steen:type="2">prizvańje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запрашэнне</lemma>
+    <lemma>запросіны</lemma>
+    <lemma>заклік</lemma>
+    <lemma>покліч</lemma>
+    <lemma>кліканне</lemma>
+    <lemma>закліканне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>покана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozvání</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поканување</lemma>
+    <lemma>повикување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaproszenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приглашение</lemma>
+    <lemma>призыв</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pozvanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запрошення</lemma>
+    <lemma>заклик</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>invito</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Einladung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitnodiging</lemma>
+  </synset>
+</multilingual-synset>

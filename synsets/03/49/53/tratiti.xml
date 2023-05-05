@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34953"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34953"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl yu mk"
+    >
+      tratiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="час і да т.п.">траціць</lemma>
+    <lemma annotation="бескарысна">марнаваць</lemma>
+    <lemma>страчваць</lemma>
+    <lemma>растрачваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пилея</lemma>
+    <lemma>разхищавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plýtvat</lemma>
+    <lemma>marnit</lemma>
+    <lemma>mrhat</lemma>
+    <lemma>utrácet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tratiti</lemma>
+    <lemma>rasipati</lemma>
+    <lemma>gubiti</lemma>
+    <lemma>ćerdati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="време исл.">троши</lemma>
+    <lemma annotation="безпотребно на пр. пари">растура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marnować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="время и т.п.">терять</lemma>
+    <lemma annotation="бесполезно">тратить</lemma>
+    <lemma>растрачивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>plytvať</lemma>
+    <lemma>márniť</lemma>
+    <lemma>mrhať</lemma>
+    <lemma>utrácať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izginiti</lemma>
+    <lemma>odpadki</lemma>
+    <lemma>odpadna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расипати</lemma>
+    <lemma>губити</lemma>
+    <lemma>трошити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="час і тому подібне">втрачати</lemma>
+    <lemma annotation="марно">витрачати</lemma>
+    <lemma>розтрачувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malŝparo</lemma>
+    <lemma>malŝpari</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abfall</lemma>
+    <lemma>verspielen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verspillen</lemma>
+    <lemma>verkwanselen</lemma>
+    <lemma>verbrassen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="487" steen:pos="adj." steen:type="1">posrědnji</lemma>
+    <lemma steen:id="487" steen:pos="adj." steen:type="1">posrědny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ускосны</lemma>
+    <lemma>апасродкаваны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>косвени</lemma>
+    <lemma>междинни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepřímý</lemma>
+    <lemma>zprostředkovaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posredan</lemma>
+    <lemma>neizravan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посреден</lemma>
+    <lemma>индиректен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pośredni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>косвенный</lemma>
+    <lemma>опосредованный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepriamy</lemma>
+    <lemma>sprostredkovaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posredno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посредан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>непрямий</lemma>
+    <lemma>опосередкований</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nerekte</lemma>
+    <lemma>intera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>indirekte</lemma>
+    <lemma>Zwischen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>indirect</lemma>
+  </synset>
+</multilingual-synset>

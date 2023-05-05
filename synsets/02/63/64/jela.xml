@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26364"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26364" steen:pos="f." steen:type="3" steen:same="v">
+      jela
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>елка</lemma>
+    <lemma>яліна</lemma>
+    <lemma>піхта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>смърч</lemma>
+    <lemma>ела</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smrk</lemma>
+    <lemma>jedle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jela</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смрча</lemma>
+    <lemma>оморика</lemma>
+    <lemma>смрека</lemma>
+    <lemma>елка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świerk</lemma>
+    <lemma>jodła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ель</lemma>
+    <lemma>пихта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>smrek</lemma>
+    <lemma>jedľa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="Abies alba">jelka</lemma>
+    <lemma>jelika</lemma>
+    <lemma>jelka</lemma>
+    <lemma annotation="Picea">smreka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="Abies alba">јела</lemma>
+    <lemma>јелика</lemma>
+    <lemma>јелка</lemma>
+    <lemma annotation="Picea">смрека</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ялинка</lemma>
+    <lemma>смерека</lemma>
+    <lemma>ялиця</lemma>
+    <lemma>ялина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>piceo</lemma>
+    <lemma>abio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fichte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zilverspar</lemma>
+  </synset>
+</multilingual-synset>

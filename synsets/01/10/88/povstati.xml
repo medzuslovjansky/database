@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11088"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11088"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      povstati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўстаць</lemma>
+    <lemma>збунтавацца</lemma>
+    <lemma>узбунтавацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въстана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>povstat</lemma>
+    <lemma>vzbouřit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pobuniti se</lemma>
+    <lemma>podići ustanak</lemma>
+    <lemma annotation="arh.">ustati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>востана</lemma>
+    <lemma>побуни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="bunt">powstać</lemma>
+    <lemma>zbuntować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>восстать</lemma>
+    <lemma>взбунтоваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>povstať</lemma>
+    <lemma>vzbúriť sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>upreti se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побунити се</lemma>
+    <lemma>подићи устанак</lemma>
+    <lemma annotation="арх.">устати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повстати</lemma>
+    <lemma>збунтуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ribeli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rebell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in opstand komen</lemma>
+    <lemma>rebelleren</lemma>
+  </synset>
+</multilingual-synset>

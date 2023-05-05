@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24522"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24522"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v"
+      steen:genesis="I"
+    >
+      barbaris
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>барбарыс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="раст.">барбарис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>berberis</lemma>
+    <lemma>dřišťál</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žutika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>барбарис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>berberys</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>барбарис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>berberis</lemma>
+    <lemma>dráč</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>češmin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жутика</lemma>
+    <lemma>туркска лоза</lemma>
+    <lemma>шимширка</lemma>
+    <lemma>бабковина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>барбарис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Berberis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Berberitze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>berberis</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19090"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19090"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      ustrojitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арганізатар</lemma>
+    <lemma>наладжвальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>организатор организатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pořadatel</lemma>
+    <lemma>organizátor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>organizator</lemma>
+    <lemma>osnivač</lemma>
+    <lemma>pokretač</lemma>
+    <lemma>utemeljitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>организатор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>organizator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>организатор</lemma>
+    <lemma>устроитель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>usporiadateľ</lemma>
+    <lemma>organizátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>organizator</lemma>
+    <lemma>ustanovitelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>организатор</lemma>
+    <lemma>оснивач</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>організатор</lemma>
+    <lemma>улаштовувач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>organizanto</lemma>
+    <lemma>organizanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Veranstalter</lemma>
+    <lemma>Veranstalter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>organisator</lemma>
+  </synset>
+</multilingual-synset>

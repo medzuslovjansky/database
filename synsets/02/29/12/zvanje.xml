@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22912"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22912" steen:pos="n." steen:type="1" steen:same="v j">
+      zvańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>званне</lemma>
+    <lemma>чын</lemma>
+    <lemma>тытул</lemma>
+    <lemma>ранг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>titul</lemma>
+    <lemma>hodnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zvanje</lemma>
+    <lemma>poziv</lemma>
+    <lemma>profesija</lemma>
+    <lemma>misija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>звање</lemma>
+    <lemma>титула</lemma>
+    <lemma>ранг</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tytuł</lemma>
+    <lemma annotation="wojskowy">stopień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звание</lemma>
+    <lemma>титул</lemma>
+    <lemma>ранг</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>titul</lemma>
+    <lemma>hodnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naslov akta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>звање</lemma>
+    <lemma>чин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звання</lemma>
+    <lemma>титул</lemma>
+    <lemma>ранг</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>titolo</lemma>
+    <lemma>rango</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Titel</lemma>
+    <lemma>Rang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>titel</lemma>
+    <lemma>rang</lemma>
+  </synset>
+</multilingual-synset>

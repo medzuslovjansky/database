@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32636"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32636"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="ru"
+    >
+      zažigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="святло">запальваць</lemma>
+    <lemma annotation="святло">уключаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="осветление">запалвам</lemma>
+    <lemma annotation="осветление">включвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozsvěcovat</lemma>
+    <lemma>rozžínat</lemma>
+    <lemma annotation="světlo">zapínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="svjetlo">uključiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="светло">пали</lemma>
+    <lemma annotation="светло">вклучи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="światło">włączać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="свет">зажигать</lemma>
+    <lemma annotation="свет">включать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozsvecovať</lemma>
+    <lemma>zapaľovať</lemma>
+    <lemma annotation="svetlo">zapínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="svetlo">vključujejo</lemma>
+    <lemma>zažeći</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="светло">укључивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="світло">запалювати</lemma>
+    <lemma annotation="світло">включати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="la lumoj">ŝalti</lemma>
+    <lemma annotation="la lumo">ŝalti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="die Lichter">einschalten</lemma>
+    <lemma annotation="das Licht">schalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="licht">aanschakelen</lemma>
+  </synset>
+</multilingual-synset>

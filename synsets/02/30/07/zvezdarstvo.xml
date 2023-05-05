@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23007"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23007"
+      steen:pos="n.sg."
+      steen:type="3"
+      steen:same="sh"
+      steen:genesis="S"
+    >
+      zvězdaŕstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>астралогія</lemma>
+    <lemma>заркаслоўе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звездобройство</lemma>
+    <lemma>астрология</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hvězdářství</lemma>
+    <lemma>astrologie</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>ѕвѣздосло́вїе</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="lažna nauka">astrologija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>астрологија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>astrologia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>астрология</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hvezdárstvo</lemma>
+    <lemma>astrológia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="lažni nauk">Astrologija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="лажна наука">астрологија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>астрологія</lemma>
+    <lemma>звіздарство</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>astrologio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Astrologie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>astrologie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10616"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10616" steen:pos="f.pl." steen:type="1">plaťby</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падаткі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>данъци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>daně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>porezi</lemma>
+    <lemma>pristojbe</lemma>
+    <lemma>takse</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>даноци</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podatki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>налоги</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dane</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>davke</lemma>
+    <lemma>pristojbine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порези</lemma>
+    <lemma>таксе</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>податки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>impostoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Steuern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>belastingen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11645"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11645" steen:pos="m." steen:type="1">provod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>провад</lemma>
+    <lemma>дрот</lemma>
+    <lemma>праводка</lemma>
+    <lemma>правядзенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тел</lemma>
+    <lemma>кабели</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>drát</lemma>
+    <lemma>kabel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodič</lemma>
+    <lemma>provodnik</lemma>
+    <lemma>konduktor</lemma>
+    <lemma>kabel</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проводник</lemma>
+    <lemma>жица</lemma>
+    <lemma>инсталации</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przewód</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>провод</lemma>
+    <lemma>проводка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>drôt</lemma>
+    <lemma>kábel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žice</lemma>
+    <lemma>kabel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проводник</lemma>
+    <lemma>кабл</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дріт</lemma>
+    <lemma>проводка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>drato</lemma>
+    <lemma>cableado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Draht</lemma>
+    <lemma>Kabel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>snoer</lemma>
+    <lemma>kabel</lemma>
+    <lemma>bedrading</lemma>
+  </synset>
+</multilingual-synset>

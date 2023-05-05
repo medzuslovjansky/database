@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36608"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36608"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      nutrija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нутрыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нутрия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nutrie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nutrija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нутрија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nutria</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нутрия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nutria</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nutrije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нутрија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нутрія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Kojpo</lemma>
+    <lemma>lutro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Coypu</lemma>
+    <lemma>Nutria</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beverrat</lemma>
+  </synset>
+</multilingual-synset>

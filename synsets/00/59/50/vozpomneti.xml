@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5950"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5950"
+      steen:addition="(vȯzpomni)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      vȯzpomněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>успомніць</lemma>
+    <lemma>памянуць</lemma>
+    <lemma>спамянуць</lemma>
+    <lemma>успамянуць</lemma>
+    <lemma>прыпомніць</lemma>
+    <lemma>прыпамянуць</lemma>
+    <lemma>прыпамятаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възпомена</lemma>
+    <lemma>отбележа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzpomenout</lemma>
+    <lemma>připomenout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sjetiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одбележи</lemma>
+    <lemma>комеморира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypomnieć</lemma>
+    <lemma>przypomnieć sobie</lemma>
+    <lemma>wspomnieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помянуть</lemma>
+    <lemma>вспомнить</lemma>
+    <lemma>припомнить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spomenúť</lemma>
+    <lemma>pripomenúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zapomni si</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сетити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>згадати</lemma>
+    <lemma>згадати</lemma>
+    <lemma>пригадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>festi</lemma>
+    <lemma>memoru</lemma>
+    <lemma>memoru</lemma>
+    <lemma />
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gedenken</lemma>
+    <lemma>erinnern</lemma>
+    <lemma>erinnern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herdenken</lemma>
+    <lemma>in de herinnering roepen</lemma>
+  </synset>
+</multilingual-synset>

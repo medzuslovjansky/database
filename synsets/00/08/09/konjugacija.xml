@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="809"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="809" steen:pos="f." steen:type="1" steen:genesis="I">
+      konjugacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спражэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>спрежение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konjugace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konjugacija</lemma>
+    <lemma>sprezanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конјугација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koniugacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спряжение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>časovanie</lemma>
+    <lemma>konjugácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konjugacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коњугација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відмінювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konjugacion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Konjugation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervoeging</lemma>
+    <lemma>conjugatie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35443"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35443" steen:pos="f." steen:type="2" steen:same="ru sh bm">
+      mečta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ма́ра</lemma>
+    <lemma>мроя</lemma>
+    <lemma>летуценне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="желание">мечта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="přání">sen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mašta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мечта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marzenie</lemma>
+    <lemma>mara</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мечта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="želanie">sen</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>domišljija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>машта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мрія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="deziro">sonĝo</lemma>
+    <lemma>revo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Wunsch">Traum</lemma>
+    <lemma>daydream</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wensen">dromen</lemma>
+    <lemma>dagdromen</lemma>
+  </synset>
+</multilingual-synset>

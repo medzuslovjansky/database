@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20286"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      verifikovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>верыфікаваць</lemma>
+    <lemma>правяраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>верифицирам</lemma>
+    <lemma>проверявам</lemma>
+    <lemma>удостоверявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>verifikovat</lemma>
+    <lemma>ověřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>verificirati</lemma>
+    <lemma>provjeravati</lemma>
+    <lemma>ovjeravati</lemma>
+    <lemma>potvrđivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>верификува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>weryfikować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>верифицировать</lemma>
+    <lemma>проверять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>verifikovať</lemma>
+    <lemma>overiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preveriti</lemma>
+    <lemma>preveriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>верификовати</lemma>
+    <lemma>проверити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>верифікувати</lemma>
+    <lemma>перевіряти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontroli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überprüfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verifiëren</lemma>
+  </synset>
+</multilingual-synset>

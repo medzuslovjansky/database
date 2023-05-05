@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36324"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36324" steen:pos="f." steen:type="2" steen:same="ru cs sl">
+      zavisnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="хваравітая">залежнасць</lemma>
+    <lemma>прывыканне</lemma>
+    <lemma>згубная звычка</lemma>
+    <lemma>адыкцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зависимост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>návyk</lemma>
+    <lemma>závislost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovisnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зависност</lemma>
+    <lemma>болест</lemma>
+    <lemma>зараза</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uzależnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="болезненная">зависимость</lemma>
+    <lemma>привыкание</lemma>
+    <lemma>пагубная привычка</lemma>
+    <lemma>аддикция</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>návyk</lemma>
+    <lemma>závislosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvisnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зависност</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="хвороблива">залежність</lemma>
+    <lemma>звикання</lemma>
+    <lemma>згубна звичка</lemma>
+    <lemma>аддикция</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dependeco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sucht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verslaving</lemma>
+  </synset>
+</multilingual-synset>

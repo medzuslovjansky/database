@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19807"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19807"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kriterij
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крытэрый</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>критерий</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kritérium</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kriterij</lemma>
+    <lemma>mjerilo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>критериум</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kryterium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>критерий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kritérium</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>merilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>критеријум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>критерій</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kriterio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kriterium</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>criterium</lemma>
+    <lemma>maatstaf</lemma>
+  </synset>
+</multilingual-synset>

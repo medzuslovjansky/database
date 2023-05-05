@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17490"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17490"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      insekt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>насякомае</lemma>
+    <lemma>казурка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>насекомо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hmyz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>insekt</lemma>
+    <lemma>kukac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инсект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>insekt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>насекомое</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hmyz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>insektov</lemma>
+    <lemma>bug</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инсект</lemma>
+    <lemma>инсекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>комаха</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>insekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Insekt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>insect</lemma>
+  </synset>
+</multilingual-synset>

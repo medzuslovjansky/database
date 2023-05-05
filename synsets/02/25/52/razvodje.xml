@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22552"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22552" steen:pos="n." steen:type="2" steen:same="cs yu">
+      råzvoďje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>водападзел</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>watershed</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvodí</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razvođe</lemma>
+    <lemma>vododelnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>водоврат</lemma>
+    <lemma>вододелница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dział wód</lemma>
+    <lemma>wododział</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>водораздел</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozvodí</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pore</lemma>
+    <lemma>razvodje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развође</lemma>
+    <lemma>вододелница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вододіл</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akvodislimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wasserscheide</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waterscheiding</lemma>
+  </synset>
+</multilingual-synset>

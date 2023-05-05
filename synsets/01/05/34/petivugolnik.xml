@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10534"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10534"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru be cs sr bm"
+    >
+      pętivųgȯľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пяцівугольнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Пентагона</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pětiúhelník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>peterokut</lemma>
+    <lemma>pentagon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>петоаголник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pięciokąt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пятиугольник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>päťuholník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pentagon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>петоугао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>п&apos;ятикутник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pentagono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pentagon</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vijfhoek</lemma>
+  </synset>
+</multilingual-synset>

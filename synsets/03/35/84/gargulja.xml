@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33584"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33584" steen:pos="f." steen:type="1" steen:same="v pl bg">
+      gargulja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="архіт.">гаргуллі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>водоливник</lemma>
+    <lemma>гаргойл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chrlič</lemma>
+    <lemma annotation="archit.">gargouille</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vodoriga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гротескен фасаден украс</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gargulec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="архит.">горгулья</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chrlič</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="arhitektom.">cev za vodo v obliki živali čeljusti</lemma>
+    <lemma>Gargoyle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="архитек.">лула за воду у виду животињске чељусти</lemma>
+    <lemma>украс са гротескним ликом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гаргулья</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gargojlo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wasserspeier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waterspuwer</lemma>
+  </synset>
+</multilingual-synset>

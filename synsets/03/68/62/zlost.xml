@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36862"
+      steen:pos="f.sg."
+      steen:type="1"
+      steen:same="ru uk cz j"
+    >
+      zlosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злосць</lemma>
+    <lemma>злаванне</lemma>
+    <lemma>гнеў</lemma>
+    <lemma>узлаванасць</lemma>
+    <lemma>раззлаванасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гняв</lemma>
+    <lemma>злоба</lemma>
+    <lemma>злост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zlost</lemma>
+    <lemma>zloba</lemma>
+    <lemma>hněv</lemma>
+    <lemma>zášť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ljutnja</lemma>
+    <lemma>gnjev</lemma>
+    <lemma>bijes</lemma>
+    <lemma>kivnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>злоба</lemma>
+    <lemma>лутина</lemma>
+    <lemma>гнев</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>złość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>злоба</lemma>
+    <lemma>гнев</lemma>
+    <lemma>злость</lemma>
+    <lemma>озлобленность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zlosť</lemma>
+    <lemma>zloba</lemma>
+    <lemma>zášť</lemma>
+    <lemma>hnev</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jeza</lemma>
+    <lemma>malice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>љутња</lemma>
+    <lemma>злоба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>злість</lemma>
+    <lemma>злоба</lemma>
+    <lemma>злісність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolero</lemma>
+    <lemma>malgraŭ</lemma>
+    <lemma>malico</lemma>
+    <lemma>malĝojo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wut</lemma>
+    <lemma>Trotz</lemma>
+    <lemma>Bosheit</lemma>
+    <lemma>Groll</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boosheid</lemma>
+    <lemma>kwaadheid</lemma>
+  </synset>
+</multilingual-synset>

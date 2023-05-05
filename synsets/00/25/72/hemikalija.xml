@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2572"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2572" steen:pos="f." steen:type="1" steen:genesis="I">
+      hemikalija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хімікат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>химически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chemikálie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kemikalija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хемикалија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chemikalia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>химикат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chemikália</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kemikalija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хемикалије</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хімікат</lemma>
+    <lemma>хімікалія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kemia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>chemisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>chemische stof</lemma>
+    <lemma>chemicaliën</lemma>
+  </synset>
+</multilingual-synset>

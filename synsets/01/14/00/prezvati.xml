@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11400"
+      steen:addition="(prězȯve)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prězvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>празваць</lemma>
+    <lemma>даць мянушку</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прякор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="jméno">přezdít</lemma>
+    <lemma>dát přezdívku</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prozvati</lemma>
+    <lemma>dati nadimak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прекара</lemma>
+    <lemma>даде презиме</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przezwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прозвать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="meno">prezvať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preimenovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преименовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прозвати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kromnomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spitzname</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>een bijnaam geven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15112"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      umoljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прасіць</lemma>
+    <lemma>упрошваць</lemma>
+    <lemma>маліць</lemma>
+    <lemma>умольваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>моля</lemma>
+    <lemma>моля</lemma>
+    <lemma>моля</lemma>
+    <lemma>умолявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prosit</lemma>
+    <lemma>naléhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umoljavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измолува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>błagać</lemma>
+    <lemma>upraszać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умолять</lemma>
+    <lemma>упрашивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prosiť</lemma>
+    <lemma>naliehať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>molite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умољавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>благати</lemma>
+    <lemma>прохати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>petu</lemma>
+    <lemma>havu jugxon</lemma>
+    <lemma>petegas</lemma>
+    <lemma>petegi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bitten</lemma>
+    <lemma>flehen</lemma>
+    <lemma>bitten</lemma>
+    <lemma>flehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>smeken</lemma>
+  </synset>
+</multilingual-synset>

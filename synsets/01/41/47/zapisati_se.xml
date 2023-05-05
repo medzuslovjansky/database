@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14147"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14147"
+      steen:addition="#(zapiše)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      zapisati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запісацца</lemma>
+    <lemma>зарэгістравацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запиша се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapsat se</lemma>
+    <lemma>přihlásit se</lemma>
+    <lemma>registrovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>upisati se</lemma>
+    <lemma>registrirati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се запише</lemma>
+    <lemma>се регистрира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapisać się</lemma>
+    <lemma>zarejestrować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>записаться</lemma>
+    <lemma>зарегистрироваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapísať sa</lemma>
+    <lemma>prihlásiť sa</lemma>
+    <lemma>registrovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prijavite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уписати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>записатися</lemma>
+    <lemma>зареєструватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>registri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>registrieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich inschrijven</lemma>
+  </synset>
+</multilingual-synset>

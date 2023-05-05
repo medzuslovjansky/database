@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30590"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30590"
+      steen:addition="(råzna)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ub pl sk sh mk"
+    >
+      råžen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ражон</lemma>
+    <lemma>вяртлюг</lemma>
+    <lemma>пожаг</lemma>
+    <lemma>шампур</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шиш</lemma>
+    <lemma>шиш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rožeň</lemma>
+    <lemma>špíz</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ražanj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ражен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rożen</lemma>
+    <lemma annotation="np. do szaszłyków">szpikulec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вертел</lemma>
+    <lemma>шампур</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ražeň</lemma>
+    <lemma>špíz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nabodalo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ражањ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рожен</lemma>
+    <lemma>шампур</lemma>
+    <lemma>шпажка</lemma>
+    <lemma>штрикалка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kraĉ</lemma>
+    <lemma>brocheta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spieß</lemma>
+    <lemma>Spieß</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spit</lemma>
+    <lemma>spies</lemma>
+  </synset>
+</multilingual-synset>

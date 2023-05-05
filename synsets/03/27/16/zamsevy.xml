@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32716"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32716" steen:pos="adj." steen:type="2" steen:same="v pl">
+      zamševy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замшавы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>велурен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>semišový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>antilop</lemma>
+    <lemma>velur</lemma>
+    <lemma>nubuk</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>антилпоски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamszowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замшевый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>semišový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>usnje</lemma>
+    <lemma annotation="čevlji">usnje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>антилоп</lemma>
+    <lemma annotation="ципела">од антилопа</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замшевий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suede</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wildleder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>suède</lemma>
+  </synset>
+</multilingual-synset>

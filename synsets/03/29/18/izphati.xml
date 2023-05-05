@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32918"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32918"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="sl"
+    >
+      izphati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вывіхнуць</lemma>
+    <lemma>выкруціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изкълча</lemma>
+    <lemma>извадя кост от ямката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vykloubit</lemma>
+    <lemma>vymknout</lemma>
+    <lemma>vyvrknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iščašiti</lemma>
+    <lemma>izglaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премести</lemma>
+    <lemma>дислоцира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwichnąć</lemma>
+    <lemma>wybić ze stawu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вывихнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vykĺbiť</lemma>
+    <lemma>vymknúť</lemma>
+    <lemma>vytknúť</lemma>
+    <lemma>vyvrieť</lemma>
+    <lemma>vyvrtnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zamik</lemma>
+    <lemma>sev</lemma>
+    <lemma>izglaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искренути</lemma>
+    <lemma>ишчашити</lemma>
+    <lemma>изглавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вивихнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>luxate</lemma>
+    <lemma>dislocate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>luxate</lemma>
+    <lemma>verrenken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bot">ontwrichten</lemma>
+  </synset>
+</multilingual-synset>

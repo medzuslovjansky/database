@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3171"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3171" steen:pos="m." steen:type="1" steen:same="ru cs bg">
+      prědmet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадмет</lemma>
+    <lemma>спакмень</lemma>
+    <lemma>аб&apos;ект</lemma>
+    <lemma>рэч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обект</lemma>
+    <lemma>предмет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předmět</lemma>
+    <lemma>objekt</lemma>
+    <lemma>věc</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predmet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предмет</lemma>
+    <lemma>објект</lemma>
+    <lemma>работа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obiekt</lemma>
+    <lemma>rzecz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предмет</lemma>
+    <lemma>объект</lemma>
+    <lemma>вещь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predmet</lemma>
+    <lemma>objekt</lemma>
+    <lemma>vec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predmet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предмет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>предмет</lemma>
+    <lemma>об&apos;єкт</lemma>
+    <lemma>річ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>objekto</lemma>
+    <lemma>afero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Objekt</lemma>
+    <lemma>Sache</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorwerp</lemma>
+    <lemma>object</lemma>
+    <lemma>ding</lemma>
+  </synset>
+</multilingual-synset>

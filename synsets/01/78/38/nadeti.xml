@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17838"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17838"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      naděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вопратку">надзець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>обличам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obléci si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadjenuti</lemma>
+    <lemma annotation="se">odjenuti</lemma>
+    <lemma annotation="se">zaodjenuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>облече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przywdziać</lemma>
+    <lemma>wdziać</lemma>
+    <lemma>ubrać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="одежду">надеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obliecť si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>interlard</lemma>
+    <lemma>obleko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наденути</lemma>
+    <lemma>оденути</lemma>
+    <lemma>обући</lemma>
+    <lemma>обути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>надягти</lemma>
+    <lemma>вдягти</lemma>
+    <lemma>вбрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>don</lemma>
+    <lemma>surmetis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>don</lemma>
+    <lemma>setzen auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">aantrekken</lemma>
+  </synset>
+</multilingual-synset>

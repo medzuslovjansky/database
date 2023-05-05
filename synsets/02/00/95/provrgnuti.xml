@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20095"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20095"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v cs"
+    >
+      provŕgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перавярнуць</lemma>
+    <lemma>паперакульваць</lemma>
+    <lemma>перагарнуць</lemma>
+    <lemma>перакуліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>взривявам</lemma>
+    <lemma>унищожи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převrhnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>okrenuti naopačke</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преврти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przewrócić do góry nogami</lemma>
+    <lemma>wywrócić</lemma>
+    <lemma>obalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перевернуть</lemma>
+    <lemma>опрокинуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prevrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obrnjen na glavo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>окренути наопачке</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перевернути</lemma>
+    <lemma>вивернути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forigos</lemma>
+    <lemma>maljusta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umkippen</lemma>
+    <lemma>unterminieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omverwerpen</lemma>
+    <lemma>omgooien</lemma>
+  </synset>
+</multilingual-synset>

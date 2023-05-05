@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3440"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3440" steen:pos="n." steen:type="1">porųčeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даручэнне</lemma>
+    <lemma>паручэнне</lemma>
+    <lemma>дырэктыва</lemma>
+    <lemma>распараджэнне</lemma>
+    <lemma>веданне</lemma>
+    <lemma>заданне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>определяне реда</lemma>
+    <lemma>гаранция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poručení</lemma>
+    <lemma>nařízení</lemma>
+    <lemma>rozkaz</lemma>
+    <lemma>příkaz</lemma>
+    <lemma>dispozice</lemma>
+    <lemma>zadání</lemma>
+    <lemma>úkol</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadatak</lemma>
+    <lemma>zaduženje</lemma>
+    <lemma>narudžba</lemma>
+    <lemma>naredba</lemma>
+    <lemma>naređenje</lemma>
+    <lemma>nalog</lemma>
+    <lemma>zapovijed</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>порачка</lemma>
+    <lemma>задача</lemma>
+    <lemma>цел</lemma>
+    <lemma>должност</lemma>
+    <lemma>наредба</lemma>
+    <lemma>гаранција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zadanie</lemma>
+    <lemma>zamówienie</lemma>
+    <lemma>gwarancja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поручение</lemma>
+    <lemma>распоряжение</lemma>
+    <lemma>задание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poručenie</lemma>
+    <lemma>nariadenie</lemma>
+    <lemma>rozkaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naročila naloga</lemma>
+    <lemma>garancija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задатак</lemma>
+    <lemma>наруџбина</lemma>
+    <lemma>гаранција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доручення</lemma>
+    <lemma>розпорядження</lemma>
+    <lemma>гарантія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>assignment</lemma>
+    <lemma>ordo</lemma>
+    <lemma>garantio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zuordnung</lemma>
+    <lemma>Ordnung</lemma>
+    <lemma>Garantie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>garantie</lemma>
+    <lemma>taak</lemma>
+    <lemma>bestelling</lemma>
+    <lemma>order</lemma>
+  </synset>
+</multilingual-synset>

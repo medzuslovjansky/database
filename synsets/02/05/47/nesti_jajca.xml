@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20547"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20547" steen:pos="v.tr. ipf." steen:type="1">
+      nesti jajca
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>несці яйкі</lemma>
+    <lemma>несці яйцы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="яйца">нося</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nést</lemma>
+    <lemma annotation="vejce">klást</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nesti /nositi jaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>несе јајца</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znosić jaja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нести яйца</lemma>
+    <lemma>откладывать яйца</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>niesť</lemma>
+    <lemma annotation="vajcia">klásť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nesejo jajca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>носити јаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нести яйця</lemma>
+    <lemma>відкладати яйця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>meti ovojn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eier legen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eieren leggen</lemma>
+  </synset>
+</multilingual-synset>

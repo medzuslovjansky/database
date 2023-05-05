@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36716"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36716"
+      steen:addition="(izpade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      izpasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпасці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изпадна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypadnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испадна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выпасть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vypadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izkažejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испасти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випасти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>elfali</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>ausfallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvallen</lemma>
+    <lemma>naar buiten vallen</lemma>
+  </synset>
+</multilingual-synset>

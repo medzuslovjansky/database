@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21373"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21373"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      obnarodovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абнародаваць</lemma>
+    <lemma>выдаваць</lemma>
+    <lemma>выдаць</lemma>
+    <lemma>апублікаваць</lemma>
+    <lemma>апавяшчаць</lemma>
+    <lemma>апавясціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обнародвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zveřejnit</lemma>
+    <lemma>vyhlásit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obnarodovati</lemma>
+    <lemma>objavljivati</lemma>
+    <lemma>oglašavati</lemma>
+    <lemma>razglašavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обнароди</lemma>
+    <lemma>обнародува</lemma>
+    <lemma>објави</lemma>
+    <lemma>објавува</lemma>
+    <lemma>публикува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjawiać</lemma>
+    <lemma>promulgować</lemma>
+    <lemma>ogłaszać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обнародовать</lemma>
+    <lemma>опубликовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zverejniť</lemma>
+    <lemma>vyhlásiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obnarodovati</lemma>
+    <lemma>sporočamo</lemma>
+    <lemma>obvesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обнародовати</lemma>
+    <lemma>објавити</lemma>
+    <lemma>дати на знање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оприлюднити</lemma>
+    <lemma>опублікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>divulgate</lemma>
+    <lemma>proklami</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>divulgate</lemma>
+    <lemma>promulgieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>divulgeren</lemma>
+  </synset>
+</multilingual-synset>

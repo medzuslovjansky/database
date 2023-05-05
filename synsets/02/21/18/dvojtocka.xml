@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22118"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22118" steen:pos="f." steen:type="1">dvojtočka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>двукроп&apos;е</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двоеточие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dvojtečka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvotočka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="интерпукција">две точки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dwukropek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двоеточие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dvojbodka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dvopičje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двотачка</lemma>
+    <lemma annotation="интерпункција">две тачке</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="розділовий знак">двокрапка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="interpunkcio">dupunkto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Doppelpunkt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dubbele punt</lemma>
+  </synset>
+</multilingual-synset>

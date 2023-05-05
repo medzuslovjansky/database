@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22528"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      oblåčiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзець</lemma>
+    <lemma>апрануць</lemma>
+    <lemma>надзець</lemma>
+    <lemma>прыадзець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>облекло</lemma>
+    <lemma>обличане</lemma>
+    <lemma>Дон</lemma>
+    <lemma>да се постави на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="si">obléct</lemma>
+    <lemma annotation="si">obléknout</lemma>
+    <lemma>odít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">obući</lemma>
+    <lemma annotation="se">odjenuti</lemma>
+    <lemma annotation="se">zaodjenuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>облече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ubrać</lemma>
+    <lemma>odziać</lemma>
+    <lemma annotation="ubranie">włożyć</lemma>
+    <lemma>przyodziać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>облачить</lemma>
+    <lemma>одеть</lemma>
+    <lemma>облачиться</lemma>
+    <lemma>надеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="si">obliecť</lemma>
+    <lemma annotation="si">odieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obleko</lemma>
+    <lemma>obleko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обући</lemma>
+    <lemma>оденути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одягнути</lemma>
+    <lemma>убрати</lemma>
+    <lemma>надіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vestas</lemma>
+    <lemma>vestita</lemma>
+    <lemma>don</lemma>
+    <lemma>surmetis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kleiden</lemma>
+    <lemma>Kleid</lemma>
+    <lemma>ziehen sie an</lemma>
+    <lemma>setzen Sie auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleren">aantrekken</lemma>
+    <lemma annotation="hoed">opzetten</lemma>
+  </synset>
+</multilingual-synset>

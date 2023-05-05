@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35515"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35515" steen:pos="n." steen:type="2" steen:same="ru sh bm">
+      priměnjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ужыванне</lemma>
+    <lemma>ужытак</lemma>
+    <lemma>выкарыстанне</lemma>
+    <lemma>скарыстанне</lemma>
+    <lemma>спажыванне</lemma>
+    <lemma>датасаванне</lemma>
+    <lemma>ужыццё</lemma>
+    <lemma>тарнаванне</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="метод">приложение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aplikace</lemma>
+    <lemma>uplatnění</lemma>
+    <lemma>užití</lemma>
+    <lemma>využití</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primjena</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>применување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zastosowanie</lemma>
+    <lemma>użycie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>применение</lemma>
+    <lemma>употребление</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>aplikácie</lemma>
+    <lemma>uplatnenie</lemma>
+    <lemma>využitie</lemma>
+    <lemma>využitie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uporaba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>примена</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застосування</lemma>
+    <lemma>вживання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de metodo">aplikaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Anwendung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toepassing</lemma>
+  </synset>
+</multilingual-synset>

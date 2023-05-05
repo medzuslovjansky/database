@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22225"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22225"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      obvěstiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аб&apos;явіць</lemma>
+    <lemma>абвясціць</lemma>
+    <lemma>апавясціць</lemma>
+    <lemma>азнайміць</lemma>
+    <lemma>паведаміць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обяви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obhánět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obavijestiti</lemma>
+    <lemma>objaviti</lemma>
+    <lemma>proglasiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>објави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obwieścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>объявить</lemma>
+    <lemma>огласить</lemma>
+    <lemma>оповестить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obháňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obvesti</lemma>
+    <lemma>sporočamo izjavi</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>обавестити</lemma>
+    <lemma>објавити</lemma>
+    <lemma>прогласити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оголосити</lemma>
+    <lemma>оповістити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anonci</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bekannt geben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankondigen</lemma>
+    <lemma>bekendmaken</lemma>
+  </synset>
+</multilingual-synset>

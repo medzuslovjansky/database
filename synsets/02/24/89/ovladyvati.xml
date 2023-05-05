@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22489"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22489"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      ovladyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захапляць</lemma>
+    <lemma>захопліваць</lemma>
+    <lemma>залапваць</lemma>
+    <lemma>зацінаць</lemma>
+    <lemma>завалодваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вземете</lemma>
+    <lemma>да се хване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovládat</lemma>
+    <lemma>držet v moci</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zahvaaiti</lemma>
+    <lemma>hvatati</lemma>
+    <lemma>uzimati</lemma>
+    <lemma>grabiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овладува</lemma>
+    <lemma>завладува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zawładywać</lemma>
+    <lemma>owładywać</lemma>
+    <lemma>brać w posiadanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>захватывать</lemma>
+    <lemma>завладевать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovládať</lemma>
+    <lemma>držať v moci</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zahvaaiti</lemma>
+    <lemma>lovljenja</lemma>
+    <lemma>zgrabi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>захвааити</lemma>
+    <lemma>хватати</lemma>
+    <lemma>узимати</lemma>
+    <lemma>грабити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>захоплювати</lemma>
+    <lemma>заволодівати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preni</lemma>
+    <lemma>ekposedu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beschlagnahmen</lemma>
+    <lemma>in Besitz nehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in bezit nemen</lemma>
+  </synset>
+</multilingual-synset>

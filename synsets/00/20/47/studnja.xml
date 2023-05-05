@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2047"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2047" steen:pos="f." steen:type="2" steen:same="be z sl">
+      studnja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>студня</lemma>
+    <lemma>калодзеж</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кладенец</lemma>
+    <lemma>сонда за вода</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>studna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>studenac</lemma>
+    <lemma>bunar</lemma>
+    <lemma>zdenac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кладенец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>studnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колодец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>studňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dobro</lemma>
+    <lemma>dobro vode</lemma>
+    <lemma>vodnjak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бунар</lemma>
+    <lemma>студенац</lemma>
+    <lemma>зденац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>колодязь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akvo bone</lemma>
+    <lemma>tiri-puto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brunnen</lemma>
+    <lemma>draw-gut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>put</lemma>
+    <lemma>waterput</lemma>
+  </synset>
+</multilingual-synset>

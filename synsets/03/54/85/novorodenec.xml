@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35485"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35485"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      novorođenec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нараджэнец</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>новороденото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>novorozenec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>novorođenče</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>новороденче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>noworodek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>новорожденный</lemma>
+    <lemma>младенец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>novorodenec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>novorojenček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>новорођенче</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>новонароджений</lemma>
+    <lemma>немовля</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>novnaskita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>neu geboren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pasgeborene</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13923"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13923" steen:pos="f." steen:type="3" steen:same="cs">
+      izględka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гледзішча</lemma>
+    <lemma>назіральны пункт</lemma>
+    <lemma>пункт погляду</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гледна точка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhlídka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vidikovac</lemma>
+    <lemma>osmatračnica</lemma>
+    <lemma>opservaciona točka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гледна точка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>punkt obserwacyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наблюдательный пункт</lemma>
+    <lemma annotation="для наблюдения">место</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhliadka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razgledni</lemma>
+    <lemma>stolp</lemma>
+    <lemma>opazovalno točko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>видиковац</lemma>
+    <lemma>осматрачница</lemma>
+    <lemma>опсервациона тачка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>погляд</lemma>
+    <lemma>світогляд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vidpunkto</lemma>
+    <lemma>panoramejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Standpunkt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitzichtspunt</lemma>
+    <lemma>observatiepunt</lemma>
+  </synset>
+</multilingual-synset>

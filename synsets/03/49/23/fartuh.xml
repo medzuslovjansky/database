@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34923"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34923"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="D"
+    >
+      fartuh
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фартух</lemma>
+    <lemma>хвартух</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>престилка</lemma>
+    <lemma>фута</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zástěra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pregača</lemma>
+    <lemma>kecelja</lemma>
+    <lemma>šircl</lemma>
+    <lemma>fertun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престилка</lemma>
+    <lemma>скутник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fartuch</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фартук</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zástera</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predpasnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кецеља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фартух</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭtuko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schürze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schort</lemma>
+  </synset>
+</multilingual-synset>

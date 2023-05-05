@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31145"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31145"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="D"
+    >
+      vrštat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>варштат</lemma>
+    <lemma>вярстак</lemma>
+    <lemma>сталюга</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>работна маса</lemma>
+    <lemma>работен плот</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ponk</lemma>
+    <lemma>dílenský stůl</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>radni stol</lemma>
+    <lemma>radionički sto</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>работна маса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="stół">warsztat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>верстак</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ponk</lemma>
+    <lemma>dielenský stôl</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>miza</lemma>
+    <lemma>delovna miza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радни сто</lemma>
+    <lemma>радионички сто</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>верстат</lemma>
+    <lemma>верстак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stablo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Werkbank</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werkbank</lemma>
+  </synset>
+</multilingual-synset>

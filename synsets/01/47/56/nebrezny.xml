@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14756"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14756"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru uk yu~ bm"
+    >
+      nebrěžny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нядбалы</lemma>
+    <lemma>нядбайны</lemma>
+    <lemma>неахайны</lemma>
+    <lemma>халатны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>немарлив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zanedbávající</lemma>
+    <lemma>nedbalý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nemaran</lemma>
+    <lemma>nehajan</lemma>
+    <lemma>nebrižan</lemma>
+    <lemma>nepažljiv</lemma>
+    <lemma>neuredan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>немарлив</lemma>
+    <lemma>негрижлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niedbały</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>небрежный</lemma>
+    <lemma>нерадивый</lemma>
+    <lemma>беспечный</lemma>
+    <lemma>халатный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zanedbávajúci</lemma>
+    <lemma>nedbalý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>malomarno</lemma>
+    <lemma>nepreviden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>немаран</lemma>
+    <lemma>нехајан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>недбалий</lemma>
+    <lemma>недбайливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>omiso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nachlässig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onachtzaam</lemma>
+    <lemma>slordig</lemma>
+  </synset>
+</multilingual-synset>

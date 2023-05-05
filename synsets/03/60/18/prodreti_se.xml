@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36018"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36018"
+      steen:addition="(prodere)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v pl j"
+    >
+      prodreti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прарвацца</lemma>
+    <lemma>прадрацца</lemma>
+    <lemma>прадзерціся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прорвемся</lemma>
+    <lemma>като сила</lemma>
+    <lemma>един чрез СТГ.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prorazit</lemma>
+    <lemma>probít se</lemma>
+    <lemma>prodrat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prodrijeti</lemma>
+    <lemma annotation="se">probiti</lemma>
+    <lemma>proći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се пробие</lemma>
+    <lemma>протне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przebić się</lemma>
+    <lemma>przedrzeć się</lemma>
+    <lemma>przeniknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прорваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preraziť</lemma>
+    <lemma>prebiť sa</lemma>
+    <lemma>predrať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="skozi nekaj">razšla</lemma>
+    <lemma>da bi prekinil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="кроз нешто">продрети се</lemma>
+    <lemma>пробити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прорватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trarompi</lemma>
+    <lemma>devigos onian vojon tra sth.</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>seinen Weg durch etw durchbrechen</lemma>
+    <lemma>erzwingen.</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doorbreken</lemma>
+    <lemma>zich een weg banen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5827"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5827"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      s izključeńjem
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з выняткам</lemma>
+    <lemma>выняткоўваючы</lemma>
+    <lemma>апроч</lemma>
+    <lemma>апрача</lemma>
+    <lemma>проч</lemma>
+    <lemma>акрамя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>с изключение на</lemma>
+    <lemma>с изключение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kromě</lemma>
+    <lemma>s výjimkou</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izuzev</lemma>
+    <lemma>osim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освен</lemma>
+    <lemma>со исклучок на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za wyjątkiem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>за исключением</lemma>
+    <lemma>исключая</lemma>
+    <lemma>кроме</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>okrem</lemma>
+    <lemma>s výnimkou</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razen če ni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изузев</lemma>
+    <lemma>осим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>за виключенням</lemma>
+    <lemma>виключаючи</lemma>
+    <lemma>окрім</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>escepti</lemma>
+    <lemma>escepte de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausnehmen</lemma>
+    <lemma>mit Ausnahme von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>met uitzondering van</lemma>
+  </synset>
+</multilingual-synset>

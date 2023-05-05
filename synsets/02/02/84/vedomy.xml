@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20284"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20284"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v pl (cs)"
+    >
+      vědomy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вядомы</lemma>
+    <lemma>слынны</lemma>
+    <lemma>ведамы</lemma>
+    <lemma>знаны</lemma>
+    <lemma>знаёмы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>известно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>známý</lemma>
+    <lemma>povědomý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izvjesan</lemma>
+    <lemma>znan</lemma>
+    <lemma>poznat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извесен</lemma>
+    <lemma>познат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiadomy</lemma>
+    <lemma>znany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>известный</lemma>
+    <lemma>знакомый</lemma>
+    <lemma annotation="устар.">ве́домый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>známy</lemma>
+    <lemma>povedomý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvesan</lemma>
+    <lemma>slaven</lemma>
+    <lemma>znan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извесан</lemma>
+    <lemma>знан</lemma>
+    <lemma>познат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відомий</lemma>
+    <lemma>знайомий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konataj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>bekannt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bekend</lemma>
+  </synset>
+</multilingual-synset>

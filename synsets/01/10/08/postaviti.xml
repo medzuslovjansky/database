@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11008"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11008"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="cs"
+    >
+      postaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стварыць</lemma>
+    <lemma>збудаваць</lemma>
+    <lemma>змайстраваць</lemma>
+    <lemma>узвесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изграждане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postavit</lemma>
+    <lemma>vybudovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgraditi</lemma>
+    <lemma>napraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постави</lemma>
+    <lemma>направи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wybudować</lemma>
+    <lemma>zbudować</lemma>
+    <lemma>wznieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>создать</lemma>
+    <lemma>соорудить</lemma>
+    <lemma>воздвигнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>postaviť</lemma>
+    <lemma>vybudovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustanovi</lemma>
+    <lemma>graditi</lemma>
+    <lemma>ustvarjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поставити</lemma>
+    <lemma>изградити</lemma>
+    <lemma>направити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>створити</lemma>
+    <lemma>спорудити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konstrukcio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bouwen</lemma>
+  </synset>
+</multilingual-synset>

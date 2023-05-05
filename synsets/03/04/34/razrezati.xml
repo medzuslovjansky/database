@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30434"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30434"
+      steen:addition="(råzrěže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      råzrězati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разрэзаць</lemma>
+    <lemma>расшастаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нарязани</lemma>
+    <lemma>нарязани</lemma>
+    <lemma>нарязани</lemma>
+    <lemma>разделени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozřezat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>porezati</lemma>
+    <lemma>posjeći</lemma>
+    <lemma>isjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>засече</lemma>
+    <lemma>расече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozciąć</lemma>
+    <lemma>rozrzezać</lemma>
+    <lemma>porzezać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разре́зать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozrezať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cut</lemma>
+    <lemma>cut</lemma>
+    <lemma>cut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>порезати</lemma>
+    <lemma>посећи</lemma>
+    <lemma>исећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розрізати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tranĉi supren</lemma>
+    <lemma>fendo</lemma>
+    <lemma>elsekigi</lemma>
+    <lemma>descuartizar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerschneiden</lemma>
+    <lemma>geschlitzt</lemma>
+    <lemma>sezieren</lemma>
+    <lemma>zerstückeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in stukken snijden</lemma>
+  </synset>
+</multilingual-synset>

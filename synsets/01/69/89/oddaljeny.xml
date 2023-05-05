@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16989" steen:pos="adj." steen:type="1" steen:same="v z j">
+      oddaljeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аддалены</lemma>
+    <lemma>далёкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>далечни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzdálený</lemma>
+    <lemma>oddálený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>udaljen</lemma>
+    <lemma>dalek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оддалечен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddalony</lemma>
+    <lemma>odległy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отдалённый</lemma>
+    <lemma annotation="на расстояние">удалённый</lemma>
+    <lemma>далёкий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vzdialený</lemma>
+    <lemma>oddialený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>daleč daleč stran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>удаљен</lemma>
+    <lemma>далек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віддалений</lemma>
+    <lemma>далекий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fora</lemma>
+    <lemma>malproksima</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fernbedienung</lemma>
+    <lemma>entfernte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afgelegen</lemma>
+    <lemma>ver</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30605"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30605" steen:pos="f." steen:type="1" steen:genesis="I">
+      reklamacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэкламацыя</lemma>
+    <lemma>прэтэнзія</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>рекултивация.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>reklamace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prigovor</lemma>
+    <lemma>reklamacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рекламација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reklamacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рекламация</lemma>
+    <lemma>претензия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>reklamácie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritožb</lemma>
+    <lemma annotation="nekaj gnilo">oglaševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рекламација</lemma>
+    <lemma annotation="нечег поквареног">рекламирање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рекламація</lemma>
+    <lemma>претензія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reklamo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rückgewinnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reclamatie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21415"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21415"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      odročiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на тэрмін">адкласці</lemma>
+    <lemma>адтэрмінаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отлагаме</lemma>
+    <lemma>отлагаме</lemma>
+    <lemma>отлагаме</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odložit</lemma>
+    <lemma>odročit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odgoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одложи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odroczyć</lemma>
+    <lemma annotation="na później">odłożyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на время">отложить</lemma>
+    <lemma>отсрочить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odložiť</lemma>
+    <lemma>odročiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odročiti</lemma>
+    <lemma>preloži</lemma>
+    <lemma>odloži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрочити</lemma>
+    <lemma>одложити</lemma>
+    <lemma>одгодити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на якийсь час">відкласти</lemma>
+    <lemma>відстрочити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prokrasto</lemma>
+    <lemma>prokrasti</lemma>
+    <lemma>demetu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verzögerung</lemma>
+    <lemma>verschieben</lemma>
+    <lemma>verschieben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstellen</lemma>
+  </synset>
+</multilingual-synset>

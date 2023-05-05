@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19352"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19352"
+      steen:addition="#(zadŕži)"
+      steen:pos="v.refl. pf."
+      steen:type="5"
+    >
+      zadŕžati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спыніцца</lemma>
+    <lemma>запыніцца</lemma>
+    <lemma>супыніцца</lemma>
+    <lemma>затармазіць</lemma>
+    <lemma>затрымацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задържа се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdržet se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaustaviti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се задржа</lemma>
+    <lemma>се запре</lemma>
+    <lemma>закочи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zahamować</lemma>
+    <lemma>zatrzymać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>остановиться</lemma>
+    <lemma>затормозить</lemma>
+    <lemma>задержаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zdržať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stop</lemma>
+    <lemma>zamrznitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зауставити се</lemma>
+    <lemma>укочити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зупинитися</lemma>
+    <lemma>загальмувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bremson</lemma>
+    <lemma>halto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bremse</lemma>
+    <lemma>Stopp</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>remmen</lemma>
+    <lemma>stoppen</lemma>
+    <lemma>tot stilstand komen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5074"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      odstųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ад пасады">адмаўляцца</lemma>
+    <lemma>звальняцца</lemma>
+    <lemma>сыходзіць з пасады</lemma>
+    <lemma>адракацца</lemma>
+    <lemma>адхінацца</lemma>
+    <lemma>папускацца</lemma>
+    <lemma>адпірацца</lemma>
+    <lemma>спірацца</lemma>
+    <lemma>адкідацца</lemma>
+    <lemma>складаць паўнамоцтвы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да напусне</lemma>
+    <lemma>за да се отклони</lemma>
+    <lemma>да се откаже</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstupovat</lemma>
+    <lemma>abdikovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="s položaja, funkcije">odstupati</lemma>
+    <lemma annotation="se">odricati</lemma>
+    <lemma>abdicirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапува</lemma>
+    <lemma>напушта</lemma>
+    <lemma>поднесува оставка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>abdykować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="от должности">отказываться</lemma>
+    <lemma>отрекаться</lemma>
+    <lemma>уходить в отставку</lemma>
+    <lemma>слагать полномочия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odstupovať</lemma>
+    <lemma>abdikovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="s položajem, funkcija">razlikujejo</lemma>
+    <lemma annotation="SE">odpovedo</lemma>
+    <lemma>abdicirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="са положаја, функције">одступати</lemma>
+    <lemma annotation="се">одрицати</lemma>
+    <lemma>абдицирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="від посади">відмовлятися</lemma>
+    <lemma>зрікатися</lemma>
+    <lemma>йти у відставку</lemma>
+    <lemma>складати повноваження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>demisii</lemma>
+    <lemma>retropaŝo</lemma>
+    <lemma>abdiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rücktritt</lemma>
+    <lemma>Schritt zurück</lemma>
+    <lemma>abdanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aftreden</lemma>
+  </synset>
+</multilingual-synset>

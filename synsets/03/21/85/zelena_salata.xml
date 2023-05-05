@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32185" steen:pos="f." steen:type="1" steen:same="ub pl j">
+      zelena salata
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>латук</lemma>
+    <lemma annotation="гародніна">салата</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бърдоква</lemma>
+    <lemma>маруля</lemma>
+    <lemma>зелена салата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlávkový salát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zelena salata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зелена салата</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sałata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>латук</lemma>
+    <lemma annotation="овощ">салат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hlávkový šalát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>solata</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зелена салата</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>латук</lemma>
+    <lemma annotation="овоч">салат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laktuko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grüner Salat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sla</lemma>
+  </synset>
+</multilingual-synset>

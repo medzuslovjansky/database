@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36025"
+      steen:addition="(-ogo)"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      rędovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="званне">радавы</lemma>
+    <lemma>шараговец</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="ранг">частен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hodnost">vojín</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="običan vojnik">redov</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="прост војник без чин">редов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szeregowy</lemma>
+    <lemma>szeregowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="звание">рядовой</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="hodnosť">vojak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="redni vojak">urniki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="обичан војник">редов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="звання">рядовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rango">privata</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Rang">privat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rang">soldaat</lemma>
+  </synset>
+</multilingual-synset>

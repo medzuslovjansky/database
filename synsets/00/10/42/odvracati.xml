@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1042"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1042" steen:pos="v.tr. ipf." steen:type="1">
+      odvraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>папярэджваць</lemma>
+    <lemma>выпярэджваць</lemma>
+    <lemma>прадухіляць</lemma>
+    <lemma>адхіляць</lemma>
+    <lemma>адводзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предотврати</lemma>
+    <lemma>облекчи</lemma>
+    <lemma>предупреди</lemma>
+    <lemma annotation="tr.">да отвърнем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvracet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvraćati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвраќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odwracać</lemma>
+    <lemma>zapobiegać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предупреждать</lemma>
+    <lemma>предотвращать</lemma>
+    <lemma>отвращать</lemma>
+    <lemma>отворачивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvracať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvračanje</lemma>
+    <lemma>preprečevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвратити</lemma>
+    <lemma>спречити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>попереджати</lemma>
+    <lemma>запобігати</lemma>
+    <lemma>відвертати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forturni</lemma>
+    <lemma>deturni</lemma>
+    <lemma>malhelpi</lemma>
+    <lemma annotation="tr.">forklini</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abwenden</lemma>
+    <lemma>ablenken</lemma>
+    <lemma>zu verhindern</lemma>
+    <lemma annotation="tr.">abwenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afwenden</lemma>
+  </synset>
+</multilingual-synset>

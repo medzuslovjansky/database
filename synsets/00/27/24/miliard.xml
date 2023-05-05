@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2724"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2724"
+      steen:pos="num.card."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      miliard
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мільярд</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>милиард</lemma>
+    <lemma annotation="10 с 9 нули">хиляда милиона</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>miliarda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>milijarda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>милијарда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miliard</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>миллиард</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>miliarda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Milijarda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>милијарда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мільярд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>milliard</lemma>
+    <lemma>miliardoj [10 ^ 9]</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>milliard</lemma>
+    <lemma>Milliarden [10 ^ 9]</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>miljard</lemma>
+  </synset>
+</multilingual-synset>

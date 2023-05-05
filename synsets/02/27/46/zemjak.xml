@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22746"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22746"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl~ sh mk"
+    >
+      zemjak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зямляк</lemma>
+    <lemma>зямеля</lemma>
+    <lemma>суайчыннік</lemma>
+    <lemma>спадкрэвіч</lemma>
+    <lemma>аднаайчыннік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>земляк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krajan</lemma>
+    <lemma>rodák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemljak</lemma>
+    <lemma>sunarodnjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земјак</lemma>
+    <lemma>сонародник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ziomek</lemma>
+    <lemma>kompatriota</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>земляк</lemma>
+    <lemma>соотечественник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>krajan</lemma>
+    <lemma>rodák</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rojak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земљак</lemma>
+    <lemma>сународник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>земляк</lemma>
+    <lemma>співвітчизник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>samlandano</lemma>
+    <lemma>samlandano</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Landsmann</lemma>
+    <lemma>Lands</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>landgenoot</lemma>
+  </synset>
+</multilingual-synset>

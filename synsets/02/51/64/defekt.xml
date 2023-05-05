@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25164"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25164" steen:pos="m." steen:type="1" steen:genesis="I">
+      defekt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэфект</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дефектен</lemma>
+    <lemma>повреден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>defekt</lemma>
+    <lemma>vada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>defekt</lemma>
+    <lemma>wada</lemma>
+    <lemma>usterka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>defekt</lemma>
+    <lemma>vada</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>okvara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дефект</lemma>
+    <lemma>квар</lemma>
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дефект</lemma>
+    <lemma>вада</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>difekto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Defekt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>defect</lemma>
+  </synset>
+</multilingual-synset>

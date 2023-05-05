@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23255"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23255"
+      steen:addition="(zašije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zašiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зашыць</lemma>
+    <lemma>сшыць</lemma>
+    <lemma>насшываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зашия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zašít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zašiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зашие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaszyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зашить</lemma>
+    <lemma>сшить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zašiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šivanje</lemma>
+    <lemma>šivanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зашити</lemma>
+    <lemma>ушити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зашити</lemma>
+    <lemma>зшити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kudri</lemma>
+    <lemma>kudrero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nähen sie</lemma>
+    <lemma>stich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naaien</lemma>
+  </synset>
+</multilingual-synset>

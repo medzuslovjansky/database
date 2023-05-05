@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20901"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20901" steen:pos="adj." steen:type="1" steen:same="uk z j">
+      napęty
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нацягнуты</lemma>
+    <lemma>напружаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напрегнат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napjatý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napet</lemma>
+    <lemma>zapet</lemma>
+    <lemma>zategnut</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напнат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napięty</lemma>
+    <lemma annotation="zachowanie">spięty</lemma>
+    <lemma>naciągnięty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>натянутый</lemma>
+    <lemma>напряжённый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napätý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zategnjen</lemma>
+    <lemma>zategnjen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напет</lemma>
+    <lemma>запет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напнутий</lemma>
+    <lemma>натягнутий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>verbotempo</lemma>
+    <lemma>firme</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>angespannt</lemma>
+    <lemma>dicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strak</lemma>
+    <lemma>gespannen</lemma>
+  </synset>
+</multilingual-synset>

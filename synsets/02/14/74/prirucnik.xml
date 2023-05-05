@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21474"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21474" steen:pos="m." steen:type="2" steen:same="cz sh">
+      prirųčnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даведнік</lemma>
+    <lemma>кіраўніцтва</lemma>
+    <lemma>дапаможнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наръчник</lemma>
+    <lemma>пътеводител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příručka</lemma>
+    <lemma>manuál</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>priručnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прирачник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podręcznik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>справочник</lemma>
+    <lemma>руководство</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príručka</lemma>
+    <lemma>manuál</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uporabo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приручник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підручник</lemma>
+    <lemma>довідник</lemma>
+    <lemma>керівництво</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>manlibro</lemma>
+    <lemma>manlibro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Handbuch</lemma>
+    <lemma>Handbuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handboek</lemma>
+  </synset>
+</multilingual-synset>

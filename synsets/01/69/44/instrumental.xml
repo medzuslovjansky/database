@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16944"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16944" steen:pos="m." steen:type="2" steen:genesis="I">
+      instrumental
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>творны склон</lemma>
+    <lemma annotation="Грама.">інструменталіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>творителен падеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">instrumentál</lemma>
+    <lemma>7.pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="padež">instrumental</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">инструментал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narzędnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>творительный падеж</lemma>
+    <lemma annotation="грам.">инструменталис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">inštrumentál</lemma>
+    <lemma>7.pád</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="primer">instrumentalne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="падеж">инструментал</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>орудний відмінок</lemma>
+    <lemma>інструментал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instrumentaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>instrumental</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instrumentalis</lemma>
+  </synset>
+</multilingual-synset>

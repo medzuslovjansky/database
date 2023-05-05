@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36088"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36088" steen:pos="n.">tělo samoleta</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фюзеляж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фюзелаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trup letadla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="zrakoplova">trup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трупот на авионот</lemma>
+    <lemma>тело на авионот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kadłub samolotu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фюзеляж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trup lietadla</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="letala">trup</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="авиона">труп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фюзеляж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fuzelaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rumpf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vliegtuigromp</lemma>
+  </synset>
+</multilingual-synset>

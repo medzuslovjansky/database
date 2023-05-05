@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35497"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35497"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="z sh bm"
+      steen:genesis="F"
+    >
+      suteren
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>склеп</lemma>
+    <lemma>сутарэнне</lemma>
+    <lemma>падвал</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мазе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sklep</lemma>
+    <lemma>sklepení</lemma>
+    <lemma>suterén</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>suteren</lemma>
+    <lemma>podrum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сутерен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piwnica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подвал</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pivnica</lemma>
+    <lemma>pivnici</lemma>
+    <lemma>suterén</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kleti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сутерен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підвал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kelon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Keller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>souterrain</lemma>
+  </synset>
+</multilingual-synset>

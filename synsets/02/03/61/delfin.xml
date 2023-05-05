@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20361"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20361"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      delfin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэльфін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>делфин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>delfín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>delfin</lemma>
+    <lemma>dupin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>делфин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>delfin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дельфин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>delfín</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>delfin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>делфин</lemma>
+    <lemma>дупин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дельфін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>delfeno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Delfin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dolfijn</lemma>
+  </synset>
+</multilingual-synset>

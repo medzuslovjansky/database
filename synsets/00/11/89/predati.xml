@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1189"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1189"
+      steen:addition="(prěda)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prědati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перадаць</lemma>
+    <lemma>даставіць</lemma>
+    <lemma>даць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предаде</lemma>
+    <lemma>да доставят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předat</lemma>
+    <lemma>doručit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predati</lemma>
+    <lemma>isporučiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предаде</lemma>
+    <lemma>испорача</lemma>
+    <lemma>достави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>doręczyć</lemma>
+    <lemma>dostarczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>передать</lemma>
+    <lemma>доставить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odovzdať</lemma>
+    <lemma>doručiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dostaviti</lemma>
+    <lemma>dostaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предати</lemma>
+    <lemma>испоручити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передати</lemma>
+    <lemma>доставити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transdoni</lemma>
+    <lemma>liveri</lemma>
+    <lemma>transdoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>übergeben</lemma>
+    <lemma>liefern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overhandigen</lemma>
+    <lemma>overbrengen</lemma>
+    <lemma>doorgeven</lemma>
+  </synset>
+</multilingual-synset>

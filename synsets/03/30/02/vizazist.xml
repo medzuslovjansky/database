@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33002"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33002"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      vizažist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>візажыст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гримьор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vizážista</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>šminker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шминкер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wizażysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>визажист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vizážista</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umetnik ličenja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шминкер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>візажист</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝminko artisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Maskenbildner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>visagist</lemma>
+    <lemma>schoonheidsspecialist</lemma>
+    <lemma>grimeur</lemma>
+  </synset>
+</multilingual-synset>

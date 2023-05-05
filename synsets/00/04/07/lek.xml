@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="407"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="407" steen:pos="m." steen:type="1">lěk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лекі</lemma>
+    <lemma>медыкамент</lemma>
+    <lemma>прэпарат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лек</lemma>
+    <lemma>лекарство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lék</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lijek</lemma>
+    <lemma>medikament</lemma>
+    <lemma>ljekarija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lek</lemma>
+    <lemma>lekarstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лекарство</lemma>
+    <lemma>медикамент</lemma>
+    <lemma>препарат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>liek</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лек</lemma>
+    <lemma>медикамент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ліки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>medicino</lemma>
+    <lemma>drogoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Medizin</lemma>
+    <lemma>Arzneimittel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geneesmiddel</lemma>
+    <lemma>medicijn</lemma>
+  </synset>
+</multilingual-synset>

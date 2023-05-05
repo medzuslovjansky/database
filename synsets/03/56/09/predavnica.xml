@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35609" steen:pos="f." steen:type="2" steen:same="ru be bm">
+      prědavnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здрадніца</lemma>
+    <lemma>прадажніца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrádkyně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izdajnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предавничка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdrajczyni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предательница</lemma>
+    <lemma>изменница</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zradkyňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>traitress</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>издајница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрадниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perfidulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verräter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verraadster</lemma>
+  </synset>
+</multilingual-synset>

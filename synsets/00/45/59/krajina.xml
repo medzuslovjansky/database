@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4559"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4559" steen:pos="f." steen:type="2" steen:same="ub pl sk">
+      krajina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зямля</lemma>
+    <lemma>край</lemma>
+    <lemma>краіна</lemma>
+    <lemma>мясцовасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="геогр.">страна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>země</lemma>
+    <lemma>krajina</lemma>
+    <lemma>území</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kraj</lemma>
+    <lemma>krajina</lemma>
+    <lemma>pokrajina</lemma>
+    <lemma />
+  </synset>
+  <synset lang="mk">
+    <lemma>краина</lemma>
+    <lemma>земјиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kraina</lemma>
+    <lemma>obszar</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>земля</lemma>
+    <lemma>край</lemma>
+    <lemma>местность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krajina</lemma>
+    <lemma>územie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Nazadnje</lemma>
+    <lemma>območje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крај</lemma>
+    <lemma>област</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>земля</lemma>
+    <lemma>країна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lando</lemma>
+    <lemma annotation="geografio">lando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Land</lemma>
+    <lemma annotation="Geografie">Land</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebied</lemma>
+  </synset>
+</multilingual-synset>

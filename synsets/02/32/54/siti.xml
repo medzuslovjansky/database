@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23254"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23254"
+      steen:addition="(šije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      šiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šivati</lemma>
+    <lemma>šiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šivanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шивење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kudri</lemma>
+    <lemma>kudrero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nähen sie</lemma>
+    <lemma>stich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naaien</lemma>
+    <lemma>hechten</lemma>
+  </synset>
+</multilingual-synset>

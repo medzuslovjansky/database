@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30999"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30999" steen:pos="m." steen:type="1" steen:genesis="F">
+      vals
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вальс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>валс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>valčík</lemma>
+    <lemma>waltz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>valcer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>валцер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>walc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вальс</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>valčík</lemma>
+    <lemma>waltz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>valček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>валцер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вальс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>valson</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Walzer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="dans">wals</lemma>
+  </synset>
+</multilingual-synset>

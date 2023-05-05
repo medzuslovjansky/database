@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22183"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22183"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl j"
+    >
+      zaměsiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замясіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замеся</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uhníst</lemma>
+    <lemma>smísit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zamijesiti</lemma>
+    <lemma>umijesiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замеси</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ugnieść</lemma>
+    <lemma>zamiesić</lemma>
+    <lemma annotation="np. ciasto">wyrobić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замесить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uhniesť</lemma>
+    <lemma>zamiesiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>mesiti</lemma>
+    <lemma>gnesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замесити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>замісити</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>knedu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>kneten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kneden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3154"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3154"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      posrěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасярод</lemma>
+    <lemma>спасярод</lemma>
+    <lemma>сярод</lemma>
+    <lemma>між</lemma>
+    <lemma>паміж</lemma>
+    <lemma annotation="дыял.">прамеж</lemma>
+    <lemma annotation="дыял.">спаміж</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>в средата</lemma>
+    <lemma>посред</lemma>
+    <lemma>насред</lemma>
+    <lemma>на средата</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uprostřed</lemma>
+    <lemma>mezi</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posred</lemma>
+    <lemma>usred</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>среде</lemma>
+    <lemma>меѓу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wśród</lemma>
+    <lemma>pośród</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посреди</lemma>
+    <lemma>среди</lemma>
+    <lemma>меж</lemma>
+    <lemma>между</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uprostred</lemma>
+    <lemma>medzi</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mednje sredi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посред</lemma>
+    <lemma>усред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посеред</lemma>
+    <lemma>серед</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>meze</lemma>
+    <lemma>inter</lemma>
+    <lemma>inter</lemma>
+    <lemma>en la mezo de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>inmitten</lemma>
+    <lemma>unter</lemma>
+    <lemma>unter</lemma>
+    <lemma>in der Mitte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>te midden van</lemma>
+    <lemma>onder</lemma>
+  </synset>
+</multilingual-synset>

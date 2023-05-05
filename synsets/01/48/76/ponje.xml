@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14876"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14876" steen:pos="adv." steen:type="3" steen:same="bg">
+      ponje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прынамсі</lemma>
+    <lemma>прынамся</lemma>
+    <lemma>сама меней</lemma>
+    <lemma>як мінімум</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>най-малко</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>alespoň</lemma>
+    <lemma>přinejmenším</lemma>
+    <lemma>co nejméně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>barem</lemma>
+    <lemma>makar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>макар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>co najmniej</lemma>
+    <lemma>przynajmniej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по крайней мере</lemma>
+    <lemma>по меньшей мере</lemma>
+    <lemma>как минимум</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>aspoň</lemma>
+    <lemma>prinajmenšom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vsaj vsaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>барем</lemma>
+    <lemma>макар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>принаймні</lemma>
+    <lemma>щонайменше</lemma>
+    <lemma>як мінімум</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>almenaŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mindestens</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tenminste</lemma>
+    <lemma>althans</lemma>
+  </synset>
+</multilingual-synset>

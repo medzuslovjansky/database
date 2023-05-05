@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26491"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26491"
+      steen:addition="(kaže)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl cz"
+    >
+      kazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадваць</lemma>
+    <lemma>прымушаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заповядвам</lemma>
+    <lemma>нареждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přikazovat</lemma>
+    <lemma>nařizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>narediti</lemma>
+    <lemma>zapovjediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кажа</lemma>
+    <lemma>нареди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kazać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приказывать</lemma>
+    <lemma>велеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prikazovať</lemma>
+    <lemma>nariaďovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Da</lemma>
+    <lemma>ukaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>налагати</lemma>
+    <lemma>наређивати</lemma>
+    <lemma>заповедати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наказувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ordo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bestellung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevelen</lemma>
+    <lemma annotation="iets te">opdragen</lemma>
+  </synset>
+</multilingual-synset>

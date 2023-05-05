@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33116"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33116"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v cs bg"
+    >
+      neodvråtimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неадхільны</lemma>
+    <lemma>няўхільны</lemma>
+    <lemma>немінучы</lemma>
+    <lemma>непазбежны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неизбежен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nodvratný</lemma>
+    <lemma>nevyhnutelný</lemma>
+    <lemma>neodvratitelný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neodvrativ</lemma>
+    <lemma>nesprečiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неизбежен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieodwracalny</lemma>
+    <lemma>nieunikniony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неотвратимый</lemma>
+    <lemma>неизбежный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nodvratný</lemma>
+    <lemma>neodvratný</lemma>
+    <lemma>neodvrátiteľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neodvrativ</lemma>
+    <lemma>nesprečiv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неодвратив</lemma>
+    <lemma>неспречив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невідворотний</lemma>
+    <lemma>неминучий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neevitebla</lemma>
+    <lemma>indivertible</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unvermeidlich</lemma>
+    <lemma>indivertible</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onomkeerbaar</lemma>
+    <lemma>onvermijdelijk</lemma>
+  </synset>
+</multilingual-synset>

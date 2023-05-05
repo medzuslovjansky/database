@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22073" steen:pos="m." steen:type="2" steen:same="ru sh bg">
+      otok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ацёк</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подуване</lemma>
+    <lemma>отоци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otok</lemma>
+    <lemma>edém</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrzęk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отёк</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opuch</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oteklina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оток</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>набряк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>edemo</lemma>
+    <lemma>edemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ödem</lemma>
+    <lemma>Ödeme</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oedeem</lemma>
+  </synset>
+</multilingual-synset>

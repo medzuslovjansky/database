@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1179"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1179"
+      steen:addition="(čija, čije)"
+      steen:pos="pron.poss."
+      steen:type="1"
+    >
+      čij
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чый</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чий</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="čija, čije">čiji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чии</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czyj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čí</lemma>
+    <lemma>koho</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kogar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="чија, чије">чији</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kies</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>wessen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wiens</lemma>
+  </synset>
+</multilingual-synset>

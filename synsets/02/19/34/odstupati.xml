@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21934"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21934"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      odstųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адступаць</lemma>
+    <lemma annotation="ад правіл">адхіляцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се отклонява</lemma>
+    <lemma>се различават</lemma>
+    <lemma>се отклоняват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustupovat</lemma>
+    <lemma>odchylovat se</lemma>
+    <lemma>lišit se</lemma>
+    <lemma annotation="od pravidel">odbočovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="od nečega">ostupati</lemma>
+    <lemma>odustajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапува</lemma>
+    <lemma>напушта</lemma>
+    <lemma>отклонува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. od reguły">odstawać</lemma>
+    <lemma annotation="np. od reguły">odbiegać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отступать</lemma>
+    <lemma annotation="от правил">отклоняться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustupovať</lemma>
+    <lemma>odchyľovať sa</lemma>
+    <lemma>líšiť sa</lemma>
+    <lemma annotation="z pravidiel">odbočovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nečesa">ostupati</lemma>
+    <lemma>umakne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="од нечега">оступати</lemma>
+    <lemma>одустајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відступати</lemma>
+    <lemma annotation="від правил">відхилятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>devii</lemma>
+    <lemma>diferenci</lemma>
+    <lemma>divagar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abweichen</lemma>
+    <lemma>unterscheiden</lemma>
+    <lemma>digress</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afdwalen</lemma>
+    <lemma annotation="van de gebaande paden">afwijken</lemma>
+  </synset>
+</multilingual-synset>

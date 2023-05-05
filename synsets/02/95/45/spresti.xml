@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29545"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29545"
+      steen:addition="(spręde)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      spręsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спрасці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="прежда">въртене</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spříst</lemma>
+    <lemma>upříst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="предиво, волна">испреде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sprząc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спрясть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spriasť</lemma>
+    <lemma>upriasť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>presti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испредати</lemma>
+    <lemma>прести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спрясти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="teksaĵo">spino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Garn">Spin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="draad">spinnen</lemma>
+  </synset>
+</multilingual-synset>

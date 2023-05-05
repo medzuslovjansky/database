@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4935"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4935"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      prěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="посока">преди</lemma>
+    <lemma annotation="посока">преди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>před</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pred</lemma>
+    <lemma>ispred</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przed</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перед</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prej</lemma>
+    <lemma>preden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пред</lemma>
+    <lemma>пре</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перед</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="direkto">antaŭe</lemma>
+    <lemma annotation="direkto">antaŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Richtung">vor</lemma>
+    <lemma annotation="Richtung">vor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="richting">voor</lemma>
+  </synset>
+</multilingual-synset>

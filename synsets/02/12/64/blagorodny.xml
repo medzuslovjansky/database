@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21264"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21264"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      blågorodny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>высакародны</lemma>
+    <lemma>шляхетны</lemma>
+    <lemma>ганаровы</lemma>
+    <lemma>значны</lemma>
+    <lemma>пачэсны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благороден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>blahorodný</lemma>
+    <lemma annotation="titul">čestný</lemma>
+    <lemma>ctihodný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>počasan</lemma>
+    <lemma>počasna titula</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>брагороден</lemma>
+    <lemma>благородни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="tytuł">honorowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благородный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>blahorodný</lemma>
+    <lemma annotation="titul">čestný</lemma>
+    <lemma>ctihodný</lemma>
+    <lemma>vznešený</lemma>
+    <lemma>urodzený</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>častitljiv</lemma>
+    <lemma>blagoroden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>почасни</lemma>
+    <lemma>почасна титула</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="титул">благородний</lemma>
+    <lemma>аристократичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="titolo">honora</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Titel">ehrenwert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hooggeboren</lemma>
+  </synset>
+</multilingual-synset>

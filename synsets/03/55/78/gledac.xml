@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35578"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35578"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ub yu mk"
+    >
+      ględač
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глядач</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зрител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>divák</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gledatelj</lemma>
+    <lemma>gledalac</lemma>
+    <lemma>promatrač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гледач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>widz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зритель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>divák</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gledalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гледалац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>глядач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spektanto</lemma>
+    <lemma>mirón</lemma>
+    <lemma>spektanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zuschauer</lemma>
+    <lemma>Zuschauer</lemma>
+    <lemma>Zuschauer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toeschouwer</lemma>
+    <lemma>kijker</lemma>
+  </synset>
+</multilingual-synset>

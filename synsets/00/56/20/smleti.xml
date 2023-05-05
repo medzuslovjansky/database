@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5620"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5620"
+      steen:addition="(smelje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      smlěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змалоць</lemma>
+    <lemma>памалоць</lemma>
+    <lemma>перамалоць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шлифован</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>semlít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smljeti</lemma>
+    <lemma>samljeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сомеле</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zemleć</lemma>
+    <lemma>zmleć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смолоть</lemma>
+    <lemma>перемолоть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zomlieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mletje zmeljemo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>самлети</lemma>
+    <lemma>смлети</lemma>
+    <lemma>смрвити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>змолоти</lemma>
+    <lemma>перемолоти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grind</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schleifen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>malen</lemma>
+    <lemma>vermalen</lemma>
+  </synset>
+</multilingual-synset>

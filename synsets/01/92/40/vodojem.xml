@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19240" steen:pos="m." steen:type="2" steen:same="ru cz">
+      vodojem
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вадаём</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>водоем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vodojem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>akumulacija</lemma>
+    <lemma>akumulacijsko jezero</lemma>
+    <lemma>umjetno jezero</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вештачко езеро</lemma>
+    <lemma>резервоар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbiornik</lemma>
+    <lemma>rezerwuar</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>водоём</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vodojem</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umetno jezero</lemma>
+    <lemma>rezervoar za vodo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вештачко језеро</lemma>
+    <lemma>резервоар за воду</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>водойма</lemma>
+    <lemma>водоймище</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baseno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reservoir</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reservoir</lemma>
+  </synset>
+</multilingual-synset>

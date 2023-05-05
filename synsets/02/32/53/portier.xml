@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23253"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      portier
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парцье</lemma>
+    <lemma>швейцар</lemma>
+    <lemma>кансьерж</lemma>
+    <lemma>адзвернік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Портър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>portýr</lemma>
+    <lemma>nosič</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>portir</lemma>
+    <lemma>vratar</lemma>
+    <lemma>čuvar</lemma>
+    <lemma>nosač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>амал</lemma>
+    <lemma>носач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bagażowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>портье</lemma>
+    <lemma>швейцар</lemma>
+    <lemma>консьерж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vrátnik</lemma>
+    <lemma>nosič</lemma>
+    <lemma>portiér</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prtljažnik)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пртљага">носач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>портьє</lemma>
+    <lemma>швейцар</lemma>
+    <lemma>конс&apos;єрж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pordisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Porter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kruier</lemma>
+    <lemma>sjouwer</lemma>
+  </synset>
+</multilingual-synset>

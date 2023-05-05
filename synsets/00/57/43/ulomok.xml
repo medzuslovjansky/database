@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5743"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5743" steen:pos="m." steen:type="1">ulomȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абломак</lemma>
+    <lemma>недаломак</lemma>
+    <lemma>адломак</lemma>
+    <lemma>аскепак</lemma>
+    <lemma>зломак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>откъс</lemma>
+    <lemma>фрагмент</lemma>
+    <lemma>частица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úryvek</lemma>
+    <lemma>výňatek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odlomak dio fragmenat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извадок</lemma>
+    <lemma>фрагмент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odłamek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обломок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>úryvok</lemma>
+    <lemma>výňatok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oddelek del fragmenta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одломак део фрагменат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уламок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekstrakto</lemma>
+    <lemma>fragmento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Auszug</lemma>
+    <lemma>fragment</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fragment</lemma>
+  </synset>
+</multilingual-synset>

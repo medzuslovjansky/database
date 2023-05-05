@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1074" steen:pos="f." steen:type="1" steen:genesis="I">
+      religija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэлігія</lemma>
+    <lemma>богашанаванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>религия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náboženství</lemma>
+    <lemma>relige</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>religija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>религија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>religia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>религия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>náboženstvo</lemma>
+    <lemma>relige</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vera</lemma>
+    <lemma>vera</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>религија</lemma>
+    <lemma>вера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>релігія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>religio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Religion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>religie</lemma>
+    <lemma>godsdienst</lemma>
+  </synset>
+</multilingual-synset>

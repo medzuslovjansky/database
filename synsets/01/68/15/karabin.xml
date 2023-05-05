@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16815"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16815"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      karabin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карабін</lemma>
+    <lemma>вінтоўка</lemma>
+    <lemma>стрэльба</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>карабина</lemma>
+    <lemma>пушка</lemma>
+    <lemma>пистолет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="střelná zbraň">karabina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>karabin</lemma>
+    <lemma>puška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>карабин</lemma>
+    <lemma>пушка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strzelba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>карабин</lemma>
+    <lemma>винтовка</lemma>
+    <lemma>ружьё</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="strelná zbraň">karabína</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>puška</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пушка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>карабін</lemma>
+    <lemma>гвинтівка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fusilo</lemma>
+    <lemma>carabine</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gewehr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geweer</lemma>
+    <lemma>karabijn</lemma>
+  </synset>
+</multilingual-synset>

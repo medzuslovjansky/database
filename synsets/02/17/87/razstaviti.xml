@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21787"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21787"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      råzstaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расставіць</lemma>
+    <lemma>выставіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>организира</lemma>
+    <lemma>разпределя</lemma>
+    <lemma>да се разпорежда с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozestavit</lemma>
+    <lemma>naaražovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>urediti</lemma>
+    <lemma>rasporediti</lemma>
+    <lemma>srediti</lemma>
+    <lemma>postaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стави</lemma>
+    <lemma>изложи</lemma>
+    <lemma>аранжира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozstawić</lemma>
+    <lemma>poustawiać</lemma>
+    <lemma>porozkładać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расставить</lemma>
+    <lemma>выставить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozostaviť</lemma>
+    <lemma>naaražovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uredi</lemma>
+    <lemma>distribuirati</lemma>
+    <lemma>popraviti</lemma>
+    <lemma>nastavite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уредити</lemma>
+    <lemma>распоредити</lemma>
+    <lemma>средити</lemma>
+    <lemma>поставити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розставити</lemma>
+    <lemma>виставити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aranĝi</lemma>
+    <lemma>distribui</lemma>
+    <lemma>disponi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>arrangieren</lemma>
+    <lemma>verteilen</lemma>
+    <lemma>entsorgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ordenen</lemma>
+    <lemma>op een geordende manier neerzetten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4476"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4476"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v bm"
+      steen:genesis="F"
+    >
+      velosiped
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ровар</lemma>
+    <lemma>веласіпед</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>колело</lemma>
+    <lemma>велосипед</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kolo</lemma>
+    <lemma>bicykl</lemma>
+    <lemma>velocipéd</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bicikl</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>велосипед</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rower</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>велосипед</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>bicykel</lemma>
+    <lemma>bicykel</lemma>
+    <lemma>velocipéd</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kolo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бицикл</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>велосипед</lemma>
+    <lemma>ровер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>biciklo</lemma>
+    <lemma>biciklo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Fahrrad</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fiets</lemma>
+  </synset>
+</multilingual-synset>

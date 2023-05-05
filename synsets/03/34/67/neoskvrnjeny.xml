@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33467"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33467"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      neoskvŕnjeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неапаскуджаны</lemma>
+    <lemma>неспакуджаны</lemma>
+    <lemma>незганьблены</lemma>
+    <lemma>незаплямлены</lemma>
+    <lemma>бездакорны</lemma>
+    <lemma>беззаганны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неосквернен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neposkvrněný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neoskvrnjen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неосквернавен</lemma>
+    <lemma>девствен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niepokalany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>незапятнанный</lemma>
+    <lemma>безупречный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepoškvrnený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>deviško</lemma>
+    <lemma>deviško</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>девичански</lemma>
+    <lemma>чедан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>незганьблений</lemma>
+    <lemma>незаплямований</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senmakula</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unbefleckt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onbevlekt</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2511"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2511"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      dostavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атрымліваць</lemma>
+    <lemma>даставаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>получавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dostávat</lemma>
+    <lemma>získávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primati</lemma>
+    <lemma>dobivati</lemma>
+    <lemma>preuzimati</lemma>
+    <lemma>usvajati</lemma>
+    <lemma>hvatati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прима</lemma>
+    <lemma>добива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostawać</lemma>
+    <lemma>otrzymywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>получать</lemma>
+    <lemma>доставать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dostávať</lemma>
+    <lemma>získavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prejeli</lemma>
+    <lemma>prejeli</lemma>
+    <lemma>prejeli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>добијати</lemma>
+    <lemma>добивати</lemma>
+    <lemma>примати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>отримувати</lemma>
+    <lemma>діставати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atingi</lemma>
+    <lemma>ricevi</lemma>
+    <lemma>akiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bekommen</lemma>
+    <lemma>empfangen</lemma>
+    <lemma>erhalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>krijgen</lemma>
+    <lemma>ontvangen</lemma>
+    <lemma>verkrijgen</lemma>
+  </synset>
+</multilingual-synset>

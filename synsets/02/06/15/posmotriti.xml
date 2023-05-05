@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20615"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20615"
+      steen:pos="v.intr. pf."
+      steen:type="3"
+      steen:same="ru sh"
+    >
+      posmotriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паглядзець</lemma>
+    <lemma>пабачыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гледайте</lemma>
+    <lemma>гледайте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podívat se</lemma>
+    <lemma>pohlédnout</lemma>
+    <lemma>kouknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pogledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>погледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spojrzeć</lemma>
+    <lemma>popatrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посмотреть</lemma>
+    <lemma>поглядеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pozrieť sa</lemma>
+    <lemma>pozrieť</lemma>
+    <lemma>kuknúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>videti</lemma>
+    <lemma>da vidim</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>погледати</lemma>
+    <lemma>посмотрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подивитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Rigardu</lemma>
+    <lemma>horloĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schauen</lemma>
+    <lemma>beobachten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kijken</lemma>
+  </synset>
+</multilingual-synset>

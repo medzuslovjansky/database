@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20656"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20656"
+      steen:addition="(prinaleži)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      prinaležati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыналежаць</lemma>
+    <lemma>належаць</lemma>
+    <lemma>адносіцца</lemma>
+    <lemma>ставіцца</lemma>
+    <lemma>прыдзяляцца</lemma>
+    <lemma>датычыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>принадлежат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náležet</lemma>
+    <lemma>patřit</lemma>
+    <lemma>příslušet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pripadati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>принадлежи</lemma>
+    <lemma>припаѓа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>należeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>принадлежать</lemma>
+    <lemma>относиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>patriť</lemma>
+    <lemma>patriť</lemma>
+    <lemma>prináležať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripadajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>припадати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>належати</lemma>
+    <lemma>відноситися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apartenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gehören</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toebehoren</lemma>
+  </synset>
+</multilingual-synset>

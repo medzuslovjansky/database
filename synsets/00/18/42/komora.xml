@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1842"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1842" steen:pos="f." steen:type="2" steen:same="cs sh bm">
+      komora
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>палата</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>камара</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="instituce">komora</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>komora</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на пр. стопанска">комора</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>izba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="учреждение">палата</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="parlament">komora</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>komora</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="у скупштини">дом</lemma>
+    <lemma annotation="нпр. правде">палата</lemma>
+    <lemma annotation="нпр. привредна">комора</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>палата</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="komerca, parlamenta ktp.">ĉambro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kammer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="parlement, koophandel enz.">kamer</lemma>
+  </synset>
+</multilingual-synset>

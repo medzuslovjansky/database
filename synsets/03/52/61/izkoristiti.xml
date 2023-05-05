@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35261"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35261"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cs yu mk"
+    >
+      izkoristiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скарыстацца</lemma>
+    <lemma>выкарыстоўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>използвам</lemma>
+    <lemma>възползвам се от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vykořistit</lemma>
+    <lemma>využít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iskoristiti</lemma>
+    <lemma>upotrijebiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>искористи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykorzystać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>использовать</lemma>
+    <lemma>применить</lemma>
+    <lemma>воспользоваться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vykořistit</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izkoristijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искористити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>використати</lemma>
+    <lemma>скористатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekspluati</lemma>
+    <lemma>utiligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>in Anspruch nehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>benutten</lemma>
+    <lemma>exploiteren</lemma>
+    <lemma>profiteren van</lemma>
+  </synset>
+</multilingual-synset>

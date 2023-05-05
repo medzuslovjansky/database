@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35300"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35300"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      ilustracija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ілюстрацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>илюстрация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ilustrace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ilustracija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>илустрација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ilustracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иллюстрация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ilustrácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ilustracija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>илустрација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ілюстрація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Ilustraĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Illustration</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>illustratie</lemma>
+  </synset>
+</multilingual-synset>

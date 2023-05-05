@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23009"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      råzorųžiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раззброіць</lemma>
+    <lemma>абяззброіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обезоръжи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odzbrojit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razoružati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разоружи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozbroić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разоружить</lemma>
+    <lemma>обезоружить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odzbrojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razoroži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разоружати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>роззброїти</lemma>
+    <lemma>обеззброїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senarmigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entwaffnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontwapenen</lemma>
+  </synset>
+</multilingual-synset>

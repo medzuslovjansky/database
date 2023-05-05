@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20727"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20727" steen:pos="m." steen:type="1" steen:genesis="I">
+      scenarij
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сцэнар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сценарий</lemma>
+    <lemma annotation="филм">сценарий</lemma>
+    <lemma>по сценарий на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>scénář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>scenarij</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сценарио</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>scenariusz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сценарий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>scenár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>scenarij</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сценарио</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сценарій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>scenaro</lemma>
+    <lemma annotation="filmo">skripto</lemma>
+    <lemma>skripto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Film">Szenario Skript</lemma>
+    <lemma>Drehbuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scenario</lemma>
+    <lemma>script</lemma>
+  </synset>
+</multilingual-synset>

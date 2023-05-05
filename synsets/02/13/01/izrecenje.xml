@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21301"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21301" steen:pos="n." steen:type="2" steen:same="ru sh">
+      izrěčeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выказванне</lemma>
+    <lemma>выраз</lemma>
+    <lemma>выслоўе</lemma>
+    <lemma>максіма</lemma>
+    <lemma>сентэнцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>израз</lemma>
+    <lemma>поговорка</lemma>
+    <lemma>фраза</lemma>
+    <lemma>афоризъм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rčení</lemma>
+    <lemma>přísloví</lemma>
+    <lemma>ponaučení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izreka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изрека</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiedzenie</lemma>
+    <lemma>maksyma</lemma>
+    <lemma>sentencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изречение</lemma>
+    <lemma>высказывание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>príslovie</lemma>
+    <lemma>ponaučenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pregovor maksima</lemma>
+    <lemma>moto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изрека</lemma>
+    <lemma>максима</lemma>
+    <lemma>мото</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>висловлювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dirante: maksimo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sagen</lemma>
+    <lemma>Maxime</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezegde</lemma>
+  </synset>
+</multilingual-synset>

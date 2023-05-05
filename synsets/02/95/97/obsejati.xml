@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29597"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29597"
+      steen:addition="(obsěje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      obsějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>засеяць</lemma>
+    <lemma>усеяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="кутия">породи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zasít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zasijati</lemma>
+    <lemma>posijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>засее</lemma>
+    <lemma>насее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obsiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>засеять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zasiať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svinja</lemma>
+    <lemma>svinja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>засејати</lemma>
+    <lemma>посејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>засіяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kampo">porkino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="ein Feld">sät</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inzaaien</lemma>
+  </synset>
+</multilingual-synset>

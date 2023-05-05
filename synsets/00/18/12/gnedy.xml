@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1812"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1812" steen:pos="adj." steen:type="1">gnědy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гняды</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кестеняв</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kaštanově hnědý</lemma>
+    <lemma annotation="barva">kaštanový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kestenjast</lemma>
+    <lemma>riđ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>костенлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gniady</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гнедой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gaštanovo hnedý</lemma>
+    <lemma annotation="farba">gaštanový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>maroon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кестењаст</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гнідий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>golfeton</lemma>
+    <lemma>brunaj</lemma>
+    <lemma>helbrunaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bucht</lemma>
+    <lemma>Sauerampfer</lemma>
+    <lemma>Kastanie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="paard">bruinrood</lemma>
+    <lemma>voskleurig</lemma>
+  </synset>
+</multilingual-synset>

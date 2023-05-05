@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17445"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17445"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs sh bm"
+    >
+      grųď
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грудзі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hrudník</lemma>
+    <lemma>prsa</lemma>
+    <lemma>hruď</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grudi</lemma>
+    <lemma>prsa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klatka piersiowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грудь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrudník</lemma>
+    <lemma>prsia</lemma>
+    <lemma>hruď</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prsi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>груди</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>груди</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brusto</lemma>
+    <lemma>mamoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brust</lemma>
+    <lemma>Brüste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>borstkas</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36657"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36657"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      zablųditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памыліцца</lemma>
+    <lemma>змыліцца</lemma>
+    <lemma>абмыліцца</lemma>
+    <lemma>дапусціць памылку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заблудя</lemma>
+    <lemma>объркам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zmýlit se</lemma>
+    <lemma>udělat chybu</lemma>
+    <lemma>splést se</lemma>
+    <lemma>stanout v bludech</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pogriješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заблуди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popełnić błędy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ошибиться</lemma>
+    <lemma>допустить ошибку</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pomýliť sa</lemma>
+    <lemma>zablúdiť</lemma>
+    <lemma>spliesť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmotite</lemma>
+    <lemma>se moti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>погрешити</lemma>
+    <lemma>бити у заблуди</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>помилитися</lemma>
+    <lemma>схибити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>err</lemma>
+    <lemma>esti en eraro</lemma>
+    <lemma>eraras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>err</lemma>
+    <lemma>sei im Irrtum</lemma>
+    <lemma>mache Fehler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>het fout hebben</lemma>
+    <lemma>het mis hebben</lemma>
+    <lemma>fouten maken</lemma>
+  </synset>
+</multilingual-synset>

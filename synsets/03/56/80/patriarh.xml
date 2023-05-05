@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35680"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35680"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      patriarh
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патрыярх</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>патриарх</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>patriarcha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>patrijarh</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патријарх</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>patriarcha</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>патриарх</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>patriarcha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>patriarh</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>патријарх</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>патріарх</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>patriarko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Patriarch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>patriarch</lemma>
+  </synset>
+</multilingual-synset>

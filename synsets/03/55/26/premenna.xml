@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35526"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35526"
+      steen:addition="(-oj)"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prěměnna
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зменная</lemma>
+    <lemma>пераменная</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>променлива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proměnná</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>promjenjiva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>варијабила</lemma>
+    <lemma>променлива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmienna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переменная</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>premenná</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spremenljivka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>променљива</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>змінна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝanĝiĝema</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Variable</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>variabele</lemma>
+  </synset>
+</multilingual-synset>

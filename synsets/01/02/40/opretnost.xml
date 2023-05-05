@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10240" steen:pos="f." steen:type="1">oprętnosť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акуратнасць</lemma>
+    <lemma>ахайнасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чистота</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úhlednost</lemma>
+    <lemma>elegance</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>urednost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уредност</lemma>
+    <lemma>точност</lemma>
+    <lemma>прецизност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>schludność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аккуратность</lemma>
+    <lemma>опрятность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úhľadnosť</lemma>
+    <lemma>elegancia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>urejenost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уредност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>акуратність</lemma>
+    <lemma>охайність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pulcritud</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ordentlichkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>netheid</lemma>
+  </synset>
+</multilingual-synset>

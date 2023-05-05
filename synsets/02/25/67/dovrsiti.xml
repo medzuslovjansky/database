@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22567"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22567"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      dovŕšiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завяршыць</lemma>
+    <lemma>скончыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завършвам</lemma>
+    <lemma>довършвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dokončit</lemma>
+    <lemma>dovršit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dovršiti</lemma>
+    <lemma>završiti</lemma>
+    <lemma>svršiti</lemma>
+    <lemma>zgotoviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доврши</lemma>
+    <lemma>заврши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ukończyć</lemma>
+    <lemma>zakończyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завершить</lemma>
+    <lemma>окончить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dokončiť</lemma>
+    <lemma>zavŕšiť</lemma>
+    <lemma>dovŕšiť</lemma>
+    <lemma>ukončiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popolna</lemma>
+    <lemma>popolna</lemma>
+    <lemma>popolna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>довршити</lemma>
+    <lemma>завршити</lemma>
+    <lemma>комплетирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>завершити</lemma>
+    <lemma>закінчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompletaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Komplett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voltooien</lemma>
+    <lemma>afmaken</lemma>
+    <lemma>klaarmaken</lemma>
+    <lemma>afronden</lemma>
+  </synset>
+</multilingual-synset>

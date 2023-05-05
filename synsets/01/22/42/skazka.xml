@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12242"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12242" steen:pos="f." steen:type="1">skazka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казка</lemma>
+    <lemma>байка</lemma>
+    <lemma>сказка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>детска история</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příběh pro děti</lemma>
+    <lemma>pohádka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bajka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сказна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>historyjka</lemma>
+    <lemma>opowiastka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сказка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príbeh pre deti</lemma>
+    <lemma>rozprávka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgodbe</lemma>
+    <lemma>zgodbe za otroke</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прича</lemma>
+    <lemma>прича за децу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>казка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infanaj rakonto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kindergeschichte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhaaltje</lemma>
+  </synset>
+</multilingual-synset>

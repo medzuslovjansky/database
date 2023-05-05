@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21351"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21351"
+      steen:addition="(narěčenoj)"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      narěčena
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нявеста</lemma>
+    <lemma>нарачоная</lemma>
+    <lemma>выданніца</lemma>
+    <lemma>дзяўчына на выданні</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>невеста</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>snoubenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaručnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вереница</lemma>
+    <lemma>свршеница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narzeczona</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>невеста</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>snúbenica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaročenec</lemma>
+    <lemma>zaročenka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вереница</lemma>
+    <lemma>заручница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наречена</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fianĉino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Verlobte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verloofde</lemma>
+    <lemma>fiancee</lemma>
+  </synset>
+</multilingual-synset>

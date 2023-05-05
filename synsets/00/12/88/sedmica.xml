@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1288" steen:pos="f." steen:type="3" steen:same="sr bm">
+      sedmica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тыдзень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>седмица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>týden</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tjedan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>седмица</lemma>
+    <lemma>недела</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tydzień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неделя</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>týždeň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>teden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>седмица</lemma>
+    <lemma>недеља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тиждень</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>semajno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Woche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>week</lemma>
+  </synset>
+</multilingual-synset>

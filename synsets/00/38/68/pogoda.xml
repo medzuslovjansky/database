@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3868"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3868" steen:pos="f." steen:type="2" steen:same="v pl">
+      pogoda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надвор&apos;е</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="meteo.">време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počasí</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="meteo.">vrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="метео.">време</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pogoda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>погода</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>počasie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Čas (Vreme).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="метео.">време</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>погода</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vetero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wetter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weer</lemma>
+  </synset>
+</multilingual-synset>

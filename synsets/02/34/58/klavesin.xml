@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23458"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23458"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl bg"
+      steen:genesis="I"
+    >
+      klavesin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клавесін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клавесин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>clavesin</lemma>
+    <lemma>cembalo</lemma>
+    <lemma>spinet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čembalo</lemma>
+    <lemma>klavičembalo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клавичембало</lemma>
+    <lemma>чембало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klawesyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клавесин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čembalo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čembalo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клавикорд</lemma>
+    <lemma>чембало</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клавесин</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klaviceno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Cembalo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klavecimbel</lemma>
+  </synset>
+</multilingual-synset>

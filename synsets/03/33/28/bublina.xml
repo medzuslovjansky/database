@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33328"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33328" steen:pos="f." steen:type="2" steen:same="be~ z">
+      bųblina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бурбалка</lemma>
+    <lemma>пузыр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мехур</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bublina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>balon</lemma>
+    <lemma>mjehur</lemma>
+    <lemma annotation="arh.">bubla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меур</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bąbel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пузырь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bublina</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>mehurček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мехур</lemma>
+    <lemma annotation="арх.">бубла</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бульбашка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bobelo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Blase</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bubbel</lemma>
+    <lemma>bel</lemma>
+  </synset>
+</multilingual-synset>

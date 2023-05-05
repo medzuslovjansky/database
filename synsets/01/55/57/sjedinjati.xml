@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15557"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v"
+    >
+      sjedinjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злучаць</lemma>
+    <lemma>лучыць</lemma>
+    <lemma>далучаць</lemma>
+    <lemma>падлучаць</lemma>
+    <lemma>падключаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>връзка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připojovat</lemma>
+    <lemma>spojovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sjedinjavati</lemma>
+    <lemma annotation="u jednu cjelinu">povezivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соединува</lemma>
+    <lemma>обединува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>łączyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>соединять</lemma>
+    <lemma>присоединять</lemma>
+    <lemma>подключать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pripájať</lemma>
+    <lemma>spájať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Konjugat</lemma>
+    <lemma annotation="v eni enoti">povezava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сједињавати</lemma>
+    <lemma annotation="у једну целину">повезивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сполучати</lemma>
+    <lemma>приєднувати</lemma>
+    <lemma>підключати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>connect</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbinden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbinden</lemma>
+  </synset>
+</multilingual-synset>

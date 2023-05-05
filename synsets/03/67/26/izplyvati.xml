@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36726"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36726" steen:pos="v.intr. ipf." steen:type="1">
+      izplyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выплываць</lemma>
+    <lemma annotation="на караблі">адплываць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отплавам</lemma>
+    <lemma annotation="кораб">изплувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplouvat</lemma>
+    <lemma>opouštět přístav</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isplovljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испливува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="statkiem">wypływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выплывать</lemma>
+    <lemma annotation="на корабле">отплывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplávať</lemma>
+    <lemma>opúšťať prístav</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kopnem</lemma>
+    <lemma>zapusti pristanišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испловљавати</lemma>
+    <lemma>напуштати луку</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випливати</lemma>
+    <lemma annotation="кораблем">відпливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>veli</lemma>
+    <lemma>foriri de haveno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>segeln</lemma>
+    <lemma>Hafen verlassen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvaren</lemma>
+  </synset>
+</multilingual-synset>

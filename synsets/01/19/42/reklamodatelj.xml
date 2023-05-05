@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11942"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11942"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      reklamodatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэкламадавец</lemma>
+    <lemma>рэкламадаўца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>на рекламодателя</lemma>
+    <lemma>рекламодателят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>inzerent</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>oglašivač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>огласувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reklamodawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рекламодатель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>inzerent</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oglaševalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оглашивач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рекламодавець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reklamanto</lemma>
+    <lemma>advertizer</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Inserenten</lemma>
+    <lemma>advertizer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>adverteerder</lemma>
+  </synset>
+</multilingual-synset>

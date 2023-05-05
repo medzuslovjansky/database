@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11569"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      proizvoditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вырабляць</lemma>
+    <lemma annotation="дыял.">прадуктаваць</lemma>
+    <lemma>чыніць</lemma>
+    <lemma>рабіць</lemma>
+    <lemma>генераваць</lemma>
+    <lemma>генерыць</lemma>
+    <lemma annotation="саст.">генерыраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>генериране</lemma>
+    <lemma>производство</lemma>
+    <lemma>производство на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyrábět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proizvoditi</lemma>
+    <lemma>stvarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>произведува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>generować</lemma>
+    <lemma>wytwarzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>производить</lemma>
+    <lemma>изготавливать</lemma>
+    <lemma>генерировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyrábať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizvodnjo</lemma>
+    <lemma>ustvarjanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>производити</lemma>
+    <lemma>стварати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>робити</lemma>
+    <lemma>виготовляти</lemma>
+    <lemma>генерувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>generi</lemma>
+    <lemma>produktajxojn</lemma>
+    <lemma>fabrikado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erzeugen</lemma>
+    <lemma>produzieren</lemma>
+    <lemma>produzieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genereren</lemma>
+    <lemma>vervaardigen</lemma>
+  </synset>
+</multilingual-synset>

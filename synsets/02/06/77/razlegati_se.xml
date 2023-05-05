@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20677"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20677"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      råzlegati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раздавацца</lemma>
+    <lemma>гучаць</lemma>
+    <lemma>таўсцець</lemma>
+    <lemma>расшырацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отговори</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozléhat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razlegati se</lemma>
+    <lemma>oriti se</lemma>
+    <lemma annotation="pjesma">raznositi se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се разнесува</lemma>
+    <lemma>одекнува</lemma>
+    <lemma>ечи</lemma>
+    <lemma>одѕвонува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozbrzmiewać</lemma>
+    <lemma>rozlegać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раздаваться</lemma>
+    <lemma>звучать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozlieha sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Legat je</lemma>
+    <lemma>Zorita</lemma>
+    <lemma annotation="pesem">nositi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разлегати се</lemma>
+    <lemma>орити се</lemma>
+    <lemma annotation="песма">разносити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>роздаватися</lemma>
+    <lemma>лунати</lemma>
+    <lemma>звучати</lemma>
+    <lemma>чутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>resonas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erklingen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerklinken</lemma>
+  </synset>
+</multilingual-synset>

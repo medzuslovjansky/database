@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13955"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13955" steen:pos="n." steen:type="2" steen:same="ru sl bg">
+      udarjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="фанет.">націск</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>акцент</lemma>
+    <lemma annotation="произношение">стрес</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přízvuk</lemma>
+    <lemma>důraz</lemma>
+    <lemma>akacent</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>udaranje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="граматика">акцент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akcent</lemma>
+    <lemma>nacisk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="фонет.">ударение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prízvuk</lemma>
+    <lemma>dôraz</lemma>
+    <lemma>akacent</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prebijanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ударање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="фонет.">наголос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>emfazo</lemma>
+    <lemma annotation="prononco">streso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Betonung</lemma>
+    <lemma annotation="Aussprache">Stress</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nadruk</lemma>
+    <lemma>klemtoon</lemma>
+  </synset>
+</multilingual-synset>

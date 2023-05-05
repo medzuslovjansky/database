@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30251"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      råzkrojiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раскроіць</lemma>
+    <lemma>раскавяліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нарязани</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozkrojit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odsjeći</lemma>
+    <lemma>odrezati</lemma>
+    <lemma>izrezati</lemma>
+    <lemma>isjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раскрои</lemma>
+    <lemma>скрои</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkroić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раскроить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozkrojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raskrojiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>раскројити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розкроїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>distranĉis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerschneiden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in stukken snijden</lemma>
+  </synset>
+</multilingual-synset>

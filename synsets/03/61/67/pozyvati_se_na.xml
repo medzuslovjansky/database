@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36167"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36167"
+      steen:addition="(+4)"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="sh bg"
+    >
+      pozyvati sę na
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спасылацца на</lemma>
+    <lemma>ссылацца на</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="някой л. орган">причини</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvolávat se k</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="na nekog">pozivati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се повикува на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powoływać się na</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ссылаться на</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odvolávať sa k</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="z">se sklicuje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на неког">позивати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посилатися на</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="smb. aŭtoritato">alpreĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="SMB-. Behörde">Invoke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich beroepen op</lemma>
+  </synset>
+</multilingual-synset>

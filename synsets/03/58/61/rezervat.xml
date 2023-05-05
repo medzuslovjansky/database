@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35861"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35861"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      rezervat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэзервацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="земя">резервация</lemma>
+    <lemma>да се запази</lemma>
+    <lemma>резерват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rezervace</lemma>
+    <lemma>chráněné území</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rezervat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резерват</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rezerwat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>резервация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rezervácie</lemma>
+    <lemma>chránené územia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rezervacije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>резерват</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>резервація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="etendo de tereno">rezervadon</lemma>
+    <lemma>konservi</lemma>
+    <lemma>sanktejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fläche des Landes">Reservierung</lemma>
+    <lemma>bewahren</lemma>
+    <lemma>Heiligtum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reservaat</lemma>
+  </synset>
+</multilingual-synset>

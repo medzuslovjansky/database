@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26615"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26615"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      kȯlzati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слізгаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хлъзвам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klouzat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klizati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се лизга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ślizgać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скользить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kĺzať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>drsanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клизати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ковзати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>glita</lemma>
+    <lemma>diapozitivoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>glide</lemma>
+    <lemma>dia</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>glijden</lemma>
+  </synset>
+</multilingual-synset>

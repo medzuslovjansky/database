@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20424"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20424"
+      steen:addition="(lije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      liti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліць</lemma>
+    <lemma annotation="метал">адліваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="метал">лея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lít</lemma>
+    <lemma annotation="kov">odlévat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lijevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лее</lemma>
+    <lemma>лие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="metal">odlewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лить</lemma>
+    <lemma annotation="металл">отливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>liať</lemma>
+    <lemma annotation="kov">odlievať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cast</lemma>
+    <lemma>sramotijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лити</lemma>
+    <lemma>одливати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лити</lemma>
+    <lemma annotation="метал">відливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="metalo">rolantaro</lemma>
+    <lemma annotation="metalo">trovitaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Metall">Guss</lemma>
+    <lemma annotation="Metall">gefunden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="metaal">gieten</lemma>
+  </synset>
+</multilingual-synset>

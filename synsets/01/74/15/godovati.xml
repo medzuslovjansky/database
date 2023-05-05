@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17415"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17415"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      godovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баляваць</lemma>
+    <lemma>святкаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пирувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hodovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gostiti se</lemma>
+    <lemma>pirovati</lemma>
+    <lemma>slaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>празнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ucztować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пировать</lemma>
+    <lemma>праздновать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hodovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gostitelj</lemma>
+    <lemma>praznik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гостити се</lemma>
+    <lemma>пировати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>святкувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>festo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fest</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>feesten</lemma>
+  </synset>
+</multilingual-synset>

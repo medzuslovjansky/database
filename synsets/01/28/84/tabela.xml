@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12884"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12884" steen:pos="f." steen:type="1" steen:genesis="I">
+      tabela
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>табліца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>таблица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="data">tabulka</lemma>
+    <lemma>tabulkový procesor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tablica</lemma>
+    <lemma>tabela</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>табела</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tabela</lemma>
+    <lemma>arkusz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>таблица</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="dáta">tabuľka</lemma>
+    <lemma>tabuľkový procesor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>miza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>табела</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>таблиця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="datumoj">tablo</lemma>
+    <lemma>kalkultabelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Daten">Tabelle</lemma>
+    <lemma>Tabellenkalkulations-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tabel</lemma>
+  </synset>
+</multilingual-synset>

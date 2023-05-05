@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36918"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36918"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      izrězyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выразаць</lemma>
+    <lemma>высякаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изрязвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyřezávat</lemma>
+    <lemma>vytesávat</lemma>
+    <lemma>vyrývat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izrezivati</lemma>
+    <lemma>razrezivati</lemma>
+    <lemma>isjecati</lemma>
+    <lemma>urezivati</lemma>
+    <lemma>usjecati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изрежува</lemma>
+    <lemma>исечува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rzeźbić</lemma>
+    <lemma>wyrzeźbiać</lemma>
+    <lemma>wycinać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выреза́ть</lemma>
+    <lemma>высекать</lemma>
+    <lemma annotation="из дерева, камня">ваять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyrezávať</lemma>
+    <lemma>vytesávať</lemma>
+    <lemma>vyrývať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rezljati</lemma>
+    <lemma>klesati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изрезивати</lemma>
+    <lemma>клесати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вирізувати</lemma>
+    <lemma>різьбити</lemma>
+    <lemma>вирізьблювати</lemma>
+    <lemma>висікати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eltranĉi</lemma>
+    <lemma>skulpti</lemma>
+    <lemma annotation="el ŝtono, ligno, ktp.">tranĉi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausschneiden</lemma>
+    <lemma>formen</lemma>
+    <lemma annotation="aus Stein, Holz usw.">schnitzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitsnijden</lemma>
+  </synset>
+</multilingual-synset>

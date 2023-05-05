@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25497"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25497"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sl"
+      steen:genesis="I"
+    >
+      figa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фіга</lemma>
+    <lemma>інжыр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>смокиня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smokva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смоква</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>figa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фига</lemma>
+    <lemma>инжир</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>figa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fig</lemma>
+    <lemma>fig</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смоква</lemma>
+    <lemma>фига</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інжир</lemma>
+    <lemma>фіга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>figarbo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Feige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vijg</lemma>
+  </synset>
+</multilingual-synset>

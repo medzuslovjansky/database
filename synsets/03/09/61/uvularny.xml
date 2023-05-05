@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30961"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30961" steen:pos="adj." steen:type="1" steen:genesis="I">
+      uvularny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>увулярны</lemma>
+    <lemma annotation="гук">язычковы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>увулярный</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvulární</lemma>
+    <lemma>čípkový</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uvularan</lemma>
+    <lemma>resični</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увуларен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uwularny</lemma>
+    <lemma>języczkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>увулярный</lemma>
+    <lemma annotation="звук">язычковый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uvulární</lemma>
+    <lemma>čapíkový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uvular</lemma>
+    <lemma>uvular</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увуларан</lemma>
+    <lemma>ресични</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>увулярный</lemma>
+    <lemma annotation="звук">язичковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uvulara</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>uvular</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huig-</lemma>
+    <lemma>uvulair</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32816"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32816"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      hmuriti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хмурыцца</lemma>
+    <lemma>пахмурнець</lemma>
+    <lemma>пакрывацца хмарамі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мръщя се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mračit se</lemma>
+    <lemma annotation="počasí">zatáhovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblačiti se</lemma>
+    <lemma>tmuriti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се наоблачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chmurzyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хмуриться</lemma>
+    <lemma>пасмурнеть</lemma>
+    <lemma>покрываться тучами</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mračiť sa</lemma>
+    <lemma annotation="počasie">zaťahovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="meteorol.">obleka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="метеорол.">облачити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хмуритися</lemma>
+    <lemma>тьмяніти</lemma>
+    <lemma>ставати похмурим</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>turni malgaja</lemma>
+    <lemma>fariĝis nuba</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>drehen düster</lemma>
+    <lemma>sich umziehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="weer">dichttrekken</lemma>
+    <lemma>bewolkt raken</lemma>
+  </synset>
+</multilingual-synset>

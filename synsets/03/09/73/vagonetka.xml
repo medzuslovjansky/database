@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30973"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30973"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v bm"
+      steen:genesis="I"
+    >
+      vagonetka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ваганетка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>количка</lemma>
+    <lemma>количката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vozík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kola</lemma>
+    <lemma>kolica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вагонетка</lemma>
+    <lemma>количка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wózek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вагонетка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vozík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>voziček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>колица</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вагонетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trolley</lemma>
+    <lemma>ĉaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trolley</lemma>
+    <lemma>Warenkorb</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kar</lemma>
+    <lemma>wagen</lemma>
+  </synset>
+</multilingual-synset>

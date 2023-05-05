@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18623"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18623"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      råzrųbati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рассекчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>котлет</lemma>
+    <lemma>кайма</lemma>
+    <lemma>Cleve</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozsekat</lemma>
+    <lemma>rozrubat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sasjeći</lemma>
+    <lemma>isjeći</lemma>
+    <lemma annotation="sjekirom">posjeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исече</lemma>
+    <lemma>исечка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozrąbać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разрубить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozsekať</lemma>
+    <lemma>rozrubat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>NIP</lemma>
+    <lemma>Ponastavi</lemma>
+    <lemma annotation="ax">rezane</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сасећи</lemma>
+    <lemma>исећи</lemma>
+    <lemma annotation="секиром">посећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розрубати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>haku supren</lemma>
+    <lemma>picadillo</lemma>
+    <lemma>aligxintaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerhacken</lemma>
+    <lemma>zerkleinern</lemma>
+    <lemma>spalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in stukken hakken</lemma>
+  </synset>
+</multilingual-synset>

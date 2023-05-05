@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21538"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21538"
+      steen:addition="(rve)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      rvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ірваць</lemma>
+    <lemma>рваць</lemma>
+    <lemma>шматаваць</lemma>
+    <lemma>драць</lemma>
+    <lemma>раздзіраць</lemma>
+    <lemma>разлупліваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сълза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rvát</lemma>
+    <lemma annotation="na kusy">trhat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kidati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кине</lemma>
+    <lemma>раскинува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рвать</lemma>
+    <lemma>разрывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trhať</lemma>
+    <lemma>šklbať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trgati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кидати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рвати</lemma>
+    <lemma>розривати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>larmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerreißen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rukken</lemma>
+    <lemma>trekken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32705"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32705" steen:pos="v.tr. ipf." steen:type="1">
+      napajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вадой">напітваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>напоявам</lemma>
+    <lemma>измокрям</lemma>
+    <lemma>наводнявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zalévat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napajati</lemma>
+    <lemma>natapati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напојува</lemma>
+    <lemma>залива</lemma>
+    <lemma>наводенува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podlewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="водой">напитывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zalievať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podlivati</lemma>
+    <lemma>podlevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подливати</lemma>
+    <lemma>подлевати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поливати</lemma>
+    <lemma>зрошувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akvo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wasser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begieten</lemma>
+    <lemma>water geven</lemma>
+  </synset>
+</multilingual-synset>

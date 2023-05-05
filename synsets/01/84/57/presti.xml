@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18457"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18457"
+      steen:addition="(pręde)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      pręsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прасці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="прежда">въртене</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="příze">příst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>presti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="предиво">преде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prząść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прясть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="priadza">príst</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr volna">prešteti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. вуну">прести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прясти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="teksaĵo">spino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Garn">Spin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="draad">spinnen</lemma>
+  </synset>
+</multilingual-synset>

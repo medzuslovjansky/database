@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29775"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29775"
+      steen:addition="(ovna)"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v j"
+    >
+      Oven
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="задыяк">Авен</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Овен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="astrol">Beran</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Ovan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="хороскоп">Овен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zodiak">Baran</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="зодиак">Овен</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="astrol">Baran</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="astrologijo">Oven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="хороскоп">Ован</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="зодіак">Овен</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Aries</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Widder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Ram</lemma>
+  </synset>
+</multilingual-synset>

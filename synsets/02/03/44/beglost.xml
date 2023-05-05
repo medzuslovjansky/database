@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20344"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20344" steen:pos="f.sg." steen:type="2" steen:same="ru pl">
+      běglosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="гаворкі">бегласць</lemma>
+    <lemma>свабоднае валоданне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пълно владеене</lemma>
+    <lemma annotation="на език или друго">пълна грамотност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plynulost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tečnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>течност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biegłość</lemma>
+    <lemma>płynność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="речи">беглость</lemma>
+    <lemma>свободное владение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plynulosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="snovi = viskoznost">tekočnost</lemma>
+    <lemma annotation="npr. jezika">obvladovanje</lemma>
+    <lemma>mojstrstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>течност</lemma>
+    <lemma>течност говора</lemma>
+    <lemma annotation="нпр. језиком">течно владање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>побіжність</lemma>
+    <lemma>швідкість</lemma>
+    <lemma>вільне володіння</lemma>
+    <lemma>плавність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flueco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Redefluss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlotheid</lemma>
+  </synset>
+</multilingual-synset>

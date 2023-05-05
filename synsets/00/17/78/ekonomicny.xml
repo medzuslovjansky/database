@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1778"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1778" steen:pos="adj." steen:type="1" steen:genesis="I">
+      ekonomičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эканамічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>икономически</lemma>
+    <lemma>стопански</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ekonomický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ekonomski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>економски</lemma>
+    <lemma>стопански</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gospodarczy</lemma>
+    <lemma>ekonomiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экономический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ekonomický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>gospodarski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>привредни</lemma>
+    <lemma>економски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>економічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekonomia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wirtschaftlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>economisch</lemma>
+  </synset>
+</multilingual-synset>

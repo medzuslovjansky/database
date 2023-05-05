@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20387"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20387"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      izključajųći
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выключаючы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>с изключение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kromě</lemma>
+    <lemma>vyjma</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isključujući</lemma>
+    <lemma>osim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>со исклучок на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za wyjątkiem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исключая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>okrem</lemma>
+    <lemma>okrem</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razen razen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>искључујући</lemma>
+    <lemma>осим</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виключаючи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekskludante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ohne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitgezonderd</lemma>
+    <lemma>met uitzondering van</lemma>
+  </synset>
+</multilingual-synset>

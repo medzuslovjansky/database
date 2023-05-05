@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1626"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      podčas
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падчас</lemma>
+    <lemma>у час</lemma>
+    <lemma>цягам</lemma>
+    <lemma>на працягу</lemma>
+    <lemma>пакуль</lemma>
+    <lemma>покуль</lemma>
+    <lemma>покі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>във време</lemma>
+    <lemma>докато на фона на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>v průběhu</lemma>
+    <lemma>během</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tijekom</lemma>
+    <lemma>tokom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>додека</lemma>
+    <lemma>за време на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podczas</lemma>
+    <lemma>w czasie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>во время</lemma>
+    <lemma>в течение</lemma>
+    <lemma>пока</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>v priebehu</lemma>
+    <lemma>počas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>med</lemma>
+    <lemma>medtem ko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>током</lemma>
+    <lemma>за време</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>під час</lemma>
+    <lemma>протягом</lemma>
+    <lemma>поки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dum</lemma>
+    <lemma>dum</lemma>
+    <lemma>meze</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>während</lemma>
+    <lemma>so lange</lemma>
+    <lemma>unter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdens</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="202" steen:pos="adj." steen:type="2" steen:same="ru j">
+      boljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хворы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>болен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nemocný</lemma>
+    <lemma>chorý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bolestan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>болен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chory</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>больной</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chorý</lemma>
+    <lemma>nezdravý</lemma>
+    <lemma>nemocný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bolan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>болестан</lemma>
+    <lemma>нездрав</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хворий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malsana</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>krank</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziek</lemma>
+  </synset>
+</multilingual-synset>

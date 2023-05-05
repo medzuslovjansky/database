@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30187"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30187"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      råzgrabiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="граблямі">разгрэбці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наклона в посока</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozhrabat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>opljačkati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="со гребење">разгребе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="grabiami">rozgrabić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="граблями">разгрести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozhrabat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oropati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опљачкати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="граблями">розгребти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spuri flanken</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rechen beiseite</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terzijde harken</lemma>
+    <lemma>opzijharken</lemma>
+  </synset>
+</multilingual-synset>

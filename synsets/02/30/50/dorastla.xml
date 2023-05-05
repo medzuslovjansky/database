@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23050"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23050"
+      steen:addition="(doråstloj)"
+      steen:pos="f."
+      steen:type="1"
+    >
+      doråstla
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дарослая</lemma>
+    <lemma>сталая</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възрастен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="žena">dospělá</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odrasla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>порасната</lemma>
+    <lemma>возрасна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dorosła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взрослая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="žena">dospelá</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odrasli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрасла</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доросла</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plenkreskulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufgewachsen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volwassene</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32309"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32309"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="ru be pl cs bg"
+    >
+      mučańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мыканне</lemma>
+    <lemma>рыканне</lemma>
+    <lemma>рык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мучане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bučení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mukanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мукање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>muczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мычание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bučanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mooing</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мукање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мукання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muĝado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Muhen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geloei</lemma>
+  </synset>
+</multilingual-synset>

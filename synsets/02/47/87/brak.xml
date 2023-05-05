@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24787"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24787" steen:pos="m." steen:type="2" steen:same="v pl">
+      brak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>брак</lemma>
+    <lemma>недахоп</lemma>
+    <lemma>дэфект</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>брак</lemma>
+    <lemma>дефект</lemma>
+    <lemma>недостатък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vada</lemma>
+    <lemma>defekt</lemma>
+    <lemma>chyba</lemma>
+    <lemma>brak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvar</lemma>
+    <lemma>greška</lemma>
+    <lemma>efekat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пропуст</lemma>
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wada</lemma>
+    <lemma>skaza</lemma>
+    <lemma>usterka</lemma>
+    <lemma>defekt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>брак</lemma>
+    <lemma>дефект</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vada</lemma>
+    <lemma>defekt</lemma>
+    <lemma>chyba</lemma>
+    <lemma>brak</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>napaka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квар</lemma>
+    <lemma>грешка</lemma>
+    <lemma>дефекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дефект</lemma>
+    <lemma>вада</lemma>
+    <lemma>брак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>difekto</lemma>
+    <lemma>difekto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Fehler</lemma>
+    <lemma>Mangel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebrek</lemma>
+    <lemma>defect</lemma>
+  </synset>
+</multilingual-synset>

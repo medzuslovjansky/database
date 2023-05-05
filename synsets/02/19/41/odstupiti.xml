@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21941"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21941"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="v z j"
+    >
+      odstųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адступіць</lemma>
+    <lemma>вярнуцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отстъпи</lemma>
+    <lemma>да се оттегли</lemma>
+    <lemma annotation="интр.">за да отстъпи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustoupit</lemma>
+    <lemma annotation="dozadu">odstoupit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>povući se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапи</lemma>
+    <lemma>повлече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wycofać się</lemma>
+    <lemma>cofnąć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отступить</lemma>
+    <lemma>вернуться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustúpiť</lemma>
+    <lemma annotation="dozadu">odstúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повући се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відступити</lemma>
+    <lemma>повернутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Backtrack</lemma>
+    <lemma>retiriĝo</lemma>
+    <lemma annotation="intr.">retiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zurückverfolgungs</lemma>
+    <lemma>Rückzug</lemma>
+    <lemma annotation="intr.">zurückziehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugtreden</lemma>
+    <lemma>zich terugtrekken</lemma>
+  </synset>
+</multilingual-synset>

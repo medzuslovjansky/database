@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2777"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2777" steen:pos="n." steen:type="1" steen:same="v j">
+      nastrojeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>настрой</lemma>
+    <lemma>гумар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настроение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nálada</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>raspoloženje</lemma>
+    <lemma>ugođaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расположение</lemma>
+    <lemma>нарав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nastrój</lemma>
+    <lemma>humor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>настроение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nálada</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razpoloženje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расположење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>настрій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>humoro</lemma>
+    <lemma>humuro</lemma>
+    <lemma>humuro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stimmung</lemma>
+    <lemma>Humor</lemma>
+    <lemma>Humor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stemming</lemma>
+    <lemma>humeur</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35611"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35611"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      prědavničsky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здрадніцкі</lemma>
+    <lemma>здрадны</lemma>
+    <lemma>прадажніцкі</lemma>
+    <lemma>здрадлівы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>коварно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrádný</lemma>
+    <lemma>úkladný</lemma>
+    <lemma>proradný</lemma>
+    <lemma>zaprodaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izdajnički</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предавнички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdradziecki</lemma>
+    <lemma>zdradliwy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предательский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zradný</lemma>
+    <lemma>úkladný</lemma>
+    <lemma>klamavý</lemma>
+    <lemma>zapredaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>treasonable</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>издајнички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зрадницький</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perfida</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>heimtückisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verraderlijk</lemma>
+  </synset>
+</multilingual-synset>

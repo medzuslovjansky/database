@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20645"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20645" steen:pos="f." steen:type="2" steen:same="cz j">
+      priloga
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дадатак</lemma>
+    <lemma>прыдатак</lemma>
+    <lemma>прыкладанне</lemma>
+    <lemma>дастасаванне</lemma>
+    <lemma>дастасоўванне</lemma>
+    <lemma>дапасоўванне</lemma>
+    <lemma>праграма</lemma>
+    <lemma>укладанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>приложение</lemma>
+    <lemma annotation="електронна поща">допълнение</lemma>
+    <lemma annotation="буква">тяло</lemma>
+    <lemma annotation="вестник">добавка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příloha</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prilog</lemma>
+    <lemma>aneks</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aneks</lemma>
+    <lemma>załącznik</lemma>
+    <lemma>suplement</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приложение</lemma>
+    <lemma>вложение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príloha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prilogo</lemma>
+    <lemma>priloga</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прилог</lemma>
+    <lemma>анекс</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>додаток</lemma>
+    <lemma>вкладення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aneksaĵo</lemma>
+    <lemma annotation="retpoŝto">alligiteco</lemma>
+    <lemma annotation="letero">areo</lemma>
+    <lemma annotation="ĵurnalo">suplemento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anhang</lemma>
+    <lemma annotation="E-Mail">Befestigung</lemma>
+    <lemma annotation="Brief">Gehäuse</lemma>
+    <lemma annotation="Zeitung">zu ergänzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijlage</lemma>
+    <lemma>supplement</lemma>
+  </synset>
+</multilingual-synset>

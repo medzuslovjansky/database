@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22314"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22314"
+      steen:pos="v.ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      privoljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пагаджацца</lemma>
+    <lemma>згаджацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съгласна съгласие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svolovat</lemma>
+    <lemma>souhlasit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>saglasavati se</lemma>
+    <lemma annotation="s nečim">slagati se</lemma>
+    <lemma>dozvoljavati</lemma>
+    <lemma annotation="nešto">prihvaćati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>согласува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aprobować</lemma>
+    <lemma>zgadzać się</lemma>
+    <lemma>przyzwalać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>соглашаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>svolovat</lemma>
+    <lemma>súhlasiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>saglašavati je</lemma>
+    <lemma annotation="z nečim">da se strinjam</lemma>
+    <lemma>dovoli</lemma>
+    <lemma annotation="nekaj">sprejeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саглашавати се</lemma>
+    <lemma annotation="са нечим">слагати се</lemma>
+    <lemma>дозвољавати</lemma>
+    <lemma annotation="нешто">прихватати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>погоджуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsentas</lemma>
+    <lemma>konsento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zustimmen</lemma>
+    <lemma>Zustimmung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instemmen</lemma>
+    <lemma>akkoord gaan</lemma>
+  </synset>
+</multilingual-synset>

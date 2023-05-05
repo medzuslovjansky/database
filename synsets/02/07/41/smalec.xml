@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20741"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20741" steen:pos="m." steen:type="2" steen:same="v pl sb">
+      smalec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шмалец</lemma>
+    <lemma>лярд</lemma>
+    <lemma>тук</lemma>
+    <lemma annotation="вытапленае">сала</lemma>
+    <lemma>тлушч</lemma>
+    <lemma>здор</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>лярд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="škvařené">sádlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>salo</lemma>
+    <lemma>mast</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smalec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смалец</lemma>
+    <lemma>лярд</lemma>
+    <lemma annotation="вытопленное">сало</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="prečistený">masť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="hrana">vosek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="намирница">маст</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>смалець</lemma>
+    <lemma>лярд</lemma>
+    <lemma annotation="витоплене">сало</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lardo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schmalz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reuzel</lemma>
+  </synset>
+</multilingual-synset>

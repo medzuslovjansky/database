@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22743"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22743"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      sȯzdavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ствараць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>създаване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vytvářet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stvarati</lemma>
+    <lemma>tvoriti</lemma>
+    <lemma>činiti</lemma>
+    <lemma>graditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>да се создава</lemma>
+    <lemma>создавање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tworzyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>создавать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vytvárať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustvarjanje</lemma>
+    <lemma>ustvarjanje</lemma>
+    <lemma>make</lemma>
+    <lemma>graditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стварати</lemma>
+    <lemma>творити</lemma>
+    <lemma>чинити</lemma>
+    <lemma>градити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>створювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krei</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erstellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>creëren</lemma>
+  </synset>
+</multilingual-synset>

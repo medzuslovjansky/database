@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6988"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6988" steen:pos="n." steen:type="1">dějańje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падзея</lemma>
+    <lemma>дзеянне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>деяние</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dění</lemma>
+    <lemma>akce</lemma>
+    <lemma>skutek</lemma>
+    <lemma>čin</lemma>
+    <lemma>událost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>radnja</lemma>
+    <lemma>akcija</lemma>
+    <lemma>djelo</lemma>
+    <lemma>djelovanje</lemma>
+    <lemma>djelatnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дејство</lemma>
+    <lemma>акт</lemma>
+    <lemma>дејание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>akcja</lemma>
+    <lemma>działanie</lemma>
+    <lemma>czynność</lemma>
+    <lemma>wydarzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>событие</lemma>
+    <lemma>действие</lemma>
+    <lemma>деяние</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dianie</lemma>
+    <lemma>akcia</lemma>
+    <lemma>skutok</lemma>
+    <lemma>čin</lemma>
+    <lemma>udalosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dogodek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радња</lemma>
+    <lemma>дешавање</lemma>
+    <lemma>дејствовање</lemma>
+    <lemma>деловање</lemma>
+    <lemma>дељање</lemma>
+    <lemma>дело</lemma>
+    <lemma annotation="арх.">делатност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подія</lemma>
+    <lemma>дія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ago</lemma>
+    <lemma>okazante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Aktion</lemma>
+    <lemma>Happening</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handeling</lemma>
+    <lemma>gebeurtenis</lemma>
+  </synset>
+</multilingual-synset>

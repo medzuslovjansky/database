@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3923"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3923" steen:pos="v.tr. ipf." steen:type="1">
+      vključati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="прыбор">уключаць</lemma>
+    <lemma annotation="прыбор">умыкаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>включвам</lemma>
+    <lemma>пускам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uključivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вклучува</lemma>
+    <lemma annotation="тв на пример">пушта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="urządzenie">włączać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="прибор">включать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vključujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>укључивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="прилад">включати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝalti</lemma>
+    <lemma>ŝalti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einschalten</lemma>
+    <lemma>einschalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inschakelen</lemma>
+    <lemma annotation="apparaat">aanzetten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="401"
+      steen:addition="(gori)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      gorěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гарэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>горя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hořet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gorjeti</lemma>
+    <lemma>sagorijevati</lemma>
+    <lemma>izgarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>palić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гореть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>horieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gorijo</lemma>
+    <lemma>požarne zahvaćn</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>горети</lemma>
+    <lemma>пламтети</lemma>
+    <lemma>сагоревати</lemma>
+    <lemma>захватати пожаром</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>горіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bruligi</lemma>
+    <lemma>esti sur la fajro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>brennen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>branden</lemma>
+    <lemma>in brand staan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3430"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3430"
+      steen:addition="(posla)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      posȯl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>амбасадар</lemma>
+    <lemma>пасол</lemma>
+    <lemma>амбасадор</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>посланик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>velvyslanec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poslanik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>амбасадор</lemma>
+    <lemma>пратеник</lemma>
+    <lemma>посланик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poseł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посол</lemma>
+    <lemma>амбассадор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>MP</lemma>
+    <lemma>zastopnik</lemma>
+    <lemma>agent</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посланик</lemma>
+    <lemma>изасланик</lemma>
+    <lemma>заступник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посол</lemma>
+    <lemma>амбасадор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ambasadoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Botschafter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezant</lemma>
+    <lemma>ambassadeur</lemma>
+  </synset>
+</multilingual-synset>

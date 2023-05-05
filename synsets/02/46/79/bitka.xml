@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24679"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24679" steen:pos="f." steen:type="1">bitka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бойка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бой</lemma>
+    <lemma>битка</lemma>
+    <lemma annotation="прен.">тепавица</lemma>
+    <lemma annotation="вулг.">мараз</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bitka</lemma>
+    <lemma>rvačka</lemma>
+    <lemma>boj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>borba</lemma>
+    <lemma>tuča</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тепачка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bójka</lemma>
+    <lemma>bój</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>драка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bitka</lemma>
+    <lemma>dračka</lemma>
+    <lemma>boj</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>borba</lemma>
+    <lemma>bitka</lemma>
+    <lemma>spopad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>борба</lemma>
+    <lemma>туча</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бійка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>batalo</lemma>
+    <lemma>baraktado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kampf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gevecht</lemma>
+    <lemma>vechtpartij</lemma>
+  </synset>
+</multilingual-synset>

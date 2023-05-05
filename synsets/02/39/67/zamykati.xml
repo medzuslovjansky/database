@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23967"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23967"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      zamykati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зачыняць</lemma>
+    <lemma>закрываць</lemma>
+    <lemma>замыкаць</lemma>
+    <lemma>запіраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>затварям</lemma>
+    <lemma>заключвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamykat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaključavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заклучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamykać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>закрывать</lemma>
+    <lemma>запирать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamykať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaklepanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>закључавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закривати</lemma>
+    <lemma>замикати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉirkaŭfermi</lemma>
+    <lemma>seruro</lemma>
+    <lemma>blokis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umschließen</lemma>
+    <lemma>Schloss absperren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sluiten</lemma>
+    <lemma>afsluiten</lemma>
+  </synset>
+</multilingual-synset>

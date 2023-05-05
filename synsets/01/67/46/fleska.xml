@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16746"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16746"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cz bg"
+      steen:genesis="E"
+    >
+      fleška
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>флэшка</lemma>
+    <lemma>флэш-назапашвальнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>флашка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fleška</lemma>
+    <lemma>flash disk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>flash disk</lemma>
+    <lemma>USB stick</lemma>
+    <lemma>USB memorija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>флеш диск</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pendrive</lemma>
+    <lemma>pamięć USB</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>флешка</lemma>
+    <lemma>флеш-накопитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fleška</lemma>
+    <lemma>flash disk</lemma>
+    <lemma>usbčko</lemma>
+    <lemma>pamäťová karta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bliskovni pogon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>флеш диск</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>флешка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekbrila stirado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flash Drive</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pendrive</lemma>
+    <lemma>USB-stick</lemma>
+  </synset>
+</multilingual-synset>

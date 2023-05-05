@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16983"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16983" steen:pos="adj." steen:type="1" steen:same="v z j">
+      neživy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нежывы</lemma>
+    <lemma>няжывы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неодушевен</lemma>
+    <lemma>безжизнен</lemma>
+    <lemma>нежив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neživý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neživ</lemma>
+    <lemma>beživotan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нежив</lemma>
+    <lemma>мртов</lemma>
+    <lemma>безживотен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieżywy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неживой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neživý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>neživ</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нежив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неживий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inanimados</lemma>
+    <lemma>unalive</lemma>
+    <lemma>senviva</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>leblos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>niet-levend</lemma>
+  </synset>
+</multilingual-synset>

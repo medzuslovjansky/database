@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26492"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26492"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru z sl"
+    >
+      kaziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>псаваць</lemma>
+    <lemma>шкодзіць</lemma>
+    <lemma>збрыджваць</lemma>
+    <lemma>згаджваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>повреждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kazit</lemma>
+    <lemma>mařit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvariti</lemma>
+    <lemma>mutiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пцуе</lemma>
+    <lemma>кара</lemma>
+    <lemma>кори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>psuć</lemma>
+    <lemma>mącić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>искажать</lemma>
+    <lemma>портить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kaziť</lemma>
+    <lemma>mariť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>snet</lemma>
+    <lemma>blur</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кварити</lemma>
+    <lemma>мутити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>псувати</lemma>
+    <lemma>викривляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ruinigo mar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verderben</lemma>
+    <lemma>mar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verpesten</lemma>
+    <lemma>doen bederven</lemma>
+  </synset>
+</multilingual-synset>

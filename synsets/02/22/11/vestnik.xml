@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22211"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22211" steen:pos="m." steen:type="2" steen:same="ru cz sh">
+      věstnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вястун</lemma>
+    <lemma>звястун</lemma>
+    <lemma>веснік</lemma>
+    <lemma>часопіс</lemma>
+    <lemma>часапіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вестник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>věstník</lemma>
+    <lemma>bulletin</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>časopis</lemma>
+    <lemma>magazin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>весник</lemma>
+    <lemma>билтен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="papierowy">dziennik</lemma>
+    <lemma>biuletyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вестник</lemma>
+    <lemma>журнал</lemma>
+    <lemma annotation="периодическое издание">бюллетень</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vestník</lemma>
+    <lemma>bulletin</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>List RS</lemma>
+    <lemma>denevnik</lemma>
+    <lemma>dnevni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>весник</lemma>
+    <lemma>деневник</lemma>
+    <lemma>дневни лист</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вісник</lemma>
+    <lemma>журнал</lemma>
+    <lemma annotation="періодичне видання">бюлетень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>revuo</lemma>
+    <lemma>bulteno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeitschrift Bulletin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dagblad</lemma>
+    <lemma>krant</lemma>
+  </synset>
+</multilingual-synset>

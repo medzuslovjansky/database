@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21180"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21180"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru cz"
+      steen:genesis="S"
+    >
+      tajnopis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крыптаграфія</lemma>
+    <lemma>шыфрацыя</lemma>
+    <lemma>шыфраванне</lemma>
+    <lemma>тайнапіс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>криптография</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kryptografie</lemma>
+    <lemma>tajnopis</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kriptografija</lemma>
+    <lemma>tajnopis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>криптографија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kryptografia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>криптография</lemma>
+    <lemma>шифрование</lemma>
+    <lemma>тайнопись</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kryptografia</lemma>
+    <lemma>tajnopis</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kriptografija</lemma>
+    <lemma>šifrirano pismo</lemma>
+    <lemma>šifriranje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>криптографија</lemma>
+    <lemma>шифрирано писмо</lemma>
+    <lemma>шифровање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>криптографія</lemma>
+    <lemma>шифрування</lemma>
+    <lemma>тайнопис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cryptography</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geheimschrift</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cryptografie</lemma>
+  </synset>
+</multilingual-synset>

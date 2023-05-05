@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28012"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28012" steen:pos="adj." steen:type="1">najemny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наёмны</lemma>
+    <lemma>арэданаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наемен</lemma>
+    <lemma>нает</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nájemný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>najamni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наемен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>najemny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наёмный</lemma>
+    <lemma>нанятый</lemma>
+    <lemma>арендованный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nájomný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hackney</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>најамни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>найомний</lemma>
+    <lemma>орендований</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dungis</lemma>
+    <lemma>luis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gemietet</lemma>
+    <lemma>vermietet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gehuurd</lemma>
+    <lemma>huur-</lemma>
+  </synset>
+</multilingual-synset>

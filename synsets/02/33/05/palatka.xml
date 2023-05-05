@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23305"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23305" steen:pos="f." steen:type="1" steen:same="v pl bg">
+      palatka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>намёт</lemma>
+    <lemma>палатка</lemma>
+    <lemma>шацёр</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>палатка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stan</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šator</lemma>
+    <lemma>tenda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шатор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>namiot</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>палатка</lemma>
+    <lemma>шатёр</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stan</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šotor</lemma>
+    <lemma annotation="arch.">Čador</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шатор</lemma>
+    <lemma annotation="арх.">чадор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>намет</lemma>
+    <lemma>шатер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tendo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zelt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tent</lemma>
+  </synset>
+</multilingual-synset>

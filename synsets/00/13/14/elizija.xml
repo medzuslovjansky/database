@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1314"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1314" steen:pos="f.sg." steen:type="1" steen:genesis="I">
+      elizija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="фанет.">элізія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="език.">елизия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elize</lemma>
+    <lemma annotation="fonet.">vyškrtnutí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>elizija</lemma>
+    <lemma>izostavljanje</lemma>
+    <lemma annotation="koga">zaobilaženje</lemma>
+    <lemma annotation="čega">ispuštanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>елизија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="fonet.">elizja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="фонет.">элизия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elízia</lemma>
+    <lemma>vypustenie hlásky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="gram. Fonet.">elision</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="грам. фонет.">елизија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="фонет,">елізія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elision</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Elision</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elisie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34902"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34902" steen:pos="adv." steen:type="1">
+      vęće ili menje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>больш ці менш</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>повече или по-малко</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>více méně</lemma>
+    <lemma>víceméně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>veće ili manje</lemma>
+    <lemma>manje-više</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повеќе или помалку</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mniej więcej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>более или менее</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>viac menej</lemma>
+    <lemma>viacmenej</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>večje ali manjše</lemma>
+    <lemma>bolj ali manj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>веће или мање</lemma>
+    <lemma>мање-више</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>більш менш</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pli aŭ malpli</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>mehr oder weniger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>min of meer</lemma>
+  </synset>
+</multilingual-synset>

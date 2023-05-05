@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16139"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16139" steen:pos="adj." steen:type="1" steen:genesis="E">
+      vikendovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выходны</lemma>
+    <lemma>непрацоўны</lemma>
+    <lemma>нерабочы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неработен</lemma>
+    <lemma>почивен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>víkendový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neradni</lemma>
+    <lemma annotation="dan">slobodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неработен</lemma>
+    <lemma>слободен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>weekendowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выходной</lemma>
+    <lemma>нерабочий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>víkendový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nedejaven dan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сободан дан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вихідний</lemma>
+    <lemma>неробочий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>semajnfino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wochenende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weekend-</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2163"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2163" steen:pos="v.tr. ipf." steen:type="1">
+      sȯdŕživati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мець</lemma>
+    <lemma>утрымваць</lemma>
+    <lemma>утрымоўваць</lemma>
+    <lemma>утрымліваць</lemma>
+    <lemma>складацца з</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съдържа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obsahovat</lemma>
+    <lemma>pojmout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sadržavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>содржи</lemma>
+    <lemma>вклучува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w sobie">zawierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>содержать</lemma>
+    <lemma annotation="в себя">включать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>obsahovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vsebujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>садржавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>містити</lemma>
+    <lemma annotation="у себе">включати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>enhavi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>enthalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevatten</lemma>
+  </synset>
+</multilingual-synset>

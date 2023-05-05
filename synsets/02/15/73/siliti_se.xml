@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21573"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21573"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      siliti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>намагацца</lemma>
+    <lemma annotation="зап.">сіліцца</lemma>
+    <lemma>імкнуцца</lemma>
+    <lemma>старацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се стремим</lemma>
+    <lemma>да се опитва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>usilovat</lemma>
+    <lemma>snažit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>truditi se</lemma>
+    <lemma>siliti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се сили</lemma>
+    <lemma>се стремиме</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wysilać się</lemma>
+    <lemma>usiłować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>силиться</lemma>
+    <lemma>стараться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>usilovať</lemma>
+    <lemma>snažiť sa</lemma>
+    <lemma>siliť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>si prizadevajo</lemma>
+    <lemma>da vsili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трудити се</lemma>
+    <lemma>силити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>силитися</lemma>
+    <lemma>старатися</lemma>
+    <lemma>намагатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>strebi</lemma>
+    <lemma>provu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>danach streben</lemma>
+    <lemma>versuchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich inspannen</lemma>
+    <lemma>trachten</lemma>
+    <lemma>pogen</lemma>
+  </synset>
+</multilingual-synset>

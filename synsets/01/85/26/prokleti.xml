@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18526"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18526"
+      steen:addition="(proklne)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      proklęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылаяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проклятието</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proklít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>psovati</lemma>
+    <lemma>ružiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проколне</lemma>
+    <lemma>опцуе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kogoś">przeklnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выругать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prekliať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preklinjanja</lemma>
+    <lemma>ružiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>псовати</lemma>
+    <lemma>ружити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вилаяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malbenos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fluch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervloeken</lemma>
+  </synset>
+</multilingual-synset>

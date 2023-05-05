@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4260"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4260" steen:pos="adj." steen:type="1">trgovy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гандлёвы</lemma>
+    <lemma>камерцыйны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>търговия</lemma>
+    <lemma>търговски</lemma>
+    <lemma>бизнес</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obchodní</lemma>
+    <lemma>tržní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tržni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трговски</lemma>
+    <lemma>деловни</lemma>
+    <lemma>бизнис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>handlowy</lemma>
+    <lemma>handlarski</lemma>
+    <lemma>biznesowy</lemma>
+    <lemma>komercyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>торговый</lemma>
+    <lemma>коммерческий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obchodný</lemma>
+    <lemma>trhový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trg</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тржни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>торговий</lemma>
+    <lemma>комерційний</lemma>
+    <lemma>крамарський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komerco</lemma>
+    <lemma>komerca</lemma>
+    <lemma>negoco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Handel</lemma>
+    <lemma>Gewerbe</lemma>
+    <lemma>Business</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>commercieel</lemma>
+    <lemma>zaken-</lemma>
+  </synset>
+</multilingual-synset>

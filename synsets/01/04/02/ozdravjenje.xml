@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10402"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10402" steen:pos="n." steen:type="1" steen:same="sl">
+      ozdravjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лячэнне</lemma>
+    <lemma>лекаванне</lemma>
+    <lemma>тэрапія</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>терапия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>léčení</lemma>
+    <lemma>terapie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>liječenje</lemma>
+    <lemma>terapija</lemma>
+    <lemma>tretman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лечење</lemma>
+    <lemma>терапија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>terapia</lemma>
+    <lemma>leczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лечение</lemma>
+    <lemma>терапия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>liečenie</lemma>
+    <lemma>terapia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravilni</lemma>
+    <lemma>celjenje</lemma>
+    <lemma>zdravljenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лечење</lemma>
+    <lemma>видање</lemma>
+    <lemma>цељење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лікування</lemma>
+    <lemma>терапія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>terapio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Therapie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behandeling</lemma>
+    <lemma>therapie</lemma>
+  </synset>
+</multilingual-synset>

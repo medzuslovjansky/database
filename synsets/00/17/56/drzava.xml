@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1756"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1756" steen:pos="f." steen:type="1">dŕžava</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзяржава</lemma>
+    <lemma>краіна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>страна</lemma>
+    <lemma>държава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stát</lemma>
+    <lemma>země</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>владателство</lemma>
+    <lemma>орсагъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>država</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>држава</lemma>
+    <lemma>земја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>państwo</lemma>
+    <lemma>kraj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>государство</lemma>
+    <lemma>страна</lemma>
+    <lemma>держава</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>štát</lemma>
+    <lemma>krajina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>država</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>држава</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>держава</lemma>
+    <lemma>країна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stato</lemma>
+    <lemma>lando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Staat</lemma>
+    <lemma>Land</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>land</lemma>
+    <lemma>staat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21608"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21608" steen:pos="v.tr. pf." steen:type="1">uroditi</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>урадзіць</lemma>
+    <lemma>зрадзіць</lemma>
+    <lemma>нарадзіць</lemma>
+    <lemma annotation="плады">прынесці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="прибиране на реколтата">донесе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="plodiny">urodit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obroditi</lemma>
+    <lemma>donijeti plod</lemma>
+    <lemma annotation="usjevi">obilno roditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изроди</lemma>
+    <lemma>придонесе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уродить</lemma>
+    <lemma annotation="плоды">принести</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="plodiny">urodiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>medved</lemma>
+    <lemma>medved sadje</lemma>
+    <lemma annotation="poljščine">obilno rodijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обродити</lemma>
+    <lemma>донети плод</lemma>
+    <lemma annotation="усеви">обилно родити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>уродити</lemma>
+    <lemma annotation="плоди">принести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kultivaĵoj">aperigu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Kulturen">hervorbringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="oogst">voortbrengen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1352"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1352"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+    >
+      polěv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злева</lemma>
+    <lemma>леваруч</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вляво от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>na levé straně</lemma>
+    <lemma>zleva</lemma>
+    <lemma>nalevo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slijeva</lemma>
+    <lemma>s lijeve strane</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лево</lemma>
+    <lemma>на лево</lemma>
+    <lemma>од лева страна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>po lewej</lemma>
+    <lemma>po lewicy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слева</lemma>
+    <lemma>по левую сторону</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>na ľavej strane</lemma>
+    <lemma>zľava</lemma>
+    <lemma>naľavo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>levo</lemma>
+    <lemma>levo</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>слева</lemma>
+    <lemma>лево</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ліворуч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>maldekstre de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auf der linken Seite von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>links van</lemma>
+  </synset>
+</multilingual-synset>

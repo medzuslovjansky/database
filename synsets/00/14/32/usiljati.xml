@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1432"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1432"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru be bg"
+    >
+      usiljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узмацняць</lemma>
+    <lemma>памацняць</lemma>
+    <lemma>мацаваць</lemma>
+    <lemma>умацоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>укрепване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>posílovat</lemma>
+    <lemma>upevňovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>učvršćavati</lemma>
+    <lemma>pojačavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>усилува</lemma>
+    <lemma>зацврстува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wzmacniać</lemma>
+    <lemma>pokrzepiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>усиливать</lemma>
+    <lemma>укреплять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posilňovať</lemma>
+    <lemma>upevňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>utrditi</lemma>
+    <lemma>okrepiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>учвршћавати</lemma>
+    <lemma>појачавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>посилювати</lemma>
+    <lemma>зміцнювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plifortigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstärken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>versterken</lemma>
+    <lemma>verstevigen</lemma>
+  </synset>
+</multilingual-synset>

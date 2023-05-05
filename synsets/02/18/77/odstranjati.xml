@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21877"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21877"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      odstranjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>устараняць</lemma>
+    <lemma>прымаць</lemma>
+    <lemma>прыбіраць</lemma>
+    <lemma>знішчаць</lemma>
+    <lemma>ліквідаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>премахване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstraňovat</lemma>
+    <lemma>vylučovat</lemma>
+    <lemma>eliminovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="silom, oružjem">uklanjati</lemma>
+    <lemma>smaknjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстранува</lemma>
+    <lemma>елиминира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eliminować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>устранять</lemma>
+    <lemma>ликвидировать</lemma>
+    <lemma>уничтожать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odstraňovať</lemma>
+    <lemma>vylučovať</lemma>
+    <lemma>eliminovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="s silo, orožjem">odstranimo</lemma>
+    <lemma>smaknjavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="силом, оружјем">уклањати</lemma>
+    <lemma>смакњавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>усувати</lemma>
+    <lemma>ліквідовувати</lemma>
+    <lemma>знищувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elimini</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beseitigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elimineren</lemma>
+  </synset>
+</multilingual-synset>

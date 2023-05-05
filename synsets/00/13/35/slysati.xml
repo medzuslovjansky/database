@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1335"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1335"
+      steen:addition="(slyši)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      slyšati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>слушане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slyšet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slušati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слуша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>słyszeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слышать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>počuť</lemma>
+    <lemma>slyšať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>slišati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слушати</lemma>
+    <lemma annotation="опажати слухом">чути шта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>auxdas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>hören</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>horen</lemma>
+  </synset>
+</multilingual-synset>

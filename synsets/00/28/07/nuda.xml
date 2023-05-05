@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2807"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2807"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      nųđa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патрэба</lemma>
+    <lemma>спатрэба</lemma>
+    <lemma>патрэбнасць</lemma>
+    <lemma>патрабаванне</lemma>
+    <lemma>вымога</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>трябва да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potřeba</lemma>
+    <lemma>nutnost</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>требованїе</lemma>
+    <lemma>потреба</lemma>
+    <lemma>придоба</lemma>
+    <lemma>тверженїе</lemma>
+    <lemma>обходъ</lemma>
+    <lemma>ноужда</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nužda</lemma>
+    <lemma>potreba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>глад</lemma>
+    <lemma>нужда</lemma>
+    <lemma>потреба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>potrzeba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потребность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>potreba</lemma>
+    <lemma>nutnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potreba</lemma>
+    <lemma>potreba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нужда</lemma>
+    <lemma>потреба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>потреба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bezono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brauchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behoefte</lemma>
+    <lemma>noodzaak</lemma>
+  </synset>
+</multilingual-synset>

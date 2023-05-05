@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22335"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22335"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs yu mk"
+    >
+      pověrjennik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павераны</lemma>
+    <lemma>упаўнаважаны</lemma>
+    <lemma>давераная асоба</lemma>
+    <lemma>даручнік</lemma>
+    <lemma>агент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>повереник</lemma>
+    <lemma>довереник</lemma>
+    <lemma>пълномощник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pověřenec</lemma>
+    <lemma>jednatel</lemma>
+    <lemma>zástupce</lemma>
+    <lemma>agent</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjerenik</lemma>
+    <lemma>punomoćnik</lemma>
+    <lemma>opunomoćenik</lemma>
+    <lemma>zastupnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повереник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>agent</lemma>
+    <lemma>pełnomocnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поверенный</lemma>
+    <lemma>уполномоченный</lemma>
+    <lemma>доверенное лицо</lemma>
+    <lemma>агент</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poverenec</lemma>
+    <lemma>konateľ</lemma>
+    <lemma>zástupca</lemma>
+    <lemma>agent</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>poverjenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повереник</lemma>
+    <lemma>пуномоћник</lemma>
+    <lemma>опуномоћник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повірник</lemma>
+    <lemma>довірена особа</lemma>
+    <lemma>агент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agento</lemma>
+    <lemma>kuratoro</lemma>
+    <lemma>komisaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Agent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>agent</lemma>
+    <lemma>curator</lemma>
+    <lemma>gevolmachtigde</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14201" steen:pos="intj." steen:type="5">zdar!</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прывітанне!</lemma>
+    <lemma>вітаю!</lemma>
+    <lemma>вітанкі!</lemma>
+    <lemma>дабрыдзень!</lemma>
+    <lemma annotation="зап.">прывіт!</lemma>
+    <lemma annotation="зап.">прывет!</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg">
+    <lemma>здравейте!</lemma>
+    <lemma>добър ден!</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nazdar!</lemma>
+    <lemma>zdar!</lemma>
+    <lemma>buď zdráv!</lemma>
+    <lemma>zdař bůh!</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zdravo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>здраво!</lemma>
+    <lemma>добар ден!</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cześć!</lemma>
+    <lemma>dzień dobry!</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>привет!</lemma>
+    <lemma>здравствуй!</lemma>
+    <lemma>здорова!</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dobrý deň</lemma>
+    <lemma>zdaru boh!</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zdravo!</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>здраво!</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>привіт!</lemma>
+    <lemma>здрастуй!</lemma>
+    <lemma>здорова!</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>saluton!</lemma>
+    <lemma>bonan tagon!</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hallo guten Tag!</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoi!</lemma>
+    <lemma>hallo!</lemma>
+    <lemma>dag!</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16825"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16825"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v cs sl bm"
+    >
+      doma
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дома</lemma>
+    <lemma>удома</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вкъщи</lemma>
+    <lemma>у дома</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doma</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kod kuće</lemma>
+    <lemma>doma</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дома</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>w domu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дома</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>doma</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>doma</lemma>
+    <lemma annotation="Arg.">doma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>код куће</lemma>
+    <lemma annotation="жарг.">кући</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вдома</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>dome</lemma>
+    <lemma>hejme</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zu Hause</lemma>
+    <lemma>zuhause</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>thuis</lemma>
+  </synset>
+</multilingual-synset>

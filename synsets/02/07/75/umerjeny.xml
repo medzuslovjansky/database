@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20775"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20775"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl sk j"
+    >
+      uměrjeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>умераны</lemma>
+    <lemma>памяркоўны</lemma>
+    <lemma>умеркаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>умерен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umírněný</lemma>
+    <lemma>mírný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>umjeren</lemma>
+    <lemma>blag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>умерен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umiarkowany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умеренный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>umiernený</lemma>
+    <lemma>mierny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmerna</lemma>
+    <lemma>blagi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умерен</lemma>
+    <lemma>благ</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>помірний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>modera</lemma>
+    <lemma>prudentaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mäßig</lemma>
+    <lemma>gemäßigt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gematigd</lemma>
+  </synset>
+</multilingual-synset>

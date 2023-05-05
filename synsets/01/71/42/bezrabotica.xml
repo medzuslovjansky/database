@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17142"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17142"
+      steen:pos="f.sg."
+      steen:type="1"
+      steen:same="ru uk pl bm"
+    >
+      bezråbotica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>беспрацоўе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безработица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nezaměstnanost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nezaposlenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>безработица</lemma>
+    <lemma>невработеност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezrobocie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безработица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nezamestnanosť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brezposelnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>незапосленост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безробіття</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>senlaboreco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Arbeitslosigkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werkloosheid</lemma>
+  </synset>
+</multilingual-synset>

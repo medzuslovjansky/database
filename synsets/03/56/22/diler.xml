@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35622"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35622"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      diler
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дылер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дилър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prodejce</lemma>
+    <lemma>dealer</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>diler</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дилер</lemma>
+    <lemma>трговец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dealer</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дилер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predajca</lemma>
+    <lemma>díler</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trgovec</lemma>
+    <lemma>prodajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дилер</lemma>
+    <lemma>трговац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дилер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝakristo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Händler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dealer</lemma>
+  </synset>
+</multilingual-synset>

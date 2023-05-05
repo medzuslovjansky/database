@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20862"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      dopustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дапусціць</lemma>
+    <lemma>дазволіць</lemma>
+    <lemma>падаць доступ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>позволявам</lemma>
+    <lemma>допускам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udělit</lemma>
+    <lemma>přiznat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dozvoliti</lemma>
+    <lemma>dopustiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>припушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dopuścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>допустить</lemma>
+    <lemma>предоставить доступ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>udeliť</lemma>
+    <lemma>priznať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omogočajo</lemma>
+    <lemma>dovoljenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дозволити</lemma>
+    <lemma>допустити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>припустити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agnoskas</lemma>
+    <lemma>subvencio allaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zugeben</lemma>
+    <lemma>erteilen die Zulassung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toelaten</lemma>
+  </synset>
+</multilingual-synset>

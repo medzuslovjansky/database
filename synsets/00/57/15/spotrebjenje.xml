@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5715"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5715"
+      steen:pos="n.sg."
+      steen:type="2"
+      steen:same="ru cs bg"
+    >
+      spotrěbjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спажыванне</lemma>
+    <lemma>ужытак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>консумация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spotřeba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potrošnja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потрошувачка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zużycie</lemma>
+    <lemma>konsumpcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потребление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spotreba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poraba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потрошња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>споживання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsumado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verbrauch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>consumptie</lemma>
+  </synset>
+</multilingual-synset>

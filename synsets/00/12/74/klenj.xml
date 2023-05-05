@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1274"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1274" steen:pos="m.anim." steen:type="1">klěnj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>галавень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="ryba">tloušť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kleń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>голавль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="ryba">jalec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>головень</lemma>
+    <lemma annotation="риба">клень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Chub</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Döbel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kopvoorn</lemma>
+  </synset>
+</multilingual-synset>

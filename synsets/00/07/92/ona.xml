@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="792"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="792"
+      steen:addition="(jų, jej, njejų)"
+      steen:pos="pron.pers."
+      steen:type="1"
+    >
+      ona
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>яна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ona</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>она</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ona</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>таа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ona</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>она</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ona</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="njo, njo, njo">ona</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="њу, јој, њом">она</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вона</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vrouwelijk">zij</lemma>
+  </synset>
+</multilingual-synset>

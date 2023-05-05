@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2008"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2008" steen:pos="f." steen:type="1">mogyla</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магіла</lemma>
+    <lemma>дол</lemma>
+    <lemma>магільня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гробница</lemma>
+    <lemma>могила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hrob</lemma>
+    <lemma>mohyla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mogila</lemma>
+    <lemma>kurgan</lemma>
+    <lemma>humka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>могила</lemma>
+    <lemma>гробница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mogiła</lemma>
+    <lemma>grób</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>могила</lemma>
+    <lemma>захоронение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrob</lemma>
+    <lemma>mohyla</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>grob</lemma>
+    <lemma>grob kupček</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>могила</lemma>
+    <lemma>гроб</lemma>
+    <lemma>хумка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>могила</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tombo</lemma>
+    <lemma>dolmenon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Grab</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>graf</lemma>
+  </synset>
+</multilingual-synset>

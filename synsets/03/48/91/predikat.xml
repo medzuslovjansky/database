@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34891"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34891" steen:pos="m." steen:type="1">predikat</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">выказнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přísudek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predikat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предикат</lemma>
+    <lemma>прирок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>orzeczenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">сказуемое</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prísudok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>povedek</lemma>
+    <lemma>predikat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предикат</lemma>
+    <lemma>прирок</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>присудок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="gramatiko">predikato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Prädikat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">predicaat</lemma>
+    <lemma>naamwoordelijk deel van het gezegde</lemma>
+  </synset>
+</multilingual-synset>

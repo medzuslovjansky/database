@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30527"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30527"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      råztěkati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расцякацца</lemma>
+    <lemma>разлівацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разлив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>roztékat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasticati</lemma>
+    <lemma>curiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се растече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozlewać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>растекаться</lemma>
+    <lemma>разливаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>roztekať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rasticati</lemma>
+    <lemma>pušča</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растицати</lemma>
+    <lemma>цурити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розтікатися</lemma>
+    <lemma>розливатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>verŝu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschütten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vloeistof">overlopen</lemma>
+  </synset>
+</multilingual-synset>

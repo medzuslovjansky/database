@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27110"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27110"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="be pl cs"
+    >
+      lelek
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казадой</lemma>
+    <lemma>ляляк</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>козодой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lelek</lemma>
+    <lemma>kozodoj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>leganj</lemma>
+    <lemma>šljuka</lemma>
+    <lemma>kozodoj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лелек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lelek</lemma>
+    <lemma>rogatnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>козодой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lelek</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>leganj</lemma>
+    <lemma>kozomuz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>легањ</lemma>
+    <lemma>козомуз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дрімлюга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaprimulgo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ziegenmelker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nachtzwaluw</lemma>
+  </synset>
+</multilingual-synset>

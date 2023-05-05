@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7253" steen:pos="m.anim." steen:type="1">
+      dostavitelj internetnej služby
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інтэрнэт-правайдар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="ISP">доставчик на интернет услуги</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="isp">poskytovatel služeb internetu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>provajder</lemma>
+    <lemma>provider</lemma>
+    <lemma>davatelj internetskih usluga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>интернет провајдер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostawca usług internetowych</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интернет-провайдер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="ISP">poskytovateľ služieb internetu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ponudnik internetnih storitev</lemma>
+    <lemma>ponudniki internetnih storitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>интернет провајдер</lemma>
+    <lemma>добављач интернет услуга</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>провайдер послуг інтернету</lemma>
+    <lemma>постачальник послуг інтернету</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ISP">Interreto servo provizanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="ISP">Internet Service Provider</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>internetprovider</lemma>
+  </synset>
+</multilingual-synset>

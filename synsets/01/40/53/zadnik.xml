@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14053"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14053" steen:pos="m.anim." steen:type="5">zadnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мудак</lemma>
+    <lemma annotation="вульг.">мудзіла</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zmrd</lemma>
+    <lemma>hajzl</lemma>
+    <lemma>svině</lemma>
+    <lemma>vlezdoprdelka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>guzica</lemma>
+    <lemma>šupak</lemma>
+    <lemma>govnar</lemma>
+    <lemma>seronja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кретен</lemma>
+    <lemma>задник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dupek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вульг.">мудак</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zmrd</lemma>
+    <lemma>hajzel</lemma>
+    <lemma>sviňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smrad</lemma>
+    <lemma>baraba</lemma>
+    <lemma>rit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смрад</lemma>
+    <lemma>гад</lemma>
+    <lemma>шупак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="вульг.">мудак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>asshole</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Arschloch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klojo</lemma>
+    <lemma>lummel</lemma>
+    <lemma>hufter</lemma>
+  </synset>
+</multilingual-synset>

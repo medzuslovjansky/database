@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5334"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5334"
+      steen:addition="(sěje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      sějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сеяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Соу</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sȉjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сее</lemma>
+    <lemma>посејува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>siać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сеять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>siet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svinja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сіяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porkino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sau</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zaaien</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33615"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33615"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="3"
+      steen:same="v"
+    >
+      vladati
+    </lemma>
+    <lemma
+      steen:id="33615"
+      steen:addition="(+5)"
+      steen:pos="v.intr. ipf."
+      steen:type="3"
+      steen:same="v"
+    >
+      vlåděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валодаць</lemma>
+    <lemma>быць гаспадаром</lemma>
+    <lemma>мець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>владея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovládat</lemma>
+    <lemma>kontrolovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="nečim">ovladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овладува</lemma>
+    <lemma>завладува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kontrolować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>быть хозяином</lemma>
+    <lemma>обладать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovládať</lemma>
+    <lemma>kontrolovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nekaj">master</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нечим">овладати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>володіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>be majstro de</lemma>
+    <lemma>esti en posedo de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herr wird</lemma>
+    <lemma>im Besitz von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="over">heersen</lemma>
+    <lemma annotation="over">heer en meester zijn</lemma>
+  </synset>
+</multilingual-synset>

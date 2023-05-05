@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11493"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11493" steen:pos="n." steen:type="2" steen:same="cs~ j">
+      pristanišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гавань</lemma>
+    <lemma>порт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пристанище Пристанище</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>přístav</lemma>
+    <lemma>přístaviště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pristanište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристаниште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>port</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гавань</lemma>
+    <lemma>порт</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prístav</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pristanišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пристаниште</lemma>
+    <lemma>лука</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гавань</lemma>
+    <lemma>порт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>haveno</lemma>
+    <lemma>haveno</lemma>
+    <lemma>haveno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hafen</lemma>
+    <lemma>Hafen</lemma>
+    <lemma>Hafen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>haven</lemma>
+  </synset>
+</multilingual-synset>

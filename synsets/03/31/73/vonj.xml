@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33173"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33173" steen:pos="f." steen:type="2" steen:same="ru bg">
+      vonj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смурод</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>воня</lemma>
+    <lemma>смрад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zápach</lemma>
+    <lemma>smrad</lemma>
+    <lemma>puch</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vonj</lemma>
+    <lemma>smrad</lemma>
+    <lemma>zadah</lemma>
+    <lemma>zapah</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смрдеа</lemma>
+    <lemma>мирис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smród</lemma>
+    <lemma>odór</lemma>
+    <lemma>fetor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вонь</lemma>
+    <lemma>зловоние</lemma>
+    <lemma>смрад</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zápach</lemma>
+    <lemma>smrad</lemma>
+    <lemma>puch</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vonj</lemma>
+    <lemma>smrad</lemma>
+    <lemma>smrad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>воњ</lemma>
+    <lemma>смрад</lemma>
+    <lemma>задах</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сморід</lemma>
+    <lemma>смердота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fetoro</lemma>
+    <lemma>odoron</lemma>
+    <lemma>odoron</lemma>
+    <lemma>fetoron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gestank</lemma>
+    <lemma>Geruch</lemma>
+    <lemma>Geruch</lemma>
+    <lemma>fetor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stank</lemma>
+  </synset>
+</multilingual-synset>

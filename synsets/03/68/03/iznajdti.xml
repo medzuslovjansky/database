@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36803"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36803"
+      steen:addition="(iznajde)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      iznajdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вынайсці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изобретя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vynalézt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izumiti</lemma>
+    <lemma>izumjeti</lemma>
+    <lemma>otkriti</lemma>
+    <lemma>pronaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изнајде</lemma>
+    <lemma>пронајде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynaleźć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изобрести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vynájsť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izumiti</lemma>
+    <lemma>iznajti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пронаћи</lemma>
+    <lemma>изумети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>винайти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>inventi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>erfinden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvinden</lemma>
+  </synset>
+</multilingual-synset>

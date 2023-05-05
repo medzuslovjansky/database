@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22070"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22070" steen:pos="m." steen:type="2" steen:same="ru sh">
+      iztočnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крыніца</lemma>
+    <lemma>выток</lemma>
+    <lemma>паходжанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>източник</lemma>
+    <lemma annotation="вода">извор</lemma>
+    <lemma>първоизвор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdroj</lemma>
+    <lemma>pramen</lemma>
+    <lemma>původ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvor</lemma>
+    <lemma>vrelo</lemma>
+    <lemma>porijeklo</lemma>
+    <lemma>ishodište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извор</lemma>
+    <lemma>потекло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdrój</lemma>
+    <lemma>źródło</lemma>
+    <lemma>pochodzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>источник</lemma>
+    <lemma>исток</lemma>
+    <lemma>происхождение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zdroj</lemma>
+    <lemma>prameň</lemma>
+    <lemma>pôvod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vir</lemma>
+    <lemma>poreklo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извор</lemma>
+    <lemma>врело</lemma>
+    <lemma>порекло</lemma>
+    <lemma>исходиште</lemma>
+    <lemma>полазиште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>джерело</lemma>
+    <lemma>витік</lemma>
+    <lemma>походження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fonto</lemma>
+    <lemma annotation="akvo">printempo</lemma>
+    <lemma>origino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Quelle</lemma>
+    <lemma annotation="Wasser">die Feder</lemma>
+    <lemma>Herkunft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bron</lemma>
+    <lemma>herkomst</lemma>
+    <lemma>oorsprong</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2085" steen:pos="v.tr. pf." steen:type="1">
+      sjediniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злучыць</lemma>
+    <lemma>спалучыць</lemma>
+    <lemma>з&apos;яднаць</lemma>
+    <lemma>згуртаваць</lemma>
+    <lemma annotation="зап.">аб&apos;яднаць</lemma>
+    <lemma>задзіночыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="заедно">слива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sjednotit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sjediniti</lemma>
+    <lemma>ujediniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соедини</lemma>
+    <lemma>обедини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zjednoczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>соединить</lemma>
+    <lemma>объединить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zjednotiť</lemma>
+    <lemma>spojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Unite</lemma>
+    <lemma>združiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сјединити</lemma>
+    <lemma>ујединити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>об&apos;єднати</lemma>
+    <lemma>з&apos;єднати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kune">Unite</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zusammen">vereinigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verenigen</lemma>
+    <lemma>samenbrengen</lemma>
+  </synset>
+</multilingual-synset>

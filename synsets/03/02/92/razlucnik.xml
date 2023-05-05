@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30292"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30292" steen:pos="m.anim." steen:type="3" steen:same="v">
+      råzlųčnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у каханні">разлучнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в любов">съперник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sok</lemma>
+    <lemma>rival</lemma>
+    <lemma>soupeř</lemma>
+    <lemma annotation="v lásce">protivník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>protivnik</lemma>
+    <lemma>konkurent</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="во љубовта">ривал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w miłości">rywal</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в любви">разлучник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sok</lemma>
+    <lemma>rival</lemma>
+    <lemma>súper</lemma>
+    <lemma annotation="v láske">protivník</lemma>
+    <lemma>rozlučnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nasprotnik</lemma>
+    <lemma>tekmec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>супарник</lemma>
+    <lemma>противник</lemma>
+    <lemma>конкурент</lemma>
+    <lemma annotation="у љубави">ривал</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="у коханні">розлучник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en amo">rivalon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in der Liebe">Rivale</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in de liefde">rivaal</lemma>
+  </synset>
+</multilingual-synset>

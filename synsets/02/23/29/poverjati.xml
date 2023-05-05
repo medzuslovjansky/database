@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22329"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22329"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      pověrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>верыць</lemma>
+    <lemma>давяраць</lemma>
+    <lemma>даручаць</lemma>
+    <lemma>належыць</lemma>
+    <lemma>меркавацца</lemma>
+    <lemma>спадзявацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>откровенничать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svěřovat</lemma>
+    <lemma>ukládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjeravati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powierzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>верить</lemma>
+    <lemma>доверять</lemma>
+    <lemma>полагаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zverovať</lemma>
+    <lemma>ukladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="nekaj z nekom">zaupa</lemma>
+    <lemma>kar zaupno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="некоме нешто">поверавати</lemma>
+    <lemma>давати нешто поверљиво</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вірити</lemma>
+    <lemma>довіряти</lemma>
+    <lemma>покладатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fidas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vertrauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevertrouwen</lemma>
+  </synset>
+</multilingual-synset>

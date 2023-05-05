@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19356"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19356"
+      steen:addition="#(zadŕži)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      zadŕžati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затрымаць</lemma>
+    <lemma>замарудзіць</lemma>
+    <lemma>спавольніць</lemma>
+    <lemma>запаволіць</lemma>
+    <lemma>прымарудзіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задържа</lemma>
+    <lemma>забавя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdržet</lemma>
+    <lemma>zpozdit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadržati se</lemma>
+    <lemma>zakasniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задржа</lemma>
+    <lemma>задоцни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opóźnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задержать</lemma>
+    <lemma>замедлить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zdržať</lemma>
+    <lemma>oneskoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slediti</lemma>
+    <lemma>odocniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задржати се</lemma>
+    <lemma>одоцнити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затримати</lemma>
+    <lemma>уповільнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prokrasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verzögern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertragen</lemma>
+  </synset>
+</multilingual-synset>

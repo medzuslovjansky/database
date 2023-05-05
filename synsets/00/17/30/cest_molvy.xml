@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1730"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1730" steen:pos="f." steen:type="1">čęsť mȯlvy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>часціна мовы</lemma>
+    <lemma annotation="Грама.">частка мовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>част на речта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slovní druh</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrsta riječi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зборовна група</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>część mowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">часть речи</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>slovný druh</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>besedna vrsta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врста речи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>частина мови</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parolparto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wortart</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>woordsoort</lemma>
+  </synset>
+</multilingual-synset>

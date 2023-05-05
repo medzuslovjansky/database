@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18535"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18535"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="ru uk sh bm"
+    >
+      prošćańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развітанне</lemma>
+    <lemma>адвітанне</lemma>
+    <lemma>растанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сбогом</lemma>
+    <lemma>раздяла</lemma>
+    <lemma>сбогуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozloučení</lemma>
+    <lemma>loučení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastanak</lemma>
+    <lemma>praštanje</lemma>
+    <lemma annotation="se s nekim">opraštanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>простување</lemma>
+    <lemma>збогување</lemma>
+    <lemma>разделба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pożegnanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прощание</lemma>
+    <lemma>расставание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozlúčka</lemma>
+    <lemma>lúčenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poslovitev odpuščanje</lemma>
+    <lemma annotation="z nekaterimi">odpust</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растанак</lemma>
+    <lemma>праштање</lemma>
+    <lemma annotation="са неким">опраштање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прощання</lemma>
+    <lemma>розлучення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>adiaŭo</lemma>
+    <lemma>adiaŭ</lemma>
+    <lemma>adiaŭa</lemma>
+    <lemma>valedictory</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abschied</lemma>
+    <lemma>Wiedersehen</lemma>
+    <lemma>Trennung</lemma>
+    <lemma>valedictory</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afscheid</lemma>
+  </synset>
+</multilingual-synset>

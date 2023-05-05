@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1037"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1037"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      nositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>насіць</lemma>
+    <lemma annotation="насіць плод">плодаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="пеша">транспортиране</lemma>
+    <lemma>мечка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nosit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>носи</lemma>
+    <lemma>пренесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nosić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>носить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nosiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oblačila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>носити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>носити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="piede">porti</lemma>
+    <lemma>urso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>tragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dragen</lemma>
+    <lemma annotation="te voet">vervoeren</lemma>
+  </synset>
+</multilingual-synset>

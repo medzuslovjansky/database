@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5111"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5111" steen:pos="m." steen:type="1">šlěm</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шлем</lemma>
+    <lemma annotation="дыял.">шлём</lemma>
+    <lemma>шышак</lemma>
+    <lemma>шалом</lemma>
+    <lemma>каска</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>каска</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>helma</lemma>
+    <lemma>přilba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šljem</lemma>
+    <lemma>kaciga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шлем</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kask</lemma>
+    <lemma>hełm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шлем</lemma>
+    <lemma>каска</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>helma</lemma>
+    <lemma>prilba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čelada</lemma>
+    <lemma>čelada</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шлем</lemma>
+    <lemma>кацига</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шолом</lemma>
+    <lemma>каска</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kasko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Helm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helm</lemma>
+  </synset>
+</multilingual-synset>

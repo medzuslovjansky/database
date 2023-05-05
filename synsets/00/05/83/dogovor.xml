@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="583"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="583" steen:pos="m." steen:type="1">dogovor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="міждзяржаўная">дамова</lemma>
+    <lemma>дагавор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>договор</lemma>
+    <lemma>пакт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mezinárodní">smlouva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ugovor</lemma>
+    <lemma>sporazum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>договор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>traktat</lemma>
+    <lemma>porozumienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="межгосударственный">договор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="medzinárodná">zmluva</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dogovor pogodba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уговор</lemma>
+    <lemma>споразум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="міждержавний">договір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Traktato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vertrag</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verdrag</lemma>
+  </synset>
+</multilingual-synset>

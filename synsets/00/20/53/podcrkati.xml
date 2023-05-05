@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2053"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2053"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru be cs j"
+    >
+      podčrkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падкрэсліваць</lemma>
+    <lemma>падкрасляць</lemma>
+    <lemma>увыдатняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мисля</lemma>
+    <lemma>подчертават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podtrhávat</lemma>
+    <lemma>zdůrazňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podcrtavati</lemma>
+    <lemma>podvlačiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подвлече</lemma>
+    <lemma>нагласи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podkreślać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подчёркивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podčiarkovať</lemma>
+    <lemma>zdôrazňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poudarjajo</lemma>
+    <lemma>poudarja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подвлачити</lemma>
+    <lemma>подцртавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підкреслювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>underline</lemma>
+    <lemma>substreki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unterstrichen</lemma>
+    <lemma>betonen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderstrepen</lemma>
+    <lemma>benadrukken</lemma>
+  </synset>
+</multilingual-synset>

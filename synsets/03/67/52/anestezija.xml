@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36752"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36752"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      anestezija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>анестэзія</lemma>
+    <lemma>абязбольванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анестезия</lemma>
+    <lemma>упойка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>anestézie</lemma>
+    <lemma>narkóza</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>anestezija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>анестезија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>anestezja</lemma>
+    <lemma>znieczulenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>анестезия</lemma>
+    <lemma>обезболивание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>anestézia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>anestezija</lemma>
+    <lemma>narkoza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>анестезија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анестезія</lemma>
+    <lemma>знеболювання</lemma>
+    <lemma>знеболення</lemma>
+    <lemma>знечулення</lemma>
+    <lemma>наркоз</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>anestezo</lemma>
+    <lemma>sendolorigo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Anästhesie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>anesthesie</lemma>
+  </synset>
+</multilingual-synset>

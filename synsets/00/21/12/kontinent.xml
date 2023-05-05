@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2112" steen:pos="m." steen:type="1" steen:genesis="I">
+      kontinent
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кантынент</lemma>
+    <lemma>мацярык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>континент</lemma>
+    <lemma>материк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kontinent</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kontinent</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>континент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kontynent</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>континент</lemma>
+    <lemma>материк</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kontinent</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>celina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>континент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>континент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontinento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kontinent</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>continent</lemma>
+  </synset>
+</multilingual-synset>

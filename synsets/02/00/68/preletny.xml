@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20068"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20068" steen:pos="adj." steen:type="1">prěletny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="аб птушках">выраёвы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="птици">прелетните</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pták">stěhovavý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ptica selica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="птица">преселен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ptak">wędrowny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="о птицах">перелётный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vták">sťahovavý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>птица селица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="про птахів">перелітний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="birdo">migranta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zugvogel)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vogels">migrerend</lemma>
+    <lemma annotation="vogels">trek-</lemma>
+  </synset>
+</multilingual-synset>

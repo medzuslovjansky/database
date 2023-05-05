@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22851"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22851"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      znamenovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>значыць</lemma>
+    <lemma>азначаць</lemma>
+    <lemma>пазначаць</lemma>
+    <lemma>адзначаць</lemma>
+    <lemma>сведчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>означавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znamenat</lemma>
+    <lemma>značit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>označivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>означува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oznaczać</lemma>
+    <lemma>znaczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>значить</lemma>
+    <lemma>означать</lemma>
+    <lemma>обозначать</lemma>
+    <lemma>знаменовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>znamenať</lemma>
+    <lemma>značiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>označivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>означавати</lemma>
+    <lemma>означивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знаменувати</lemma>
+    <lemma>означати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>signifi</lemma>
+    <lemma>signifas</lemma>
+    <lemma>esti signo de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bedeuten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>betekenen</lemma>
+    <lemma>beduiden</lemma>
+  </synset>
+</multilingual-synset>

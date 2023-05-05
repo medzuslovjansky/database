@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36864"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="na"
+      steen:id="36864"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="z"
+    >
+      naskočiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ускочыць</lemma>
+    <lemma>паўскакваць</lemma>
+    <lemma>усхапіцца</lemma>
+    <lemma>падхапіцца</lemma>
+    <lemma>паўсхоплівацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скоча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naskočit</lemma>
+    <lemma>vyskočit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naskočiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на">скокне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na">naskoczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на">вскочить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="do niekoho">vyskočiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="naprej">skok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на">скочити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застрибнути</lemma>
+    <lemma>заскочити</lemma>
+    <lemma>заплигнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sur">salti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufspringen)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bespringen</lemma>
+  </synset>
+</multilingual-synset>

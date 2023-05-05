@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24933"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24933" steen:pos="n.sg." steen:type="1">cvěteńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>красаванне</lemma>
+    <lemma>цвіценне</lemma>
+    <lemma>квеценне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цъфтеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvetení</lemma>
+    <lemma>rozkvět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cvatnja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цветање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwitnięcie</lemma>
+    <lemma>kwitnienie</lemma>
+    <lemma annotation="bot.">rozkwit</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цветение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvitnutie</lemma>
+    <lemma>rozkvet</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>cvetenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цветање</lemma>
+    <lemma>процват</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цвітіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>floras</lemma>
+    <lemma>floranta</lemma>
+    <lemma>florado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Blüte</lemma>
+    <lemma>Blume</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloei</lemma>
+  </synset>
+</multilingual-synset>

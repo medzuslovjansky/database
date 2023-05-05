@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16119"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16119" steen:pos="f." steen:type="1" steen:genesis="I">
+      tendencija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэндэнцыя</lemma>
+    <lemma>трэнд</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ход</lemma>
+    <lemma>насока</lemma>
+    <lemma>склонност</lemma>
+    <lemma>тенденция</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tendence</lemma>
+    <lemma>trend</lemma>
+    <lemma>sklon</lemma>
+    <lemma>směr</lemma>
+    <lemma>směrování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tendencija</lemma>
+    <lemma>težnja</lemma>
+    <lemma>sklonost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тенденција</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tendencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тенденция</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tendencia</lemma>
+    <lemma>trend</lemma>
+    <lemma>sklon</lemma>
+    <lemma>smer</lemma>
+    <lemma>smerovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stremljenje</lemma>
+    <lemma>prizadevanje</lemma>
+    <lemma>težnja</lemma>
+    <lemma>trend</lemma>
+    <lemma>opravljanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тежња</lemma>
+    <lemma>настојање</lemma>
+    <lemma>тенденција</lemma>
+    <lemma>тренд</lemma>
+    <lemma>стремљење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тенденція</lemma>
+    <lemma>тренд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tendencon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tendens</lemma>
+  </synset>
+</multilingual-synset>

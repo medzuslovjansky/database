@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33326"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33326" steen:pos="f." steen:type="2" steen:same="v z~">
+      banka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>банка</lemma>
+    <lemma>слоік</lemma>
+    <lemma>слой</lemma>
+    <lemma>бляшанка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буркан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plechovka</lemma>
+    <lemma>konzerva</lemma>
+    <lemma annotation="nádoba, např. zavařovací">sklenice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konzerva</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тегла</lemma>
+    <lemma>конзерва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>puszka</lemma>
+    <lemma>słoik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>банка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plechovka</lemma>
+    <lemma>konzerva</lemma>
+    <lemma annotation="nádoba, napr. na zaváranie">pohár</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pločevinka</lemma>
+    <lemma>konzerva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конзерва</lemma>
+    <lemma>тегла</lemma>
+    <lemma>лименка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>банка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ladskatolon</lemma>
+    <lemma>stano</lemma>
+    <lemma>poto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dose</lemma>
+    <lemma>Büchse</lemma>
+    <lemma>Glas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blik</lemma>
+    <lemma>pot</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22506"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22506"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      sȯvladnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суладаць</lemma>
+    <lemma>управіцца</lemma>
+    <lemma>даць рады</lemma>
+    <lemma>зладзіцца</lemma>
+    <lemma>справіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се справят с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvládnout</lemma>
+    <lemma>vyrovnat se s</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pobijediti</lemma>
+    <lemma>uspjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>совлада</lemma>
+    <lemma>да се справат со</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poradzić sobie z</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>совладать</lemma>
+    <lemma>справиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvládnuť</lemma>
+    <lemma>vyrovnať sa s</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>win</lemma>
+    <lemma>uspelo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>победити</lemma>
+    <lemma>успети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>упоратися</lemma>
+    <lemma>впоратися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elteni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zurechtkommen mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunnen omgaan met</lemma>
+  </synset>
+</multilingual-synset>

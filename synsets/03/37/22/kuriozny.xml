@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33722"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33722"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v cs yu bm"
+      steen:genesis="I"
+    >
+      kuriozny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кур&apos;ёзны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>куриозен</lemma>
+    <lemma>любопитен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kuriózní</lemma>
+    <lemma>zvláštní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kuriozan</lemma>
+    <lemma>znatiželjan</lemma>
+    <lemma>neobičan</lemma>
+    <lemma>čudan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>љубопитен</lemma>
+    <lemma>смешен</lemma>
+    <lemma>чуден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dziwny</lemma>
+    <lemma>niezwykły</lemma>
+    <lemma>ciekawy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>курьёзный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kuriózny</lemma>
+    <lemma>zvláštny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kuriozan</lemma>
+    <lemma>čudno</lemma>
+    <lemma>čudno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>куриозан</lemma>
+    <lemma>необичан</lemma>
+    <lemma>чудан</lemma>
+    <lemma>љубобитљив</lemma>
+    <lemma>знатижељан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>курйозний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>scivola</lemma>
+    <lemma>amuza</lemma>
+    <lemma>stranga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>neugierig</lemma>
+    <lemma>lustig</lemma>
+    <lemma>seltsam</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>curieus</lemma>
+    <lemma>opmerkelijk</lemma>
+  </synset>
+</multilingual-synset>

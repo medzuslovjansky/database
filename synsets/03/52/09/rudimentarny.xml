@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35209"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35209"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      rudimentarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рудыментны</lemma>
+    <lemma>рудыментарны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>елементарен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rudimentární</lemma>
+    <lemma>základní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rudimentaran</lemma>
+    <lemma>početni</lemma>
+    <lemma>osnovni</lemma>
+    <lemma>prvobitni</lemma>
+    <lemma>nerazvijen</lemma>
+    <lemma>zakržljao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рудиментарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rudymentarny</lemma>
+    <lemma>szczątkowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рудиментарный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rudimentárne</lemma>
+    <lemma>základné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osnovno</lemma>
+    <lemma>začetnik</lemma>
+    <lemma>osnovno</lemma>
+    <lemma>na začetku</lemma>
+    <lemma>osnovno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>основни</lemma>
+    <lemma>почетни</lemma>
+    <lemma>елементаран</lemma>
+    <lemma>у зачетку</lemma>
+    <lemma>рудиментаран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рудиментарний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>baza</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>rudimentär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rudimentair</lemma>
+  </synset>
+</multilingual-synset>

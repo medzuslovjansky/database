@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35" steen:pos="f." steen:type="1" steen:genesis="I">
+      elektrostancija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>электрастанцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>електроцентрала</lemma>
+    <lemma>електростанция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elektrárna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>elektrana</lemma>
+    <lemma>električna centrala</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>електроцентрала</lemma>
+    <lemma>електрана</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>elektrownia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>электростанция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elektráreň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>elektrarna</lemma>
+    <lemma>elektrarna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>електроцентрала</lemma>
+    <lemma>електрана</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>електростанція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>centralo</lemma>
+    <lemma>centralo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kraftwerk</lemma>
+    <lemma>Kraftwerk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elektriciteitscentrale</lemma>
+  </synset>
+</multilingual-synset>

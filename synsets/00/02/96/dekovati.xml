@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="296"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="296"
+      steen:addition="(+3)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+    >
+      dękovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзякаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благодаря</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>děkovat</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>благода́рствовати</lemma>
+    <lemma>благодари́ти</lemma>
+    <lemma>хвали́ти</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zahvaljivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благодари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dziękować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благодарить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ďakovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zahvaliti se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>захваљивати</lemma>
+    <lemma>благодарити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дякувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dankon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>danken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>danken</lemma>
+    <lemma>bedanken</lemma>
+  </synset>
+</multilingual-synset>

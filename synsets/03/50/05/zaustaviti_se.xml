@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35005"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35005"
+      steen:pos="v.refl. pf."
+      steen:type="3"
+      steen:same="yu"
+    >
+      zaustaviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запыніцца</lemma>
+    <lemma>спыніцца</lemma>
+    <lemma>супыніцца</lemma>
+    <lemma>затармазіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>да се спра</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zastavit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zaustaviti</lemma>
+    <lemma>stati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се запре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyhamować</lemma>
+    <lemma>zatrzymać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>остановиться</lemma>
+    <lemma>затормозить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zastaviť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaustavitev</lemma>
+    <lemma>zaustavitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зауставити се</lemma>
+    <lemma>закочити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зупинитися</lemma>
+    <lemma>загальмувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bremson</lemma>
+    <lemma>halto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bremse</lemma>
+    <lemma>Stopp</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>remmen</lemma>
+    <lemma>stoppen</lemma>
+    <lemma>tot stilstand komen</lemma>
+  </synset>
+</multilingual-synset>

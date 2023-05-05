@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22331"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22331"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      pověrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даручаць</lemma>
+    <lemma>ускладаць</lemma>
+    <lemma>ускладваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>инструктират</lemma>
+    <lemma>обучават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pověřovat</lemma>
+    <lemma>zavazovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">povjeravati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwierzać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поручать</lemma>
+    <lemma>возлагать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poverovať</lemma>
+    <lemma>zaväzovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="k">zaupa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="се">поверавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доручати</lemma>
+    <lemma>довіряти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>farante per konfidas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verpflichten</lemma>
+    <lemma>entrust</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevertrouwen</lemma>
+  </synset>
+</multilingual-synset>

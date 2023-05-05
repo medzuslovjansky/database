@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28849"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28849"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="cs sl"
+    >
+      obnositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зношваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>затрахали</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obnášet</lemma>
+    <lemma>opotřebovávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otrcati</lemma>
+    <lemma>trošiti</lemma>
+    <lemma>izlizivati</lemma>
+    <lemma>ofucavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>износува</lemma>
+    <lemma>истрошува</lemma>
+    <lemma annotation="со носење">потрошува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="przez noszenie">zużywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>изнашивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opotrebovávať</lemma>
+    <lemma>opotrebúvať</lemma>
+    <lemma>obnosit</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="obutev, oblačila">količina</lemma>
+    <lemma>oblačila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="обућу, одећу">износити</lemma>
+    <lemma>истрошити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="речі">зношувати</lemma>
+    <lemma annotation="взуття">стоптувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eluzi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abnutzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">afdragen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36761"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36761"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      arbitraž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арбітраж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>арбитраж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>arbitráž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>arbitraža</lemma>
+    <lemma>presuda izbornog suda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>арбитража</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>arbitraż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>арбитраж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>arbitráž</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>arbitraža</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>арбитража</lemma>
+    <lemma>пресуда изборног суда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>арбітраж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arbitracio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Arbitrage</lemma>
+    <lemma>Schiedsverfahren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>arbitrage</lemma>
+  </synset>
+</multilingual-synset>

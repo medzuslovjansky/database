@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20420"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20420" steen:pos="v.tr. ipf." steen:type="1">lęgati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выводзіць</lemma>
+    <lemma annotation="птушанят">выседжваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>люк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>líhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>leći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>веде</lemma>
+    <lemma>квачи</lemma>
+    <lemma annotation="за квачка">лежи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wylęgać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выводить</lemma>
+    <lemma annotation="птенцов">высиживать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>liahnuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izlegati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>излегати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виводити</lemma>
+    <lemma annotation="пташенят">висиджувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>luko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Luke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>broeden</lemma>
+  </synset>
+</multilingual-synset>

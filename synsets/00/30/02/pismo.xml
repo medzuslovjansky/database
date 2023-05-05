@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3002"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3002" steen:pos="n." steen:type="1">piśmo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліст</lemma>
+    <lemma annotation="пошта">пісьмо</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="email">писмо</lemma>
+    <lemma>писане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dopis</lemma>
+    <lemma>psaní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pismo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="mail">писмо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>list</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="почта">письмо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>list</lemma>
+    <lemma>dopis</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pismo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>писмо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="пошта">лист</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="poŝto">letero</lemma>
+    <lemma>skribo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="E-Mail">Brief</lemma>
+    <lemma>schriftlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brief</lemma>
+    <lemma>geschrift</lemma>
+  </synset>
+</multilingual-synset>

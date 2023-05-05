@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35604"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35604"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="ru be cs sh bm"
+    >
+      prěuveličeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перабольшанне</lemma>
+    <lemma>перавелічэнне</lemma>
+    <lemma>перабольшванне</lemma>
+    <lemma>перавялічванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преувеличено</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zveličování</lemma>
+    <lemma>přehánění</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>preuveličenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преувеличување</lemma>
+    <lemma>претерување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>преувеличение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zveličovanie</lemma>
+    <lemma>preháňanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preuveličenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преувеличање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перебільшення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>troigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Übertreibung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overdrijving</lemma>
+  </synset>
+</multilingual-synset>

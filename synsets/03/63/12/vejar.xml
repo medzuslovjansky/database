@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36312"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36312"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v csb hsb cs"
+    >
+      vějaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>веер</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="ръчен уред">фен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vějíř</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>lepeza</lemma>
+    <lemma>mahalica</lemma>
+    <lemma>hladilica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>веалка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wachlarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>веер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vejár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ventilator</lemma>
+    <lemma>ventilator</lemma>
+    <lemma>hladilniki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лепеза</lemma>
+    <lemma>махалица</lemma>
+    <lemma>хладилица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>віяло</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="mane tenis aparato">ventumilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Handgerät">Ventilator</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waaier</lemma>
+  </synset>
+</multilingual-synset>

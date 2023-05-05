@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3540"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3540"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      naučiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навучыць</lemma>
+    <lemma>панавучваць</lemma>
+    <lemma annotation="вайсковае">наўчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>обуча</lemma>
+    <lemma>науча нкг.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naučit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>naučiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>научи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nauczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>научить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naučiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naučiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>научити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>навчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instrui</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>lehren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="aan">leren</lemma>
+    <lemma>aanleren</lemma>
+  </synset>
+</multilingual-synset>

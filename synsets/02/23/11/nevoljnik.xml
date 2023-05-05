@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22311"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22311"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      nevoljnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нявольнік</lemma>
+    <lemma>раб</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>роб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otrok</lemma>
+    <lemma>rab</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rob</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>роб</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niewolnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раб</lemma>
+    <lemma>невольник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>otrok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>suženj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>роб</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невільник</lemma>
+    <lemma>раб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sklavo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Sklave</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slaaf</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34203"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      načaditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>начадзіць</lemma>
+    <lemma>надыміць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пускам газове</lemma>
+    <lemma>обгазявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyemitovat zplodiny</lemma>
+    <lemma>načadit</lemma>
+    <lemma>nakouřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>načađiti</lemma>
+    <lemma>načaditi</lemma>
+    <lemma>nadimiti</lemma>
+    <lemma>nagariti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>начади</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naczadzić</lemma>
+    <lemma>wyemitować opary/wyziewy/spaliny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начадить</lemma>
+    <lemma>напустить дыма</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyemitovať splodiny</lemma>
+    <lemma>načmudiť</lemma>
+    <lemma>nadymiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>načađiti</lemma>
+    <lemma>fumigacijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>начађити</lemma>
+    <lemma>надимити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>начадіти</lemma>
+    <lemma>надиміти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elsendas fumoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>emittieren Dämpfe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rook, damp">uitstoten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13238"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13238" steen:pos="m.anim." steen:type="1">
+      ukryvatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зап.">укрывальнік</lemma>
+    <lemma>пакрывальнік</lemma>
+    <lemma>прытульнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>прикривач</lemma>
+    <lemma>коректор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukrývající osoba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>jatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прикривач</lemma>
+    <lemma>јатак</lemma>
+    <lemma>коректор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osoba ukrywająca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>укрыватель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ukrývajuca osoba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>korektor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јатак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>приховувач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>concealer</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Concealer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verberger</lemma>
+  </synset>
+</multilingual-synset>

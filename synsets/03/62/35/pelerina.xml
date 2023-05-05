@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36235"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36235"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pelerina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>накідка</lemma>
+    <lemma>понча</lemma>
+    <lemma>палярына</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="за дрехи" />
+    <lemma>пончо</lemma>
+    <lemma>наметало чаршаф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pelerína</lemma>
+    <lemma>pončo</lemma>
+    <lemma>pláštík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pelerina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пелерина</lemma>
+    <lemma>наметка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>peleryna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>накидка</lemma>
+    <lemma>пончо</lemma>
+    <lemma>пелерина</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pelerína</lemma>
+    <lemma>pončo</lemma>
+    <lemma>pláštik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pelerine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пелерина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пелерина</lemma>
+    <lemma>накидка</lemma>
+    <lemma>пончо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vestaĵo">mantelo</lemma>
+    <lemma>ponĉo</lemma>
+    <lemma>pelerine</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Kleidungsstück">Umhang</lemma>
+    <lemma>Poncho</lemma>
+    <lemma>pelerine</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cape</lemma>
+    <lemma>poncho</lemma>
+  </synset>
+</multilingual-synset>

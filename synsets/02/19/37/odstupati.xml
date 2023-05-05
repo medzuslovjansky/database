@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21937"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21937"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      odstųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уступаць</lemma>
+    <lemma>саступаць</lemma>
+    <lemma>пераступаць</lemma>
+    <lemma>здавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>не се предавай</lemma>
+    <lemma>дай</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="výnos">postupovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>povlačiti se</lemma>
+    <lemma>odustajati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапува</lemma>
+    <lemma>дава</lemma>
+    <lemma>предава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustępować</lemma>
+    <lemma>cedować</lemma>
+    <lemma>rezygnować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уступать</lemma>
+    <lemma>сдаваться</lemma>
+    <lemma>отдавать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="výnos">postupovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvigni</lemma>
+    <lemma>odreči</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повлачити се</lemma>
+    <lemma>одустајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поступатися</lemma>
+    <lemma>іти на поступки</lemma>
+    <lemma>здаватися</lemma>
+    <lemma>віддавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>produktokvanto</lemma>
+    <lemma>cedante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ausbeute abtreten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toegeven</lemma>
+    <lemma>opgeven</lemma>
+    <lemma annotation="van">afzien</lemma>
+  </synset>
+</multilingual-synset>

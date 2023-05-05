@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20212"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20212"
+      steen:addition="(taže, tože)"
+      steen:pos="pron.dem."
+      steen:type="1"
+    >
+      tojže
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>той самы</lemma>
+    <lemma>той жа</lemma>
+    <lemma>той жа самы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>същото</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tentýž</lemma>
+    <lemma>stejný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исто</lemma>
+    <lemma>истите</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tenże</lemma>
+    <lemma>ten sam</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тот самый</lemma>
+    <lemma>тот же</lemma>
+    <lemma>тот же самый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ten istý</lemma>
+    <lemma>rovnaký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ista, ista">enaki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="иста, исто">исти</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>той самий</lemma>
+    <lemma>той же</lemma>
+    <lemma>той же самий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>la sama</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>das Gleiche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dezelfde</lemma>
+  </synset>
+</multilingual-synset>

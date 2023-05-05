@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17216"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17216" steen:pos="m.pl." steen:type="1" steen:genesis="E">
+      čitkody
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="для гульняў">чыткоды</lemma>
+    <lemma>чыты</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чийтове</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pro hry">cheaty</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prevare</lemma>
+    <lemma>prijevare</lemma>
+    <lemma>obmane</lemma>
+    <lemma>podvale</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>измами</lemma>
+    <lemma>мами</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do gier">kody</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="для игр">читы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="pre hry">cheaty</lemma>
+    <lemma>číty</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>goljufije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хакови</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="до ігор">чіткоди</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trompantoj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Cheats</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cheats</lemma>
+  </synset>
+</multilingual-synset>

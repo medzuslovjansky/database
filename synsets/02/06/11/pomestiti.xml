@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20611"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20611"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      poměstiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>змясціць</lemma>
+    <lemma>утоўпіць</lemma>
+    <lemma>паставіць</lemma>
+    <lemma>даставіць</lemma>
+    <lemma>змесцаваць</lemma>
+    <lemma>змясціць</lemma>
+    <lemma>размясціць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>публикувате</lemma>
+    <lemma>да</lemma>
+    <lemma>пригодени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ubytovat</lemma>
+    <lemma>umístit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">smjestiti</lemma>
+    <lemma annotation="se">namjestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смести</lemma>
+    <lemma>приспособи</lemma>
+    <lemma>намест</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umieścić</lemma>
+    <lemma>zakwaterować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поместить</lemma>
+    <lemma>поставить</lemma>
+    <lemma>разместить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ubytovať</lemma>
+    <lemma>umiestniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>najti</lemma>
+    <lemma annotation="v hotel, apartma">poročilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сместити</lemma>
+    <lemma annotation="у хотелу, апартману">пријавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помістити</lemma>
+    <lemma>поставити</lemma>
+    <lemma>розмістити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akomodi</lemma>
+    <lemma>loĝigi</lemma>
+    <lemma>toleri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zubringen</lemma>
+    <lemma>Lodge</lemma>
+    <lemma>Aufmachungen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huisvesten</lemma>
+    <lemma>onderdak bieden</lemma>
+    <lemma>onderbrengen</lemma>
+  </synset>
+</multilingual-synset>

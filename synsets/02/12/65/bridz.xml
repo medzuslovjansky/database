@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21265"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21265" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      bridž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="гульня">брыдж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бридж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hra">bridž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="kartaška igra">bridž</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="игра со карти">бриџ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brydż</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="игра">бридж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hra">bridž</lemma>
+    <lemma annotation="hra">bridge</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bridž</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="игра с картама">бриџ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="гра">бридж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ludo">ponto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bridge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bridge</lemma>
+  </synset>
+</multilingual-synset>

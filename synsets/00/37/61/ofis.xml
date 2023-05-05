@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3761"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3761" steen:pos="m." steen:type="1" steen:genesis="I">
+      ofis
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>офіс</lemma>
+    <lemma>бюро</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>офис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kancelář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kancelarija</lemma>
+    <lemma>ured</lemma>
+    <lemma>pisarnica</lemma>
+    <lemma>biro</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>канцеларија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biuro</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>офис</lemma>
+    <lemma>бюро</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kancelária</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kanzelarija</lemma>
+    <lemma>pisarniški</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>канзеларија</lemma>
+    <lemma>уред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>офіс</lemma>
+    <lemma>бюро</lemma>
+    <lemma>контора</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oficejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Büro</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kantoor</lemma>
+    <lemma>bureau</lemma>
+  </synset>
+</multilingual-synset>

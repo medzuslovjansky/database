@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21874"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21874"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      odstranjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выдаляць</lemma>
+    <lemma>устараняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>премахване</lemma>
+    <lemma>отстраняване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odstraňovat</lemma>
+    <lemma>mazat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odstranjivati</lemma>
+    <lemma>uklanjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстранува</lemma>
+    <lemma>трга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>usuwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>удалять</lemma>
+    <lemma>устранять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odstraňovať</lemma>
+    <lemma>mazať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odstranitvi odstrani</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одстрањивати</lemma>
+    <lemma>уклањати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>видаляти</lemma>
+    <lemma>усувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forigo</lemma>
+    <lemma>forigu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>löschen</lemma>
+    <lemma>entfernen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwijderen</lemma>
+    <lemma>weghalen</lemma>
+  </synset>
+</multilingual-synset>

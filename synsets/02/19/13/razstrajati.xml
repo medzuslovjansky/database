@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21913"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21913"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      råzstrajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расстройваць</lemma>
+    <lemma>разладжваць</lemma>
+    <lemma>засмучаць</lemma>
+    <lemma>смуціць</lemma>
+    <lemma>хваляваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>притеснява се разстрои</lemma>
+    <lemma>извежда от мелодия</lemma>
+    <lemma>разваливать</lemma>
+    <lemma>унищожи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozrušovt</lemma>
+    <lemma>rozlaďovat</lemma>
+    <lemma>štvát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>smetati</lemma>
+    <lemma>dekoncentrirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>растројува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeszkadzać</lemma>
+    <lemma>rozstrajać</lemma>
+    <lemma>dezorganizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расстраивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozrušovt</lemma>
+    <lemma>rozlaďovat</lemma>
+    <lemma>štvať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>um</lemma>
+    <lemma>nenavaden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сметати</lemma>
+    <lemma>деконцентрисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розстроювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Turbo-folk</lemma>
+    <lemma>renversita</lemma>
+    <lemma>malaperu melodio</lemma>
+    <lemma>disorganise</lemma>
+    <lemma>desorganizar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>stören</lemma>
+    <lemma>verärgert</lemma>
+    <lemma>verstimmt setzen</lemma>
+    <lemma>desorganisieren</lemma>
+    <lemma>disorganisieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verstoren</lemma>
+    <lemma>hinderen</lemma>
+    <lemma annotation="muziekinstrument">ontstemmen</lemma>
+  </synset>
+</multilingual-synset>

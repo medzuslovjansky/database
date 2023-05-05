@@ -4,9 +4,6 @@
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
-  xsi:schemaLocation="
-    https://interslavic.fun/schemas/zonal-wordnet.xsd file://../../../../schemas/zonal-wordnet.xsd
-    https://interslavic.fun/schemas/steenbergen.xsd file://../../../../schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma steen:id="35767" steen:pos="f." steen:type="2" steen:same="ub pl cz">
@@ -16,24 +13,19 @@
       altanka
     </lemma>
   </synset>
-  <synset lang="en">
-    <lemma>gazebo</lemma>
-  </synset>
-  <synset lang="ru">
-    <lemma>беседка</lemma>
+  <synset lang="be">
     <lemma>альтанка</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>paviljon</lemma>
-    <lemma>vrtna uta</lemma>
-    <lemma>pergola</lemma>
+  <synset lang="bg">
+    <lemma>беседка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>altán</lemma>
+    <lemma>altánek</lemma>
+    <lemma>besídka</lemma>
   </synset>
   <synset lang="hr">
     <lemma>sjenica</lemma>
-  </synset>
-  <synset lang="sr-Cyrl">
-    <lemma>сеница</lemma>
-    <lemma>пергола</lemma>
   </synset>
   <synset lang="mk">
     <lemma>сеница</lemma>
@@ -41,7 +33,40 @@
     <lemma>тенда</lemma>
     <lemma>летниковец</lemma>
   </synset>
-  <synset lang="bg">
+  <synset lang="pl">
+    <lemma>altanka</lemma>
+  </synset>
+  <synset lang="ru">
     <lemma>беседка</lemma>
+    <lemma annotation="редк.">альтанка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>altán</lemma>
+    <lemma>altánok</lemma>
+    <lemma>besiedka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>paviljon</lemma>
+    <lemma>vrtna uta</lemma>
+    <lemma>pergola</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сеница</lemma>
+    <lemma>пергола</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>альтанка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pavilono</lemma>
+    <lemma>laŭbo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gartenhaus</lemma>
+    <lemma>Laube</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>prieel</lemma>
+    <lemma>tuinhuisje</lemma>
   </synset>
 </multilingual-synset>

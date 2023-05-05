@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10681"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10681"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      pod vodstvom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пад кіраваннем</lemma>
+    <lemma>пад кіраўніцтвам</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>под командването</lemma>
+    <lemma>под ръководството на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pod velením</lemma>
+    <lemma>pod vedením</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pod vodstvom</lemma>
+    <lemma>pod rukovodstvom</lemma>
+    <lemma>pod vođenjem</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>под водство на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pod przewodnictwem</lemma>
+    <lemma>pod rozkazami</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>под управлением</lemma>
+    <lemma>под руководством</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pod velením</lemma>
+    <lemma>pod vedením</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pod vodstvom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>под вођством</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>під управлінням</lemma>
+    <lemma>під керівництвом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sub la komando de</lemma>
+    <lemma>sub la gvidado de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unter dem Kommando von</lemma>
+    <lemma>unter der Leitung von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onder leiding van</lemma>
+  </synset>
+</multilingual-synset>

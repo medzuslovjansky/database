@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28925"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28925" steen:pos="m." steen:type="2" steen:same="v pl">
+      obryvȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абрывак</lemma>
+    <lemma>шматок</lemma>
+    <lemma>выразка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на хартия">скрап</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>útržek</lemma>
+    <lemma annotation="papíru">ústřižek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>papirić</lemma>
+    <lemma>komadić papira</lemma>
+    <lemma>komad papira</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ливче</lemma>
+    <lemma>остаток од хартија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="papieru">skrawek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обрывок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>útržok</lemma>
+    <lemma annotation="papiera">ústrižok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kos</lemma>
+    <lemma annotation="papir">kos</lemma>
+    <lemma>papir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>комадић</lemma>
+    <lemma annotation="папира">парче</lemma>
+    <lemma>папирић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уривок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de papero">peceto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Papier">Schrott</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>snipper</lemma>
+  </synset>
+</multilingual-synset>

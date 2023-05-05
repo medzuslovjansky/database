@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11777"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11777"
+      steen:addition="(råzględi)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="bg"
+    >
+      råzględěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разгледзець</lemma>
+    <lemma>разглядзець</lemma>
+    <lemma>вывучыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>помисли</lemma>
+    <lemma>проучи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvážit</lemma>
+    <lemma>prozkoumat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razmotriti</lemma>
+    <lemma>raspraviti</lemma>
+    <lemma>pretresti</lemma>
+    <lemma>proučiti</lemma>
+    <lemma>ispitati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разгледа</lemma>
+    <lemma>испита</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozważyć</lemma>
+    <lemma>rozpatrzeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассмотреть</lemma>
+    <lemma>разглядеть</lemma>
+    <lemma>изучить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvážiť</lemma>
+    <lemma>preskúmať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>menijo</lemma>
+    <lemma>preuči</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>размотрити</lemma>
+    <lemma>испитати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розглянути</lemma>
+    <lemma>розгледіти</lemma>
+    <lemma>вивчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsideri</lemma>
+    <lemma>ekzameni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>betrachten</lemma>
+    <lemma>untersuchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overwegen</lemma>
+    <lemma>in behandeling nemen</lemma>
+  </synset>
+</multilingual-synset>

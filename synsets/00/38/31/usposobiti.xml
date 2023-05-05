@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3831"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3831"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru yu mk"
+    >
+      usposobiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыстасаваць</lemma>
+    <lemma>прытарнаваць</lemma>
+    <lemma>падрыхтаваць</lemma>
+    <lemma>зрыхтаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>включи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="k něčemu">připravit</lemma>
+    <lemma>vyškolit</lemma>
+    <lemma>udělat způsobilým</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osposobiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оспособи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przysposobić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приспособить</lemma>
+    <lemma>подготовить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="k niečomu">pripravovať</lemma>
+    <lemma>vyškoliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оспособити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>підготувати</lemma>
+    <lemma>пристосувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvalifiki</lemma>
+    <lemma annotation="por tasko">preparu</lemma>
+    <lemma>taŭgas el</lemma>
+    <lemma>redonu kapabla</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aktivieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorbereiden</lemma>
+    <lemma>geschikt maken</lemma>
+    <lemma>outilleren</lemma>
+    <lemma>uitrusten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4232" steen:pos="m.anim." steen:type="5">gasitelj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пажарны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пожарникар</lemma>
+    <lemma>огнеборец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hasič</lemma>
+    <lemma>požárník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vatrogasac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пожарникар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strażak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пожарный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hasič</lemma>
+    <lemma>požiarnik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gasilec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ватрогасац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пожежник</lemma>
+    <lemma>пожежний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fajrestingisto</lemma>
+    <lemma>fajrobrigadisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Feuerwehrmann</lemma>
+    <lemma>Feuerwehrmann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brandweerman</lemma>
+  </synset>
+</multilingual-synset>

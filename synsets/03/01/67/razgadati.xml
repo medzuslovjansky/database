@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30167"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30167" steen:pos="v.tr. pf.">råzgadati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разгадаць</lemma>
+    <lemma>адгадаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разгадаят</lemma>
+    <lemma>да реши да се разбере</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozluštit</lemma>
+    <lemma>vyřešit</lemma>
+    <lemma>vyluštit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>riješiti</lemma>
+    <lemma>razriješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одгатне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zagadkę, krzyżówkę">rozwiązać</lemma>
+    <lemma>pojąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разгадать</lemma>
+    <lemma>отгадать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozlúštiť</lemma>
+    <lemma>vyriešiť</lemma>
+    <lemma>vylúštiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rešiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розгадати</lemma>
+    <lemma>відгадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unriddle</lemma>
+    <lemma>solvi</lemma>
+    <lemma>klafto eksteren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>enträtseln</lemma>
+    <lemma>lösen</lemma>
+    <lemma>ausloten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontraadselen</lemma>
+  </synset>
+</multilingual-synset>

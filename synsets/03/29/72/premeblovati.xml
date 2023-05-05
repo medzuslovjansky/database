@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32972"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32972"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v pl sh bg"
+    >
+      prěmeblovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераставіць мэблю</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преустройство на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znovu vybavit</lemma>
+    <lemma annotation="nábytek">znovu zařídit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obnoviti</lemma>
+    <lemma>osvježiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>освежи</lemma>
+    <lemma>промени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przemeblować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переставить мебель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znovu vybaviť</lemma>
+    <lemma annotation="nábytok">znovu zariadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obnoviti</lemma>
+    <lemma>osvežiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обновити</lemma>
+    <lemma>освежити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перемеблювати</lemma>
+    <lemma>переставити меблі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>refurnish</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>neu möblieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hermeubileren</lemma>
+  </synset>
+</multilingual-synset>

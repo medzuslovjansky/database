@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4475"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4475"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      sȯvětovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раіць</lemma>
+    <lemma>радзіць</lemma>
+    <lemma>падказваць</lemma>
+    <lemma>рэкамендаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>съветвам ви</lemma>
+    <lemma>адвокат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>radit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>savjetovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>советува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>radzić</lemma>
+    <lemma>doradzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>советовать</lemma>
+    <lemma>подсказывать</lemma>
+    <lemma>рекомендовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>radiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svetovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саветовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>радити</lemma>
+    <lemma>підказувати</lemma>
+    <lemma>рекомендувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsili</lemma>
+    <lemma>konsilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beraten</lemma>
+    <lemma>Counsel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanraden</lemma>
+    <lemma>adviseren</lemma>
+  </synset>
+</multilingual-synset>

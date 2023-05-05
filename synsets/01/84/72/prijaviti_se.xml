@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18472"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18472" steen:pos="v.refl. pf." steen:type="1">
+      prijaviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у сістэму">увайсці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>влезте</lemma>
+    <lemma>влезте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přihlásit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="računalo">prijaviti se</lemma>
+    <lemma>ulogovati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се пријави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zalogować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в систему">войти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prihlásiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="računalnik">prijavite</lemma>
+    <lemma>se prijavite na</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="компјутер">пријавити се</lemma>
+    <lemma>улоговати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="у систему">увійти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ensaluti</lemma>
+    <lemma>saluti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anmelden</lemma>
+    <lemma>anmelden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inloggen</lemma>
+  </synset>
+</multilingual-synset>

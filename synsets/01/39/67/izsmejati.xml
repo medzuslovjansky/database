@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13967"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13967"
+      steen:addition="(izsměje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izsmějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>высмеяць</lemma>
+    <lemma>кпіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>осмея</lemma>
+    <lemma>изсмея</lemma>
+    <lemma>подиграя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zesměšnit</lemma>
+    <lemma>vysmát se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ismijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исмее</lemma>
+    <lemma>исмеја</lemma>
+    <lemma>мајтапи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyśmiać</lemma>
+    <lemma>ośmieszyć</lemma>
+    <lemma>wykpić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>высмеять</lemma>
+    <lemma>насмехнуться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sa">vysmiať</lemma>
+    <lemma>zosmešniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ismijati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исмејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>висміяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>imita</lemma>
+    <lemma>ridindigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mock</lemma>
+    <lemma>Spott</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitlachen</lemma>
+    <lemma>bespotten</lemma>
+  </synset>
+</multilingual-synset>

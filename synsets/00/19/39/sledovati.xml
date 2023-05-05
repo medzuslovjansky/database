@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1939"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1939"
+      steen:pos="#v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      slědovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ісці</lemma>
+    <lemma>хадзіць</lemma>
+    <lemma>ехаць</lemma>
+    <lemma>ездзіць</lemma>
+    <lemma>накіроўвацца</lemma>
+    <lemma annotation="следам, услед" />
+    <lemma>наследаваць</lemma>
+    <lemma>вынікаць</lemma>
+    <lemma>рухацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>следвайте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sledovat</lemma>
+    <lemma>stopovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slijediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>следи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śledzić</lemma>
+    <lemma>następować</lemma>
+    <lemma>podążać za kimś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>следовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sledovať</lemma>
+    <lemma>stopovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="gre za nekatere">slediti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="ићи за неким">следити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слідувати</lemma>
+    <lemma>переслідувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekvi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Folgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volgen</lemma>
+  </synset>
+</multilingual-synset>

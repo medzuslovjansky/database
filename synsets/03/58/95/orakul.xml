@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35895"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35895"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v j"
+      steen:genesis="I"
+    >
+      orakul
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аракул</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оракул</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>věštec</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prorok</lemma>
+    <lemma>orakul</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оракул</lemma>
+    <lemma>пророчиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrocznia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оракул</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>veštec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prerok</lemma>
+    <lemma>Oracle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пророк</lemma>
+    <lemma>оракул</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оракул</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plejsanktejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Orakel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orakel</lemma>
+  </synset>
+</multilingual-synset>

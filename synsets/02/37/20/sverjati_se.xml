@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23720"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23720"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      svěrjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даручацца</lemma>
+    <lemma>давярацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>откровенничать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svěřovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">povjeravati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се довери</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwierzać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доверяться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zverovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaupa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поверавати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>довірятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fidas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vertrauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>iemand in vertrouwen nemen</lemma>
+  </synset>
+</multilingual-synset>

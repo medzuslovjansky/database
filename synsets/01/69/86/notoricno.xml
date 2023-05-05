@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16986"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16986"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="uk z sl"
+      steen:genesis="I"
+    >
+      notorično
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>агульнавядома</lemma>
+    <lemma>звыкла</lemma>
+    <lemma>звычайна</lemma>
+    <lemma>прывычна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пословично</lemma>
+    <lemma>ноторно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>notoricky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>notorno</lemma>
+    <lemma>općepoznato</lemma>
+    <lemma>očigledno</lemma>
+    <lemma>ozloglašeno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ноторно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>notorycznie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>общеизвестно</lemma>
+    <lemma>привычно</lemma>
+    <lemma>обычно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>notoricky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>notoričen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ноторно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звично</lemma>
+    <lemma>зазвичай</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fifame</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>notorically</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>notoir</lemma>
+  </synset>
+</multilingual-synset>

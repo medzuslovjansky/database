@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7251" steen:pos="m.anim." steen:type="1">
+      dostavitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пастаўшчык</lemma>
+    <lemma>правайдэр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доставчик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dodavatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dobavljač</lemma>
+    <lemma>opskrbljìvač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доставувач</lemma>
+    <lemma>испорачувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поставщик</lemma>
+    <lemma>провайдер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dodávateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dobavitelja</lemma>
+    <lemma>dobavitelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>добављач</lemma>
+    <lemma>снабдевач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>постачальник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provizanto</lemma>
+    <lemma>provizanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anbieter</lemma>
+    <lemma>Zulieferer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leverancier</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="327"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="327" steen:pos="f." steen:type="1">lisica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліса</lemma>
+    <lemma>лісіца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лисица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="zvíře">liška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lisica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лисица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lisica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лиса</lemma>
+    <lemma>лисица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="zviera">líška</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lisica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лисица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лисиця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vulpo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Fuchs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vos</lemma>
+  </synset>
+</multilingual-synset>

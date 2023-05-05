@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15195"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15195"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      vzorny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мадэльны</lemma>
+    <lemma>узорны</lemma>
+    <lemma>шаблонны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>примерен</lemma>
+    <lemma>образцов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzorný</lemma>
+    <lemma>příkladný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uzoran</lemma>
+    <lemma>primjeran</lemma>
+    <lemma>besprijekoran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>примерен</lemma>
+    <lemma>идеален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wzorowy</lemma>
+    <lemma>przykładny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>модельный</lemma>
+    <lemma>образцовый</lemma>
+    <lemma>идеальный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vzorný</lemma>
+    <lemma>príkladný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izjemna in zgledno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узоран</lemma>
+    <lemma>примеран</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>модельний</lemma>
+    <lemma>зразковий</lemma>
+    <lemma>ідеальний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>modelo</lemma>
+    <lemma>ekzempla</lemma>
+    <lemma>idealo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Modell</lemma>
+    <lemma>beispielhafte</lemma>
+    <lemma>ideal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorbeeldig</lemma>
+    <lemma>model-</lemma>
+  </synset>
+</multilingual-synset>

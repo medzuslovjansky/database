@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28010"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28010" steen:pos="f." steen:type="1">najemnica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наймічка</lemma>
+    <lemma>наймітка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наемница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žoldnéřka</lemma>
+    <lemma>najtá žena</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>najamnici</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наемничка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>najemniczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наёмница</lemma>
+    <lemma>наёмная работница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žoldnieka</lemma>
+    <lemma>najatá žena</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plačanci</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>најамница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наймичка</lemma>
+    <lemma>найомна робітниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mercenario</lemma>
+    <lemma>dungito wageworker</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Söldner</lemma>
+    <lemma>Taglöhner</lemma>
+    <lemma>Lohnarbeiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huurlinge</lemma>
+  </synset>
+</multilingual-synset>

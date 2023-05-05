@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33152"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33152"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z sl"
+    >
+      nastavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэгуляваць</lemma>
+    <lemma>наладжваць</lemma>
+    <lemma>стрэнчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>коригирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastavovat</lemma>
+    <lemma>seřizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podešavati</lemma>
+    <lemma>namještati</lemma>
+    <lemma>štelti</lemma>
+    <lemma>rihtati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилагодува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>regulować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>регулировать</lemma>
+    <lemma>настраивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastavovať</lemma>
+    <lemma>nastavovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>urejanje</lemma>
+    <lemma>prilagajanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>регулисати</lemma>
+    <lemma>подешавати</lemma>
+    <lemma>намештати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>регулювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alĝustigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einstellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afstellen</lemma>
+  </synset>
+</multilingual-synset>

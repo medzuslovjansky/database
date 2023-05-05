@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35188"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35188"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      higiena
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гігіена</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чистота</lemma>
+    <lemma>хигиена</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hygiena</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>higijena</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хигиена</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>higiena</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гигиена</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hygiena</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>higiena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хигијена</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гігієна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>higieno</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hygiene</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hygiëne</lemma>
+  </synset>
+</multilingual-synset>

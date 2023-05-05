@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10063"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10063"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      odstųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адступаць</lemma>
+    <lemma>варочацца</lemma>
+    <lemma>вяртацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отстъпи</lemma>
+    <lemma>да се оттегли</lemma>
+    <lemma annotation="интр.">за да отстъпи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustupovat</lemma>
+    <lemma annotation="dozadu">odstupovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odstupati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапува</lemma>
+    <lemma>повлекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cofać się</lemma>
+    <lemma>wycofywać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отступать</lemma>
+    <lemma>возвращаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustupovať</lemma>
+    <lemma annotation="dozadu">odstupovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odstopajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одступати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відступати</lemma>
+    <lemma>повертатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Backtrack</lemma>
+    <lemma>retiriĝo</lemma>
+    <lemma annotation="intr.">retiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zurückverfolgungs</lemma>
+    <lemma>Rückzug</lemma>
+    <lemma annotation="intr.">zurückziehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugtreden</lemma>
+    <lemma>zich terugtrekken</lemma>
+  </synset>
+</multilingual-synset>

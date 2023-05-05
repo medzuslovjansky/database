@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21442"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21442"
+      steen:addition="(posęde)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      posęsti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завалодаць</lemma>
+    <lemma>заўладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се хванат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovládnout</lemma>
+    <lemma>získat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovladati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завладее</lemma>
+    <lemma>запоседне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>posiąść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завладеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ovládnuť</lemma>
+    <lemma>získať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posest</lemma>
+    <lemma>nadzor</lemma>
+    <lemma>zaseči</lemma>
+    <lemma>zapleniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посести</lemma>
+    <lemma>овладати</lemma>
+    <lemma>заузети</lemma>
+    <lemma>запленити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заволодіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akiri posedon de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gewinnen Besitz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezitten</lemma>
+  </synset>
+</multilingual-synset>

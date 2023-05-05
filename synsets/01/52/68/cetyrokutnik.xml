@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15268"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15268"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ub pl sl hr"
+    >
+      četyrokųtnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чатырохкутнік</lemma>
+    <lemma>чатырохвугольнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>четириъгълник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čtyřúhelník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>četverokut</lemma>
+    <lemma>četverokutnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>четириаголник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czworobok</lemma>
+    <lemma>czworokąt</lemma>
+    <lemma>prostokąt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>четырёхугольник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>štvoruholník</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>štirikotnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>четвороугао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чотирикутник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvarlatero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Viereck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vierkant</lemma>
+  </synset>
+</multilingual-synset>

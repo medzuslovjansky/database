@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36609" steen:pos="n.sg." steen:type="1">izpȯlnjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкананне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изпълнение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplnění</lemma>
+    <lemma>splnění</lemma>
+    <lemma>provedení</lemma>
+    <lemma>realizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispunjenje</lemma>
+    <lemma>ostvarenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исполнување</lemma>
+    <lemma annotation="задача">извршување</lemma>
+    <lemma>реализација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spełnienie</lemma>
+    <lemma>wykonanie</lemma>
+    <lemma>wypełnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выполнение</lemma>
+    <lemma>исполнение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyplnenie</lemma>
+    <lemma>splnenie</lemma>
+    <lemma>vykonanie</lemma>
+    <lemma>realizácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvedba</lemma>
+    <lemma annotation="npr. enkrat, zaloge">izpolnitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>остварење</lemma>
+    <lemma annotation="нпр. снова, жеља">испуњење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виконання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plenumon</lemma>
+    <lemma annotation="de tasko">ekzekuto</lemma>
+    <lemma>efektivigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erfüllung</lemma>
+    <lemma annotation="einer Aufgabe">Ausführung</lemma>
+    <lemma>Realisierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervulling</lemma>
+    <lemma>uitvoering</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36908"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36908"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      råzjedati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>раз&apos;ядаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разяждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozežírat</lemma>
+    <lemma>korodovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>erodirati</lemma>
+    <lemma>nagrizati</lemma>
+    <lemma>razjedati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разјадува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zżerać</lemma>
+    <lemma>korodować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разъедать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rozožierať</lemma>
+    <lemma>korodovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>razjedati</lemma>
+    <lemma>razžirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разједати</lemma>
+    <lemma>нагризати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>роз&apos;їдати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>erozi</lemma>
+    <lemma>korodigi</lemma>
+    <lemma>manĝi for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erodieren</lemma>
+    <lemma>korrodieren</lemma>
+    <lemma>wegfressen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aantasten</lemma>
+    <lemma>aanvreten</lemma>
+    <lemma>eroderen</lemma>
+  </synset>
+</multilingual-synset>

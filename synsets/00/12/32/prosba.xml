@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1232" steen:pos="f." steen:type="1">prośba</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>просьба</lemma>
+    <lemma>шапкаванне</lemma>
+    <lemma>запытанне</lemma>
+    <lemma>запыт</lemma>
+    <lemma>запрос</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>заявка за обжалване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prosba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>molba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>барање</lemma>
+    <lemma>жалба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prośba</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>просьба</lemma>
+    <lemma>запрос</lemma>
+    <lemma>ходатайство</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prosba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Prošnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>молба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прохання</lemma>
+    <lemma>запит</lemma>
+    <lemma>клопотання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peto</lemma>
+    <lemma>apelacio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anfrage</lemma>
+    <lemma>Beschwerde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verzoek</lemma>
+  </synset>
+</multilingual-synset>

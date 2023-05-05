@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10855"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10855" steen:pos="adj." steen:type="1" steen:genesis="I">
+      policijny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паліцыянт</lemma>
+    <lemma annotation="зап.">паліцэйскі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>полиция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>policejní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>policijski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>полициски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>policyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полицейский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>policajné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>policist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>полицијски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поліційний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>policanoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Polizei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>politie-</lemma>
+  </synset>
+</multilingual-synset>

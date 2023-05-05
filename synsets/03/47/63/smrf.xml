@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34763"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34763"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl sl~ bg"
+    >
+      smrf
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смурф</lemma>
+    <lemma annotation="персанаж мультфільма">смурфік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Смурф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šmoula</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>štrumpf</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="цртан лик">штрумф</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smerf</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смурф</lemma>
+    <lemma annotation="персонаж мультфильма">смурфик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šmolko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>štrumf</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штрумф</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>смурф</lemma>
+    <lemma annotation="персонаж мультфільму">смурфик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Pitufo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlumpf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>smurf</lemma>
+  </synset>
+</multilingual-synset>

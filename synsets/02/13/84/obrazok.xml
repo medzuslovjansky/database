@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21384"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21384" steen:pos="m." steen:type="1">obrazȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карцінка</lemma>
+    <lemma>малюнак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>снимка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrázek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sličica</lemma>
+    <lemma>slika</lemma>
+    <lemma>snimak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слика</lemma>
+    <lemma>снимка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrazek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>картинка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrázok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slika</lemma>
+    <lemma>slika (foto).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слика</lemma>
+    <lemma annotation="фото.">снимак</lemma>
+    <lemma annotation="филм">сличица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>картинка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bildo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bild</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plaatje</lemma>
+  </synset>
+</multilingual-synset>

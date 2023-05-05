@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7179"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7179"
+      steen:addition="(dȯlžna, dȯlžno)"
+      steen:pos="adj."
+      steen:type="3"
+      steen:same="ru"
+    >
+      dȯlžen
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павінен</lemma>
+    <lemma>вінен</lemma>
+    <lemma>мусіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>длъжен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>povinen</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>длъжьнъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obavezan</lemma>
+    <lemma>dužan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>должен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powinien</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>должен</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>povinný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vezan</lemma>
+    <lemma>vezan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дужан</lemma>
+    <lemma>обавезан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зобов&apos;язаний</lemma>
+    <lemma>повинен</lemma>
+    <lemma>мусить</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>devigita</lemma>
+    <lemma>devontigita</lemma>
+    <lemma>nepre</lemma>
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verpflichtet</lemma>
+    <lemma>verpflichtet</lemma>
+    <lemma>gebunden</lemma>
+    <lemma>aufgrund</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verplicht</lemma>
+    <lemma>verschuldigd</lemma>
+  </synset>
+</multilingual-synset>

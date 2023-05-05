@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16426"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16426" steen:pos="adj." steen:type="2" steen:same="sh">
+      dvojčany
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>двайковы</lemma>
+    <lemma>бінарны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двоичен</lemma>
+    <lemma>бинарен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>binární</lemma>
+    <lemma>dvojkový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>binarni</lemma>
+    <lemma>dvočlan</lemma>
+    <lemma>dvojediničan</lemma>
+    <lemma>dvostruk</lemma>
+    <lemma>udvojen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бинарен</lemma>
+    <lemma>двоен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dwójkowy</lemma>
+    <lemma>dwuczłonowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двоичный</lemma>
+    <lemma>бинарный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>binárny</lemma>
+    <lemma>dvojkový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>binarni</lemma>
+    <lemma>dvojni</lemma>
+    <lemma>dvojni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бинарни</lemma>
+    <lemma>двојан</lemma>
+    <lemma>двострук</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>двійковий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>duumaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>binär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>binair</lemma>
+  </synset>
+</multilingual-synset>

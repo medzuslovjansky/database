@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5976"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5976" steen:pos="m." steen:type="1">tvoriteljnik</lemma>
+    <lemma steen:id="5976" steen:pos="m." steen:type="1">
+      tvoriteljny padež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>творны склон</lemma>
+    <lemma annotation="грам.">інструменталіс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="факт">инструментални</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>instrumental</lemma>
+    <lemma>7. pád</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>instrumental padeži</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">инструментал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narzędnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>творительный падеж</lemma>
+    <lemma annotation="грам.">инструменталис</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>instrumental</lemma>
+    <lemma>7. pád</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>instrumentalna padeži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="падеж">инструментал</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>орудний відмінок</lemma>
+    <lemma annotation="грам.">инструменталис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kazo">instrumenta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fall">instrumental</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instrumentalis</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21160"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21160" steen:pos="m." steen:type="2" steen:same="ru pl">
+      spust
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дрэнаж</lemma>
+    <lemma>сцёк</lemma>
+    <lemma>спуск вады</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дренаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvodnění</lemma>
+    <lemma>drenáž</lemma>
+    <lemma>výpust</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvod</lemma>
+    <lemma>ispust</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дренажа</lemma>
+    <lemma>испуст</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kanalizacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дренаж</lemma>
+    <lemma>сток</lemma>
+    <lemma>спуск воды</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>odvodnenie</lemma>
+    <lemma>drenáž</lemma>
+    <lemma>výpust</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>možganov</lemma>
+    <lemma>drenaža</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвод</lemma>
+    <lemma>дренажа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дренаж</lemma>
+    <lemma>стік</lemma>
+    <lemma>спуск води</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>drenaje</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drainage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afvoer</lemma>
+    <lemma>afwatering</lemma>
+  </synset>
+</multilingual-synset>

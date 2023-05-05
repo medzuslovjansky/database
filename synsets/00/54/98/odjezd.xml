@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5498"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5498" steen:pos="m." steen:type="1">odjezd</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ад&apos;езд</lemma>
+    <lemma>адыход</lemma>
+    <lemma>адпраўленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вижте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odjezd</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odlazak</lemma>
+    <lemma>polazak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одење</lemma>
+    <lemma>поаѓање</lemma>
+    <lemma>заминување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odlot</lemma>
+    <lemma>odjazd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отъезд</lemma>
+    <lemma>отправление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odchod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="vozila">odhod</lemma>
+    <lemma>vzletna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="превозног средства">одлазак</lemma>
+    <lemma>полетање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>від&apos;їзд</lemma>
+    <lemma>відправлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>foriro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abfahrt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="per vervoermiddel">vertrek</lemma>
+  </synset>
+</multilingual-synset>

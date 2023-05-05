@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20801"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20801"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="ru cz"
+    >
+      vȯznikati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узнікаць</lemma>
+    <lemma>паўставаць</lemma>
+    <lemma>з&apos;яўляцца</lemma>
+    <lemma>апынацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възниквам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vznikat</lemma>
+    <lemma>objevovat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izranjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>возникнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wynurzać się</lemma>
+    <lemma>wyłaniać się</lemma>
+    <lemma>pojawiać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возникать</lemma>
+    <lemma>появляться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vznikať</lemma>
+    <lemma>objavovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izranjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>израњати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>виникати</lemma>
+    <lemma>з&apos;являтися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>levigxu</lemma>
+    <lemma>emerĝas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entstehen</lemma>
+    <lemma>entstehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opkomen</lemma>
+  </synset>
+</multilingual-synset>

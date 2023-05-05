@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16832"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16832" steen:pos="n." steen:type="2" steen:same="v~ bg">
+      prěråzkazańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераказ</lemma>
+    <lemma>пераказванне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преразказ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převyprávění</lemma>
+    <lemma>parafráze</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>parafraza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прераскажување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>parafraza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пересказ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prerozprávanie</lemma>
+    <lemma>parafráza</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>parafraza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парафраза</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переказ</lemma>
+    <lemma>парафраза</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parafraza</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Paraphrase</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenvatting</lemma>
+    <lemma>parafrase</lemma>
+  </synset>
+</multilingual-synset>

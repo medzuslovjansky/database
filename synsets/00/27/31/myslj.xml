@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2731"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2731" steen:pos="f." steen:type="1">myslj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>думка</lemma>
+    <lemma>мысль</lemma>
+    <lemma>ідэя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мисъл</lemma>
+    <lemma>идея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mysl</lemma>
+    <lemma>myšlenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>misao</lemma>
+    <lemma>zamisao</lemma>
+    <lemma>ideja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мисла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>myśl</lemma>
+    <lemma>idea</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мысль</lemma>
+    <lemma>идея</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>myšlienka</lemma>
+    <lemma>idea</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>misel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мисао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>думка</lemma>
+    <lemma>ідея</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>penso</lemma>
+    <lemma>ideo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gedanken</lemma>
+    <lemma>Idee</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gedachte</lemma>
+  </synset>
+</multilingual-synset>

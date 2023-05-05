@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35172"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35172"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="pl j"
+      steen:genesis="I"
+    >
+      dominacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дамінаванне</lemma>
+    <lemma>панаванне</lemma>
+    <lemma>перавага</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доминация</lemma>
+    <lemma>владение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dominance</lemma>
+    <lemma>nadvláda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dominacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доминација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dominacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доминирование</lemma>
+    <lemma>господство</lemma>
+    <lemma>преобладание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dominancia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dominacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доминација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>домінування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dominadon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vorherrschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dominatie</lemma>
+  </synset>
+</multilingual-synset>

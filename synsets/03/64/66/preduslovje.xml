@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36466"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36466" steen:pos="n." steen:type="2">prěduslovje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перадумова</lemma>
+    <lemma annotation="зап.">перадпасылка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>предпоставка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předpoklad</lemma>
+    <lemma>nezbytná podmínka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preduvjet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предуслов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>warunek wstępny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предпосылка</lemma>
+    <lemma>предусловие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predpoklad</lemma>
+    <lemma>nevyhnutná podmienka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>predpogoj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предуслов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передумова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭkondiĉo</lemma>
+    <lemma>antaŭkondiĉo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Voraussetzung</lemma>
+    <lemma>Vorbedingung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>preconditie</lemma>
+    <lemma>voorwaarde vooraf</lemma>
+  </synset>
+</multilingual-synset>

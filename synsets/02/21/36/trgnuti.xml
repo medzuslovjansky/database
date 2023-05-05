@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22136"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22136"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cs sh"
+    >
+      trgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сарваць</lemma>
+    <lemma annotation="плод">сабраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изберете наглеют</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>natrhat</lemma>
+    <lemma>načesat</lemma>
+    <lemma annotation="ovoce">nasbírat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pobrati</lemma>
+    <lemma>pokupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>собере</lemma>
+    <lemma>обере</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="owoce, kwiaty">zebrać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сорвать</lemma>
+    <lemma annotation="плод">собрать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>natrhať</lemma>
+    <lemma>načesať</lemma>
+    <lemma annotation="ovocie">nazbierať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvigni</lemma>
+    <lemma>dvigni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побрати</lemma>
+    <lemma>покупити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зірвати</lemma>
+    <lemma annotation="плід">зібрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elektu</lemma>
+    <lemma>desxiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pick</lemma>
+    <lemma>zupfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plukken</lemma>
+  </synset>
+</multilingual-synset>

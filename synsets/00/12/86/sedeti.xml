@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1286"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1286"
+      steen:addition="(sědi)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      sěděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сядзець</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>седя</lemma>
+    <lemma>сядам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sedět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sjediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>седам</lemma>
+    <lemma>со седење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>siedzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сидеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sedieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>седети</lemma>
+    <lemma>седити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сидіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sit</lemma>
+    <lemma>sidigxu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sitzen</lemma>
+    <lemma>einen Tisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zitten</lemma>
+  </synset>
+</multilingual-synset>

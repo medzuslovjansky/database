@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27329"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27329" steen:pos="f." steen:type="1">lȯžnosť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ілжа</lemma>
+    <lemma>хлусня</lemma>
+    <lemma>мана</lemma>
+    <lemma>фальш</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в приказките">кривда</lemma>
+    <lemma>неправда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lež</lemma>
+    <lemma>nepravdа</lemma>
+    <lemma>podvod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>laž</lemma>
+    <lemma>neistina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лажност</lemma>
+    <lemma>неправедност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kłamstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ложь</lemma>
+    <lemma>ложность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lož</lemma>
+    <lemma>klamstvo</lemma>
+    <lemma>nepravda</lemma>
+    <lemma>podvod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lie</lemma>
+    <lemma>laž</lemma>
+    <lemma>krivda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лаж</lemma>
+    <lemma>неистина</lemma>
+    <lemma>кривда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>брехня</lemma>
+    <lemma>неправда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mensogo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lüge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leugen</lemma>
+    <lemma>bedrog</lemma>
+    <lemma>onwaarheid</lemma>
+  </synset>
+</multilingual-synset>

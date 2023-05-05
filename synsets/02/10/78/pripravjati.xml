@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21078"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21078"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      pripravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падрыхтоўваць</lemma>
+    <lemma>рыхтаваць</lemma>
+    <lemma annotation="харч.">гатаваць</lemma>
+    <lemma>прыгатоўваць</lemma>
+    <lemma annotation="харч.">варыць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подготви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připravovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pripravljati</lemma>
+    <lemma>kuhati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подготвува</lemma>
+    <lemma>припрема</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gotować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приготовлять</lemma>
+    <lemma>подготавливать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pripravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripraviti</lemma>
+    <lemma>kuhamo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приправљати</lemma>
+    <lemma>кувати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>готувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prepari</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bereiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klaarmaken</lemma>
+    <lemma>bereiden</lemma>
+  </synset>
+</multilingual-synset>

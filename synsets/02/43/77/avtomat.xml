@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24377"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24377" steen:pos="m." steen:type="3" steen:same="ru">
+      avtomat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зброя">аўтамат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>полуавтоматично оръжие</lemma>
+    <lemma>автомат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>samopal</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>automatska puška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="оружје">автомат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karabin maszynowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="оружие">автомат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>samopal</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brzostrelka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>машинка</lemma>
+    <lemma>машинска пушка</lemma>
+    <lemma>аутоматска пушка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>автоматична гвинтівка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sub-mitralo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Maschinenpistole</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>machinegeweer</lemma>
+  </synset>
+</multilingual-synset>

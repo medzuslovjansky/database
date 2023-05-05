@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4883"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4883" steen:pos="intj." steen:type="1">čao!</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чао! бывай!</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>здравейте!</lemma>
+    <lemma>чао!</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čau!</lemma>
+    <lemma>ahoj!</lemma>
+    <lemma>nazdar!</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bok</lemma>
+    <lemma annotation="reg.">čao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чао</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ciao!</lemma>
+    <lemma annotation="powitanie i pożegnanie">cześć!</lemma>
+    <lemma annotation="powitanie i pożegnanie">hej!</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чао! пока!</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čau!</lemma>
+    <lemma>ahoj!</lemma>
+    <lemma>servus!</lemma>
+    <lemma>nazdar!</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zdravo!</lemma>
+    <lemma>živjo!</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>Ћао!</lemma>
+    <lemma>Здраво!</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>привіт!</lemma>
+    <lemma>бувай!</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>saluton !</lemma>
+    <lemma>saluton !</lemma>
+    <lemma>adiaŭ!</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>hallo!</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoi!</lemma>
+    <lemma>hallo!</lemma>
+    <lemma>dag!</lemma>
+  </synset>
+</multilingual-synset>

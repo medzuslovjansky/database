@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22008"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22008"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      prisųditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прысудзіць</lemma>
+    <lemma>узнагародзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>награда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přisoudit</lemma>
+    <lemma>udělit</lemma>
+    <lemma>oceněnit</lemma>
+    <lemma>vyznamenat</lemma>
+    <lemma>odměnit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nagraditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>награди</lemma>
+    <lemma>одликува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="nagrodę itp.">przyznać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>присудить</lemma>
+    <lemma>наградить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prisúdiť</lemma>
+    <lemma>udeliť</lemma>
+    <lemma>oceněnit</lemma>
+    <lemma>vyznamenať</lemma>
+    <lemma>odmeniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nagrada</lemma>
+    <lemma>nagrada</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наградити</lemma>
+    <lemma>досудити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>присудити</lemma>
+    <lemma>нагородити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vergeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="prijs e.d.">toekennen</lemma>
+  </synset>
+</multilingual-synset>

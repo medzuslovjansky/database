@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22300"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22300" steen:pos="adj." steen:type="3" steen:same="cz">
+      libovoljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адвольны</lemma>
+    <lemma>апцыянальны</lemma>
+    <lemma>факультатыўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>незадължителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>libovolný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opcionalan</lemma>
+    <lemma>mogući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опционален</lemma>
+    <lemma>произволен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opcjonalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>произвольный</lemma>
+    <lemma>опциональный</lemma>
+    <lemma>факультативный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľubovoľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neobvezno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опциони</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>необов&apos;язковий</lemma>
+    <lemma>довільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nedeviga</lemma>
+    <lemma>arbitra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>optional</lemma>
+    <lemma>willkürlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>arbitrair</lemma>
+    <lemma>willekeurig</lemma>
+  </synset>
+</multilingual-synset>

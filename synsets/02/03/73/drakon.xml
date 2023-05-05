@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20373"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20373"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru uk bg"
+      steen:genesis="I"
+    >
+      drakon
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дракон</lemma>
+    <lemma>цмок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дракон</lemma>
+    <lemma>змей</lemma>
+    <lemma>хала</lemma>
+    <lemma>ламя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>drak</lemma>
+    <lemma>saň</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>змий</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zmaj</lemma>
+    <lemma>aždaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>змеј</lemma>
+    <lemma>ламја</lemma>
+    <lemma>аждаја</lemma>
+    <lemma>ала</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дракон</lemma>
+    <lemma>змей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drak</lemma>
+    <lemma>šarkan</lemma>
+    <lemma>leviatan</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zmaj</lemma>
+    <lemma>zmaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>змај</lemma>
+    <lemma>аждаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дракон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>drako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drachen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draak</lemma>
+  </synset>
+</multilingual-synset>

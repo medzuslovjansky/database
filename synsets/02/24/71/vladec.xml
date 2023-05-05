@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22471"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22471"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      vladec
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уладца</lemma>
+    <lemma>уладнік</lemma>
+    <lemma>уладар</lemma>
+    <lemma>валадар</lemma>
+    <lemma>кіраўнік</lemma>
+    <lemma>правіцель</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>владетел</lemma>
+    <lemma>властник</lemma>
+    <lemma>господар</lemma>
+    <lemma>повелител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vládce</lemma>
+    <lemma>panovník</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vladar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>владетел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>władca</lemma>
+    <lemma>suweren</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правитель</lemma>
+    <lemma>властитель</lemma>
+    <lemma>повелитель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vládca</lemma>
+    <lemma>panovník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vladar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>владар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>правитель</lemma>
+    <lemma>володар</lemma>
+    <lemma>повелитель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reganto</lemma>
+    <lemma>suverena</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herrscher</lemma>
+    <lemma>Staat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heerser</lemma>
+    <lemma>soeverein</lemma>
+  </synset>
+</multilingual-synset>

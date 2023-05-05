@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22893"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22893"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru pl~ cz~"
+    >
+      neobzrimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неаглядны</lemma>
+    <lemma>неабсяжны</lemma>
+    <lemma>неабдымны</lemma>
+    <lemma>бязмежны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>огромен</lemma>
+    <lemma>безкраен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nedohledný</lemma>
+    <lemma>nesmírný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neograničen</lemma>
+    <lemma>beskrajan</lemma>
+    <lemma>bezgraničan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непрегледен</lemma>
+    <lemma>огромен</lemma>
+    <lemma>бескраен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieograniczony</lemma>
+    <lemma>rozległy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>необозримый</lemma>
+    <lemma>неоглядный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nedohľadný</lemma>
+    <lemma>nesmierny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neomejena</lemma>
+    <lemma>neskončna</lemma>
+    <lemma>brezmejna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неограничен</lemma>
+    <lemma>бескрајан</lemma>
+    <lemma>безграничан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>необмежений</lemma>
+    <lemma>безкрайній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>senlima</lemma>
+    <lemma>vasta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>grenzenlos</lemma>
+    <lemma>große</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>immens</lemma>
+  </synset>
+</multilingual-synset>

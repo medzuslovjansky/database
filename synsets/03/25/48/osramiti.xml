@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32548"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32548"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk bg"
+    >
+      osråmiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зганьбіць</lemma>
+    <lemma>зганьбаваць</lemma>
+    <lemma>аганьбаваць</lemma>
+    <lemma>скампраментаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>срам</lemma>
+    <lemma>срам</lemma>
+    <lemma>срам за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zostudit</lemma>
+    <lemma>zkompromitovat</lemma>
+    <lemma>zahanbit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>osramit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посрами</lemma>
+    <lemma>засрами</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osramocić</lemma>
+    <lemma>zawstydzić</lemma>
+    <lemma>skompromitować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опозорить</lemma>
+    <lemma>скомпрометировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zahanbiť</lemma>
+    <lemma>skompromitovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osramiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>осрамити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зганьбити</lemma>
+    <lemma>скомпрометувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>honto</lemma>
+    <lemma>Hontigitaj alporti honton sur</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Scham</lemma>
+    <lemma>zu Schanden</lemma>
+    <lemma>bringt Schande über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beschamen</lemma>
+  </synset>
+</multilingual-synset>

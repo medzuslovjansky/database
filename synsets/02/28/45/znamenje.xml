@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22845"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22845"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru cz sh bg"
+    >
+      znameńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знак</lemma>
+    <lemma>знацьба</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znamení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znamenje</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знак</lemma>
+    <lemma>знамение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>znamenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znak</lemma>
+    <lemma>znamenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знамење</lemma>
+    <lemma>знак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знак</lemma>
+    <lemma>знамення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>signo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schild</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>teken</lemma>
+  </synset>
+</multilingual-synset>

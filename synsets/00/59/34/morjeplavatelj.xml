@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5934"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5934" steen:pos="m.anim." steen:type="1" steen:same="ru">
+      morjeplavatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мараплавец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>моряк</lemma>
+    <lemma>мореплавател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mořeplavec</lemma>
+    <lemma>námořník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>moreplovac</lemma>
+    <lemma>pomorac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>морнар</lemma>
+    <lemma>морепловец</lemma>
+    <lemma>поморец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marynarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мореплаватель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>moreplavec</lemma>
+    <lemma>námorník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mornar</lemma>
+    <lemma>navigator</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>морнар</lemma>
+    <lemma>морепловац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мореплавець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>maristo</lemma>
+    <lemma>navigisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Seemanns</lemma>
+    <lemma>Navigator</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeeman</lemma>
+    <lemma>zeevaarder</lemma>
+  </synset>
+</multilingual-synset>

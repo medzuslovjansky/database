@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28989"
+      steen:addition="(obvęže)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      obvęzati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абвязаць</lemma>
+    <lemma>павінуць</lemma>
+    <lemma>аббэрасць</lemma>
+    <lemma>ублытаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вратовръзка СТГ. кръг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obvázat</lemma>
+    <lemma annotation="kolem">zavázat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ovezati</lemma>
+    <lemma>uvezati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заврзе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obwiązać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обвязать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obviazať</lemma>
+    <lemma annotation="okolo">zaviazať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ovezati</lemma>
+    <lemma>vežejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>овезати</lemma>
+    <lemma>увезати</lemma>
+    <lemma>свезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обв&apos;язати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ligi sth. rondaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>binden etw. runden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="verband aanbrengen om">verbinden</lemma>
+  </synset>
+</multilingual-synset>

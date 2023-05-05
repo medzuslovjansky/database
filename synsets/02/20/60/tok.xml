@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22060"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22060" steen:pos="m." steen:type="2" steen:same="pl sh">
+      tok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ход</lemma>
+    <lemma annotation="падзей">плынь</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="събития">ход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průběh</lemma>
+    <lemma annotation="událostí">tok</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tijek</lemma>
+    <lemma>tok</lemma>
+    <lemma>protok</lemma>
+    <lemma>protjecanje</lemma>
+    <lemma>slijed</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ток</lemma>
+    <lemma annotation="на настани">од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przebieg</lemma>
+    <lemma>tok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ход</lemma>
+    <lemma annotation="событий">течение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priebeh</lemma>
+    <lemma annotation="udalostí">tok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sedanji razvoj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ток</lemma>
+    <lemma>развој догађаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хід</lemma>
+    <lemma>плин</lemma>
+    <lemma annotation="подій">перебіг</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de okazaĵoj">Kompreneble</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Verlauf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verloop</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20530"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20530"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="z sh"
+    >
+      navęzyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спасылацца</lemma>
+    <lemma>ссылацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>позовавам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>navazovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="dovesti u vezu">povezivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наведува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawiązywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ссылаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadväzovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="povezano">Povezovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="довести у везу">повезивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>посилатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aludi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verweisen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="naar">verwijzen</lemma>
+    <lemma annotation="op">inhaken</lemma>
+  </synset>
+</multilingual-synset>

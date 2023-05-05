@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36049"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36049"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru pl"
+      steen:genesis="I"
+    >
+      konspirator
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канспіратар</lemma>
+    <lemma>змоўшчык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>конспиратор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konspirátor</lemma>
+    <lemma>spiklenec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konspirativac</lemma>
+    <lemma>konspirator</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конспиратор</lemma>
+    <lemma>заговорник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konspirator</lemma>
+    <lemma>spiskowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конспиратор</lemma>
+    <lemma>заговорщик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konšpirátor</lemma>
+    <lemma>spiklenec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zavernik</lemma>
+    <lemma>konspirativac</lemma>
+    <lemma>konspirator</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заверник</lemma>
+    <lemma>конспиративац</lemma>
+    <lemma>конспиратор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конспіратор</lemma>
+    <lemma>змовник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konspiranto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verschwörer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenzweerder</lemma>
+  </synset>
+</multilingual-synset>

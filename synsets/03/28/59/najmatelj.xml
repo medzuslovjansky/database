@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32859"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32859" steen:pos="m.anim." steen:type="1">najmatelj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наймальнік</lemma>
+    <lemma>арандатар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наемател</lemma>
+    <lemma>арендатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nájemce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>unajmljivač</lemma>
+    <lemma>stanar</lemma>
+    <lemma>podstanar</lemma>
+    <lemma>zakupac</lemma>
+    <lemma>zakupnik</lemma>
+    <lemma>zakupoprimac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наемател</lemma>
+    <lemma>кираџија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>najemca</lemma>
+    <lemma>wynajmujący</lemma>
+    <lemma>lokator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наниматель</lemma>
+    <lemma>арендатор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nájomca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>najemnik</lemma>
+    <lemma>najemodajalec</lemma>
+    <lemma>najemnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подстанар</lemma>
+    <lemma>изнајмљивач</lemma>
+    <lemma>закупац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наймач</lemma>
+    <lemma>орендар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hirer</lemma>
+    <lemma>arrendatario</lemma>
+    <lemma>Lodger</lemma>
+    <lemma>luanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mieter</lemma>
+    <lemma>Pächter</lemma>
+    <lemma>Mieter</lemma>
+    <lemma>Pächter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>huurder</lemma>
+  </synset>
+</multilingual-synset>

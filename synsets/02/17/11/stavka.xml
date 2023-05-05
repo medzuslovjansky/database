@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21711"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21711"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru pl sk sl"
+    >
+      stavka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="у рызыковых гульнях">стаўка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в хазартни игри">процент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hazard">sázka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ulog</lemma>
+    <lemma annotation="u kockanju">čip</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="коцкање">влог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="hazard">stawka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="в азартных играх">ставка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="hazard">stávka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stava</lemma>
+    <lemma annotation="igralniški">čip</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>улог</lemma>
+    <lemma annotation="у коцкању">чип</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="у азартних іграх">ставка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="hazardludo">paliso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Glücksspiel">Pfahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gokken, weddenschap">inzet</lemma>
+  </synset>
+</multilingual-synset>

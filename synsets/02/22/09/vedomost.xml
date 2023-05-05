@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22209"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22209" steen:pos="f." steen:type="2" steen:same="z">
+      vědomosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інфармацыя</lemma>
+    <lemma>звестка</lemma>
+    <lemma>вестка</lemma>
+    <lemma>паведамленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>информация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vědomost</lemma>
+    <lemma>informace</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vijest</lemma>
+    <lemma>informacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>информација</lemma>
+    <lemma>известување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiadomość</lemma>
+    <lemma>informacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>информация</lemma>
+    <lemma>сведение</lemma>
+    <lemma>известие</lemma>
+    <lemma>сообщение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vedomosť</lemma>
+    <lemma>informácie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>novice</lemma>
+    <lemma>informacije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вест</lemma>
+    <lemma>информација</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>інформація</lemma>
+    <lemma>звістка</lemma>
+    <lemma>повідомлення</lemma>
+    <lemma>повідомлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>informo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Information</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bericht</lemma>
+    <lemma>kennisgeving</lemma>
+    <lemma>informatie</lemma>
+  </synset>
+</multilingual-synset>

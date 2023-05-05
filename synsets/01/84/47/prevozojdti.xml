@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18447"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18447"
+      steen:addition="(prěvȯzȯjde)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prěvȯzȯjdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перасягнуць</lemma>
+    <lemma>перавысіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да победим</lemma>
+    <lemma>надвишава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překonat</lemma>
+    <lemma>překročit</lemma>
+    <lemma>převýšit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prevazići</lemma>
+    <lemma>nadmašiti</lemma>
+    <lemma>nadvisiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>надмине</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przewyższyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превзойти</lemma>
+    <lemma>превысить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prekonať</lemma>
+    <lemma>prekročiť</lemma>
+    <lemma>prevýšiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>premagati</lemma>
+    <lemma>preseči</lemma>
+    <lemma>presega</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превазићи</lemma>
+    <lemma>надмашити</lemma>
+    <lemma>надвисити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перевершити</lemma>
+    <lemma>перевищити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>superi</lemma>
+    <lemma>superi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zu übertreffen</lemma>
+    <lemma>nicht überschreiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overtreffen</lemma>
+  </synset>
+</multilingual-synset>

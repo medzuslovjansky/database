@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23794"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23794" steen:pos="v.tr. ipf." steen:type="1">
+      zapaljati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запальваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запалвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapalovat</lemma>
+    <lemma>rozsvěcovat</lemma>
+    <lemma>rozžínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>paliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пали</lemma>
+    <lemma>запалува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зажигать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapaľovať</lemma>
+    <lemma>rozsvecovať</lemma>
+    <lemma>zapaľovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gorijo</lemma>
+    <lemma>zapaljivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упаљивати</lemma>
+    <lemma>запаљивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запалювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="fajro">lumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Licht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vuur">aansteken</lemma>
+  </synset>
+</multilingual-synset>

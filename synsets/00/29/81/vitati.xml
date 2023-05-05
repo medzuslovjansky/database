@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2981"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2981"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v z"
+    >
+      vitati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вітаць</lemma>
+    <lemma>прывітаць</lemma>
+    <lemma>сустракаць</lemma>
+    <lemma annotation="гасцей">прымаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приветствам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vítat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dočekivati</lemma>
+    <lemma>dočekati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посакува добредојде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>witać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приветствовать</lemma>
+    <lemma annotation="гостей">принимать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vítať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pozdrav</lemma>
+    <lemma>pozdravljam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поздрављати</lemma>
+    <lemma>дочекивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вітати</lemma>
+    <lemma annotation="гостей">приймати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bonvenon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>herzlich willkommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwelkomen</lemma>
+  </synset>
+</multilingual-synset>

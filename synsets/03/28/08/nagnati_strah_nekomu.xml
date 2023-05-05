@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32808"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32808" steen:pos="phrase" steen:type="1">
+      nagnati strah někomu
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выклікаць страх</lemma>
+    <lemma>страшыць</lemma>
+    <lemma>пужаць</lemma>
+    <lemma>пудзіць</lemma>
+    <lemma>палохаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вдъхвам някому страх</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někomu">nahnat strach</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>utjerati strah u kosti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>втера страв некому</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napędzić komuś strachu</lemma>
+    <lemma>przestraszyć kogoś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>внушить страх</lemma>
+    <lemma>устрашить</lemma>
+    <lemma>напугать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niekomu">nahnať strach</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stavka teror</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>утерати страх</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нагнати страху</lemma>
+    <lemma>нагнати дрижаків</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frapi timon en iu</lemma>
+    <lemma>meti iun en timo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Streik Angst in jemanden</lemma>
+    <lemma>legte jemand in Angst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>iemand angst aanjagen</lemma>
+    <lemma>iemand de stuipen op het lijf jagen</lemma>
+  </synset>
+</multilingual-synset>

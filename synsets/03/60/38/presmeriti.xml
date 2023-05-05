@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36038"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cs yu"
+    >
+      prěsměriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перанакіраваць</lemma>
+    <lemma>перанаправіць</lemma>
+    <lemma>пераадрасаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пренасочване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přesměrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preusmjeriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пренасочи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekierować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перенаправить</lemma>
+    <lemma>переадресовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>presmerovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preusmeritev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преусмерити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перенаправити</lemma>
+    <lemma>переадресувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alidirektado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umleiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doorverwijzen</lemma>
+  </synset>
+</multilingual-synset>

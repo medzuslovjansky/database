@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5630"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5630" steen:pos="n." steen:type="2" steen:same="sh">
+      råzstavjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разбіранне</lemma>
+    <lemma>разборка</lemma>
+    <lemma>раз&apos;яднанне</lemma>
+    <lemma>разлучэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>демонтаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozebírání</lemma>
+    <lemma>demontáž</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastavljati</lemma>
+    <lemma>rasklapati</lemma>
+    <lemma>razdvajati</lemma>
+    <lemma>demontirati</lemma>
+    <lemma>razmontirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раставување</lemma>
+    <lemma>расклопување</lemma>
+    <lemma>демонтажа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozstawienie</lemma>
+    <lemma annotation="także na części">rozłożenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разборка</lemma>
+    <lemma>разъединение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozoberanie</lemma>
+    <lemma>demontáž</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razbirati</lemma>
+    <lemma>ločen</lemma>
+    <lemma>odstranjevati</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>растављати</lemma>
+    <lemma>расклапати</lemma>
+    <lemma>раздвајати</lemma>
+    <lemma>демонтирати</lemma>
+    <lemma>размонтирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розбирання</lemma>
+    <lemma>роз&apos;єднання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>desmontaje</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Demontage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>demontage</lemma>
+    <lemma>ontmanteling</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36783"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36783" steen:pos="f.sg.">brza pomoć</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="аўтамабіль">хуткая дапамога</lemma>
+    <lemma>неадкладная</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="кола">линейка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="auto">pohotovost</lemma>
+    <lemma>sanitka</lemma>
+    <lemma>záchranka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hitna pomoć</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>брза помош</lemma>
+    <lemma>амбулантно возило</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karetka pogotowia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="автомобиль">скорая помощь</lemma>
+    <lemma>неотложка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="auto">pohotovosť</lemma>
+    <lemma>sanitka</lemma>
+    <lemma>záchranka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rešilec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хитна помоћ</lemma>
+    <lemma>припрема</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="автомобіль">швидка допомога</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĵargono">ambulanca aŭto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Slang">Krankenwagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ambulance</lemma>
+  </synset>
+</multilingual-synset>

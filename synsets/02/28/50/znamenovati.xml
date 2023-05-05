@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22850"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22850"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz sh"
+    >
+      znamenovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазначаць</lemma>
+    <lemma>значыць</lemma>
+    <lemma>адзначаць</lemma>
+    <lemma>натаваць</lemma>
+    <lemma>меціць</lemma>
+    <lemma>цаляць</lemma>
+    <lemma>мерыцца</lemma>
+    <lemma>маркаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отбелязвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>známkovat</lemma>
+    <lemma>označovat</lemma>
+    <lemma>vyznačovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>označavati</lemma>
+    <lemma>znamenovati</lemma>
+    <lemma>obilježavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обележува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oznakowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помечать</lemma>
+    <lemma>отмечать</lemma>
+    <lemma>метить</lemma>
+    <lemma>маркировать</lemma>
+    <lemma>обозначать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>známkovať</lemma>
+    <lemma>označovať</lemma>
+    <lemma>vyznačovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znamka</lemma>
+    <lemma>znamenovati</lemma>
+    <lemma>znamka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>означавати</lemma>
+    <lemma>означивати</lemma>
+    <lemma>знаменовати</lemma>
+    <lemma>обележавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>відмічати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>markon</lemma>
+    <lemma>faris sur</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kennzeichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>markeren</lemma>
+  </synset>
+</multilingual-synset>

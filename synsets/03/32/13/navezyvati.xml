@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33213"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="ru"
+    >
+      navęzyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навязваць</lemma>
+    <lemma annotation="навязваць вяроўкай на рогі">налыгваць</lemma>
+    <lemma>упіраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>връзвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zavazovat</lemma>
+    <lemma>navazovat</lemma>
+    <lemma>přivazovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vezivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заврзува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>związywać coś na czymś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>навязывать</lemma>
+    <lemma>привязывать поверх</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaväzovať</lemma>
+    <lemma>nadväzovať</lemma>
+    <lemma>priväzovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Priveži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>везивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нав&apos;язувати</lemma>
+    <lemma>зав&apos;язувати щось на чомусь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ligi sur</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Binden an</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opbinden</lemma>
+    <lemma>aanbinden</lemma>
+  </synset>
+</multilingual-synset>

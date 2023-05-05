@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35835"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35835"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      Carigrad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>Стамбул</lemma>
+    <lemma>Царград</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>Цариград</lemma>
+    <lemma>Истанбул</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>Istanbul</lemma>
+    <lemma>Cařihrad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Carigrad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>Цариград</lemma>
+    <lemma>Истанбул</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>Stambuł</lemma>
+    <lemma>Istambuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>Стамбул</lemma>
+    <lemma>Царьград</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>Istanbul</lemma>
+    <lemma>Carihrad</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>Carigrad</lemma>
+    <lemma>Istanbul</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>Цариград</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>Стамбул</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Istanbulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Istanbul</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Istanbul</lemma>
+  </synset>
+</multilingual-synset>

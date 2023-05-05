@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29566"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29566" steen:pos="f." steen:type="1" steen:same="v pl cs~">
+      orěhovka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арэхаўка</lemma>
+    <lemma annotation="птушка">кедраўка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="птици">Кедровка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ořešník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pjegavi orašar</lemma>
+    <lemma>euroazijski orašar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид птица од родот врани">лешникарка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>orzechówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ореховка</lemma>
+    <lemma annotation="птица">кедровка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>orešnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ptica">lešnjikara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="птица">лешњикара</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>горіхівка</lemma>
+    <lemma annotation="птах">кедрівка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="birdo">Nuksrompilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Vogel">Nussknacker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vogel">notenkraker</lemma>
+  </synset>
+</multilingual-synset>

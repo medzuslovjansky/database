@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17840"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17840"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z sh"
+    >
+      naděvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нанізваць</lemma>
+    <lemma>апранаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="месо и др.">нанизвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něčím">nadítvat</lemma>
+    <lemma>naplňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadijevati</lemma>
+    <lemma>filati</lemma>
+    <lemma>puniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наденува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czymś">nadziewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нанизывать</lemma>
+    <lemma>надевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napĺňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nadevati</lemma>
+    <lemma>prisiljeni</lemma>
+    <lemma>Naticati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надевати</lemma>
+    <lemma>навлачити</lemma>
+    <lemma>натицати</lemma>
+    <lemma>облачити</lemma>
+    <lemma>обувати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>начиняти</lemma>
+    <lemma>нанизувати</lemma>
+    <lemma>настромлювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="viando ktp">aĵoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Fleisch etc.">stuff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vlees e.d.">vullen</lemma>
+  </synset>
+</multilingual-synset>

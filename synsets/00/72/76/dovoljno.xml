@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7276"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7276" steen:pos="adv." steen:type="2" steen:same="j">
+      dovoljno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даволі</lemma>
+    <lemma>досыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>достатъчно</lemma>
+    <lemma annotation="малко ост.">доволно много</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dost</lemma>
+    <lemma>dostatečně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dovoljno</lemma>
+    <lemma>dosta</lemma>
+    <lemma>dostatno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доволно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wystarczająco</lemma>
+    <lemma>dostatecznie</lemma>
+    <lemma>dosyć</lemma>
+    <lemma>dość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>довольно</lemma>
+    <lemma>достаточно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dosť</lemma>
+    <lemma>dostatočne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povsem dovolj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доста</lemma>
+    <lemma>довољно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>достатньо</lemma>
+    <lemma>досить</lemma>
+    <lemma>вистачить</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sufiĉe</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>genug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>genoeg</lemma>
+    <lemma>voldoende</lemma>
+  </synset>
+</multilingual-synset>

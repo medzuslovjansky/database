@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34973"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34973"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl~"
+    >
+      udačnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шчаслівы</lemma>
+    <lemma>шчаслівец</lemma>
+    <lemma>удачнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>един щастлив човек</lemma>
+    <lemma>успешен човек</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šťastlivec</lemma>
+    <lemma>úspěšný člověk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>srećković</lemma>
+    <lemma>uspješan čovjek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>среќник</lemma>
+    <lemma>успешен човек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szczęściarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>счастливчик</lemma>
+    <lemma>удачник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>šťastlivec</lemma>
+    <lemma>úspešný človek</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>srečo človek srečo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>срећан човек</lemma>
+    <lemma>срећковић</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>щасливчик</lemma>
+    <lemma>удачник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bonŝanca persono</lemma>
+    <lemma>succesful persono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>glückliche Person</lemma>
+    <lemma>erfolgreiche Person</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geluksvogel</lemma>
+    <lemma>bofkont</lemma>
+  </synset>
+</multilingual-synset>

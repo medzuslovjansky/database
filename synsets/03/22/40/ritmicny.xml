@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32240" steen:pos="adj." steen:type="1" steen:genesis="I">
+      ritmičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рытмічны</lemma>
+    <lemma>рытмовы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ритъмът</lemma>
+    <lemma>ритмични</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rytmický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ritmičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ритмички</lemma>
+    <lemma>ритмичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rytmiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ритмичный</lemma>
+    <lemma>ритмический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rytmický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ritmično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ритмичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ритмічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ritma</lemma>
+    <lemma>ritma</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rhythmisch</lemma>
+    <lemma>rhythmische</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ritmisch</lemma>
+  </synset>
+</multilingual-synset>

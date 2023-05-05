@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23042"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23042"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      menju
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>меню</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>меню</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>menu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>meni</lemma>
+    <lemma>jelovnik</lemma>
+    <lemma>izbornik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>menu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>меню</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>menu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>meni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мени</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>меню</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>menuo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Speisekarte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>menu</lemma>
+  </synset>
+</multilingual-synset>

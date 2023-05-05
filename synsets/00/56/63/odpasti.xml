@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5663"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5663"
+      steen:addition="(odpade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      odpasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпасці</lemma>
+    <lemma>адлучыцца</lemma>
+    <lemma>аддзяліцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да падне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odpadnout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ostpasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпадне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отпасть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ostpasti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>остпасти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відпасти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>defali</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>runterfallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afvallen</lemma>
+    <lemma>wegvallen</lemma>
+  </synset>
+</multilingual-synset>

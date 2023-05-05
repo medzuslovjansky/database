@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23376"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23376"
+      steen:addition="(vpije)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru yu"
+      steen:genesis="S"
+    >
+      vpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>увабраць</lemma>
+    <lemma>паглынуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>попия</lemma>
+    <lemma>погълна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vstřebat</lemma>
+    <lemma>nasát</lemma>
+    <lemma>vpít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>upiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>впие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. płyn">zaabsorbować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>впитать</lemma>
+    <lemma>поглотить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vstrebať</lemma>
+    <lemma>nasať</lemma>
+    <lemma>vpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vpijejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ввібрати</lemma>
+    <lemma>поглинути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sorbi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>absorbieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>absorberen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23112"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23112" steen:pos="m." steen:type="1">prěvoz</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паром</lemma>
+    <lemma>човен</lemma>
+    <lemma>чоўнік</lemma>
+    <lemma>чаўнок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ферибот</lemma>
+    <lemma>автобус</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="lodí">převoz</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>trajekt</lemma>
+    <lemma>catara</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>превоз</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prom</lemma>
+    <lemma annotation="regularne połączenie">wahadłowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>паром</lemma>
+    <lemma>челнок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="lodí">prevoz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trajekt catara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трајект</lemma>
+    <lemma>цатара</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пором</lemma>
+    <lemma>човник</lemma>
+    <lemma>пристрій для переправи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pramo</lemma>
+    <lemma>pramo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ferry</lemma>
+    <lemma>shuttle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veer</lemma>
+    <lemma>pont</lemma>
+  </synset>
+</multilingual-synset>

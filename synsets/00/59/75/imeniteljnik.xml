@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5975"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5975" steen:pos="m." steen:type="1">imeniteljnik</lemma>
+    <lemma steen:id="5975" steen:pos="m." steen:type="1">
+      imeniteljny padež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назоўны склон</lemma>
+    <lemma annotation="Грама.">намінатыў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>номинатив</lemma>
+    <lemma>именителен падеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nominativ</lemma>
+    <lemma>1.pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nominativ</lemma>
+    <lemma>prvi padež</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>номинатив</lemma>
+    <lemma>именителен падеж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mianownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>именительный падеж</lemma>
+    <lemma annotation="грам.">номинатив</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nominatív</lemma>
+    <lemma>1.pád</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imenovalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>номинатив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>називний відмінок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nominativo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Nominativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nominatief</lemma>
+  </synset>
+</multilingual-synset>

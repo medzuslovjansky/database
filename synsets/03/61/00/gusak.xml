@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36100"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      gųsak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гусак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гъсок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>houser</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gusak</lemma>
+    <lemma>gusan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гусак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gąsior</lemma>
+    <lemma>gęsior</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гусак</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gunár</lemma>
+    <lemma>húser</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gos</lemma>
+    <lemma>Gander</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гусан</lemma>
+    <lemma>гусак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гусак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gander</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gänserich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ganzerik</lemma>
+    <lemma>gent</lemma>
+  </synset>
+</multilingual-synset>

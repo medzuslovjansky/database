@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35909"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      fantastika
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фантастыка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="жанр">фантастика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="žánr">fantasy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fantastika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="жанр">фантастика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fantastyka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фантастика</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="žáner">fantasy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fantasika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фантастика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="жанр">фантастика</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĝenro">fantazio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="genre">Fantasie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fantasy</lemma>
+  </synset>
+</multilingual-synset>

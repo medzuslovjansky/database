@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36421"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36421"
+      steen:addition="(bode)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      bodnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кальнуць</lemma>
+    <lemma>баднуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пробождам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bodnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ubosti</lemma>
+    <lemma>probosti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прободе</lemma>
+    <lemma>забоде</lemma>
+    <lemma>продупи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dźgnąć</lemma>
+    <lemma>przekłuć</lemma>
+    <lemma>przebić</lemma>
+    <lemma>ubóść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кольнуть</lemma>
+    <lemma>боднуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bodnúť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zabosti</lemma>
+    <lemma>prebosti</lemma>
+    <lemma>zbosti</lemma>
+    <lemma>vbosti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>убости</lemma>
+    <lemma>пробости</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буцнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Penetras</lemma>
+    <lemma>ponardopiko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>einstechen</lemma>
+    <lemma>durchstechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doorboren</lemma>
+    <lemma>steken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10020"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10020" steen:pos="phrase" steen:type="1">
+      odpiši vsim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпісаць усім</lemma>
+    <lemma annotation="па электроннай пошце">адказаць усім</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="по електронна поща">отговори на всички</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odepíši všem</lemma>
+    <lemma annotation="e-mail">odpovím všem</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odgovori svima</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="e-mail">одговори на сите</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="e-mailem">odpowiedz wszystkim</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="по электронной почте">ответь всем</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpíšem všetkým</lemma>
+    <lemma annotation="e-mail">odpoviem všetkým</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Odgovori vsem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одговори свима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відпиши усім</lemma>
+    <lemma annotation="по електронній пошті">дай відповідь усім</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="retpoŝto">respondi al ĉiuj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="E-Mail">Allen antworten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="e-mail">iedereen antwoorden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6736"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6736" steen:pos="f." steen:type="1">burja větra</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>смерч</lemma>
+    <lemma>завіруха</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вихър</lemma>
+    <lemma>вихрушка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vichřice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oluja</lemma>
+    <lemma>nevrijeme</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>невреме</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wichura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смерч</lemma>
+    <lemma>метель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>víchrica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vihar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вихор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>завірюха</lemma>
+    <lemma>віхола</lemma>
+    <lemma>смерч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Windstorm</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Windsturm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>storm</lemma>
+  </synset>
+</multilingual-synset>

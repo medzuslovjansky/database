@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15832"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15832" steen:pos="n.sg." steen:type="1" steen:genesis="I">
+      egzistovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>існаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съществуване</lemma>
+    <lemma>наличие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>existování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>egzistiranje</lemma>
+    <lemma>bivanje</lemma>
+    <lemma>postojanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>егзистирање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>egzystowanie</lemma>
+    <lemma>istnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>существование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>existovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obstoj</lemma>
+    <lemma>realnost</lemma>
+    <lemma>realnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>постојање</lemma>
+    <lemma>стварност</lemma>
+    <lemma>реалност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>існування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Existenz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestaan</lemma>
+  </synset>
+</multilingual-synset>

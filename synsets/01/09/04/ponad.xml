@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10904"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10904"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      ponad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вышэй</lemma>
+    <lemma>вышай</lemma>
+    <lemma>найвышэй</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по-горе</lemma>
+    <lemma>по-нататък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výše</lemma>
+    <lemma>nahoře</lemma>
+    <lemma>nad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznad</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>горе</lemma>
+    <lemma>пред тоа</lemma>
+    <lemma>претходно</lemma>
+    <lemma>порано</lemma>
+    <lemma>вон</lemma>
+    <lemma>надвор</lemma>
+    <lemma>преку</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ponad</lemma>
+    <lemma>powyżej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выше</lemma>
+    <lemma>превыше</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ponad</lemma>
+    <lemma>vyššie</lemma>
+    <lemma>hore</lemma>
+    <lemma>nad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nad (Kim / as) zgoraj</lemma>
+    <lemma>nad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>над</lemma>
+    <lemma>изнад</lemma>
+    <lemma>преко</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>понад</lemma>
+    <lemma>вище</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>super</lemma>
+    <lemma>trans</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>oben</lemma>
+    <lemma>jenseits</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boven</lemma>
+    <lemma>hoger dan</lemma>
+    <lemma>meer dan</lemma>
+  </synset>
+</multilingual-synset>

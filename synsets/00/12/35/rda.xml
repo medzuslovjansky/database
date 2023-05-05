@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1235"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1235" steen:pos="f." steen:type="1">rđa</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>іржа</lemma>
+    <lemma>йржа</lemma>
+    <lemma>ржа</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Руст</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rez</lemma>
+    <lemma>koroze</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>hrđa</lemma>
+    <lemma annotation="arh.">hrđa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>рѓа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rdza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ржавчина</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hrdza</lemma>
+    <lemma>korózia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rje</lemma>
+    <lemma annotation="arch.">rje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рђа</lemma>
+    <lemma annotation="арх.">хрђа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>іржа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rustiĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rost</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roest</lemma>
+  </synset>
+</multilingual-synset>

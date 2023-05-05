@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="758"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="758" steen:pos="f." steen:type="1">krma</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>корм</lemma>
+    <lemma>фураж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кърма</lemma>
+    <lemma>фураж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krmivo</lemma>
+    <lemma>krmení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krma</lemma>
+    <lemma>krmivo</lemma>
+    <lemma>stočna hrana</lemma>
+    <lemma>furaža</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крма</lemma>
+    <lemma>сточна храна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pokarm</lemma>
+    <lemma>karma</lemma>
+    <lemma>obrok</lemma>
+    <lemma>pasza</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корм</lemma>
+    <lemma>фураж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krmivo</lemma>
+    <lemma>krmenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>krma</lemma>
+    <lemma>krma</lemma>
+    <lemma>krme</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крма</lemma>
+    <lemma>сточна храна</lemma>
+    <lemma>фураж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корм</lemma>
+    <lemma>фураж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>furaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Futter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voer</lemma>
+  </synset>
+</multilingual-synset>

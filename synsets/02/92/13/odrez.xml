@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29213" steen:pos="m.">odrěz</lemma>
+    <lemma steen:id="29213" steen:pos="m.">odrězȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адрэз</lemma>
+    <lemma>адрэзак</lemma>
+    <lemma>рэз</lemma>
+    <lemma>адцін</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="материал">парче</lemma>
+    <lemma>сегмент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odřez</lemma>
+    <lemma>odřezek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izrezak</lemma>
+    <lemma>odlomak</lemma>
+    <lemma>sječak</lemma>
+    <lemma>dio</lemma>
+    <lemma>segment</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсечок</lemma>
+    <lemma>парче</lemma>
+    <lemma annotation="од материјал">дел</lemma>
+    <lemma>сегмент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kawałek materiału</lemma>
+    <lemma>odcinek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отрез</lemma>
+    <lemma>обрезок</lemma>
+    <lemma>кусок</lemma>
+    <lemma>фрагмент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odrez</lemma>
+    <lemma>odrezok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zrezek</lemma>
+    <lemma>rezina</lemma>
+    <lemma>posnetek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрезак</lemma>
+    <lemma>парче</lemma>
+    <lemma>исечак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відріз</lemma>
+    <lemma>обрізок</lemma>
+    <lemma>утинок</lemma>
+    <lemma>шматок</lemma>
+    <lemma>фрагмент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de materialo">peco</lemma>
+    <lemma>segmento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Material">Stück</lemma>
+    <lemma>Segment</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van iets">stukje</lemma>
+    <lemma>segment</lemma>
+  </synset>
+</multilingual-synset>

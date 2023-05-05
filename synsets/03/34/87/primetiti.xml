@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33487"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33487"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be sh mk"
+    >
+      primětiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прымеціць</lemma>
+    <lemma>змеціць</lemma>
+    <lemma>згледзіць</lemma>
+    <lemma>зацеміць</lemma>
+    <lemma>заўважыць</lemma>
+    <lemma>зазначыць</lemma>
+    <lemma>спанатрыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>уведомление</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>všímnout si</lemma>
+    <lemma>zaznamenat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primijetiti</lemma>
+    <lemma>opaziti</lemma>
+    <lemma>ugledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>примети</lemma>
+    <lemma>забележи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zauważyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приметить</lemma>
+    <lemma>заметить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>všímnuť si</lemma>
+    <lemma>zaznamenať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>opaziti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приметити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>примітити</lemma>
+    <lemma>помітити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>avizo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beachten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>merken</lemma>
+    <lemma>opmerken</lemma>
+  </synset>
+</multilingual-synset>

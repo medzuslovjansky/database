@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23800"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23800" steen:pos="m." steen:type="2" steen:same="v">
+      kust
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хмыз</lemma>
+    <lemma>куст</lemma>
+    <lemma>хмызняк</lemma>
+    <lemma>кустоўе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>храст</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>keř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grm</lemma>
+    <lemma>žbun</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џбун</lemma>
+    <lemma>грмушка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krzak</lemma>
+    <lemma>krzew</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>куст</lemma>
+    <lemma>кустарник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ker</lemma>
+    <lemma>krík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bush</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жбун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кущ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arbusto</lemma>
+    <lemma>arbedo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Busch</lemma>
+    <lemma>Strauch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>struik</lemma>
+  </synset>
+</multilingual-synset>

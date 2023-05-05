@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3548"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3548"
+      steen:addition="(danyh)"
+      steen:pos="m.pl."
+      steen:type="1"
+    >
+      dane
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дадзеныя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>данни</lemma>
+    <lemma>информация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>údaje</lemma>
+    <lemma>data</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podaci</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>податоци</lemma>
+    <lemma>информации</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dane</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>данные</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>údaje</lemma>
+    <lemma>dáta</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>podatki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подаци</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дані</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>datumoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Daten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gegevens</lemma>
+    <lemma>data</lemma>
+  </synset>
+</multilingual-synset>

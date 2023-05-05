@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35493"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35493" steen:pos="f." steen:type="1">
+      vojenna aviacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вайсковая авіяцыя</lemma>
+    <lemma>ваенная авіяцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>военно въздухоплаване</lemma>
+    <lemma>военна авиация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojenské letectvo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vojno zrakoplovstvo</lemma>
+    <lemma>vojna avijacija</lemma>
+    <lemma>zračna flota</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>воена авијација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>siły powietrzne</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>военная авиация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vojenské letectvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zračne sile</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ратно ваздухопловство</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>військова авіація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aerarmeon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Luftwaffe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luchtmacht</lemma>
+  </synset>
+</multilingual-synset>

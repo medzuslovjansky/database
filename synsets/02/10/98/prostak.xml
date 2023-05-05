@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21098"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21098"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      prostak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прасцяк</lemma>
+    <lemma>шчырак</lemma>
+    <lemma>прастачына</lemma>
+    <lemma>прастак</lemma>
+    <lemma>разявака</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>глупак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prosťáček</lemma>
+    <lemma>hlupák</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prostak</lemma>
+    <lemma>glupak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прост</lemma>
+    <lemma>едноставен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prostak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>простак</lemma>
+    <lemma>простофиля</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prosťáček</lemma>
+    <lemma>hlupák</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naivnež</lemma>
+    <lemma>bedak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>простак</lemma>
+    <lemma>глупак</lemma>
+    <lemma>глупан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>простак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naivulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einfaltspinsel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sul</lemma>
+    <lemma>onbenul</lemma>
+    <lemma>onnozelaar</lemma>
+  </synset>
+</multilingual-synset>

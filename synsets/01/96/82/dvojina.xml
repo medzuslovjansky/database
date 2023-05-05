@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19682"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19682" steen:pos="f." steen:type="2" steen:same="uk yu mk">
+      dvojina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парны лік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двойствено число</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dual</lemma>
+    <lemma>dvojné číslo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvojina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>двоина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>liczba podwójna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>двойственное число</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>podvojné číslo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dvojina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двојина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>двоїна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>duala</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dual</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dualis</lemma>
+  </synset>
+</multilingual-synset>

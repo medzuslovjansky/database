@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19690"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19690"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      eventuaľno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магчыма</lemma>
+    <lemma>верагодна</lemma>
+    <lemma>як мяркуецца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>може би</lemma>
+    <lemma>евентуално</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>eventuálně</lemma>
+    <lemma>případně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eventualno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>евентуално</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ewentualnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возможно</lemma>
+    <lemma>вероятно</lemma>
+    <lemma>предположительно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>eventuálne</lemma>
+    <lemma>prípadne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>možnosti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>евентуално</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>можливо</lemma>
+    <lemma>вірогідно</lemma>
+    <lemma>імовірно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eble</lemma>
+    <lemma>kredeble</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schließlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eventueel</lemma>
+  </synset>
+</multilingual-synset>

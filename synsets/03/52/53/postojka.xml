@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35253" steen:pos="f." steen:type="3" steen:same="mk">
+      postojka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="напр. аўтобуса">прыпынак</lemma>
+    <lemma>супынак</lemma>
+    <lemma>упынак</lemma>
+    <lemma>спын</lemma>
+    <lemma>упын</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="автобуси и т.н.">спирка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="bus atd.">zastávka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postaja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постојка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przystanek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="напр. автобуса">остановка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zastávka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. tramvaj">celice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нп. трамвајска">станица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр. автобуса">зупинка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="buso ktp">halto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Bus etc.">Stopp</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>halte</lemma>
+  </synset>
+</multilingual-synset>

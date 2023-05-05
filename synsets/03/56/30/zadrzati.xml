@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35630"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35630"
+      steen:addition="#(zadŕži)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zadŕžati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затрымаць</lemma>
+    <lemma>захаваць</lemma>
+    <lemma>пахаваць</lemma>
+    <lemma>ухаваць</lemma>
+    <lemma>утрымаць</lemma>
+    <lemma>устрымаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задържа</lemma>
+    <lemma>запазя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udržet</lemma>
+    <lemma>zachovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zadržati</lemma>
+    <lemma>sačuvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задржи</lemma>
+    <lemma>зачува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zachować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>задержать</lemma>
+    <lemma>сохранить</lemma>
+    <lemma>удержать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>udržať</lemma>
+    <lemma>zachovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obdržati</lemma>
+    <lemma>ohraniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>задржати</lemma>
+    <lemma>сачувати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затримати</lemma>
+    <lemma>зберегти</lemma>
+    <lemma>утримати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reteni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>behalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behouden</lemma>
+  </synset>
+</multilingual-synset>

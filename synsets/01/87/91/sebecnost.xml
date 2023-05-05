@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18791"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18791" steen:pos="f." steen:type="2" steen:same="cs j">
+      seběčnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эгаізм</lemma>
+    <lemma>самалюбства</lemma>
+    <lemma>сябелюбства</lemma>
+    <lemma>сябелюбнасць</lemma>
+    <lemma>эгаістычначць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>егоизъм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sobectví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sebičnost</lemma>
+    <lemma>egoizam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>себичност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samolubstwo</lemma>
+    <lemma>egoizm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эгоизм</lemma>
+    <lemma>себялюбие</lemma>
+    <lemma>эгоистичность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sebectvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sebičnost</lemma>
+    <lemma>samo-ljubezen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>себичност</lemma>
+    <lemma>самољубље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>егоїзм</lemma>
+    <lemma>себелюбство</lemma>
+    <lemma>егоїстичність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>egoismo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Selbstsucht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zelfzuchtigheid</lemma>
+    <lemma>egoïsme</lemma>
+  </synset>
+</multilingual-synset>

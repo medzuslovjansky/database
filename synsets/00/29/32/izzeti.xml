@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2932"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2932"
+      steen:addition="(izžne)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izžęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>збіраць ураджай</lemma>
+    <lemma>збіраць урод</lemma>
+    <lemma>зжаць жыта</lemma>
+    <lemma>пажаць жыта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изжъна</lemma>
+    <lemma>ожъна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>požnout</lemma>
+    <lemma>pokosit</lemma>
+    <lemma>posekat</lemma>
+    <lemma>sklidit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>požnjeti</lemma>
+    <lemma>požeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ожнее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nażąć</lemma>
+    <lemma>pożąć</lemma>
+    <lemma>zebrać plony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собрать урожай</lemma>
+    <lemma annotation="рожь">сжать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zožať</lemma>
+    <lemma>pokosiť</lemma>
+    <lemma>pozberať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žel</lemma>
+    <lemma>žel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пожети</lemma>
+    <lemma>пожњети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вижати</lemma>
+    <lemma>зжати</lemma>
+    <lemma>зібрати врожай</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rikoltos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ernten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oogsten</lemma>
+  </synset>
+</multilingual-synset>

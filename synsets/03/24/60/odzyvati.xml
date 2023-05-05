@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32460"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32460"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      odzyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзываць</lemma>
+    <lemma>адклікаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се оттегли</lemma>
+    <lemma>да се обадят</lemma>
+    <lemma annotation="например в офиса">да напомня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odvolávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opozivati</lemma>
+    <lemma>povlačiti</lemma>
+    <lemma>poništavati</lemma>
+    <lemma>ukidati</lemma>
+    <lemma>dokidati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одзива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. projekt">wycofywać</lemma>
+    <lemma annotation="np. z urzędu">odwoływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отзывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odvolávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. odločbe">upora</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. одлуке">повлачити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відкликати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>retiri</lemma>
+    <lemma>alvoko dorso</lemma>
+    <lemma annotation="ekz de oficejo">revokon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zurückziehen</lemma>
+    <lemma>Rückruf</lemma>
+    <lemma annotation="z aus dem Amt">Rückruf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugroepen</lemma>
+    <lemma>herroepen</lemma>
+    <lemma>intrekken</lemma>
+  </synset>
+</multilingual-synset>

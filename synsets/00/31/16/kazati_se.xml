@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3116"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3116"
+      steen:addition="(kaže)"
+      steen:pos="v.refl. ipf."
+      steen:type="3"
+      steen:same="ru"
+    >
+      kazati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здавацца</lemma>
+    <lemma>уяўляцца</lemma>
+    <lemma>падавацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изглеждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdát se</lemma>
+    <lemma>ukazovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>činiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се чини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wydawać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>казаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zdať sa</lemma>
+    <lemma>ukazovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>si domišljam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чинити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здаватися</lemma>
+    <lemma>видаватися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ŝajni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>scheinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lijken</lemma>
+    <lemma>schijnen</lemma>
+  </synset>
+</multilingual-synset>

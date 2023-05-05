@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9558"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9558" steen:pos="particle" steen:type="1" steen:same="z j">
+      nehaj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няхай</lemma>
+    <lemma>хай</lemma>
+    <lemma>бадай</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nechť</lemma>
+    <lemma>ať</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neka</lemma>
+    <lemma>da</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нека</lemma>
+    <lemma>може да</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niech</lemma>
+    <lemma>niechaj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пусть</lemma>
+    <lemma>пускай</lemma>
+    <lemma>нехай</lemma>
+    <lemma>да</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nech</lemma>
+    <lemma>nech</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>včasih</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нека</lemma>
+    <lemma>да</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нехай</lemma>
+    <lemma>хай</lemma>
+    <lemma>най</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lasu</lemma>
+    <lemma>povas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>lassen kann</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="partikel om een wens of gebod uit te drukken" />
+  </synset>
+</multilingual-synset>

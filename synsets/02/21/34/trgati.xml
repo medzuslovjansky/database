@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22134"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22134"
+      steen:pos="v.tr. ipf."
+      steen:type="NaN"
+      steen:same="cs sh"
+    >
+      trgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>збіраць</lemma>
+    <lemma annotation="плады">зрываць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изберете наглеют</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trhat</lemma>
+    <lemma>česat</lemma>
+    <lemma annotation="ovoce">sbírat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="voće">brati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тргање</lemma>
+    <lemma>влечење</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="owoce, kwiaty">zbierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собирать</lemma>
+    <lemma annotation="плоды">срывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trhať</lemma>
+    <lemma>česať</lemma>
+    <lemma annotation="ovocie">zbierať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="sadje">branje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="воће">брати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>збирати</lemma>
+    <lemma annotation="плоди">зривати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elektu</lemma>
+    <lemma>desxiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pick</lemma>
+    <lemma>zupfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plukken</lemma>
+  </synset>
+</multilingual-synset>

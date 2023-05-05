@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13052"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13052"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="E"
+    >
+      trener
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трэнер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>треньор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trenér</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trener</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тренер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trener</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тренер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tréner</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>trener</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тренер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тренер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trejnisto</lemma>
+    <lemma>trejnisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Trainer</lemma>
+    <lemma>Coach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>trainer</lemma>
+    <lemma>coach</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3535"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3535" steen:pos="v.intr. pf." steen:type="1">
+      izstųpiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выступіць</lemma>
+    <lemma>выйсці наперад</lemma>
+    <lemma>з&apos;явіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="напред">отида</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vystoupit</lemma>
+    <lemma>vyjít</lemma>
+    <lemma>jednat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istupiti</lemma>
+    <lemma>nastupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истапи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wystąpić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выступить</lemma>
+    <lemma>выйти вперёд</lemma>
+    <lemma>появиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vystúpiť</lemma>
+    <lemma>vyjsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odstopiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иступити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виступити</lemma>
+    <lemma>висунутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>veni antaŭen</lemma>
+    <lemma>paŝon antaŭen</lemma>
+    <lemma annotation="sur scenejo ktp">aperas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kommen nach vorne</lemma>
+    <lemma>Schritt weiter</lemma>
+    <lemma annotation="auf der Bühne etc.">erscheinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="podium">optreden</lemma>
+    <lemma>naar voren treden</lemma>
+  </synset>
+</multilingual-synset>

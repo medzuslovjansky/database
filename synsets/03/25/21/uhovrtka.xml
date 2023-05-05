@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32521"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32521"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v sk~ sh~ bg~"
+    >
+      uhovŕtka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вухакрутка</lemma>
+    <lemma>вухавёртка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>уховертки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>škvor</lemma>
+    <lemma>uchavec</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uholaža</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коњоштип</lemma>
+    <lemma>уволажа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skorek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уховёртка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>Škvor</lemma>
+    <lemma>uchavec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Strigalice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ухолажа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щипавка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>earwig</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ohrwurm</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orenkruiper</lemma>
+    <lemma>oorworm</lemma>
+  </synset>
+</multilingual-synset>

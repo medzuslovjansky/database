@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3248"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3248"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      pråzdnovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святкаваць</lemma>
+    <lemma annotation="рэліг.">цэлебраваць</lemma>
+    <lemma>адзначаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>празнуваме</lemma>
+    <lemma>празнуваме</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oslavovat</lemma>
+    <lemma>připomínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>praznovati</lemma>
+    <lemma>slaviti</lemma>
+    <lemma>obilježavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>празнува</lemma>
+    <lemma>прославува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>świętować</lemma>
+    <lemma>upamiętniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>праздновать</lemma>
+    <lemma>отмечать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>oslavovať</lemma>
+    <lemma>pripomínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>praznovanje</lemma>
+    <lemma>praznovanje</lemma>
+    <lemma>oznako</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прослављати</lemma>
+    <lemma>славити</lemma>
+    <lemma>обележавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>святкувати</lemma>
+    <lemma>відмічати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>festi</lemma>
+    <lemma>memorfesti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>feiern</lemma>
+    <lemma>gedenken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vieren</lemma>
+    <lemma>gedenken</lemma>
+    <lemma>herdenken</lemma>
+  </synset>
+</multilingual-synset>

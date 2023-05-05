@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20466"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20466" steen:pos="n." steen:type="1" steen:same="v cs j">
+      měrilo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мерка</lemma>
+    <lemma>крытэрый</lemma>
+    <lemma>стандарт</lemma>
+    <lemma>эталон</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мерило</lemma>
+    <lemma>стандарт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>měřítko</lemma>
+    <lemma>kritérium</lemma>
+    <lemma>standard</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjerilo</lemma>
+    <lemma>kriterij</lemma>
+    <lemma>mjera</lemma>
+    <lemma>ljestvica</lemma>
+    <lemma>skala</lemma>
+    <lemma>mjerač</lemma>
+    <lemma>omjer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мерило</lemma>
+    <lemma>критериум</lemma>
+    <lemma>стандард</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kryterium</lemma>
+    <lemma>standard</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мерило</lemma>
+    <lemma>критерий</lemma>
+    <lemma>стандарт</lemma>
+    <lemma>эталон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mierka</lemma>
+    <lemma>kritérium</lemma>
+    <lemma>štandard</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>merilo</lemma>
+    <lemma>kriterij</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мерило</lemma>
+    <lemma>критеријум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мірило</lemma>
+    <lemma>критерій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kriterio</lemma>
+    <lemma>normo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kriterium</lemma>
+    <lemma>standard</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>criterium</lemma>
+    <lemma>maatstaf</lemma>
+  </synset>
+</multilingual-synset>

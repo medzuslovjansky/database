@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36393"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36393"
+      steen:addition="(slije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      sliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зліць</lemma>
+    <lemma>злучыць</lemma>
+    <lemma>змяшаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сливат</lemma>
+    <lemma>микс</lemma>
+    <lemma>предпазител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slít</lemma>
+    <lemma>sloučit</lemma>
+    <lemma>smíchat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stopiti</lemma>
+    <lemma>sliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слее</lemma>
+    <lemma>спои</lemma>
+    <lemma>соедини</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>scalić</lemma>
+    <lemma>złączyć</lemma>
+    <lemma>zlać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слить</lemma>
+    <lemma>соединить</lemma>
+    <lemma>смешать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zliať</lemma>
+    <lemma>zlúčiť</lemma>
+    <lemma>zmiešať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spajanje</lemma>
+    <lemma>sliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стопити</lemma>
+    <lemma>слити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>злити</lemma>
+    <lemma>зілляти</lemma>
+    <lemma>з&apos;єднати</lemma>
+    <lemma>змішати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>merge</lemma>
+    <lemma>miksaĵo</lemma>
+    <lemma>fuzeo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>merge</lemma>
+    <lemma>Mischung</lemma>
+    <lemma>Sicherungs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenvoegen</lemma>
+    <lemma>fuseren</lemma>
+    <lemma>samenvloeien</lemma>
+  </synset>
+</multilingual-synset>

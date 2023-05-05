@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33669"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33669"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v pl sl bg"
+    >
+      zamirati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заміраць</lemma>
+    <lemma>цішэць</lemma>
+    <lemma>сціхаць</lemma>
+    <lemma>уціхаць</lemma>
+    <lemma>аціхаць</lemma>
+    <lemma>згасаць</lemma>
+    <lemma>атухаць</lemma>
+    <lemma>дагасаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zeslabovat</lemma>
+    <lemma>zhášet</lemma>
+    <lemma>vypínat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zamirati</lemma>
+    <lemma annotation="se">umrtvljivati</lemma>
+    <lemma>odumirati</lemma>
+    <lemma>slabiti</lemma>
+    <lemma>slabjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замирать</lemma>
+    <lemma>утихать</lemma>
+    <lemma>угасать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odumierať</lemma>
+    <lemma>zoslabovať</lemma>
+    <lemma>zhášať</lemma>
+    <lemma>vypínať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamrla</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замирати</lemma>
+    <lemma>обамирати</lemma>
+    <lemma>премирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завмирати</lemma>
+    <lemma>вщухати</lemma>
+    <lemma>згасати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mortas for</lemma>
+    <lemma>velkos</lemma>
+    <lemma>veni al senmova</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verklingen</lemma>
+    <lemma>verblassen sie weg</lemma>
+    <lemma>zum Stillstand gekommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegsterven</lemma>
+  </synset>
+</multilingual-synset>

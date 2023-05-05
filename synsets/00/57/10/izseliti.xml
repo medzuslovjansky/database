@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5710"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5710" steen:pos="v.tr. pf." steen:type="1">izseliti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выселіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изселвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vysídlit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>raseliti</lemma>
+    <lemma>istjerati</lemma>
+    <lemma>deportirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wysiedlić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выселить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sa">vysťahovať</lemma>
+    <lemma>emigrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izselijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иселити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виселити</lemma>
+    <lemma>переселити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elhejmigi</lemma>
+    <lemma>translokiĝi</lemma>
+    <lemma>elmigrinto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auswandern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitzetten</lemma>
+    <lemma annotation="uit het eigen woongebied verdrijven">expatriëren</lemma>
+  </synset>
+</multilingual-synset>

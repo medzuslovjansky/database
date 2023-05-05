@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="338"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="338"
+      steen:addition="(lije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      liti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліць</lemma>
+    <lemma>наліваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наливам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lít</lemma>
+    <lemma>nalévat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>liti</lemma>
+    <lemma>lijevati</lemma>
+    <lemma>nalijevati</lemma>
+    <lemma>točiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лее</lemma>
+    <lemma>точи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lać</lemma>
+    <lemma>nalewać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лить</lemma>
+    <lemma>наливать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>liať</lemma>
+    <lemma>nalievať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cast</lemma>
+    <lemma>pour</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лити</lemma>
+    <lemma>наливати</lemma>
+    <lemma>сипати</lemma>
+    <lemma>точити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лити</lemma>
+    <lemma>наливати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>verŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gießen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gieten</lemma>
+  </synset>
+</multilingual-synset>

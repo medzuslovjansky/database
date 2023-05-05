@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17054"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17054" steen:pos="adj." steen:type="1">ukončeny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скончаны</lemma>
+    <lemma>закончаны</lemma>
+    <lemma>завершаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завършен</lemma>
+    <lemma>довършен</lemma>
+    <lemma>готов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukončený</lemma>
+    <lemma>dokončený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>okončan</lemma>
+    <lemma>završen</lemma>
+    <lemma>gotov</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>готов</lemma>
+    <lemma>завршен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ukończony</lemma>
+    <lemma annotation="dzieło">skończony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>законченный</lemma>
+    <lemma>завершённый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ukončený</lemma>
+    <lemma>dokončený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>končan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завршен</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закінчений</lemma>
+    <lemma>завершений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>finita</lemma>
+    <lemma>kompletigita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abgeschlossen</lemma>
+    <lemma>abgeschlossen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voltooid</lemma>
+    <lemma>af</lemma>
+  </synset>
+</multilingual-synset>

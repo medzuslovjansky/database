@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17096"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="ru sh"
+    >
+      udaliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аддаліць</lemma>
+    <lemma>адхінуць</lemma>
+    <lemma>падаліць</lemma>
+    <lemma annotation="на адлегласці">выдаліць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се увеличи разстоянието до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oddálit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>udaljiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оддалечи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отдалить</lemma>
+    <lemma annotation="на расстояние">удалить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oddialiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povečati razdaljo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повећати растојање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>віддалити</lemma>
+    <lemma annotation="на відстань">видалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pligrandigi la distancon al</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vergrößern Sie den Abstand zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>de afstand vergroten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22336"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22336"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="uk pl sh mk"
+    >
+      pověrjennik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>давераная асоба</lemma>
+    <lemma annotation="саст.">наперснік</lemma>
+    <lemma>улюбёнец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>повереник</lemma>
+    <lemma>довереник</lemma>
+    <lemma>верен приятел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důvěrník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjerenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повереник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiernik</lemma>
+    <lemma>zausznik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доверенное лицо</lemma>
+    <lemma>наперсник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dôverník</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zaupnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повереник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повірник</lemma>
+    <lemma>прибічник</lemma>
+    <lemma>довірений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konfidulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vertrauter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrouweling</lemma>
+  </synset>
+</multilingual-synset>

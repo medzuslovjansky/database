@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23428"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23428"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="uk sb"
+      steen:genesis="I"
+    >
+      koma
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>коска</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запетая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čárka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zarez</lemma>
+    <lemma>koma</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запирка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przecinek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>запятая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čiarka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vejico</lemma>
+    <lemma>vejico</lemma>
+    <lemma>koma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зарез</lemma>
+    <lemma>запета</lemma>
+    <lemma>кома</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="розділовий знак">кома</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Komma</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>komma</lemma>
+  </synset>
+</multilingual-synset>

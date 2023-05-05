@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15915"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15915"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      individ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>індывід</lemma>
+    <lemma>асоба</lemma>
+    <lemma>персона</lemma>
+    <lemma>асабовасць</lemma>
+    <lemma>асабістасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>личност</lemma>
+    <lemma>лице</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>individuum</lemma>
+    <lemma>jednotlivec</lemma>
+    <lemma>osoba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pojedinac</lemma>
+    <lemma>osoba</lemma>
+    <lemma>individualac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>индивидуа</lemma>
+    <lemma>личност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osoba</lemma>
+    <lemma>jednostka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>индивид</lemma>
+    <lemma>личность</lemma>
+    <lemma>персона</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>indivíduum</lemma>
+    <lemma>jednotlivec</lemma>
+    <lemma>osoba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posamezniki</lemma>
+    <lemma>individualni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>индивидуа</lemma>
+    <lemma>појединац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>індивід</lemma>
+    <lemma>персона</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>individuajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Individuell</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>individu</lemma>
+  </synset>
+</multilingual-synset>

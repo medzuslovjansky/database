@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21439"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21439" steen:pos="f." steen:type="2" steen:same="cs yu mk">
+      posada
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>экіпаж</lemma>
+    <lemma>павозка</lemma>
+    <lemma>каманда</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>екипаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>posádka</lemma>
+    <lemma>osádka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posada</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посада</lemma>
+    <lemma>екипаж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>załoga</lemma>
+    <lemma>obsada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экипаж</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>posádka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posadka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посада</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>екіпаж</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝipanaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Besatzung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bemanning</lemma>
+  </synset>
+</multilingual-synset>

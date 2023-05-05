@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9340"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9340"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="E"
+    >
+      penthaus
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пентхаўс</lemma>
+    <lemma>пентхаўз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мезонет</lemma>
+    <lemma>пентхаус</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>střešní byt</lemma>
+    <lemma>podkrovní byt</lemma>
+    <lemma>penthouse</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pentahus</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поткровје</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>penthaus</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пентхаус</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>strešný byt</lemma>
+    <lemma>podkrovný byt</lemma>
+    <lemma>penthouse</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podstrešje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поткровље</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пентхаус</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>penthouse</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Penthouse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>penthouse</lemma>
+  </synset>
+</multilingual-synset>

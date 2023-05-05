@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14314"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14314" steen:pos="m.anim." steen:type="1">izvěstnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэпарцёр</lemma>
+    <lemma>карэспандэнт</lemma>
+    <lemma>журналіст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>новинар</lemma>
+    <lemma>репортер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>reportér</lemma>
+    <lemma>novinář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvjestitelj</lemma>
+    <lemma>novinar</lemma>
+    <lemma>reporter</lemma>
+    <lemma>izvjestilac</lemma>
+    <lemma>dopisnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>известувач</lemma>
+    <lemma>новинар</lemma>
+    <lemma>репортер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reporter</lemma>
+    <lemma>dziennikarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>репортёр</lemma>
+    <lemma>корреспондент</lemma>
+    <lemma>журналист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>reportér</lemma>
+    <lemma>novinár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>novinar</lemma>
+    <lemma>novinar</lemma>
+    <lemma>reporter</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извештач</lemma>
+    <lemma>новинар</lemma>
+    <lemma>репортер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>репортер</lemma>
+    <lemma>кореспондент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>raportisto</lemma>
+    <lemma>newsman</lemma>
+    <lemma>newsreporter</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reporter</lemma>
+    <lemma>Journalist</lemma>
+    <lemma>newsreporter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verslaggever</lemma>
+    <lemma>reporter</lemma>
+  </synset>
+</multilingual-synset>

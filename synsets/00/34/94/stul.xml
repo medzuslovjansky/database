@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3494" steen:pos="m." steen:type="3" steen:same="ru be">
+      stul
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крэсла</lemma>
+    <lemma annotation="мед.">стул</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стол</lemma>
+    <lemma>седалката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křeslo</lemma>
+    <lemma>sedačka</lemma>
+    <lemma>sedadlo</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>стольцъ</lemma>
+    <lemma>сѣдало</lemma>
+    <lemma>сѣдалище</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stolac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стол</lemma>
+    <lemma>седиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krzesło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стул</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kreslo</lemma>
+    <lemma>sedačka</lemma>
+    <lemma>sedadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>столица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стілець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>seĝo</lemma>
+    <lemma>sidloko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Stuhl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stoel</lemma>
+    <lemma>zetel</lemma>
+  </synset>
+</multilingual-synset>

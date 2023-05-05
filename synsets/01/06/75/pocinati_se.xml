@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10675"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v cz sh bm pl~"
+    >
+      počinati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пачынацца</lemma>
+    <lemma>усчынацца</lemma>
+    <lemma>распачынацца</lemma>
+    <lemma>стартаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">започнете</lemma>
+    <lemma annotation="интр.">моделът</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>začínat se</lemma>
+    <lemma>počínat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>počinjati</lemma>
+    <lemma>započinjati</lemma>
+    <lemma>pokretati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се почнува</lemma>
+    <lemma>се започнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaczynać się</lemma>
+    <lemma>rozpoczynać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начинаться</lemma>
+    <lemma>стартовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>začínať sa</lemma>
+    <lemma>počínať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>почињати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>починатися</lemma>
+    <lemma>стартувати</lemma>
+    <lemma>розпочинатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">komenci</lemma>
+    <lemma annotation="intr.">starti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">beginnen</lemma>
+    <lemma annotation="intr.">Start</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beginnen</lemma>
+    <lemma>aanvangen</lemma>
+  </synset>
+</multilingual-synset>

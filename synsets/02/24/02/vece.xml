@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22402"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22402" steen:pos="n." steen:type="1" steen:same="v z j">
+      věće
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>веча</lemma>
+    <lemma>сход</lemma>
+    <lemma>збор</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>среща</lemma>
+    <lemma>такса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shromáždění</lemma>
+    <lemma annotation="staroslovanské shromáždění">věče</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sastanak</lemma>
+    <lemma>skup</lemma>
+    <lemma>okupljanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>собир</lemma>
+    <lemma>собрание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zgromadzenie</lemma>
+    <lemma>wiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вече</lemma>
+    <lemma>собрание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zhromaždenia</lemma>
+    <lemma annotation="staroslovanské zhromaždenia">veciam</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>srečanje</lemma>
+    <lemma>srečanje</lemma>
+    <lemma>večja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>састанак</lemma>
+    <lemma>скуп</lemma>
+    <lemma>веће</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>віче</lemma>
+    <lemma>збори</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>meeting</lemma>
+    <lemma>kunvenon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Treffen</lemma>
+    <lemma>das Sammeln von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijeenkomst</lemma>
+  </synset>
+</multilingual-synset>

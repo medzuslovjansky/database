@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21048"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21048"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prěduprěditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запабегчы</lemma>
+    <lemma>перадухіліць</lemma>
+    <lemma>вымінуць</lemma>
+    <lemma>унікнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за предотвратяване на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabránit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spriječiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>спречи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapobiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предотвратить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zabrániť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Prevent</lemma>
+    <lemma>stop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предупредити</lemma>
+    <lemma>спречити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запобігти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Malebligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verhindern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorkomen</lemma>
+  </synset>
+</multilingual-synset>

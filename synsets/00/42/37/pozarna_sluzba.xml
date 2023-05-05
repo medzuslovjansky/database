@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4237"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4237" steen:pos="f." steen:type="1">požarna služba</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пажарная служба</lemma>
+    <lemma>пажарная ахова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пожарна служба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hasičský záchranný sbor</lemma>
+    <lemma>požární služba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vatrogasci</lemma>
+    <lemma>vatrogasna služba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>противпожарна служба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>straż pożarna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пожарная служба</lemma>
+    <lemma>пожарная охрана</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hasičský záchranný zbor</lemma>
+    <lemma>požiarna služba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gasilci</lemma>
+    <lemma>gasilci</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ватрогасци</lemma>
+    <lemma>ватрогасна служба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пожежна служба</lemma>
+    <lemma>пожежна охорона</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fajro servo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Feuerwehr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brandweer</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17482"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17482" steen:pos="f." steen:type="1">hvoja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ігліца</lemma>
+    <lemma>шыпулька</lemma>
+    <lemma annotation="у раслін">іголка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="от иглолистно дърво">игличка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chvoj</lemma>
+    <lemma>chvojí</lemma>
+    <lemma>jehličí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iglica</lemma>
+    <lemma>četina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>борови иглички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="drzewo">igła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хвоя</lemma>
+    <lemma>игла</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čečina</lemma>
+    <lemma>ihličie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="iglavci">igle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="четинарска">иглица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хвоя</lemma>
+    <lemma>голка</lemma>
+    <lemma annotation="дерево">хвоїнка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="arbo">kudrilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Baum">Nadel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="boom">naald</lemma>
+  </synset>
+</multilingual-synset>

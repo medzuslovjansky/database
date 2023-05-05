@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="958"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="958"
+      steen:addition="(napiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      napisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напіса́ць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>написвам</lemma>
+    <lemma>записвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napsat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напиша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>написа́ть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pisanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>написати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>написати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skribi</lemma>
+    <lemma>skribi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schreiben</lemma>
+    <lemma>aufschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opschrijven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2265"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2265" steen:pos="m." steen:type="1" steen:same="v z j">
+      klås
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>колас</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клас</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пченка на пр.">клас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kłos</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колос</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uho</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>колос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="bot.">orelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="bot.">Ohr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aar</lemma>
+  </synset>
+</multilingual-synset>

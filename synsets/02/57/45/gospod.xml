@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25745"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25745" steen:pos="m.anim." steen:type="1" steen:same="v j">
+      gospoď
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спадар</lemma>
+    <lemma>уладыка</lemma>
+    <lemma>уладар</lemma>
+    <lemma>валадар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>господар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pan</lemma>
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodin</lemma>
+    <lemma>gospodar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>господ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lord</lemma>
+    <lemma>pan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>господин</lemma>
+    <lemma>владыка</lemma>
+    <lemma>повелитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Gospod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>господ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пан</lemma>
+    <lemma>володар</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sinjoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Herr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heer</lemma>
+  </synset>
+</multilingual-synset>

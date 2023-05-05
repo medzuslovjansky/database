@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26271"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26271" steen:pos="adj." steen:type="2" steen:same="ub z">
+      svråtny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">зваротны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>възвратен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvratný</lemma>
+    <lemma annotation="gram.">reflexivní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povratni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>возвратен</lemma>
+    <lemma>рефлексивен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">zwrotny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">возвратный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvratný</lemma>
+    <lemma annotation="gram.">reflexívne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>donos (g).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="грам.">повратни</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="грам.">поворотний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>refleksiva</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>reflexiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="grammatica">betrekkelijk</lemma>
+  </synset>
+</multilingual-synset>

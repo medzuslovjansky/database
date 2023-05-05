@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17064"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17064" steen:pos="adj." steen:type="1">vtorny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>другарадны</lemma>
+    <lemma>другашараговы</lemma>
+    <lemma annotation="зап.">другасны</lemma>
+    <lemma>другаразовы</lemma>
+    <lemma>паўторны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вторичен</lemma>
+    <lemma>второстепенен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>druhotný</lemma>
+    <lemma>podružný</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>въторъ</lemma>
+    <lemma>въторꙑи</lemma>
+    <lemma>дроугъ</lemma>
+    <lemma>дроугꙑи</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sekundaran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вторичен</lemma>
+    <lemma>второстепен</lemma>
+    <lemma>секундарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wtórny</lemma>
+    <lemma>drugorzędny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вторичный</lemma>
+    <lemma>второстепенный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>druhotný</lemma>
+    <lemma>podružný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>drugič</lemma>
+    <lemma>druga stopnja</lemma>
+    <lemma>sekundarni</lemma>
+    <lemma>ki izhaja iz nečesa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>други</lemma>
+    <lemma>другоразредан</lemma>
+    <lemma>секундаран</lemma>
+    <lemma>изведен од нечега</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вторинний</lemma>
+    <lemma>другорядний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>duaranga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sekundär-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>secundair</lemma>
+  </synset>
+</multilingual-synset>

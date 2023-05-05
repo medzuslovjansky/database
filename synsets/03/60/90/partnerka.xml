@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36090"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36090"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="I"
+    >
+      partnerka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>партнёрка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>партньорка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>partnerka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>partnerica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>партнерка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>partnerka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>партнёрша</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>partnerka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>partner</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>партнерка</lemma>
+    <lemma>ортакиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>партнерка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="f.">partnero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="f.">Partner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>partner</lemma>
+  </synset>
+</multilingual-synset>

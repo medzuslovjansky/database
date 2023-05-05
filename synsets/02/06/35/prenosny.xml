@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20635"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20635"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      prěnosny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераносны</lemma>
+    <lemma>партатыўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преносим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přenosný</lemma>
+    <lemma>přenositelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijenosan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преносен</lemma>
+    <lemma>портабл</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przenośny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переносной</lemma>
+    <lemma>переносный</lemma>
+    <lemma>портативный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prenosný</lemma>
+    <lemma>prenositeľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prehodni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преносан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переносний</lemma>
+    <lemma>портативний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porteblaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tragbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draagbaar</lemma>
+  </synset>
+</multilingual-synset>

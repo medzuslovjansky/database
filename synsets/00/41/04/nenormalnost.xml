@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4104"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4104" steen:pos="f." steen:type="1" steen:genesis="I">
+      nenormaľnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ненармальнасць</lemma>
+    <lemma>ненармалёвасць</lemma>
+    <lemma>анамальнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ненормалност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>abnormalita</lemma>
+    <lemma>nenormálnost</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nenormalnost</lemma>
+    <lemma>poremećaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ненормалност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nienormalność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ненормальность</lemma>
+    <lemma>аномальность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>abnormalita</lemma>
+    <lemma>nenormálnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nenormalnosti motnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ненормалност</lemma>
+    <lemma>поремећај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ненормальність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anomalio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anomalie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>abnormaliteit</lemma>
+  </synset>
+</multilingual-synset>

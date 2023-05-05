@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25195"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25195"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      dentist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дантыст</lemma>
+    <lemma>стаматолаг</lemma>
+    <lemma>зубны лекар</lemma>
+    <lemma>зубны ўрач</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зъболекар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dentista</lemma>
+    <lemma>zubař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stomatolog</lemma>
+    <lemma>zubar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>забар</lemma>
+    <lemma>стоматолог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dentysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дантист</lemma>
+    <lemma>стоматолог</lemma>
+    <lemma>зубной врач</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dentista</lemma>
+    <lemma>zubár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zobozdravnik</lemma>
+    <lemma>zobozdravnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зубар</lemma>
+    <lemma>стоматолог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дантист</lemma>
+    <lemma>стоматолог</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dentisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zahnarzt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tandarts</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25650"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25650"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v sk j"
+    >
+      gȯltnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глынуць</lemma>
+    <lemma>праглынуць</lemma>
+    <lemma>заглот</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гълтам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>polknout</lemma>
+    <lemma>hltnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>progutati</lemma>
+    <lemma>gutnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>голтна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>połknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>глотнуть</lemma>
+    <lemma>проглотить</lemma>
+    <lemma>заглотить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prehltnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lastovka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прогутати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ковтнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hirundo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schlucken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slikken</lemma>
+  </synset>
+</multilingual-synset>

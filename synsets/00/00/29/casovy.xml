@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29" steen:pos="adj." steen:type="1">časovy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>часовы</lemma>
+    <lemma>часавы</lemma>
+    <lemma>тымчасовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>временен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dočasný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>privremen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>времено</lemma>
+    <lemma>привремено</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tymczasowy</lemma>
+    <lemma>okresowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>временный</lemma>
+    <lemma>временной</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dočasný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>začasni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>привремен</lemma>
+    <lemma>пролазан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тимчасовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provizora</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vorübergehend</lemma>
+    <lemma>temporär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdelijk</lemma>
+    <lemma>voorlopig</lemma>
+  </synset>
+</multilingual-synset>

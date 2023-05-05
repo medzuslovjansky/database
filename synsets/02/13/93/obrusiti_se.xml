@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21393"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21393"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      obrušiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абваліцца</lemma>
+    <lemma>абрынуцца</lemma>
+    <lemma>абрушыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>събирам отстъпи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zhroutit se</lemma>
+    <lemma>ustoupit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obrušiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се сруши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapaść się</lemma>
+    <lemma>zawalić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обрушиться</lemma>
+    <lemma>обвалиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrútiť sa</lemma>
+    <lemma>ustúpiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Nalet navzdol</lemma>
+    <lemma>umivalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрушити се</lemma>
+    <lemma>потонути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обрушитися</lemma>
+    <lemma>обвалитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolapso</lemma>
+    <lemma>donu vojon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kollabieren</lemma>
+    <lemma>den Weg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instorten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2283"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2283" steen:pos="m." steen:type="1">ręd</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рад</lemma>
+    <lemma>шэраг</lemma>
+    <lemma>чарга</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ред на опашката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řad</lemma>
+    <lemma>řada</lemma>
+    <lemma>zástup</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>red</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ред</lemma>
+    <lemma>ред на чекање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. domów">rząd</lemma>
+    <lemma>kolejka</lemma>
+    <lemma>szereg</lemma>
+    <lemma>kolejność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ряд</lemma>
+    <lemma>очередь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rad</lemma>
+    <lemma>zástup</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="hold">Rdeč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="чекање">ред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ряд</lemma>
+    <lemma>черга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vico</lemma>
+    <lemma>atendovico</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reihe</lemma>
+    <lemma>Warteschlange</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rij</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20131"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20131" steen:pos="m." steen:type="1" steen:genesis="I">
+      regulator ritma sŕdca
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кардыястымулятар</lemma>
+    <lemma>кіроўца рытму сэрца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пейсмейкър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kardiostimulátor</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pejsmejker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пејсмејкер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozrusznik serca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кардиостимулятор</lemma>
+    <lemma>водитель ритма сердца</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kardiostimulátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spodbujevalnika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пејсмејкер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кардіостимулятор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korregulilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schrittmacher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pacemaker</lemma>
+  </synset>
+</multilingual-synset>

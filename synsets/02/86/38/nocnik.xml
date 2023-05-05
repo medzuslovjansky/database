@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28638"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28638" steen:pos="m.anim.">nočnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўночнік</lemma>
+    <lemma>начнік</lemma>
+    <lemma>поначнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нощна птица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ponocovatel</lemma>
+    <lemma annotation="člověk">sova</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>noćnik</lemma>
+    <lemma>noćna ptica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ноќен човек</lemma>
+    <lemma annotation="преносно">вампир</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nocny marek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>полуночник</lemma>
+    <lemma>сова</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>človek</lemma>
+    <lemma>čo v noci nespí</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="fig.">noč sova</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="фиг.">ноћна птица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опівнічник</lemma>
+    <lemma>сова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nokto persono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nacht Mensch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nachtmens</lemma>
+  </synset>
+</multilingual-synset>

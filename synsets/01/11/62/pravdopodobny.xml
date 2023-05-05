@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11162"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11162" steen:pos="adj." steen:type="1" steen:same="v z">
+      pravdopodobny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праўдападобны</lemma>
+    <lemma>верагодны</lemma>
+    <lemma>імаверны</lemma>
+    <lemma>мажлівы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вероятно</lemma>
+    <lemma>може би</lemma>
+    <lemma>възможен</lemma>
+    <lemma>вероятен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravděpodobný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjerojatno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>веројатен</lemma>
+    <lemma>изводлив</lemma>
+    <lemma>аргументиран</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawdopodobny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вероятный</lemma>
+    <lemma>возможный</lemma>
+    <lemma>правдоподобный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pravdepodobný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>verjetno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вероватан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>правдоподібний</lemma>
+    <lemma>вірогідний</lemma>
+    <lemma>можливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>probabla</lemma>
+    <lemma>probable</lemma>
+    <lemma>eblas</lemma>
+    <lemma>kredinda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wahrscheinlich</lemma>
+    <lemma>wahrscheinlich</lemma>
+    <lemma>möglich</lemma>
+    <lemma>plausible</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waarschijnlijk</lemma>
+    <lemma>aannemelijk</lemma>
+    <lemma>plausibel</lemma>
+  </synset>
+</multilingual-synset>

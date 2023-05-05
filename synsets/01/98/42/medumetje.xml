@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19842"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19842" steen:pos="n." steen:type="2" steen:same="ru">
+      međumeťje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выклічнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>междуметие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>citoslovce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uskličnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="граматика">извик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykrzyknik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">междометие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>citoslovce</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klicaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>узвичник</lemma>
+    <lemma>ускличник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="частина мови">вигук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inciso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zwischenruf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tussenwerpsel</lemma>
+    <lemma>interjectie</lemma>
+  </synset>
+</multilingual-synset>

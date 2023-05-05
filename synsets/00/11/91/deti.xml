@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1191"
+      steen:addition="(děje/děne)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      děti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзець</lemma>
+    <lemma>пакласці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>слагам</lemma>
+    <lemma>поставям</lemma>
+    <lemma>дяна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dávat</lemma>
+    <lemma>klást</lemma>
+    <lemma>pokládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stavljati</lemma>
+    <lemma>polagati</lemma>
+    <lemma>metati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>става</lemma>
+    <lemma>сместува</lemma>
+    <lemma>клава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kłaść</lemma>
+    <lemma>podziać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>девать</lemma>
+    <lemma>класть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dávať</lemma>
+    <lemma>klásť</lemma>
+    <lemma>ukladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za moštvo</lemma>
+    <lemma>kraj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ставити</lemma>
+    <lemma>стављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дівати</lemma>
+    <lemma>подіти</lemma>
+    <lemma>покласти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>meti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>setzen</lemma>
+    <lemma>zu tun mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zetten</lemma>
+    <lemma>plaatsen</lemma>
+  </synset>
+</multilingual-synset>

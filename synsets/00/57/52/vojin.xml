@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5752"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5752" steen:pos="m.anim." steen:type="1">vojin</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>воін</lemma>
+    <lemma>ваяр</lemma>
+    <lemma>салдат</lemma>
+    <lemma>вайсковец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>войник</lemma>
+    <lemma>воин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vojín</lemma>
+    <lemma>voják</lemma>
+    <lemma>bojovník</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>воинъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vojnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>војник</lemma>
+    <lemma>воин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żołnierz</lemma>
+    <lemma>wojak</lemma>
+    <lemma>wojownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воин</lemma>
+    <lemma>солдат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vojak</lemma>
+    <lemma>vojak</lemma>
+    <lemma>bojovník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vojak</lemma>
+    <lemma>vojak</lemma>
+    <lemma annotation="arch.">vojenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>војник</lemma>
+    <lemma>војак</lemma>
+    <lemma annotation="арх.">војеник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>воїн</lemma>
+    <lemma>вояк</lemma>
+    <lemma>солдат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>soldato</lemma>
+    <lemma>militisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Soldat</lemma>
+    <lemma>Krieger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strijder</lemma>
+    <lemma>soldaat</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7451"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7451"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      entuziazmovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>натхняць</lemma>
+    <lemma>запальваць</lemma>
+    <lemma>захапляць</lemma>
+    <lemma>узнімаць</lemma>
+    <lemma>выклікаць энтузіязм</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ентусиазирам</lemma>
+    <lemma>запалвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nadchnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oduševljavati</lemma>
+    <lemma annotation="se">zanositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>воодушевува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>entuzjazmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воодушевлять</lemma>
+    <lemma>вызывать энтузиазм</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadchnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>entuzjazmirati</lemma>
+    <lemma>čudite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ентузјазмирати</lemma>
+    <lemma>одушевљавати</lemma>
+    <lemma>усхићавати</lemma>
+    <lemma>одушевљавати</lemma>
+    <lemma>заносити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>надихати</lemma>
+    <lemma>захоплювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>entuziasmon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwärmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enthousiasmeren</lemma>
+  </synset>
+</multilingual-synset>

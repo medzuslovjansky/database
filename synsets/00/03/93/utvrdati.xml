@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="393"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="393"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bm"
+    >
+      utvŕđati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дакумент, рашэнне">зацвярджаць</lemma>
+    <lemma>санкцыянаваць</lemma>
+    <lemma>ратыфікаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>одобри</lemma>
+    <lemma>твърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potvrzovat</lemma>
+    <lemma>stvrzovat</lemma>
+    <lemma>schavalovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>potvrđivati</lemma>
+    <lemma>utvrđivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>утврдува</lemma>
+    <lemma>потврдува</lemma>
+    <lemma>одобрува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatwierdzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="документ, решение">утверждать</lemma>
+    <lemma>санкционировать</lemma>
+    <lemma>ратифицировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>potvrdzovať</lemma>
+    <lemma>potvrdzovať</lemma>
+    <lemma>schavalovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrjujejo</lemma>
+    <lemma>vzpostaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потврђивати</lemma>
+    <lemma>утврђивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="документ, рішення">стверджувати</lemma>
+    <lemma>санкціонувати</lemma>
+    <lemma>ратифікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aprobi</lemma>
+    <lemma>approbate</lemma>
+    <lemma>sankcio</lemma>
+    <lemma>ratifiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>genehmigen</lemma>
+    <lemma>allege</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goedkeuren</lemma>
+    <lemma>bekrachtigen</lemma>
+    <lemma>ratificeren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2826"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2826" steen:pos="n." steen:type="1">palivo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паліва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гориво</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>palivo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gorivo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гориво</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>paliwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>топливо</lemma>
+    <lemma>горючее</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>palivo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="arch.">palivo gorivo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гориво</lemma>
+    <lemma annotation="арх.">паливо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>паливо</lemma>
+    <lemma>пальне</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>karburaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Treibstoff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brandstof</lemma>
+  </synset>
+</multilingual-synset>

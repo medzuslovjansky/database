@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1526"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1526"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      učiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вучыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>научи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>učit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>učiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>учи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>учить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>učiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>učiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>учити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>учити</lemma>
+    <lemma>вчити</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>instrui</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>lehren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lesgeven</lemma>
+    <lemma>onderwijzen</lemma>
+    <lemma>doceren</lemma>
+  </synset>
+</multilingual-synset>

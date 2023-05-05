@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2411"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2411"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      sěver
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>поўнач</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>север</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sever</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sjever</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>север</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>północ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>север</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sever</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>sever</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>север</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>північ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>norde</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Norden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>noord</lemma>
+    <lemma>noorden</lemma>
+  </synset>
+</multilingual-synset>

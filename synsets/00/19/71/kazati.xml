@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1971"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1971"
+      steen:addition="(kaže)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ub z~ sh bm"
+    >
+      kazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гаварыць</lemma>
+    <lemma>казаць</lemma>
+    <lemma>мовіць</lemma>
+    <lemma>расказваць</lemma>
+    <lemma>апавядаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>казвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>říkat</lemma>
+    <lemma>sdělovat</lemma>
+    <lemma>povídat</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>съказати</lemma>
+    <lemma>рещи</lemma>
+    <lemma>казати</lemma>
+    <lemma />
+  </synset>
+  <synset lang="hr">
+    <lemma>kazati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кажа</lemma>
+    <lemma>рече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mówić</lemma>
+    <lemma>powiadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>говорить</lemma>
+    <lemma>рассказывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hovoriť</lemma>
+    <lemma>oznamovať</lemma>
+    <lemma>rozprávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povej</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>казивати</lemma>
+    <lemma>говорити</lemma>
+    <lemma>изговарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>казати</lemma>
+    <lemma>говорити</lemma>
+    <lemma>мовити</lemma>
+    <lemma>розповідати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diri</lemma>
+    <lemma>ekzemple</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sagen</lemma>
+    <lemma>sagen wir</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeggen</lemma>
+  </synset>
+</multilingual-synset>

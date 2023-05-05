@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14232"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14232" steen:pos="f." steen:type="2" steen:same="cs sh">
+      zima
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>холад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>студ</lemma>
+    <lemma>хлад</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zima</lemma>
+    <lemma>chladno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>hladan</lemma>
+    <lemma>studen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>студ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zimno</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>холод</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zima</lemma>
+    <lemma>chladno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hladno</lemma>
+    <lemma>Ziman</lemma>
+    <lemma>Studen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хладан</lemma>
+    <lemma>зиман</lemma>
+    <lemma>студен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>холод</lemma>
+    <lemma>холоднеча</lemma>
+    <lemma>мороз</lemma>
+    <lemma>студінь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malvarmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kalt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kou</lemma>
+    <lemma>koude</lemma>
+  </synset>
+</multilingual-synset>

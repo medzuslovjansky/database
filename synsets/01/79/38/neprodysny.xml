@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17938"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17938" steen:pos="adj." steen:type="2" steen:same="cz sh">
+      neprodyšny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>герметычны</lemma>
+    <lemma>паветранепранікальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>херметизиран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neprodyšný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nepropustan</lemma>
+    <lemma>hermetičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>херметички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szczelny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>герметичный</lemma>
+    <lemma>воздухонепроницаемый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepriedušný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vodotesna</lemma>
+    <lemma>zrakotesna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непропустан</lemma>
+    <lemma>херметичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>герметичний</lemma>
+    <lemma>повітронепроникний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hermetikaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>luftdicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luchtdicht</lemma>
+  </synset>
+</multilingual-synset>

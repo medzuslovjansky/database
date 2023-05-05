@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36751"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36751"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru be sr bm"
+    >
+      råzsějany profesor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рассеяны прафесар</lemma>
+    <lemma>няўважлівы прафесар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>неприсъствен професор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>roztržitý profesor</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasijani profesor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расеан професор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>roztargniony profesor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассеянный профессор</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>roztržitý profesor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raztresen profesor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расејани професор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>роззявкуватий професор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>absenta menso profesoro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abwesender Professor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verstrooide professor</lemma>
+  </synset>
+</multilingual-synset>

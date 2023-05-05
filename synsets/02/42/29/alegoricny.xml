@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24229"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24229"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      alegoričny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>алегарычны</lemma>
+    <lemma>іншасказальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>алегоричен</lemma>
+    <lemma>иносказателен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>alegorický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>alegorijski</lemma>
+    <lemma>alegoričan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>алегоричен</lemma>
+    <lemma>алегориски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>alegoryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аллегорический</lemma>
+    <lemma>иносказательный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>alegorický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>alegoričen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>алегоричан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>алегоричний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>alegoria</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>allegorisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>allegorisch</lemma>
+  </synset>
+</multilingual-synset>

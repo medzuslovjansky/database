@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16140"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16140"
+      steen:pos="f."
+      steen:type="3"
+      steen:same="yu mk"
+      steen:genesis="I"
+    >
+      violina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скрыпка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цигулка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>housle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>violina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виолина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skrzypce</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скрипка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>husle</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>violina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>виолина</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>скрипка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>violono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Violine</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>viool</lemma>
+  </synset>
+</multilingual-synset>

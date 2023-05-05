@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35621"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35621" steen:pos="pron.pers." steen:type="1">one</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="жан. род, ніяк. род">яны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="женски, среден">те</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="ženský">ony</lemma>
+    <lemma annotation="střední">ona</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>онѣ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>one</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оние</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>one</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="жен. род, ср.род">они</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="ženský">ony</lemma>
+    <lemma annotation="stredný, mužský">oni</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Oh</lemma>
+    <lemma>ne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оне</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вони</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="ina, neŭtra">ili</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="weiblich, sächlich">sie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zij</lemma>
+  </synset>
+</multilingual-synset>

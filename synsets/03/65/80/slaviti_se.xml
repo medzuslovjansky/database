@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36580"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36580"
+      steen:addition="(+5)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      slaviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>славіцца</lemma>
+    <lemma>быць вядомым</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="за">да бъде известен</lemma>
+    <lemma annotation="за">да има репутация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>být slavný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>biti slavan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се слави</lemma>
+    <lemma>се прославува</lemma>
+    <lemma>станува познат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="za">być sławnym</lemma>
+    <lemma annotation="z">słynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>славиться</lemma>
+    <lemma>быть известным</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>byť slávnym</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>biti znan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бити славан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>славитися</lemma>
+    <lemma>бути відомим</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por">esti fama</lemma>
+    <lemma annotation="por">havas reputacion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="für">berühmt sein</lemma>
+    <lemma annotation="für">einen Ruf haben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="om">bekend zijn</lemma>
+    <lemma annotation="om">bekendstaan</lemma>
+  </synset>
+</multilingual-synset>

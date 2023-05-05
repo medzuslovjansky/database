@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5619"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5619" steen:pos="v.tr. ipf." steen:type="1">
+      sčityvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лічыць</lemma>
+    <lemma>рахаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>граф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počítat</lemma>
+    <lemma>vypočítávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>brojiti</lemma>
+    <lemma>brojati</lemma>
+    <lemma>prebrojavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пресметува</lemma>
+    <lemma>брои</lemma>
+    <lemma>пресметува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>liczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вычислять, определять количество">считать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>počítať</lemma>
+    <lemma>vypočítavať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>računati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>избројати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рахувати</lemma>
+    <lemma>лічити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kalkuli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anzahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tellen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16794"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16794" steen:pos="n." steen:type="2" steen:same="uk z yu">
+      gospodaŕstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эканоміка</lemma>
+    <lemma>народная гаспадарка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>икономика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hospodářství</lemma>
+    <lemma>ekonomika</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodarstvo</lemma>
+    <lemma>privreda</lemma>
+    <lemma>ekonomija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>економија</lemma>
+    <lemma>стопанство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gospodarka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экономика</lemma>
+    <lemma>народное хозяйство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hospodárstvo</lemma>
+    <lemma>ekonomika</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ekonomija</lemma>
+    <lemma>gospodarstvo</lemma>
+    <lemma>ekonomija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>привреда</lemma>
+    <lemma>економија</lemma>
+    <lemma>економика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>економіка</lemma>
+    <lemma>народне господарство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekonomio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wirtschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>economie</lemma>
+  </synset>
+</multilingual-synset>

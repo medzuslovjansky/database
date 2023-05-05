@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4328"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4328"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z yu mk"
+    >
+      ogroziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падставіць пад небяспеку</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опасност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohrozit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ugroziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>загрози</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagrozić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подвергнуть опасности</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ohroziť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ogroziti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>запретити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наразити на небезпеку</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>endanĝerigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gefährden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bedreigen</lemma>
+    <lemma>in gevaar brengen</lemma>
+  </synset>
+</multilingual-synset>

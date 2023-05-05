@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23292"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23292" steen:pos="adj." steen:type="2" steen:same="v">
+      naznačeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назначаны</lemma>
+    <lemma>прызначаны</lemma>
+    <lemma>вызначаны</lemma>
+    <lemma>пастаўлены</lemma>
+    <lemma>накіраваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фиксиран</lemma>
+    <lemma>определен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stanovený</lemma>
+    <lemma>určený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fiksan</lemma>
+    <lemma>učvršćen</lemma>
+    <lemma>pričvršćen</lemma>
+    <lemma>fiksiran</lemma>
+    <lemma>stalan</lemma>
+    <lemma>nepromjenjiv</lemma>
+    <lemma>određen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>определен</lemma>
+    <lemma>прицврстен</lemma>
+    <lemma>прецизиран</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustalony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>назначенный</lemma>
+    <lemma>определённый</lemma>
+    <lemma>установленный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stanovený</lemma>
+    <lemma>určený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poenostaviti</lemma>
+    <lemma annotation="v smislu opredeljenega">da smo dobili</lemma>
+    <lemma>fiksni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>устаљен</lemma>
+    <lemma annotation="у смислу одређен">дати</lemma>
+    <lemma>фиксан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>визначений</lemma>
+    <lemma>сталий</lemma>
+    <lemma>усталений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fiksita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fest</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bv. datum">vastgesteld</lemma>
+    <lemma>benoemd</lemma>
+    <lemma>aangesteld</lemma>
+  </synset>
+</multilingual-synset>

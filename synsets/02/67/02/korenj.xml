@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26702"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26702" steen:pos="m." steen:type="1">korenj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>корань</lemma>
+    <lemma>радыкал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="математ.">корен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odmocnina</lemma>
+    <lemma annotation="rovnice, mat.">kořen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korijen</lemma>
+    <lemma>radikal</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>корен</lemma>
+    <lemma>радикал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="matematyka">pierwiastek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корень</lemma>
+    <lemma>радикал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odmocnina</lemma>
+    <lemma annotation="rovnice, mat.">koreň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="mat.">koren</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>корен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корінь</lemma>
+    <lemma annotation="√">радикал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>radikala</lemma>
+    <lemma annotation="matematiko">radiko</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Math.">Wurzel</lemma>
+    <lemma>Radix</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wiskunde">wortel</lemma>
+  </synset>
+</multilingual-synset>

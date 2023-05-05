@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2115"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2115"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      osnovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заснаваць</lemma>
+    <lemma>зафундаваць</lemma>
+    <lemma>закласці</lemma>
+    <lemma>аснаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>намерени създаде база</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>založit</lemma>
+    <lemma>usatnovit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osnovati</lemma>
+    <lemma>ustanoviti</lemma>
+    <lemma>utemeljiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>основе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. szkołę">założyć</lemma>
+    <lemma>fundować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>основать</lemma>
+    <lemma>заложить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>založiť</lemma>
+    <lemma>ustanoviť</lemma>
+    <lemma>osnovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ustanovi</lemma>
+    <lemma>ustanovi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>основати</lemma>
+    <lemma>установити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заснувати</lemma>
+    <lemma>закласти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trovita</lemma>
+    <lemma>establi</lemma>
+    <lemma>bazo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gefunden</lemma>
+    <lemma>schaffen</lemma>
+    <lemma>Basis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>oprichten</lemma>
+    <lemma>stichten</lemma>
+    <lemma>vestigen</lemma>
+  </synset>
+</multilingual-synset>

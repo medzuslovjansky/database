@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1221"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1221"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      prokontrolovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пракантраляваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>контрол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkontrolovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prekontrolirati</lemma>
+    <lemma>prekontrolirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>проконтролира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skontrolować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>проконтролировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skontrolovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pregledovati</lemma>
+    <lemma>preverjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преконтролисати</lemma>
+    <lemma>преконтролирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проконтролювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supervisar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überwachen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toezien op</lemma>
+    <lemma>monitoren</lemma>
+    <lemma>controleren</lemma>
+  </synset>
+</multilingual-synset>

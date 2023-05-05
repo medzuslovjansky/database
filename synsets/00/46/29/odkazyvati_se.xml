@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4629"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4629" steen:pos="v.refl. ipf." steen:type="1">
+      odkazyvati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адмаўляццца</lemma>
+    <lemma>адхіляцца</lemma>
+    <lemma>адкідацца</lemma>
+    <lemma>апірацца</lemma>
+    <lemma>адракацца</lemma>
+    <lemma>складаць паўнамоцтвы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да абдикира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>abdikovat</lemma>
+    <lemma>odstupovat</lemma>
+    <lemma>zříkat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>abdicirati</lemma>
+    <lemma>odstupiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се откажува</lemma>
+    <lemma>се одрекува</lemma>
+    <lemma>абдицира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>abdykować</lemma>
+    <lemma>podawać się do dymisji</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="от должности">отказываться</lemma>
+    <lemma>отрекаться</lemma>
+    <lemma>слагать полномочия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>abdikovať</lemma>
+    <lemma>odstupovať</lemma>
+    <lemma>zriekať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odklanjajo</lemma>
+    <lemma>umaknejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одрицати се</lemma>
+    <lemma>одустајати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="від посади">відмовлятися</lemma>
+    <lemma>зрікатися</lemma>
+    <lemma>складати повноваження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>abdiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abdanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aftreden</lemma>
+    <lemma>abdiceren</lemma>
+  </synset>
+</multilingual-synset>

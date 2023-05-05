@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18259"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="k"
+      steen:id="18259"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      podhoditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падыходзіць</lemma>
+    <lemma annotation="набліжацца">падходзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="k">hodit se</lemma>
+    <lemma annotation="k">pasovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pristupati</lemma>
+    <lemma>približavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="кон">пристапува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="d">podchodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="приближаться">подходить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hodiť sa k</lemma>
+    <lemma>pasovať k</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dostop</lemma>
+    <lemma>približati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приступати</lemma>
+    <lemma>приближавати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="наближатися">підходити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alproksimiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ansatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naderen</lemma>
+    <lemma>benaderen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22679"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22679"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      obråtiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навярнуцца</lemma>
+    <lemma>навернуцца</lemma>
+    <lemma annotation="у рэлігію">перайсці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="религия">преобразуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="k něčemu, na něco">obrátit se</lemma>
+    <lemma>konvertovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preobratiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се преобрати</lemma>
+    <lemma>премина</lemma>
+    <lemma annotation="религија">конвертираше</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawrócić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обратиться</lemma>
+    <lemma annotation="в религию">перейти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="k niečomu, na niečo">obrátiť sa</lemma>
+    <lemma>konvertovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Če želite pretvoriti</lemma>
+    <lemma>pretvarjati</lemma>
+    <lemma>da vere spremembe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преобратити се</lemma>
+    <lemma>конвертирати</lemma>
+    <lemma>променити веру</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>навернутися</lemma>
+    <lemma annotation="у релігію">перейти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="al religio">konvertito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in der Religion">konvertieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich bekeren</lemma>
+  </synset>
+</multilingual-synset>

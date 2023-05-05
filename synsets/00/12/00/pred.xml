@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1200"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1200"
+      steen:addition="(+5)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      prěd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перад</lemma>
+    <lemma>перш</lemma>
+    <lemma>раней чым</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преди</lemma>
+    <lemma>Преди</lemma>
+    <lemma>преди</lemma>
+    <lemma>преди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>před</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pred</lemma>
+    <lemma>prije</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пред</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przed</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перед</lemma>
+    <lemma>прежде</lemma>
+    <lemma>ранее чем</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pred</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prej</lemma>
+    <lemma>preden</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пред</lemma>
+    <lemma>пре</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перед</lemma>
+    <lemma>раніше</lemma>
+    <lemma>раніше чим</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭe</lemma>
+    <lemma>antaŭ</lemma>
+    <lemma>antaŭ</lemma>
+    <lemma>antaŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vor</lemma>
+    <lemma>vor</lemma>
+    <lemma>vor</lemma>
+    <lemma>vor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voor</lemma>
+  </synset>
+</multilingual-synset>

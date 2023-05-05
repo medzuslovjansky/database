@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2922"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2922" steen:pos="n." steen:type="1" steen:genesis="I">
+      elektrošokovo orųžje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>электрашокер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>електрошок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>taser</lemma>
+    <lemma>elektrický paralyzér</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šoker</lemma>
+    <lemma>elektrošoker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>електро парализатор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>taser</lemma>
+    <lemma>paralizator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>электрошокер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>taser</lemma>
+    <lemma>elektrický paralyzér</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omamljanje pištolo</lemma>
+    <lemma>elektroparalizator</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парализатор</lemma>
+    <lemma>електропарализатор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>електрошокер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>taser</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Taser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>taser</lemma>
+  </synset>
+</multilingual-synset>

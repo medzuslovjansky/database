@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19678"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19678" steen:pos="adj." steen:type="1">doľny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ніжні</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>долен</lemma>
+    <lemma>нисш</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dolní</lemma>
+    <lemma>spodní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>donji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>долен</lemma>
+    <lemma>низок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dolny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нижний</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dolný</lemma>
+    <lemma>spodný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>manj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доњи</lemma>
+    <lemma annotation="диал.">дољни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нижній</lemma>
+    <lemma>долішній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>suba</lemma>
+    <lemma>malsupra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>untere</lemma>
+    <lemma>untere</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderste</lemma>
+    <lemma>beneden-</lemma>
+  </synset>
+</multilingual-synset>

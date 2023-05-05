@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25746"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25746" steen:pos="m.anim." steen:type="1">gospodaŕ</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гаспадар</lemma>
+    <lemma>гаспадар дома</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>домакин</lemma>
+    <lemma>хазяин</lemma>
+    <lemma>стопанин</lemma>
+    <lemma>господар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hospodář</lemma>
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodar</lemma>
+    <lemma>gazda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>домаќин</lemma>
+    <lemma>стопан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gospodarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хозяин</lemma>
+    <lemma>домохозяин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hospodár</lemma>
+    <lemma>pán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gostitelj šef</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>домаћин</lemma>
+    <lemma>газда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>господар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de la domo">sinjoro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="des Hauses">Herr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="des huizes">heer</lemma>
+  </synset>
+</multilingual-synset>

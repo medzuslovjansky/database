@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22261"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22261" steen:pos="m." steen:type="2" steen:same="ru sh">
+      proizvod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="мат.">множыва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="мат.">на продукта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mat.">součin</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proizvod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>производ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>iloczyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мат.">произведение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="mat.">súčin</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izdelek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>производ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="мат.">добуток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>produkto (matematiko).</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="math.">Produkt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wiskunde">product</lemma>
+  </synset>
+</multilingual-synset>

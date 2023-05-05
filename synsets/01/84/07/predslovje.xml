@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18407"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18407" steen:pos="n." steen:type="1" steen:same="ru pl">
+      prědslovje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадмова</lemma>
+    <lemma>пралог</lemma>
+    <lemma>уступ</lemma>
+    <lemma annotation="рэліг.">пролаг</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>предговор</lemma>
+    <lemma>предпосланное</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předmluva</lemma>
+    <lemma>úvod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predgovor</lemma>
+    <lemma>proslov</lemma>
+    <lemma>besjeda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przedmowa</lemma>
+    <lemma>przedsłowie</lemma>
+    <lemma>prolog</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предисловие</lemma>
+    <lemma>пролог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predslov</lemma>
+    <lemma>úvod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predgovor</lemma>
+    <lemma>odpiranje izjavo</lemma>
+    <lemma>uvod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предговор</lemma>
+    <lemma>уводна реч</lemma>
+    <lemma>увод</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передмова</lemma>
+    <lemma>пролог</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>antaŭparolo</lemma>
+    <lemma>prefaco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vorwort Vorwort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorwoord</lemma>
+  </synset>
+</multilingual-synset>

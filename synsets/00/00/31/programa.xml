@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31" steen:pos="f." steen:type="1" steen:genesis="I">
+      programa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праграма</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>програма</lemma>
+    <lemma>програми</lemma>
+    <lemma annotation="компютър">приложения</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>program</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>program</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>програма</lemma>
+    <lemma annotation="компјутер">апликација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>program</lemma>
+    <lemma>aplikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>программа</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>program</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Program</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>програм</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>програма</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>programo</lemma>
+    <lemma>programo</lemma>
+    <lemma annotation="komputila">aplikaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Programm</lemma>
+    <lemma>Programm</lemma>
+    <lemma annotation="Computer">Anwendung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>programma</lemma>
+  </synset>
+</multilingual-synset>

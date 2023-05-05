@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11372"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11372"
+      steen:addition="(prěsvęže)"
+      steen:pos="v.tr. pf."
+      steen:type="5"
+    >
+      prěsvęzati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перадалучыць</lemma>
+    <lemma>перападключыць</lemma>
+    <lemma>перападлучыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отново</lemma>
+    <lemma>перелинковки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znovu připojit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ponovno spojiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преврзе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>połączyć ponownie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переподключить</lemma>
+    <lemma>пересоединить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>znova pripojiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Znova</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превезати</lemma>
+    <lemma>поново повезати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перепідключити</lemma>
+    <lemma>перез&apos;єднати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rekonekti</lemma>
+    <lemma>relink</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wieder</lemma>
+    <lemma>relink</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opnieuw verbinden</lemma>
+  </synset>
+</multilingual-synset>

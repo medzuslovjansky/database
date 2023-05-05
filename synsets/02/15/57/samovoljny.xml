@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21557"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru pl j"
+    >
+      samovoljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>самавольны</lemma>
+    <lemma>свавольны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>умишлено</lemma>
+    <lemma>неоторизиран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svévolný</lemma>
+    <lemma>úmyslný</lemma>
+    <lemma>neoprávněný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>samovoljan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>самоволен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samowolny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>самовольный</lemma>
+    <lemma>своевольный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>svojvoľný</lemma>
+    <lemma>úmyselný</lemma>
+    <lemma>neoprávnený</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>samovoljen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>самовољан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>самовільний</lemma>
+    <lemma>свавільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>obstina</lemma>
+    <lemma>neaŭtorizita</lemma>
+    <lemma>kaprica</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>eigenmächtig</lemma>
+    <lemma>willkürlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigenmachtig</lemma>
+    <lemma>willekeurig</lemma>
+    <lemma>eigenwijs</lemma>
+    <lemma>eigenzinnig</lemma>
+  </synset>
+</multilingual-synset>

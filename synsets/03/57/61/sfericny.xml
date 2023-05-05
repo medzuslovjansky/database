@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35761"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35761"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      sferičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сферычны</lemma>
+    <lemma>кулісты</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сферични</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sférický</lemma>
+    <lemma>kulový</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sferičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сферичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sfericzny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сферический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sférický</lemma>
+    <lemma>guľový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Spheric</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сферичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сферичний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sfera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sphärisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sferisch</lemma>
+  </synset>
+</multilingual-synset>

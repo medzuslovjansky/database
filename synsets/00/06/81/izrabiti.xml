@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="681"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="681"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      izråbiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зрабіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>направя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udělat</lemma>
+    <lemma>vyrobit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izraditi</lemma>
+    <lemma>napraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изработи</lemma>
+    <lemma>направи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrobić</lemma>
+    <lemma>zrobić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сделать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>urobiť</lemma>
+    <lemma>vyrobiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ne</lemma>
+    <lemma>ne</lemma>
+    <lemma>ustvarjanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>направити</lemma>
+    <lemma>урадити</lemma>
+    <lemma>створити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зробити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>faris</lemma>
+    <lemma>tion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tun</lemma>
+    <lemma>stellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen</lemma>
+    <lemma>maken</lemma>
+  </synset>
+</multilingual-synset>

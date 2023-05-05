@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35186"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35186"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="be z yu mk"
+    >
+      nadzornik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наглядальнік</lemma>
+    <lemma>наглядчык</lemma>
+    <lemma>наглядач</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надзорник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dozorce</lemma>
+    <lemma>dohlížitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadzornik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>надзорник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nadzorca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>надзорщик</lemma>
+    <lemma>присмотрщик</lemma>
+    <lemma>наблюдатель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dozorca</lemma>
+    <lemma>dozorný orgán</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nadzornik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надзорник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наглядач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontrolisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Supervisor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toezichthouder</lemma>
+  </synset>
+</multilingual-synset>

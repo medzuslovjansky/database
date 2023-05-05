@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18722"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18722"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v cs sh bm"
+    >
+      snimȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здымак</lemma>
+    <lemma>знімак</lemma>
+    <lemma>фатаграфія</lemma>
+    <lemma>фотка</lemma>
+    <lemma>фота</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>снимка</lemma>
+    <lemma annotation="снимка">снимка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>snímek</lemma>
+    <lemma>fotka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snimka</lemma>
+    <lemma>snimak</lemma>
+    <lemma>fotografija</lemma>
+    <lemma>fotka</lemma>
+    <lemma>fotos</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снимка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fotografia</lemma>
+    <lemma>fotka</lemma>
+    <lemma>zdjęcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снимок</lemma>
+    <lemma>фотография</lemma>
+    <lemma>фотка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>snímok</lemma>
+    <lemma>fotka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posnetke</lemma>
+    <lemma>fotografije</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>снимак</lemma>
+    <lemma>фотографија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>знімок</lemma>
+    <lemma>фотографія</lemma>
+    <lemma>фотка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>foto</lemma>
+    <lemma annotation="foto">pafo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Foto</lemma>
+    <lemma annotation="Fotografie">Schuss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>foto</lemma>
+    <lemma annotation="fotografie">schot</lemma>
+  </synset>
+</multilingual-synset>

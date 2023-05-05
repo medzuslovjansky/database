@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17001"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17001" steen:pos="m." steen:type="2" steen:genesis="I">
+      perfekt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закончаны час</lemma>
+    <lemma annotation="грам.">перфект</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="грам.">перфект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">perfektum</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>perfekt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>перфект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czas przeszły dokonany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">перфект</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">perfektum</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popolna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>перфекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>доконаний час</lemma>
+    <lemma annotation="грам.">перфект</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>perfekta tempo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Perfekt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voltooid tegenwoordige tijd</lemma>
+  </synset>
+</multilingual-synset>

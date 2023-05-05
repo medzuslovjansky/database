@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18463"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18463" steen:pos="v.intr. ipf." steen:type="1">
+      pribyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыбываць</lemma>
+    <lemma>прыязджаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дойде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dorážet</lemma>
+    <lemma>přijíždět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dolaziti</lemma>
+    <lemma>pristizati</lemma>
+    <lemma>stizati</lemma>
+    <lemma annotation="avionom">doletati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристига</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прибывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>dorážať</lemma>
+    <lemma>prichádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prišli</lemma>
+    <lemma>prišli</lemma>
+    <lemma>ki prihajajo</lemma>
+    <lemma annotation="z letalom">doletati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>долазити</lemma>
+    <lemma>пристизати</lemma>
+    <lemma>стизати</lemma>
+    <lemma annotation="авионом">долетати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прибувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alveni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma>arriveren</lemma>
+  </synset>
+</multilingual-synset>

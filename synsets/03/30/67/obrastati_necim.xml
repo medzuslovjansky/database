@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33067"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33067"
+      steen:addition="(obråste)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      obrastati něčim
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="чым-небудзь">абрастаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>станали обрасли</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrůstat něčím</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obrastati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обрсанува со нешто</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrastać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="чем-либо">обрастать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrastať niečím</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poraščena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обрастати</lemma>
+    <lemma>зарастати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="чим-небудь">обростати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fariĝis superkreskita per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zu mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overgroeid raken met/door</lemma>
+  </synset>
+</multilingual-synset>

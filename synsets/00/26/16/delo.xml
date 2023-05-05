@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2616"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2616"
+      steen:addition="(děla/dělese)"
+      steen:pos="n."
+      steen:type="1"
+    >
+      dělo
+    </lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>работа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dílo</lemma>
+    <lemma>práce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rad</lemma>
+    <lemma>posao</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>работа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>praca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>работа</lemma>
+    <lemma>дело</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dielo</lemma>
+    <lemma>práca</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>delo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рад</lemma>
+    <lemma>посао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>робота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laboro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Arbeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werk</lemma>
+  </synset>
+</multilingual-synset>

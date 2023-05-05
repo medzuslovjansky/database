@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21722"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21722" steen:pos="n." steen:type="1">dostojenstvo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чын</lemma>
+    <lemma>званне</lemma>
+    <lemma>пасада</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ранг</lemma>
+    <lemma>титла</lemma>
+    <lemma>длъжност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hodnost</lemma>
+    <lemma>titul</lemma>
+    <lemma>postavení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rang</lemma>
+    <lemma>čin</lemma>
+    <lemma>titula</lemma>
+    <lemma>položaj</lemma>
+    <lemma>pozicija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>звање</lemma>
+    <lemma>титула</lemma>
+    <lemma>положба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostojeństwo</lemma>
+    <lemma annotation="hierarchia">stanowisko</lemma>
+    <lemma annotation="hierarchia">tytuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чин</lemma>
+    <lemma>звание</lemma>
+    <lemma>должность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hodnosť</lemma>
+    <lemma>titul</lemma>
+    <lemma>postavenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="naslovi rang">dostojanstvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="чин, титула">достојанство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чин</lemma>
+    <lemma>звання</lemma>
+    <lemma>посада</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rango</lemma>
+    <lemma>titolo</lemma>
+    <lemma>pozicio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rang</lemma>
+    <lemma>Titel</lemma>
+    <lemma>Position</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rang</lemma>
+    <lemma>titel</lemma>
+    <lemma>functie</lemma>
+  </synset>
+</multilingual-synset>

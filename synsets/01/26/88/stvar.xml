@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12688"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12688" steen:pos="m." steen:type="2" steen:same="j">
+      stvår
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэч</lemma>
+    <lemma>прадмет</lemma>
+    <lemma>справа</lemma>
+    <lemma>здарэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нещо</lemma>
+    <lemma>сделка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>věc</lemma>
+    <lemma>záležitost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stvar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ствар</lemma>
+    <lemma>нешто</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rzecz</lemma>
+    <lemma>sprawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вещь</lemma>
+    <lemma>предмет</lemma>
+    <lemma>дело</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vec</lemma>
+    <lemma>záležitosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stvar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ствар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>річ</lemma>
+    <lemma>справа</lemma>
+    <lemma>діло</lemma>
+    <lemma>штука</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>afero</lemma>
+    <lemma>aferon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sache</lemma>
+    <lemma>Materie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zaak</lemma>
+    <lemma>ding</lemma>
+  </synset>
+</multilingual-synset>

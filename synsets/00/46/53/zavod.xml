@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4653"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4653" steen:pos="m." steen:type="2" steen:same="ru cz">
+      zavod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завод</lemma>
+    <lemma>фабрыка</lemma>
+    <lemma annotation="дыял.">хвабрыка</lemma>
+    <lemma annotation="дыял.">хвабрыца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завод</lemma>
+    <lemma>фабрика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závod</lemma>
+    <lemma>továrna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tvornica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фабрика</lemma>
+    <lemma>завод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fabryka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завод</lemma>
+    <lemma>фабрика</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>závod</lemma>
+    <lemma>továreň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Predsedstvo</lemma>
+    <lemma>tovarne</lemma>
+    <lemma>tovarna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завод</lemma>
+    <lemma>творница</lemma>
+    <lemma>фабрика</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завод</lemma>
+    <lemma>фабрика</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fabriko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fabrik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fabriek</lemma>
+  </synset>
+</multilingual-synset>

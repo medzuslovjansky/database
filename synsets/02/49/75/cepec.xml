@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24975"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24975" steen:pos="m.">čepec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каптур</lemma>
+    <lemma>чэпчык</lemma>
+    <lemma>чапец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шапка">боне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čepec</lemma>
+    <lemma>čepice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kapa</lemma>
+    <lemma>kapica</lemma>
+    <lemma>poklopac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>капа</lemma>
+    <lemma>женска капа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czepek</lemma>
+    <lemma annotation="nakrycie głowy">czepiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чепец</lemma>
+    <lemma>чепчик</lemma>
+    <lemma>капор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čepiec</lemma>
+    <lemma>čiapka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klobuk</lemma>
+    <lemma>kapa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>капа</lemma>
+    <lemma>капица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>очіпок</lemma>
+    <lemma annotation="головний убір">капор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="headgear">ĉapelon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Kopfbedeckungen">Motorhaube</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="hoofddeksel">kap</lemma>
+    <lemma>hul</lemma>
+  </synset>
+</multilingual-synset>

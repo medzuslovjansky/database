@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36626"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36626"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl bm"
+    >
+      povtorny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паўторны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>повторен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opakovaný</lemma>
+    <lemma>opětovný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dvostruk</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повторен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powtórny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>повторный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>opakovaný</lemma>
+    <lemma>opätovný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dvojen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>двострук</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повторний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="por dua fojo">ripetis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zum zweiten Mal">wiederholt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herhaald</lemma>
+  </synset>
+</multilingual-synset>

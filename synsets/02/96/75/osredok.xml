@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29675" steen:pos="m." steen:type="2" steen:same="ub pl">
+      osrědȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цэнтр</lemma>
+    <lemma>цэнтар</lemma>
+    <lemma>сярэдзіна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>център</lemma>
+    <lemma>център</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prostředek</lemma>
+    <lemma>střed</lemma>
+    <lemma>centrum</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sredina</lemma>
+    <lemma annotation="arh.">srijeda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>средина</lemma>
+    <lemma>средиште</lemma>
+    <lemma>центар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>środek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>центр</lemma>
+    <lemma>середина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stred</lemma>
+    <lemma>prostriedok</lemma>
+    <lemma>centrum</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okolje</lemma>
+    <lemma annotation="Arch.">v sredo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>средина</lemma>
+    <lemma annotation="арх.">среда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осередок</lemma>
+    <lemma>центр</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>centro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zentrum</lemma>
+    <lemma>Zentrum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>middelpunt</lemma>
+    <lemma>centrum</lemma>
+  </synset>
+</multilingual-synset>

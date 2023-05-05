@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26966"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26966" steen:pos="m.anim." steen:type="2" steen:same="v z">
+      kulik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кулік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="вид птица">брегобегач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pták">kulík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ptica močvarica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид птица">речна тринга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kulik</lemma>
+    <lemma>siewkowiec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кулик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vták">kulík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neobdelana voda kozice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>угара</lemma>
+    <lemma>водена шљука</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кулик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vadbirdo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>waten Vogel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>waadvogel</lemma>
+  </synset>
+</multilingual-synset>

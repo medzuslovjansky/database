@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5781"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5781" steen:pos="m." steen:type="1">råzklad</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расклад</lemma>
+    <lemma annotation="дзеяў">план</lemma>
+    <lemma annotation="працы, работы">графік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>график</lemma>
+    <lemma>график</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plán</lemma>
+    <lemma>harmonogram</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>raspored</lemma>
+    <lemma>vozni red</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распоред</lemma>
+    <lemma>план</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkład</lemma>
+    <lemma>plan zajęć</lemma>
+    <lemma>harmonogram</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расписание</lemma>
+    <lemma annotation="действий">план</lemma>
+    <lemma annotation="работы">график</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>plán</lemma>
+    <lemma>časový harmonogram</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razpored (ure) načrt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="часова">распоред</lemma>
+    <lemma>план</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розклад</lemma>
+    <lemma annotation="дій">план</lemma>
+    <lemma annotation="роботи">графік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>horaro</lemma>
+    <lemma>horaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zeitplan</lemma>
+    <lemma>Zeitplan</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schema</lemma>
+    <lemma>dienstregeling</lemma>
+  </synset>
+</multilingual-synset>

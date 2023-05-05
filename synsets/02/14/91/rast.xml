@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21491"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21491" steen:pos="m." steen:type="1" steen:same="ru cz sh">
+      råst
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рост</lemma>
+    <lemma>вышыня</lemma>
+    <lemma>высачыня</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>височина</lemma>
+    <lemma>ръст</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výška</lemma>
+    <lemma>postava</lemma>
+    <lemma>vzrůst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rast</lemma>
+    <lemma>stas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раст</lemma>
+    <lemma>висина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wysokość</lemma>
+    <lemma>postura</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рост</lemma>
+    <lemma>высота</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výška</lemma>
+    <lemma>postava</lemma>
+    <lemma>vzrast</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rast</lemma>
+    <lemma>višina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>раст</lemma>
+    <lemma>висина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зріст</lemma>
+    <lemma>висота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alto</lemma>
+    <lemma>staturo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Höhe</lemma>
+    <lemma>Statur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="lichaam">lengte</lemma>
+  </synset>
+</multilingual-synset>

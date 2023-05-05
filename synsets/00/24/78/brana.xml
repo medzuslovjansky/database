@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2478"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2478" steen:pos="f." steen:type="1">bråna</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>барана</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>брана</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="zeměděl.">brány</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>drljača</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="земјоделско орудие">брана</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brona</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>борона</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>brány</lemma>
+    <lemma annotation="poľnohosp.">brána</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brana</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дрљача</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>борона</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Harrow</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Egge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eg</lemma>
+  </synset>
+</multilingual-synset>

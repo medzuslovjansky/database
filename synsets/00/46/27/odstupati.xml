@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4627"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4627"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      odstųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уступаць</lemma>
+    <lemma>саступаць</lemma>
+    <lemma>папускацца</lemma>
+    <lemma>адыходзіць у бок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>махни се</lemma>
+    <lemma>махни се</lemma>
+    <lemma>дай път</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ustupovat</lemma>
+    <lemma annotation="krok stranou">odstupovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>napuštati</lemma>
+    <lemma>ostavljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отстапува</lemma>
+    <lemma>повлекува</lemma>
+    <lemma>дава предност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odstępować</lemma>
+    <lemma>odchodzić na bok</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дорогу">уступать</lemma>
+    <lemma>отходить в сторону</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ustupovať</lemma>
+    <lemma annotation="krok stranou">odstupovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dopust</lemma>
+    <lemma>dopust</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напуштати</lemma>
+    <lemma>остављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="дорогою">поступатися</lemma>
+    <lemma>відходити убік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŝi flanken</lemma>
+    <lemma>paŝo for</lemma>
+    <lemma>donu vojon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einen Schritt zur Seite</lemma>
+    <lemma>Schritt weg</lemma>
+    <lemma>den Weg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opzijgaan</lemma>
+    <lemma>plaats maken voor</lemma>
+  </synset>
+</multilingual-synset>

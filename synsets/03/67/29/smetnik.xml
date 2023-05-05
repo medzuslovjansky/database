@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36729"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36729"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ub pl sk sl"
+    >
+      smetnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сметнік</lemma>
+    <lemma>кош для смецця</lemma>
+    <lemma>кошык для смецця</lemma>
+    <lemma>вядро для смецця</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кош за боклук</lemma>
+    <lemma>кофа за боклук</lemma>
+    <lemma>кофа за прах</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>popelnice</lemma>
+    <lemma>odpadkdový koš</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kanta za smeće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>канта за отпадоци</lemma>
+    <lemma>контејнер за ѓубре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śmietnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мусорка</lemma>
+    <lemma>мусорное ведро</lemma>
+    <lemma>корзина для мусора</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>smetník</lemma>
+    <lemma>smetár</lemma>
+    <lemma>odpadkový kôš</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>smetnjak</lemma>
+    <lemma>koš za smeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>канта за ђубре</lemma>
+    <lemma>канта за смеће</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>смітник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rubujo</lemma>
+    <lemma>rubujo</lemma>
+    <lemma>polvosuĉilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mülleimer</lemma>
+    <lemma>Mülleimer</lemma>
+    <lemma>Mülleimer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vuilnisbak</lemma>
+    <lemma>prullenmand</lemma>
+  </synset>
+</multilingual-synset>

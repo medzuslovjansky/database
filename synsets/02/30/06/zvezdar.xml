@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23006"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23006"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="sh"
+      steen:genesis="S"
+    >
+      zvězdaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>астролаг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звездоброец</lemma>
+    <lemma>астролог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hvězdář</lemma>
+    <lemma>astrolog</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>ѕвѣсдозако́нникъ</lemma>
+    <lemma>ма́гъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>astrolog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>астролог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>astrolog</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>астролог</lemma>
+    <lemma>звездочёт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hvezdár</lemma>
+    <lemma>astrológ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>astrolog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>астролог</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>астролог</lemma>
+    <lemma>звіздар</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>astrologo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Astrologe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>astroloog</lemma>
+  </synset>
+</multilingual-synset>

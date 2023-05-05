@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17711"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17711" steen:pos="f." steen:type="2" steen:same="ru cs">
+      krysa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пацук</lemma>
+    <lemma>шчур</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>плъх</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>krysa</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>štakor</lemma>
+    <lemma>pantagana</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стаор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szczur</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>крыса</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krysa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podgana</lemma>
+    <lemma annotation="arch.">parcov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пацов</lemma>
+    <lemma annotation="арх.">парцов</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щур</lemma>
+    <lemma>пацюк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rato</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Ratte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rat</lemma>
+  </synset>
+</multilingual-synset>

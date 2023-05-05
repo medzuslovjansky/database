@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7320"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7320"
+      steen:addition="(-yh)"
+      steen:pos="m.pl."
+      steen:type="3"
+      steen:same="pl"
+    >
+      drobne
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дробязь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дребни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>drobné</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sitniš</lemma>
+    <lemma>sitnina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дробен</lemma>
+    <lemma>мал</lemma>
+    <lemma>ситен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bilon</lemma>
+    <lemma>drobne</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мелочь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>drobné</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>majhna sprememba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ситниш</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дрібні монети</lemma>
+    <lemma>дріб&apos;язок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝanĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Veränderung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kleingeld</lemma>
+  </synset>
+</multilingual-synset>

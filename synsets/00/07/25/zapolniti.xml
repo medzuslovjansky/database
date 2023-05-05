@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="725"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="725" steen:pos="v.tr. pf." steen:type="1">zapȯlniti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запоўніць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запълня</lemma>
+    <lemma>попълня</lemma>
+    <lemma>запълня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyplnit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zapuniti</lemma>
+    <lemma annotation="se">ispuniti</lemma>
+    <lemma annotation="se">napuniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пополни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapełnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заполнить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyplniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napolniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напунити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заповнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝissate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>füllen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vullen</lemma>
+  </synset>
+</multilingual-synset>

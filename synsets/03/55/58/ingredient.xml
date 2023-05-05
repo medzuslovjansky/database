@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35558"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35558"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs bg"
+      steen:genesis="I"
+    >
+      ingredient
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інгрэдыент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съставка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ingredient</lemma>
+    <lemma>složka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>primjesa</lemma>
+    <lemma>sastavni dio</lemma>
+    <lemma>sastojak</lemma>
+    <lemma>sastojina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>состојка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>składnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ингредиент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ingredient</lemma>
+    <lemma>zložka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sestavina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>састојак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інгредієнт</lemma>
+    <lemma>складник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ingredienco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zutat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ingrediënt</lemma>
+  </synset>
+</multilingual-synset>

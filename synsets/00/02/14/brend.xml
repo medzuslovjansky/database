@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="214"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="214" steen:pos="m." steen:type="1" steen:genesis="E">
+      brend
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>брэнд</lemma>
+    <lemma>марка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бранд</lemma>
+    <lemma>марка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>značka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>marka</lemma>
+    <lemma>robna marka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бренд</lemma>
+    <lemma>трговска марка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бренд</lemma>
+    <lemma>марка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>značka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>znamka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бренд</lemma>
+    <lemma>робна марка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бренд</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>markon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Brandmarke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>merk</lemma>
+  </synset>
+</multilingual-synset>

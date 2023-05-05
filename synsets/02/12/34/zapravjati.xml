@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21234"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21234"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      zapravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="страву">запраўляць</lemma>
+    <lemma>падкалочваць</lemma>
+    <lemma>прыкрашваць</lemma>
+    <lemma>закрашваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подправям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>okořeňovat</lemma>
+    <lemma>ochucovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>začinjavati</lemma>
+    <lemma>obogaćivati okus</lemma>
+    <lemma>prožinjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="јадење">прави</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyprawiać</lemma>
+    <lemma>doprawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="блюдо">заправлять</lemma>
+    <lemma>приправлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>okořeňovat</lemma>
+    <lemma>ochucovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začinjena</lemma>
+    <lemma>obogatena okus</lemma>
+    <lemma>prožinjati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зачињавати</lemma>
+    <lemma>обогаћивати укус</lemma>
+    <lemma>прожињати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="блюдо">заправляти</lemma>
+    <lemma>приправляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sezono</lemma>
+    <lemma>gusto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Saison</lemma>
+    <lemma>Geschmack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kruiden</lemma>
+  </synset>
+</multilingual-synset>

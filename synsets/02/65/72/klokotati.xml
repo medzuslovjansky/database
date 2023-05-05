@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26572"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26572"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru cz sl"
+    >
+      klokotati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бурліць</lemma>
+    <lemma>булькатаць</lemma>
+    <lemma>клекатаць</lemma>
+    <lemma>булькаць</lemma>
+    <lemma>журчаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клокоча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klokotat</lemma>
+    <lemma>bublat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klokotati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клокоти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bulgotać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клокотать</lemma>
+    <lemma>бурлить</lemma>
+    <lemma>журчать</lemma>
+    <lemma>булькать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klokotať</lemma>
+    <lemma>bublať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>guggle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клокотати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клекотати</lemma>
+    <lemma>булькотіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gurgle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gurgeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gorgelen</lemma>
+  </synset>
+</multilingual-synset>

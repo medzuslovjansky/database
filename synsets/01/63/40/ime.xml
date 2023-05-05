@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16340"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16340" steen:pos="n." steen:type="1">imę</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>название</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>název</lemma>
+    <lemma>označení</lemma>
+    <lemma>jméno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naziv</lemma>
+    <lemma>termin</lemma>
+    <lemma>ime</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>име</lemma>
+    <lemma>назив</lemma>
+    <lemma>ознака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nazwa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>название</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>názov</lemma>
+    <lemma>označenie</lemma>
+    <lemma>meno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ime</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>назив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>назва</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nomado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bezeichnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>benaming</lemma>
+  </synset>
+</multilingual-synset>

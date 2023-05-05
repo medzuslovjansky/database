@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32021"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32021"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      kozel odpušćeńja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казёл адпушчэння</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жертвен козел</lemma>
+    <lemma>козел отпущения</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obětní beránek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žrtveni jarac</lemma>
+    <lemma>dežurni krivac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жртвен јарец</lemma>
+    <lemma>дежурен виновник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kozioł ofiarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>козёл отпущения</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obetný baránok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kozel žrtvena ram kozel (številke).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жртвени јарац</lemma>
+    <lemma>жртвени ован</lemma>
+    <lemma annotation="фигур.">дежурни кривац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цап-відбувайло</lemma>
+    <lemma>цап-відбивайло</lemma>
+    <lemma>офірний козел</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Azazel</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Sündenbock</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zondebok</lemma>
+  </synset>
+</multilingual-synset>

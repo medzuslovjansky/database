@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22561"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22561"
+      steen:addition="(vri)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      vrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кіпець</lemma>
+    <lemma>варыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вря</lemma>
+    <lemma>варя</lemma>
+    <lemma>завирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vřít</lemma>
+    <lemma>vařit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>vreti</lemma>
+    <lemma>kuhati se</lemma>
+    <lemma>ključati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вари</lemma>
+    <lemma>врие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wrzeć</lemma>
+    <lemma>gotować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кипеть</lemma>
+    <lemma>вариться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vrieť</lemma>
+    <lemma>variť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zavre</lemma>
+    <lemma>kuhamo gor</lemma>
+    <lemma>kuhaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врети</lemma>
+    <lemma>кувати се</lemma>
+    <lemma>кључати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>кипіти</lemma>
+    <lemma>варитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">boli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">boil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koken</lemma>
+  </synset>
+</multilingual-synset>

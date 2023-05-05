@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28980"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28980"
+      steen:addition="(obvede)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      obvesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абвесці</lemma>
+    <lemma>абкружыць</lemma>
+    <lemma>акружыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>олово наоколо</lemma>
+    <lemma>съраунд</lemma>
+    <lemma>обносить</lemma>
+    <lemma>съраунд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obehnat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>opkoliti</lemma>
+    <lemma>okružiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обиколи</lemma>
+    <lemma>окружи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>otoczyć</lemma>
+    <lemma>okrążyć</lemma>
+    <lemma>obwieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обвести</lemma>
+    <lemma>окружить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obohnať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>surround</lemma>
+    <lemma>obkrožite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опколити</lemma>
+    <lemma>окружити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обвести</lemma>
+    <lemma>оточити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kondukas ĉirkaŭe</lemma>
+    <lemma>ĉirkaŭi</lemma>
+    <lemma>ĉirkaŭfermi</lemma>
+    <lemma>surround</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>herumführen</lemma>
+    <lemma>umgeben</lemma>
+    <lemma>umschließen</lemma>
+    <lemma>Surround-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omgeven</lemma>
+    <lemma>omringen</lemma>
+    <lemma>om … heen leiden</lemma>
+  </synset>
+</multilingual-synset>

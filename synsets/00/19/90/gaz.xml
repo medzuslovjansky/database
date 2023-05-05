@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1990"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1990" steen:pos="m." steen:type="1">gaz</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>газ</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>газ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>plyn</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plin</lemma>
+    <lemma>gas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gaz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>газ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>plyn</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>газ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gaso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gas</lemma>
+  </synset>
+</multilingual-synset>

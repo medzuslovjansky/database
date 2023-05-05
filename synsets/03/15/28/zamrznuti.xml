@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31528"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31528"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      zamrznųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замерзнуць</lemma>
+    <lemma>змерзнуць</lemma>
+    <lemma>застыць</lemma>
+    <lemma>устыць</lemma>
+    <lemma>патужэць</lemma>
+    <lemma>застыгнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>измръзна</lemma>
+    <lemma>премръзна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umrznout</lemma>
+    <lemma>zmrznout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">smrznuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премрзна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamarznąć</lemma>
+    <lemma>zlodowacieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замёрзнуть</lemma>
+    <lemma>застыть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamrznúť</lemma>
+    <lemma>zmrznúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamrzne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>смрзнути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замерзнути</lemma>
+    <lemma>застигнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frostigi al morto</lemma>
+    <lemma>glacio finiĝis</lemma>
+    <lemma>esti frosto-mordis</lemma>
+    <lemma>frostigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erfrieren</lemma>
+    <lemma>vereisen</lemma>
+    <lemma>sei erfroren</lemma>
+    <lemma>erstarren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doodvriezen</lemma>
+    <lemma>bevriezen</lemma>
+  </synset>
+</multilingual-synset>

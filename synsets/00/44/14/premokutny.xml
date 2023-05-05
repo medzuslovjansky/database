@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4414"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4414"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ub pl sl hr"
+    >
+      prěmokųtny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прастакутны</lemma>
+    <lemma>прамавугольны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>правоъгълен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obdélníkový</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pravokutni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>правоаголен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prostokątny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прямоугольный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obdĺžnikové</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravokotne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>правоугаони</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прямокутний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rektangula</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechteckig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechthoekig</lemma>
+  </synset>
+</multilingual-synset>

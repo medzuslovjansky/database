@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4357"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4357"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru cs j"
+    >
+      pųtnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падарожнік</lemma>
+    <lemma>вандроўца</lemma>
+    <lemma>вандроўнік</lemma>
+    <lemma>блукач</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пътник</lemma>
+    <lemma>скитник</lemma>
+    <lemma>пътник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cestovatel</lemma>
+    <lemma>poutník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>putnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>патник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podróżnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>путник</lemma>
+    <lemma>странник</lemma>
+    <lemma>путешественник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>cestovateľ</lemma>
+    <lemma>pútnik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popotnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>путник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подорожній</lemma>
+    <lemma>мандрівник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vojaĝanto</lemma>
+    <lemma>vagulo</lemma>
+    <lemma>vojaĝanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reisende</lemma>
+    <lemma>Wanderer</lemma>
+    <lemma>voyager</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reiziger</lemma>
+  </synset>
+</multilingual-synset>

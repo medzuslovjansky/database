@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35527"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35527"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      korporativny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карпаратыўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>корпоративен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korporátní</lemma>
+    <lemma>firemní</lemma>
+    <lemma>korporativní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korporativan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>корпоративен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korporacyjny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>корпоративный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korporátný</lemma>
+    <lemma>firemný</lemma>
+    <lemma>korporatívny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podjetja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>корпоративан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корпоративний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kompania</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Firmen-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bedrijfs-</lemma>
+  </synset>
+</multilingual-synset>

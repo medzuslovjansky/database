@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36175"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36175"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z bg"
+    >
+      bezmytny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязмытны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>безмитен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bezcelní</lemma>
+    <lemma>bez cla</lemma>
+    <lemma>bez daně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bescarinski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бесцарински</lemma>
+    <lemma>ослободени од данок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bezcłowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>беспошлинный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bezcolný</lemma>
+    <lemma>bez cla</lemma>
+    <lemma>bez dane</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>neobdavčen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесцарински</lemma>
+    <lemma>ослобођен пореза</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безмитний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>devo-libera</lemma>
+    <lemma>libera de impostoj</lemma>
+    <lemma>perdo-libera</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zollfrei</lemma>
+    <lemma>steuerfrei</lemma>
+    <lemma>gebührenfrei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>belastingvrij</lemma>
+  </synset>
+</multilingual-synset>

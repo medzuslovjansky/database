@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30897"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30897"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v bm"
+      steen:genesis="I"
+    >
+      tomat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памідор</lemma>
+    <lemma>тамат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>домат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rajče</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>paradajz</lemma>
+    <lemma>rajčica</lemma>
+    <lemma>pomidor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>домат</lemma>
+    <lemma>патлиџан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomidor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помидор</lemma>
+    <lemma>томат</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>paradajka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>paradižnik</lemma>
+    <lemma>rdeča jajčevci</lemma>
+    <lemma>paradižnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>парадајз</lemma>
+    <lemma>црвени патлиџан</lemma>
+    <lemma>рајчица</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>помідор</lemma>
+    <lemma>томат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tomato</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Tomate</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tomaat</lemma>
+  </synset>
+</multilingual-synset>

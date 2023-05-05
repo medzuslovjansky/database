@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22681"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22681"
+      steen:addition="(+3)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      obråtiti sę k
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звярнуцца да</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>адрес обжалва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někomu">obrátit se k</lemma>
+    <lemma annotation="někoho">obrátit se na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obratiti se</lemma>
+    <lemma>osloviti koga</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се обрати кон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwrócić się do</lemma>
+    <lemma>zaapelować do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обратиться к</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niekomu">obrátiť sa k</lemma>
+    <lemma annotation="niekoho">obrátiť sa na</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>se obrnite na</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обратити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звернутися до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>adreso</lemma>
+    <lemma>alparoli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Adresse</lemma>
+    <lemma>appelliere an</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich wenden tot</lemma>
+  </synset>
+</multilingual-synset>

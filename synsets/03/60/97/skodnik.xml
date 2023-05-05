@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36097"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36097"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub z sl"
+    >
+      škodnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вусяк">шкоднік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="насекоми">вредители</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>škůdce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>štetočina</lemma>
+    <lemma>štetnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="инсект">штетник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkodnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="насекомое">вредитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>škodca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>škodljivcev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штеточина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="комаха">шкідник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="insekto">plagoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Insekt">Schädling</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ongedierte</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="516"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="516" steen:pos="v.tr. ipf." steen:type="1">voziti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вазіць</lemma>
+    <lemma>перавозіць</lemma>
+    <lemma>транспартаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>превозвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vozit</lemma>
+    <lemma>dopravovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>voziti</lemma>
+    <lemma annotation="kolima">nositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вози</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wozić</lemma>
+    <lemma>transportować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возить</lemma>
+    <lemma>перевозить</lemma>
+    <lemma>транспортировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>voziť</lemma>
+    <lemma>dopravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vožnje</lemma>
+    <lemma annotation="avto">obrabe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>возити</lemma>
+    <lemma annotation="колима">носити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>возити</lemma>
+    <lemma>перевозити</lemma>
+    <lemma>транспортувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="per veturilo">portas</lemma>
+    <lemma>transporto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="mit einem Fahrzeug">tragen</lemma>
+    <lemma>Verkehr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vervoeren</lemma>
+    <lemma>transporteren</lemma>
+  </synset>
+</multilingual-synset>

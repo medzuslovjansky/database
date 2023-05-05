@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2699"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2699" steen:pos="v.tr. ipf." steen:type="1">
+      krestiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хрысціць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кръстя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křtít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krstiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крсти</lemma>
+    <lemma>крштева</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chrzcić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>крестить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>krstiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>baptize</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крстити</lemma>
+    <lemma annotation="арх.">крштавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хрестити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bapti</lemma>
+    <lemma>bapti</lemma>
+    <lemma>Christen</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>taufe</lemma>
+    <lemma>taufe</lemma>
+    <lemma>christen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dopen</lemma>
+    <lemma>kerstenen</lemma>
+  </synset>
+</multilingual-synset>

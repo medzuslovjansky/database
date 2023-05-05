@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6119"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6119"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="F"
+    >
+      abonovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падпісвацца</lemma>
+    <lemma>абанаваць</lemma>
+    <lemma>абаніраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>абонирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přihlásit se</lemma>
+    <lemma>zapojit se</lemma>
+    <lemma annotation="k odběru">podepsat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">pretplatiti</lemma>
+    <lemma>abonirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претплатува</lemma>
+    <lemma>абонира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>abonować</lemma>
+    <lemma>prenumerować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подписываться</lemma>
+    <lemma>абонировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prihlásiť sa</lemma>
+    <lemma annotation="na odber">zapísať sa</lemma>
+    <lemma>predplatiť si</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>naročiti se</lemma>
+    <lemma annotation="se">abonirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претплатити</lemma>
+    <lemma>претплатити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підписуватись</lemma>
+    <lemma>передплачувати</lemma>
+    <lemma>брати участь</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>aboni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>abonnieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>abonneren</lemma>
+  </synset>
+</multilingual-synset>

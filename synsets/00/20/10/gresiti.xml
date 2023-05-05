@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2010"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2010" steen:pos="v.intr. ipf." steen:type="1">
+      grěšiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грашыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="върша грях">греша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hřešit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>griješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>греши</lemma>
+    <lemma>прави грев</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grzeszyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>грешить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrešiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>grehovati</lemma>
+    <lemma>da napačno</lemma>
+    <lemma>da stori greh</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>греховати</lemma>
+    <lemma>грешити</lemma>
+    <lemma>чинити грех</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>грішити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sünde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zondigen</lemma>
+  </synset>
+</multilingual-synset>

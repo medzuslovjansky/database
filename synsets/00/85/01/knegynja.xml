@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8501"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8501" steen:pos="f." steen:type="1">knęgynja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>княгіня</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>княгиня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kněžna</lemma>
+    <lemma>princezna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kneginja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кнегиња</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="żona księcia">księżniczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>княгиня</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kňažná</lemma>
+    <lemma>princezná</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Princesa</lemma>
+    <lemma>princesa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>принцеза</lemma>
+    <lemma>кнегиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>княгиня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="princo edzino">princino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Prinz Frau">Prinzessin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="echtgenote van prins">prinses</lemma>
+  </synset>
+</multilingual-synset>

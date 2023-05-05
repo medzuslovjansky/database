@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1370"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1370" steen:pos="n." steen:type="1">složeno slovo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складанае слова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сложна дума</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>složené slovo</lemma>
+    <lemma>složenina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>složenica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сложен збор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyraz złożony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сложное слово</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zložené slovo</lemma>
+    <lemma>zloženina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spojina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сложеница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складне слово</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunmetita vorto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zusammengesetztes Wort</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenstelling</lemma>
+    <lemma annotation="woord">samenstelling</lemma>
+  </synset>
+</multilingual-synset>

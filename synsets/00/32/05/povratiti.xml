@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3205"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3205" steen:pos="v.pf." steen:type="3" steen:same="ru">
+      povråtiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павярнуць</lemma>
+    <lemma>скіраваць</lemma>
+    <lemma>звярнуць</lemma>
+    <lemma>павярнуцца</lemma>
+    <lemma>скіравацца</lemma>
+    <lemma>звярнуцца</lemma>
+    <lemma>развярнуцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="тр./интр.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otočit</lemma>
+    <lemma>obrátit</lemma>
+    <lemma>vrátit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svratiti</lemma>
+    <lemma>skrenuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поврати</lemma>
+    <lemma>заврте</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powrócić</lemma>
+    <lemma>zawrócić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>повернуть</lemma>
+    <lemma>свернуть</lemma>
+    <lemma>повернуться</lemma>
+    <lemma>развернуться</lemma>
+    <lemma>обернуться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>otočiť</lemma>
+    <lemma>obrátiť</lemma>
+    <lemma>vrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obnoviti</lemma>
+    <lemma annotation="nazaj">obnoviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повратити</lemma>
+    <lemma annotation="се назад">вратити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>повернути</lemma>
+    <lemma>звернути</lemma>
+    <lemma>обернутися</lemma>
+    <lemma>розвернутися</lemma>
+    <lemma>повернутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tr./intr.">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="tr./intr.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omkeren</lemma>
+  </synset>
+</multilingual-synset>

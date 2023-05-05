@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22283"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22283"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="pl~ cz sh"
+    >
+      velebny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>велічны</lemma>
+    <lemma>вялікасны</lemma>
+    <lemma>маестатычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>величествен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>velebný</lemma>
+    <lemma>vznešený</lemma>
+    <lemma>důstojný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>veleban</lemma>
+    <lemma>veličanstven</lemma>
+    <lemma>monumentalan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>величествен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dostojny</lemma>
+    <lemma>wielebny</lemma>
+    <lemma>majestatyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>величавый</lemma>
+    <lemma>величественный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>velebný</lemma>
+    <lemma>vznešený</lemma>
+    <lemma>dôstojný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>veličastno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>величанствен</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>величавий</lemma>
+    <lemma>величний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>majestaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>majestätisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>majestueus</lemma>
+    <lemma>majesteitelijk</lemma>
+  </synset>
+</multilingual-synset>

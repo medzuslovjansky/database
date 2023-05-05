@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23617"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23617"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v sh bg"
+      steen:genesis="I"
+    >
+      printer
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>друкарка</lemma>
+    <lemma>прынтар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>принтер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tiskárna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pisač</lemma>
+    <lemma>printer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>печатач</lemma>
+    <lemma>принтер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drukarka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>принтер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tlačiareň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tiskalnik</lemma>
+    <lemma>tiskalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штампач</lemma>
+    <lemma>принтер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>принтер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>presilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drucker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>printer</lemma>
+  </synset>
+</multilingual-synset>

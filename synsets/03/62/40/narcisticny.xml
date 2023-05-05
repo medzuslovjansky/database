@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36240"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      narcističny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нарцыстычны</lemma>
+    <lemma>самаўлюблёны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нарцистичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>narcistický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>narcisoidan</lemma>
+    <lemma>samoljubiv</lemma>
+    <lemma>sebeljubiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нарцисоиден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narcystyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нарциссический</lemma>
+    <lemma>самовлюблённый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>narcistický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Narcista</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нарцисоидан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нарцисичний</lemma>
+    <lemma>самозакоханий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>narcisista</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>narzisstisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>narcistisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18091"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18091" steen:pos="f." steen:type="3" steen:same="cs">
+      odroda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падвід</lemma>
+    <lemma>сорт</lemma>
+    <lemma>гатунак</lemma>
+    <lemma>разнавіднасць</lemma>
+    <lemma annotation="біял.">разнастайнасць</lemma>
+    <lemma>адмена</lemma>
+    <lemma>адменнасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>леката форма</lemma>
+    <lemma annotation="биология">разнообразие</lemma>
+    <lemma>мутация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odrůda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrsta</lemma>
+    <lemma>rasa</lemma>
+    <lemma>sorta</lemma>
+    <lemma>soj</lemma>
+    <lemma>pasmina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>биолошки облик</lemma>
+    <lemma annotation="биологија">сорта</lemma>
+    <lemma>вид</lemma>
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="biol.">rodzaj</lemma>
+    <lemma annotation="biol.">mutacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подвид</lemma>
+    <lemma>сорт</lemma>
+    <lemma annotation="биол.">разновидность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odroda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrsta</lemma>
+    <lemma>sorta</lemma>
+    <lemma annotation="nekaj">sev na poseben način</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врста</lemma>
+    <lemma>сорта</lemma>
+    <lemma>сој</lemma>
+    <lemma annotation="нечега">посебан вид</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підвид</lemma>
+    <lemma>сорт</lemma>
+    <lemma annotation="біол.">різновид</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>biologia formo</lemma>
+    <lemma annotation="biologio">vario</lemma>
+    <lemma>mutacio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>biologische Form</lemma>
+    <lemma annotation="Biologie">Sorte</lemma>
+    <lemma>mutation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="biologie">soort</lemma>
+  </synset>
+</multilingual-synset>

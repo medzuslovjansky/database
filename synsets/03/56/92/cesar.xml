@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35692"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35692"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="z yu"
+    >
+      cěsaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цар</lemma>
+    <lemma>імператар</lemma>
+    <lemma>цэсар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цар</lemma>
+    <lemma>император</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>císař</lemma>
+    <lemma>imperátor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cesar</lemma>
+    <lemma>car</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цезар</lemma>
+    <lemma>цар</lemma>
+    <lemma>император</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cesarz</lemma>
+    <lemma>imperator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>царь</lemma>
+    <lemma>император</lemma>
+    <lemma>цесарь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cisár</lemma>
+    <lemma>imperátor</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>cesar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цезар</lemma>
+    <lemma>цар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цісар</lemma>
+    <lemma>цар</lemma>
+    <lemma>імператор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>caro</lemma>
+    <lemma>imperiestro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zar</lemma>
+    <lemma>Kaiser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>keizer</lemma>
+  </synset>
+</multilingual-synset>

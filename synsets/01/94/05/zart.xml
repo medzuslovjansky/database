@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19405"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19405"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ub z"
+      steen:genesis="D"
+    >
+      žart
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>жарт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шега</lemma>
+    <lemma>смешка</lemma>
+    <lemma>виц</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žert</lemma>
+    <lemma>vtip</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vic</lemma>
+    <lemma>šala</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виц</lemma>
+    <lemma>шега</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żart</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шутка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žart</lemma>
+    <lemma>vtip</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šala</lemma>
+    <lemma>potegavščina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шала</lemma>
+    <lemma>шега</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жарт</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ŝerco</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Scherz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grap</lemma>
+    <lemma>scherts</lemma>
+  </synset>
+</multilingual-synset>

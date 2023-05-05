@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4941"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4941"
+      steen:addition="(+6)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>затым</lemma>
+    <lemma>пасля</lemma>
+    <lemma>пасля таго, як</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>след като следните</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. po prázdninách">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>po</lemma>
+    <lemma>potom</lemma>
+    <lemma>poslije</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>откако</lemma>
+    <lemma>по</lemma>
+    <lemma>после</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. po wakacjach">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>после</lemma>
+    <lemma>после того как</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="napr. po prázdninách">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>po</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>после</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>затим</lemma>
+    <lemma>після</lemma>
+    <lemma>після того, як</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poste</lemma>
+    <lemma>sekvante</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nach nach</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>na</lemma>
+  </synset>
+</multilingual-synset>

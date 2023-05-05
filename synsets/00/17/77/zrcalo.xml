@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1777"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1777" steen:pos="n." steen:type="1">zŕcalo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>люстэрка</lemma>
+    <lemma>люстра</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>огледало</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zrcadlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ogledalo</lemma>
+    <lemma>zrcalo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>огледало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lustro</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зеркало</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zrkadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ogledalo ogledalo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>огледало</lemma>
+    <lemma>зрцало</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дзеркало</lemma>
+    <lemma annotation="діал.">люстро</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spegulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Spiegel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spiegel</lemma>
+  </synset>
+</multilingual-synset>

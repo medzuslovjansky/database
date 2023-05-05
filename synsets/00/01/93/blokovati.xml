@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="193"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="193"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      blokovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>блокирам</lemma>
+    <lemma>преча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>blokovat</lemma>
+    <lemma>zatarasit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blokirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>блокира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>blokować</lemma>
+    <lemma>zastawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>блокировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>blokovať</lemma>
+    <lemma>zatarasiť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>blokirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>блокирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>блокувати</lemma>
+    <lemma>перешкоджати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bari</lemma>
+    <lemma>bloki</lemma>
+    <lemma>obstrukci</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>block</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blokkeren</lemma>
+  </synset>
+</multilingual-synset>

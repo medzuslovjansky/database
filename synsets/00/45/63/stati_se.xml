@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4563"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4563"
+      steen:addition="(stane)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      stati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стацца</lemma>
+    <lemma>пачацца</lemma>
+    <lemma>зрабіцца</lemma>
+    <lemma>здарыцца</lemma>
+    <lemma>спаравацца</lemma>
+    <lemma>надарыцца</lemma>
+    <lemma>адбыцца</lemma>
+    <lemma>здзеяцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>понякога</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stát se</lemma>
+    <lemma>přihodit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>dogoditi se</lemma>
+    <lemma>desiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се случи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wydarzyć się</lemma>
+    <lemma>stać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случиться</lemma>
+    <lemma>произойти</lemma>
+    <lemma>статься</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stať sa</lemma>
+    <lemma>prihodiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgodi</lemma>
+    <lemma>se zgodi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>догодити се</lemma>
+    <lemma>десити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>статися</lemma>
+    <lemma>трапитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okazi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>geschehen</lemma>
+    <lemma>passieren</lemma>
+    <lemma>sich ereignen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebeuren</lemma>
+    <lemma>geschieden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21268"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21268"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      čto sę tyče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>што тычыцца</lemma>
+    <lemma>адносна таго</lemma>
+    <lemma>што да</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>що се отнася до</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>co se týče</lemma>
+    <lemma>pokud jde o</lemma>
+    <lemma>s ohledem na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>što se tiče</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>што се однесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odnośnie</lemma>
+    <lemma>co się tyczy</lemma>
+    <lemma>co do</lemma>
+    <lemma>jeśli chodzi o</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>что касается</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čo sa týka</lemma>
+    <lemma>pokiaľ ide o</lemma>
+    <lemma>s ohľadom na</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kar se tiče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>што се тиче</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>що стосується</lemma>
+    <lemma>що до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rilate</lemma>
+    <lemma>koncerne</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>in Bezug auf</lemma>
+    <lemma>im Hinblick auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>met betrekking tot</lemma>
+    <lemma>ten aanzien van</lemma>
+  </synset>
+</multilingual-synset>

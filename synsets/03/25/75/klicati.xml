@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32575"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32575"
+      steen:addition="(kliče)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      klicati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>крычаць</lemma>
+    <lemma>клікаць</lemma>
+    <lemma>усклікаць</lemma>
+    <lemma>лямантаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>крещя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>křičet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vikati</lemma>
+    <lemma>klicati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вика</lemma>
+    <lemma>заповедува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krzyczeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кричать</lemma>
+    <lemma>звать</lemma>
+    <lemma>восклицать</lemma>
+    <lemma>вопить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kričať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vikati</lemma>
+    <lemma>pokličite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>викати</lemma>
+    <lemma>клицати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кричати</lemma>
+    <lemma>кликати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>krio</lemma>
+    <lemma>alvoko</lemma>
+    <lemma>hurao</lemma>
+    <lemma>krio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schreien</lemma>
+    <lemma>rufen</lemma>
+    <lemma>jubeln</lemma>
+    <lemma>weinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schreeuwen</lemma>
+    <lemma>roepen</lemma>
+  </synset>
+</multilingual-synset>

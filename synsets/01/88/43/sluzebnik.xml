@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18843"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18843" steen:pos="m.anim." steen:type="2" steen:same="j">
+      služebnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>службовец</lemma>
+    <lemma>працаўнік</lemma>
+    <lemma>служачы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>служител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaměstnanec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>službenik</lemma>
+    <lemma>zaposlenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>службеник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pracownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>служащий</lemma>
+    <lemma>сотрудник</lemma>
+    <lemma>работник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamestnanec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>referent</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>службеник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>службовець</lemma>
+    <lemma>працівник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oficisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mitarbeiter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werknemer</lemma>
+  </synset>
+</multilingual-synset>

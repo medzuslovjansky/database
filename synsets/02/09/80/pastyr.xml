@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20980"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20980"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      pastyŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пастыр</lemma>
+    <lemma>пастар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пастир</lemma>
+    <lemma>пастор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pastor</lemma>
+    <lemma>duchovní pastýř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>župnik</lemma>
+    <lemma>pastor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пастир</lemma>
+    <lemma>пастор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pastor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пастырь</lemma>
+    <lemma>пастор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pastor</lemma>
+    <lemma>duchovný pastier</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pastor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пастир</lemma>
+    <lemma>пастор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пастир</lemma>
+    <lemma>пастор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŝtisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pastor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pastoor</lemma>
+    <lemma>dominee</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20715"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20715"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      smykati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стульваць</lemma>
+    <lemma>плюшчыць</lemma>
+    <lemma>заплюшчваць</lemma>
+    <lemma>змыкаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="редиците">наблизо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>semykat</lemma>
+    <lemma>uzavírat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>suzbijati redove</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стиснува</lemma>
+    <lemma>доближува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwierać szeregi</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смыкать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zomkýnať</lemma>
+    <lemma>uzatvárať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izpusti vrstice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сузбијати редове</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>змикати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="vicoj">proksima</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Reihen">close</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="de rijen">sluiten</lemma>
+  </synset>
+</multilingual-synset>

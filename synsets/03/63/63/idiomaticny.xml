@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36363"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36363"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      idiomatičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ідыёматычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>идиоматичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>idiomatický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>idiomatski</lemma>
+    <lemma>idiomatičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>идиоматски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>idiomatyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>идиоматический</lemma>
+    <lemma>идиоматичний</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>idiomatický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>idiomatično</lemma>
+    <lemma>idiomatičan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>идиоматски</lemma>
+    <lemma>идиоматичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ідіоматичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>idioma</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>idiomatisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>idiomatisch</lemma>
+  </synset>
+</multilingual-synset>

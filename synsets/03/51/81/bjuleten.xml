@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35181"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35181"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      bjuleten
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бюлетэнь</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бюлетин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>buletin</lemma>
+    <lemma>věstník</lemma>
+    <lemma>zpravodaj</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>službeni list</lemma>
+    <lemma>bilten</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>билтен</lemma>
+    <lemma>весник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biuletyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бюллетень</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>buletin</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>glasilo</lemma>
+    <lemma>bilten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>службени лист</lemma>
+    <lemma>билтен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бюлетень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bulteno</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bekanntmachung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bulletin</lemma>
+  </synset>
+</multilingual-synset>

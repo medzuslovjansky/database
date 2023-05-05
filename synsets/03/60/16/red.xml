@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36016"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36016"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="cs sb yu mk"
+    >
+      ręd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="рэл.">ордэн</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="rel.">на поръчката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="rel.">řád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>red</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ред</lemma>
+    <lemma>правило</lemma>
+    <lemma>норма</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="rel.">zakon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="рел.">орден</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="rel.">poriadok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. Monako, Kaluđerski">vrsta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. монашки, калуђерски">ред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="рел.">орден</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rel.">ordon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="rel.">Ordnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="rel.">orde</lemma>
+  </synset>
+</multilingual-synset>

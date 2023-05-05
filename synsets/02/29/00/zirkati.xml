@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22900"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22900"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="uk pl sh mk"
+    >
+      zirkati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зіркаць</lemma>
+    <lemma>паглядаць</lemma>
+    <lemma>пазіраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надзъртам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mrkat</lemma>
+    <lemma>koukat</lemma>
+    <lemma annotation="letmo">hledět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zirkati</lemma>
+    <lemma>pogledavati</lemma>
+    <lemma>navirivati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѕирка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zerkać</lemma>
+    <lemma annotation="np. oknem">wyglądać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поглядывать</lemma>
+    <lemma>взглядывать</lemma>
+    <lemma>посматривать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žmurkať</lemma>
+    <lemma>pozerať</lemma>
+    <lemma annotation="letmo">hľadieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zirkati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зиркати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>поглядати</lemma>
+    <lemma>поглядати</lemma>
+    <lemma>поглядати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigardo</lemma>
+    <lemma>la flustristojn peek</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blick</lemma>
+    <lemma>blick</lemma>
+    <lemma>spähen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blikken</lemma>
+    <lemma>een blik werpen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34003"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34003"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      snovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="прадзіва">снаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>варп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>snovat</lemma>
+    <lemma>spřádat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snovati</lemma>
+    <lemma>smišljati</lemma>
+    <lemma>kovati planove</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="приготвува основа за ткаење">снови</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>snuć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="пряжу">сновать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>snovať</lemma>
+    <lemma>spriadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>načrtu</lemma>
+    <lemma>izumiti</lemma>
+    <lemma>iznajti spletke</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сновати</lemma>
+    <lemma>смишљати</lemma>
+    <lemma>смишљати интригу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>снувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Deformiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kette</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheren</lemma>
+    <lemma annotation="bij weven">ordenen</lemma>
+  </synset>
+</multilingual-synset>

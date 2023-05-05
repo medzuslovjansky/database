@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21246"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21246" steen:pos="v.tr. pf." steen:type="1">
+      zaraziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заразіць</lemma>
+    <lemma>інфектаваць</lemma>
+    <lemma>інфекцыяваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заразя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nakazit</lemma>
+    <lemma>infikovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaraziti</lemma>
+    <lemma>inficirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зарази</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zarazić</lemma>
+    <lemma>zainfekować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заразить</lemma>
+    <lemma>инфицировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>nakaziť</lemma>
+    <lemma>infikovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okužijo</lemma>
+    <lemma>okužijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заразити</lemma>
+    <lemma>инфицирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заразити</lemma>
+    <lemma>інфікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infekti</lemma>
+    <lemma>contaminate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>infizieren</lemma>
+    <lemma>verunreinigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>infecteren</lemma>
+    <lemma>besmetten</lemma>
+  </synset>
+</multilingual-synset>

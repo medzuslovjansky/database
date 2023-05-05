@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32062"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32062" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      poker
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="карты">покер</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="карта">покер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poker</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poker</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>покер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poker</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">покер</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poker</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poker</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>покер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">покер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">pokero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Poker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>poker</lemma>
+  </synset>
+</multilingual-synset>

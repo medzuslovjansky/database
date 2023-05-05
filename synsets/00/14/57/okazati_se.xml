@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1457"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1457"
+      steen:addition="(okaže)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      okazati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аказацца</lemma>
+    <lemma>выявіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ще се окаже</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>ukázat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>Ispostaviti se</lemma>
+    <lemma>ispasti</lemma>
+    <lemma>pokazati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се покува</lemma>
+    <lemma>се испоставува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>okazać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оказаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ukázať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dokazati sebe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>показати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виявитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rezulti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>herauskommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blijken</lemma>
+  </synset>
+</multilingual-synset>

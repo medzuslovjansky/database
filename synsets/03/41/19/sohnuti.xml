@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34119"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34119"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      sȯhnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сохнуць</lemma>
+    <lemma>сушэць</lemma>
+    <lemma>пасыхаць</lemma>
+    <lemma>засыхаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">суха</lemma>
+    <lemma>стават сухи изсъхват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>schnout</lemma>
+    <lemma>vysychat</lemma>
+    <lemma>usychat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sušiti</lemma>
+    <lemma>isušavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>суши</lemma>
+    <lemma>се исушува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>schnąć</lemma>
+    <lemma>wysychać</lemma>
+    <lemma>usychać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сохнуть</lemma>
+    <lemma>засыхать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>schnúť</lemma>
+    <lemma>vysychať</lemma>
+    <lemma>usychať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posuši</lemma>
+    <lemma>isušavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сушити</lemma>
+    <lemma>исушавати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>сохнути</lemma>
+    <lemma>засихати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">sekigi</lemma>
+    <lemma>velkis</lemma>
+    <lemma>Wither</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">trocken</lemma>
+    <lemma>trocken werden</lemma>
+    <lemma>welken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opdrogen</lemma>
+  </synset>
+</multilingual-synset>

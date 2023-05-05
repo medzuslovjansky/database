@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16861"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16861"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru cs sl bm"
+    >
+      neizvěstny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>невядомы</lemma>
+    <lemma>незнаёмы</lemma>
+    <lemma>бязведамы</lemma>
+    <lemma>нязнаны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неизвестен</lemma>
+    <lemma>непознат</lemma>
+    <lemma>незнаен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neznámý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nepoznat</lemma>
+    <lemma>neznan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непознат</lemma>
+    <lemma>неизесен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieznany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неизвестный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neznámy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Unknown</lemma>
+    <lemma>Unknown</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непознат</lemma>
+    <lemma>незнан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невідомий</lemma>
+    <lemma>незнаний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nekonata</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unbekannt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onbekend</lemma>
+  </synset>
+</multilingual-synset>

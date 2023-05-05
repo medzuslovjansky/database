@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21841"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21841"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl cz"
+    >
+      zastaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заставіць</lemma>
+    <lemma>залажыць</lemma>
+    <lemma>аддаць у заклад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заложа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zastavit</lemma>
+    <lemma>dát do zástavy</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>založiti</lemma>
+    <lemma>dati u zalog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заложи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oddać w zastaw</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заложить</lemma>
+    <lemma>отдать в залог</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zastaviť</lemma>
+    <lemma>dať do zástavy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zastavljene</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дати у залог</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>закласти</lemma>
+    <lemma>віддати в заставу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peono</lemma>
+    <lemma>Hock</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pawn</lemma>
+    <lemma>hock</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verpanden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34766"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="k"
+      steen:id="34766"
+      steen:addition="(podȯjde; podšėl) (+3)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      podȯjdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="наблізіцца">падысці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="k">jít</lemma>
+    <lemma>pasovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pristupiti</lemma>
+    <lemma>prići</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="кон">пристапи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="do">podejść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="приблизиться">подойти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ísť k</lemma>
+    <lemma>pasovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priče dostop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прићи</lemma>
+    <lemma>приступити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="наблизитися">підійти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alproksimiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ansatz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naderen</lemma>
+    <lemma>benaderen</lemma>
+  </synset>
+</multilingual-synset>

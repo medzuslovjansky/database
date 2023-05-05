@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29136"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29136"
+      steen:addition="(odpiše)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      odpisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спісаць</lemma>
+    <lemma>замаляваць</lemma>
+    <lemma>ануляваць</lemma>
+    <lemma>касаваць</lemma>
+    <lemma>скасаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отписване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="amortizovat">odepsat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otpisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпише</lemma>
+    <lemma>анулира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>amortyzować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>списать</lemma>
+    <lemma>аннулировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="amortizovať">odpísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odpisati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отписати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>списати</lemma>
+    <lemma>анулювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skribi for</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afschrijven</lemma>
+  </synset>
+</multilingual-synset>

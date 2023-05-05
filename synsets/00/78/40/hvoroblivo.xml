@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7840"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7840" steen:pos="adv." steen:type="2" steen:same="ub pl">
+      hvoroblivo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хварабліва</lemma>
+    <lemma>хваравіта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>болнаво</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nemocně</lemma>
+    <lemma>nezdravě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>boležljivo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>болезливо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chorobliwie</lemma>
+    <lemma>chorowicie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>болезненно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>choro</lemma>
+    <lemma>chorobne</lemma>
+    <lemma>nezdravo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>bolehen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>болешљиво</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хворобливо</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malsanece</lemma>
+    <lemma>malsaneme</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>kränklich</lemma>
+    <lemma>krankhaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziekelijk</lemma>
+  </synset>
+</multilingual-synset>

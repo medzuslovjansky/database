@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8428"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8428" steen:pos="adj." steen:type="1" steen:same="v z">
+      každodenny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>штодзённы</lemma>
+    <lemma>надзённы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ежедневно</lemma>
+    <lemma annotation="по-рядко">катадневно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>každodenní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svakodnevan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>секојдневен</lemma>
+    <lemma>катадневен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>codzienny</lemma>
+    <lemma>powszedni</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ежедневный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>každodenný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vsak dan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свакодневан</lemma>
+    <lemma>свакодневни</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щоденний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉiutaga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Täglich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dagelijks</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32769"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32769" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      ping-pong
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пінг-понг</lemma>
+    <lemma>настольны тэніс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тенис на маса</lemma>
+    <lemma>пинг-понг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stolní tenis</lemma>
+    <lemma>ping pong</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ping-pong</lemma>
+    <lemma>stolni tenis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пинг понг</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ping pong</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пинг-понг</lemma>
+    <lemma>настольный теннис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stolný tenis</lemma>
+    <lemma>ping pong</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ping pong</lemma>
+    <lemma>namizni tenis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пинг понг</lemma>
+    <lemma>стони тенис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пінг-понг</lemma>
+    <lemma>настільний теніс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tabloteniso</lemma>
+    <lemma>ping pong</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tischtennis</lemma>
+    <lemma>Tischtennis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tafeltennis</lemma>
+  </synset>
+</multilingual-synset>

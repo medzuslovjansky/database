@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21477"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21477"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      prispěvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падаспяваць</lemma>
+    <lemma>паспавяць</lemma>
+    <lemma>успяваць</lemma>
+    <lemma>прыбываць своечасова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за да пристигнат на време</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stíhat</lemma>
+    <lemma>dorážet včas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prispijevati</lemma>
+    <lemma>pristizati</lemma>
+    <lemma>stizati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стига</lemma>
+    <lemma>пристига</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybywać na czas</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подоспевать</lemma>
+    <lemma>успевать</lemma>
+    <lemma>прибывать вовремя</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stíhať</lemma>
+    <lemma>dorážať včas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prispejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стизати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>встигати</lemma>
+    <lemma>прибувати вчасно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alveni ĝustatempe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>pünktlich ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>op tijd komen</lemma>
+  </synset>
+</multilingual-synset>

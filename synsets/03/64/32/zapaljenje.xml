@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36432"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36432" steen:pos="n." steen:type="1">zapaljeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узгаранне</lemma>
+    <lemma>загаранне</lemma>
+    <lemma>загарванне</lemma>
+    <lemma>запальванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възпламеняване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapálení</lemma>
+    <lemma>podpálení</lemma>
+    <lemma>zažetí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potpala</lemma>
+    <lemma>potpaljivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потпалување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalenie</lemma>
+    <lemma>podpalenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>воспламенение</lemma>
+    <lemma>зажигание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapálenie</lemma>
+    <lemma>podpálenie</lemma>
+    <lemma>zažatie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Potpala</lemma>
+    <lemma>vnetje</lemma>
+    <lemma annotation="arch.">vnetje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потпала</lemma>
+    <lemma>упала</lemma>
+    <lemma annotation="арх.">запаљење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запалення</lemma>
+    <lemma>займання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ago">inflamo</lemma>
+    <lemma>tero ekflamis</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Entzündung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontbranding</lemma>
+  </synset>
+</multilingual-synset>

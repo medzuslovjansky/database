@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33440"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33440"
+      steen:addition="(stelje)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      stlati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плащам</lemma>
+    <lemma>да плащам</lemma>
+    <lemma>да легло</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stlát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>namještati krevet</lemma>
+    <lemma>namještati postelju</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>постила</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ścielić</lemma>
+    <lemma>rozściełać</lemma>
+    <lemma annotation="np. słomę na podłodze">słać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стлать</lemma>
+    <lemma>стелить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ustielať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Meddle postelja</lemma>
+    <lemma>postelja Meddle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>намештати кревет</lemma>
+    <lemma>намештати постељу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стелити</lemma>
+    <lemma>слати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>disvastiĝis</lemma>
+    <lemma>kuŝis</lemma>
+    <lemma>fari la lito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spread liegt</lemma>
+    <lemma>macht das Bett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="bed">opmaken</lemma>
+  </synset>
+</multilingual-synset>

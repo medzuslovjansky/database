@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3931"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3931" steen:pos="adv." steen:type="2">žalj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шкада</lemma>
+    <lemma>на жаль</lemma>
+    <lemma>нажаль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>за съжаление</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bohužel</lemma>
+    <lemma>naneštěstí</lemma>
+    <lemma annotation=",že">škoda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nažalost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>за жал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niestety</lemma>
+    <lemma>szkoda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жаль</lemma>
+    <lemma>к сожалению</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bohužiaľ</lemma>
+    <lemma>nanešťastie</lemma>
+    <lemma annotation=",že">škoda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Na žalost</lemma>
+    <lemma>nesreča</lemma>
+    <lemma>nesreča</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нажалост</lemma>
+    <lemma>несрећом</lemma>
+    <lemma>на несрећу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>на жаль</lemma>
+    <lemma>шкода</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bedaŭrinde</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Unglücklicherweise</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helaas</lemma>
+    <lemma>jammer</lemma>
+  </synset>
+</multilingual-synset>

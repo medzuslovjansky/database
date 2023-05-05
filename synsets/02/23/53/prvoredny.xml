@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22353"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22353"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="pl cz sh"
+    >
+      pŕvorędny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>першакласны</lemma>
+    <lemma>выдатны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>първокласен</lemma>
+    <lemma>отличен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prvořadý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prvorazredan</lemma>
+    <lemma>prvoklasan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>првокласен</lemma>
+    <lemma>одличен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pierwszorzędny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>первоклассный</lemma>
+    <lemma>отличный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prvoradý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nadrejene prvovrstne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прворазредан</lemma>
+    <lemma>првокласан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відмінний</lemma>
+    <lemma>першокласний</lemma>
+    <lemma>першорядний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unuagrada</lemma>
+    <lemma>bonega</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erstklassig</lemma>
+    <lemma>ausgezeichnet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eersterangs</lemma>
+  </synset>
+</multilingual-synset>

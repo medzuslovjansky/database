@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8872"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8872"
+      steen:addition="(lica/ličese)"
+      steen:pos="n."
+      steen:type="1"
+    >
+      lice
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>твар</lemma>
+    <lemma>аблічча</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лице</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obličej</lemma>
+    <lemma>tvář</lemma>
+    <lemma>líce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lice</lemma>
+    <lemma>faca</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лице</lemma>
+    <lemma>фаца</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>twarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лицо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tvár</lemma>
+    <lemma>obličaj</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obraz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лице</lemma>
+    <lemma>фаца</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обличчя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vizaĝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gesicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezicht</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35202" steen:pos="adj." steen:type="1" steen:same="v z">
+      nepravdopodobny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непраўдападобны</lemma>
+    <lemma>неверагодны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>невероятен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nepravděpodobný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nevjerojatan</lemma>
+    <lemma>nemoguć</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неверојатен</lemma>
+    <lemma>малку веројатен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieprawdopodobny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неправдоподобный</lemma>
+    <lemma>невероятный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nepravdepodobný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neverjetno</lemma>
+    <lemma>verjetno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>невероватан</lemma>
+    <lemma>мало вероватан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>малоймовірний</lemma>
+    <lemma>неправдоподібний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>neprobabla</lemma>
+    <lemma>neverŝajna</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>unwahrscheinlich</lemma>
+    <lemma>unwahrscheinlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onwaarschijnlijk</lemma>
+  </synset>
+</multilingual-synset>

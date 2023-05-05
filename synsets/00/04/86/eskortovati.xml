@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="486"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="486"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      eskortovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эскартаваць</lemma>
+    <lemma>суправаджаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>придружавам</lemma>
+    <lemma>съпровождам</lemma>
+    <lemma>конвоирам</lemma>
+    <lemma>охранявам</lemma>
+    <lemma>ескортирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>eskortovat</lemma>
+    <lemma>doprovázet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eskortirati</lemma>
+    <lemma>provoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>придружува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eskortować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эскортировать</lemma>
+    <lemma>сопровождать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>eskortovať</lemma>
+    <lemma>sprevádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>eskortovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ескортовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ескортувати</lemma>
+    <lemma>супроводжувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eskorto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>begleiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>escorteren</lemma>
+  </synset>
+</multilingual-synset>

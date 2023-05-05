@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1270" steen:pos="f." steen:type="1" steen:genesis="I">
+      sekcija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>секцыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>раздел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sekce</lemma>
+    <lemma>oddíl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sekcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>секција</lemma>
+    <lemma>дел</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sekcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>секция</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sekcie</lemma>
+    <lemma>oddiel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poglavje</lemma>
+    <lemma>del</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>секција</lemma>
+    <lemma>део</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>секція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekcio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sektion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sectie</lemma>
+  </synset>
+</multilingual-synset>

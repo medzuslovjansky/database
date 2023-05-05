@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22481"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22481" steen:pos="n." steen:type="2" steen:same="pl cz sh">
+      vlastničstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уласнасць</lemma>
+    <lemma>собскасць</lemma>
+    <lemma>маёмасць</lemma>
+    <lemma>нажытак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>собственост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>majetek</lemma>
+    <lemma>vlastnictví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vlasništvo</lemma>
+    <lemma>imovina</lemma>
+    <lemma>svojina</lemma>
+    <lemma>imetak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сопственост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>własność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собственность</lemma>
+    <lemma>имущество</lemma>
+    <lemma>владение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>majetok</lemma>
+    <lemma>vlastníctvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nepremičnine</lemma>
+    <lemma>nepremičnina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>својина</lemma>
+    <lemma>сопственост</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>власність</lemma>
+    <lemma>майно</lemma>
+    <lemma>володіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="io posedata">propraĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="etwas gehört">Eigentum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigendom</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36805"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36805"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j~"
+      steen:genesis="I"
+    >
+      kmin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кмен</lemma>
+    <lemma>кмін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кимион</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kmín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kumin</lemma>
+    <lemma>kim</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="зачин">ким</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kmin</lemma>
+    <lemma>kminek</lemma>
+  </synset>
+  <synset lang="ru" verified="false">
+    <lemma>тмин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kmín</lemma>
+    <lemma>rasca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="začimba">Kim</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="зачин">ким</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зіра</lemma>
+    <lemma>кумин</lemma>
+    <lemma>римський кмин</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kumino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kümmel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>komijn</lemma>
+  </synset>
+</multilingual-synset>

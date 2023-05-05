@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2185"
+      steen:addition="(vidi)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      viděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бачыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>виждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vidět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vidjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>widzieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>видеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vidieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>videti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>видети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бачити</lemma>
+    <lemma>видіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vidu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zien</lemma>
+  </synset>
+</multilingual-synset>

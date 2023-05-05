@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35514"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35514" steen:pos="n." steen:type="2" steen:same="ru bg">
+      dělo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>справа</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дело</lemma>
+    <lemma>случай</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="věc">záležitost</lemma>
+    <lemma>problém</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slučaj</lemma>
+    <lemma>predmet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прашање</lemma>
+    <lemma>случај</lemma>
+    <lemma>акт</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sprawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дело</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vec">záležitosť</lemma>
+    <lemma>problém</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zadeva</lemma>
+    <lemma>stvar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="судски">случај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>справа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="afero">afero</lemma>
+    <lemma>temo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Materie">Affäre</lemma>
+    <lemma>Ausgabe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zaak</lemma>
+    <lemma>kwestie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23268"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23268"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kanalizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каналізаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>канализирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kanalizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kanalizirati</lemma>
+    <lemma>usmjeravati</lemma>
+    <lemma>davati smjer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>канализира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kanalizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>канализировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kanalizovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Kanal</lemma>
+    <lemma>smer se sproži</lemma>
+    <lemma>ostrenje</lemma>
+    <lemma>urejanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>канализирати</lemma>
+    <lemma>давати правац</lemma>
+    <lemma>усмеравати</lemma>
+    <lemma>регулисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>каналізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>canalise</lemma>
+    <lemma>kanaligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kanalisieren</lemma>
+    <lemma>kanalisieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kanaliseren</lemma>
+  </synset>
+</multilingual-synset>

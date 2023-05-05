@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16004"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16004" steen:pos="m.anim." steen:type="1">medbrat</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>медбрат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>медицински брат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="zdravotní">bratr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>medicinski tehničar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>медицински брат</lemma>
+    <lemma>медицински техничар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pielęgniarz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>медбрат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="zdravotné">brat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravstveni tehnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>медицински техничар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>медбрат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flegistino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Krankenschwester</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verpleegkundige</lemma>
+    <lemma>verpleger</lemma>
+  </synset>
+</multilingual-synset>

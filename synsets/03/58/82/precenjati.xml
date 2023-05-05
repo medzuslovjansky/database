@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35882"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35882"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prěcěnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перацэньваць</lemma>
+    <lemma>пераацэньваць</lemma>
+    <lemma annotation="занадта ацаняць">пераацаняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>надценяването</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeceňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>precjenjivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преценува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeceniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="оценивать слишком высоко">переоценивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preceňovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>precenjevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прецењивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переоцінювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>trotaksi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überschätzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overschatten</lemma>
+  </synset>
+</multilingual-synset>

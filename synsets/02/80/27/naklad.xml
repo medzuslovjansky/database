@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28027" steen:pos="m." steen:type="2" steen:same="z">
+      naklad
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выдаткі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výdaje</lemma>
+    <lemma>náklady</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trošak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трошок</lemma>
+    <lemma>расход</lemma>
+    <lemma>издаток</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="koszty">nakład</lemma>
+    <lemma>koszty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>затрата</lemma>
+    <lemma>расходы</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>výdavky</lemma>
+    <lemma>náklady</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odhodki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трошак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>витрати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elspezoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kosten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kosten">uitgaven</lemma>
+  </synset>
+</multilingual-synset>

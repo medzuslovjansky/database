@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1557"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1557"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+      steen:same="v z"
+    >
+      dlja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>za</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>за</lemma>
+    <lemma>поради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dla</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pre</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za</lemma>
+    <lemma>kot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>за</lemma>
+    <lemma>ради</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>por</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>für</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voor</lemma>
+  </synset>
+</multilingual-synset>

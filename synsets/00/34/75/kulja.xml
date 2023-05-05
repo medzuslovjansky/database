@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3475"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3475" steen:pos="f." steen:type="2" steen:same="ub pl cs">
+      kulja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>куля</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>куршум</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kulka</lemma>
+    <lemma>koule</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>metak</lemma>
+    <lemma>tane</lemma>
+    <lemma>zrno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>куршум</lemma>
+    <lemma>ѓуле</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kula</lemma>
+    <lemma>pocisk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пуля</lemma>
+    <lemma>мяч</lemma>
+    <lemma>шар</lemma>
+    <lemma>шарик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>guľka</lemma>
+    <lemma>guľa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>palica</lemma>
+    <lemma>krogla</lemma>
+    <lemma annotation="arch.">strel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>метак</lemma>
+    <lemma>тане</lemma>
+    <lemma annotation="арх.">ђуле</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>куля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bullet</lemma>
+    <lemma>pilko</lemma>
+    <lemma>sfero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kugel</lemma>
+    <lemma>Kugel</lemma>
+    <lemma>Kugel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kogel</lemma>
+    <lemma>bol</lemma>
+  </synset>
+</multilingual-synset>

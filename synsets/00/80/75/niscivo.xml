@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8075"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8075"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      niščivo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэструктыўна</lemma>
+    <lemma>знішчальна</lemma>
+    <lemma>вынішчальна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>диструктивные</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ničivě</lemma>
+    <lemma>destruktivně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razorno</lemma>
+    <lemma>destruktivno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уништувачко</lemma>
+    <lemma>разорно</lemma>
+    <lemma>деструктивно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>destruktywnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>деструктивно</lemma>
+    <lemma>уничтожительно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ničivo</lemma>
+    <lemma>deštruktívne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>destruktivni</lemma>
+    <lemma>destruktivno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разорно</lemma>
+    <lemma>деструктивно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>деструктивно</lemma>
+    <lemma>нищівно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>detrue</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>destruktiv</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>destructief</lemma>
+  </synset>
+</multilingual-synset>

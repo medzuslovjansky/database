@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25452"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25452" steen:pos="m." steen:type="1">dvor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="каралеўскі">двор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="královský">dvůr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dvor</lemma>
+    <lemma>dvorac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>двор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="królewski">dwór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="королевский">двор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="kráľovský">dvor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. royal">dvorišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. краљевски">двор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="наприклад, королівський двір">двір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz de reĝo">tribunalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zum Beispiel eines Königs">Gericht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hof</lemma>
+  </synset>
+</multilingual-synset>

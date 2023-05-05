@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18607"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18607" steen:pos="v.tr. ipf." steen:type="1">
+      råzkladati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на часткі">раскладваць</lemma>
+    <lemma>раскладаць</lemma>
+    <lemma>разбіраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се разкрият</lemma>
+    <lemma>за да се разложи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozkládat</lemma>
+    <lemma>rozpadat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rastavljati</lemma>
+    <lemma>razdvajati</lemma>
+    <lemma>demontirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расклопува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na części">rozbierać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на части">раскладывать</lemma>
+    <lemma>разбирать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozkladať</lemma>
+    <lemma>rozpadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razstaviti</lemma>
+    <lemma>povratno prevajati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расклапати</lemma>
+    <lemma>демонтирати</lemma>
+    <lemma>растављати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на частини">розкладати</lemma>
+    <lemma>розбирати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rompi aparte</lemma>
+    <lemma>malkomponi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>auseinander brechen</lemma>
+    <lemma>zersetzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uit elkaar halen</lemma>
+  </synset>
+</multilingual-synset>

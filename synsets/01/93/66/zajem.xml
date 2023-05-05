@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19366"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19366" steen:pos="m." steen:type="2" steen:same="ru sh">
+      zajem
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазыка</lemma>
+    <lemma>пазычка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>půjčka</lemma>
+    <lemma>zápůjčka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zajam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заем</lemma>
+    <lemma>позајмица</lemma>
+    <lemma>кредит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pożyczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>займ</lemma>
+    <lemma>ссуда</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pôžička</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posojila</lemma>
+    <lemma>posojila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зајам</lemma>
+    <lemma>позајмица</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>позика</lemma>
+    <lemma>позика</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prunto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Darlehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lening</lemma>
+  </synset>
+</multilingual-synset>

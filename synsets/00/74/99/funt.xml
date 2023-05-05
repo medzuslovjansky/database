@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7499"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="7499" steen:pos="m." steen:type="1" steen:genesis="I">
+      funt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="мера вагі">фунт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="мярка за тегло">паунд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="váha">libra</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="masa">funta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="тежина">фунта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="masa">funt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мера веса">фунт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="váha">libra [lb]</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="merilo teže">Funt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="мера за тежину">фунта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="міра ваги">фунт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pundo [funt]</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Pfund [lb]</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gewicht">pond</lemma>
+  </synset>
+</multilingual-synset>

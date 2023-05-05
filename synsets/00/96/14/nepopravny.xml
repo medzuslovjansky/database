@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9614"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="9614" steen:pos="adj." steen:type="1">nepopravny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няправільны</lemma>
+    <lemma>памылковы</lemma>
+    <lemma>няпэўны</lemma>
+    <lemma>некарэктны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неправилен</lemma>
+    <lemma>грешен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesprávný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nepravilan</lemma>
+    <lemma>neispravan</lemma>
+    <lemma>pogrešan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неточен</lemma>
+    <lemma>неправилен</lemma>
+    <lemma>погрешен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niepoprawny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неверный</lemma>
+    <lemma>неправильный</lemma>
+    <lemma>некорректный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nesprávny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napravilan</lemma>
+    <lemma>narobe</lemma>
+    <lemma>narobe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>направилан</lemma>
+    <lemma>неисправан</lemma>
+    <lemma>погрешан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невірний</lemma>
+    <lemma>неправильний</lemma>
+    <lemma>некоректний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nekorekta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>falsch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onjuist</lemma>
+    <lemma>incorrect</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36147"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36147"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      po slučaju
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з выпадку</lemma>
+    <lemma>з прычыны</lemma>
+    <lemma>з нагоды</lemma>
+    <lemma>пры аказіі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>по повод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>u příležitosti</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povodom</lemma>
+    <lemma>u povodu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>по повод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z okazji</lemma>
+    <lemma>z powodu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по случаю</lemma>
+    <lemma>при оказии</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pri príležitosti</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dogodek</lemma>
+    <lemma>v primeru</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поводом</lemma>
+    <lemma>у случају</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з причини</lemma>
+    <lemma>з оказії</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okaze de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anlässlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naar aanleiding van</lemma>
+    <lemma>ter gelegenheid van</lemma>
+  </synset>
+</multilingual-synset>

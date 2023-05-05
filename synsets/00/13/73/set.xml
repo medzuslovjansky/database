@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1373"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1373" steen:pos="f." steen:type="1" steen:same="v z">
+      sěť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сетка</lemma>
+    <lemma annotation="інтэрнэт">сеціва</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>нето</lemma>
+    <lemma>мрежа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>síť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mreža</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пр:електрична">мрежа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omrežje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мрежа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мережа</lemma>
+    <lemma>сіть</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reto</lemma>
+    <lemma>reto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Netz</lemma>
+    <lemma>Netzwerk</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>net</lemma>
+    <lemma>netwerk</lemma>
+  </synset>
+</multilingual-synset>

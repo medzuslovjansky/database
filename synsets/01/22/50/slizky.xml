@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12250"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z sh mk"
+    >
+      slizky
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>слізкі</lemma>
+    <lemma>коўзкі</lemma>
+    <lemma>выслізганы</lemma>
+    <lemma>раскоўзаны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>хлъзгави</lemma>
+    <lemma>склизкие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kluzký</lemma>
+    <lemma>slizký</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sklizak</lemma>
+    <lemma>ljigav</lemma>
+    <lemma>sluzav</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лизгав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śliski</lemma>
+    <lemma>oślizgły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скользкий</lemma>
+    <lemma>слизкий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>klzký</lemma>
+    <lemma>slizký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spolzka</lemma>
+    <lemma>spolzka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клизав</lemma>
+    <lemma>клизак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ковзкий</lemma>
+    <lemma>слизький</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>glitiga</lemma>
+    <lemma>ŝlima</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rutschig</lemma>
+    <lemma>schleimig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>glibberig</lemma>
+  </synset>
+</multilingual-synset>

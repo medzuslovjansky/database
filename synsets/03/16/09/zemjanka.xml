@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31609"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31609" steen:pos="f." steen:type="1" steen:same="v z bg">
+      zemjanka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зямлянка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>землянка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zemljanka</lemma>
+    <lemma>zemnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zemunica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>земјанка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="budowla">ziemianka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>землянка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>novodobá zemľanka</lemma>
+    <lemma>zemnice</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zemunica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>земуница</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>землянка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dugout</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einbaum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dug-out</lemma>
+  </synset>
+</multilingual-synset>

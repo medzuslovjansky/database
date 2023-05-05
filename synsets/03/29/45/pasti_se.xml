@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32945"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32945"
+      steen:addition="(pase)"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+    >
+      pasti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасвіцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пасат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pást se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napasati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се пасе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>paść się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пастись</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pásť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pasti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пасти се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пастися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>grasen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grazen</lemma>
+  </synset>
+</multilingual-synset>

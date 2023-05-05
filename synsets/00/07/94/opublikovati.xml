@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="794"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="794"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      opublikovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апублікаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>публикуване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opublikovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>objaviti</lemma>
+    <lemma>opublikovat</lemma>
+    <lemma>ispisati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>објави</lemma>
+    <lemma>публикува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opublikować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опубликовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>publikovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>objavljeni Objavi</lemma>
+    <lemma>tiskanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>објавити</lemma>
+    <lemma>опубликовати</lemma>
+    <lemma>одштампати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опублікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Publikigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>veröffentlichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>publiceren</lemma>
+  </synset>
+</multilingual-synset>

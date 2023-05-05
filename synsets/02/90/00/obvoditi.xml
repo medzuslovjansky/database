@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29000"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29000"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      obvoditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абводзіць</lemma>
+    <lemma>абвадзіць</lemma>
+    <lemma>акружаць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>олово наоколо</lemma>
+    <lemma>съраунд</lemma>
+    <lemma>обносить</lemma>
+    <lemma>съраунд</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obklopovat</lemma>
+    <lemma>vést kolem</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opkoljavati</lemma>
+    <lemma>okruživati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опкружува</lemma>
+    <lemma>опколува</lemma>
+    <lemma>обиколува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>otaczać</lemma>
+    <lemma>okrążać</lemma>
+    <lemma>obwodzić</lemma>
+    <lemma>wodzić wokół</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обводить</lemma>
+    <lemma>окружать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obklopovať</lemma>
+    <lemma>viesť okolo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>surround</lemma>
+    <lemma>obkrožite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опкољавати</lemma>
+    <lemma>окруживати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обводити</lemma>
+    <lemma>оточувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kondukas ĉirkaŭe</lemma>
+    <lemma>ĉirkaŭi</lemma>
+    <lemma>ĉirkaŭfermi</lemma>
+    <lemma>surround</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>herumführen</lemma>
+    <lemma>umgeben</lemma>
+    <lemma>umschließen</lemma>
+    <lemma>Surround-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omgeven</lemma>
+    <lemma>omringen</lemma>
+    <lemma>om … heen leiden</lemma>
+  </synset>
+</multilingual-synset>

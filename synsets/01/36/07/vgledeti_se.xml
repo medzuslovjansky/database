@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13607"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13607"
+      steen:addition="(vględi)"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="ru be bg"
+    >
+      vględěti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>угледзецца</lemma>
+    <lemma>прыгледзецца</lemma>
+    <lemma>углядзецца</lemma>
+    <lemma>прыгледзецца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>загледам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zahledět se</lemma>
+    <lemma>upřít pohled</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zagledati se</lemma>
+    <lemma>pogledati</lemma>
+    <lemma>osmotriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се загледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyjrzeć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вглядеться</lemma>
+    <lemma>всмотреться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zahľadieť sa</lemma>
+    <lemma>uprieť pohľad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>peer</lemma>
+    <lemma>videz</lemma>
+    <lemma>upoštevajte</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>загледати се</lemma>
+    <lemma>погледати</lemma>
+    <lemma>осмотрити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вглядітися</lemma>
+    <lemma>вдивитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>peer</lemma>
+    <lemma>rigardadi</lemma>
+    <lemma>gapo</lemma>
+    <lemma>rigardu singarde</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Peer</lemma>
+    <lemma>Blick</lemma>
+    <lemma>starren</lemma>
+    <lemma>schauen Sie sorgfältig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>staren</lemma>
+    <lemma>turen</lemma>
+  </synset>
+</multilingual-synset>

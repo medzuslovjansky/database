@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22181"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22181"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cs sh"
+    >
+      valjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валяць</lemma>
+    <lemma>валіць</lemma>
+    <lemma>качаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чувствах</lemma>
+    <lemma>рол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>válet</lemma>
+    <lemma>stáčet</lemma>
+    <lemma>svinovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>valjati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вала</lemma>
+    <lemma>тркала</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wałkować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>валять</lemma>
+    <lemma>катать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>váľať</lemma>
+    <lemma>stáčať</lemma>
+    <lemma>zvinovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>roll</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ваљати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>валяти</lemma>
+    <lemma>ворочати</lemma>
+    <lemma>крутити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sentis</lemma>
+    <lemma>rulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Filz</lemma>
+    <lemma>Rolle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vilten</lemma>
+    <lemma annotation="maken door te rollen">rollen</lemma>
+  </synset>
+</multilingual-synset>

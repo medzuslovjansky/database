@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18837"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18837"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="uk z"
+    >
+      šljahtić
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шляхціч</lemma>
+    <lemma>шляхціц</lemma>
+    <lemma>дваранін</lemma>
+    <lemma>арыстакрат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благородник</lemma>
+    <lemma>дворянин</lemma>
+    <lemma>аристократ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šlechtic</lemma>
+    <lemma>aristokrat</lemma>
+    <lemma>urozený</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>plemić</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благородник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szlachcic</lemma>
+    <lemma>arystokrata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дворянин</lemma>
+    <lemma>аристократ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>šľachtic</lemma>
+    <lemma>aristokrat</lemma>
+    <lemma>urodzený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>plemič</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>племић</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>дворянин</lemma>
+    <lemma>аристократ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nobelo</lemma>
+    <lemma>aristokrato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Edelmann</lemma>
+    <lemma>Aristokrat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>edelman</lemma>
+  </synset>
+</multilingual-synset>

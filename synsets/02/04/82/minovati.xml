@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20482"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20482" steen:pos="v.tr. ipf." steen:type="1">
+      minovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мінаць</lemma>
+    <lemma>прамінаць</lemma>
+    <lemma>абмінаць</lemma>
+    <lemma>праходзіць</lemma>
+    <lemma>канчацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>минавам</lemma>
+    <lemma>преминавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uplývat</lemma>
+    <lemma>procházet</lemma>
+    <lemma annotation="čase">míjet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prolaziti</lemma>
+    <lemma>prestajati</lemma>
+    <lemma>protjecati</lemma>
+    <lemma>istjecati</lemma>
+    <lemma>gubiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мине</lemma>
+    <lemma>помине</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mijać</lemma>
+    <lemma annotation="czas">upływać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>миновать</lemma>
+    <lemma annotation="о времени">проходить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uplynulo</lemma>
+    <lemma>prechádzať</lemma>
+    <lemma annotation="čase">míňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mimo</lemma>
+    <lemma>teče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пролазити</lemma>
+    <lemma>тећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проминути</lemma>
+    <lemma>пройти повз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasi</lemma>
+    <lemma>pasi</lemma>
+    <lemma>preterpasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstreichen</lemma>
+    <lemma>Pass</lemma>
+    <lemma>vergehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorbijgaan</lemma>
+    <lemma>verstrijken</lemma>
+    <lemma>verlopen</lemma>
+  </synset>
+</multilingual-synset>

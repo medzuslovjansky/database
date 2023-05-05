@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31720"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31720"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      izcěljati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ацаляцца</lemma>
+    <lemma>вылечвацца</lemma>
+    <lemma>лячыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изцелявам се</lemma>
+    <lemma>възстановявам се</lemma>
+    <lemma>лекувам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zotavovat se</lemma>
+    <lemma>uzdravovat se</lemma>
+    <lemma>zahojovat se</lemma>
+    <lemma>léčit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oporavljati se</lemma>
+    <lemma>iscjeljivati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исцелува</lemma>
+    <lemma>се излекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>leczyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исцеляться</lemma>
+    <lemma>вылечиваться</lemma>
+    <lemma>излечиваться</lemma>
+    <lemma>лечиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zotavovať sa</lemma>
+    <lemma>uzdravovať sa</lemma>
+    <lemma>zahojovať sa</lemma>
+    <lemma>zaceľovať sa</lemma>
+    <lemma>liečiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pridejo krog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опорављати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зцілюватися</lemma>
+    <lemma>виліковуватися</lemma>
+    <lemma>видужувати</lemma>
+    <lemma>лікуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de malsano">reakiri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einer Krankheit">erholen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van een ziekte">herstellen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36593"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36593"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      termin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэрмін</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>срок</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>termín</lemma>
+    <lemma>čas</lemma>
+    <lemma>doba</lemma>
+    <lemma>lhůta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>termin</lemma>
+    <lemma>rok</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>термин</lemma>
+    <lemma>рок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="data, okres">termin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>срок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>termín</lemma>
+    <lemma>čas</lemma>
+    <lemma>doba</lemma>
+    <lemma>lehota</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>termin</lemma>
+    <lemma>doba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>термин</lemma>
+    <lemma>рок</lemma>
+    <lemma>датум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>термін</lemma>
+    <lemma>строк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="dato, periodo">termino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Frist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>termijn</lemma>
+  </synset>
+</multilingual-synset>

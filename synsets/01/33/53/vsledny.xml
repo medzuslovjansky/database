@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13353"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13353" steen:pos="adj." steen:type="1">vslědny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>які ідзе запар</lemma>
+    <lemma>ідучы запар</lemma>
+    <lemma>паслядоўны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>следващ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>následující</lemma>
+    <lemma>následný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sljedeći</lemma>
+    <lemma>idući</lemma>
+    <lemma>naredni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>следен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kolejny</lemma>
+    <lemma>następujący</lemma>
+    <lemma>poszczególny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>идущий подряд</lemma>
+    <lemma>последовательный</lemma>
+    <lemma>последующий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>nasledujúce</lemma>
+    <lemma>následný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Naslednji</lemma>
+    <lemma>naslednji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>следећи</lemma>
+    <lemma>идући</lemma>
+    <lemma>наредни</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>послідовний</lemma>
+    <lemma>наступний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sinsekvaj</lemma>
+    <lemma>jenan</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufeinanderfolgenden</lemma>
+    <lemma>folgenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opeenvolgend</lemma>
+  </synset>
+</multilingual-synset>

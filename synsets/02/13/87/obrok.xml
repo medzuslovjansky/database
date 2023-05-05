@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21387"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21387" steen:pos="m." steen:type="1" steen:same="ru pl cz">
+      obrok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чынш</lemma>
+    <lemma>аброк</lemma>
+    <lemma>феадальны падатак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>членски внос</lemma>
+    <lemma>данъчна феодальная</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pozemková">feudální daň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>danak</lemma>
+    <lemma>daća</lemma>
+    <lemma>namet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>феудален данок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>renta feudalna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оброк</lemma>
+    <lemma>феодальный налог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="pozemková">feudálna daň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fevdalna poklon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>феудални данак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оброк</lemma>
+    <lemma>данина</lemma>
+    <lemma>феодальний податок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>quitrent</lemma>
+    <lemma>feŭda imposto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>quitrent</lemma>
+    <lemma>feudal Steuer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>feodale belasting</lemma>
+  </synset>
+</multilingual-synset>

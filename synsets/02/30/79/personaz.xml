@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23079"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23079" steen:pos="m." steen:type="1" steen:genesis="F">
+      personaž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>персанаж</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>персонаж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postava</lemma>
+    <lemma>role</lemma>
+    <lemma>osobnost</lemma>
+    <lemma>úloha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>persona</lemma>
+    <lemma>osoba</lemma>
+    <lemma>ličnost</lemma>
+    <lemma>pojava</lemma>
+    <lemma>lik</lemma>
+    <lemma>netko</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лик</lemma>
+    <lemma>персона</lemma>
+    <lemma>улога</lemma>
+    <lemma>карактер</lemma>
+    <lemma annotation="во филм или литературно дело">јунак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>charakter</lemma>
+    <lemma>postać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>персонаж</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>postava</lemma>
+    <lemma>role</lemma>
+    <lemma>osbnosť</lemma>
+    <lemma>úloha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>junak</lemma>
+    <lemma>značaj</lemma>
+    <lemma>persona</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лик</lemma>
+    <lemma>персона</lemma>
+    <lemma>личност</lemma>
+    <lemma annotation="у филму">јунак</lemma>
+    <lemma annotation="у филму">јунакиња</lemma>
+    <lemma>улога</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>персонаж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>karaktero</lemma>
+    <lemma>gravulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Charakter</lemma>
+    <lemma>Persönlichkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>personage</lemma>
+  </synset>
+</multilingual-synset>

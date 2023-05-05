@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21139"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21139"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      råzpustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распусціць</lemma>
+    <lemma>распесціць</lemma>
+    <lemma>раздурыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>развали</lemma>
+    <lemma>побаловаться</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozmazlit</lemma>
+    <lemma>zhýčkat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="dijete">raspustiti</lemma>
+    <lemma>razmaziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расипа</lemma>
+    <lemma>пресипа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. dziecko">rozpuścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распустить</lemma>
+    <lemma>избаловать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozmaznať</lemma>
+    <lemma>zhýčka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="otroku">raztopi</lemma>
+    <lemma>razvajati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="дете">распустити</lemma>
+    <lemma>размазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпустити</lemma>
+    <lemma>розпестити</lemma>
+    <lemma>розбалувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ruinigo overindulge</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verderben</lemma>
+    <lemma>nachsichtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwennen</lemma>
+  </synset>
+</multilingual-synset>

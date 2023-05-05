@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24007"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="24007" steen:pos="f." steen:type="2">zȯlva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="сястра мужа">залвіца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зълва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>švagrová</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaova</lemma>
+    <lemma annotation="arh.">Zalve</lemma>
+    <lemma>muževljeva sestra</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>золва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zołwa</lemma>
+    <lemma>zełwa</lemma>
+    <lemma annotation="siostra męża">szwagierka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="сестра мужа">золовка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>švagriná</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sestra v zakonu</lemma>
+    <lemma annotation="arch.">Alva</lemma>
+    <lemma>njen mož sestra</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заова</lemma>
+    <lemma annotation="арх.">залва</lemma>
+    <lemma>мужевљева сестра</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зовиця</lemma>
+    <lemma>зоввиця</lemma>
+    <lemma>золвиця</lemma>
+    <lemma annotation="діал.">швагрова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bofratino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schwägerin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schoonzuster</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20241"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20241"
+      steen:addition="(ukaže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl~ cs sh bm"
+    >
+      ukazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>указваць</lemma>
+    <lemma>паказваць</lemma>
+    <lemma>зазначаць</lemma>
+    <lemma>вызначаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се показват</lemma>
+    <lemma>да се уточни покажи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ukázat</lemma>
+    <lemma>uvést</lemma>
+    <lemma>upozornit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ukazati</lemma>
+    <lemma>pokazati</lemma>
+    <lemma>upozoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>укаже</lemma>
+    <lemma>посочи</lemma>
+    <lemma>покаже</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ukazać</lemma>
+    <lemma>pokazać</lemma>
+    <lemma>wskazać</lemma>
+    <lemma>zademonstrować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>указать</lemma>
+    <lemma>показать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ukázať</lemma>
+    <lemma>uviesť</lemma>
+    <lemma>upozorniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>točka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>указати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вказати</lemma>
+    <lemma>показати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atentigi</lemma>
+    <lemma>spektaklo</lemma>
+    <lemma>indiki</lemma>
+    <lemma>montri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weisen darauf hin</lemma>
+    <lemma>zeigen</lemma>
+    <lemma>zeigen</lemma>
+    <lemma>zeigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanduiden</lemma>
+    <lemma>aantonen</lemma>
+    <lemma>tonen</lemma>
+    <lemma>demonstreren</lemma>
+  </synset>
+</multilingual-synset>

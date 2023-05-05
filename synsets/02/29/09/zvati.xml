@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22909"
+      steen:addition="(zȯve)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      zvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зваць</lemma>
+    <lemma>называць</lemma>
+    <lemma>клікаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зова</lemma>
+    <lemma>викам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nazývat</lemma>
+    <lemma>jmenovat</lemma>
+    <lemma>volat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zvati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вика</lemma>
+    <lemma>именува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwać</lemma>
+    <lemma>nazywać</lemma>
+    <lemma>wołać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звать</lemma>
+    <lemma>называть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nazývať</lemma>
+    <lemma>menovať</lemma>
+    <lemma>volať</lemma>
+    <lemma>pomenúvať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klic</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>звати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звати</lemma>
+    <lemma>називати</lemma>
+    <lemma>іменувати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>nomi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>nennen</lemma>
+    <lemma>rufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>noemen</lemma>
+    <lemma>roepen</lemma>
+  </synset>
+</multilingual-synset>

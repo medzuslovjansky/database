@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19801"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19801"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="uk pl sb sk sh"
+    >
+      krajina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэгіён</lemma>
+    <lemma>вобласць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>област</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>region</lemma>
+    <lemma>oblast</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kraj</lemma>
+    <lemma>područje</lemma>
+    <lemma>regija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>краина</lemma>
+    <lemma>регион</lemma>
+    <lemma>област</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>region</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>регион</lemma>
+    <lemma>область</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>región</lemma>
+    <lemma>oblasť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pokrajino</lemma>
+    <lemma>območje</lemma>
+    <lemma>območje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крајина</lemma>
+    <lemma>област</lemma>
+    <lemma>подручје</lemma>
+    <lemma>регија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>регіон</lemma>
+    <lemma>область</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>regiono</lemma>
+    <lemma>spaco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Region Gebiet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>regio</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17401" steen:pos="f." steen:type="1">glåska</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гук</lemma>
+    <lemma>фанема</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фонема</lemma>
+    <lemma>звук</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hláska</lemma>
+    <lemma>foném</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fonem</lemma>
+    <lemma>glas</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фонема</lemma>
+    <lemma>звук</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fonem</lemma>
+    <lemma>głoska</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звук</lemma>
+    <lemma>фонема</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hláska</lemma>
+    <lemma>fonéma</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fonemov</lemma>
+    <lemma>zvok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фонема</lemma>
+    <lemma>звук</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фонема</lemma>
+    <lemma>звук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fonemo</lemma>
+    <lemma annotation="fon.">sono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Phonem</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>foneem</lemma>
+    <lemma annotation="fonetiek">klank</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17308"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17308" steen:pos="v.tr. ipf." steen:type="1">
+      domněvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>меркаваць</lemma>
+    <lemma>дапускаць</lemma>
+    <lemma>мець думку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>предполагам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>domnívat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pretpostavljati</lemma>
+    <lemma>smatrati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претпоставува</lemma>
+    <lemma>мисли дека</lemma>
+    <lemma>најверојатно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypuszczać</lemma>
+    <lemma>sądzić</lemma>
+    <lemma>domniemywać</lemma>
+    <lemma annotation="że">być zdania</lemma>
+    <lemma annotation="że">uważać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предполагать</lemma>
+    <lemma>допускать</lemma>
+    <lemma>иметь мнение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>domnievať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Predvidevam</lemma>
+    <lemma annotation="mislim" />
+    <lemma>ki velja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="мислити">претпостављати</lemma>
+    <lemma>сматрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>припускати</lemma>
+    <lemma>міркувати</lemma>
+    <lemma>думати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supozas</lemma>
+    <lemma />
+    <lemma>opinias ke probable</lemma>
+    <lemma>havas opinion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nehme an</lemma>
+    <lemma>meinen</lemma>
+    <lemma>denken wahrscheinlich</lemma>
+    <lemma>haben eine Meinung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veronderstellen</lemma>
+    <lemma>vermoeden</lemma>
+  </synset>
+</multilingual-synset>

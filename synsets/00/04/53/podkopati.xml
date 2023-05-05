@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="453"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="453"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      podkopati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падарваць</lemma>
+    <lemma>падкапаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>подкопая</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podkopat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>potkopati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поткопа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podkopać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подорвать</lemma>
+    <lemma>подкопать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podkopať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>spodkopati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поткопати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підкопати</lemma>
+    <lemma>підрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subfosas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>untergraben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondermijnen</lemma>
+    <lemma>ondergraven</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17180"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17180" steen:pos="f." steen:type="1">bylina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трава</lemma>
+    <lemma>расліна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>растение</lemma>
+    <lemma>билка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rostlina</lemma>
+    <lemma>bylina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biljka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>билка</lemma>
+    <lemma>растение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>roślina</lemma>
+    <lemma>zioło</lemma>
+    <lemma>ziele</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трава</lemma>
+    <lemma>растение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rastlina</lemma>
+    <lemma>bylina</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rastlina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>биљка</lemma>
+    <lemma>биљина</lemma>
+    <lemma>билина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="стебло трав&apos;янистої рослини">билина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>planto</lemma>
+    <lemma>herbo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Pflanze</lemma>
+    <lemma>Kraut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plant</lemma>
+    <lemma>gewas</lemma>
+  </synset>
+</multilingual-synset>

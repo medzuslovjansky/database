@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32087"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32087"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="cs sh~ bg~"
+    >
+      obuvnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абутнік</lemma>
+    <lemma>шавец</lemma>
+    <lemma>партач</lemma>
+    <lemma>чабатар</lemma>
+    <lemma>башмачнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обущар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>švec</lemma>
+    <lemma>obuvník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obućar</lemma>
+    <lemma>postolar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опинчар</lemma>
+    <lemma>чевлар</lemma>
+    <lemma>кондураџија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szewc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обувщик</lemma>
+    <lemma>сапожник</lemma>
+    <lemma>башмачник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>švec</lemma>
+    <lemma>obuvník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čevljar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обућар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>взуттьовик</lemma>
+    <lemma>черевичник</lemma>
+    <lemma>швець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝuisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schuster</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schoenmaker</lemma>
+  </synset>
+</multilingual-synset>

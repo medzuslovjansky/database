@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34013"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34013"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="ru sh"
+    >
+      råzsmatrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разглядаць</lemma>
+    <lemma>разгледжваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>проучи</lemma>
+    <lemma>да разгледа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prozkoumávat</lemma>
+    <lemma>vyšetřovat</lemma>
+    <lemma>prohlížet</lemma>
+    <lemma>zvažovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razmatrati</lemma>
+    <lemma>uzimati u obzir</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разгледува</lemma>
+    <lemma>испитува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozpatrywać</lemma>
+    <lemma>rozważać</lemma>
+    <lemma>brać pod uwagę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассматривать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preskúmavať</lemma>
+    <lemma>vyšetrovať</lemma>
+    <lemma>prezerať</lemma>
+    <lemma>zvažovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>upoštevati</lemma>
+    <lemma>ob upoštevanju</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разматрати</lemma>
+    <lemma>узимати у обзир</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розглядати</lemma>
+    <lemma>роздивлятися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzameni</lemma>
+    <lemma>konsideri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>untersuchen</lemma>
+    <lemma>betrachten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zaak">behandelen</lemma>
+    <lemma>overwegen</lemma>
+    <lemma>bestuderen</lemma>
+  </synset>
+</multilingual-synset>

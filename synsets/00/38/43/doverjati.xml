@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3843"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3843" steen:pos="v.tr. ipf." steen:type="1">
+      dověrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>давяраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доверявам</lemma>
+    <lemma>поверявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="něco">svěřovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povjeriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доверува</lemma>
+    <lemma>поверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powierzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доверять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niеčo">zverovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zaupati</lemma>
+    <lemma>zaupavati</lemma>
+    <lemma>poverjevati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поверавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довіряти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fidu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vertrauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevertrouwen</lemma>
+  </synset>
+</multilingual-synset>

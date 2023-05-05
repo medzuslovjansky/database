@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36684"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36684"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      konversija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канверсія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>преобразуване</lemma>
+    <lemma>конверсия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konverze</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konverzija</lemma>
+    <lemma>zamjena</lemma>
+    <lemma>razmjena</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>размена</lemma>
+    <lemma>конверзија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konwersja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конверсия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konverzia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>delitev / izmenjava</lemma>
+    <lemma>pretvorbe</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>размена</lemma>
+    <lemma>конверзија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конверсія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>konverto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Konversion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conversie</lemma>
+  </synset>
+</multilingual-synset>

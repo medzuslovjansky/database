@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32241"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32241"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="uk z sh bm"
+    >
+      torba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>торба</lemma>
+    <lemma>сумка</lemma>
+    <lemma>кайстра</lemma>
+    <lemma>мяшок</lemma>
+    <lemma>мех</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чанта</lemma>
+    <lemma>торба</lemma>
+    <lemma>чувал</lemma>
+    <lemma>сак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>torba</lemma>
+    <lemma>vak</lemma>
+    <lemma>pytel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>torba</lemma>
+    <lemma>taška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>torba</lemma>
+    <lemma>wór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сумка</lemma>
+    <lemma>мешок</lemma>
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>torba</lemma>
+    <lemma>vak</lemma>
+    <lemma>vrece</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>torba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>сумка</lemma>
+    <lemma>мішок</lemma>
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sako</lemma>
+    <lemma>sako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beutel</lemma>
+    <lemma>Sack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tas</lemma>
+    <lemma>zak</lemma>
+  </synset>
+</multilingual-synset>

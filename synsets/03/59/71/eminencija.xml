@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35971"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35971"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      eminencija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>высокаправялебнасць</lemma>
+    <lemma annotation="тытул">высокапраасвяшчэнства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>превъзходство</lemma>
+    <lemma>величие</lemma>
+    <lemma>високопреосвещенство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="titul">eminence</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eminencija</lemma>
+    <lemma>uzoritost</lemma>
+    <lemma>uzvišenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="титула">еминенција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eminencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="титул">высокопреосвященство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="titul">eminencia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Eminenca</lemma>
+    <lemma annotation="naziv">svetlost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>еминенција</lemma>
+    <lemma annotation="титула">светлост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="титул">високопреосвященство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="titolo">eminenteco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Titel">Eminenz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eminentie</lemma>
+  </synset>
+</multilingual-synset>

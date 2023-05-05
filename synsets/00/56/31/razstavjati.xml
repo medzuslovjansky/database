@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5631"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5631"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="sh"
+    >
+      råzstavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разбіраць</lemma>
+    <lemma>падзяляць</lemma>
+    <lemma>раз&apos;ядноўваць</lemma>
+    <lemma>разлучаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>демонтаж</lemma>
+    <lemma>анализира</lemma>
+    <lemma>разпространява</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>rozebírat</lemma>
+    <lemma>rozkládat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastavljati razdaljavati razmontiravati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раставува</lemma>
+    <lemma>разделува</lemma>
+    <lemma>расклопува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>demontować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разбирать</lemma>
+    <lemma>разделять</lemma>
+    <lemma>разъединять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozoberať</lemma>
+    <lemma>rozkladať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razstaviti razdaljavati razmontiravati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растављати раздаљавати размонтиравати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розбирати</lemma>
+    <lemma>розділяти</lemma>
+    <lemma>роз&apos;єднувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malmunti</lemma>
+    <lemma>malmunti</lemma>
+    <lemma>malkomponi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerlegen</lemma>
+    <lemma>zerlegen</lemma>
+    <lemma>zersetzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>demonteren</lemma>
+    <lemma>ontmantelen</lemma>
+    <lemma>uit elkaar halen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34976"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34976"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub pl yu"
+    >
+      valisty papugajek
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хвалісты чыюк</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вълнисто папагал</lemma>
+    <lemma>вълнисто папагал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>andulka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>papigica tigrica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тигрица</lemma>
+    <lemma>тигрест папагал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>papużka falista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>волнистый попугай</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>andulka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="papagaj">Tigrica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="папагај">тигрица</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>хвиляста папуга</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>onda papageto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wellensittich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grasparkiet</lemma>
+  </synset>
+</multilingual-synset>

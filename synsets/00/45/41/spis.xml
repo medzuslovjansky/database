@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4541"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4541" steen:pos="m." steen:type="1">spis</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спіс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>списък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spis</lemma>
+    <lemma>seznam</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popis</lemma>
+    <lemma>lista</lemma>
+    <lemma>spisak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>список</lemma>
+    <lemma>листа</lemma>
+    <lemma>списи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lista</lemma>
+    <lemma>spis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>список</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spis</lemma>
+    <lemma>zoznam</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>seznam</lemma>
+    <lemma>seznam</lemma>
+    <lemma>seznam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>списак</lemma>
+    <lemma>листа</lemma>
+    <lemma>попис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>список</lemma>
+    <lemma>перелік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>listo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Liste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lijst</lemma>
+    <lemma>opsomming</lemma>
+  </synset>
+</multilingual-synset>

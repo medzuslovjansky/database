@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22001"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22001" steen:pos="m." steen:type="2" steen:same="#ru cz">
+      råzsyp
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>россып</lemma>
+    <lemma>паклад</lemma>
+    <lemma>аблога</lemma>
+    <lemma>залеж</lemma>
+    <lemma>адклад</lemma>
+    <lemma>адкладванне</lemma>
+    <lemma>адкладанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>находище на полезни изкопаеми</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naleziště</lemma>
+    <lemma>rýžoviště</lemma>
+    <lemma>ložisko</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nalazište</lemma>
+    <lemma annotation="npr. minerala">ležište</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наоѓалиште</lemma>
+    <lemma annotation="на минерали">лежиште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="minerałów">pokład</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>россыпь</lemma>
+    <lemma>залежь</lemma>
+    <lemma>отложение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>náleziská</lemma>
+    <lemma>ryžoviská</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>na mestu</lemma>
+    <lemma annotation="npr minerali">ležaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>налазиште</lemma>
+    <lemma annotation="нпр. минерала">лежиште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розсип</lemma>
+    <lemma>поклад</lemma>
+    <lemma>відкладення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>minerala tavolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Mineralvorkommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mineraalafzetting</lemma>
+  </synset>
+</multilingual-synset>

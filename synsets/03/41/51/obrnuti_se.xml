@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34151"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34151"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="v j"
+    >
+      obŕnųti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ператварыцца</lemma>
+    <lemma>зрабіцца</lemma>
+    <lemma>абярнуцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">на завой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrátit se</lemma>
+    <lemma>převrátit se</lemma>
+    <lemma>otočit se</lemma>
+    <lemma>změnit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>promijeniti se</lemma>
+    <lemma>pretvoriti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се претвори</lemma>
+    <lemma>се престори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w">zmienić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>превратиться</lemma>
+    <lemma>обернуться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrátiť sa</lemma>
+    <lemma>prevrátiť sa</lemma>
+    <lemma>otočiť sa</lemma>
+    <lemma>zmeniť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obrniti</lemma>
+    <lemma annotation="nekaj">spremeniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претворити се</lemma>
+    <lemma annotation="у нешто">променити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетворитися</lemma>
+    <lemma>обернутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">turni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">drehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draaien</lemma>
+    <lemma>zich omdraaien</lemma>
+  </synset>
+</multilingual-synset>

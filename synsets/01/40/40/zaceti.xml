@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14040"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14040"
+      steen:addition="(začne)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="uk z sl"
+    >
+      začęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пачаць</lemma>
+    <lemma>распачаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>започна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>začít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>početi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>започне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zacząć</lemma>
+    <lemma>rozpocząć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>začať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>začetek</lemma>
+    <lemma>začetek</lemma>
+    <lemma>začetek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зачети</lemma>
+    <lemma>започети</lemma>
+    <lemma>почети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>почати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tr.">komenci</lemma>
+    <lemma annotation="tr.">starti</lemma>
+    <lemma>enŝipigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="tr.">beginnen</lemma>
+    <lemma annotation="tr.">Start</lemma>
+    <lemma>begeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beginnen</lemma>
+    <lemma>aanvangen</lemma>
+  </synset>
+</multilingual-synset>

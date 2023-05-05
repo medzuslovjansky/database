@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18027" steen:pos="n." steen:type="1">obråćeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зварот</lemma>
+    <lemma>вяртанне</lemma>
+    <lemma>пераварот</lemma>
+    <lemma>інверсія</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обръщане</lemma>
+    <lemma>заворот</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrácení</lemma>
+    <lemma>obrat</lemma>
+    <lemma>inverze</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preokret</lemma>
+    <lemma>preokretanje</lemma>
+    <lemma>inverzija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пресврт</lemma>
+    <lemma>инверзија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zwrot</lemma>
+    <lemma>inwersja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обращение</lemma>
+    <lemma>переворот</lemma>
+    <lemma>инверсия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrátenie</lemma>
+    <lemma>obrat</lemma>
+    <lemma>inverzia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preobrat</lemma>
+    <lemma annotation="nepremičnine">nadomestilo</lemma>
+    <lemma>vrnitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преокрет</lemma>
+    <lemma annotation="имовине">поврат</lemma>
+    <lemma>повратак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звернення</lemma>
+    <lemma>переворот</lemma>
+    <lemma>інверсія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>renversigon</lemma>
+    <lemma>inversigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Umkehr</lemma>
+    <lemma>Inversion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>omkering</lemma>
+    <lemma>inversie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11957"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11957" steen:pos="n." steen:type="1">rěšeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вырашэнне</lemma>
+    <lemma annotation="задачы">рашэнне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>решение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řešení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rješenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>решение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. zagadki">rozwiązanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="задачи">решение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>riešenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raztopino</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="завдання">рішення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>solvo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Lösung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="probleem">oplossing</lemma>
+  </synset>
+</multilingual-synset>

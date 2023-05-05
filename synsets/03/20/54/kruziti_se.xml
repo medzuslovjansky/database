@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32054"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32054"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      krųžiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>круціцца</lemma>
+    <lemma>кружыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въртя се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>točit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrtjeti se</lemma>
+    <lemma>okretati se</lemma>
+    <lemma>obrtati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се врти</lemma>
+    <lemma>се тркала</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krążyć</lemma>
+    <lemma>wirować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вращаться</lemma>
+    <lemma>кружиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>točiť sa</lemma>
+    <lemma>krútiť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za vrtenje</lemma>
+    <lemma>vrtenje</lemma>
+    <lemma>zavrtite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вртети се</lemma>
+    <lemma>окретати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обертатися</lemma>
+    <lemma>крутитися</lemma>
+    <lemma>кружляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spino</lemma>
+    <lemma>peladon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spin</lemma>
+    <lemma>Wirbel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>draaien</lemma>
+    <lemma>tollen</lemma>
+  </synset>
+</multilingual-synset>

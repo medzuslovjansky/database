@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4508"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4508"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be bg"
+    >
+      uniziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зняважыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>унижава</lemma>
+    <lemma>смирять</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ponížit</lemma>
+    <lemma>pokořit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poniziti</lemma>
+    <lemma>uniziti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>понижи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upokorzyć</lemma>
+    <lemma>poniżyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>унизить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ponížiť</lemma>
+    <lemma>pokoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ponižuje ponižuje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>понизити унизити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>принизити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>humiligi</lemma>
+    <lemma>humila</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>demütigen</lemma>
+    <lemma>bescheidenen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vernederen</lemma>
+  </synset>
+</multilingual-synset>

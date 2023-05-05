@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5969"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5969" steen:pos="f." steen:type="1">zagadka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадка</lemma>
+    <lemma>галаваломка</lemma>
+    <lemma>ламігалоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>загадка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hádanka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zagonetka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>загатка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagadka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>загадка</lemma>
+    <lemma>головоломка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hádanka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>puzzle</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>загонетка</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>загадка</lemma>
+    <lemma>головоломка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enigmo</lemma>
+    <lemma>enigmo</lemma>
+    <lemma>mistero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Puzzle</lemma>
+    <lemma>Rätsel</lemma>
+    <lemma>Rätsel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>raadsel</lemma>
+    <lemma>mysterie</lemma>
+  </synset>
+</multilingual-synset>

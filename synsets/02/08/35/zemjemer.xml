@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20835"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20835"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru cz sh"
+    >
+      zemjeměr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>геадэзіст</lemma>
+    <lemma>каморнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>геодезист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zeměměřič</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>geodet</lemma>
+    <lemma>geometar</lemma>
+    <lemma>mjernik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>геометар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>geodeta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>геодезист</lemma>
+    <lemma>землемер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zememerač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>geodet</lemma>
+    <lemma>geodet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>геодет</lemma>
+    <lemma>геометар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>геодезист</lemma>
+    <lemma>землемір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>agrimensor</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Landvermesser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>landmeter</lemma>
+    <lemma>geodeet</lemma>
+  </synset>
+</multilingual-synset>

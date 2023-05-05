@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29484"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29484"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      opaliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абпаліць</lemma>
+    <lemma>асмужыць</lemma>
+    <lemma>асмаліць</lemma>
+    <lemma>абпячы</lemma>
+    <lemma>апячы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>паленый</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="ohněm">opálit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oprljiti</lemma>
+    <lemma>osmuditi</lemma>
+    <lemma>opaliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опали</lemma>
+    <lemma>испали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ogniem">opalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опалить</lemma>
+    <lemma>обжечь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="ohňom">opáliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>singe</lemma>
+    <lemma>ožganine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опалити</lemma>
+    <lemma>опрљити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обпалити</lemma>
+    <lemma>опалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>singe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versengen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbranden</lemma>
+    <lemma>verschroeien</lemma>
+    <lemma>blakeren</lemma>
+  </synset>
+</multilingual-synset>

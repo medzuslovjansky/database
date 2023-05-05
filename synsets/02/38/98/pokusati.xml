@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23898"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23898"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru cs yu bg"
+    >
+      pokušati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спрабаваць</lemma>
+    <lemma annotation="харч.">спытваць</lemma>
+    <lemma annotation="харч.">смакаваць</lemma>
+    <lemma annotation="харч.">рассмакоўваць</lemma>
+    <lemma>прабаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkoušet</lemma>
+    <lemma>pokoušet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pokušati</lemma>
+    <lemma>iskušati</lemma>
+    <lemma>probati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пробува</lemma>
+    <lemma>обидува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>próbować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пробовать</lemma>
+    <lemma>пытаться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skúšať</lemma>
+    <lemma>pokúšať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poskusite</lemma>
+    <lemma>poskusite</lemma>
+    <lemma>poskusite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>покушати</lemma>
+    <lemma>искушати</lemma>
+    <lemma>пробати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>намагатися</lemma>
+    <lemma>пробувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Versuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proberen</lemma>
+    <lemma>pogen</lemma>
+    <lemma>trachten</lemma>
+  </synset>
+</multilingual-synset>

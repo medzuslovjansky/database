@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20969"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20969" steen:pos="m." steen:type="2" steen:same="ru sh">
+      opyt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дослед</lemma>
+    <lemma>дасведчанне</lemma>
+    <lemma>практыка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>експеримент</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pokus</lemma>
+    <lemma>experiment</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>opit</lemma>
+    <lemma>eksperiment</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опит</lemma>
+    <lemma>експеримент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eksperyment</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опыт</lemma>
+    <lemma>эксперимент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pokus</lemma>
+    <lemma>experiment</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poskus</lemma>
+    <lemma>eksperiment</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опит</lemma>
+    <lemma>експеримент</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дослід</lemma>
+    <lemma>експеримент</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksperimento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Experiment</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>experiment</lemma>
+  </synset>
+</multilingual-synset>

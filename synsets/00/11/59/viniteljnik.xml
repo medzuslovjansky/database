@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1159"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1159" steen:pos="m." steen:type="1">viniteljnik</lemma>
+    <lemma steen:id="1159" steen:pos="m." steen:type="1">
+      viniteljny padež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вінавальны склон</lemma>
+    <lemma annotation="грам.">акузатыў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="падеж">винителен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>akuzativ</lemma>
+    <lemma>4. pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>akuzativ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">акузатив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biernik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>винительный падеж</lemma>
+    <lemma annotation="грам.">аккузатив</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>akuzatív</lemma>
+    <lemma>4. pád</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>tožilnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>акузатив</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>знахідний відмінок</lemma>
+    <lemma annotation="грам.">аккузатив</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akuzativo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Akkusativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>accusatief</lemma>
+  </synset>
+</multilingual-synset>

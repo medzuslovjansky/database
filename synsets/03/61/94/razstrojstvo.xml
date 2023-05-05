@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36194"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36194" steen:pos="n." steen:type="2" steen:same="ru bm">
+      råzstrojstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>расстройства</lemma>
+    <lemma>расстройванне</lemma>
+    <lemma annotation="псіхічны">разлад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="психично">разстройство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="duševní">porucha</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastrojstvo</lemma>
+    <lemma>rasulo</lemma>
+    <lemma>nemir</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="ментално">растројство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaburzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="психическое">расстройство</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="duševné">porucha</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>motnja</lemma>
+    <lemma>kaos</lemma>
+    <lemma>nemir</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растројство</lemma>
+    <lemma>расуло</lemma>
+    <lemma>немир</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="психічне">розлад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="mensa">malordo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="mental">Störung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stoornis</lemma>
+  </synset>
+</multilingual-synset>

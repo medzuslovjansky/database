@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36840"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36840"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      seksta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="муз. інтэрвал">секста</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="музикален интервал">секста</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sexta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="interval u glazbi">seksta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="музички интервал">секста</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>seksta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муз. интервал">секста</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sexta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šestin</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="интервал у музици">секста</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="муз. інтервал">секста</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sesto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="musikalische Pause">sechste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sext</lemma>
+  </synset>
+</multilingual-synset>

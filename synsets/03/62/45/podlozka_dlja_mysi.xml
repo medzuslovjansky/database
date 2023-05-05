@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36245"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36245" steen:pos="f." steen:type="1" steen:same="z j">
+      podložka dlja myši
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кілімок для мышкі</lemma>
+    <lemma>каберац для мышкі</lemma>
+    <lemma>дыванок для мышкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>подложка за мишка</lemma>
+    <lemma>мат мишката</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podložka pod myš</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podloga za miša</lemma>
+    <lemma>podložak za miša</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="компјутер">подлога за глушец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podkładka pod mysz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>коврик для мыши</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podložka pod myš</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="PC">miško</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="компјутер">подлога за миша</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>килимок для миші</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>muso kuseneto</lemma>
+    <lemma>muso mato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Maus-Pad</lemma>
+    <lemma>Mauspad</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>muismat</lemma>
+  </synset>
+</multilingual-synset>

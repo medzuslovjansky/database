@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16987"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16987"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="uk z sl"
+      steen:genesis="I"
+    >
+      notoričny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знакаміты</lemma>
+    <lemma>знаёмы</lemma>
+    <lemma>вядомы</lemma>
+    <lemma>славуты</lemma>
+    <lemma>слынны</lemma>
+    <lemma>агульнавядомы</lemma>
+    <lemma>усевядомы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>notoric</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>proslulý</lemma>
+    <lemma>pověstný</lemma>
+    <lemma>známý</lemma>
+    <lemma>notorický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ozloglašen</lemma>
+    <lemma>zloglasan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ноторен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>notoryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>известный</lemma>
+    <lemma>общеизвестный</lemma>
+    <lemma>пресловутый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preslávený</lemma>
+    <lemma>povestný</lemma>
+    <lemma>známy</lemma>
+    <lemma>notorický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razvpiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ноторан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відомий</lemma>
+    <lemma>загальновідомий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fifama</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>notorisch</lemma>
+    <lemma>berüchtigt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>notoir</lemma>
+  </synset>
+</multilingual-synset>

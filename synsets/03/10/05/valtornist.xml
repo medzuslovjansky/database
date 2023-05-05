@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31005"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31005"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v bm"
+      steen:genesis="D"
+    >
+      valtornist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валтарніст</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>валторнист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hornista</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rogist</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свирач на француски рог</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>waltornista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>валторнист</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>hornista</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rog predvajalnik</lemma>
+    <lemma>rog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свирач на хорни</lemma>
+    <lemma>свирач на рогу</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>валторніст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korno ludanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hornist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoornist</lemma>
+  </synset>
+</multilingual-synset>

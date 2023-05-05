@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21928"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21928"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      nastųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="нагою">наступаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>настъпвам нщ.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čin">nastupovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nastupati</lemma>
+    <lemma>stupati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стапнува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nadeptywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ногой">наступать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="čin">nastupovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>wade</lemma>
+    <lemma>stojijo stopil na nekaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>газити</lemma>
+    <lemma>стајати ногом на нешто</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="ногою">наступати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tretas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schritt auf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op">trappen</lemma>
+  </synset>
+</multilingual-synset>

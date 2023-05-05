@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28853"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28853" steen:pos="m." steen:type="2" steen:same="v sh mk">
+      obod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="колы">вобад</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на колела">ръб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="kolo">ráfek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>felga</lemma>
+    <lemma>naplatak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обод</lemma>
+    <lemma>рамка за тркало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>felga</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="колеса">обод</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="bicykel">ráfik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>platišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обод</lemma>
+    <lemma>наплатак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="колеса">обід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rado">rando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Rad">Felge</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>velg</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3363"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3363" steen:pos="m.anim." steen:type="3" steen:same="ru">
+      vlastnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уладар</lemma>
+    <lemma>валадар</lemma>
+    <lemma>спадар</lemma>
+    <lemma>пан</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>властник</lemma>
+    <lemma>господар</lemma>
+    <lemma>повелител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pán</lemma>
+    <lemma>vlastník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gospodar</lemma>
+    <lemma>vlastelin</lemma>
+    <lemma>(vele)posjednik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>господар</lemma>
+    <lemma>властелин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lord</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>властитель</lemma>
+    <lemma>господин</lemma>
+    <lemma>повелитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pán</lemma>
+    <lemma>vlastník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lastnik</lemma>
+    <lemma>gospodar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>власник</lemma>
+    <lemma>господар</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>володар</lemma>
+    <lemma>пан</lemma>
+    <lemma>повелитель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lord</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Herr</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heer</lemma>
+  </synset>
+</multilingual-synset>

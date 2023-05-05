@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28253"
+      steen:addition="(našije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      našiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прышыць</lemma>
+    <lemma>прытачыць</lemma>
+    <lemma>папрышываць</lemma>
+    <lemma>папрыточваць</lemma>
+    <lemma>паўшываць</lemma>
+    <lemma>ушыць</lemma>
+    <lemma annotation="прышыць буйнымі шыўкамі">прыфастрыгаваць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg">
+    <lemma>зашия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>našít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>našiti</lemma>
+    <lemma>prišiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зашие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naszyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пришить</lemma>
+    <lemma annotation="поверх">нашить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>našiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šivanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нашити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нашити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kudri sur</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>annähen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aannaaien</lemma>
+  </synset>
+</multilingual-synset>

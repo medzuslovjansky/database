@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19056"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19056"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="cs~ yu mk"
+    >
+      umětnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>артыстка</lemma>
+    <lemma>мастачка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>творец</lemma>
+    <lemma>художник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umělkyně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umjetnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уметница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>artystka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>артистка</lemma>
+    <lemma>художница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>umelkyňa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>umetnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уметница</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>артистка</lemma>
+    <lemma>художниця</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>artistino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Künstlerin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kunstenares</lemma>
+    <lemma>artieste</lemma>
+  </synset>
+</multilingual-synset>

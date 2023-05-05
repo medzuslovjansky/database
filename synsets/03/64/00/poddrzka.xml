@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36400" steen:pos="f." steen:type="2" steen:same="ru j">
+      poddŕžka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падтрымка</lemma>
+    <lemma>падтрым</lemma>
+    <lemma>суправод</lemma>
+    <lemma>суправаджэнне</lemma>
+    <lemma>спадарожнічанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поддръжка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>údržba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>održavanje</lemma>
+    <lemma>servis</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одржување</lemma>
+    <lemma>сервис</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konserwacja</lemma>
+    <lemma>obsługa</lemma>
+    <lemma>serwis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поддержка</lemma>
+    <lemma>сопровождение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>údržba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Vzdrževanje</lemma>
+    <lemma>servis</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одржавање</lemma>
+    <lemma>сервис</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підтримка</lemma>
+    <lemma>супровід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vivtenado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Instandhaltung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderhoud</lemma>
+  </synset>
+</multilingual-synset>

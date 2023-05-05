@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35495"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35495" steen:pos="f." steen:type="2" steen:same="ru pl sk">
+      pivnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>склеп</lemma>
+    <lemma>пагрэбнік</lemma>
+    <lemma>прыгрэбка</lemma>
+    <lemma>прыгрэбнік</lemma>
+    <lemma>пограб</lemma>
+    <lemma>сутарэнне</lemma>
+    <lemma>падвал</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>изба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sklep</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>podrum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пивница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piwnica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>погреб</lemma>
+    <lemma>подвал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pivnica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klet</lemma>
+    <lemma>pub</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подрум</lemma>
+    <lemma>пивница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>льох</lemma>
+    <lemma>підвал</lemma>
+    <lemma>пивниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Keller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kelder</lemma>
+  </synset>
+</multilingual-synset>

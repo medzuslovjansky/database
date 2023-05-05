@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="562"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="562" steen:pos="n." steen:type="1" steen:same="v bm sh~">
+      vzajemodějstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узаемадзеянне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взаимодействие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzájemné působení</lemma>
+    <lemma>interakce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>međudjelovanje</lemma>
+    <lemma>interakcija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>взаемно дејство</lemma>
+    <lemma>интеракција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>interakcja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взаимодействие</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vzájomné pôsobenie</lemma>
+    <lemma>interakcie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>interakcija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>међуделовање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>взаємодія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interago</lemma>
+    <lemma>interagado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Interaktion</lemma>
+    <lemma>Zusammenspiel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interactie</lemma>
+  </synset>
+</multilingual-synset>

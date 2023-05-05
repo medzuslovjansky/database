@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4301"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4301"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      sȯučęstnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суўдзельнік</lemma>
+    <lemma>саўдзельнік</lemma>
+    <lemma>супольнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>конспиратор</lemma>
+    <lemma annotation="престъпление">соучастник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spolupachatel</lemma>
+    <lemma>spoluviník</lemma>
+    <lemma>komplic</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>suučesnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>соучесник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>współsprawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>соучастник</lemma>
+    <lemma>сообщник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spolupáchateľ</lemma>
+    <lemma>spolupáchateľa</lemma>
+    <lemma>komplic</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sokrivec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саучесник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>співучасник</lemma>
+    <lemma>спільник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunkrimulo</lemma>
+    <lemma annotation="krimo">akcesora</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Komplizen</lemma>
+    <lemma annotation="Verbrechen">Zubehör</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>medeplichtige</lemma>
+  </synset>
+</multilingual-synset>

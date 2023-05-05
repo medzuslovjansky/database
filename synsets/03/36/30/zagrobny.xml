@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33630"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33630"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru uk z sh"
+    >
+      zagrobny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замагільны</lemma>
+    <lemma>тагасветны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>задгробен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záhrobní</lemma>
+    <lemma>ponurý</lemma>
+    <lemma>pohřební</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zagrobni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>задгробен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozagrobowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>загробный</lemma>
+    <lemma>потусторонний</lemma>
+    <lemma>замогильный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záhrobny</lemma>
+    <lemma>ponurý</lemma>
+    <lemma>pohrebný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zagroban</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>загробан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замогильний</lemma>
+    <lemma>потойбічний</lemma>
+    <lemma>замогильний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gloomy</lemma>
+    <lemma>sepulteca</lemma>
+    <lemma>trans la tombo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>düster</lemma>
+    <lemma>sepulchral</lemma>
+    <lemma>jenseits des Grabes</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onderwerelds</lemma>
+    <lemma>afkomstig uit het hiernamaals</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21969"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21969" steen:pos="m." steen:type="2" steen:same="ru pl">
+      pristųp
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыступ</lemma>
+    <lemma annotation="мед.">спохват</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="гняв и т.н.">кацане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záchvat</lemma>
+    <lemma annotation="hněv">nával</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napad</lemma>
+    <lemma>napadaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="срцев, нервен и сл.">напад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gniewu/szału itd.">przystęp</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приступ</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záchvat</lemma>
+    <lemma annotation="hnev">nával</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="bes, jeza">poskuša</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="беса, љутине">напад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="гніву і.т.п.">напад</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kolero ktp">taŭgas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Zorn etc.">Passform</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="woede e.d.">aanval</lemma>
+  </synset>
+</multilingual-synset>

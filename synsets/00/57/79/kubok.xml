@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5779"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5779" steen:pos="m." steen:type="1">kubȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кубак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в спорта">купа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="sport">pohár</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pokal</lemma>
+    <lemma>pehar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="спорт">куп</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>puchar</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кубок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šport">pohár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skodelica</lemma>
+    <lemma>skodelica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пехар</lemma>
+    <lemma>куп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кубок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sporto">taso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Sport">Becher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cup</lemma>
+    <lemma annotation="sport">beker</lemma>
+  </synset>
+</multilingual-synset>

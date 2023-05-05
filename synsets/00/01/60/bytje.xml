@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="160"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="160" steen:pos="n.sg." steen:type="1">byťje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>быццё</lemma>
+    <lemma>існасць</lemma>
+    <lemma>існаванне</lemma>
+    <lemma>сутнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>съществуване</lemma>
+    <lemma>битие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bytí</lemma>
+    <lemma>existence</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bitnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>битие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>istota</lemma>
+    <lemma>istnienie</lemma>
+    <lemma>bycie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>существование</lemma>
+    <lemma>бытие</lemma>
+    <lemma>наличие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bytie</lemma>
+    <lemma>existencia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>obstoj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>биће</lemma>
+    <lemma>створ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буття</lemma>
+    <lemma>існування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzisto</lemma>
+    <lemma>estaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>das Sein</lemma>
+    <lemma>Existenz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestaan</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35101"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35101"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru bm"
+      steen:genesis="D"
+    >
+      škaf
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шафа</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сервант</lemma>
+    <lemma>гардероб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skříň</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ormar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шкаф</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szafa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шкаф</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skriňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omara</lemma>
+    <lemma annotation="ext.">omara</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>орман</lemma>
+    <lemma annotation="лок.">шифоњер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шафа</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝranko</lemma>
+    <lemma>ŝranko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schrank</lemma>
+    <lemma>Schrank</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kast</lemma>
+  </synset>
+</multilingual-synset>

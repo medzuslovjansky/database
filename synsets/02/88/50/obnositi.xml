@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28850"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28850"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl"
+    >
+      obnositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вакол">абносіць</lemma>
+    <lemma>абнасіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>носят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obhánět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nositi</lemma>
+    <lemma>nosati</lemma>
+    <lemma>pronositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="во круг">разнесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obnosić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вокруг">обносить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obháňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nosom</lemma>
+    <lemma>obraba amo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>носати</lemma>
+    <lemma>носити тамо-амо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="навколо">обносити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porti ronda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tragen Runde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rondbrengen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1673"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1673" steen:pos="f." steen:type="1" steen:genesis="I">
+      figura
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фігура</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фигура</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>figura</lemma>
+    <lemma>tvar</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>figura</lemma>
+    <lemma>oblik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фигура</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>figura</lemma>
+    <lemma>kształt</lemma>
+    <lemma>sylwetka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фигура</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>figúra</lemma>
+    <lemma>tvar</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slika</lemma>
+    <lemma>oblika</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>фигура</lemma>
+    <lemma>облик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фігура</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>figuro</lemma>
+    <lemma>formo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Figur Form</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>figuur</lemma>
+  </synset>
+</multilingual-synset>

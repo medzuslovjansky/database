@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19208" steen:pos="f." steen:type="2">věža</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тура</lemma>
+    <lemma annotation="шахматы">ладдзя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шах">топ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">věž</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>top</lemma>
+    <lemma>kula</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">топ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">wieża</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">ладья</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="šach">veža</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="šah">vrh</lemma>
+    <lemma annotation="šah">Tower</lemma>
+    <lemma annotation="šah">Tower</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="шах">топ</lemma>
+    <lemma annotation="шах">кула</lemma>
+    <lemma annotation="шах">торањ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">тура</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">kastelo</lemma>
+    <lemma annotation="ŝako">turo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schach">Burg</lemma>
+    <lemma annotation="Schach">Saatkrähe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">toren</lemma>
+  </synset>
+</multilingual-synset>

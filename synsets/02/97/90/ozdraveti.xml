@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29790"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29790"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      ozdråvěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акрыяць</lemma>
+    <lemma>аздаравець</lemma>
+    <lemma>ачуняць</lemma>
+    <lemma>выздаравець</lemma>
+    <lemma>вылечыцца</lemma>
+    <lemma>вылеквацца</lemma>
+    <lemma>паправіцца</lemma>
+    <lemma>пакіравацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оздравея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzdravit se</lemma>
+    <lemma>zotavit se</lemma>
+    <lemma>vyzdravět</lemma>
+    <lemma>vyléčit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ozdraviti</lemma>
+    <lemma>oporaviti se</lemma>
+    <lemma>izliječiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оздраве</lemma>
+    <lemma>подобри</lemma>
+    <lemma>зајакне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyzdrowieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выздороветь</lemma>
+    <lemma>вылечиться</lemma>
+    <lemma>поправиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uzdraviť sa</lemma>
+    <lemma>zotaviť sa</lemma>
+    <lemma>vyzdraveť</lemma>
+    <lemma>vyliečiť sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ozdraveti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оздравити</lemma>
+    <lemma>опоравити се</lemma>
+    <lemma>излечити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>видужати</lemma>
+    <lemma>вилікуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de malsano">reakiri</lemma>
+    <lemma>akiri bona</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einer Krankheit">erholen</lemma>
+    <lemma>besser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van een ziekte">herstellen</lemma>
+    <lemma annotation="na ziekte">beter worden</lemma>
+  </synset>
+</multilingual-synset>

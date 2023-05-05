@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3269"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3269" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+      špion
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шпіён</lemma>
+    <lemma annotation="дыял.">шпігун</lemma>
+    <lemma>шпег</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шпионин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>špion</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>špijun</lemma>
+    <lemma>obavještajac</lemma>
+    <lemma>tajni agent</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шпион</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szpieg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шпион</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>špión</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vohun</lemma>
+    <lemma>inteligenca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шпијун</lemma>
+    <lemma>обавештајац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шпигун</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>spiono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Spion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spion</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6061"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="sl"
+    >
+      dopisyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапісвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отговаря на</lemma>
+    <lemma>кореспондира с</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dopisovat si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dopisivati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>додава</lemma>
+    <lemma>наведува</lemma>
+    <lemma>допишува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korespondować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переписываться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dopisovať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klepetati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дописивати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дописувати</lemma>
+    <lemma>листуватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>respondas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entsprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>corresponderen</lemma>
+  </synset>
+</multilingual-synset>

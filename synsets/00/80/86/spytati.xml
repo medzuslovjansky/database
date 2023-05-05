@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8086" steen:pos="v.tr. pf." steen:type="1">spytati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спытаць</lemma>
+    <lemma>папытацца</lemma>
+    <lemma>запытацца</lemma>
+    <lemma>запытаць</lemma>
+    <lemma>спытацца</lemma>
+    <lemma>папытаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поиска</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zeptat se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>upitati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прашајте</lemma>
+    <lemma>праша</lemma>
+    <lemma>потпраша</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spytać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спросить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spýtať sa</lemma>
+    <lemma>opýtať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vprašati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>упитати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>запитати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>demandu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>fragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vragen</lemma>
+  </synset>
+</multilingual-synset>

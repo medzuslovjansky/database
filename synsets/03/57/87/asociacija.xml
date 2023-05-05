@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35787"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35787"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      asociacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асацыяцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>асоциация</lemma>
+    <lemma>сдружение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sdružení</lemma>
+    <lemma>asociace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>udruga</lemma>
+    <lemma>asocijacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>асоцијација</lemma>
+    <lemma>здружение</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stowarzyszenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ассоциация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>združenie</lemma>
+    <lemma>asociácia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zveza</lemma>
+    <lemma>društvo</lemma>
+    <lemma>združenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>удружење</lemma>
+    <lemma>задруга</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>асоціація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>asocio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Organisation">Verband</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vereniging</lemma>
+    <lemma>genootschap</lemma>
+  </synset>
+</multilingual-synset>

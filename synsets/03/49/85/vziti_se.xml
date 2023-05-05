@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34985"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34985"
+      steen:addition="(vžive)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      vžiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ужыцца</lemma>
+    <lemma>увасобіцца</lemma>
+    <lemma>абжыцца</lemma>
+    <lemma>асвоіцца</lemma>
+    <lemma>асвойтацца</lemma>
+    <lemma>агойтацца</lemma>
+    <lemma>звыкнуць</lemma>
+    <lemma>прывыкнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свикна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvyknout si</lemma>
+    <lemma>přivyknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">naviknuti</lemma>
+    <lemma annotation="se">priviknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се привикне</lemma>
+    <lemma>се навикне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyzwyczaić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вжиться</lemma>
+    <lemma>обжиться</lemma>
+    <lemma>освоиться</lemma>
+    <lemma>привыкнуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvyknúť si</lemma>
+    <lemma>privýknuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>navadi se na</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>навикнути се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>звикнути</lemma>
+    <lemma>освоїтися</lemma>
+    <lemma>ужитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="al">alkutimiĝi</lemma>
+    <lemma annotation="al">akiri alkutimiĝis</lemma>
+    <lemma>konatiĝi sin kun</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="to">gewöhnungs</lemma>
+    <lemma annotation="to">gewöhnen</lemma>
+    <lemma>machen sich mit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gewend raken</lemma>
+  </synset>
+</multilingual-synset>

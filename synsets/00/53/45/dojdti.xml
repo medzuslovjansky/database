@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5345"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5345"
+      steen:addition="(dojde; došel)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      dojdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дайсці</lemma>
+    <lemma>дабрацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>идвам</lemma>
+    <lemma>пристигам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dojít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дојде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybyć</lemma>
+    <lemma>dojść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дойти</lemma>
+    <lemma>добраться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôjsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prihaja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дійти</lemma>
+    <lemma>досягти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alveni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma annotation="te voet">arriveren</lemma>
+  </synset>
+</multilingual-synset>

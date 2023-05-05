@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36289"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36289"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z bg"
+      steen:genesis="E"
+    >
+      komiks
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>комікс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>комикс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>komiks</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>strip</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стрип</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komiks</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>комикс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>komiks</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>strip</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стрип</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>комікс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komiksoj</lemma>
+    <lemma>komikso</lemma>
+    <lemma annotation="libro">karikaturo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Comics</lemma>
+    <lemma>Comic</lemma>
+    <lemma annotation="Buch">Cartoon</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>strip</lemma>
+    <lemma>stripboek</lemma>
+  </synset>
+</multilingual-synset>

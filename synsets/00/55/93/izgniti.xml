@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5593"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5593"
+      steen:addition="(izgnije)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      izgniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>згніць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изгния</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shnít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istrunuti</lemma>
+    <lemma>izagnjeti</lemma>
+    <lemma>pokvariti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изгние</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zgnić</lemma>
+    <lemma annotation="żywność">zepsuć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сгнить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zhniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gnilobe</lemma>
+    <lemma>izagnjeti</lemma>
+    <lemma>razčleniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иструлити</lemma>
+    <lemma>изагњети</lemma>
+    <lemma>покварити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>згнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rot</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verrotten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rotten</lemma>
+    <lemma>verrotten</lemma>
+  </synset>
+</multilingual-synset>

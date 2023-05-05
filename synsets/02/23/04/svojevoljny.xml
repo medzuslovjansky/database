@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22304"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22304"
+      steen:pos="adj."
+      steen:type="3"
+      steen:same="ru cz~ sh~"
+    >
+      svojevoljny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свавольны</lemma>
+    <lemma>самавольны</lemma>
+    <lemma>сваявольны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>своенравная</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svévolný</lemma>
+    <lemma>úmyslný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svojevoljan</lemma>
+    <lemma>samovoljan</lemma>
+    <lemma>slobodan</lemma>
+    <lemma>dobrovoljan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>своеволен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samowolny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>своевольный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>svojvoľný</lemma>
+    <lemma>úmyselný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Negotov</lemma>
+    <lemma>namerno</lemma>
+    <lemma>brezplačno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>својевољан</lemma>
+    <lemma>самовољан</lemma>
+    <lemma>слободан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>свавільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>obstina</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>willentlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigenwijs</lemma>
+  </synset>
+</multilingual-synset>

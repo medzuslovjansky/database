@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1934"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1934"
+      steen:addition="(maže)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      mazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мазаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>намазвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mazat</lemma>
+    <lemma>rozmazávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mazati</lemma>
+    <lemma>premazivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>размачкува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mazać</lemma>
+    <lemma>rozmazywać</lemma>
+    <lemma>plamić</lemma>
+    <lemma>smarować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мазать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mazať</lemma>
+    <lemma>rozmazávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mazanih</lemma>
+    <lemma>prevlečene</lemma>
+    <lemma>zamazivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мазати</lemma>
+    <lemma>премазивати</lemma>
+    <lemma>замазивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мазати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malprestiĝo</lemma>
+    <lemma>besmear</lemma>
+    <lemma>makulo</lemma>
+    <lemma>grundo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abstrich</lemma>
+    <lemma>beschmieren</lemma>
+    <lemma>Beize</lemma>
+    <lemma>Boden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>besmeren</lemma>
+  </synset>
+</multilingual-synset>

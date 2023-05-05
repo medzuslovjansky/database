@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16297"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16297"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru z sh bm"
+    >
+      ograničati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абмяжоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>граница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohraničovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ograničavati</lemma>
+    <lemma>limitirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ограничува</lemma>
+    <lemma>лимитира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ograniczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ограничивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ohraničovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omejujejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ограничавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обмежувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>limo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grenze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beperken</lemma>
+    <lemma>inperken</lemma>
+    <lemma>begrenzen</lemma>
+    <lemma>limiteren</lemma>
+  </synset>
+</multilingual-synset>

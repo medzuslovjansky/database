@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36185"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      personifikacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>персаніфікацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>персонификация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>personifikace</lemma>
+    <lemma>zosobnění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>personifikacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>персонификација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>personifikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>персонификация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>personifikácia</lemma>
+    <lemma>zosobnenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poosebljenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>персонификација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>персоніфікація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>personificación</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Personifikation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>personificatie</lemma>
+  </synset>
+</multilingual-synset>

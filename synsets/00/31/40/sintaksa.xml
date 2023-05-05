@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3140"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3140" steen:pos="f." steen:type="1" steen:genesis="I">
+      sintaksa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сінтаксіс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>синтаксис</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>syntaxe</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sintaksa</lemma>
+    <lemma annotation="rečenice">struktura</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>синтакса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>syntaksa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>синтаксис</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>syntax</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sintakse</lemma>
+    <lemma annotation="stavki">struktura</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>синтакса</lemma>
+    <lemma annotation="реченице">структура</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>синтаксис</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sintakso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Syntax</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>syntaxis</lemma>
+    <lemma>zinsbouw</lemma>
+  </synset>
+</multilingual-synset>

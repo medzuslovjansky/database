@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33244"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33244"
+      steen:addition="(råzsěje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      råzsějati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рассеяць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>овърклок</lemma>
+    <lemma>за да се разсее</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozptýlit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rasijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расее</lemma>
+    <lemma>распрсне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozsiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассеять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozptýliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Raztros</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>расејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розсіяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>semas</lemma>
+    <lemma>disĵeti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zerstreuen</lemma>
+    <lemma>streuen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitzaaien</lemma>
+  </synset>
+</multilingual-synset>

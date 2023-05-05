@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32814"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32814"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      hmuriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хмурыць</lemma>
+    <lemma>моршчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>набръчквам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chmuřit</lemma>
+    <lemma>vraštit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrštiti se</lemma>
+    <lemma>mrgoditi se</lemma>
+    <lemma>tmuriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мурти</lemma>
+    <lemma>набрчка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marszczyć</lemma>
+    <lemma>chmurzyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хмурить</lemma>
+    <lemma>морщить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chmúriť</lemma>
+    <lemma>mraštiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jezijo</lemma>
+    <lemma>gub</lemma>
+    <lemma annotation="čelo">Bora</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мрштити</lemma>
+    <lemma>мргодити</lemma>
+    <lemma annotation="чело">борати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>насуплювати</lemma>
+    <lemma>хмурити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sulkon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Furche</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen fronsen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31826"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31826" steen:pos="v.tr. pf." steen:type="1">
+      dogorěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дагарэць</lemma>
+    <lemma>выгарэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изгаря</lemma>
+    <lemma annotation="огън">догаря</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dohořet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dogorjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>догорува</lemma>
+    <lemma>изгорува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spalić doszczętnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>догореть</lemma>
+    <lemma>выгореть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dohorieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gorijo</lemma>
+    <lemma>gorijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>догорети</lemma>
+    <lemma>изгорети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>догоріти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fajrodetrui</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abbrennen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen afbranden</lemma>
+  </synset>
+</multilingual-synset>

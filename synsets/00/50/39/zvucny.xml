@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5039"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5039" steen:pos="adj." steen:type="1">zvųčny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зычны гук">звонкі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="съгласна">звучна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="souhláska">znělý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="suglasnik">zvučan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="консонант, согласка">звучен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="fonet.">dźwięczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="согласный звук">звонкий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="spoluhláska">znelý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="soglasnik">Zvočna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="сугласник">звучан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дзвінкий</lemma>
+    <lemma annotation="приголосний звук">голосовий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma annotation="konsonanto">voĉa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Konsonant">stimmhaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stemhebbend</lemma>
+  </synset>
+</multilingual-synset>

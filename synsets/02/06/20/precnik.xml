@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20620"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20620" steen:pos="m." steen:type="2" steen:same="v sh mk">
+      prěčnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыяметр</lemma>
+    <lemma>папярочнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>диаметри</lemma>
+    <lemma>диаметър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průměr</lemma>
+    <lemma>diametr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>promjer</lemma>
+    <lemma>dijametar</lemma>
+    <lemma>prečnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пречник</lemma>
+    <lemma>дијаметар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>średnica</lemma>
+    <lemma>diametr</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>диаметр</lemma>
+    <lemma>поперечник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>priemer</lemma>
+    <lemma>diameter</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>premer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пречник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>діаметр</lemma>
+    <lemma>поперечник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diametro mezuras</lemma>
+    <lemma>diametron</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>diametre</lemma>
+    <lemma>Durchmesser</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diameter</lemma>
+  </synset>
+</multilingual-synset>

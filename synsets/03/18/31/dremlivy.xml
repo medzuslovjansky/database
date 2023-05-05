@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31831"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31831" steen:pos="adj." steen:type="1">drěmlivy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сонны</lemma>
+    <lemma>санлівы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заспал</lemma>
+    <lemma>дремлив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ospalý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dremljiv</lemma>
+    <lemma>pospan</lemma>
+    <lemma>snen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дремлив</lemma>
+    <lemma>сонлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>senny</lemma>
+    <lemma annotation="zmęczony">śpiący</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сонный</lemma>
+    <lemma>сонливый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ospalý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaspanosti</lemma>
+    <lemma>zaspanost</lemma>
+    <lemma>sanan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дремљив</lemma>
+    <lemma>поспан</lemma>
+    <lemma>сањив</lemma>
+    <lemma>санан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сонний</lemma>
+    <lemma>сонливий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dormema</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schläfrig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slaperig</lemma>
+  </synset>
+</multilingual-synset>

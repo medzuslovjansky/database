@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32639"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32639"
+      steen:addition="(zažže)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru uk z~ j~"
+    >
+      zažegti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запаліць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запаля</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapálit</lemma>
+    <lemma>roznítit</lemma>
+    <lemma>zažehnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapaliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запали</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зажечь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapáliť</lemma>
+    <lemma>roznietiť</lemma>
+    <lemma>zažať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osvetliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>запалити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝaltas</lemma>
+    <lemma>lumo</lemma>
+    <lemma>bruligu</lemma>
+    <lemma>flamigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zünden</lemma>
+    <lemma>Licht</lemma>
+    <lemma>anzündet</lemma>
+    <lemma>entflammen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vuur">aansteken</lemma>
+  </synset>
+</multilingual-synset>

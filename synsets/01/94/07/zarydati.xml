@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19407"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19407"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru sh bg"
+    >
+      zarydati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зарыдаць</lemma>
+    <lemma>загаласіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зарида</lemma>
+    <lemma>захлипа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>propuknout v pláč</lemma>
+    <lemma>zabědovat</lemma>
+    <lemma>zanaříkat</lemma>
+    <lemma>silně zaplakat</lemma>
+    <lemma>zavzlykat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaridati</lemma>
+    <lemma>zajecati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>зареди</lemma>
+    <lemma>залипа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaszlochać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зарыдать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zavzlykať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sob</lemma>
+    <lemma>jok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заридати</lemma>
+    <lemma>заплакати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заголосити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sollozo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schluchzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>snikken</lemma>
+  </synset>
+</multilingual-synset>

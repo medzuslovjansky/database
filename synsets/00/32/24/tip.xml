@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3224"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3224" steen:pos="m." steen:type="1" steen:genesis="I">
+      tip
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тып</lemma>
+    <lemma>кшталт</lemma>
+    <lemma>від</lemma>
+    <lemma>гатунак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тип</lemma>
+    <lemma>вид на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>typ</lemma>
+    <lemma>druh</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tip</lemma>
+    <lemma>uzorak</lemma>
+    <lemma>obrazac</lemma>
+    <lemma>model</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тип</lemma>
+    <lemma>вид</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>typ</lemma>
+    <lemma>rodzaj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тип</lemma>
+    <lemma>вид</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>typ</lemma>
+    <lemma>druh</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrsta</lemma>
+    <lemma>rod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врста</lemma>
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>тип</lemma>
+    <lemma>рід</lemma>
+    <lemma>вид</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tajpi</lemma>
+    <lemma>speco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Typ</lemma>
+    <lemma>Art</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>type</lemma>
+  </synset>
+</multilingual-synset>

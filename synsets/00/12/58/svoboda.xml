@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1258"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1258" steen:pos="f." steen:type="1">svoboda</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свабода</lemma>
+    <lemma>воля</lemma>
+    <lemma>вольнасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свобода</lemma>
+    <lemma>свобода</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svoboda</lemma>
+    <lemma>volnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sloboda</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слобода</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wolność</lemma>
+    <lemma>swoboda</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свобода</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sloboda</lemma>
+    <lemma>voľnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svoboda</lemma>
+    <lemma annotation="arch.">svoboda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слобода</lemma>
+    <lemma annotation="арх.">свобода</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свобода</lemma>
+    <lemma>воля</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>libereco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Freiheit</lemma>
+    <lemma>Freiheit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vrijheid</lemma>
+  </synset>
+</multilingual-synset>

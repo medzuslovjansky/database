@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23998"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23998" steen:pos="n." steen:type="1" steen:genesis="I">
+      eho
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэха</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ехо</lemma>
+    <lemma>отзвук</lemma>
+    <lemma>отглас</lemma>
+    <lemma>отклик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>echo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eho</lemma>
+    <lemma>jeka</lemma>
+    <lemma>odjek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ехо</lemma>
+    <lemma>одек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>echo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эхо</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>echo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>echo</lemma>
+    <lemma>echo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ехо</lemma>
+    <lemma>одјек</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>луна</lemma>
+    <lemma>відлуння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eĥo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Echo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>echo</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35257"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35257"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="be pl sh bm"
+      steen:genesis="I"
+    >
+      klasa
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клас</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>класа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>třída</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klasa</lemma>
+    <lemma>kategorija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>класа</lemma>
+    <lemma>категорија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klasa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>класс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trieda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Razred</lemma>
+    <lemma>kategorija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>класа</lemma>
+    <lemma>категорија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клас</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klaso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klasse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klasse</lemma>
+  </synset>
+</multilingual-synset>

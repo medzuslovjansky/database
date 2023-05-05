@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21770"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21770"
+      steen:addition="(pristoji)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru pl sh"
+    >
+      pristojati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпавядаць</lemma>
+    <lemma>належаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да бъде страна</lemma>
+    <lemma>правилно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slušet</lemma>
+    <lemma>být vhodný</lemma>
+    <lemma>být správný</lemma>
+    <lemma>být přístojný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pristajati</lemma>
+    <lemma>priličiti</lemma>
+    <lemma>dolikovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилега</lemma>
+    <lemma>личи</lemma>
+    <lemma>доликува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komuś robienie czegoś">przystawać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подобать</lemma>
+    <lemma>соответствовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>slušať</lemma>
+    <lemma>byť vhodný</lemma>
+    <lemma>byť správny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pristojati</lemma>
+    <lemma>dolikovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пристојати</lemma>
+    <lemma>доликовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відповідати</lemma>
+    <lemma>підходити</lemma>
+    <lemma>збігатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esti konvenanta</lemma>
+    <lemma>esti taŭga</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sein Fitting</lemma>
+    <lemma>sein richtigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>passend zijn</lemma>
+    <lemma>gepast zijn</lemma>
+  </synset>
+</multilingual-synset>

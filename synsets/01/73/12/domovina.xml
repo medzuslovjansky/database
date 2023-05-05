@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17312"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17312" steen:pos="f." steen:type="2" steen:same="z">
+      domovina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бацькаўшчына</lemma>
+    <lemma>радзіма</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>родина</lemma>
+    <lemma>отечество</lemma>
+    <lemma>татковина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlast</lemma>
+    <lemma>domovina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>domovina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>татковина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ojczyzna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отечество</lemma>
+    <lemma>родина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlasť</lemma>
+    <lemma>domovina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>domovina otedžbina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>домовина</lemma>
+    <lemma>отаџбина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>батьківщина</lemma>
+    <lemma>вітчизна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>patrujo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Heimat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>thuisland</lemma>
+  </synset>
+</multilingual-synset>

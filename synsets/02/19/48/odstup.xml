@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21948"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21948" steen:pos="m." steen:type="2" steen:same="ru pl">
+      odstųp
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="абзац">водступ</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вмятие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odsazení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="pasus">uvučen red</lemma>
+    <lemma>usjek</lemma>
+    <lemma>izrez</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вовлекување</lemma>
+    <lemma>нов ред</lemma>
+    <lemma annotation="текст">пасус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="akapitu">wcięcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="абзац">отступ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odsadenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="prehod">sestavljen rdeča</lemma>
+    <lemma>cut</lemma>
+    <lemma>cut-out</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пасус">увучен ред</lemma>
+    <lemma>усек</lemma>
+    <lemma>изрез</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="абзац">відступ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deŝovon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vertiefung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="paragraaf">inspringing</lemma>
+  </synset>
+</multilingual-synset>

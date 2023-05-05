@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28783"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28783" steen:pos="adj." steen:type="1">oblåčny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хмарны</lemma>
+    <lemma>пахмурны</lemma>
+    <lemma annotation="хмарамі">пакрыты аблокамі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>облачно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oblačný</lemma>
+    <lemma>zatažený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oblačan</lemma>
+    <lemma>tmuran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>облачен</lemma>
+    <lemma>намуртен</lemma>
+    <lemma>тмурен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="niebo">pochmurny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>облачный</lemma>
+    <lemma>пасмурный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oblačný</lemma>
+    <lemma>zatiahnutý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oblačno</lemma>
+    <lemma>mračna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>облачан</lemma>
+    <lemma>тмуран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хмарний</lemma>
+    <lemma>похмурий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nuba</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bewölkt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bewolkt</lemma>
+  </synset>
+</multilingual-synset>

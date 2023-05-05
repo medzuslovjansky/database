@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22829"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22829"
+      steen:addition="(-ogo)"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      znajemy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знаёмы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>познаник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="od vidění">známý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poznanik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>познаник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znajomy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>знакомый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="od videnia">známy</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znanec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>познаник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>знайомий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konatiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bekanntschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kennis</lemma>
+    <lemma>bekende</lemma>
+  </synset>
+</multilingual-synset>

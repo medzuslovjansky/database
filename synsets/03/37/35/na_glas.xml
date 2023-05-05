@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33735"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33735"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ub~ z j"
+    >
+      na glås
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>услых</lemma>
+    <lemma>уголас</lemma>
+    <lemma>голасна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>на глас</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nahlas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naglas</lemma>
+    <lemma>glasno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наглас</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na głos</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вслух</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nahlas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naglas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наглас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вголос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laŭte</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>laut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hardop</lemma>
+  </synset>
+</multilingual-synset>

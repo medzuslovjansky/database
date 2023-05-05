@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12348"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12348" steen:pos="n." steen:type="1" steen:same="v z j">
+      izslušańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="юр.">слуханне</lemma>
+    <lemma>допыт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изслушване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyslechnutí</lemma>
+    <lemma>výslech</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>saslušanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сослушување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesłuchanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="юр.">слушание</lemma>
+    <lemma>рассмотрение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vypočutie</lemma>
+    <lemma>počúvanie</lemma>
+    <lemma>výsluch</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zaslišanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саслушање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слухання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="laŭleĝa procedo">aŭdo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Anhörung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhoor</lemma>
+  </synset>
+</multilingual-synset>

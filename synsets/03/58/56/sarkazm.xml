@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35856"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35856"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      sarkazm
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сарказм</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сарказъм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sarkasmus</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sarkazam</lemma>
+    <lemma>zajedljivost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сарказам</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sarkazm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сарказм</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sarkazmus</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sarkazem</lemma>
+    <lemma>Ostrina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сарказам</lemma>
+    <lemma>заједљивост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сарказм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sarkasmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sarkasmus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sarcasme</lemma>
+  </synset>
+</multilingual-synset>

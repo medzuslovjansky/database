@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2229"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2229"
+      steen:addition="(+3)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      pomogti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дапамагчы</lemma>
+    <lemma>памагчы</lemma>
+    <lemma>пасобіць</lemma>
+    <lemma>паспрыяць</lemma>
+    <lemma annotation="саст.">успамагчы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>помощ</lemma>
+    <lemma>помощ</lemma>
+    <lemma>помощ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomoct</lemma>
+    <lemma>pomoci</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomoći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>помогне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomóc</lemma>
+    <lemma>asystować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помочь</lemma>
+    <lemma>пособить</lemma>
+    <lemma>посодействовать</lemma>
+    <lemma>поспособствовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pomôcť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomoč</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помоћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>допомогти</lemma>
+    <lemma>посприяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>helpo</lemma>
+    <lemma>asisti</lemma>
+    <lemma>helpo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hilfe</lemma>
+    <lemma>Unterstützung</lemma>
+    <lemma>Hilfe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helpen</lemma>
+    <lemma>assisteren</lemma>
+  </synset>
+</multilingual-synset>

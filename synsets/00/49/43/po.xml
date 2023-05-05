@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4943"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4943"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>па</lemma>
+    <lemma>за</lemma>
+    <lemma annotation="напр.: па грыбы, за хлебам">па-за</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="да получи">За</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="např. jít pro chléb">pro</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>po</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="оди по">по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. iść po chleb">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по грибы, за хлебом">за</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="napr. ísť pre chlieb">pre</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="minevajo ...">s</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="ићи по...">по</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>по</lemma>
+    <lemma annotation="напр.: по гриби, за хлібом">за</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en persekutado de, por ricevi">por</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="in der Verfolgung, zu erhalten">für</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>om … te halen</lemma>
+  </synset>
+</multilingual-synset>

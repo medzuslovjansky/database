@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28451"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28451" steen:pos="f." steen:type="1" steen:same="v z bg">
+      neohota
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неахвота</lemma>
+    <lemma>нежаданне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неохота</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>neochota</lemma>
+    <lemma>averze</lemma>
+    <lemma>nechuť</lemma>
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odbojnost</lemma>
+    <lemma>averzija</lemma>
+    <lemma>nesklonost</lemma>
+    <lemma>zazor</lemma>
+    <lemma>nenaklonjenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одбивност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niechęć</lemma>
+    <lemma>awersja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нежелание</lemma>
+    <lemma>неохота</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neochota</lemma>
+    <lemma>averzia</lemma>
+    <lemma>nechuť</lemma>
+    <lemma>odpor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odboj</lemma>
+    <lemma>odpor</lemma>
+    <lemma>nepripravljenost</lemma>
+    <lemma>apatija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одбојност</lemma>
+    <lemma>аверзија</lemma>
+    <lemma>невољност</lemma>
+    <lemma>апатија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>небажання</lemma>
+    <lemma>неохота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aversión</lemma>
+    <lemma>disinclination</lemma>
+    <lemma>malŝaton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Abneigung</lemma>
+    <lemma>Abneigung</lemma>
+    <lemma>Abneigung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerzin</lemma>
+    <lemma>aversie</lemma>
+  </synset>
+</multilingual-synset>

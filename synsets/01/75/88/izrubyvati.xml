@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17588"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17588"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru uk pl"
+    >
+      izrųbyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>высякаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изсека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyrubávat</lemma>
+    <lemma>vysekávat</lemma>
+    <lemma>kácet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sjeći</lemma>
+    <lemma>kresati</lemma>
+    <lemma>odsjecati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсече</lemma>
+    <lemma>исече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyrąbywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вырубать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyrubávať</lemma>
+    <lemma>vysekávať</lemma>
+    <lemma>rúbať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obrezana</lemma>
+    <lemma>cut</lemma>
+    <lemma>cut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исецати</lemma>
+    <lemma>сећи</lemma>
+    <lemma>изрезивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вирубувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>haki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>hacken weg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uithakken</lemma>
+    <lemma>weghakken</lemma>
+  </synset>
+</multilingual-synset>

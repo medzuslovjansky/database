@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17998"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17998"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="pl"
+    >
+      objavjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выяўляць</lemma>
+    <lemma>знаходзіць</lemma>
+    <lemma>паказваць</lemma>
+    <lemma>заўважаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разкриват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zveřejňovat</lemma>
+    <lemma>oznamovat</lemma>
+    <lemma>vyjevovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obajvljivati</lemma>
+    <lemma>otkrivati</lemma>
+    <lemma>odavati</lemma>
+    <lemma>prokazivati</lemma>
+    <lemma>potkazivati</lemma>
+    <lemma>izdavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>открива</lemma>
+    <lemma>објавува</lemma>
+    <lemma>доверува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ujawniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>раскрывать</lemma>
+    <lemma>обнаруживать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uverejňovať</lemma>
+    <lemma>oznamovať</lemma>
+    <lemma>vyjavovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razkrije</lemma>
+    <lemma annotation="skrivnost">objavi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>откривати</lemma>
+    <lemma annotation="тајну">издавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розкривати</lemma>
+    <lemma>виявляти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malkaŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bekannt geben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onthullen</lemma>
+    <lemma>openbaren</lemma>
+  </synset>
+</multilingual-synset>

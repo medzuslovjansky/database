@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17441"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17441" steen:pos="f." steen:type="1">grěška</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памылка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chyba</lemma>
+    <lemma>mýlka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>greška</lemma>
+    <lemma>pogreška</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>błąd</lemma>
+    <lemma>pomyłka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ошибка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chyba</lemma>
+    <lemma>omyl</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>napaka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грешка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>помилка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eraro</lemma>
+    <lemma>eraro</lemma>
+    <lemma>tajperaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fehler</lemma>
+    <lemma>Fehler</lemma>
+    <lemma>Tippfehler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fout</lemma>
+    <lemma>vergissing</lemma>
+  </synset>
+</multilingual-synset>

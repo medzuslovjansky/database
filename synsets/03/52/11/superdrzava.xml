@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35211"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35211" steen:pos="f." steen:type="2" steen:same="v">
+      superdŕžava
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звышдзяржава</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="държава">суперсила</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="stát">supervelmoc</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>supersila</lemma>
+    <lemma>velesila</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>суперсила</lemma>
+    <lemma>супер држава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>supermocarstwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сверхдержава</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="štát">superveľmoc</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>velesila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>суперсила</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>наддержава</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="stato">superpotenco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="state">Supermacht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>supermacht</lemma>
+  </synset>
+</multilingual-synset>

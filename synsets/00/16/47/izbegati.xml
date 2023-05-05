@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1647"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1647" steen:pos="v.intr. ipf." steen:type="1">
+      izběgati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уцякаць</lemma>
+    <lemma>збягаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>избягвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>utíkat</lemma>
+    <lemma>unikat</lemma>
+    <lemma>prchat</lemma>
+    <lemma>vybíhat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bježati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бега</lemma>
+    <lemma>избегува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uciekać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убегать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>utekať</lemma>
+    <lemma>unikať</lemma>
+    <lemma>utekať</lemma>
+    <lemma>vybiehať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>teči</lemma>
+    <lemma annotation="čas">mimo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бежати</lemma>
+    <lemma annotation="време">пролазити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тікати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eskapi</lemma>
+    <lemma>fuĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entkommen</lemma>
+    <lemma>fliehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vluchten</lemma>
+  </synset>
+</multilingual-synset>

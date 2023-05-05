@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14568"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14568"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      garantovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гарантаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гарантирам</lemma>
+    <lemma>подсигурявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>garantovat</lemma>
+    <lemma>ručit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>garantirati</lemma>
+    <lemma>jamčiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гарантира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dawać gwarancję</lemma>
+    <lemma>gwarantować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гарантировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>garantovať</lemma>
+    <lemma>ručiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Garancija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јамчити</lemma>
+    <lemma>гарантовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гарантувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>garantio</lemma>
+    <lemma>certigi</lemma>
+    <lemma>sekurigilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Garantie</lemma>
+    <lemma>Gewährleistung sichern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>garanderen</lemma>
+    <lemma>verzekeren</lemma>
+  </synset>
+</multilingual-synset>

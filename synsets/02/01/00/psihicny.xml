@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20100" steen:pos="adj." steen:type="1" steen:genesis="I">
+      psihičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>псіхічны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>душевната</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>psychický</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>psihički</lemma>
+    <lemma>psihičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>психички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>psychiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>психический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>psychický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>duševno</lemma>
+    <lemma>psihičan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>психички</lemma>
+    <lemma>психичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>психічний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>psika</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>psychisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>psychisch</lemma>
+  </synset>
+</multilingual-synset>

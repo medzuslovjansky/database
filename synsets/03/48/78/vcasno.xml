@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34878"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34878"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="ub pl~ cs sl~"
+    >
+      včasno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>у час</lemma>
+    <lemma>учасна</lemma>
+    <lemma annotation="зап.">своечасова</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>навреме</lemma>
+    <lemma>навреме</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>včasně</lemma>
+    <lemma>včas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravodobno</lemma>
+    <lemma>pravovremeno</lemma>
+    <lemma>blagovremeno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>навремено</lemma>
+    <lemma>благовремено</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>terminowo</lemma>
+    <lemma>w właściwym momencie</lemma>
+    <lemma>w odpowiedniej chwili</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>своевременно</lemma>
+    <lemma>в срок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>včasne</lemma>
+    <lemma>včas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravočasno</lemma>
+    <lemma>pravočasno</lemma>
+    <lemma>samo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>благовремено</lemma>
+    <lemma>на време</lemma>
+    <lemma>управо</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>своєчасно</lemma>
+    <lemma>в строк</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝustatempa</lemma>
+    <lemma>ĝustatempe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechtzeitig</lemma>
+    <lemma>pünktlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdig</lemma>
+    <lemma>op tijd</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6164"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6164" steen:pos="f." steen:type="1" steen:genesis="I">
+      kalka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калька</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>калка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kalk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kalk</lemma>
+    <lemma>kopija</lemma>
+    <lemma>duplikat</lemma>
+    <lemma>preslik</lemma>
+    <lemma>prevedenica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma
+      annotation="збор или израз добиен со буквален превод на туѓ збор или израз"
+    >
+      калка
+    </lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kalka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="лингв.">калька</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kalk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kopiranje kalkaža</lemma>
+    <lemma>ponarejanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="лингв.">калк</lemma>
+    <lemma>преслик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>калька</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŭsas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>calque</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leenvertaling</lemma>
+  </synset>
+</multilingual-synset>

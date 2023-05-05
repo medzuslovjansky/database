@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21398"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21398"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      odračati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на тэрмін">адкладаць</lemma>
+    <lemma>адтэрміноўваць</lemma>
+    <lemma>даўніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отлагаме</lemma>
+    <lemma>отлагаме</lemma>
+    <lemma>отлагаме</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odkládat</lemma>
+    <lemma>odročovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odgađati</lemma>
+    <lemma>odlagati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одложува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odraczać</lemma>
+    <lemma annotation="na później">odkładać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на время">откладывать</lemma>
+    <lemma>отсрочивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odkladať</lemma>
+    <lemma>odročovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamudo</lemma>
+    <lemma>preložena</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одлагати</lemma>
+    <lemma>одгађати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на якийсь час">відкладати</lemma>
+    <lemma>відстрочувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prokrasto</lemma>
+    <lemma>prokrasti</lemma>
+    <lemma>demetu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verzögerung</lemma>
+    <lemma>verschieben</lemma>
+    <lemma>verschieben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstellen</lemma>
+  </synset>
+</multilingual-synset>

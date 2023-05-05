@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7241"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7241"
+      steen:addition="(dostane)"
+      steen:pos="v.tr. pf."
+      steen:type="5"
+    >
+      dostati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="з інтэрнэту">спампаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тегля</lemma>
+    <lemma>свалям</lemma>
+    <lemma>изтеглям</lemma>
+    <lemma>даунлоудвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="data">stáhnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preuzeti</lemma>
+    <lemma>prenijeti. skinuti</lemma>
+    <lemma>učitati</lemma>
+    <lemma>download</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преземе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="z internetu">ściągnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="из интернета">скачать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="dáta">stiahnuť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sprejmejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преузети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="з інтернету">завантажити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elŝuti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>herunterladen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>downloaden</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25939"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25939" steen:pos="m.anim." steen:genesis="I">jerej</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праваслаўны святар</lemma>
+    <lemma>іерэй</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="православен свещеник">йерей</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jerej</lemma>
+    <lemma>pravoslavný kněz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jerej</lemma>
+    <lemma annotation="pravoslavni">pop</lemma>
+    <lemma annotation="pravoslavni">svećenik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поп</lemma>
+    <lemma>јереј</lemma>
+    <lemma>ереј</lemma>
+    <lemma>превославен свештеник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="prawosławny duchowny">jerej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>православный священник</lemma>
+    <lemma>иерей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jerej</lemma>
+    <lemma>pravoslávny kňaz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>duhovnik</lemma>
+    <lemma>pop</lemma>
+    <lemma annotation="pravoslavni">duhovnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јереј</lemma>
+    <lemma annotation="православни">свештеник</lemma>
+    <lemma>поп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>православний священник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ortodoksa pastro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>orthodoxer Priester</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="orthodoxe priester">jerej</lemma>
+  </synset>
+</multilingual-synset>

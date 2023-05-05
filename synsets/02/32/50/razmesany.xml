@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23250"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="23250" steen:pos="adj." steen:type="1">råzměšany</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>размешаны</lemma>
+    <lemma>размяшаны</lemma>
+    <lemma>вымешаны</lemma>
+    <lemma>змешаны</lemma>
+    <lemma>змяшаны</lemma>
+    <lemma>стрэсены</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>смесени</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozmíchaný</lemma>
+    <lemma>smíchaný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razmešan</lemma>
+    <lemma>pomiješan</lemma>
+    <lemma>izmiješan</lemma>
+    <lemma annotation="nije jednolik">smiješan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мешан</lemma>
+    <lemma>измешан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozmieszany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>размешанный</lemma>
+    <lemma>смешанный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozmiešaný</lemma>
+    <lemma>zmiešaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mešana</lemma>
+    <lemma>mešana</lemma>
+    <lemma>mešana</lemma>
+    <lemma annotation="ni enakomerna">mešana</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>размешан</lemma>
+    <lemma>помешан</lemma>
+    <lemma>измешан</lemma>
+    <lemma annotation="није једнолик">смешан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розмішаний</lemma>
+    <lemma>змішаний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>miksitaj supren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gemischt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermengd</lemma>
+  </synset>
+</multilingual-synset>

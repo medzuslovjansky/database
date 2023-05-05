@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5210"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5210" steen:pos="v.tr. ipf." steen:type="1">variti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>варыць</lemma>
+    <lemma annotation="ежу">гатаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се готви</lemma>
+    <lemma annotation="proc.">готви</lemma>
+    <lemma>лунна светлина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vařit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>variti</lemma>
+    <lemma>kuhati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вари</lemma>
+    <lemma>готви</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>warzyć</lemma>
+    <lemma>gotować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>варить</lemma>
+    <lemma annotation="пищу">готовить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>variť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kuhar</lemma>
+    <lemma>zvar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кувати</lemma>
+    <lemma>варити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>варити</lemma>
+    <lemma annotation="їжу">готувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuiristo</lemma>
+    <lemma annotation="tr.">sxvelajxon</lemma>
+    <lemma>bierfarejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>kochen</lemma>
+    <lemma>brauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koken</lemma>
+    <lemma>brouwen</lemma>
+    <lemma annotation="koffie, thee">zetten</lemma>
+  </synset>
+</multilingual-synset>

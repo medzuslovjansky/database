@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35541"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35541"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru pl~ bg"
+    >
+      pętno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пляма</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>място</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>skvrna</lemma>
+    <lemma>flek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrlja</lemma>
+    <lemma>fleka</lemma>
+    <lemma>flek</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дамка</lemma>
+    <lemma>петно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>plama</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пятно</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>škvrna</lemma>
+    <lemma>fľak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>madeži</lemma>
+    <lemma>madeži</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мрља</lemma>
+    <lemma>флека</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пляма</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>makulo</lemma>
+    <lemma>makulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fleck</lemma>
+    <lemma>Fleck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlek</lemma>
+  </synset>
+</multilingual-synset>

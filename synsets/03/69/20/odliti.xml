@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36920"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36920"
+      steen:addition="(odlije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      odliti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адліць</lemma>
+    <lemma annotation="нешта з металу і г.д.">выліць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отлея</lemma>
+    <lemma annotation="от метал и др.">излея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odlít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odliti</lemma>
+    <lemma>izliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одлее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odlać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="что-либо из металла и т.п.">отлить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odliať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>odliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одлити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="що-небудь з металу ітп">відлити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gisado</lemma>
+    <lemma annotation="en bronzo ktp.">muldilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gegossen</lemma>
+    <lemma annotation="in bronze etc.">geformt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="metaal">gieten</lemma>
+  </synset>
+</multilingual-synset>

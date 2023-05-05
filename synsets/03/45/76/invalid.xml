@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34576"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34576"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      invalid
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інвалід</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>човек с увреждания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>invalida</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>invalid</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инвалид</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inwalida</lemma>
+    <lemma>osoba niepełnosprawna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инвалид</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>invalid</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neveljavna</lemma>
+    <lemma>pohabljeni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инвалид</lemma>
+    <lemma>богаљ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інвалід</lemma>
+    <lemma>людина з інвалідністю</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>handikapita persono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>behinderte Person</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>invalide</lemma>
+    <lemma>gehandicapte</lemma>
+  </synset>
+</multilingual-synset>

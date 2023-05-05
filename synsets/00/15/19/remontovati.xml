@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1519"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1519"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      remontovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рамантаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ремонт</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popravljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поправа</lemma>
+    <lemma>ремонтира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>remontować</lemma>
+    <lemma>naprawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ремонтировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>opravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popravila</lemma>
+    <lemma>obnovitev</lemma>
+    <lemma>remont</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поправљати</lemma>
+    <lemma>обнављати</lemma>
+    <lemma>ремонтирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ремонтувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>riparon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reparatur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbouwen</lemma>
+    <lemma>renoveren</lemma>
+  </synset>
+</multilingual-synset>

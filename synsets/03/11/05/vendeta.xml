@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31105"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31105" steen:pos="f." steen:type="1" steen:genesis="I">
+      vendeta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вендэта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вендета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vendeta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vendeta</lemma>
+    <lemma>osveta</lemma>
+    <lemma>krvna osveta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крвнина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wendeta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вендетта</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vendeta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>maščevanje</lemma>
+    <lemma>vendetta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>освета</lemma>
+    <lemma>крвна освета</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вендета</lemma>
+    <lemma>кровна помста</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vendetta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vendetta</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vendetta</lemma>
+    <lemma>bloedwraak</lemma>
+  </synset>
+</multilingual-synset>

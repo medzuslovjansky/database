@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27501"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27501"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="ub cs yu mk"
+    >
+      mekati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бляяць</lemma>
+    <lemma>мыкаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мякам</lemma>
+    <lemma>блея</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bečet</lemma>
+    <lemma>mečet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blejati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мека</lemma>
+    <lemma>блее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>beczeć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>блеять</lemma>
+    <lemma>мекать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>béčať</lemma>
+    <lemma>méčať</lemma>
+    <lemma>mékať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mekati</lemma>
+    <lemma>mecate</lemma>
+    <lemma>beketajočemu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мекати</lemma>
+    <lemma>мечати</lemma>
+    <lemma>блејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мекати</lemma>
+    <lemma>бекати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>balido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>blöken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blaten</lemma>
+    <lemma>mekkeren</lemma>
+  </synset>
+</multilingual-synset>

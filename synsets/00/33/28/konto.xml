@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3328"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3328" steen:pos="n." steen:type="1" steen:genesis="I">
+      konto
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рахунак</lemma>
+    <lemma>уліковы запіс</lemma>
+    <lemma>акаўнт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>конто</lemma>
+    <lemma>сметка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konto</lemma>
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>račun</lemma>
+    <lemma>konto</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конто</lemma>
+    <lemma>сметка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konto</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>счёт</lemma>
+    <lemma>учётная запись</lemma>
+    <lemma>аккаунт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konto</lemma>
+    <lemma>účet</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>račun</lemma>
+    <lemma>račun</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конто</lemma>
+    <lemma>рачун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рахунок</lemma>
+    <lemma>обліковий запис</lemma>
+    <lemma>обліківка</lemma>
+    <lemma>акаунт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Konto</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rekening</lemma>
+    <lemma>account</lemma>
+  </synset>
+</multilingual-synset>

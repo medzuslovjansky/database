@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36030"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36030"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z"
+      steen:genesis="E"
+    >
+      svetr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>швэдар</lemma>
+    <lemma>свэтар</lemma>
+    <lemma>світар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пуловер пуловер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svetr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pulover</lemma>
+    <lemma>džemper</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џемпер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sweter</lemma>
+    <lemma>pulower</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свитер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sveter</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pulover</lemma>
+    <lemma>pulover</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>џемпер</lemma>
+    <lemma>пуловер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>светр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sveteron</lemma>
+    <lemma>pulovero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma />
+    <lemma>Pullover</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>trui</lemma>
+    <lemma>sweater</lemma>
+    <lemma>pullover</lemma>
+  </synset>
+</multilingual-synset>

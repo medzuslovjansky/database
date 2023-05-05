@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28577"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28577" steen:pos="adj." steen:type="1">nevoljny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нявольны</lemma>
+    <lemma>неадвольны</lemma>
+    <lemma>бязвольны</lemma>
+    <lemma>вымушаны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>собственически софтуерен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesvobodný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neslobodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неволен</lemma>
+    <lemma>неслободен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niewolny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>несвободный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neslobodný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nesvoboden</lemma>
+    <lemma>zasužnjenih</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неслободан</lemma>
+    <lemma>поробљен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>невільний</lemma>
+    <lemma>поневолений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sklavaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unfrei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvrij</lemma>
+  </synset>
+</multilingual-synset>

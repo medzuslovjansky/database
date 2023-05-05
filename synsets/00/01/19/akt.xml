@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="119"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="119" steen:pos="m." steen:type="1" steen:genesis="I">
+      akt
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акт</lemma>
+    <lemma>учынак</lemma>
+    <lemma annotation="п&apos;еса">дзея</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>акт</lemma>
+    <lemma>подвиг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>akt</lemma>
+    <lemma>čin</lemma>
+    <lemma>skutek</lemma>
+    <lemma>jednání</lemma>
+    <lemma>úkon</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>дѣй</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čin</lemma>
+    <lemma>postupak</lemma>
+    <lemma>akt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чин</lemma>
+    <lemma>дејство</lemma>
+    <lemma>дело</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="czynność">akt</lemma>
+    <lemma>akt notarialny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>акт</lemma>
+    <lemma>поступок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>akt</lemma>
+    <lemma>čin</lemma>
+    <lemma>skutok</lemma>
+    <lemma>úkon</lemma>
+    <lemma>dejstvo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dejanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чин</lemma>
+    <lemma>дело</lemma>
+    <lemma>подвиг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вчинок</lemma>
+    <lemma>подвиг</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ago</lemma>
+    <lemma>faro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Handlung</lemma>
+    <lemma>Tat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>akte</lemma>
+    <lemma>daad</lemma>
+  </synset>
+</multilingual-synset>

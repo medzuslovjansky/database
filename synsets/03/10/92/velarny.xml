@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31092"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31092" steen:pos="adj." steen:type="1" steen:genesis="I">
+      velarny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>велярны</lemma>
+    <lemma annotation="гук">заднепаднябенны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Велар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>velární</lemma>
+    <lemma>zadopatrový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>velarni</lemma>
+    <lemma>mekonepčani</lemma>
+    <lemma>stražnjonepčani</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>велар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miękkopodniebienny</lemma>
+    <lemma>welarny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>велярный</lemma>
+    <lemma annotation="звук">задненёбный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>velárna</lemma>
+    <lemma>zadopatrový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>velarni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>веларни</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>велярний</lemma>
+    <lemma annotation="звук">задньопіднебінний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>velara</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>velar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>velair</lemma>
+  </synset>
+</multilingual-synset>

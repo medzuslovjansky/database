@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19637"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19637"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      arbiter
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>арбітр</lemma>
+    <lemma annotation="спорт">суддзя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>арбитър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>arbitr</lemma>
+    <lemma>rozhodce</lemma>
+    <lemma>rozhodčí</lemma>
+    <lemma>soudce</lemma>
+    <lemma>sudí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sudac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>арбитер</lemma>
+    <lemma>судија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>arbiter</lemma>
+    <lemma annotation="sport">sędzia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>арбитр</lemma>
+    <lemma annotation="спорт">судья</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>arbiter</lemma>
+    <lemma>rozhodca</lemma>
+    <lemma>sudca</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>arbiter</lemma>
+    <lemma>razsodnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>арбитар</lemma>
+    <lemma>судија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>арбітр</lemma>
+    <lemma annotation="у спорті">суддя</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arbitracianto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schiedsrichter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>scheidsrechter</lemma>
+  </synset>
+</multilingual-synset>

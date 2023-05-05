@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20447"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20447"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      malokrvje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>анемія</lemma>
+    <lemma>малакроўе</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>анемия</lemma>
+    <lemma>малокръвност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chudokrevnost</lemma>
+    <lemma>anémie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>malokrvnost</lemma>
+    <lemma>slabokrvnost</lemma>
+    <lemma>anemija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>малокрвност</lemma>
+    <lemma>слабокрвност</lemma>
+    <lemma>анемија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niedokrwistość</lemma>
+    <lemma>anemia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>анемия</lemma>
+    <lemma>малокровие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chudokrvnosť</lemma>
+    <lemma>anémia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>anemija</lemma>
+    <lemma>slabokrvnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>малокрвност</lemma>
+    <lemma>анемија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>анемія</lemma>
+    <lemma>недокрів&apos;я</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anemio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anämie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloedarmoede</lemma>
+    <lemma>anemie</lemma>
+  </synset>
+</multilingual-synset>

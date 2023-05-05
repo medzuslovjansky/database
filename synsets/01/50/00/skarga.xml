@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15000"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15000" steen:pos="f." steen:type="2" steen:same="uk pl">
+      skarga
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скарга</lemma>
+    <lemma>жальба</lemma>
+    <lemma>незадаволенасць</lemma>
+    <lemma>нездаволенасць</lemma>
+    <lemma>незадавальненне</lemma>
+    <lemma>нараканне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оплаквания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stížnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žalba</lemma>
+    <lemma>prigovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жалба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skarga</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жалоба</lemma>
+    <lemma>недовольство</lemma>
+    <lemma>нарекание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sťažnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritožba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жалба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скарга</lemma>
+    <lemma>невдоволення</lemma>
+    <lemma>нарікання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plendo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reklamation</lemma>
+    <lemma>Beschwerde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klacht</lemma>
+  </synset>
+</multilingual-synset>

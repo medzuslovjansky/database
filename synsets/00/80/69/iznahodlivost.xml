@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8069"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8069" steen:pos="f." steen:type="1">iznahodlivosť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>знаходлівасць</lemma>
+    <lemma>вынаходлівасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>находчивост</lemma>
+    <lemma>изобретателност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vynalézavost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>snalažljivost</lemma>
+    <lemma>sposobnost</lemma>
+    <lemma>domišljatost</lemma>
+    <lemma>dosjetljivost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>снаодливост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaradność</lemma>
+    <lemma>pomysłowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>находчивость</lemma>
+    <lemma>изобретательность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vynaliezavosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>iznajdljivost</lemma>
+    <lemma>sposobnost</lemma>
+    <lemma>iznajdljivost</lemma>
+    <lemma>izvirnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сналажљивост</lemma>
+    <lemma>способност</lemma>
+    <lemma>домишљатост</lemma>
+    <lemma>досетљивост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>винахідливість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inventemo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Einfallsreichtum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vindingrijkheid</lemma>
+    <lemma>inventiviteit</lemma>
+  </synset>
+</multilingual-synset>

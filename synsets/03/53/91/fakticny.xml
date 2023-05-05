@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35391"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35391"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      faktičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фактычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фактически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>faktický</lemma>
+    <lemma>věcný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>faktičan</lemma>
+    <lemma>stvaran</lemma>
+    <lemma>činjeničan</lemma>
+    <lemma>istinit</lemma>
+    <lemma>zbiljski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фактички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>faktyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фактический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>faktický</lemma>
+    <lemma>vecný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dejstvih</lemma>
+    <lemma>pravi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фактичан</lemma>
+    <lemma>стваран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фактичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fakta</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>sachlich</lemma>
+    <lemma>tatsächlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>feitelijk</lemma>
+  </synset>
+</multilingual-synset>

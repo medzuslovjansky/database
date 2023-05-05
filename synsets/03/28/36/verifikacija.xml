@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32836"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32836" steen:pos="f." steen:type="1" steen:genesis="I">
+      verifikacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>верыфікацыя</lemma>
+    <lemma>праверка</lemma>
+    <lemma>спраўджванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>верификация</lemma>
+    <lemma>заверка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>veifikace</lemma>
+    <lemma>ověření</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovjera</lemma>
+    <lemma>verifikacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>верификација</lemma>
+    <lemma>заверување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>weryfikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>верификация</lemma>
+    <lemma>проверка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>veifikace</lemma>
+    <lemma>overenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ta preverjanja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>верификација</lemma>
+    <lemma>провера</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>верифікація</lemma>
+    <lemma>перевірка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konfirmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nachprüfung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verificatie</lemma>
+  </synset>
+</multilingual-synset>

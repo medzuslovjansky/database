@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31014"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31014"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="#v pl bg"
+      steen:genesis="I"
+    >
+      vanta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="марск.">ванта</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="кораб">плащаница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kotevní lano stožáru</lemma>
+    <lemma>lanoví</lemma>
+    <lemma>takeláž</lemma>
+    <lemma />
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pripona na jarbolu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мрежи</lemma>
+    <lemma annotation="брод">скали за јарболи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wanta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="морск.">ванта</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>lano upevnenia stožiaru</lemma>
+    <lemma>kotevné lano</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripona na drogu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>припона на јарболу</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="морск.">ванта</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝipo">foliaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Schiff">Verkleidung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schip">want</lemma>
+  </synset>
+</multilingual-synset>

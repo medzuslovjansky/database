@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35569"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      proizvoditelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вытворца</lemma>
+    <lemma>вырабляльнік</lemma>
+    <lemma>вырабнік</lemma>
+    <lemma>вытворнік</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>производител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výrobce</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proizvođač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>произведител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>producent</lemma>
+    <lemma>wytwórca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>производитель</lemma>
+    <lemma>изготовитель</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>výrobca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>proizvajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>произвођач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виробник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Fabrikejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hersteller</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fabrikant</lemma>
+  </synset>
+</multilingual-synset>

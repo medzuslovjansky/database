@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="692"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="692"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      posrědstvom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праз</lemma>
+    <lemma>з дапамогай</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>с помощта на</lemma>
+    <lemma>чрез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomocí</lemma>
+    <lemma>prostřednictvím</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>posredstvom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>со посредсво на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z pomocą</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посредством</lemma>
+    <lemma>с помощью</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prostredníctvom</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skozi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>посредством</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>за допомогою</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>uzante</lemma>
+    <lemma>per</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verwendung von mit Hilfe von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>door middel van</lemma>
+  </synset>
+</multilingual-synset>

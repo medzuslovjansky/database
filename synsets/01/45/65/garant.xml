@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14565"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14565"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      garant
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гарант</lemma>
+    <lemma>паручыцель</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гарант</lemma>
+    <lemma>поръчител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>garant</lemma>
+    <lemma>ručitel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>garant</lemma>
+    <lemma>jamac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гарант</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gwarant</lemma>
+    <lemma>żyrant</lemma>
+    <lemma>poręczyciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гарант</lemma>
+    <lemma>поручитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>garant</lemma>
+    <lemma>ručiteľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>porok</lemma>
+    <lemma>podpornik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јемац</lemma>
+    <lemma>гарант</lemma>
+    <lemma>жирант</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гарант</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>garantianto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Garant</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>borgsteller</lemma>
+    <lemma>garant</lemma>
+  </synset>
+</multilingual-synset>

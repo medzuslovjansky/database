@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18134"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18134"
+      steen:pos="n.sg."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      opekunstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апека</lemma>
+    <lemma>апякунства</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опекунство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opatrovnictví</lemma>
+    <lemma>poručnictví</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>starateljstvo</lemma>
+    <lemma>skrbništvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>старателство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opiekuństwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опека</lemma>
+    <lemma>опекунство</lemma>
+    <lemma>попечительство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opatrovníctvo</lemma>
+    <lemma>poručníctvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrbništvo</lemma>
+    <lemma>nega</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>старатељство</lemma>
+    <lemma>брига</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>опіка</lemma>
+    <lemma>опікунство</lemma>
+    <lemma>опікування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuratoreco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vormundschaft</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voogdij</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31675" steen:pos="m." steen:type="1">zųbec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зубец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>зъб</lemma>
+    <lemma>зъбец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="na něčem">zub</lemma>
+    <lemma annotation="trn">zubec</lemma>
+    <lemma>ozubené kolo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zubac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заб</lemma>
+    <lemma annotation="на нешто">забец</lemma>
+    <lemma>трн</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="koło">tryb</lemma>
+    <lemma>trybik</lemma>
+    <lemma>koło zębate</lemma>
+    <lemma annotation="na biegu mech.">ząb</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зубец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zubec</lemma>
+    <lemma annotation="na niečom">zub</lemma>
+    <lemma>ozubené koleso</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zob</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зубац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зубець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>cog</lemma>
+    <lemma annotation="iun ilaron">denton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zahnrad</lemma>
+    <lemma annotation="auf einem Zahnrad">Zahn</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tandwiel</lemma>
+  </synset>
+</multilingual-synset>

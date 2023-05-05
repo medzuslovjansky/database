@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="83"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="83"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v bg"
+      steen:genesis="I"
+    >
+      avtomagistralj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аўтамагістраль</lemma>
+    <lemma>аўтастрада</lemma>
+    <lemma>шаша</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>магистрала</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dálnice</lemma>
+    <lemma>autostráda</lemma>
+    <lemma>magistrála</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>autoput</lemma>
+    <lemma>autocesta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>автопат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>autostrada</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>автомагистраль</lemma>
+    <lemma>автострада</lemma>
+    <lemma>шоссе</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diaľnica</lemma>
+    <lemma>autostráda</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>avtocesta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>аутопут</lemma>
+    <lemma>аутострада</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шосе</lemma>
+    <lemma>автострада</lemma>
+    <lemma>автобан</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aŭtovojo</lemma>
+    <lemma>aŭtovojo</lemma>
+    <lemma>aŭtovojo</lemma>
+    <lemma>autobahn</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Autobahn</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>autosnelweg</lemma>
+    <lemma>snelweg</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32298"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32298"
+      steen:addition="(+3)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="pl j"
+    >
+      prati mozg
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прамываць мазгі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>промивам мозъци</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vymýt mozek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prati</lemma>
+    <lemma annotation="mozak">ispirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пере мозок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prać mózg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>промывать мозги</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vymyť mozog</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>monitorji možgani</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прати мозак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>промивати мізки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brainwash</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einer Gehirnwäsche unterziehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hersenspoelen</lemma>
+  </synset>
+</multilingual-synset>

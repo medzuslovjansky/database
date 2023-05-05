@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="303"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="303" steen:pos="f." steen:type="1">ikra</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ікра</lemma>
+    <lemma annotation="рыбіна">лытка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хайвер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jikra</lemma>
+    <lemma>potěr</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ikra</lemma>
+    <lemma>mrijest</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>икра</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ikra</lemma>
+    <lemma>skrzek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="рыбья">икра</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ikra</lemma>
+    <lemma>poter</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ikra</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>икра</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ікра</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frajo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>laichen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vissen">kuit</lemma>
+  </synset>
+</multilingual-synset>

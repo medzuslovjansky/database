@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15276"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15276" steen:pos="n.sg." steen:type="5" steen:genesis="E">
+      daunlodovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="з сеціва">запампоўка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>сваляне</lemma>
+    <lemma>изтегляне</lemma>
+    <lemma annotation="на файл">сваляне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stahování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>skidanje</lemma>
+    <lemma>preuzimanje</lemma>
+    <lemma>daunloudanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>симнување</lemma>
+    <lemma>преземање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="z internetu">pobieranie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="из интернета">скачивание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sťahovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prenašanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преузимање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="з інтернету">завантаження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elŝutanta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wird heruntergeladen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>downloaden</lemma>
+  </synset>
+</multilingual-synset>

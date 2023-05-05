@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14068"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14068"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru z bm"
+    >
+      zagadȯčny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загадкавы</lemma>
+    <lemma>таямнічы</lemma>
+    <lemma>таемны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>загадъчен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záhadný</lemma>
+    <lemma>tajemný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zagonetan</lemma>
+    <lemma>tajanstven</lemma>
+    <lemma>misteriozan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>загадочен</lemma>
+    <lemma>збунувачки</lemma>
+    <lemma>мистериозен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagadkowy</lemma>
+    <lemma>tajemniczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>загадочный</lemma>
+    <lemma>таинственный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záhadný</lemma>
+    <lemma>tajomný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrivnosten</lemma>
+    <lemma>skrivnosten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>загонетан</lemma>
+    <lemma>мистериозан</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>загадковий</lemma>
+    <lemma>таємничий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enigmaj</lemma>
+    <lemma>misteraj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rätselhaft</lemma>
+    <lemma>mysteriös</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>raadselachtig</lemma>
+    <lemma>mysterieus</lemma>
+  </synset>
+</multilingual-synset>

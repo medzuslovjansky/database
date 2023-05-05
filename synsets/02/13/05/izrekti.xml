@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21305"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21305"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      izrěkti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выказаць</lemma>
+    <lemma>вымавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изрека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyslovit</lemma>
+    <lemma>pronést</lemma>
+    <lemma>vyjádřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>reći</lemma>
+    <lemma>izreći</lemma>
+    <lemma>iskazati</lemma>
+    <lemma>izgovoriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изрече</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powiedzieć</lemma>
+    <lemma>wypowiedzieć</lemma>
+    <lemma>wyrzec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>высказать</lemma>
+    <lemma>изречь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vysloviť</lemma>
+    <lemma>predniesť</lemma>
+    <lemma>vyjadriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>recimo uvedel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рећи</lemma>
+    <lemma>изрећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>висловити</lemma>
+    <lemma>вимовити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzemple</lemma>
+    <lemma>paroli</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sagen wir</lemma>
+    <lemma>aussprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="zeggen">uitspreken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35399"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35399"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      poštny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паштовы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пощенски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poštovní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poštanski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поштенски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pocztowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>почтовый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poštové</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poštna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поштански</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поштовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bildkartoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Post-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>post-</lemma>
+  </synset>
+</multilingual-synset>

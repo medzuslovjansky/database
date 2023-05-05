@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36602"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36602"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      matematičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>матэматычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>математически</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>matematický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>matematički</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>математички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>matematyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>математический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>matematický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>matematična</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>математички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>математичний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>matematika</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>mathematisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wiskundig</lemma>
+    <lemma>mathematisch</lemma>
+  </synset>
+</multilingual-synset>

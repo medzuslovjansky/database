@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2502"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2502" steen:pos="v.tr. pf." steen:type="1">
+      izpraviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выправіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поправя</lemma>
+    <lemma>оправя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opravit</lemma>
+    <lemma>změnit</lemma>
+    <lemma>doplnit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>popraviti</lemma>
+    <lemma>ispraviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>исправи</lemma>
+    <lemma>измени</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wnieść poprawki do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исправить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opraviť</lemma>
+    <lemma>zmeniť</lemma>
+    <lemma>doplniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravilna</lemma>
+    <lemma>uveljaviti spremembe</lemma>
+    <lemma>uporabljati obliže</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>исправити</lemma>
+    <lemma>поправљти</lemma>
+    <lemma>нанети измене</lemma>
+    <lemma>нанети поправке</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Plibonigu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ändern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>amenderen</lemma>
+  </synset>
+</multilingual-synset>

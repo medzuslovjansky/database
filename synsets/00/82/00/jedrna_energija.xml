@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8200"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8200" steen:pos="f." steen:type="1">jędrna energija</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ядзерная энергія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ядрена енергия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jaderná energie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nukleana energija</lemma>
+    <lemma>atomska energija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нуклеарна енергија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>energia jądrowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ядерная энергия</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jadrová energia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jedrska elektrarna</lemma>
+    <lemma>atomska energija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нуклеана енергија</lemma>
+    <lemma>атомска енергија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ядерна енергія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nuklea energio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kernenergie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kernenergie</lemma>
+  </synset>
+</multilingual-synset>

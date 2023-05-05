@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16" steen:pos="m." steen:type="1" steen:same="ru z yu mk">
+      želųdȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>страўнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>корем</lemma>
+    <lemma>търбух</lemma>
+    <lemma>желъдък</lemma>
+    <lemma>стомах</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žaludek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>želudac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>желудник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>żołądek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>желудок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žalúdok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>želodec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>желудац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шлунок</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>stomako</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bauch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maag</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="201" steen:pos="f." steen:type="1">boljnica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бальніца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>болница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nemocnice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bolnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>болница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szpital</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>больница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nemocnica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bolnišnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>болница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лікарня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malsanulejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Krankenhaus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziekenhuis</lemma>
+  </synset>
+</multilingual-synset>

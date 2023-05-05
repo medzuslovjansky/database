@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17772"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17772"
+      steen:pos="adj."
+      steen:type="3"
+      steen:same="sl sh mk"
+    >
+      međusobny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узаемны</lemma>
+    <lemma>узаемазамяняльны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взаимозаменяем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaměnitelný</lemma>
+    <lemma>vzájemný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>međusoban</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меѓусебен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymienny</lemma>
+    <lemma>wzajemny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взаимный</lemma>
+    <lemma>взаимозаменяемый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zameniteľný</lemma>
+    <lemma>vzájomný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>međusobnan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>међусобнан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>взаємний</lemma>
+    <lemma>взаємозамінний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interŝanĝeblaj</lemma>
+    <lemma>reciproka</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>austauschbar</lemma>
+    <lemma>gegenseitige</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitwisselbaar</lemma>
+    <lemma>wederzijds</lemma>
+  </synset>
+</multilingual-synset>

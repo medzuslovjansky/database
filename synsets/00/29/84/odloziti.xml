@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2984"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2984" steen:pos="v.tr. pf." steen:type="1">odložiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на час">адкласці</lemma>
+    <lemma>адтэрмінаваць</lemma>
+    <lemma>запыніць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>спиране</lemma>
+    <lemma>отлагане</lemma>
+    <lemma>забавяне</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozastavit</lemma>
+    <lemma>odložit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odložiti</lemma>
+    <lemma>odgoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одложи</lemma>
+    <lemma>суспендира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odroczyć</lemma>
+    <lemma annotation="w czasie">zawiesić</lemma>
+    <lemma>odwlec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на время">отложить</lemma>
+    <lemma>отсрочить</lemma>
+    <lemma>задержать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pozastaviť</lemma>
+    <lemma>odložiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamudo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одгодити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на якийсь час">відкласти</lemma>
+    <lemma>відстрочити</lemma>
+    <lemma>затримати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malakcepti</lemma>
+    <lemma>prokrasti</lemma>
+    <lemma>prokrasto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aussetzen</lemma>
+    <lemma>aufschieben</lemma>
+    <lemma>Verzögerungs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitstellen</lemma>
+  </synset>
+</multilingual-synset>

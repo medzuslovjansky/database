@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2581"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2581" steen:pos="conj." steen:type="1">hoť</lemma>
+    <lemma steen:id="2581" steen:pos="conj." steen:type="1">hoti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хоць</lemma>
+    <lemma>хаця</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въпреки че</lemma>
+    <lemma>макар че</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>i když</lemma>
+    <lemma>ačkoliv</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iako</lemma>
+    <lemma>mada</lemma>
+    <lemma>premda</lemma>
+    <lemma>makar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>иако</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chociaż</lemma>
+    <lemma>choć</lemma>
+    <lemma>aczkolwiek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хотя</lemma>
+    <lemma>хоть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>aj keď</lemma>
+    <lemma>hoci</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čeprav</lemma>
+    <lemma>čeprav</lemma>
+    <lemma>čeprav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иако</lemma>
+    <lemma>мада</lemma>
+    <lemma>премда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хоча</lemma>
+    <lemma>хоч</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kvankam</lemma>
+    <lemma>tamen</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>obwohl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoewel</lemma>
+    <lemma>ofschoon</lemma>
+  </synset>
+</multilingual-synset>

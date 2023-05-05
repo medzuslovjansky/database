@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32225"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32225" steen:pos="n." steen:type="1" steen:genesis="F">
+      karo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звонкі</lemma>
+    <lemma annotation="карты">бубны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="боя при игра на карти">каро</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="karty">káry</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>karo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>каро</lemma>
+    <lemma>коцка</lemma>
+    <lemma annotation="карти">баклава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="karty">karo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="карты">бубны</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="karty">káro</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>diamanti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>каро</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="карти">бубна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kartoj">diamantoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Karten">Diamanten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kaartspel">ruiten</lemma>
+  </synset>
+</multilingual-synset>

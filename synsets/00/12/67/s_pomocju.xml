@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1267"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1267"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      s pomoćjų
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з дапамогай</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>с помощта на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>s pomocí</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pomoću</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>со помош на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za pomocą</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>с помощью</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>s pomocou</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uporabo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помоћу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>з допомогою</lemma>
+    <lemma>за допомогою</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kun helpo de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mit der Hilfe von</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>met behulp van</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2959"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2959"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ub pl sk yu bg"
+    >
+      črěda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чарада</lemma>
+    <lemma>статак</lemma>
+    <lemma>гурт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стадо</lemma>
+    <lemma>черда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stádo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stado</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стадо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trzoda</lemma>
+    <lemma>stado</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стадо</lemma>
+    <lemma>гурт</lemma>
+    <lemma annotation="животных">вереница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stádo</lemma>
+    <lemma>črieda</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čreda</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стадо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>череда</lemma>
+    <lemma>гурт</lemma>
+    <lemma>стадо</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bestaro</lemma>
+    <lemma>herdo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Herde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kudde</lemma>
+  </synset>
+</multilingual-synset>

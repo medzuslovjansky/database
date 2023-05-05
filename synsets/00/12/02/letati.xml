@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1202" steen:pos="v.intr. ipf." steen:type="1">
+      lětati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лётаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>летя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>létat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>letati</lemma>
+    <lemma>lijetati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>latać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>летать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lietať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>leteti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>летети</lemma>
+    <lemma>летити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>літати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>flugi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>fliegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vliegen</lemma>
+  </synset>
+</multilingual-synset>

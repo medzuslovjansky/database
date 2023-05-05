@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5990"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5990"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="z j"
+    >
+      prěslušivati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распытваць</lemma>
+    <lemma>дапытваць</lemma>
+    <lemma>дапрошваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>въпрос</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyslýchat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preslušavati</lemma>
+    <lemma>saslušavati</lemma>
+    <lemma>ispitivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испитува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przesłuchiwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>расспрашивать</lemma>
+    <lemma>допрашивать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vypočúvať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasliševali</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саслушавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпитувати</lemma>
+    <lemma>допитувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pridemandi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abfragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondervragen</lemma>
+    <lemma>verhoren</lemma>
+  </synset>
+</multilingual-synset>

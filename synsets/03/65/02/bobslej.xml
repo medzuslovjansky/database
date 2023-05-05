@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36502"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36502"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z bg"
+      steen:genesis="E"
+    >
+      bobslej
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бабслей</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бобслей</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>boby</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="sport">bob</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="зимски спорт">боб</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bobslej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бобслей</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>boby</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bob</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="спорт">боб</lemma>
+    <lemma>бобслеј</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бобслей</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bobsleigh</lemma>
+    <lemma>bobsled</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bob-Schlitten</lemma>
+    <lemma>Bobwagen</lemma>
+    <lemma annotation="Schlitten">Bob</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bobslee</lemma>
+  </synset>
+</multilingual-synset>

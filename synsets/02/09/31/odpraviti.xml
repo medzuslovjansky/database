@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20931"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20931"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      odpraviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выканаць</lemma>
+    <lemma>здзейсніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="задължения">изпълнявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="povinnost">vykonat</lemma>
+    <lemma>splnit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvršiti</lemma>
+    <lemma>ostvariti</lemma>
+    <lemma>uraditi</lemma>
+    <lemma>učiniti</lemma>
+    <lemma>obaviti</lemma>
+    <lemma>izvesti</lemma>
+    <lemma>odraditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изврши</lemma>
+    <lemma>оствари</lemma>
+    <lemma annotation="должности">направи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wykonać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исполнить</lemma>
+    <lemma annotation="обязанности">выполнить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="povinnosť">vykonať</lemma>
+    <lemma>splniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvršiti</lemma>
+    <lemma>izpolniti</lemma>
+    <lemma>ne</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извршити</lemma>
+    <lemma>остварити</lemma>
+    <lemma>урадити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="обов&apos;язки">виконати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="devoj">plenumi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pflichten erfüllen)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvoeren</lemma>
+    <lemma>tenuitvoerleggen</lemma>
+    <lemma>verrichten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2023" steen:pos="v.tr. ipf." steen:type="1">
+      objasnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тлумачыць</lemma>
+    <lemma>растлумачваць</lemma>
+    <lemma>вытлумачваць</lemma>
+    <lemma>аб&apos;ясняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обясни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vysvětlovat</lemma>
+    <lemma>objasňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>objašnjavati</lemma>
+    <lemma>tumačiti</lemma>
+    <lemma>razjašnjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>објаснува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>objaśniać</lemma>
+    <lemma>wyjaśniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>объяснять</lemma>
+    <lemma>разъяснять</lemma>
+    <lemma>толковать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vysvetľovať</lemma>
+    <lemma>objasňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razložiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>објашњавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пояснювати</lemma>
+    <lemma>роз&apos;яснювати</lemma>
+    <lemma>тлумачити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekspliki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erklären</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitleggen</lemma>
+    <lemma>verklaren</lemma>
+  </synset>
+</multilingual-synset>

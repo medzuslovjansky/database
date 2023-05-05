@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1161"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1161" steen:pos="v.tr. ipf." steen:type="1">nesti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>несці</lemma>
+    <lemma>пераносіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нося</lemma>
+    <lemma>пренасям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nést</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nositi</lemma>
+    <lemma>prenositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>носи</lemma>
+    <lemma>донесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нести</lemma>
+    <lemma>переносить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>niesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="v eno smer">oblačila</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="у одређеном смеру">носити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="piede">porti</lemma>
+    <lemma>urso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zu Fuß">tragen</lemma>
+    <lemma>Bär</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dragen</lemma>
+    <lemma annotation="te voet">vervoeren</lemma>
+  </synset>
+</multilingual-synset>

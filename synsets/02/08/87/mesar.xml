@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20887"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20887"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="sk j"
+    >
+      męsaŕ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мяснік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>месар</lemma>
+    <lemma>касап</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řezník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mesar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>месар</lemma>
+    <lemma>касап</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rzeźnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мясник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mäsiar</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mesar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>месар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>м&apos;ясник</lemma>
+    <lemma>різник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>viandisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Metzger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slager</lemma>
+  </synset>
+</multilingual-synset>

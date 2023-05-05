@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4899"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4899"
+      steen:addition="(+3)"
+      steen:pos="prep."
+      steen:type="2"
+      steen:same="z"
+    >
+      dękujųći
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзякуючы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благодарение на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="čemu">díky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zahvaljujući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благодарение на</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dzięki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благодаря</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="čomu">vďaka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hvala</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>захваљујући</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>завядки</lemma>
+    <lemma>дякуючи</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>danke al</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dank an</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dankzij</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30584"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30584"
+      steen:addition="(råzvije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      råzviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разгарнуць</lemma>
+    <lemma>развярнуць</lemma>
+    <lemma>развінуць</lemma>
+    <lemma>раскруціць</lemma>
+    <lemma>разматаць</lemma>
+    <lemma>развіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се развива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvinout</lemma>
+    <lemma>rozložit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razviti</lemma>
+    <lemma>odviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разврти</lemma>
+    <lemma>одврти</lemma>
+    <lemma>размота</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. mapę">rozłożyć</lemma>
+    <lemma>rozwinąć</lemma>
+    <lemma>rozmotać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развернуть</lemma>
+    <lemma>размотать</lemma>
+    <lemma>развить</lemma>
+    <lemma>раскрутить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozvinúť</lemma>
+    <lemma>rozložiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razvoj</lemma>
+    <lemma>počitek</lemma>
+    <lemma>Rasteretiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развити</lemma>
+    <lemma>одвити</lemma>
+    <lemma>одмотати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розгорнути</lemma>
+    <lemma>розмотати</lemma>
+    <lemma>розкрутити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>disfaldas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entfalten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontvouwen</lemma>
+  </synset>
+</multilingual-synset>

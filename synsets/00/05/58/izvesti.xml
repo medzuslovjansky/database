@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="558"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="558"
+      steen:addition="(izvede)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izvesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вывесці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изведа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyvést</lemma>
+    <lemma>vyprovodit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изведе</lemma>
+    <lemma>извади</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyprowadzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вывести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyviesť</lemma>
+    <lemma>vyprevadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ven</lemma>
+    <lemma>izražajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вивести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Derivas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ableiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van, uit">afleiden</lemma>
+    <lemma>deduceren</lemma>
+    <lemma>concluderen</lemma>
+  </synset>
+</multilingual-synset>

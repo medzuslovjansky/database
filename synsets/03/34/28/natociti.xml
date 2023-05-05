@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33428"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33428"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru pl cz"
+    >
+      natočiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>натачыць</lemma>
+    <lemma>навастрыць</lemma>
+    <lemma>панаточваць</lemma>
+    <lemma annotation="наждачнай лапаткай">намяніць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наостря</lemma>
+    <lemma>наточа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nabrousit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>naoštriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наостри</lemma>
+    <lemma>наточи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naostrzyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наточить</lemma>
+    <lemma>заострить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nabrúsiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sharpen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наоштрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нагострити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akrigi</lemma>
+    <lemma>grind</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schärfen</lemma>
+    <lemma>grind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slijpen</lemma>
+  </synset>
+</multilingual-synset>

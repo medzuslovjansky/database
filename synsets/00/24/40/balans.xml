@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2440"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2440" steen:pos="m." steen:type="1" steen:genesis="I">
+      balans
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баланс</lemma>
+    <lemma>раўнавага</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>баланс</lemma>
+    <lemma>равновесие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rovnováha</lemma>
+    <lemma>bilance</lemma>
+    <lemma annotation="účetní">rozvaha</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ravnoteža</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>баланс</lemma>
+    <lemma>рамнотежа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>równowaga</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>баланс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rovnováha</lemma>
+    <lemma>bilancia</lemma>
+    <lemma annotation="účtovná">rozvaha</lemma>
+    <lemma>zostatok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ravnovesje</lemma>
+    <lemma>ravnotežje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>равнотежа</lemma>
+    <lemma>баланс</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>баланс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekvilibro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Balance</lemma>
+    <lemma>Gleichgewicht</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>balans</lemma>
+    <lemma>evenwicht</lemma>
+  </synset>
+</multilingual-synset>

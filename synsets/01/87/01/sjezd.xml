@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18701"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18701" steen:pos="m." steen:type="1" steen:same="v z">
+      sjezd
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>з&apos;езд</lemma>
+    <lemma>спуск</lemma>
+    <lemma>спусканне</lemma>
+    <lemma>схіл</lemma>
+    <lemma>спад</lemma>
+    <lemma>пахіл</lemma>
+    <lemma>пакат</lemma>
+    <lemma>скат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>склон</lemma>
+    <lemma>спускането</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sjezd</lemma>
+    <lemma>jízda dolů</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nagib</lemma>
+    <lemma>silazak</lemma>
+    <lemma annotation="sport">spust</lemma>
+    <lemma>nizbrdica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>излез</lemma>
+    <lemma>наклонот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. drogą">zjazd</lemma>
+    <lemma>spadek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>съезд</lemma>
+    <lemma>спуск</lemma>
+    <lemma>скат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zjazd</lemma>
+    <lemma>jazda dole</lemma>
+    <lemma>spustenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gradient</lemma>
+    <lemma>spust</lemma>
+    <lemma annotation="šport">spust</lemma>
+    <lemma>odsek navzdol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нагиб</lemma>
+    <lemma>силазак</lemma>
+    <lemma annotation="спорт">спуст</lemma>
+    <lemma>низбрдица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="дорога">з&apos;їзд</lemma>
+    <lemma>спуск</lemma>
+    <lemma>скат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deklivo</lemma>
+    <lemma>deveno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Steigung</lemma>
+    <lemma>Abstieg</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afslag</lemma>
+    <lemma>afdeling</lemma>
+  </synset>
+</multilingual-synset>

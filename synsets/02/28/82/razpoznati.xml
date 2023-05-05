@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22882"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22882"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      råzpoznati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распазнаць</lemma>
+    <lemma>зведаць</lemma>
+    <lemma>апазнаць</lemma>
+    <lemma>дыягнаставаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>диагностика</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozpoznat</lemma>
+    <lemma>diagnostikovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>raspoznati</lemma>
+    <lemma>zaključiti</lemma>
+    <lemma>ustanoviti dijagnozu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распознае</lemma>
+    <lemma>установи</lemma>
+    <lemma>дијагностицира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>diagnozować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распознать</lemma>
+    <lemma>опознать</lemma>
+    <lemma>диагностировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpoznať</lemma>
+    <lemma>diagnostikovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaznati</lemma>
+    <lemma>da sklene</lemma>
+    <lemma>postavitev diagnoze</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>распознати</lemma>
+    <lemma>закључити</lemma>
+    <lemma>установити дијагнозу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпізнати</lemma>
+    <lemma>пізнати</lemma>
+    <lemma>діагностувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>diagnozi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>diagnostizieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>diagnosticeren</lemma>
+    <lemma>een diagnose stellen</lemma>
+  </synset>
+</multilingual-synset>

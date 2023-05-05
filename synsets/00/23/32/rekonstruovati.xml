@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2332"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2332"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      rekonstruovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэканструяваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>възстановяване</lemma>
+    <lemma>реконструкция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obnovit</lemma>
+    <lemma>rekonstruovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>obnavljati</lemma>
+    <lemma>prerađivati</lemma>
+    <lemma>prepravljati</lemma>
+    <lemma>rekonstruirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реконструира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rekonstruować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>реконструировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>obnoviť</lemma>
+    <lemma>rekonštruovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obnoviti</lemma>
+    <lemma>prilagoditi</lemma>
+    <lemma>alter</lemma>
+    <lemma>rekonstrukcija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обнављати</lemma>
+    <lemma>прерађивати</lemma>
+    <lemma>преправљати</lemma>
+    <lemma>реконструисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>реконструювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>restarigi</lemma>
+    <lemma>Rekonstruu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>restaurieren</lemma>
+    <lemma>rekonstruieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reconstrueren</lemma>
+  </synset>
+</multilingual-synset>

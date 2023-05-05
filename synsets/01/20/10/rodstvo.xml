@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12010"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12010" steen:pos="n.sg." steen:type="1">rodstvo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>роднасць</lemma>
+    <lemma>сваяцтва</lemma>
+    <lemma>сваяцкасць</lemma>
+    <lemma>сваяўство</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>семейни връзки</lemma>
+    <lemma>произход</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příbuzenství</lemma>
+    <lemma>příbuznost</lemma>
+    <lemma>spřízněnost</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>srodstvo</lemma>
+    <lemma>rod</lemma>
+    <lemma>rodbina</lemma>
+    <lemma>veza po krvi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сродство</lemma>
+    <lemma>потекло</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pokrewieństwo</lemma>
+    <lemma>spokrewnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>родство</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príbuzenstvo</lemma>
+    <lemma>príbuznosť</lemma>
+    <lemma>spriaznenosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sorodstvo</lemma>
+    <lemma>spol</lemma>
+    <lemma>družina</lemma>
+    <lemma>odnos s krvjo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сродство</lemma>
+    <lemma>род</lemma>
+    <lemma>родбина</lemma>
+    <lemma>веза по крви</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спорідненість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>parenceco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verwandtschaft</lemma>
+    <lemma>Abstammung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwantschap</lemma>
+    <lemma>bloedverwantschip</lemma>
+  </synset>
+</multilingual-synset>

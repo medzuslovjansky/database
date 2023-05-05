@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12275"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12275" steen:pos="adv." steen:type="1">skroz</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скрозь</lemma>
+    <lemma>праз</lemma>
+    <lemma>наскрозь</lemma>
+    <lemma>навылёт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>през</lemma>
+    <lemma>чрез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skrz</lemma>
+    <lemma>prostřednictvím</lemma>
+    <lemma>skrze</lemma>
+    <lemma>přes</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>skroz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преку</lemma>
+    <lemma>низ</lemma>
+    <lemma>сосема</lemma>
+    <lemma annotation="скроз">целосно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na wskroś</lemma>
+    <lemma annotation="coś">przez</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сквозь</lemma>
+    <lemma>насквозь</lemma>
+    <lemma>через</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skrz</lemma>
+    <lemma>prostredníctvom</lemma>
+    <lemma>skrze</lemma>
+    <lemma>cez</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>popolnoma</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скроз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>крізь</lemma>
+    <lemma>наскрізь</lemma>
+    <lemma>через</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tra</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>durch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>door … hen</lemma>
+  </synset>
+</multilingual-synset>

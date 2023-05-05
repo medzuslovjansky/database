@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1201"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1201" steen:pos="m.anim." steen:type="1">žerav</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>журавель</lemma>
+    <lemma>шадуф</lemma>
+    <lemma>коварат</lemma>
+    <lemma annotation="дыял.">асвер</lemma>
+    <lemma>вочап</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жерав</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pták">jeřáb</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="ptica">ždral</lemma>
+    <lemma annotation="konj">žerav</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жерав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ptak">żuraw</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>журавль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="vták">žeriav</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žerjav</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ждрал</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>журавель</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>gruo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kran</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kraanvogel</lemma>
+  </synset>
+</multilingual-synset>

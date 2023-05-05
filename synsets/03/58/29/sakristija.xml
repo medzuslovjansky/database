@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35829"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35829"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      sakristija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рызніца</lemma>
+    <lemma>закрыстыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ризница</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sakristie</lemma>
+    <lemma>zákristie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sakristija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сакристија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakrystia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ризница</lemma>
+    <lemma>сакристия</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sakristia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakristija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сакристија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ризниця</lemma>
+    <lemma>захристія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sacristía</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sakristei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sacristie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3200"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3200"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      uvěrjeno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упэўнена</lemma>
+    <lemma>без сумневу</lemma>
+    <lemma>несумненна</lemma>
+    <lemma>несумнеўна</lemma>
+    <lemma>безумоўна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>в действителност</lemma>
+    <lemma>сигурност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jistě</lemma>
+    <lemma>vskutku</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sigurno</lemma>
+    <lemma>zaista</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>уверено</lemma>
+    <lemma>убедено</lemma>
+    <lemma>сигурно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pewnie</lemma>
+    <lemma>na pewno</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уверенно</lemma>
+    <lemma>несомненно</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>iste</lemma>
+    <lemma>vskutku</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>seveda</lemma>
+    <lemma>res</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сигурно</lemma>
+    <lemma>заиста</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>упевнено</lemma>
+    <lemma>поза сумнівом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ja</lemma>
+    <lemma>certe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>in der Tat</lemma>
+    <lemma>sicher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inderdaad</lemma>
+    <lemma>zeker</lemma>
+    <lemma>beslist</lemma>
+    <lemma>stellig</lemma>
+  </synset>
+</multilingual-synset>

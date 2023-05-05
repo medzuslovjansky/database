@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23892"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23892"
+      steen:addition="(podgrěje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      podgrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падцяпліць</lemma>
+    <lemma>падагрэць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>загрейте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ohřát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>podgrijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>подгреа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podgrzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подогреть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ohriať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogrevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подгрејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підігріти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varmiĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Aufheizen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhitten</lemma>
+    <lemma>opwarmen</lemma>
+  </synset>
+</multilingual-synset>

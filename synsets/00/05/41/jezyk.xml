@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="541"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="541" steen:pos="m." steen:type="1">język</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мова</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>език</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jazyk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jezik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јазик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mowa">język</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>язык</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jazyk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Jezik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>језик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мова</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lingvo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Sprache</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>taal</lemma>
+  </synset>
+</multilingual-synset>

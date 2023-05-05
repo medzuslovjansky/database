@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3123"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3123" steen:pos="m." steen:type="1" steen:genesis="I">
+      teatr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэатр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>театър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>divadlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kazalište</lemma>
+    <lemma>teatar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>театар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>teatr</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>театр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>divadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gledališče</lemma>
+    <lemma>gledališče</lemma>
+    <lemma>pozorje</lemma>
+    <lemma>gledališče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позориште</lemma>
+    <lemma>казалиште</lemma>
+    <lemma>позорје</lemma>
+    <lemma>театар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>театр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teatro</lemma>
+    <lemma>teatro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Theater</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>theater</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31186"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31186" steen:pos="n." steen:type="1">viděńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прывід</lemma>
+    <lemma>здань</lemma>
+    <lemma>уяўленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>видение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vidění</lemma>
+    <lemma annotation="mystická">vize</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vizija</lemma>
+    <lemma>priviđenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>провидение</lemma>
+    <lemma annotation="натприродно искуство">визија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. mistyczna">wizja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="мистическое">виде́ние</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>videnie</lemma>
+    <lemma annotation="mystická">vízie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vid</lemma>
+    <lemma>vid</lemma>
+    <lemma annotation="nartprirodno">vid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>визија</lemma>
+    <lemma>привиђење</lemma>
+    <lemma annotation="нартприродно">виђење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="містичне">виді́ние</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="supernatura sperto">vizion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="übernatürliche Erfahrung">Vision</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>visioen</lemma>
+  </synset>
+</multilingual-synset>

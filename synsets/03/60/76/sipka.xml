@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36076"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36076" steen:pos="f." steen:type="1" steen:same="v cs j">
+      šipka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шыпшына</lemma>
+    <lemma>шыпшыннік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шипка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šípek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šipak</lemma>
+    <lemma>granat</lemma>
+    <lemma>ljutak</lemma>
+    <lemma>mogranj</lemma>
+    <lemma>nar</lemma>
+    <lemma>pomagranata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шипка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>owoc z dzikiej róży</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="плод">шиповник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>šípky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kolk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шипак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шипшина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rozo-kokso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hagebutten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rozenbottel</lemma>
+  </synset>
+</multilingual-synset>

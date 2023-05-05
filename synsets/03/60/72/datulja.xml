@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36072"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36072" steen:pos="f." steen:type="2" steen:same="z yu mk">
+      datulja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фінік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фурма</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>datle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>datulja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>урма</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>daktyl</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>финик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="ovocie">ďatle</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>datelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>урма</lemma>
+    <lemma>датула</lemma>
+    <lemma>датуља</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="фрукт">фінік</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="frukto">Dato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Datum Obst)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dadel</lemma>
+  </synset>
+</multilingual-synset>

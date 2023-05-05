@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32992"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32992"
+      steen:pos="m.pl."
+      steen:type="2"
+      steen:same="cs j"
+      steen:genesis="I"
+    >
+      timpany
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>літаўры</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тимпани</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tympány</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>timpani</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="муз. инст.">тимпани</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="instrument muzyczny">kotły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>литавры</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tympány</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>timpani</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тимпани</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>литаври</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>timbaloj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Timpani</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pauken</lemma>
+  </synset>
+</multilingual-synset>

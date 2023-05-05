@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22326"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22326"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="pl~ cz sh"
+    >
+      nevěrnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няверны</lemma>
+    <lemma>бязбожнік</lemma>
+    <lemma>атэіст</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>безбожник</lemma>
+    <lemma>атеист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nevěřící</lemma>
+    <lemma>ateista</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>nevjernik</lemma>
+    <lemma>bezbožnik</lemma>
+    <lemma>bezvernika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неверник</lemma>
+    <lemma>атеист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niewierny</lemma>
+    <lemma>ateista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>безбожник</lemma>
+    <lemma>атеист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>neveriaci</lemma>
+    <lemma>ateista</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>nevernik</lemma>
+    <lemma>Wicked</lemma>
+    <lemma>bezvernik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неверник</lemma>
+    <lemma>безбожник</lemma>
+    <lemma>безверник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>безбожник</lemma>
+    <lemma>атеїст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfidelulo</lemma>
+    <lemma>ateisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ungläubiger</lemma>
+    <lemma>atheist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ongelovige</lemma>
+    <lemma>atheïst</lemma>
+  </synset>
+</multilingual-synset>

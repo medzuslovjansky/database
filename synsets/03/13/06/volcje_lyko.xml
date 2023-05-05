@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31306"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31306"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v pl cs~ bg"
+    >
+      vȯlčje lyko
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ваўчаягада</lemma>
+    <lemma>воўчае лыка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вълче лико</lemma>
+    <lemma>див люляк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="rostl.">lýkovec</lemma>
+    <lemma>vlčí lýko</lemma>
+    <lemma>mezereum</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>likovac</lemma>
+    <lemma>maslinica</lemma>
+    <lemma>vučja lika</lemma>
+    <lemma>mezereon</lemma>
+    <lemma>daphne mezereum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>див јоргован</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wawrzynek wilczełyko</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>волчеягодник</lemma>
+    <lemma>волчье лыко</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="rástl.">lykovec</lemma>
+    <lemma>vlčie lyko</lemma>
+    <lemma>mezereum</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>volk znakov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вучја лика</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>дафнія</lemma>
+    <lemma>вовче лико</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mezereum</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mezereum</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rood peperboompje</lemma>
+  </synset>
+</multilingual-synset>

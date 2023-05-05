@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21058"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21058"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      prěvariti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераварыць</lemma>
+    <lemma>засвоіць</lemma>
+    <lemma annotation="фізіял.">перастрававаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преглед</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>strávit</lemma>
+    <lemma annotation="jídlo">zažít</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>svariti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свари</lemma>
+    <lemma>превари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przetrawić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переварить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stráviť</lemma>
+    <lemma annotation="jedlo">zažiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prebaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сварити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перетравити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>digestas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verdauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verteren</lemma>
+  </synset>
+</multilingual-synset>

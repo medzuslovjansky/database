@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26098"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26098" steen:pos="m.anim.">igumen</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ігумен</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>игумен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>igumen</lemma>
+    <lemma>hegumen</lemma>
+    <lemma annotation="pravoslavný">opat</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>и̑гоу́менъ</lemma>
+    <lemma>а̑ватъ</lemma>
+    <lemma>о̑патъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iguman</lemma>
+    <lemma>glavar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>игумен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>igumen</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>игумен</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>igumen</lemma>
+    <lemma>hegumen</lemma>
+    <lemma annotation="pravoslávny">opát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pred</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>игуман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="православного монастиря">ігумен</lemma>
+    <lemma>настоятель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>hegumen</lemma>
+    <lemma annotation="de ortodoksa monaĥejo">abato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Hegumenos</lemma>
+    <lemma annotation="ein orthodoxen Kloster">Abt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hegoumen</lemma>
+  </synset>
+</multilingual-synset>

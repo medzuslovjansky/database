@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36735"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36735" steen:pos="num.subst." steen:type="1">
+      jedinka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адзінка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>единица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jednička</lemma>
+    <lemma>jednotka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jedinica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>единка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jedynka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>единица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jednotka</lemma>
+    <lemma>jednička</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>enota</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јединица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одиниця</lemma>
+    <lemma>одиничка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="substantiva">unu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="inhaltlich">eins</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tramlijn, rapportcijfer e.d.">één</lemma>
+    <lemma>eentje</lemma>
+  </synset>
+</multilingual-synset>

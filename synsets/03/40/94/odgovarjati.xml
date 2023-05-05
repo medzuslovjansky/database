@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34094"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34094"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v sh"
+    >
+      odgovarjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адгаворваць</lemma>
+    <lemma>адмаўляць</lemma>
+    <lemma>пераконваць у адваротным</lemma>
+    <lemma>разупэўніваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разубеждать</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odrazovat</lemma>
+    <lemma>vymlouvat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvraćati</lemma>
+    <lemma>odgovarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвраќа</lemma>
+    <lemma>разубедува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komuś coś">wyperswadowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отговаривать</lemma>
+    <lemma>разубеждать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odhovárať</lemma>
+    <lemma>odrádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odvračanje</lemma>
+    <lemma>odzval</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одвраћати</lemma>
+    <lemma>одговарати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відраджувати</lemma>
+    <lemma>відговорювати</lemma>
+    <lemma annotation="робити щось">відмовляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deadmoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abraten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontraden</lemma>
+    <lemma>afraden</lemma>
+  </synset>
+</multilingual-synset>

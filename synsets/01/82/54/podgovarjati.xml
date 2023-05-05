@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18254"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18254"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      podgovarjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падмаўляць</lemma>
+    <lemma>намаўляць</lemma>
+    <lemma>падгаворваць</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>натравить</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podněcovat</lemma>
+    <lemma>pobízet</lemma>
+    <lemma>navádět</lemma>
+    <lemma>ponoukat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>podbadasti</lemma>
+    <lemma>podjaravati</lemma>
+    <lemma annotation="na loš čin">navlačiti</lemma>
+    <lemma>huškati</lemma>
+    <lemma>podbunjivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наговорува</lemma>
+    <lemma>поткинува</lemma>
+    <lemma>саска</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podmawiać</lemma>
+    <lemma>namawiać</lemma>
+    <lemma>podżegać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подговаривать</lemma>
+    <lemma>подстрекать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podnecovať</lemma>
+    <lemma>nabádať</lemma>
+    <lemma>nahovárať na</lemma>
+    <lemma>navádzať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>podbadasti</lemma>
+    <lemma>podjaravati</lemma>
+    <lemma annotation="slabo dejanje">vlecite za</lemma>
+    <lemma>pretresemo</lemma>
+    <lemma>podbunjivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подбадасти</lemma>
+    <lemma>подјаравати</lemma>
+    <lemma annotation="на лош чин">навлачити</lemma>
+    <lemma>хушкати</lemma>
+    <lemma>подбуњивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підмовляти</lemma>
+    <lemma>підбурювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anregen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aansporen</lemma>
+    <lemma annotation="tot">aanzetten</lemma>
+  </synset>
+</multilingual-synset>

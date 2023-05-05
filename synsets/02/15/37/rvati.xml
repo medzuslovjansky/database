@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21537"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21537"
+      steen:addition="(rve)"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      rvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ірваць</lemma>
+    <lemma>рваць</lemma>
+    <lemma>шматаваць</lemma>
+    <lemma>перці</lemma>
+    <lemma>драць</lemma>
+    <lemma>зрываць</lemma>
+    <lemma>здзіраць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>наглеют</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trhat</lemma>
+    <lemma annotation="česat">škubat</lemma>
+    <lemma>odělovat</lemma>
+    <lemma annotation="expr.">rvát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kidati</lemma>
+    <lemma annotation="voće">brati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кине</lemma>
+    <lemma>бере</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>urywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>срывать</lemma>
+    <lemma>рвать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trhať</lemma>
+    <lemma>oberať</lemma>
+    <lemma>oddeľovať</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>drobovja</lemma>
+    <lemma annotation="sadje">se glasi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кидати</lemma>
+    <lemma annotation="воће">брати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рвати</lemma>
+    <lemma>зривати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pluck</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zupfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plukken</lemma>
+  </synset>
+</multilingual-synset>

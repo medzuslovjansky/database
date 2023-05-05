@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3896"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3896"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru z yu"
+    >
+      tȯlmačiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="вусна">перакладаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>превеждат</lemma>
+    <lemma>тълкуват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tlumočit</lemma>
+    <lemma>překládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prevoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>толкува</lemma>
+    <lemma>преведува</lemma>
+    <lemma>интерпретира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ustnie">tłumaczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="устно">переводить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tlmočiť</lemma>
+    <lemma>prekladať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tolmačiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преводити</lemma>
+    <lemma>тумачити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тлумачити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interpreti</lemma>
+    <lemma annotation="parole">traduki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>übersetzen</lemma>
+    <lemma>interpretieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tolken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17714"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17714" steen:pos="f." steen:type="1">kukučka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зязюля</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кукувица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kukačka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="ptica">kukavica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кукавица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kukułka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кукушка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kukučka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="ptica">kukavica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="птица">кукавица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зозуля</lemma>
+    <lemma>зозулиця</lemma>
+    <lemma>зигзиця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kukolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kuckuck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koekoek</lemma>
+  </synset>
+</multilingual-synset>

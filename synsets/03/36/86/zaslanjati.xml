@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33686"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33686"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      zaslanjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>засланіць</lemma>
+    <lemma>зазасціць</lemma>
+    <lemma>захіліць</lemma>
+    <lemma>атуліць</lemma>
+    <lemma>ахіліць</lemma>
+    <lemma>накрыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>покривам</lemma>
+    <lemma>скривам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaclánět</lemma>
+    <lemma>zastíňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zaklanjati</lemma>
+    <lemma>pokrivati</lemma>
+    <lemma>prekrivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>засолнува</lemma>
+    <lemma>сокрива</lemma>
+    <lemma>покрива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osłaniać</lemma>
+    <lemma>zasłaniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заслонить</lemma>
+    <lemma>укрыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zaclánět</lemma>
+    <lemma>zatieňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaslanjati</lemma>
+    <lemma>pokrov</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заслањати</lemma>
+    <lemma>покривати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>затулити</lemma>
+    <lemma>укрити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝirmo</lemma>
+    <lemma>kovrilo</lemma>
+    <lemma>ombro</lemma>
+    <lemma annotation="de lumo ktp">ŝirmi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schutz</lemma>
+    <lemma>Abdeckung</lemma>
+    <lemma>Schatten</lemma>
+    <lemma annotation="von Licht etc.">Schild</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afdekken</lemma>
+    <lemma>afschermen</lemma>
+  </synset>
+</multilingual-synset>

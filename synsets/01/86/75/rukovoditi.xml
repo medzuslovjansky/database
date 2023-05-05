@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18675"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18675"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      rųkovoditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кіраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>управление</lemma>
+    <lemma>ръководство</lemma>
+    <lemma>контрол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řídit</lemma>
+    <lemma>vést</lemma>
+    <lemma>ovládat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rukovoditi</lemma>
+    <lemma>upravljati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>раководи</lemma>
+    <lemma>менаџира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kierować</lemma>
+    <lemma>dowodzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>руководить</lemma>
+    <lemma>управлять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>riadiť</lemma>
+    <lemma>viesť</lemma>
+    <lemma>ovládať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vodenje</lemma>
+    <lemma>upravljanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>руководити</lemma>
+    <lemma>управљати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>керувати</lemma>
+    <lemma>управляти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>administri</lemma>
+    <lemma>gvidanto</lemma>
+    <lemma>kontrolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verwalten</lemma>
+    <lemma>Führer</lemma>
+    <lemma>Steuer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leiden</lemma>
+    <lemma>aanvoeren</lemma>
+    <lemma>leidinggeven aan</lemma>
+  </synset>
+</multilingual-synset>

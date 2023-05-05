@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19687"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19687" steen:pos="f." steen:type="1" steen:genesis="I">
+      elita
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эліта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>елит</lemma>
+    <lemma>висше общество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>elita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>elita</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>елита</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>elita</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>элита</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>elita</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="družba">elitni je izbran sloj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>елита</lemma>
+    <lemma annotation="друштва">одабрани слој</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>еліта</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>elito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Elite</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>elite</lemma>
+  </synset>
+</multilingual-synset>

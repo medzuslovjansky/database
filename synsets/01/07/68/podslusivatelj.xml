@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10768"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10768" steen:pos="m.anim." steen:type="1">
+      podslušivatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>падслухач</lemma>
+    <lemma>шпіён</lemma>
+    <lemma>шпег</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прехващачи</lemma>
+    <lemma>interceptor</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>špeh</lemma>
+    <lemma>odposlouchávač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prisluškivač</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прислушкувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podsłuchiwacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>подслушиватель</lemma>
+    <lemma>шпион</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>špeh</lemma>
+    <lemma>odpočúvacie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Prisluškivač</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прислушкивач</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>підслуховувач</lemma>
+    <lemma>шпигун</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>subaŭskulti</lemma>
+    <lemma>interkapti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lauscher</lemma>
+    <lemma>Anzapfstelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>luistervink</lemma>
+  </synset>
+</multilingual-synset>

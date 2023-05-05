@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12991"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12991" steen:pos="adj." steen:type="1" steen:genesis="I">
+      tipičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тыповы</lemma>
+    <lemma annotation="зап.">тыпічны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>типичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>typický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tipičan</lemma>
+    <lemma>reprezentativan</lemma>
+    <lemma>normalan</lemma>
+    <lemma>prosječan</lemma>
+    <lemma>karakterističan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>типичен типична</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>typowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>типичный</lemma>
+    <lemma>типовой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>typický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Tipično</lemma>
+    <lemma>značilna nujno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>типичан</lemma>
+    <lemma>карактеристичан</lemma>
+    <lemma>битан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>типовий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tipa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>typisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>typisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22067"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22067"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      iztekti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мінуць</lemma>
+    <lemma>скончыцца</lemma>
+    <lemma>закончыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="време">изтека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uplynout</lemma>
+    <lemma>vypršet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>isteći</lemma>
+    <lemma>iscuriti</lemma>
+    <lemma>iskapati</lemma>
+    <lemma>izliti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истече</lemma>
+    <lemma>измина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upłynąć</lemma>
+    <lemma>wygasnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>истечь</lemma>
+    <lemma>закончиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uplynúť</lemma>
+    <lemma>vypršať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potečejo</lemma>
+    <lemma annotation="rok za nekaj">mimo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истећи</lemma>
+    <lemma annotation="рок за нешто">проћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>минути</lemma>
+    <lemma>спливти</lemma>
+    <lemma>закінчитись</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasi</lemma>
+    <lemma>eksvalidiĝos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstreichen</lemma>
+    <lemma>verfallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlopen</lemma>
+    <lemma>aflopen</lemma>
+  </synset>
+</multilingual-synset>

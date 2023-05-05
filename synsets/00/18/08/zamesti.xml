@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1808"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1808"
+      steen:addition="(zamete)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zamesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замясці</lemma>
+    <lemma>падмясці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замета</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zamést</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замете</lemma>
+    <lemma>зачисти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>замести</lemma>
+    <lemma>подмести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zamiesť</lemma>
+    <lemma>pozametať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamenjati</lemma>
+    <lemma>čista metla</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замести</lemma>
+    <lemma>очистити метлом</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замісти</lemma>
+    <lemma>підмести</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>svingo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>fegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanvegen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22695"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22695" steen:pos="adj." steen:type="2" steen:same="pl sh">
+      povråtny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зваротны</lemma>
+    <lemma>паўторны</lemma>
+    <lemma>паўтаральны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>периодични повтарящи се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vracející se</lemma>
+    <lemma>opakující se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povratni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повратен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>powrotny</lemma>
+    <lemma>powracający</lemma>
+    <lemma>powtarzający się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возвратный</lemma>
+    <lemma>повторяющийся</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vracajúci sa</lemma>
+    <lemma>opakujúce sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ponovitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повратан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поворотний</lemma>
+    <lemma>зворотний</lemma>
+    <lemma>рецидивний</lemma>
+    <lemma>такий</lemma>
+    <lemma>що повторюється</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rikura</lemma>
+    <lemma>rekomencis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rezidivierende</lemma>
+    <lemma>schub</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugkerend</lemma>
+  </synset>
+</multilingual-synset>

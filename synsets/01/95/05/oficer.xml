@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19505"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19505"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      oficer
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>афіцэр</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>служител</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důstojník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>časnik</lemma>
+    <lemma>oficir</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>офицер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oficer</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>офицер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôstojník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>častnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>официр</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>офіцер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>oficiro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Offizier</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>officier</lemma>
+  </synset>
+</multilingual-synset>

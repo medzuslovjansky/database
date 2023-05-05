@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16360"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16360"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ru uk j"
+    >
+      slučajno
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпадкова</lemma>
+    <lemma annotation="дыял.">прыпадкова</lemma>
+    <lemma>рандамізавана</lemma>
+    <lemma>па-рандамізаванаму</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>случайно</lemma>
+    <lemma>случайно</lemma>
+    <lemma>случайно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náhodou</lemma>
+    <lemma>shodou okolností</lemma>
+    <lemma>nahodile</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slučajno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>случајно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypadkowo</lemma>
+    <lemma>losowo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случайно</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>náhodou</lemma>
+    <lemma>zhodou okolností</lemma>
+    <lemma>náhodne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>po nesreči</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>случајно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>випадково</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akcidente</lemma>
+    <lemma>simile</lemma>
+    <lemma>haphazardly</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zufällig</lemma>
+    <lemma>zufällig</lemma>
+    <lemma>planlos</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toevallig</lemma>
+  </synset>
+</multilingual-synset>

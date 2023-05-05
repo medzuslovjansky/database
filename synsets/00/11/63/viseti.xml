@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1163"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1163"
+      steen:addition="(visi)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      visěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вісець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вися</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>viset</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>висѣти</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>visjeti</lemma>
+    <lemma>visiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виси</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wisieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>висеть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>visieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>visi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>висити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>висіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">hang</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">hang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hangen</lemma>
+  </synset>
+</multilingual-synset>

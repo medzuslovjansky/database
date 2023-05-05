@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29547"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29547"
+      steen:addition="(opre)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z bg"
+    >
+      oprěti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паспадзявацца</lemma>
+    <lemma>даверыцца</lemma>
+    <lemma annotation="на падтрымку">абаперціся</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се разчита на нещо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opřít se</lemma>
+    <lemma>spoléhat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>osloniti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се потпре</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wsparcie">polec na</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>положиться</lemma>
+    <lemma annotation="на поддержку">опереться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spoliehať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="na osebo">zanesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на некога">ослонити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>покластися</lemma>
+    <lemma annotation="на підтримку">сподіватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fidi ion</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verlassen sich auf etwas</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op">berusten</lemma>
+  </synset>
+</multilingual-synset>

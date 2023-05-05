@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22241"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22241" steen:pos="f." steen:type="2" steen:same="ru sh">
+      zapověď
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загад</lemma>
+    <lemma>запаведзь</lemma>
+    <lemma>наказ</lemma>
+    <lemma>прыказанне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заповед</lemma>
+    <lemma>наредба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přikázání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapovijed</lemma>
+    <lemma>naredba</lemma>
+    <lemma>naređenje</lemma>
+    <lemma>zapovijest</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заповед</lemma>
+    <lemma>наредба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przykazanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приказ</lemma>
+    <lemma>заповедь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prikázanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukaz</lemma>
+    <lemma>ukaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заповед</lemma>
+    <lemma>заповест</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>наказ</lemma>
+    <lemma>заповідь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ordonon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gebot</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gebod</lemma>
+  </synset>
+</multilingual-synset>

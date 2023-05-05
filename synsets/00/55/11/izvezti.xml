@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5511"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5511" steen:pos="v.tr. pf." steen:type="1">izvezti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вывезці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>извозя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyvézt</lemma>
+    <lemma>odvézt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odvesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>одвезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wywieźć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вывезти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyviezť</lemma>
+    <lemma>odviezť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="avto">svinec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="колима">одвести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вивезти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de transporto">forkapti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="durch Transport">davontragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="per vervoermiddel">wegbrengen</lemma>
+  </synset>
+</multilingual-synset>

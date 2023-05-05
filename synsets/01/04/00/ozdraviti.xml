@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10400"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      ozdråviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аздаравіць</lemma>
+    <lemma>саніраваць</lemma>
+    <lemma>вылечыць</lemma>
+    <lemma>вылекаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оздравя</lemma>
+    <lemma>излекувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uzdravit</lemma>
+    <lemma>vyléčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="koga">ozdraviti</lemma>
+    <lemma>izliječiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оздрави</lemma>
+    <lemma>излекува</lemma>
+    <lemma>залечи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uzdrowić</lemma>
+    <lemma>wyleczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оздоровить</lemma>
+    <lemma>вылечить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uzdraviť</lemma>
+    <lemma>vyliečiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="kdo">dobili dobro</lemma>
+    <lemma>zdravilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="кога">оздравити</lemma>
+    <lemma>излечити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оздоровити</lemma>
+    <lemma>вилікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuraco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>heilen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>behandelen</lemma>
+    <lemma>genezen</lemma>
+    <lemma annotation="na ziekte">beter maken</lemma>
+  </synset>
+</multilingual-synset>

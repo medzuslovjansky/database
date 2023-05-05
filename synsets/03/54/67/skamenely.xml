@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35467"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35467"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z sh bg"
+    >
+      skameněly
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скамянелы</lemma>
+    <lemma>акамянелы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>окаменелый</lemma>
+    <lemma>окаменевший</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkamenělý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>skamenjen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>скаменет</lemma>
+    <lemma>фосилизиран</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skamieniały</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окаменелый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skamenený</lemma>
+    <lemma>fosilizovaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okamneli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скамењен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скам&apos;янілий</lemma>
+    <lemma>закам&apos;янілий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fosilizadas</lemma>
+    <lemma>fosilizadas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versteinert</lemma>
+    <lemma>versteinerte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>fossiel</lemma>
+  </synset>
+</multilingual-synset>

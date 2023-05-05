@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="125"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="125" steen:pos="m." steen:type="1">dogovor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дамова</lemma>
+    <lemma>дагавор</lemma>
+    <lemma>кантракт</lemma>
+    <lemma>пагадненне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>договор</lemma>
+    <lemma>споразумение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smlouva</lemma>
+    <lemma>dohoda</lemma>
+    <lemma>kontrakt</lemma>
+    <lemma>domluva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dogovor</lemma>
+    <lemma>sporazum</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>договор</lemma>
+    <lemma>согласност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umowa</lemma>
+    <lemma>kontrakt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>договор</lemma>
+    <lemma>контракт</lemma>
+    <lemma>соглашение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmluva</lemma>
+    <lemma>dohoda</lemma>
+    <lemma>kontrakt</lemma>
+    <lemma>dohovor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dogovor</lemma>
+    <lemma>sporazum</lemma>
+    <lemma>pogodba</lemma>
+    <lemma>pogodba o poravnavi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>договор</lemma>
+    <lemma>споразум</lemma>
+    <lemma>уговор</lemma>
+    <lemma>погодба</lemma>
+    <lemma>нагодба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>договір</lemma>
+    <lemma>угода</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontrakto</lemma>
+    <lemma>interkonsento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vertragsvereinbarung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overeenkomst</lemma>
+    <lemma>contract</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="536"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="536" steen:pos="m." steen:type="1">konec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>край</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kraj</lemma>
+    <lemma>konac</lemma>
+    <lemma>završetak</lemma>
+    <lemma>svršetak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>крај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koniec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>koniec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="navoj delo krasi">postavite nit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>крај</lemma>
+    <lemma annotation="конац дело краси">конац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кінець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fino</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>einde</lemma>
+  </synset>
+</multilingual-synset>

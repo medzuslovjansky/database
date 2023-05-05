@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1989"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1989" steen:pos="n." steen:type="1">okno</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>акно</lemma>
+    <lemma>вакно</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прозорец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>okno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prozor</lemma>
+    <lemma>okno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прозор</lemma>
+    <lemma>окно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>okno</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>окно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>okno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okna</lemma>
+    <lemma>okna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прозор</lemma>
+    <lemma>окно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вікно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fenestro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Fenster</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>venster</lemma>
+    <lemma>raam</lemma>
+  </synset>
+</multilingual-synset>

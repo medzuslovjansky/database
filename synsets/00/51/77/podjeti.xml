@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5177"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5177"
+      steen:addition="(podȯjme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      podjęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пачаць</lemma>
+    <lemma>распачаць</lemma>
+    <lemma>узяцца</lemma>
+    <lemma>арганізаваць</lemma>
+    <lemma>зрабіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вземете</lemma>
+    <lemma>задръжте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pdniknout</lemma>
+    <lemma>zavázat se</lemma>
+    <lemma>přijmout</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="odluku">donijeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преземе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podjąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предпринять</lemma>
+    <lemma>взяться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pdniknout</lemma>
+    <lemma>zaviazať sa</lemma>
+    <lemma>prijať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odloča)</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="одлуку">донети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>здійснити</lemma>
+    <lemma>зробити</lemma>
+    <lemma>взятися</lemma>
+    <lemma>вжити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prenu</lemma>
+    <lemma>entrepreni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nehmen</lemma>
+    <lemma>verpflichten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ondernemen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="213" steen:pos="m." steen:type="1">zamȯk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замък</lemma>
+    <lemma>дворец</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zámek</lemma>
+    <lemma>hrad</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zamak</lemma>
+    <lemma>utvrda</lemma>
+    <lemma>tvrđa</lemma>
+    <lemma>burg</lemma>
+    <lemma>dvorac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замок</lemma>
+    <lemma>дворец</lemma>
+    <lemma>тврдина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="budowla">zamek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>за́мок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zámok</lemma>
+    <lemma>hrad</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>grad</lemma>
+    <lemma>grad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замак</lemma>
+    <lemma>дворац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>за́мок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kastelo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schloss</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kasteel</lemma>
+  </synset>
+</multilingual-synset>

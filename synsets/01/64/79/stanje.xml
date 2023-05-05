@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16479"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16479"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ub pl cs~ yu"
+    >
+      stańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стан</lemma>
+    <lemma>статус</lemma>
+    <lemma>статут</lemma>
+    <lemma>становішча</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>държава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stav</lemma>
+    <lemma>postavení</lemma>
+    <lemma>status</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>состојба</lemma>
+    <lemma>ситуација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>состояние</lemma>
+    <lemma>статус</lemma>
+    <lemma>положение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stav</lemma>
+    <lemma>postavenie</lemma>
+    <lemma>status</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>stanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стан</lemma>
+    <lemma>статус</lemma>
+    <lemma>положення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="kondiĉo, formo">ŝtato</lemma>
+    <lemma>statuso</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zustand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toestand</lemma>
+    <lemma>staat</lemma>
+  </synset>
+</multilingual-synset>

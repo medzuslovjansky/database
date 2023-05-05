@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10301"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10301" steen:pos="adj." steen:type="2" steen:same="ru bg">
+      osmysljeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асэнсаваны</lemma>
+    <lemma>асэнсованы</lemma>
+    <lemma>разумны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разумен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smysluplný</lemma>
+    <lemma>rozumný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>smislen</lemma>
+    <lemma>razuman</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разумен</lemma>
+    <lemma>паметен</lemma>
+    <lemma>смислен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozsądny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>осмысленный</lemma>
+    <lemma>разумный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmysluplný</lemma>
+    <lemma>rozumný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razumno</lemma>
+    <lemma>smiselno</lemma>
+    <lemma>pametno</lemma>
+    <lemma>ki so namenjeni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разуман</lemma>
+    <lemma>разборит</lemma>
+    <lemma>паметан</lemma>
+    <lemma>осмишљен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свідомий</lemma>
+    <lemma>розсудливий</lemma>
+    <lemma>розумний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>saĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sinnvoll</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zinvol</lemma>
+    <lemma>zinnig</lemma>
+  </synset>
+</multilingual-synset>

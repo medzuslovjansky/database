@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17263"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17263" steen:pos="f." steen:type="1">doba</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пара</lemma>
+    <lemma>час</lemma>
+    <lemma>сітавіна</lemma>
+    <lemma>перыяд</lemma>
+    <lemma>эпоха</lemma>
+    <lemma>эра</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>епоха</lemma>
+    <lemma>век</lemma>
+    <lemma>ера</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>doba</lemma>
+    <lemma>éra</lemma>
+    <lemma>věk</lemma>
+    <lemma>epocha</lemma>
+    <lemma>perioda</lemma>
+    <lemma>období</lemma>
+    <lemma>čas</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>doba</lemma>
+    <lemma>razdoblje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>доба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>okres</lemma>
+    <lemma annotation="era">doba</lemma>
+    <lemma>era</lemma>
+    <lemma>epoka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пора</lemma>
+    <lemma>период</lemma>
+    <lemma>время</lemma>
+    <lemma>эпоха</lemma>
+    <lemma>эра</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>doba</lemma>
+    <lemma>éra</lemma>
+    <lemma>vek</lemma>
+    <lemma>epocha</lemma>
+    <lemma>perioda</lemma>
+    <lemma>obdobie</lemma>
+    <lemma>čas</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>doba</lemma>
+    <lemma>doba</lemma>
+    <lemma>doba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>епоха</lemma>
+    <lemma>доба</lemma>
+    <lemma>ера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вік</lemma>
+    <lemma>епоха</lemma>
+    <lemma>період</lemma>
+    <lemma annotation="в значенні епоха">доба</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aĝo</lemma>
+    <lemma>epoko</lemma>
+    <lemma>periodo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zeitalter</lemma>
+    <lemma>Epoche</lemma>
+    <lemma>Ära</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdperk</lemma>
+    <lemma>periode</lemma>
+  </synset>
+</multilingual-synset>

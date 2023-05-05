@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15193"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15193"
+      steen:addition="(+4)"
+      steen:pos="prep."
+      steen:type="2"
+    >
+      v zaměn za
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наўзамен</lemma>
+    <lemma>замест</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>вместо това</lemma>
+    <lemma>в замяна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>místo toho</lemma>
+    <lemma>na oplátku za</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zauzvrat</lemma>
+    <lemma>umjesto</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>за возврат за</lemma>
+    <lemma>наместо</lemma>
+    <lemma>во замена за</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamiast</lemma>
+    <lemma>w zamian za</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взамен</lemma>
+    <lemma>вместо</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>namiesto toho</lemma>
+    <lemma>na oplátku za</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obrnejo namesto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заузврат</lemma>
+    <lemma>уместо</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>натомість</lemma>
+    <lemma>замість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>anstataŭ</lemma>
+    <lemma>kontraŭ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>statt</lemma>
+    <lemma>als Gegenleistung für</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>in ruil voor</lemma>
+  </synset>
+</multilingual-synset>

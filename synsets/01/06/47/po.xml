@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10647"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10647"
+      steen:addition="(+3)"
+      steen:pos="prep."
+      steen:type="1"
+    >
+      po
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="напр.: кожнаму па два">па</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за ... всеки</lemma>
+    <lemma>защото парче ...</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="nař. každému po dvou">po</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>po</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="за секого по">по</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. każdemu po dwa">po</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="напр.: каждому по два">по</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="nar. každému po dvoch">po</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="za vse ...">s</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="за свакога по...">по</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="напр.: кожному по два">по</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>por ... ĉiu</lemma>
+    <lemma>por ... peco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>für ... jeweils für ... ein Stück</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voor … ieder</lemma>
+    <lemma>voor … per stuk</lemma>
+  </synset>
+</multilingual-synset>

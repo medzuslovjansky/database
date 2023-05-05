@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1030"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1030"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      uraziti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абразіць</lemma>
+    <lemma>зняважыць</lemma>
+    <lemma>пакрыўдзіць</lemma>
+    <lemma>скрыўдзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обижда</lemma>
+    <lemma>обижда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>urazit</lemma>
+    <lemma>osočit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uvrijediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>навреди</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>urazić</lemma>
+    <lemma>obrazić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оскорбить</lemma>
+    <lemma>обидеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>uraziť</lemma>
+    <lemma>osočit</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>užaliti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увредити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>образити</lemma>
+    <lemma>скривдити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>insulto</lemma>
+    <lemma>ofendi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beleidigung</lemma>
+    <lemma>beleidigen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beledigen</lemma>
+    <lemma>kwetsen</lemma>
+  </synset>
+</multilingual-synset>

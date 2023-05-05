@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22408"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22408"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      zavěćańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завяшчанне</lemma>
+    <lemma>запавет</lemma>
+    <lemma>адпіс</lemma>
+    <lemma>тэстамент</lemma>
+    <lemma>тастамент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завещание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>závěť</lemma>
+    <lemma>poslední vůle</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zavještanje</lemma>
+    <lemma>zavjet</lemma>
+    <lemma>amanet</lemma>
+    <lemma>oporuka</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>завет</lemma>
+    <lemma>завештание</lemma>
+    <lemma>тестамент</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ostatnia wola">testament</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завещание</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>závet</lemma>
+    <lemma>posledná vôľa</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaveza</lemma>
+    <lemma>oporoka</lemma>
+    <lemma>testament</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завет</lemma>
+    <lemma>завештање</lemma>
+    <lemma>тестамент</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заповіт</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="volo">testamento</lemma>
+    <lemma annotation="testamento">ĉu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="wird">Testament</lemma>
+    <lemma annotation="Testament">wird</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>testament</lemma>
+  </synset>
+</multilingual-synset>

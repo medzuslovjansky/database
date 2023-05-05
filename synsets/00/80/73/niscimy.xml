@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8073"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu mk"
+    >
+      niščimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разбураны</lemma>
+    <lemma>руйнаваны</lemma>
+    <lemma>зруйнаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разрушим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zničitelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uništiv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разорлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zniszczalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разрушаемый</lemma>
+    <lemma>уничтожаемый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zničiteľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uništiv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уништив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>руйнований</lemma>
+    <lemma>знищуваний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>destructable</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zerstörbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwoestbaar</lemma>
+  </synset>
+</multilingual-synset>

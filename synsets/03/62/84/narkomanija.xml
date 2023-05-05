@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36284"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36284"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      narkomanija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наркаманія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пристрастяване към наркотици</lemma>
+    <lemma>наркомания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>narkománie</lemma>
+    <lemma>drogová závislost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>narkomanija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наркоманија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>narkomania</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>наркомания</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>narkománia</lemma>
+    <lemma>drogová závislosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zasvojenost z mamili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наркоманија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наркоманія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>drogadicción</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Drogenabhängigkeit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>drugsverslaving</lemma>
+  </synset>
+</multilingual-synset>

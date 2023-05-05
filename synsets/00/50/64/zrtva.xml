@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5064"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5064"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru uk pl j"
+    >
+      žrtva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ахвяра</lemma>
+    <lemma>пацярпелы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жертва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oběť</lemma>
+    <lemma>žertva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žrtva</lemma>
+    <lemma>žrtvovanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>жртва</lemma>
+    <lemma>жртва</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ofiara</lemma>
+    <lemma>żertwa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>жертва</lemma>
+    <lemma>потерпевший</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obeť</lemma>
+    <lemma>obeta</lemma>
+    <lemma>žertva</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>žrtev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>жртва</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>жертва</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>viktimo</lemma>
+    <lemma>ofero</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Opfer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slachtoffer</lemma>
+  </synset>
+</multilingual-synset>

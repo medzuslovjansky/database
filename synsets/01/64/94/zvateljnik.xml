@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16494" steen:pos="m." steen:type="1">zvateljnik</lemma>
+    <lemma steen:id="16494" steen:pos="m." steen:type="1">
+      zvateljny padež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клічны склон</lemma>
+    <lemma annotation="грам.">вакатыў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="падеж">звателен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vokativ</lemma>
+    <lemma>5. pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vokativ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">вокатив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">wołacz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звательный падеж</lemma>
+    <lemma annotation="грам.">вокатив</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vokatív</lemma>
+    <lemma annotation="5. pád - oslovenie" />
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vocative</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вокатив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кличний відмінок</lemma>
+    <lemma annotation="грам.">вокатив</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>vokativo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Vokativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vocatief</lemma>
+  </synset>
+</multilingual-synset>

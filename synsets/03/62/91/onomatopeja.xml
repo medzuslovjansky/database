@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36291"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36291"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      onomatopeja
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гукаперайманне</lemma>
+    <lemma>анаматапея</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>звукоподражание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvukomalba</lemma>
+    <lemma>onomatopoie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>onomatopeja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ономатопеја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>onomatopeja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звукоподражание</lemma>
+    <lemma>ономатопея</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zvukomaľba</lemma>
+    <lemma>onomatopoia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>onomatopoeia</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ономатопеја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звуконаслідування</lemma>
+    <lemma>ономатопея</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>onomatopeoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lautmalerei</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onomatopee</lemma>
+  </synset>
+</multilingual-synset>

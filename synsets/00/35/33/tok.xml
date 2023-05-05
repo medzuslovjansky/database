@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3533"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3533" steen:pos="m." steen:type="2" steen:same="ru cz">
+      tok
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="электрычны">ток</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="електрически">ток</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tok</lemma>
+    <lemma annotation="elektr.">proud</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tok</lemma>
+    <lemma>fluks</lemma>
+    <lemma>struja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="електричен">тек</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="elektryczność">prąd</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="электрический">ток</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tok</lemma>
+    <lemma annotation="elektr.">prúd</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="električni">tok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>струја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="електричний">ток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="elektro">aktuala</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Strom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="elektriciteit">stroom</lemma>
+  </synset>
+</multilingual-synset>

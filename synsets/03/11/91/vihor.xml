@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31191"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31191"
+      steen:addition="(vihra)"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
+      vihȯr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віхор</lemma>
+    <lemma>віхура</lemma>
+    <lemma>тарнада</lemma>
+    <lemma>віхраслуп</lemma>
+    <lemma>смерч</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вихър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vichřice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vihor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виор</lemma>
+    <lemma>торнадо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wicher</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>смерч</lemma>
+    <lemma>торнадо</lemma>
+    <lemma>вихрь</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>víchrica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vihar</lemma>
+    <lemma>nevihta</lemma>
+    <lemma>Vijarak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>вихор</lemma>
+    <lemma>вихар</lemma>
+    <lemma>вијарак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>смерч</lemma>
+    <lemma>торнадо</lemma>
+    <lemma>вихор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ventegoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wirbelwind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wervelwind</lemma>
+  </synset>
+</multilingual-synset>

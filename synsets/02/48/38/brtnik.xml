@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24838"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24838"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      brtnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бортнік</lemma>
+    <lemma>пчаляр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="в гората">пчелар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>brtník</lemma>
+    <lemma annotation="v lese">včelař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="u šumi">pčelar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бртник</lemma>
+    <lemma annotation="на диви пчели">пчелар</lemma>
+    <lemma>собирач на мед од диви пчели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bartnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бортник</lemma>
+    <lemma>пчеловод</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>brtník</lemma>
+    <lemma annotation="divoké včely v lese">včelár</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čebelar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пчелар</lemma>
+    <lemma>скупљач шумског меда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бортник</lemma>
+    <lemma>бджоляр</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="en la arbaro">apicultor</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="im Wald">Imker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>imker</lemma>
+  </synset>
+</multilingual-synset>

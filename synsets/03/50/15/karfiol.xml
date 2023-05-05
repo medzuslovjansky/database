@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35015"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35015"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="z yu bm"
+      steen:genesis="D"
+    >
+      karfiol
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каляровая капуста</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>карфиол</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>květák</lemma>
+    <lemma>karfiol</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>karfiol</lemma>
+    <lemma>cvjetača</lemma>
+    <lemma>kavul</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>карфиол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kalafior</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цветная капуста</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>karfiol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>cvetača</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>карфиол</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цвітна капуста</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>florbrasiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blumenkohl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloemkool</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1879"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1879" steen:pos="adj." steen:type="1" steen:genesis="I">
+      civiľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грамадзянскі</lemma>
+    <lemma>цывільны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="който не е военен">цивилен</lemma>
+    <lemma>граждански</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>civilní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>građanski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цивилни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cywilny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гражданский</lemma>
+    <lemma>штатский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>civilný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>civilni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цивилни</lemma>
+    <lemma>грађански</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цивільний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>civilaj</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zivilist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>civiel</lemma>
+  </synset>
+</multilingual-synset>

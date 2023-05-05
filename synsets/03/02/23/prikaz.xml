@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30223"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="30223" steen:pos="m." steen:type="2" steen:same="ru z">
+      prikaz
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>загад</lemma>
+    <lemma>прыказ</lemma>
+    <lemma>дырэктыва</lemma>
+    <lemma>распараджэнне</lemma>
+    <lemma>веданне</lemma>
+    <lemma>каманда</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>екипът</lemma>
+    <lemma>поръчка</lemma>
+    <lemma>директива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příkaz</lemma>
+    <lemma>rozkaz</lemma>
+    <lemma>směrnice</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>naredba</lemma>
+    <lemma>naredba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>команда</lemma>
+    <lemma>наредба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozkaz</lemma>
+    <lemma>przykaz</lemma>
+    <lemma>dyrektywa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приказ</lemma>
+    <lemma>распоряжение</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príkaz</lemma>
+    <lemma>rozkaz</lemma>
+    <lemma>smernica</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ukaz</lemma>
+    <lemma>ukaz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наредба</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наказ</lemma>
+    <lemma>розпорядження</lemma>
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komando</lemma>
+    <lemma>ordono</lemma>
+    <lemma>direktivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Befehl</lemma>
+    <lemma>um die Richtlinie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevel</lemma>
+  </synset>
+</multilingual-synset>

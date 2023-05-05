@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33330"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33330" steen:pos="adv." steen:type="1">na živo</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>у прамым эфіры</lemma>
+    <lemma>онлайн</lemma>
+    <lemma>анлайн</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наживо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>živě</lemma>
+    <lemma>naživo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uživo</lemma>
+    <lemma>izravno</lemma>
+    <lemma>neposredno</lemma>
+    <lemma>direktno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>во живо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na żywo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>в прямом эфире</lemma>
+    <lemma>онлайн</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naživo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>v živo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уживо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наживо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz elsendo">vivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="zum Beispiel Broadcast">Leben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="uitzending">live</lemma>
+  </synset>
+</multilingual-synset>

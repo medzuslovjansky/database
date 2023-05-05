@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2912"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2912" steen:pos="v.intr. ipf." steen:type="1">
+      gybati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пампавацца</lemma>
+    <lemma>хістацца</lemma>
+    <lemma>калыхацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>люлея се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="se">kývat</lemma>
+    <lemma>kymácet se</lemma>
+    <lemma>hýbat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">gibati</lemma>
+    <lemma annotation="se">kolebati</lemma>
+    <lemma>varirati</lemma>
+    <lemma>oscilirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тетерави</lemma>
+    <lemma>шантра</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kołysać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>качаться</lemma>
+    <lemma>шататься</lemma>
+    <lemma>колыхаться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sa">kývať</lemma>
+    <lemma>kymácať</lemma>
+    <lemma>hýbať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poteza</lemma>
+    <lemma>pregnan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гибати</lemma>
+    <lemma>колебати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хитатися</lemma>
+    <lemma>колихатися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>balanciĝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wiegen</lemma>
+    <lemma>zwaaien</lemma>
+  </synset>
+</multilingual-synset>

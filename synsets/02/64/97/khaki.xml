@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26497"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26497"
+      steen:pos="n.indecl."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      khaki
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хакі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="цвят">каки</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>khaki</lemma>
+    <lemma>hnědožlutý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="boja">kaki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>каки</lemma>
+    <lemma>кака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>khaki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хаки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kaki</lemma>
+    <lemma>hnedožltá</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="barva">kaki</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="боја">каки</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хакі</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kakia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>khaki</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kaki</lemma>
+  </synset>
+</multilingual-synset>

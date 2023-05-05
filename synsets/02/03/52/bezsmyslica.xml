@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20352"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20352"
+      steen:pos="f.sg."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      bezsmyslica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бязглуздзіца</lemma>
+    <lemma>нонсэнс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="и като междумет.">глупости</lemma>
+    <lemma>безсмислици</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesmysl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>besmislica</lemma>
+    <lemma>besmisao</lemma>
+    <lemma>glupost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бесмислица</lemma>
+    <lemma>глупост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nonsens</lemma>
+    <lemma>bzdura</lemma>
+    <lemma>wygłupy</lemma>
+    <lemma>niedorzeczność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бессмыслица</lemma>
+    <lemma>нонсенс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nezmysel</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nesmisel</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бесмислица</lemma>
+    <lemma>будалаштина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нісенітниця</lemma>
+    <lemma>маячня</lemma>
+    <lemma>нонсенс</lemma>
+    <lemma>безглуздя</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>sensencaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Unsinn</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onzin</lemma>
+    <lemma>flauwekul</lemma>
+    <lemma>nonsens</lemma>
+  </synset>
+</multilingual-synset>

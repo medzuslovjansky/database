@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1130"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1130"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="uk sh mk"
+    >
+      prisvojny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уласніцкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>чувство за собственост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přivlastňovací</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prisvojan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>посесивен</lemma>
+    <lemma>присвоен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaborczy</lemma>
+    <lemma annotation="gram.">dzierżawczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>собственнический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prisvojovací</lemma>
+    <lemma>privlastňovací</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posesivni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>присвојан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>власницький</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>poseda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>besitzergreifend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezitterig</lemma>
+  </synset>
+</multilingual-synset>

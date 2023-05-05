@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="782"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="782"
+      steen:addition="(gremi)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      greměti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>грымець</lemma>
+    <lemma>грукатаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боботя</lemma>
+    <lemma>еча</lemma>
+    <lemma>тътна</lemma>
+    <lemma>буча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hřmít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grmjeti</lemma>
+    <lemma>grmiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>грми</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>grzmieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>греметь</lemma>
+    <lemma>громыхать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrmieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>grom</lemma>
+    <lemma>grom</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грмети</lemma>
+    <lemma>грмити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гриміти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tondro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Donner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>donderen</lemma>
+  </synset>
+</multilingual-synset>

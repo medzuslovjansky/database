@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26179"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26179" steen:pos="v.tr. pf.">izgojiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выгаіць</lemma>
+    <lemma>вылечыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изцелявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyhojit</lemma>
+    <lemma>vyléčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izliječiti</lemma>
+    <lemma>iscijeliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>излечи</lemma>
+    <lemma>исцели</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zagoić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>излечить</lemma>
+    <lemma>исцелить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyhojiť</lemma>
+    <lemma>vyliečiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zdravilo</lemma>
+    <lemma>zdraviti</lemma>
+    <lemma annotation="zastarelo">izgojiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>излечити</lemma>
+    <lemma>исцелити</lemma>
+    <lemma annotation="застарело">изгојити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вилікувати</lemma>
+    <lemma>загоїти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>resanigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>heilen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helen</lemma>
+    <lemma annotation="wond">genezen</lemma>
+  </synset>
+</multilingual-synset>

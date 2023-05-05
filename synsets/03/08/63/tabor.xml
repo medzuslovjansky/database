@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30863"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30863"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ru uk z yu mk"
+    >
+      tabor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>табар</lemma>
+    <lemma>лагер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лагер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tábor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tabor</lemma>
+    <lemma>bivak</lemma>
+    <lemma>logor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>табор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obóz</lemma>
+    <lemma>tabor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лагерь</lemma>
+    <lemma>табор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tábor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kampiranje</lemma>
+    <lemma>kamp</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>камп</lemma>
+    <lemma>логор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>табір</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tendaro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Lager</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kamp</lemma>
+  </synset>
+</multilingual-synset>

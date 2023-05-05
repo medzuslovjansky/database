@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22401"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      oběćivati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абяцаць</lemma>
+    <lemma>дакляраваць</lemma>
+    <lemma>дакляроўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обещавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slibovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obećavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ветува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obiecywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обещать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sľubovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obljuba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обећати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обіцяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>promesi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>versprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beloven</lemma>
+  </synset>
+</multilingual-synset>

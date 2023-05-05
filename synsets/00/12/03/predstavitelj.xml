@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1203" steen:pos="m.anim." steen:type="1">
+      prědstavitelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадстаўнік</lemma>
+    <lemma annotation="кніжн.">рэпрэзентант</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прес-секретар</lemma>
+    <lemma>представител на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>představitel</lemma>
+    <lemma>mluvčí</lemma>
+    <lemma>zástupce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>predstavnik</lemma>
+    <lemma>zastupnik</lemma>
+    <lemma>reprezentant</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>портпарол</lemma>
+    <lemma>претставник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przedstawiciel</lemma>
+    <lemma>reprezentant</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>представитель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predstaviteľ</lemma>
+    <lemma>hovorca</lemma>
+    <lemma>zástupca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predstavnik</lemma>
+    <lemma>zastopnik</lemma>
+    <lemma>agent</lemma>
+    <lemma>zastopnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>представник</lemma>
+    <lemma>изасланик</lemma>
+    <lemma>заступник</lemma>
+    <lemma>посланик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>представник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>proparolanto</lemma>
+    <lemma>reprezentanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sprecher</lemma>
+    <lemma>Vertreter</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertegenwoordiger</lemma>
+    <lemma>woordvoerder</lemma>
+  </synset>
+</multilingual-synset>

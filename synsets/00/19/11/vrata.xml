@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1911"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1911" steen:pos="n.pl." steen:type="1" steen:same="v z">
+      vråta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>брама</lemma>
+    <lemma>брамы</lemma>
+    <lemma>весніцы</lemma>
+    <lemma>вароты</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>врата</lemma>
+    <lemma>вратник</lemma>
+    <lemma>порта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrata</lemma>
+    <lemma>brána</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrata</lemma>
+    <lemma>dveri</lemma>
+    <lemma>kapija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врата</lemma>
+    <lemma>порта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>brama</lemma>
+    <lemma>wrota</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ворота</lemma>
+    <lemma>врата</lemma>
+    <lemma>проход</lemma>
+    <lemma>проём</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vráta</lemma>
+    <lemma>brána</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrata</lemma>
+    <lemma>vrata</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врата</lemma>
+    <lemma>капија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>брама</lemma>
+    <lemma>ворота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pordego</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>poort</lemma>
+  </synset>
+</multilingual-synset>

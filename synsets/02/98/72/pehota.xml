@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29872"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29872"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sl bg"
+    >
+      pěhota
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пяхота</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пехота</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pěchota</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pješaštvo</lemma>
+    <lemma>pješadija</lemma>
+    <lemma>infanterija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пешадија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>piechota</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пехота</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pechota</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pehota</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пешадија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>піхота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infanterio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Infanterie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>infanterie</lemma>
+  </synset>
+</multilingual-synset>

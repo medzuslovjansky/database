@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4618"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4618" steen:pos="m." steen:type="1" steen:genesis="I">
+      korpus
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="ваен.">корпус</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>корпус</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>korpus</lemma>
+    <lemma annotation="voj.">sbor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korpus</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="воен">корпус</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>korpus</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="воен.">корпус</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korpus</lemma>
+    <lemma annotation="voj.">zbor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>corps</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>корпус</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="військ.">корпус</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>korpuso</lemma>
+    <lemma annotation="mil.">corp</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>corps</lemma>
+    <lemma>CORP (mil).</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>corps</lemma>
+  </synset>
+</multilingual-synset>

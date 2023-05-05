@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3764"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3764"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v z sh bm"
+    >
+      inače
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інакш</lemma>
+    <lemma>у адваротным выпадку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>иначе</lemma>
+    <lemma>инак</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jinak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>inače</lemma>
+    <lemma>drukčije</lemma>
+    <lemma>drugačije</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>инаку</lemma>
+    <lemma>поинаку</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>inaczej</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иначе</lemma>
+    <lemma>в противном случае</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>inak</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sicer pa drugače</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>иначе</lemma>
+    <lemma>другачије</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інакше</lemma>
+    <lemma>в іншому випадку</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alie</lemma>
+    <lemma>alia</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>sonst</lemma>
+    <lemma>sonst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>anders</lemma>
+  </synset>
+</multilingual-synset>

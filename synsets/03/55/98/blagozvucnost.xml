@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35598"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35598"
+      steen:pos="f.sg."
+      steen:type="1"
+      steen:same="ru uk cz sh bm"
+    >
+      blågozvųčnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мілагучнасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>благозвучность</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>libozvučnost</lemma>
+    <lemma>eufonie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blagoglasje</lemma>
+    <lemma>blagozvučje</lemma>
+    <lemma>blagozvučnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>благозвучност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eufonia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>благозвучность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ľubozvučnosť</lemma>
+    <lemma>eufónia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>blagoglasnost. blagoglasje</lemma>
+    <lemma>ubranost</lemma>
+    <lemma>blagozvočje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>благогласност</lemma>
+    <lemma>благозвучност</lemma>
+    <lemma>милозвучност</lemma>
+    <lemma>супротност какофонији</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>благозвучність</lemma>
+    <lemma>милозвучність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eŭfonio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wohlklang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>welluidendheid</lemma>
+    <lemma>eufonie</lemma>
+  </synset>
+</multilingual-synset>

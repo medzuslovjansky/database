@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11845"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11845"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      råzpoznavati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распазнаваць</lemma>
+    <lemma>ідэнтыфікаваць</lemma>
+    <lemma>адрозніваць</lemma>
+    <lemma>разрозніваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се определи</lemma>
+    <lemma>да се разграничи</lemma>
+    <lemma>да се направи разграничение различи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozpoznávat</lemma>
+    <lemma>identifikovat</lemma>
+    <lemma>rozlišovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prepoznavati</lemma>
+    <lemma>raspoznavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>распознава</lemma>
+    <lemma>препознава</lemma>
+    <lemma>утврдува</lemma>
+    <lemma>прави разлика</lemma>
+    <lemma>идентификува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozpoznawać</lemma>
+    <lemma>identyfikować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распознавать</lemma>
+    <lemma>идентифицировать</lemma>
+    <lemma>различать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozpoznávať</lemma>
+    <lemma>identifikovať</lemma>
+    <lemma>rozlišovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Ugotovite</lemma>
+    <lemma>prepoznati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>препознавати</lemma>
+    <lemma>распознавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпізнавати</lemma>
+    <lemma>ідентифікувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>identigi</lemma>
+    <lemma>distingi</lemma>
+    <lemma>povoscii</lemma>
+    <lemma>diru krom</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>identifizieren</lemma>
+    <lemma>unterscheiden</lemma>
+    <lemma>zu erkennen</lemma>
+    <lemma>zu unterscheiden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herkennen</lemma>
+    <lemma>identificeren</lemma>
+    <lemma>onderscheiden</lemma>
+  </synset>
+</multilingual-synset>

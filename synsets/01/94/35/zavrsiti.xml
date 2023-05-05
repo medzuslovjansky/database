@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19435"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19435"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      zavŕšiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>завяршыць</lemma>
+    <lemma>скончыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>завърша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>završit</lemma>
+    <lemma>dokončit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>završiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заврши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skończyć</lemma>
+    <lemma>zakończyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>завершить</lemma>
+    <lemma>окончить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zavŕšiť</lemma>
+    <lemma>dokončiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>завршити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>завершити</lemma>
+    <lemma>закінчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konkludi</lemma>
+    <lemma>fino</lemma>
+    <lemma>fini</lemma>
+    <lemma>kompleta</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schluss</lemma>
+    <lemma>Ende</lemma>
+    <lemma>Finish</lemma>
+    <lemma>komplett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afmaken</lemma>
+    <lemma>beëindigen</lemma>
+    <lemma>afsluiten</lemma>
+  </synset>
+</multilingual-synset>

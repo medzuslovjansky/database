@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33225"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33225"
+      steen:addition="(pospi)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v pl sk bm"
+    >
+      pospati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паспаць</lemma>
+    <lemma>задрамаць</lemma>
+    <lemma>драмануць</lemma>
+    <lemma>драмнуць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дрямка</lemma>
+    <lemma>сън</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pospat si</lemma>
+    <lemma>zdřímnout si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>odrijemati</lemma>
+    <lemma>dremnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поспие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdrzemnąć się</lemma>
+    <lemma>pospać sobie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поспать</lemma>
+    <lemma>вздремнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pospať si</lemma>
+    <lemma>zdriemnuť si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pospat</lemma>
+    <lemma>nap</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поспати</lemma>
+    <lemma>дремнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поспати</lemma>
+    <lemma>подрімати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dormeti</lemma>
+    <lemma>havas iun dormon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ein Nickerchen machen</lemma>
+    <lemma>haben etwas zu schlafen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>een dutje doen</lemma>
+  </synset>
+</multilingual-synset>

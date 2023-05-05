@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2956"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2956" steen:pos="v.tr. pf." steen:type="1">
+      izvoljniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звольніць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>уволня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>propustit</lemma>
+    <lemma>ukončit pracovní poměr</lemma>
+    <lemma annotation="z práce">vyhodit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>otpustiti</lemma>
+    <lemma>dati otkaz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпушти</lemma>
+    <lemma annotation="од работа">испушти</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="z pracy">zwolnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уволить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prepustiť</lemma>
+    <lemma>ukončiť pracovný pomer</lemma>
+    <lemma annotation="z práce">vyhodiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="iz dela">javnost</lemma>
+    <lemma>objava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="са посла">избацити</lemma>
+    <lemma>отпустити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="з роботи">звільнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ĉesigi dungadon">fajro</lemma>
+    <lemma>sako</lemma>
+    <lemma>malŝarĝo</lemma>
+    <lemma>eksigi</lemma>
+    <lemma>forĵetas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="beenden Beschäftigung">Feuer</lemma>
+    <lemma>Sack</lemma>
+    <lemma>Entlastung</lemma>
+    <lemma>entlassen</lemma>
+    <lemma>verwerfen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontslaan</lemma>
+  </synset>
+</multilingual-synset>

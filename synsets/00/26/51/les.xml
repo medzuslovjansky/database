@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2651"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2651" steen:pos="m." steen:type="1">lěs</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лес</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гора</lemma>
+    <lemma>дърво</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>les</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šuma</lemma>
+    <lemma>drveće</lemma>
+    <lemma>drvo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шума</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>las</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лес</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>les</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gozd. drevesa</lemma>
+    <lemma annotation="arch.">lesa</lemma>
+    <lemma annotation="arch.">krsto</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шума</lemma>
+    <lemma>дрвеће</lemma>
+    <lemma annotation="арх.">лес</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ліс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arbaro</lemma>
+    <lemma>ligno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wald</lemma>
+    <lemma>Holz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bos</lemma>
+  </synset>
+</multilingual-synset>

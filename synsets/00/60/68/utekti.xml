@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6068"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6068"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      utekti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>уцячы</lemma>
+    <lemma>даць лататы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>избяга</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="běžet pryč">utéct</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pobjeći</lemma>
+    <lemma>uteći</lemma>
+    <lemma>izmaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>утече</lemma>
+    <lemma>побегне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uciec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убежать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="bežať preč">utiecť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pobeg</lemma>
+    <lemma>pobeg</lemma>
+    <lemma>pobeg</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>побећи</lemma>
+    <lemma>утећи</lemma>
+    <lemma>измаћи</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>втекти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forkuri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>weglaufen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vluchten</lemma>
+    <lemma>wegvluchten</lemma>
+  </synset>
+</multilingual-synset>

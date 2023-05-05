@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20605"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20605" steen:pos="f." steen:type="2" steen:same="z sh">
+      polivka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>суп</lemma>
+    <lemma annotation="дыял.">зупа</lemma>
+    <lemma>сёрбава</lemma>
+    <lemma>поліўка</lemma>
+    <lemma>зацірка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>супа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>polévka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>juha</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>супа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zupa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>суп</lemma>
+    <lemma>похлёбка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>polievka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>juha</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>супа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>суп</lemma>
+    <lemma>юшка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>supo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Suppe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>soep</lemma>
+  </synset>
+</multilingual-synset>

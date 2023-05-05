@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26576"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26576" steen:pos="m." steen:type="1" steen:genesis="I">
+      klozet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>туалет</lemma>
+    <lemma>прыбіральня</lemma>
+    <lemma>клазет</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клозет</lemma>
+    <lemma annotation="вулг.">кенеф</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klozet</lemma>
+    <lemma>záchod</lemma>
+    <lemma>WC</lemma>
+    <lemma>toaleta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nužnik</lemma>
+    <lemma>toalet</lemma>
+    <lemma>zahod</lemma>
+    <lemma>klozet</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клозет</lemma>
+    <lemma>нужник</lemma>
+    <lemma>тоалет</lemma>
+    <lemma>кенеф</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>toaleta</lemma>
+    <lemma>ubikacja</lemma>
+    <lemma>WC</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>туалет</lemma>
+    <lemma>уборная</lemma>
+    <lemma>клозет</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klozet</lemma>
+    <lemma>záchod</lemma>
+    <lemma>WC</lemma>
+    <lemma>toaleta</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>stranišče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нужник</lemma>
+    <lemma>тоалет</lemma>
+    <lemma>веце</lemma>
+    <lemma>клозет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вбиральня</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekskuzita</lemma>
+    <lemma>necesejo</lemma>
+    <lemma>necesejo</lemma>
+    <lemma>necesejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Toilette</lemma>
+    <lemma>Wasserklosett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wc</lemma>
+    <lemma>toilet</lemma>
+  </synset>
+</multilingual-synset>

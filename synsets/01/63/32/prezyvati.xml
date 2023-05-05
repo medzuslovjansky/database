@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16332"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16332" steen:pos="v.tr. ipf." steen:type="1">
+      prězyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>празываць</lemma>
+    <lemma>дражніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прякор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="jméno">přezdívat</lemma>
+    <lemma>dávat přezdívku</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="ime">nadevati</lemma>
+    <lemma annotation="nekome">davati nadimak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прекарува</lemma>
+    <lemma>назива спред прекар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przezywać</lemma>
+    <lemma>nadawać ksywkę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прозывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="meno">prezývať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ime">nadevati</lemma>
+    <lemma annotation="nekdo">da dobimo vzdevek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="име">надевати</lemma>
+    <lemma annotation="некоме">давати надимак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прозивати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kromnomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spitzname</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>een bijnaam geven</lemma>
+  </synset>
+</multilingual-synset>

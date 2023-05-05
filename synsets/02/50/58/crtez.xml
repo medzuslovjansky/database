@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25058"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25058"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ru be yu mk"
+    >
+      črtež
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чарцёж</lemma>
+    <lemma>эскіз</lemma>
+    <lemma>схема</lemma>
+    <lemma>праект</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чертеж</lemma>
+    <lemma>дизайн</lemma>
+    <lemma>проект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>návrh</lemma>
+    <lemma>výkres</lemma>
+    <lemma>skica</lemma>
+    <lemma>náčrt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nacrt</lemma>
+    <lemma>tlocrt</lemma>
+    <lemma>dizajn</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цртеж</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>projekt</lemma>
+    <lemma>deseń</lemma>
+    <lemma>wzór</lemma>
+    <lemma>projektowanie</lemma>
+    <lemma>wzornictwo</lemma>
+    <lemma>rysunek</lemma>
+    <lemma>szkic</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чертёж</lemma>
+    <lemma>эскиз</lemma>
+    <lemma>схема</lemma>
+    <lemma>проект</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>návrh</lemma>
+    <lemma>výkres</lemma>
+    <lemma>skica</lemma>
+    <lemma>náčrt</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>načrt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цртеж</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>креслення</lemma>
+    <lemma>проект</lemma>
+    <lemma>дизайн</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dezajno</lemma>
+    <lemma>malneto</lemma>
+    <lemma>desegnaĵo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Design</lemma>
+    <lemma>Entwurf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tekening</lemma>
+    <lemma>ontwerp</lemma>
+  </synset>
+</multilingual-synset>

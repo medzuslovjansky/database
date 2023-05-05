@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29579"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29579" steen:pos="n." steen:type="3" steen:same="ru bg">
+      orųďje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прылада</lemma>
+    <lemma>гармата</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Cannon</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dělo</lemma>
+    <lemma>kanón</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="artiljerijsko">oruđe</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>топ</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>działo</lemma>
+    <lemma>armata</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>орудие</lemma>
+    <lemma>пушка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>delo</lemma>
+    <lemma>kanón</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="bojišče">orodja</lemma>
+    <lemma>vrh</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="бојно">оруђе</lemma>
+    <lemma>топ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гармата</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kanono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kanone</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kanon</lemma>
+  </synset>
+</multilingual-synset>

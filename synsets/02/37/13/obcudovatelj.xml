@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23713"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23713"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="sl bg"
+    >
+      občudovatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыхільнік</lemma>
+    <lemma>паклоннік</lemma>
+    <lemma>шанавальнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>воздыхатель</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obdivovatel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obožavatelj</lemma>
+    <lemma>obožavalac</lemma>
+    <lemma>privrženik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обожувател</lemma>
+    <lemma>восхитувач</lemma>
+    <lemma>почитувач</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>adorator</lemma>
+    <lemma>wielbiciel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>почитатель</lemma>
+    <lemma>поклонник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obdivovateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ventilator</lemma>
+    <lemma>občudovalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обожавалац</lemma>
+    <lemma>поштовалац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шанувальник</lemma>
+    <lemma>прихильник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>admiranto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bewunderer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bewonderaar</lemma>
+  </synset>
+</multilingual-synset>

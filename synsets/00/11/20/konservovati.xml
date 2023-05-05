@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1120"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1120"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      konservovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кансерваваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>консервирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konzervovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konzervirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конзервира</lemma>
+    <lemma>зачувува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konserwować</lemma>
+    <lemma>zachowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>консервировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konzervovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>varčevanje z</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конзервисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>консервувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konservi</lemma>
+    <lemma>konservas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>konservieren</lemma>
+    <lemma>konservieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conserveren</lemma>
+  </synset>
+</multilingual-synset>

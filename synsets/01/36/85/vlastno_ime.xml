@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13685"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13685" steen:pos="n." steen:type="1">vlastno imę</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">імя ўласнае</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>собствено име</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlastní jméno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ime</lemma>
+    <lemma>vlastito ime</lemma>
+    <lemma>osobno ime</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лично име</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>imię własne</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">имя собственное</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlastné meno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lastno ime</lemma>
+    <lemma>osebno ime</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>властито име</lemma>
+    <lemma>лично име</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>власна (грам.) назва</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>propra nomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eigenname</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eigennaam</lemma>
+  </synset>
+</multilingual-synset>

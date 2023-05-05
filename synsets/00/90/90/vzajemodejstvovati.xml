@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9090"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9090"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v bm sh~"
+    >
+      vzajemodějstvovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узаемадзейнічаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>взаимодействам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzájemně působit</lemma>
+    <lemma>interagovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>međudjelovati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>взаемно дејствува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>interagować</lemma>
+    <lemma>oddziaływać wzajemnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взаимодействовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vzájomne pôsobiť</lemma>
+    <lemma>interagovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>međudelovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>међуделовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>взаємодіяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interagas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>interagieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>interactie hebben</lemma>
+  </synset>
+</multilingual-synset>

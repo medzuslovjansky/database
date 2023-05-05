@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="270" steen:pos="adj." steen:type="1">samy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>самы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>самият</lemma>
+    <lemma>същият</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>(ten) samý</lemma>
+    <lemma>týž</lemma>
+    <lemma>stejný</lemma>
+    <lemma>tentýž</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истото</lemma>
+    <lemma>тоа</lemma>
+    <lemma>многу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tenże</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>(тот) самый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>samý</lemma>
+    <lemma>ten istý</lemma>
+    <lemma>rovnaký</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sam</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="наглашавање">сам</lemma>
+    <lemma annotation="тај">исти</lemma>
+    <lemma annotation="тај">баш</lemma>
+    <lemma annotation="тај">управо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>самий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>same</lemma>
+    <lemma>la tre</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gleich</lemma>
+    <lemma>ganz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>helemaal</lemma>
+  </synset>
+</multilingual-synset>

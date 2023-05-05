@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28215"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28215"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      nastaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>надтачыць</lemma>
+    <lemma>падоўжыць</lemma>
+    <lemma annotation="надтачыць віццём">надвіць</lemma>
+    <lemma annotation="напр. адзенне">падтачыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>удължа</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastavit</lemma>
+    <lemma>prodloužit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nastaviti</lemma>
+    <lemma>produžiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>продолжи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wydłużyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>удлинить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastaviť</lemma>
+    <lemma>predĺžiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>še razširiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наставити</lemma>
+    <lemma>продужити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>подовжити</lemma>
+    <lemma>видовжити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plilongigi</lemma>
+    <lemma>plilongigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verlängern</lemma>
+    <lemma>verlängern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verlengen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2091"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2091"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      termin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэрмін</lemma>
+    <lemma>панятак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>термин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>termín</lemma>
+    <lemma>pojem</lemma>
+    <lemma>název</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>termin</lemma>
+    <lemma>naziv</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>термин</lemma>
+    <lemma>израз</lemma>
+    <lemma>назив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="określenie">termin</lemma>
+    <lemma>wyrażenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>термин</lemma>
+    <lemma>понятие</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>termín</lemma>
+    <lemma>pojem</lemma>
+    <lemma>názov</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>termin</lemma>
+    <lemma>izraz</lemma>
+    <lemma>pojem</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>термин</lemma>
+    <lemma>израз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="слово">термін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="frazo">termino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Begriff</lemma>
+    <lemma>Bezeichnung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>term</lemma>
+  </synset>
+</multilingual-synset>

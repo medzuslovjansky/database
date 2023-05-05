@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35886"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35886" steen:pos="f." steen:type="3" steen:same="ru">
+      špala
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шпала</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>траверс</lemma>
+    <lemma>траверса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pražec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>željeznički prag</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>железнички праг</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podkład kolejowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шпала</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pražec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="železniški">prag</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>железнички праг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шпала</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dormanto</lemma>
+    <lemma>Reltrabo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schläfer</lemma>
+    <lemma>Eisenbahnschwelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="spoor">dwarsligger</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2011"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2011"
+      steen:addition="(bolěje)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru j"
+    >
+      bolěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хварэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>боледувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>být nemocný</lemma>
+    <lemma>stonat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biti bolestan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>боледува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chorować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>болеть</lemma>
+    <lemma>хворать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>byť chorý</lemma>
+    <lemma>chorieť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>biti bolan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>болети</lemma>
+    <lemma>бити болестан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хворіти</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malsani</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>krank sein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ziek zijn</lemma>
+  </synset>
+</multilingual-synset>

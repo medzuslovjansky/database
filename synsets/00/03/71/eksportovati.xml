@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="371"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="371"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      eksportovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>экспартаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изнасям</lemma>
+    <lemma>експортирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>exportovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izvoziti</lemma>
+    <lemma>eksportirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извоз</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eksportować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экспортировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>exportovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izvoz</lemma>
+    <lemma>izvoz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извозити</lemma>
+    <lemma>експортовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>експортувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksportado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Export</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>exporteren</lemma>
+  </synset>
+</multilingual-synset>

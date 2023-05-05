@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34870"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34870"
+      steen:pos="#v.tr. pf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      poslědovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рушыць услед</lemma>
+    <lemma>прыслухацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>следвайте</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>následovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slijediti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>следи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nastąpić</lemma>
+    <lemma>podążyć za kimś</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>последовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nasledovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sledijo</lemma>
+    <lemma>sledijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>следити</lemma>
+    <lemma>следовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>піти слідом</lemma>
+    <lemma>податися за кимось</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sekvi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Folgen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volgen</lemma>
+  </synset>
+</multilingual-synset>

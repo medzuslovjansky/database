@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15698"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="15698"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđan
+    </lemma>
+    <lemma
+      steen:id="15698"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      gråđanin
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гараджанін</lemma>
+    <lemma annotation="саст.">мястовец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гражданин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>měšťan</lemma>
+    <lemma>obyvatel města</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>građanin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>граѓанин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mieszczanin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>горожанин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mešťan</lemma>
+    <lemma>obyvateľ mesta</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>meščan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>грађанин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>містянин</lemma>
+    <lemma>городянин</lemma>
+    <lemma>міщанин</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>urbo-logxanto</lemma>
+    <lemma>logxis</lemma>
+    <lemma>urbanite</lemma>
+    <lemma>burĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bürger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>burger</lemma>
+    <lemma>stedeling</lemma>
+  </synset>
+</multilingual-synset>

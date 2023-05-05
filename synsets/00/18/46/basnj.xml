@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1846"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1846" steen:pos="f." steen:type="1">basnj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казка</lemma>
+    <lemma>байка</lemma>
+    <lemma>паданне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приказка</lemma>
+    <lemma>басня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pohádka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>basna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>басна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>baśń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сказка</lemma>
+    <lemma>байка</lemma>
+    <lemma>басня</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rozprávka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>basen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>басна</lemma>
+    <lemma>бајка</lemma>
+    <lemma>приповетка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>байка</lemma>
+    <lemma>казка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fairytale</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Fabel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sprookje</lemma>
+  </synset>
+</multilingual-synset>

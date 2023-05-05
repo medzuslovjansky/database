@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18907"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18907" steen:pos="m." steen:type="1" steen:same="v j">
+      stih
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>верш</lemma>
+    <lemma annotation="верша">радок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стих</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>verš</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stih</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стих</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="w Biblii itd.">wiersz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стих</lemma>
+    <lemma annotation="стихотворения">строка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>verš</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>verz</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стих</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вірш</lemma>
+    <lemma annotation="вірші">рядок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>versoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vers</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="Bijbel e.d.">vers</lemma>
+  </synset>
+</multilingual-synset>

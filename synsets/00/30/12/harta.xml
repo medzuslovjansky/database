@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3012"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3012" steen:pos="f." steen:type="1" steen:genesis="I">
+      harta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хартыя</lemma>
+    <lemma>статут</lemma>
+    <lemma>афіцыйны дакумент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>харта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="veřejná listina">charta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>statut</lemma>
+    <lemma>poslovnik</lemma>
+    <lemma>pravilnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повелба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>statut</lemma>
+    <lemma>ustawa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хартия</lemma>
+    <lemma>устав</lemma>
+    <lemma>официальный документ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="verejná listina">charta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>statut</lemma>
+    <lemma>odlok</lemma>
+    <lemma>predpis</lemma>
+    <lemma />
+  </synset>
+  <synset lang="sr">
+    <lemma>статут</lemma>
+    <lemma>правилник</lemma>
+    <lemma>законска одредба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хартія</lemma>
+    <lemma>статут</lemma>
+    <lemma>офіційний документ</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉarto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Charta</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>handvest</lemma>
+    <lemma>oorkonde</lemma>
+  </synset>
+</multilingual-synset>

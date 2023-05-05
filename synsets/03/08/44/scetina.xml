@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30844"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30844"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z sl bm"
+    >
+      ščetina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шчацінне</lemma>
+    <lemma annotation="дыял.">шарсцінне</lemma>
+    <lemma>шчэць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гл</lemma>
+    <lemma>гл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>štětina</lemma>
+    <lemma>strniště</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čekinja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>четина</lemma>
+    <lemma>стрниште</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szczecina</lemma>
+    <lemma>ściernisko</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>щетина</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>štetina</lemma>
+    <lemma>strnisko</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ščetinami</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чекиња</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>щетина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>porkino</lemma>
+    <lemma>pajlero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Borste</lemma>
+    <lemma>Stoppel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stoppel</lemma>
+  </synset>
+</multilingual-synset>

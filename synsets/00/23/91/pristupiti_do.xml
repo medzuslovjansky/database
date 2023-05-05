@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2391"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2391"
+      steen:addition="(+2)"
+      steen:pos="v.intr. pf."
+      steen:type="2"
+      steen:same="pl cz sh"
+    >
+      pristųpiti do
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>увайсці</lemma>
+    <lemma>уступіць</lemma>
+    <lemma>далучыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>водя</lemma>
+    <lemma>да се присъединят</lemma>
+    <lemma>да се присъединят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přistoupit do</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pridružiti se</lemma>
+    <lemma>pristupiti</lemma>
+    <lemma>prići</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристапи</lemma>
+    <lemma>влезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przystąpić do</lemma>
+    <lemma>dołączyć do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>войти</lemma>
+    <lemma>вступить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pristúpiť do</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>da se pridružijo</lemma>
+    <lemma annotation="družba">da dostop</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>придружити се</lemma>
+    <lemma annotation="неком друштву">приступити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>увійти</lemma>
+    <lemma>долучитися</lemma>
+    <lemma>вступити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eniros</lemma>
+    <lemma>aliĝi</lemma>
+    <lemma>aliras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geben Sie in</lemma>
+    <lemma>verbinden</lemma>
+    <lemma>beitreten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toetreden tot</lemma>
+  </synset>
+</multilingual-synset>

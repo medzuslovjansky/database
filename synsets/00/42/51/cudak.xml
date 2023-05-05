@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4251"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4251"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ru sk j"
+      steen:genesis="I"
+    >
+      čudak
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзівак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чудак</lemma>
+    <lemma>особняк</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podivín</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čudak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чудак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dziwak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чудак</lemma>
+    <lemma>чудик</lemma>
+    <lemma>фрик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>čudák</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čudak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>особењак</lemma>
+    <lemma>чудак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дивак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>freak</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Laune</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zonderling</lemma>
+    <lemma>excentriekeling</lemma>
+    <lemma>mafkees</lemma>
+    <lemma>rare vogel</lemma>
+  </synset>
+</multilingual-synset>

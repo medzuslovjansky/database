@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="245"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="245" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+      kursiv
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>курсіў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>курсив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kurzíva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kurziv</lemma>
+    <lemma>kurent</lemma>
+    <lemma>italik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>курзив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kursywa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>курсив</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kurzíva</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ležeče</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>курзив</lemma>
+    <lemma>италик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>курсив</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kursivo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kursivschrift</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cursief</lemma>
+    <lemma>schuingedrukte tekst</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35400"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35400"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      poštny kod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паштовы індэкс</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пощенски код пощенски код</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poštovní směrovací číslo</lemma>
+    <lemma>PSČ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poštanski broj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поштенски број</lemma>
+    <lemma>поштенски код</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kod pocztowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>почтовый индекс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poštové smerovacie číslo</lemma>
+    <lemma>PSČ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>številka Ostański</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оштански брой</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поштовий індекс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poŝtkodfunkcion</lemma>
+    <lemma>poŝtkodo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Postleitzahl</lemma>
+    <lemma>Postleitzahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>postcode</lemma>
+  </synset>
+</multilingual-synset>

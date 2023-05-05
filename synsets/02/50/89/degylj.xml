@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25089"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25089" steen:pos="m." steen:type="2" steen:same="v pl">
+      dęgylj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзягіль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ангелика</lemma>
+    <lemma annotation="раст.">лечебна пищялка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="rostl.">andělika</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>anđelika</lemma>
+    <lemma>angelika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="вид растение, аngelica archangelica L.">ангелика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dzięgiel</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дягиль</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="rastlina">archangelika lekárska</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>angelika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лековита анђелика</lemma>
+    <lemma>анђелица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дягель</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝardeno angelica</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Engelwurz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>engelwortel</lemma>
+  </synset>
+</multilingual-synset>

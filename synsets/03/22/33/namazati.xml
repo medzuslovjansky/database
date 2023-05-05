@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32233"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32233"
+      steen:addition="(namaže)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      namazati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памазаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>помазвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomazat</lemma>
+    <lemma>posvětit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomazati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изврши помазание</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>namaścić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>помазать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pomazať</lemma>
+    <lemma>posvätiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomazili</lemma>
+    <lemma>mazili</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помазати</lemma>
+    <lemma>миропомазати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>намастити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sanktoleu</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>salben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zalven</lemma>
+  </synset>
+</multilingual-synset>

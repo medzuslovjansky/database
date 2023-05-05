@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5004"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5004"
+      steen:addition="(prějme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      prějęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да вземете</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>převzít</lemma>
+    <lemma>přebrat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>preuzeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преземе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przejąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перенять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prevziať</lemma>
+    <lemma>prebrať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sprejmejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>преузети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>перейняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transpreni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>übernehmen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overnemen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20139"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20139"
+      steen:addition="(sȯjme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      sjęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зняць</lemma>
+    <lemma>здзець</lemma>
+    <lemma>адперазаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>свалете си</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sejmout</lemma>
+    <lemma>sundat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>skinuti</lemma>
+    <lemma>spustiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>симна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdjąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sťať</lemma>
+    <lemma>sňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prenos</lemma>
+    <lemma>navzdol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скинути</lemma>
+    <lemma>спустити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>demeti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ausziehen</lemma>
+    <lemma>starten</lemma>
+    <lemma>abheben</lemma>
+    <lemma>losfahren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afnemen</lemma>
+    <lemma annotation="kleren">uittrekken</lemma>
+  </synset>
+</multilingual-synset>

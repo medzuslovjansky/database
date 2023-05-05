@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33576"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33576"
+      steen:addition="(svije)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru uk pl cz bg"
+    >
+      sviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аплесці</lemma>
+    <lemma>абвіць</lemma>
+    <lemma>апавіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>влакното</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svinout</lemma>
+    <lemma>smotat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obaviti</lemma>
+    <lemma>oplesti</lemma>
+    <lemma>obložiti</lemma>
+    <lemma>zaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>upleść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оплести</lemma>
+    <lemma>обвить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zvinúť</lemma>
+    <lemma>zmotať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>škrt</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>обвити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>twine</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schnur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vlechten</lemma>
+  </synset>
+</multilingual-synset>

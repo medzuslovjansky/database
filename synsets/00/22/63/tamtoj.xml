@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2263"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="2263"
+      steen:addition="(tamta, tamto)"
+      steen:pos="pron.dem."
+      steen:type="3"
+      steen:same="pl"
+    >
+      tamtoj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>той</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>че</lemma>
+    <lemma>тези</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tamten</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="овꙑ, ова">ови</lemma>
+    <lemma annotation="онꙑ, она">они</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>taj</lemma>
+    <lemma>onaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>таму</lemma>
+    <lemma>тие</lemma>
+    <lemma>оној</lemma>
+    <lemma>оние</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tamten</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тот</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tamten</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ona je">on</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="ове, ова">ови</lemma>
+    <lemma annotation="оне, она">они</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>той</lemma>
+    <lemma>тамтой</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ke</lemma>
+    <lemma>tiuj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dass</lemma>
+    <lemma>diejenigen</lemma>
+    <lemma />
+  </synset>
+  <synset lang="nl">
+    <lemma>dat</lemma>
+    <lemma>die</lemma>
+  </synset>
+</multilingual-synset>

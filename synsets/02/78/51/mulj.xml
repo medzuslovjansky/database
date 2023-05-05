@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27851"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27851"
+      steen:pos="m.sg."
+      steen:type="2"
+      steen:same="uk pl yu mk"
+    >
+      mulj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глей</lemma>
+    <lemma>буза</lemma>
+    <lemma>мул</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>глина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bahno</lemma>
+    <lemma>silt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mulj</lemma>
+    <lemma>glib</lemma>
+    <lemma>talog</lemma>
+    <lemma>blato</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мил</lemma>
+    <lemma>тиња</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="substancja">muł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ил</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bahno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>blato</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>муљ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мул</lemma>
+    <lemma>намул</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>silto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versanden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slijk</lemma>
+    <lemma>slib</lemma>
+    <lemma>prut</lemma>
+    <lemma>bagger</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20564"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20564" steen:pos="f." steen:type="1" steen:same="ru pl sh">
+      obmŕlosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>некроз</lemma>
+    <lemma>трупехласць</lemma>
+    <lemma>знежыванне</lemma>
+    <lemma>абмярцвенне</lemma>
+    <lemma>амярцвенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>некроза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nekróza</lemma>
+    <lemma>odumírání</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nekroza</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="болест">некроза</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>martwica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>некроз</lemma>
+    <lemma>омертвение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nekróza</lemma>
+    <lemma>odumieranie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="bolezen">nekroze</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="болест">некроза</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>некроз</lemma>
+    <lemma>омертвіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>necrosis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Nekrose</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>necrose</lemma>
+  </synset>
+</multilingual-synset>

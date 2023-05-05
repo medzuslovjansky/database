@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16888"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16888" steen:pos="n." steen:type="3" steen:same="uk pl">
+      tlo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фон</lemma>
+    <lemma>асноведзь</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>фон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podklad</lemma>
+    <lemma>pozadí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tlo</lemma>
+    <lemma>podloga</lemma>
+    <lemma>pozadina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тло</lemma>
+    <lemma>позадина</lemma>
+    <lemma>фон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tło</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фон</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podklad</lemma>
+    <lemma>pozadia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zemlja</lemma>
+    <lemma>ozadja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тло</lemma>
+    <lemma>позадина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тло</lemma>
+    <lemma>фон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hintergrund</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>achtergrond</lemma>
+  </synset>
+</multilingual-synset>

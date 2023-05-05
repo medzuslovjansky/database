@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36126"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36126"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      gnom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гном</lemma>
+    <lemma>карлік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>джудже</lemma>
+    <lemma>гном</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trpaslík</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>patuljak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џуџе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>krasnolud</lemma>
+    <lemma>skrzat</lemma>
+    <lemma>gnom</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гном</lemma>
+    <lemma>карлик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trpaslík</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dwarf</lemma>
+    <lemma>gnome</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>патуљак</lemma>
+    <lemma>гном</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гном</lemma>
+    <lemma>карлик</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nano</lemma>
+    <lemma>gnome</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zwerg</lemma>
+    <lemma>Gnom</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dwerg</lemma>
+    <lemma>kabouter</lemma>
+    <lemma>gnoom</lemma>
+  </synset>
+</multilingual-synset>

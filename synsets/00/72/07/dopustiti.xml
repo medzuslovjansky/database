@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="7207"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="7207"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      dopustiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дазволіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>позволявам</lemma>
+    <lemma>разрешавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dopustit</lemma>
+    <lemma>umožnit</lemma>
+    <lemma>dovolit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dopustiti</lemma>
+    <lemma>dozvoliti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>допушти</lemma>
+    <lemma>дозволи</lemma>
+    <lemma>одобри</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozwolić</lemma>
+    <lemma>zezwolić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>позволить</lemma>
+    <lemma>разрешить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dopustiť</lemma>
+    <lemma>umožniť</lemma>
+    <lemma>dovoliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>omogočajo</lemma>
+    <lemma>dovoljenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>допустити</lemma>
+    <lemma>дозволити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дозволити</lemma>
+    <lemma>допустити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>permesi</lemma>
+    <lemma>permesilon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ermöglichen</lemma>
+    <lemma>erlauben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toestaan</lemma>
+    <lemma>permitteren</lemma>
+  </synset>
+</multilingual-synset>

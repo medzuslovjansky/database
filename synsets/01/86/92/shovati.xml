@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18692"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18692"
+      steen:addition="(shovaje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      shovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>схаваць</lemma>
+    <lemma>укрыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>скрий</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>schovat</lemma>
+    <lemma>skrýt</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>sakriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сокрие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>schować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>спрятать</lemma>
+    <lemma>скрыть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>schovať</lemma>
+    <lemma>skryť</lemma>
+    <lemma>ukryť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сакрити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сховати</lemma>
+    <lemma>приховати</lemma>
+    <lemma>заховати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kaŝi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbergen</lemma>
+    <lemma>verstecken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verbergen</lemma>
+    <lemma>verstoppen</lemma>
+  </synset>
+</multilingual-synset>

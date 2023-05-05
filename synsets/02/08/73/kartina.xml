@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20873"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20873" steen:pos="f." steen:type="2" steen:same="v bg">
+      kartina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карціна</lemma>
+    <lemma>вобраз</lemma>
+    <lemma>выява</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>картина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obrázek</lemma>
+    <lemma>obraz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slika</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слика</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obraz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>картина</lemma>
+    <lemma>картинка</lemma>
+    <lemma>изображение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrázok</lemma>
+    <lemma>obraz</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slika</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слика</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>картина</lemma>
+    <lemma>зображення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bildo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bild</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>plaatje</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="4280" steen:pos="f." steen:type="1">širina</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шырыня</lemma>
+    <lemma annotation="геагр.">шырата</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ширина</lemma>
+    <lemma>географска ширина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šířka</lemma>
+    <lemma>zeměpisná šířka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>širina</lemma>
+    <lemma>geografska širina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ширина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szerokość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ширина</lemma>
+    <lemma>широта</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>šírka</lemma>
+    <lemma>zemepisná šírka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>širina</lemma>
+    <lemma>širine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ширина</lemma>
+    <lemma>географска ширина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ширина</lemma>
+    <lemma>широта</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>larĝo</lemma>
+    <lemma>latitudo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Breitengrad</lemma>
+    <lemma>Breitengrad</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lengtegraad</lemma>
+  </synset>
+</multilingual-synset>

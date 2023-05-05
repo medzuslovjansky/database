@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4049"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4049"
+      steen:addition="(bije)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      biti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>біць</lemma>
+    <lemma>удараць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бия</lemma>
+    <lemma>удрям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bít</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>би́ти</lemma>
+    <lemma>тети</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biti</lemma>
+    <lemma>tući</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бие</lemma>
+    <lemma>удира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bić</lemma>
+    <lemma>uderzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>biť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>biti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бити</lemma>
+    <lemma>тући</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бити</lemma>
+    <lemma>ударяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sukceso</lemma>
+    <lemma>ritmo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>schlagen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slaan</lemma>
+  </synset>
+</multilingual-synset>

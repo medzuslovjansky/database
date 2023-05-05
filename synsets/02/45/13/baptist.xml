@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24513"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24513"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      baptist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>баптыст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>баптист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>baptista</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>baptist</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>баптист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>baptysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>баптист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>baptista</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>baptist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>баптиста</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>баптист</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="protestanta">Bautista</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Protestant">Baptist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>baptist</lemma>
+  </synset>
+</multilingual-synset>

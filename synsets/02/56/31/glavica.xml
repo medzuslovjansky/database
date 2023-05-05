@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25631"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25631" steen:pos="f." steen:type="1">glåvica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="цвіка">капялюшык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>глава на пирон</lemma>
+    <lemma>глава на гвоздей</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hlavice</lemma>
+    <lemma annotation="hřebíku">hlavička</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glavica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>главица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gwożdzia">główka</lemma>
+    <lemma>głowica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="гвоздя">шляпка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hlavica</lemma>
+    <lemma annotation="klinca">hlavička</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>главица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="цвяха">шляпка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="najlo">kapo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Nagel">Kopf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="spijker">kop</lemma>
+  </synset>
+</multilingual-synset>

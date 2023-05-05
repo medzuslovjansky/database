@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1890"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1890"
+      steen:addition="(zvųči)"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+    >
+      zvųčati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гучаць</lemma>
+    <lemma annotation="дыял.">гучэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>звуча</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>znít</lemma>
+    <lemma>zvučet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zvučati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>звучи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dźwięczeć</lemma>
+    <lemma>brzmieć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>звучать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>znieť</lemma>
+    <lemma>zvučať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zvok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>звучати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>звучати</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>soni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Klang</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klinken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25202"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25202" steen:pos="f." steen:type="2" steen:same="ru j">
+      desnica
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>правая рука</lemma>
+    <lemma>правіца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>десница</lemma>
+    <lemma>дясна ръка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pravice</lemma>
+    <lemma>pravá ruka</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>десница</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>desnica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>десница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>prawa ręka</lemma>
+    <lemma annotation="ręka">prawica</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>правая рука</lemma>
+    <lemma>десница</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pravá ruka</lemma>
+    <lemma annotation="ruka">pravica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>desna roka</lemma>
+    <lemma>desnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>десна рука</lemma>
+    <lemma>десница</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>права рука</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dekstren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>rechte Hand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rechterhand</lemma>
+  </synset>
+</multilingual-synset>

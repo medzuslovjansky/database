@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10235"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10235"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v sh bm"
+    >
+      opravdati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апраўдаць</lemma>
+    <lemma>вызваліць</lemma>
+    <lemma>аслабаніць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>оправдае</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zprostit viny</lemma>
+    <lemma>osvobodit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opravdati</lemma>
+    <lemma>osloboditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оправда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uniewinnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оправдать</lemma>
+    <lemma>освободить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbaviť viny</lemma>
+    <lemma>oslobodiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oprosti</lemma>
+    <lemma>razglasi za nedolžnega</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ослободити кривице</lemma>
+    <lemma>прогласити невиним</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправдати</lemma>
+    <lemma>звільнити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>absolvi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>freisprechen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vrijspreken</lemma>
+  </synset>
+</multilingual-synset>

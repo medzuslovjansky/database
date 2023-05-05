@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16930"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16930" steen:pos="m." steen:type="2" steen:genesis="I">
+      dativ
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>давальны склон</lemma>
+    <lemma annotation="Грама.">датыў</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дателен</lemma>
+    <lemma>който дава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dativ</lemma>
+    <lemma>3.pád</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dativ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">датив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">celownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дательный падеж</lemma>
+    <lemma annotation="грам.">датив</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>datív</lemma>
+    <lemma>3.pád</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dajalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>датив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>давальний відмінок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>dativo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>datief</lemma>
+  </synset>
+</multilingual-synset>

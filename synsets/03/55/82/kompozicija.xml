@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35582"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35582"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl j"
+      steen:genesis="I"
+    >
+      kompozicija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="музыка">кампазіцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>произведение</lemma>
+    <lemma annotation="музика">композиция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kompozice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompozicija</lemma>
+    <lemma>skladba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>композиција</lemma>
+    <lemma annotation="музика">состав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompozycja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="музыка">композиция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kompozícia</lemma>
+    <lemma>skladba</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Sestavek</lemma>
+    <lemma>vezje</lemma>
+    <lemma>struktura</lemma>
+    <lemma>sestavek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>композиција</lemma>
+    <lemma>склоп</lemma>
+    <lemma>структура</lemma>
+    <lemma>састав</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="музика">композиція</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="muziko">komponado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Musik">Zusammensetzung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>compositie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36213"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36213"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      koordinacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каардынацыя</lemma>
+    <lemma>узгадненне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>координация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>koordinace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koordinacija</lemma>
+    <lemma>usklađenost</lemma>
+    <lemma>usklađivanje</lemma>
+    <lemma>usuglašenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>координација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koordynacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>координация</lemma>
+    <lemma>согласование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>koordinácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>usklajevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>координација</lemma>
+    <lemma>усаглашеност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>координація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kunordigo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Koordinierung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>coördinatie</lemma>
+  </synset>
+</multilingual-synset>

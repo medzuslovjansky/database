@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6190"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="6190" steen:pos="f." steen:type="1">tęžba</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазоў</lemma>
+    <lemma annotation="зап.">іск</lemma>
+    <lemma>цяжба</lemma>
+    <lemma>судовы працэс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жалба</lemma>
+    <lemma>иск</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>žaloba</lemma>
+    <lemma>stížnost</lemma>
+    <lemma annotation="zast.">tužba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tužba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тужба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skarga</lemma>
+    <lemma>zażalenie</lemma>
+    <lemma>proces sądowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иск</lemma>
+    <lemma>тяжба</lemma>
+    <lemma>судебный процесс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>žaloba</lemma>
+    <lemma>sťažnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritožba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тужба</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>позов</lemma>
+    <lemma>тяжба</lemma>
+    <lemma>судовий процес</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>complaint</lemma>
+    <lemma>proceso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beschwerde</lemma>
+    <lemma>Klage</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanklacht</lemma>
+  </synset>
+</multilingual-synset>

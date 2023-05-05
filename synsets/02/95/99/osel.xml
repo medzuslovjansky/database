@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29599"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29599"
+      steen:addition="(osla)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      osel
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="лаянка">асёл</lemma>
+    <lemma>дурань</lemma>
+    <lemma>балван</lemma>
+    <lemma>цурбан</lemma>
+    <lemma>ёлупень</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>магаре</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>osel</lemma>
+    <lemma>blbec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>magarac</lemma>
+    <lemma>magare</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>магаре едно</lemma>
+    <lemma annotation="навредливо">коњу</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="wyzw.">osioł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ругательство">осёл</lemma>
+    <lemma>дурак</lemma>
+    <lemma>болван</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>somár</lemma>
+    <lemma>blbec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rit</lemma>
+    <lemma>OSAO</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>магарац</lemma>
+    <lemma>осао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="лайка">осел</lemma>
+    <lemma>дурень</lemma>
+    <lemma>телепень</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>jackass</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Esel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ezel</lemma>
+    <lemma>sukkel</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35385"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35385"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru uk j"
+    >
+      pokojny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нябожчык</lemma>
+    <lemma>памерлы</lemma>
+    <lemma>памёрлы</lemma>
+    <lemma>спакойны</lemma>
+    <lemma>загінулы</lemma>
+    <lemma>загіблы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>на починалия</lemma>
+    <lemma annotation="починал">покойния</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zemřelý</lemma>
+    <lemma>zesnulý</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pokojan</lemma>
+    <lemma>mrtav</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>покоен</lemma>
+    <lemma>починат</lemma>
+    <lemma>мртов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zmarły</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>покойный</lemma>
+    <lemma>умерший</lemma>
+    <lemma>погибший</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zosnulý</lemma>
+    <lemma>zosnulý</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izumrli</lemma>
+    <lemma>mrtvi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>покојан</lemma>
+    <lemma>мртав</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>померлий</lemma>
+    <lemma>покійний</lemma>
+    <lemma>такий</lemma>
+    <lemma>що помер</lemma>
+    <lemma>загиблий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forpasita</lemma>
+    <lemma annotation="forpasita">malfrue</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstorben</lemma>
+    <lemma annotation="verstorben">spät</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wijlen</lemma>
+  </synset>
+</multilingual-synset>

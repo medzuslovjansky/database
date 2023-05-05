@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13434"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="13434"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru cs sh bm"
+    >
+      uvěrjenosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>упэўненасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>самочувствие</lemma>
+    <lemma>увереност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jistota</lemma>
+    <lemma>sebedůvěra</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>uvjerenost</lemma>
+    <lemma>uvjerenost</lemma>
+    <lemma>sigurnost</lemma>
+    <lemma>samopouzdanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увереност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pewność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>уверенность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>istota</lemma>
+    <lemma>sebadôvera</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>samozavest</lemma>
+    <lemma>prepričanje</lemma>
+    <lemma>varnost</lemma>
+    <lemma>zaupanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>увереност</lemma>
+    <lemma>убеђеност</lemma>
+    <lemma>сигурност</lemma>
+    <lemma>самопоуздање</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>упевненість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>certecon</lemma>
+    <lemma>fidon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sicherheit</lemma>
+    <lemma>Vertrauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zekerheid</lemma>
+    <lemma>overtuiging</lemma>
+  </synset>
+</multilingual-synset>

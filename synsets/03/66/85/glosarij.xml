@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36685"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36685"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      glosarij
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гласарый</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="лингвистика">глосар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>glosář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glosar</lemma>
+    <lemma>glosarij</lemma>
+    <lemma>glosa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="лингвистика">глосар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>glosariusz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>глоссарий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>glosár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glosar</lemma>
+    <lemma>Pojmovnik</lemma>
+    <lemma>glosar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>глосар</lemma>
+    <lemma>глосариј</lemma>
+    <lemma>глосаријум</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>глосарій</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>glosaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Glossar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>woordenlijst</lemma>
+  </synset>
+</multilingual-synset>

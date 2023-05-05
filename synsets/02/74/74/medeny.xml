@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27474"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27474" steen:pos="adj." steen:type="1">mědny</lemma>
+    <lemma steen:id="27474" steen:pos="adj." steen:type="1">měděny</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>медны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>меден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>měděný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bakren</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бакарен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miedziany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>медный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>medený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Bakar</lemma>
+    <lemma annotation="arch.">Medan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бакаран</lemma>
+    <lemma annotation="арх.">медан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мідний</lemma>
+    <lemma>мідяний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kupro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kupfer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koperen</lemma>
+  </synset>
+</multilingual-synset>

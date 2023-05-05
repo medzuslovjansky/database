@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5674"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5674" steen:pos="adj." steen:type="2" steen:same="z">
+      jednostajny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>манатонны</lemma>
+    <lemma>аднастайны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>еднообразен</lemma>
+    <lemma>монотонен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>monotónní</lemma>
+    <lemma>jednotvárný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>monoton</lemma>
+    <lemma>dosadan</lemma>
+    <lemma>jednoličan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>едноличен</lemma>
+    <lemma>монотон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>monotonny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>монотонный</lemma>
+    <lemma>однообразный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>monotónný</lemma>
+    <lemma>jednotvárny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>monotono</lemma>
+    <lemma>stabilno</lemma>
+    <lemma>dolgočasno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>монотон</lemma>
+    <lemma>устаљен</lemma>
+    <lemma>досадан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>одноманітний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>unutona</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>eintönig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>monotoon</lemma>
+  </synset>
+</multilingual-synset>

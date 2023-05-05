@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36406"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36406"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v cs yu"
+    >
+      vykati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выкаць</lemma>
+    <lemma>звяртацца на «вы»</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>говоря на Вие</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vykat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biti na Vi</lemma>
+    <lemma>govoriti komu Vi</lemma>
+    <lemma>obraćati se komu s Vi</lemma>
+    <lemma>oslovljavati koga s Vi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>персира</lemma>
+    <lemma>се обраќа некому на Вие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mówić na «vy»</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выкать</lemma>
+    <lemma>обращаться на «вы»</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vykať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>govoriti s tabo</lemma>
+    <lemma>da plačilo za vas</lemma>
+    <lemma>persirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>говорити на Ви</lemma>
+    <lemma>обраћати се на Ви</lemma>
+    <lemma>персирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>викати</lemma>
+    <lemma>звертатися на «ви»</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vi</lemma>
+    <lemma>adreson kun «vy»</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sie</lemma>
+    <lemma>die Adresse mit «vy»</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vousvoyeren</lemma>
+  </synset>
+</multilingual-synset>

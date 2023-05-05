@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1292"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1292"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru~ ub z yu bg~"
+    >
+      slina
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сліна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>слюнката</lemma>
+    <lemma>слюнка</lemma>
+    <lemma>храчки</lemma>
+    <lemma>слюней</lemma>
+    <lemma>капе</lemma>
+    <lemma>капе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>slina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pljuvačka</lemma>
+    <lemma>slina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слинка</lemma>
+    <lemma>плунка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ślina</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>слюна</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>slina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пљувачка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>слина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>salivo</lemma>
+    <lemma>salivon</lemma>
+    <lemma>sputum</lemma>
+    <lemma>drivel</lemma>
+    <lemma>bavi</lemma>
+    <lemma>slobber</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Speichel</lemma>
+    <lemma>Speichel</lemma>
+    <lemma>Sputum</lemma>
+    <lemma>Gefasel</lemma>
+    <lemma>sabbert</lemma>
+    <lemma>Sabber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>speeksel</lemma>
+    <lemma>spuug</lemma>
+    <lemma>slijm</lemma>
+  </synset>
+</multilingual-synset>

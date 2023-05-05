@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11062"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="11062"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      instruktor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інструктар</lemma>
+    <lemma>выкладчык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наставник</lemma>
+    <lemma>инструктор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cvičitel</lemma>
+    <lemma>učitel</lemma>
+    <lemma>instruktor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>instruktor</lemma>
+    <lemma>učitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>учител</lemma>
+    <lemma>инструктор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>instruktor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инструктор</lemma>
+    <lemma>преподаватель</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cvičiteľ</lemma>
+    <lemma>učiteľ</lemma>
+    <lemma>inštruktor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>inštruktor</lemma>
+    <lemma>učitelj</lemma>
+    <lemma>svetovalec</lemma>
+    <lemma>učitelja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инструктор</lemma>
+    <lemma>учитељ</lemma>
+    <lemma>саветник</lemma>
+    <lemma>наставник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інструктор</lemma>
+    <lemma>викладач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instruisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Lehrer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instructeur</lemma>
+  </synset>
+</multilingual-synset>

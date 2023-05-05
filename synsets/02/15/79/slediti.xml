@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21579"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21579"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru pl"
+    >
+      slěditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сачыць</lemma>
+    <lemma>цікаваць</lemma>
+    <lemma>слядзіць</lemma>
+    <lemma>шпікаваць</lemma>
+    <lemma>назіраць</lemma>
+    <lemma>наглядаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гледаме</lemma>
+    <lemma>гледаме.</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sledovat</lemma>
+    <lemma>pozorovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slijediti</lemma>
+    <lemma>promatrati</lemma>
+    <lemma>motriti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>следи</lemma>
+    <lemma>набљудува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obserwować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>следить</lemma>
+    <lemma>наблюдать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sledovať</lemma>
+    <lemma>pozorovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pogled">Nadaljnje</lemma>
+    <lemma>pazi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="погледом">следити</lemma>
+    <lemma>гледати</lemma>
+    <lemma>мотрити</lemma>
+    <lemma>посматрати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стежити</lemma>
+    <lemma>спостерігати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>observi</lemma>
+    <lemma>rigardi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>beobachten</lemma>
+    <lemma>beobachten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>volgen</lemma>
+    <lemma>observeren</lemma>
+  </synset>
+</multilingual-synset>

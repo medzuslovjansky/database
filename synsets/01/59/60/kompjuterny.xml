@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15960"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15960" steen:pos="adj." steen:type="1" steen:genesis="I">
+      kompjuterny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камп&apos;ютарны</lemma>
+    <lemma>кампутарны</lemma>
+    <lemma>кампутаровы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компютърен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>počítačový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kompjutorski</lemma>
+    <lemma>računalni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>компјутерски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komputerowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компьютерный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>počítačový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>računalnik</lemma>
+    <lemma>računalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компјутерски</lemma>
+    <lemma>рачунарски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>комп&apos;ютерний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komputilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Computer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>computer-</lemma>
+  </synset>
+</multilingual-synset>

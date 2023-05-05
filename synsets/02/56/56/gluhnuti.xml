@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25656"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25656" steen:pos="v.intr. ipf." steen:type="1">
+      gluhnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>глухнуць</lemma>
+    <lemma>станавіцца глухім</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="живо същество">оглушавам</lemma>
+    <lemma annotation="акустика">глъхна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hluchnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>glušiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>оглувува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>głuchnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>глохнуть</lemma>
+    <lemma>становиться глухим</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hluchnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gluveti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>глувети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>глухнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fariĝis surda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>taub</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doof worden</lemma>
+  </synset>
+</multilingual-synset>

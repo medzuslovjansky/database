@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17038" steen:pos="n." steen:type="1">sklonjeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">скланенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>склонение</lemma>
+    <lemma>словоизменение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skloňování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>deklinacija</lemma>
+    <lemma>sklonidba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="граматика">деклинација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="gram.">odmiana</lemma>
+    <lemma>deklinacja</lemma>
+    <lemma>fleksja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">склонение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skloňovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="slovnica">Odklon</lemma>
+    <lemma>kakor ga padežima</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="граматика">деклинација</lemma>
+    <lemma>промена по падежима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="грам.">відміна</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>deklinacio</lemma>
+    <lemma>fleksio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Deklination</lemma>
+    <lemma>Wende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gram.">verbuiging</lemma>
+    <lemma>declinatie</lemma>
+    <lemma>inflectie</lemma>
+  </synset>
+</multilingual-synset>

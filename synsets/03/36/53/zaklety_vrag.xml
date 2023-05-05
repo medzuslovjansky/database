@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33653"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33653"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      zaklęty vråg
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>закляты вораг</lemma>
+    <lemma>выкляты вораг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заклет враг</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapřísáhlý nepřítel</lemma>
+    <lemma>úhlavní nepřítel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zakleti neprijatelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заклет враг</lemma>
+    <lemma>заколнат непријател</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaprzysięgły wróg</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заклятый враг</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaprisahaný nepriateľ</lemma>
+    <lemma>úhlavný nepriateľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zapriseženi sovražnik</lemma>
+    <lemma>hudič preklet</lemma>
+    <lemma>preklet sovražnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заклети непријатељ</lemma>
+    <lemma>заклети враг</lemma>
+    <lemma>уклети непријатељ</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>заклятий ворог</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĵurinta malamiko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erzfeind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gezworen vijand</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34833"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34833"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="j"
+    >
+      bajati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чараваць</lemma>
+    <lemma>вядзьмарыць</lemma>
+    <lemma>зачароўваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бая</lemma>
+    <lemma>чародействам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kouzlit</lemma>
+    <lemma>čarovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čarati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="прават магии">бае</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czarować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>колдовать</lemma>
+    <lemma>заговаривать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kúzliť</lemma>
+    <lemma>čarovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>čarati</lemma>
+    <lemma>coprati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бајати</lemma>
+    <lemma>бавити се магијским ритуалима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чаклувати</lemma>
+    <lemma>займатися магією</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>praktiko sorĉado</lemma>
+    <lemma>Conjure</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>zaubern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>toveren</lemma>
+  </synset>
+</multilingual-synset>

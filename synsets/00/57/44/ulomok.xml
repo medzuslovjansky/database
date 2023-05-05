@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5744"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5744" steen:pos="m." steen:type="2" steen:same="z yu">
+      ulomȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дроб</lemma>
+    <lemma>шрот</lemma>
+    <lemma>дробат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дроб</lemma>
+    <lemma>фракция</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zlomek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>razlomak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дропка</lemma>
+    <lemma annotation="производ од дробење, дел од нешто">фракција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ułamek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дробь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zlomok</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ulomek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разломак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дріб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="rompita nombro">frakcio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bruch</lemma>
+    <lemma>Bruchzahl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="getal">breuk</lemma>
+  </synset>
+</multilingual-synset>

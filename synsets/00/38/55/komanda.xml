@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3855"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3855"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v"
+      steen:genesis="I"
+    >
+      komanda
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каманда</lemma>
+    <lemma>атрад</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отбор</lemma>
+    <lemma>състав</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tým</lemma>
+    <lemma>družstvo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>momčad</lemma>
+    <lemma>tim</lemma>
+    <lemma>ekipa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>команда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zespół</lemma>
+    <lemma>drużyna</lemma>
+    <lemma>oddział</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>команда</lemma>
+    <lemma>отряд</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tím</lemma>
+    <lemma>družstvo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ekipa</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тим</lemma>
+    <lemma>екипа</lemma>
+    <lemma>дружина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>команда</lemma>
+    <lemma>загін</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>teamo</lemma>
+    <lemma>taĉmento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Team</lemma>
+    <lemma>Kader</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>team</lemma>
+    <lemma>commando</lemma>
+  </synset>
+</multilingual-synset>

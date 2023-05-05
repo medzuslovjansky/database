@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25587"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="25587"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      gastronom
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гурман</lemma>
+    <lemma>гастраном</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гурмѐ</lemma>
+    <lemma>изискана кухня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>gurmán</lemma>
+    <lemma>labužník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gastronom</lemma>
+    <lemma>gurman</lemma>
+    <lemma>sladokusac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гастроном</lemma>
+    <lemma>гурман</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>smakosz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гурман</lemma>
+    <lemma>гастроном</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>gurmán</lemma>
+    <lemma>labužník</lemma>
+    <lemma>gastron´m</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gurman</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гурман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гурман</lemma>
+    <lemma>гастроном</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>gastronomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gourmet</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gastronomisch</lemma>
+  </synset>
+</multilingual-synset>

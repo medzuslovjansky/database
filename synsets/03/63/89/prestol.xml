@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36389"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36389" steen:pos="m." steen:type="1" steen:same="v sk j">
+      prěstol
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пасад</lemma>
+    <lemma>трон</lemma>
+    <lemma annotation="саст.">столец</lemma>
+    <lemma annotation="саст.">маястат</lemma>
+    <lemma>прастол</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>трон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trůn</lemma>
+    <lemma>stolec</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>столъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prijestolje</lemma>
+    <lemma>prijesto</lemma>
+    <lemma>tron</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>престол</lemma>
+    <lemma>трон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tron</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>престол</lemma>
+    <lemma>трон</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>trón</lemma>
+    <lemma>prestol</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>presto</lemma>
+    <lemma>tron</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>престо</lemma>
+    <lemma>трон</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>престол</lemma>
+    <lemma>трон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tronon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Thron</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>troon</lemma>
+  </synset>
+</multilingual-synset>

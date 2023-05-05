@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24009"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru uk pl sh"
+    >
+      jednakovy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аднолькавы</lemma>
+    <lemma>ідэнтычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>еднакъв</lemma>
+    <lemma>идентичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stejný</lemma>
+    <lemma>identický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jednak</lemma>
+    <lemma>isti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>еднакви</lemma>
+    <lemma>идентични</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>identyczny</lemma>
+    <lemma>jednakowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>одинаковый</lemma>
+    <lemma>идентичный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rovnaký</lemma>
+    <lemma>identický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>enak</lemma>
+    <lemma>enako</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>једнак</lemma>
+    <lemma>исти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>однаковий</lemma>
+    <lemma>ідентичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>identajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>identisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>identiek</lemma>
+  </synset>
+</multilingual-synset>

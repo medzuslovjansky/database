@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31128"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31128"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="D"
+    >
+      verbovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вербаваць</lemma>
+    <lemma>прыцягваць</lemma>
+    <lemma>рэкрутаваць</lemma>
+    <lemma annotation="людзей">набіраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вербувам</lemma>
+    <lemma>набирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>verbovat</lemma>
+    <lemma>rekrutovat</lemma>
+    <lemma>naverbovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>regrutirati</lemma>
+    <lemma>(u)novačiti</lemma>
+    <lemma>moblizirati</lemma>
+    <lemma>vrbovati</lemma>
+    <lemma>pridobiti</lemma>
+    <lemma>pridobijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>врбува</lemma>
+    <lemma>регрутира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>werbować</lemma>
+    <lemma>rekrutować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вербовать</lemma>
+    <lemma>рекрутировать</lemma>
+    <lemma annotation="людей">набирать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>verbovať</lemma>
+    <lemma>regrutovať</lemma>
+    <lemma>naverbovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zaposliti</lemma>
+    <lemma>rekrut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врбовати</lemma>
+    <lemma>регрутовати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вербувати</lemma>
+    <lemma>рекрутувати</lemma>
+    <lemma annotation="людей">набирати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rekruto</lemma>
+    <lemma>varbi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rekrut</lemma>
+    <lemma>tragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werven</lemma>
+    <lemma>rekruteren</lemma>
+  </synset>
+</multilingual-synset>

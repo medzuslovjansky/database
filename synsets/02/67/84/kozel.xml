@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26784"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26784"
+      steen:addition="(kozla)"
+      steen:pos="m.anim."
+      steen:type="1"
+    >
+      kozel
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>казёл</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>козел</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kozel</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jarac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јарец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kozioł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>козёл</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cap</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Kozorog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јарац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>козел</lemma>
+    <lemma>цап</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>billy kapro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Ziegenbock</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bok</lemma>
+  </synset>
+</multilingual-synset>

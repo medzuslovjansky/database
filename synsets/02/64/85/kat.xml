@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26485"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26485"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ub z"
+    >
+      kat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>палач</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>krvnik</lemma>
+    <lemma>dželat</lemma>
+    <lemma>egzekutor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џелат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>палач</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Hangman</lemma>
+    <lemma>rabelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>џелат</lemma>
+    <lemma>крвник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzekutiston</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Henker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>beul</lemma>
+  </synset>
+</multilingual-synset>

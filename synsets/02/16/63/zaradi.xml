@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21663"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21663"
+      steen:addition="(+2)"
+      steen:pos="prep."
+      steen:type="1"
+      steen:same="v j"
+    >
+      zaradi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзеля</lemma>
+    <lemma>з-за</lemma>
+    <lemma>праз</lemma>
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заради</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvůli</lemma>
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>radi</lemma>
+    <lemma>zbog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заради</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na rzecz</lemma>
+    <lemma>ze względu na</lemma>
+    <lemma>z uwagi na</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ради</lemma>
+    <lemma>из-за</lemma>
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kvôli</lemma>
+    <lemma>pre</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zavoljo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заради</lemma>
+    <lemma>ради</lemma>
+    <lemma>због</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>заради</lemma>
+    <lemma>із-за</lemma>
+    <lemma>для</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pro</lemma>
+    <lemma>pro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>im Interesse der</lemma>
+    <lemma>wegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ten behoeve van</lemma>
+    <lemma>met het oog op</lemma>
+  </synset>
+</multilingual-synset>

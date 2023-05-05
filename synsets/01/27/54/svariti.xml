@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12754"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="12754" steen:pos="v.tr. pf." steen:type="1">svariti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зварыць</lemma>
+    <lemma>прыгатаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се готви</lemma>
+    <lemma annotation="tr.">готви</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>uvařit</lemma>
+    <lemma annotation="jídlo">svařit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">skuhati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свари</lemma>
+    <lemma>се готви</lemma>
+    <lemma annotation="пр.">да вари</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ugotować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сварить</lemma>
+    <lemma>приготовить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>uvariť</lemma>
+    <lemma annotation="jedlo">zvariť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Cook</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>скувати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зварити</lemma>
+    <lemma>приготувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kuiristo</lemma>
+    <lemma annotation="tr.">sxvelajxon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Koch</lemma>
+    <lemma annotation="tr.">boil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koken</lemma>
+    <lemma>aan de kook brengen</lemma>
+  </synset>
+</multilingual-synset>

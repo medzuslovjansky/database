@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8505"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="8505"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kodovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кадзіраваць</lemma>
+    <lemma>кадаваць</lemma>
+    <lemma>шыфраваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кодирам</lemma>
+    <lemma>криптирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kódovat</lemma>
+    <lemma>šifrovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kodirati</lemma>
+    <lemma>šifrirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кодира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakodowywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кодировать</lemma>
+    <lemma>шифровать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kódovať</lemma>
+    <lemma>šifrovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kodiranje</lemma>
+    <lemma>šifriranje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кодирати</lemma>
+    <lemma>шифровати</lemma>
+    <lemma>шифрирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кодувати</lemma>
+    <lemma>шифрувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kodas</lemma>
+    <lemma>ĉifri</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kodieren</lemma>
+    <lemma>zu verschlüsseln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>coderen</lemma>
+  </synset>
+</multilingual-synset>

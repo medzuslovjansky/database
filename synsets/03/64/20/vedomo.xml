@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36420"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36420"
+      steen:pos="adv."
+      steen:type="2"
+      steen:same="v pl (cs)"
+    >
+      vědomo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вядома</lemma>
+    <lemma>слынна</lemma>
+    <lemma>ведама</lemma>
+    <lemma>ясна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Очевидно е</lemma>
+    <lemma>че ясно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>očividně</lemma>
+    <lemma>(je) známo</lemma>
+    <lemma>samozřejmě</lemma>
+    <lemma>jasně</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>izvjesno</lemma>
+    <lemma>očigledno</lemma>
+    <lemma>jasno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>извесно</lemma>
+    <lemma>очигледно</lemma>
+    <lemma>јасно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wiadomo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>известно</lemma>
+    <lemma>ясно</lemma>
+    <lemma>ве́домо</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vedomo</lemma>
+    <lemma>(je) známe</lemma>
+    <lemma>samozrejmo</lemma>
+    <lemma>jasno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>seveda</lemma>
+    <lemma>jasno</lemma>
+    <lemma>jasno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>извесно</lemma>
+    <lemma>очигледно</lemma>
+    <lemma>јасно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відомо</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>evidente</lemma>
+    <lemma>klare</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>offensichtlich</lemma>
+    <lemma>klar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>duidelijk</lemma>
+    <lemma>vanzelfsprekend</lemma>
+  </synset>
+</multilingual-synset>

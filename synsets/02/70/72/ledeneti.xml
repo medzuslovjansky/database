@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27072"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27072"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      leděněti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ледзянець</lemma>
+    <lemma>дубець</lemma>
+    <lemma>замярзаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замразявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mrazit se</lemma>
+    <lemma>zamražovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zamrzavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>замрзнува</lemma>
+    <lemma>мрзне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamrażać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>леденеть</lemma>
+    <lemma>замерзать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mraziť sa</lemma>
+    <lemma>zamrazovať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamrzivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>замрзавати</lemma>
+    <lemma>замрзивати</lemma>
+    <lemma>мрзнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>замерзати</lemma>
+    <lemma>леденіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frostigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einfrieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevriezen</lemma>
+  </synset>
+</multilingual-synset>

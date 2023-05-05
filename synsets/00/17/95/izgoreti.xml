@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1795"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1795" steen:pos="v.intr. pf." steen:type="1">
+      izgorěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>згарэць</lemma>
+    <lemma>выгарэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изгарям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>shořet</lemma>
+    <lemma>vyhořet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgorjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изгори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wypalić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сгореть</lemma>
+    <lemma>выгореть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zhorieť</lemma>
+    <lemma>vyhorieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Izgorelost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изгорети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>згоріти</lemma>
+    <lemma>вигоріти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bruligi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>brennen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opbranden</lemma>
+  </synset>
+</multilingual-synset>

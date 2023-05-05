@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="30196"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="30196"
+      steen:addition="(råzgrěje)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      råzgrěti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разагрэць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>загрейте</lemma>
+    <lemma>наточи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozehřát</lemma>
+    <lemma>ohřát</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razgrejati</lemma>
+    <lemma>zagrijati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>разгрее</lemma>
+    <lemma>загрее</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozgrzać</lemma>
+    <lemma>ogrzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>разогреть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozohriať</lemma>
+    <lemma>ohriať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razgrejati</lemma>
+    <lemma>toplo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разгрејати</lemma>
+    <lemma>загрејати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розігріти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varmaj</lemma>
+    <lemma>hejti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufwärmen</lemma>
+    <lemma>erhitzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opwarmen</lemma>
+    <lemma>verhitten</lemma>
+  </synset>
+</multilingual-synset>

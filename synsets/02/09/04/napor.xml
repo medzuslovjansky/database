@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20904"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20904" steen:pos="m." steen:type="1" steen:same="v z bg">
+      napor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напор</lemma>
+    <lemma>ціск</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>налягане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tlak</lemma>
+    <lemma>nápor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tlak</lemma>
+    <lemma>pritisak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>притисок</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>presja</lemma>
+    <lemma>nacisk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напор</lemma>
+    <lemma>давление</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tlak</lemma>
+    <lemma>nápor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pritisk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>притисак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напір</lemma>
+    <lemma>тиск</lemma>
+    <lemma>натиск</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Druck</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>druk</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36674"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36674"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="E"
+    >
+      bufer
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>буфер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буфер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>buffer</lemma>
+    <lemma>vyrovnávací paměť</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>buffer</lemma>
+    <lemma>bafer</lemma>
+    <lemma>međumemorija</lemma>
+    <lemma>međuspremnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бафер</lemma>
+    <lemma>меѓупростор</lemma>
+    <lemma>мемориски простор за податоци</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bufor</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буфер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zásobník</lemma>
+    <lemma>vyrovnávacia pamäť</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pufer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бафер</lemma>
+    <lemma>међупростор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>буфер</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bufro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Puffer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>buffer</lemma>
+  </synset>
+</multilingual-synset>

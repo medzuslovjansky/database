@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36009"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl j"
+      steen:genesis="E"
+    >
+      flomaster
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фламастар</lemma>
+    <lemma>маркер</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>маркер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>fixka</lemma>
+    <lemma>fixační pero</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>flomaster</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фломастер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mazak</lemma>
+    <lemma>marker</lemma>
+    <lemma>flamaster</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фломастер</lemma>
+    <lemma>маркер</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fixka</lemma>
+    <lemma>fixa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>čutil pero</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фломастер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фломастер</lemma>
+    <lemma>маркер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>markilo plumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Textmarker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>viltstift</lemma>
+    <lemma>markeerstift</lemma>
+  </synset>
+</multilingual-synset>

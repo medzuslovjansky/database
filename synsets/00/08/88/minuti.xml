@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="888"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="888" steen:pos="v.tr. pf." steen:type="1">minųti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мінуць</lemma>
+    <lemma>прайсці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мина</lemma>
+    <lemma>премина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>minout</lemma>
+    <lemma>uplynout</lemma>
+    <lemma annotation="čas">projít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>minuti</lemma>
+    <lemma>proći</lemma>
+    <lemma>prestati</lemma>
+    <lemma>proteći</lemma>
+    <lemma>isteći</lemma>
+    <lemma>izgubiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мина</lemma>
+    <lemma>помина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>minąć</lemma>
+    <lemma annotation="czas">upłynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>минуть</lemma>
+    <lemma>пройти</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>minúť</lemma>
+    <lemma>uplynúť</lemma>
+    <lemma annotation="čas">prejsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mimo</lemma>
+    <lemma>mimo</lemma>
+    <lemma>minut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проћи</lemma>
+    <lemma>протећи</lemma>
+    <lemma>минути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>проминути</lemma>
+    <lemma>пройти повз</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pasi</lemma>
+    <lemma>pasi</lemma>
+    <lemma>preterpasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verstreichen</lemma>
+    <lemma>Pass</lemma>
+    <lemma>vergehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorbijgaan</lemma>
+    <lemma>verstrijken</lemma>
+    <lemma>verlopen</lemma>
+  </synset>
+</multilingual-synset>

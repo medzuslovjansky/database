@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29883"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29883" steen:pos="adj." steen:type="1" steen:genesis="I">
+      personaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>персанальны</lemma>
+    <lemma>асабісты</lemma>
+    <lemma>індывідуальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>персонален</lemma>
+    <lemma>индивидуален</lemma>
+    <lemma>личен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>personální</lemma>
+    <lemma>osobní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ličan</lemma>
+    <lemma>osoban</lemma>
+    <lemma>subjektivan</lemma>
+    <lemma>privatan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>личен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>personalny</lemma>
+    <lemma>indywidualny</lemma>
+    <lemma>osobisty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>персональный</lemma>
+    <lemma>индивидуальный</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>personálny</lemma>
+    <lemma>osobný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>osebni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>личан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>персональний</lemma>
+    <lemma>індивідуальний</lemma>
+    <lemma>особистий</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>persona</lemma>
+    <lemma>individua</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>persönliche</lemma>
+    <lemma>individuelle</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>persoonlijk</lemma>
+    <lemma>persoons-</lemma>
+    <lemma>personeels-</lemma>
+  </synset>
+</multilingual-synset>

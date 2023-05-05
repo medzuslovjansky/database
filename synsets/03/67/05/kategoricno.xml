@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36705"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36705"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kategorično
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>катэгарычна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>точно</lemma>
+    <lemma>безусловно</lemma>
+    <lemma>категорично</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kategoricky</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kategorično</lemma>
+    <lemma>kategorički</lemma>
+    <lemma>izričito</lemma>
+    <lemma>bezuvjetno</lemma>
+    <lemma>odlučno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>категорично</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kategorycznie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>категорически</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kategoricky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kategorično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>категорички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>категорично</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kategorie</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>kategorisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>categorisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3555"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3555" steen:pos="v.tr. ipf." steen:type="1">
+      uvaljnjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звальняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>освобождаване от отговорност</lemma>
+    <lemma>да отхвърли</lemma>
+    <lemma annotation="за да спре да работи">да я отхвърли</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="práce">propouštět</lemma>
+    <lemma annotation="funkce">uvolňovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="npr. posao, rad">usporavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="прекинува вработување">напушта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. praca">zwalniać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>увольнять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="práca">prepúšťať</lemma>
+    <lemma annotation="funkcia">uvoľňovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="npr. delo, delo">počasen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="нпр. посао, рад">успоравати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>звільняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eligi</lemma>
+    <lemma>eksigi</lemma>
+    <lemma annotation="ĉesigi dungadon">fajro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entladen</lemma>
+    <lemma>entlassen</lemma>
+    <lemma annotation="beenden Beschäftigung">Feuer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontslaan</lemma>
+  </synset>
+</multilingual-synset>

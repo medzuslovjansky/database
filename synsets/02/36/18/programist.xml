@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23618"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23618"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      programist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>праграміст</lemma>
+    <lemma>праграмнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>програмист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>programátor</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>programer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>програмер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>programista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>программист</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>programátor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razvijalec programske opreme</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>програмер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>програміст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>programisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Programmierer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>programmeur</lemma>
+  </synset>
+</multilingual-synset>

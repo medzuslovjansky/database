@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3222"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3222" steen:pos="m." steen:type="1">rod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>род</lemma>
+    <lemma>сорт</lemma>
+    <lemma>гатунак</lemma>
+    <lemma>кшталт</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>добър</lemma>
+    <lemma>като</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>druh</lemma>
+    <lemma>typ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrsta</lemma>
+    <lemma>rod</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вид</lemma>
+    <lemma>сорта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rodzaj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>род</lemma>
+    <lemma>сорт</lemma>
+    <lemma>вид</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>druh</lemma>
+    <lemma>typ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vrsta</lemma>
+    <lemma>rod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врста</lemma>
+    <lemma>род</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>рід</lemma>
+    <lemma>сорт</lemma>
+    <lemma>вид</lemma>
+    <lemma>різновид</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>afabla</lemma>
+    <lemma>speco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Art</lemma>
+    <lemma>Sorte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>soort</lemma>
+  </synset>
+</multilingual-synset>

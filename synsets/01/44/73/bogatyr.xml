@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14473"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="14473"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru uk z"
+    >
+      bogatyr
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>волат</lemma>
+    <lemma>герой</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>герой</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hrdina</lemma>
+    <lemma>bohatýr</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>батꙑрь</lemma>
+    <lemma>баатꙑрь</lemma>
+    <lemma>и̑споли́нъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>heroj</lemma>
+    <lemma>junak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>херој</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bohater</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>богатырь</lemma>
+    <lemma>герой</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hrdina</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>junak</lemma>
+    <lemma>heroj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>херој</lemma>
+    <lemma>јунак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>богатир</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>heroo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Held</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>held</lemma>
+  </synset>
+</multilingual-synset>

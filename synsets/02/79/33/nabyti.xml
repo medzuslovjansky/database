@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27933"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27933"
+      steen:addition="(nabųde)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ub z sh~"
+    >
+      nabyti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>набыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>набавям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nabýt</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nabaviti</lemma>
+    <lemma annotation="se">opskrbiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>набави</lemma>
+    <lemma>стекне</lemma>
+    <lemma>здоби</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nabyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приобрести</lemma>
+    <lemma>завести</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nadobudnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dobili nekaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>набавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>набути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>akiras</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>erwerben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanschaffen</lemma>
+    <lemma>aankopen</lemma>
+  </synset>
+</multilingual-synset>

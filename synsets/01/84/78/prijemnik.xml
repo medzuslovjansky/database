@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18478"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18478" steen:pos="m." steen:type="1" steen:same="ru cz sh">
+      prijemnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прымач</lemma>
+    <lemma>прымальнік</lemma>
+    <lemma>прыёмнік</lemma>
+    <lemma>радыёпрымач</lemma>
+    <lemma>радыёпрыёмнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>радио приемник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přijímač</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>radioprijamnik</lemma>
+    <lemma>prijemnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>радио приемник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odbiornik radiowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приёмник</lemma>
+    <lemma>радиоприёмник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prijímač</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>radijski sprejemnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радио пријемник</lemma>
+    <lemma>пријемник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приймач</lemma>
+    <lemma>радіоприймач</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>radioaparato ricevilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Funkempfänger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontvangsttoestel</lemma>
+  </synset>
+</multilingual-synset>

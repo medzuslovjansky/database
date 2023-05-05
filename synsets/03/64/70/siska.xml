@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36470"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36470"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z yu bm"
+    >
+      šiška
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шышка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="на иглолистни">конус</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šiška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>češer</lemma>
+    <lemma>šišarka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шишарка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szyszka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шишка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>šiška</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Šišarka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шишарка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шишка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de konifero">konuson</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einem Nadelbaum">Kegel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dennenappel</lemma>
+  </synset>
+</multilingual-synset>

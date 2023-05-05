@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19757"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19757" steen:pos="f." steen:type="1" steen:same="pl cz sh">
+      jedinačka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дачка">адзінае дзіця ў сям&apos;і</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>единствено дете в семейството [дъщеря]</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dívka">jedináček</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jedinica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>единица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jedynaczka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="дочь">единственный ребёнок в семье</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="dievča">jedináčik</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="otrok">enota</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="дете">јединица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>єдина дочка</lemma>
+    <lemma>одиначка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nur infano en familio [filino]</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nur Kind in einer Familie [Tochter]</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>enig kind</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11401"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11401" steen:pos="n." steen:type="1" steen:same="v z">
+      prězvišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мянушка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прозвище</lemma>
+    <lemma>прякор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přezdívka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadimak</lemma>
+    <lemma>špicname</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прекар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przezwisko</lemma>
+    <lemma>ksywka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прозвище</lemma>
+    <lemma>кличка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prezývka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vzdevek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>надимак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прізвисько</lemma>
+    <lemma>кличка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alnomo</lemma>
+    <lemma>kromnomo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Spitznamen</lemma>
+    <lemma>Moniker</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bijnaam</lemma>
+    <lemma>schuilnaam</lemma>
+    <lemma>artiestennaam</lemma>
+    <lemma>alias</lemma>
+  </synset>
+</multilingual-synset>

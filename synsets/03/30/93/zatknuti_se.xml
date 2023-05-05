@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33093"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33093"
+      steen:pos="v.refl. pf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      zatknųti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>захраснуць</lemma>
+    <lemma>завязнуць</lemma>
+    <lemma>затрымацца</lemma>
+    <lemma>засесці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заклещя се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zacpat si</lemma>
+    <lemma annotation="uši, pusu">zavřít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zaglaviti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се залепи</lemma>
+    <lemma>се заглави</lemma>
+    <lemma>се зачепи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>utknąć</lemma>
+    <lemma>zatkać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>застрять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapchať si</lemma>
+    <lemma annotation="uši, pusu">zatvoriť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Zatakniti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заглавити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>застрягти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esti ŝtopita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>festsitzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vastzitten</lemma>
+  </synset>
+</multilingual-synset>

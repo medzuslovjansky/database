@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5811"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5811"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="j"
+    >
+      izględati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выглядаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изглеждам като</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vypadat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgledati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изгледа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="mięc wygląd">wyglądać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выглядеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyzerať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изгледати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виглядати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aspekti</lemma>
+    <lemma>aperi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aussehen</lemma>
+    <lemma>erscheinen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eruitzien</lemma>
+  </synset>
+</multilingual-synset>

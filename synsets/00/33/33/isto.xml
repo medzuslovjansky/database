@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3333"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3333" steen:pos="adv." steen:type="1">isto</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вядома</lemma>
+    <lemma>безумоўна</lemma>
+    <lemma>бясспрэчна</lemma>
+    <lemma>несумненна</lemma>
+    <lemma>неадменна</lemma>
+    <lemma>нагвалт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>разбира се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jistě</lemma>
+    <lemma>určitě</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dakako</lemma>
+    <lemma>doista</lemma>
+    <lemma>jamačno</lemma>
+    <lemma>svakako</lemma>
+    <lemma>sigurno</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>секако</lemma>
+    <lemma>сигурно дека е</lemma>
+    <lemma>се разбира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>na pewno</lemma>
+    <lemma>z pewnością</lemma>
+    <lemma>na pewno</lemma>
+    <lemma>pewnie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конечно</lemma>
+    <lemma>безусловно</lemma>
+    <lemma>непременно</lemma>
+    <lemma>наверняка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>iste</lemma>
+    <lemma>určite</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gotovo</lemma>
+    <lemma>gotovo</lemma>
+    <lemma>vsekakor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одређено</lemma>
+    <lemma>сигурно</lemma>
+    <lemma>засигурно</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дійсно</lemma>
+    <lemma>певно</lemma>
+    <lemma>звичайно</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>certe</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bestimmt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zeker</lemma>
+    <lemma>beslist</lemma>
+  </synset>
+</multilingual-synset>

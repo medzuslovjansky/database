@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36843"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36843"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z bm"
+    >
+      dověrjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>давяраць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>доверявам</lemma>
+    <lemma>вервам</lemma>
+    <lemma>поверявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>důvěřovat</lemma>
+    <lemma>věřit</lemma>
+    <lemma>mít důvěru</lemma>
+    <lemma>spoléhat se na</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vjerovati</lemma>
+    <lemma>imati povjerenje</lemma>
+    <lemma>pouzdavati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се доверува</lemma>
+    <lemma>верувам</lemma>
+    <lemma>имам доверба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ufać</lemma>
+    <lemma>wierzyć</lemma>
+    <lemma>mieć zaufanie</lemma>
+    <lemma>dowierzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>доверять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dôverovať</lemma>
+    <lemma>veriť</lemma>
+    <lemma>mať dôveru</lemma>
+    <lemma>spoliehať sa na</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zaupati</lemma>
+    <lemma>imeti zaupanje</lemma>
+    <lemma>zanašati se</lemma>
+    <lemma>verovati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имати поверење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довіряти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fidi</lemma>
+    <lemma>meti konfidon</lemma>
+    <lemma>konfidi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vertrauen</lemma>
+    <lemma>Vertrauen setzen</lemma>
+    <lemma>vertrauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrouwen hebben</lemma>
+  </synset>
+</multilingual-synset>

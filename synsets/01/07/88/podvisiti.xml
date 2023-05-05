@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10788"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="10788" steen:pos="v.tr. pf." steen:type="1">
+      podvisiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыпыніць</lemma>
+    <lemma>падвесіць</lemma>
+    <lemma>падважыць</lemma>
+    <lemma>замарозіць</lemma>
+    <lemma annotation="на час">змарозіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пауза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozastavit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>odgoditi</lemma>
+    <lemma>suspendirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>суспендира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="coś w czasie">zawiesić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приостановить</lemma>
+    <lemma>подвесить</lemma>
+    <lemma annotation="на время">заморозить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pozastaviť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odloži</lemma>
+    <lemma>prekine</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одложити</lemma>
+    <lemma>суспендовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>призупинити</lemma>
+    <lemma annotation="на якийсь час">заморозити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>interrompi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aussetzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schorsen</lemma>
+  </synset>
+</multilingual-synset>

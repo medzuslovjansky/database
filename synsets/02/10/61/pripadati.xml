@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21061" steen:pos="v.intr. ipf." steen:type="1">
+      pripadati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="на дзень, на долю">выпадаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="в определен ден, за някой много">през есента</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>připadat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pripadati</lemma>
+    <lemma>padati</lemma>
+    <lemma>padati u dio</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>паѓа</lemma>
+    <lemma>припаѓа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na jakiś dzień, komuś w udziale">przypadać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на день, на долю">выпадать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pripadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pripadajo</lemma>
+    <lemma>kaplja</lemma>
+    <lemma>kaplja na delu</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>припадати</lemma>
+    <lemma>падати</lemma>
+    <lemma>падати у део</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="на день">припадати</lemma>
+    <lemma annotation="на долю">випадати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="unu tagon, por ies multe">fali</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="an einem bestimmten Tag, an jemandes lot">fallen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="op een bepaald tijdstip">vallen</lemma>
+    <lemma>toevallen</lemma>
+    <lemma>toekomen</lemma>
+  </synset>
+</multilingual-synset>

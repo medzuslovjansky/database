@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36651"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36651"
+      steen:pos="n.sg."
+      steen:type="2"
+      steen:same="ru be j"
+    >
+      neodobrjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>няўхвала</lemma>
+    <lemma>неўхвальванне</lemma>
+    <lemma>неадабрэнне</lemma>
+    <lemma>асуджэнне</lemma>
+    <lemma>ганьбаванне</lemma>
+    <lemma>ганенне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>неодобрение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nesouhlas</lemma>
+    <lemma>neschválení</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neodobrenje</lemma>
+    <lemma>neodobravanje</lemma>
+    <lemma>nepristanak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неодобрување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dezaprobata</lemma>
+    <lemma>potępienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неодобрение</lemma>
+    <lemma>осуждение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nesúhlas</lemma>
+    <lemma>neschválenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neodobravanje</lemma>
+    <lemma>neodobravanje</lemma>
+    <lemma>neupoštevanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неодобрење</lemma>
+    <lemma>неодобравање</lemma>
+    <lemma>непристанак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>несхвалення</lemma>
+    <lemma>засудження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malaprobon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Missbilligung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afkeuring</lemma>
+  </synset>
+</multilingual-synset>

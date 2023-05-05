@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22908"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22908" steen:pos="m.anim." steen:type="3" steen:same="sh">
+      mŕtvozornik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патолагаанатам</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>патологоанатом</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>koroner</lemma>
+    <lemma>soudní lékař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mrtvozornik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мртвопроверител</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>koroner</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>патологоанатом</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>koroner</lemma>
+    <lemma>súdny lekár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Mrliški oglednik</lemma>
+    <lemma>koroner patolog</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мртвозорник</lemma>
+    <lemma>коронер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>патологоанатом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mortenketisto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gerichtsmediziner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lijkschouwer</lemma>
+  </synset>
+</multilingual-synset>

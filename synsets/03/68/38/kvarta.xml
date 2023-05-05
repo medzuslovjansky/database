@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36838"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36838"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kvarta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="музычны інтэрвал">кварта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кварта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvarta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvarta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="музички интервал">кварта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwarta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="муз. интервал">кварта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvarta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>okolico</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="интервал у музици">кварта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="музичний інтервал">кварта</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kvarto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="musikalisches Intervall">viertens</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwart</lemma>
+  </synset>
+</multilingual-synset>

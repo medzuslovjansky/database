@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34890"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34890" steen:pos="n." steen:type="1" steen:same="v pl bg">
+      dopȯlnjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="грам.">дапаўненне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>обект</lemma>
+    <lemma>вещ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="gram.">doplněk</lemma>
+    <lemma>rozvíjejcí větný člen</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="gram.">objekt</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="граматика">објект</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dopełnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">дополнение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="gram.">doplnok</lemma>
+    <lemma>rozvíjajúci vetný člen</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>objekt (g).</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="грам.">објекат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="граматич.">додаток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>objekto</lemma>
+    <lemma>komplemento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Objekt</lemma>
+    <lemma>Komplement</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>complement</lemma>
+  </synset>
+</multilingual-synset>

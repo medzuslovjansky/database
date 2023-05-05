@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21862"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21862"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cz"
+    >
+      postigati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разумець</lemma>
+    <lemma>ахапляць</lemma>
+    <lemma>спатыкаць</lemma>
+    <lemma>спасцігаць</lemma>
+    <lemma>авалодваць</lemma>
+    <lemma>апаноўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>разбират</lemma>
+    <lemma>разбират</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>postihovat</lemma>
+    <lemma>chápat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>shvaćati</lemma>
+    <lemma>razumijevati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сваќа</lemma>
+    <lemma>усвојува</lemma>
+    <lemma>узнава</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozumieć</lemma>
+    <lemma annotation="o co chodzi">załapywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>постигать</lemma>
+    <lemma>понимать</lemma>
+    <lemma>овладевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rozumieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>doumeti</lemma>
+    <lemma>razumeti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>схватати</lemma>
+    <lemma>разумети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осягати</lemma>
+    <lemma>засвоювати</lemma>
+    <lemma>оволодівати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>comprehend</lemma>
+    <lemma>teno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>begreifen</lemma>
+    <lemma>Griff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>begrijpen</lemma>
+    <lemma>bevatten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31022"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31022"
+      steen:pos="v.intr. ipf./pf."
+      steen:type="1"
+      steen:same="v sk sh bm"
+      steen:genesis="I"
+    >
+      variovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вар&apos;іраваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>се различават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lišit se</lemma>
+    <lemma>měnit se</lemma>
+    <lemma>variovat</lemma>
+    <lemma>varírovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>varirati</lemma>
+    <lemma>mijenjati</lemma>
+    <lemma>razlikovati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>варира</lemma>
+    <lemma>менува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>różnić się</lemma>
+    <lemma>zmieniać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>варьировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>líšiť sa</lemma>
+    <lemma>meniť sa</lemma>
+    <lemma>variovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>biti drugačen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>разликовати се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>варіювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varii</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>variieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>variëren</lemma>
+  </synset>
+</multilingual-synset>

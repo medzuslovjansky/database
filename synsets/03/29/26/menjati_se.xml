@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32926"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32926" steen:pos="v.refl. ipf." steen:type="1">
+      měnjati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мяняцца</lemma>
+    <lemma>зменьвацца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>редувам се</lemma>
+    <lemma>колебая се</lemma>
+    <lemma>варирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>měnit se</lemma>
+    <lemma>vyměňovat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mijenjati se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се менува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wymieniać się</lemma>
+    <lemma>wahać się</lemma>
+    <lemma>występować naprzemiennie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>меняться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>meniť sa</lemma>
+    <lemma>vymieňať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uredite</lemma>
+    <lemma>spremenite</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мењати</lemma>
+    <lemma>мењати се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мінятися</lemma>
+    <lemma>змінюватися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alternaj</lemma>
+    <lemma>varias</lemma>
+    <lemma>variadas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>alternate</lemma>
+    <lemma>variieren</lemma>
+    <lemma>schwanken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>veranderen</lemma>
+    <lemma>variëren</lemma>
+    <lemma>fluctueren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17495"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17495"
+      steen:addition="(+2)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      izbaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пазбавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>отървавам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbavit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lišiti</lemma>
+    <lemma>oduzeti</lemma>
+    <lemma>uskratiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>избави</lemma>
+    <lemma>ослободи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pozbawić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>избавить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbaviť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prikrajšati</lemma>
+    <lemma>odvzeti</lemma>
+    <lemma>dostaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лишити</lemma>
+    <lemma>одузети</lemma>
+    <lemma>ускратити</lemma>
+    <lemma>избавити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позбавити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forigi</lemma>
+    <lemma>helpu de</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>loszuwerden</lemma>
+    <lemma>entlasten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ontdoen van</lemma>
+  </synset>
+</multilingual-synset>

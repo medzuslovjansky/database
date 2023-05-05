@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3335"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3335" steen:pos="m.anim." steen:type="1">hlåpec</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>хлопец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>момче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chlapec</lemma>
+    <lemma>kluk</lemma>
+    <lemma>hoch</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mladić</lemma>
+    <lemma>momak</lemma>
+    <lemma>dečko</lemma>
+    <lemma>dječak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дечко</lemma>
+    <lemma>момчак</lemma>
+    <lemma>младич</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chłopiec</lemma>
+    <lemma>facet</lemma>
+    <lemma>gość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>парень</lemma>
+    <lemma annotation="мн.">ребята</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chlapec</lemma>
+    <lemma>šuhaj</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>deček</lemma>
+    <lemma>fant</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дечак</lemma>
+    <lemma>момак</lemma>
+    <lemma>лик</lemma>
+    <lemma>тип</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хлопець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>knabo</lemma>
+    <lemma>ulo</lemma>
+    <lemma>ulo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Junge</lemma>
+    <lemma>Kerl</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jongen</lemma>
+    <lemma>knul</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26996"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26996"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl cz sl~"
+    >
+      kuriti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паліць</lemma>
+    <lemma>курыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дим</lemma>
+    <lemma>пушек</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kouřit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pušiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пуши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. papierosy">palić</lemma>
+    <lemma>dymić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>курить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>fajčiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kajenje</lemma>
+    <lemma>dim</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пушити</lemma>
+    <lemma>димити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>курити</lemma>
+    <lemma>палити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rauch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>roken</lemma>
+  </synset>
+</multilingual-synset>

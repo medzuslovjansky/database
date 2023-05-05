@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29009"
+      steen:addition="(obžže)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      obžegti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абпаліць</lemma>
+    <lemma>апячы</lemma>
+    <lemma>асмаліць</lemma>
+    <lemma>асмужыць</lemma>
+    <lemma>папячы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>Противниците</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>opálit</lemma>
+    <lemma>ožehnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>spaliti</lemma>
+    <lemma>sagorjeti</lemma>
+    <lemma>opeći</lemma>
+    <lemma>ožeći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испали</lemma>
+    <lemma>подгори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypalić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обжечь</lemma>
+    <lemma>опалить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>opáliť</lemma>
+    <lemma>ohorieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vroče</lemma>
+    <lemma>ožariti</lemma>
+    <lemma>požar</lemma>
+    <lemma>želo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>припећи</lemma>
+    <lemma>ожарити</lemma>
+    <lemma>опалити</lemma>
+    <lemma>ожећи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обпалити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>Scorch</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versengen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verschroeien</lemma>
+  </synset>
+</multilingual-synset>

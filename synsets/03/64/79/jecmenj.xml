@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36479"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36479" steen:pos="m." steen:type="1">jęčmenj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="захворванне">ячмень</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="болест">ечемик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="infekce">ječné zrno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ječmenac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="болест">јачмен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="infekcja">jęczmień</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="заболевание">ячмень</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jačmenné zrno</lemma>
+    <lemma annotation="infekcia">jačmeň</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="vnetje">ječmen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јечменац</lemma>
+    <lemma>чмичак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="хвороба">ячмінь</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stye</lemma>
+    <lemma>hordeolum</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gerste</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stijg</lemma>
+    <lemma annotation="in het oog">strontje</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28494"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28494"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be sh mk"
+    >
+      neprimětny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>непрыметны</lemma>
+    <lemma>нязначны</lemma>
+    <lemma>няўцямны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>незабележим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nerozeznatelný</lemma>
+    <lemma>nenápadný</lemma>
+    <lemma>nepozorovatelný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neprimjetan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>незабележлив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niezauważalny</lemma>
+    <lemma>niedostrzegalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неприметный</lemma>
+    <lemma>незаметный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nerozoznateľný</lemma>
+    <lemma>nenápadný</lemma>
+    <lemma>nepozorovateľný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neprimećiv</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неприметан</lemma>
+    <lemma>неприметљив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>непомітний</lemma>
+    <lemma>непримітний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nedistingebla</lemma>
+    <lemma>nepercepteblaj</lemma>
+    <lemma>inobservables</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wahrnehmbarer</lemma>
+    <lemma>nicht wahrnehmbar</lemma>
+    <lemma>unmerklich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onmerkbaar</lemma>
+  </synset>
+</multilingual-synset>

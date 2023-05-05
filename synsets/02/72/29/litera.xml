@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27229"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27229" steen:pos="f." steen:type="2" steen:same="v z">
+      litera
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>літара</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>буква</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>litera</lemma>
+    <lemma>písmeno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slovo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>буква</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>litera</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>буква</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>litera</lemma>
+    <lemma>písmeno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>črka</lemma>
+    <lemma>znak v abecedi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слово</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>літера</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="alfabeto">letero</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Alphabet">Brief</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>letter</lemma>
+  </synset>
+</multilingual-synset>

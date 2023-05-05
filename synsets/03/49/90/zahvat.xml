@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34990"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34990" steen:pos="m." steen:type="3" steen:same="cs">
+      zahvat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыступ</lemma>
+    <lemma>спохват</lemma>
+    <lemma>прыпадак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нападение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>záchvat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napad</lemma>
+    <lemma>atak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напад</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>atak</lemma>
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приступ</lemma>
+    <lemma>припадок</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>záchvat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напад</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>напад</lemma>
+    <lemma>припадок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>forkapto</lemma>
+    <lemma>atako</lemma>
+    <lemma>taŭgas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Anfall</lemma>
+    <lemma>attack</lemma>
+    <lemma>fit</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="woede, ziekte e.d.">aanval</lemma>
+  </synset>
+</multilingual-synset>

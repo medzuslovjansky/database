@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23753"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23753"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      uběđeny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перакананы</lemma>
+    <lemma>пераконаны</lemma>
+    <lemma>упэўнены</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>убеден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přesvědčený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uvjeren</lemma>
+    <lemma>osvjedočen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>убеден</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekonany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>убеждённый</lemma>
+    <lemma>уверенный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>presvedčený</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prepričan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>убеђен</lemma>
+    <lemma>уверен</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>переконаний</lemma>
+    <lemma>упевнений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konvinkis</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>überzeugt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overtuigd</lemma>
+  </synset>
+</multilingual-synset>

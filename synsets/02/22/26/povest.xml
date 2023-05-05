@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22226"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22226" steen:pos="f." steen:type="1">pověsť</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аповед</lemma>
+    <lemma>апавяданне</lemma>
+    <lemma>гісторыя</lemma>
+    <lemma>аповесць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>приказка</lemma>
+    <lemma>история</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pověst</lemma>
+    <lemma>příběh</lemma>
+    <lemma>příhoda</lemma>
+    <lemma>historka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pripovijest</lemma>
+    <lemma>pripovjetka</lemma>
+    <lemma>priča</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>приказна</lemma>
+    <lemma>историја</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>opowieść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>рассказ</lemma>
+    <lemma>история</lemma>
+    <lemma>повесть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>povesť</lemma>
+    <lemma>príbeh</lemma>
+    <lemma>príhoda</lemma>
+    <lemma>historka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgodba</lemma>
+    <lemma>kratka zgodba</lemma>
+    <lemma>zgodba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прича</lemma>
+    <lemma>приповетка</lemma>
+    <lemma>повест</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розповідь</lemma>
+    <lemma>історія</lemma>
+    <lemma>повість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rakonto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Märchen</lemma>
+    <lemma>Geschichte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhaal</lemma>
+  </synset>
+</multilingual-synset>

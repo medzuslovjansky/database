@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35556"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35556"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru be j"
+    >
+      sȯstavny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>складовы</lemma>
+    <lemma>складзены</lemma>
+    <lemma>складаны</lemma>
+    <lemma>складальны</lemma>
+    <lemma>які складае</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>елемент</lemma>
+    <lemma>компонент</lemma>
+    <lemma>част</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dílčí</lemma>
+    <lemma>sestavující</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sastavan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>составен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>składowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>составной</lemma>
+    <lemma>составляющий</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>čiastkové</lemma>
+    <lemma>zostavujúca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sastavan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>саставан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>складений</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>constituyente</lemma>
+    <lemma>komponantoj</lemma>
+    <lemma>komponaĵo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bestandteil</lemma>
+    <lemma>Komponente</lemma>
+    <lemma>Verbindung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samenstellend</lemma>
+  </synset>
+</multilingual-synset>

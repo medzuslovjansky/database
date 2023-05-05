@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18073"
+      steen:addition="(odȯjme)"
+      steen:pos="v.tr. pf."
+      steen:type="3"
+      steen:same="cz"
+    >
+      odjęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ампутаваць</lemma>
+    <lemma>адцінаць</lemma>
+    <lemma>урэзваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>ампутират</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odejmout</lemma>
+    <lemma>amputovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>amputirati</lemma>
+    <lemma>ukloniti</lemma>
+    <lemma>odstraniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отсече</lemma>
+    <lemma>ампутира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>amputować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ампутировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odňať</lemma>
+    <lemma>amputovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>odsekati</lemma>
+    <lemma>amputirali</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одсећи</lemma>
+    <lemma>одстранити</lemma>
+    <lemma>ампутирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ампутувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>amputi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>amputieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>amputeren</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35051"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35051"
+      steen:pos="m.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      mramor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мармур</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мрамор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mramor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mramor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мермер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>marmur</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мрамор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mramor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>marmor</lemma>
+    <lemma>marmor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мермер</lemma>
+    <lemma>мрамор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мармур</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>marmora</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Marmor</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>marmer</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21576"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="21576" steen:pos="f." steen:type="2" steen:same="ru pl">
+      slava
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэпутацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>репутация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sláva</lemma>
+    <lemma>pověst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>slava</lemma>
+    <lemma>ugled</lemma>
+    <lemma>reputacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>слава</lemma>
+    <lemma>углед</lemma>
+    <lemma>репутација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>reputacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>репутация</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sláva</lemma>
+    <lemma>povesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ugled</lemma>
+    <lemma>ugled</lemma>
+    <lemma>ugled</lemma>
+    <lemma annotation="na pravi glas">glas</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>углед</lemma>
+    <lemma>репутација</lemma>
+    <lemma>реноме</lemma>
+    <lemma annotation="на добром гласу">глас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>репутація</lemma>
+    <lemma>слава</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>reputacio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ruf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reputatie</lemma>
+  </synset>
+</multilingual-synset>

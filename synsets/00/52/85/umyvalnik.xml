@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5285"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5285" steen:pos="m." steen:type="1" steen:same="v z j">
+      umyvaľnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рукамыйніца</lemma>
+    <lemma>рукамыйнік</lemma>
+    <lemma>мыйнік</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="баня">мивка</lemma>
+    <lemma>тоалетна мивка</lemma>
+    <lemma>мивка</lemma>
+    <lemma>мивка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>umyvadlo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>umivaonik</lemma>
+    <lemma>lavabo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мијалник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>umywalka</lemma>
+    <lemma>zlew</lemma>
+    <lemma>zlewozmywak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>умывальник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>umývadlo</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>umivalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>умиваоник</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>умивальник</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="banejo">profundiĝi</lemma>
+    <lemma>aguamanil</lemma>
+    <lemma>lavita baseno</lemma>
+    <lemma>lavon stando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Bad">Waschbecken</lemma>
+    <lemma>Waschbecken</lemma>
+    <lemma>Waschbecken</lemma>
+    <lemma>Waschtisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wastafel</lemma>
+  </synset>
+</multilingual-synset>

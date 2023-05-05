@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2827"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2827" steen:pos="m." steen:type="1">ovoć</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>садавіна</lemma>
+    <lemma>фрукт</lemma>
+    <lemma>плён</lemma>
+    <lemma>плод</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>плодове</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ovoce</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>voće</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овошје</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>owoc</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фрукт</lemma>
+    <lemma>плод</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ovocie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sadje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>воће</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фрукт</lemma>
+    <lemma>плід</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>fruktoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Obst</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="fruit">vrucht</lemma>
+  </synset>
+</multilingual-synset>

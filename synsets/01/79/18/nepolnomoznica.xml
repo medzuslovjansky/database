@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17918"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17918" steen:pos="f." steen:type="1">nepȯlnomožnica</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>інвалідка</lemma>
+    <lemma annotation="жанчына">асоба з абмежаванымі магчымасцямі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>жена с увреждания</lemma>
+    <lemma>жена-инвалид</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>invalida</lemma>
+    <lemma>zdravotně postižená</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>invalid</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сакатница</lemma>
+    <lemma>инвалид</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>osoba niepełnosprawna</lemma>
+    <lemma>kaleka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>инвалид</lemma>
+    <lemma annotation="женщина">лицо с ограниченными возможностями</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>invalid</lemma>
+    <lemma>zdravotne postihnutá</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neveljaven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>инвалид</lemma>
+    <lemma>богаљ</lemma>
+    <lemma>сакат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>неповносправна</lemma>
+    <lemma>особа з інвалідністю</lemma>
+    <lemma>особа з особливими потребами</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>handikapita persono</lemma>
+    <lemma>malpliigita persono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Behinderte</lemma>
+    <lemma>Behinderte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gehandicapte</lemma>
+  </synset>
+</multilingual-synset>

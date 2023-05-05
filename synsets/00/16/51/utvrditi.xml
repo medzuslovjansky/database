@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1651"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1651"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru bm"
+    >
+      utvŕditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зацвердзіць</lemma>
+    <lemma>сцвердзіць</lemma>
+    <lemma>сцвярдзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>одобри</lemma>
+    <lemma>твърди</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>potvrdit</lemma>
+    <lemma>stvrdit</lemma>
+    <lemma>schválit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>potvrditi</lemma>
+    <lemma>utvrditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>утврди</lemma>
+    <lemma>потврди</lemma>
+    <lemma>одобри</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatwierdzić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>утвердить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>potvrdiť</lemma>
+    <lemma>potvrdiť</lemma>
+    <lemma>schváliť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrjujejo</lemma>
+    <lemma>vzpostaviti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>потврдити</lemma>
+    <lemma>утврдити</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>ствердити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aprobi</lemma>
+    <lemma>approbate</lemma>
+    <lemma>sankcio</lemma>
+    <lemma>ratifiki</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>genehmigen</lemma>
+    <lemma>allege</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goedkeuren</lemma>
+    <lemma>bekrachtigen</lemma>
+    <lemma>ratificeren</lemma>
+  </synset>
+</multilingual-synset>

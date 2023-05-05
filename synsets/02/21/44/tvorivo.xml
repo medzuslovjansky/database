@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22144"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22144" steen:pos="n." steen:type="2" steen:same="pl sh">
+      tvorivo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>матэрыял</lemma>
+    <lemma>рэчыва</lemma>
+    <lemma>субстанцыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>материал</lemma>
+    <lemma>вещество</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>materiál</lemma>
+    <lemma>látka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>tvoriva</lemma>
+    <lemma>materiijal</lemma>
+    <lemma>građa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>материјал</lemma>
+    <lemma annotation="за творење">супстанца</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>materiał</lemma>
+    <lemma>substancja</lemma>
+    <lemma>tworzywo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>материал</lemma>
+    <lemma>вещество</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>materiál</lemma>
+    <lemma>látka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lom</lemma>
+    <lemma>materiijal</lemma>
+    <lemma>les</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>твориво</lemma>
+    <lemma>материијал</lemma>
+    <lemma>грађа</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>матеріал</lemma>
+    <lemma>речовина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>materialo</lemma>
+    <lemma>substanco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Material</lemma>
+    <lemma>Substanz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>materiaal</lemma>
+    <lemma>substantie</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19491"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="19491"
+      steen:addition="(je)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      jesti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>есці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ям</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>jíst</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>jesti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>јаде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>jeść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>есть</lemma>
+    <lemma>кушать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>jesť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jesti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>јести</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>їсти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>manĝi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>essen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eten</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14544"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14544" steen:pos="n." steen:type="2" steen:genesis="F">
+      dubljeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>капіяванне</lemma>
+    <lemma>дубляванне</lemma>
+    <lemma>рэзерваванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>резервно копие</lemma>
+    <lemma>бекъп</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="dat">zálohování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>backup</lemma>
+    <lemma>bekapiranje</lemma>
+    <lemma>bekap</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дуплирање</lemma>
+    <lemma>копирање</lemma>
+    <lemma>удвојување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>backup</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>копирование</lemma>
+    <lemma>дублирование</lemma>
+    <lemma>резервирование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="dát">zálohovanie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>backup</lemma>
+    <lemma>backup</lemma>
+    <lemma>backup</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бекап</lemma>
+    <lemma>бекаповање</lemma>
+    <lemma>сигурносно копирање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>резервне копіювання</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>apogilo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sicherungskopie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>back-up</lemma>
+  </synset>
+</multilingual-synset>

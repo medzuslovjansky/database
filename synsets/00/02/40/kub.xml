@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="240"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="240"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v bm"
+      steen:genesis="I"
+    >
+      kub
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>куб</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>куб</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kostka</lemma>
+    <lemma>krychle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kocka</lemma>
+    <lemma>kubus</lemma>
+    <lemma>kub</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коцка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sześcian</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>куб</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kocka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Cube</lemma>
+    <lemma annotation="arch.">Cube</lemma>
+    <lemma annotation="arch.">Kocka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коцка</lemma>
+    <lemma annotation="арх.">куб</lemma>
+    <lemma annotation="арх.">кубус</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>куб</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kubo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Würfel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kubus</lemma>
+  </synset>
+</multilingual-synset>

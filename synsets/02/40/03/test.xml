@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24003"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24003"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v pl sk j"
+    >
+      tesť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цесць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тъст</lemma>
+    <lemma>дядо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tchán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tast</lemma>
+    <lemma>punac</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тест</lemma>
+    <lemma annotation="татко на сопруга">дедо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ojciec żony">teść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тесть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>svokor</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="ženin oče">tast</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="женин отац">таст</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>тесть</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="edzino la patro">bopatro leĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Ehefrau des Vaters">Vater-in-law</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="vader van echtgenote">schoonvader</lemma>
+  </synset>
+</multilingual-synset>

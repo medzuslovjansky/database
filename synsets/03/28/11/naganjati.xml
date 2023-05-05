@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32811"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="32811" steen:pos="v.tr. ipf.">naganjati</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наганяць</lemma>
+    <lemma>зганяць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>прогонвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nahánět</lemma>
+    <lemma annotation="dobytek">shánět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naganjati</lemma>
+    <lemma>nagoniti</lemma>
+    <lemma>goniti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бодина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeganiać</lemma>
+    <lemma annotation="np. krowy">naganiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нагонять</lemma>
+    <lemma annotation="напр. коров">сгонять</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naháňať</lemma>
+    <lemma annotation="dobytok">zháňať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pregon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гонити</lemma>
+    <lemma>гањати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наганяти</lemma>
+    <lemma annotation="напр. корів">зганяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prod</lemma>
+    <lemma>huŝ</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>prod</lemma>
+    <lemma>husch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegjagen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4872"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4872"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      konstruovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>канструяваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>конструирам</lemma>
+    <lemma>изграждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konstruovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konstruirati</lemma>
+    <lemma>projektirati</lemma>
+    <lemma>sastaviti</lemma>
+    <lemma>složiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>конструира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konstruować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конструировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konštruovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>konstrukt</lemma>
+    <lemma>graditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конструисати</lemma>
+    <lemma>градити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конструювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konstrukcio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bauen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>construeren</lemma>
+  </synset>
+</multilingual-synset>

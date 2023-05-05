@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23554"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23554"
+      steen:addition="(råzvije)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      råzviti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>развіцца</lemma>
+    <lemma>эвалюцыяваць</lemma>
+    <lemma>эвалюцыянаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="интр.">разработване</lemma>
+    <lemma annotation="интр.">да се развива</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozvinout se</lemma>
+    <lemma>vyvinout se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>razviti se</lemma>
+    <lemma>evoluirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се разви</lemma>
+    <lemma>еволуираше</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozwinąć się</lemma>
+    <lemma>wyewoluować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>развиться</lemma>
+    <lemma>эволюционировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozvinúť sa</lemma>
+    <lemma>vyvinúť sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>razviti EVOLVE</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>развити се</lemma>
+    <lemma>еволуирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розвинутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="intr.">evoluigi</lemma>
+    <lemma annotation="intr.">evolui</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="intr.">entwickeln</lemma>
+    <lemma annotation="intr.">entwickelt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zich ontwikkelen</lemma>
+  </synset>
+</multilingual-synset>

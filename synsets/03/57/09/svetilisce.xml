@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35709"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35709" steen:pos="n." steen:type="2" steen:same="ru j">
+      svętilišče
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святыня</lemma>
+    <lemma>свяцілішча</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>светилище</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svatyně</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svetište</lemma>
+    <lemma>sanktuarij</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>светилиште</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>światynia</lemma>
+    <lemma>sanktuarium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>святыня</lemma>
+    <lemma>святилище</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>svätyňa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svetišče</lemma>
+    <lemma>tempelj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>светилиште</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>святиня</lemma>
+    <lemma>святилище</lemma>
+    <lemma>храм</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="konsekritaj loko">sanktejo</lemma>
+    <lemma>sanktejo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Heiligtum Schrein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heiligdom</lemma>
+  </synset>
+</multilingual-synset>

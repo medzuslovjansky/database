@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36866"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      annotation="na"
+      steen:id="36866"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="z"
+    >
+      naskakati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ускакваць</lemma>
+    <lemma>падхоплівацца</lemma>
+    <lemma>садзіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="на">скачам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naskakovat</lemma>
+    <lemma>vyskakovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naskakivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на">скока</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="na">naskakiwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на">вскакивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyskakovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="naprej">skok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на некога">наскакивати</lemma>
+    <lemma>наваљивати</lemma>
+    <lemma>насртати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>застрибувати</lemma>
+    <lemma>заскакувати</lemma>
+    <lemma>заплигувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="sur">salti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>aufspringen)</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bespringen</lemma>
+  </synset>
+</multilingual-synset>

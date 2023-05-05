@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17790"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17790" steen:pos="m.anim." steen:type="1">mlådčik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>малыш</lemma>
+    <lemma>маленькі хлопчык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>малко дете</lemma>
+    <lemma annotation="рядко">отроче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>batole</lemma>
+    <lemma>chlapeček</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dječak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мало дете</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szkrab</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>малыш</lemma>
+    <lemma>маленький мальчик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>batoľa</lemma>
+    <lemma>chlapček</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>fant</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дечак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>малюк</lemma>
+    <lemma>маля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>infaneto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kleinkind</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kleuter</lemma>
+    <lemma>peuter</lemma>
+  </synset>
+</multilingual-synset>

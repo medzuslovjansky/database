@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3994"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3994" steen:pos="n." steen:type="1">pero</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шарыкавая">ручка</lemma>
+    <lemma>доўгапіс</lemma>
+    <lemma>асадка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>писалка</lemma>
+    <lemma>перо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="psací">pero</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>penkala</lemma>
+    <lemma>nalivpero</lemma>
+    <lemma>pero</lemma>
+    <lemma>kemijska olovka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пенкало</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>długopis</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шариковая">ручка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="písacie">pero</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pero</lemma>
+    <lemma>nalivno pero</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пенкало</lemma>
+    <lemma>налив перо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="кулькова">ручка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plumo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stift</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pen</lemma>
+  </synset>
+</multilingual-synset>

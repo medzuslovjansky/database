@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18896"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18896" steen:pos="adj." steen:type="1" steen:genesis="I">
+      statičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>статычны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>статичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>statický</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>statičan</lemma>
+    <lemma>nepokretan</lemma>
+    <lemma>miruje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>статичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>statyczny</lemma>
+    <lemma>nieruchomy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>статический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>statický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>statična</lemma>
+    <lemma>negibno</lemma>
+    <lemma>v prostem teku</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>статичан</lemma>
+    <lemma>непокретан</lemma>
+    <lemma>у стању мировања</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>статичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>statika</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>statisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>statisch</lemma>
+  </synset>
+</multilingual-synset>

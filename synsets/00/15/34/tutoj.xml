@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1534"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1534"
+      steen:addition="(tuta, tuto)"
+      steen:pos="pron.dem."
+      steen:type="2"
+    >
+      tutoj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гэты</lemma>
+    <lemma>гэны</lemma>
+    <lemma>сёй</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>това</lemma>
+    <lemma>тези</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tento</lemma>
+    <lemma>tito</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma annotation="ова, ово">овъ</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="ova, ovo">ovaj</lemma>
+    <lemma annotation="ona, ono">onaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ова</lemma>
+    <lemma>овие</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ten</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>этот</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>tento</lemma>
+    <lemma>títo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="to">ta</lemma>
+    <lemma annotation="te, ta">ti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="ова, ово">овај</lemma>
+    <lemma annotation="она, оно">онај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>цей</lemma>
+    <lemma>оцей</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉi tiu ĉi tiuj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dies</lemma>
+    <lemma>diese</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>deze</lemma>
+    <lemma>dit</lemma>
+  </synset>
+</multilingual-synset>

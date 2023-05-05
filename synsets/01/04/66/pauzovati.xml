@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10466"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10466"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      pauzovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перапыняцца</lemma>
+    <lemma>рабіць перапынак</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пауза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pozastavit</lemma>
+    <lemma>dělat přestávku</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pauzirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>паузира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pauzować</lemma>
+    <lemma>robić przerwę</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прерываться</lemma>
+    <lemma>делать перерыв</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pozastaviť</lemma>
+    <lemma>robiť prestávku</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pavza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>паузирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>уриватися</lemma>
+    <lemma>робити перерву</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paŭzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Pause</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pauzeren</lemma>
+  </synset>
+</multilingual-synset>

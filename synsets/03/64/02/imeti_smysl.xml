@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36402"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36402"
+      steen:pos="v.ipf."
+      steen:type="1"
+      steen:same="ru uk cs j"
+    >
+      iměti smysl
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мець сэнс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>имам смисъл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mít smysl</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>imati smisla</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>има смисла</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mieć sens</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>иметь смысл</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mať zmysel</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>imajo pomen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>имати смисао</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мати сенс</lemma>
+    <lemma>мати смисл</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sencon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Sinn ergeben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zinnig zijn</lemma>
+    <lemma>zin hebben</lemma>
+  </synset>
+</multilingual-synset>

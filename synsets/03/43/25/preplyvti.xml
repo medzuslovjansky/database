@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34325"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="34325" steen:pos="v.tr. pf." steen:type="1">
+      prěplyvti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="уплаў">пераплысці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преплуват</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přeplavat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>preplivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преплива</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepłynąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="вплавь">переплыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>preplávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preplavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>препливати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="уплав">переплисти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naĝi trans</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>schwimmen über</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>door … zwemmen</lemma>
+  </synset>
+</multilingual-synset>

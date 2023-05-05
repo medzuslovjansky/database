@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35142"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35142"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="cs yu mk"
+    >
+      obsęžny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>усеабдымны</lemma>
+    <lemma>усебаковы</lemma>
+    <lemma>вычарпальны</lemma>
+    <lemma>поўны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>цялостен</lemma>
+    <lemma>изчерпателен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyčerpávající</lemma>
+    <lemma>úplný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>opsežan</lemma>
+    <lemma>opširan</lemma>
+    <lemma>širok</lemma>
+    <lemma>obiman</lemma>
+    <lemma>scrpan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>опсежен</lemma>
+    <lemma>сеопфатен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyczerpujący</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>всеобъемлющий</lemma>
+    <lemma>всесторонний</lemma>
+    <lemma>исчерпывающий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyčerpávajúci</lemma>
+    <lemma>úplný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>celovit</lemma>
+    <lemma>popoln</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опсежан</lemma>
+    <lemma>исцрпан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>всеосяжний</lemma>
+    <lemma>всебічний</lemma>
+    <lemma>вичерпний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ampleksa</lemma>
+    <lemma>ĝisfunda</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umfassende</lemma>
+    <lemma>erschöpfende</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitvoerig</lemma>
+    <lemma>diepgaand</lemma>
+    <lemma>grondig</lemma>
+  </synset>
+</multilingual-synset>

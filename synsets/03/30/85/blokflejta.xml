@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33085"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v sl bg"
+      steen:genesis="I"
+    >
+      blokflejta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блокфлейта</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>блокфлейта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rekordér</lemma>
+    <lemma>zapisovač</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>blok flauta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="музички инструмент">блок флејта</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>flet prosty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>блокфлейта</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nahrávač</lemma>
+    <lemma>zapisovač</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>blok flavta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>блок флаута</lemma>
+    <lemma>уздужна флаута</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>блок флейта</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kronikisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Recorder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blokfluit</lemma>
+  </synset>
+</multilingual-synset>

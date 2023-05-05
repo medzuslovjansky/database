@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="14280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="14280" steen:pos="f." steen:type="1">značka</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бірка</lemma>
+    <lemma>цэтлік</lemma>
+    <lemma>этыкетка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>значка</lemma>
+    <lemma>белязка</lemma>
+    <lemma>етикет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>značka</lemma>
+    <lemma>štítek</lemma>
+    <lemma>cedulka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="odjeća">etiketa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ознака</lemma>
+    <lemma>етикета</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ubrania">metka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бирка</lemma>
+    <lemma>этикетка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>značka</lemma>
+    <lemma>štítok</lemma>
+    <lemma>ceduľka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="oblačila">nalepka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="одећа">етикета</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>бирка</lemma>
+    <lemma>етикетка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>etikedo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Etikett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="in kleding">merkje</lemma>
+  </synset>
+</multilingual-synset>

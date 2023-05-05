@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16490"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16490" steen:pos="f." steen:type="1">samoglåska</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>галосная</lemma>
+    <lemma>галосны гук</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гласна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>samohláska</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>samoglasnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>самогласка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>samogłoska</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гласный</lemma>
+    <lemma>гласный звук</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>samohláska</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>samoglasnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>самогласник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>голосний</lemma>
+    <lemma>голосний звук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>vokalo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vokal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="taalkunde">klinker</lemma>
+  </synset>
+</multilingual-synset>

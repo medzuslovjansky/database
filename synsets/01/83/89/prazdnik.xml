@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18389"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18389" steen:pos="m." steen:type="2" steen:same="ru j">
+      pråzdnik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>свята</lemma>
+    <lemma>фэст</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>празник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>svátek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>praznik</lemma>
+    <lemma>blagdan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>празник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>święto</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>праздник</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>sviatok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>počitnice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>празник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свято</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ferioj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Urlaub</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>feestdag</lemma>
+  </synset>
+</multilingual-synset>

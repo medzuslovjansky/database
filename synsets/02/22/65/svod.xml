@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22265"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22265" steen:pos="m." steen:type="2" steen:same="ru sh">
+      svod
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="архіт.">скляпенне</lemma>
+    <lemma annotation="архіт.">купал</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>арка</lemma>
+    <lemma>свод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>oblouk</lemma>
+    <lemma>klenba</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>svod</lemma>
+    <lemma>nadsvođe</lemma>
+    <lemma>bolta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>свод</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="architektura">łuk</lemma>
+    <lemma>sklepienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="архит.">свод</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>oblúk</lemma>
+    <lemma>klenba</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="arhitektura">obok</lemma>
+    <lemma annotation="arhitektura">svod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свод</lemma>
+    <lemma>лук</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="архит.">зведення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>arkaĵo</lemma>
+    <lemma>volbo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Bogen</lemma>
+    <lemma>Gewölbe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>welving</lemma>
+    <lemma>boog</lemma>
+  </synset>
+</multilingual-synset>

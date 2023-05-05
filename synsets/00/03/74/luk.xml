@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="374"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="374" steen:pos="m." steen:type="1">lųk</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зброя">лук</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="оръжие">лък</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>luk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>luk</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="оружје">лак</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="broń">łuk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="оружие">лук</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="zbraň">luk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="orožje">lok</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="оружје">лук</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="зброя">лук</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="armilo">pafarko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Waffe">Bogen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="wapen">boog</lemma>
+  </synset>
+</multilingual-synset>

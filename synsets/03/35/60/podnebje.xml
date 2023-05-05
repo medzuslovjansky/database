@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33560"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33560"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="ru~ ub pl sk j~"
+    >
+      podnebje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паднябенне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>небце</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>patro</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nepce</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>непце</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podniebienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нёбо</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podnebie</lemma>
+    <lemma>nebce</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>palate</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>непце</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>піднебіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>palaton</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschmack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verhemelte</lemma>
+  </synset>
+</multilingual-synset>

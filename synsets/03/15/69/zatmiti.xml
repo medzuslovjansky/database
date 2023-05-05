@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31569"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j~"
+    >
+      zatmiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>засланіць</lemma>
+    <lemma>зацямніць</lemma>
+    <lemma>зацяніць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>затъмня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatmít</lemma>
+    <lemma>zatemnit</lemma>
+    <lemma>zastínit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomračiti</lemma>
+    <lemma>zamračiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>затемни</lemma>
+    <lemma>замрачи</lemma>
+    <lemma>помрачи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaćmić</lemma>
+    <lemma>zaciemnić</lemma>
+    <lemma>zamroczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>затмить</lemma>
+    <lemma>затенить</lemma>
+    <lemma>затемнить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zatmiť</lemma>
+    <lemma>zatieniť</lemma>
+    <lemma>zatemniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potemnite Pomutiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помрачити</lemma>
+    <lemma>замрачити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>затьмарити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eklipso</lemma>
+    <lemma>mallumigi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eklipse</lemma>
+    <lemma>dunkel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verduisteren</lemma>
+    <lemma>overschaduwen</lemma>
+  </synset>
+</multilingual-synset>

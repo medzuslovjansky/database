@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4802"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4802"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      eksplodovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выбухаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>експлодирам</lemma>
+    <lemma>взривявам се</lemma>
+    <lemma>детонирам се</lemma>
+    <lemma>избухвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>explodovat</lemma>
+    <lemma>vybuchovat</lemma>
+    <lemma>vybouchnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eksplodirati</lemma>
+    <lemma>praskati</lemma>
+    <lemma annotation="se">rasprskavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>експлодираат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eksplodować</lemma>
+    <lemma>wybuchać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>взрываться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>explodovať</lemma>
+    <lemma>vybuchovať</lemma>
+    <lemma>vybuchnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>eksplodira</lemma>
+    <lemma>blast</lemma>
+    <lemma>blast</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>експлодирати</lemma>
+    <lemma>разорити</lemma>
+    <lemma>разрушити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вибухати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eksplodas</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>explodieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>exploderen</lemma>
+    <lemma>ontploffen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36861"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36861"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ru uk cz j"
+    >
+      zloba
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>злосць</lemma>
+    <lemma>злаванне</lemma>
+    <lemma>гнеў</lemma>
+    <lemma>узлаванасць</lemma>
+    <lemma>раззлаванасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>злоба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zloba</lemma>
+    <lemma>zlost</lemma>
+    <lemma>hněv</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ljutnja</lemma>
+    <lemma>gnjev</lemma>
+    <lemma>bijes</lemma>
+    <lemma>kivnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>злоба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>złość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>злоба</lemma>
+    <lemma>гнев</lemma>
+    <lemma>злость</lemma>
+    <lemma>озлобленность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zloba</lemma>
+    <lemma>zlosť</lemma>
+    <lemma>hněv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jeza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>љутња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гнів</lemma>
+    <lemma>злоба</lemma>
+    <lemma>кривда</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kolero</lemma>
+    <lemma>malgraŭ</lemma>
+    <lemma>malico</lemma>
+    <lemma>malĝojo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Wut</lemma>
+    <lemma>Trotz</lemma>
+    <lemma>Bosheit</lemma>
+    <lemma>Groll</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boosheid</lemma>
+    <lemma>kwaadheid</lemma>
+  </synset>
+</multilingual-synset>

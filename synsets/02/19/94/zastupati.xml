@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21994"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21994"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="z j"
+    >
+      zastųpati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадстаўляць</lemma>
+    <lemma>быць прадстаўніком</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>представлявам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="jednat jako zástupce">zastupovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zastupati</lemma>
+    <lemma>predstavljati</lemma>
+    <lemma>reprezentirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>застапува</lemma>
+    <lemma>претставува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kogoś">reprezentować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>представлять</lemma>
+    <lemma>быть представителем</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="konať ako zástupca">zastupovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>predstavljajo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заступати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>представляти</lemma>
+    <lemma>бути представником</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="agi kiel reprezentanto de">reprezenti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="act als Vertreter">repräsentieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertegenwoordigen</lemma>
+  </synset>
+</multilingual-synset>

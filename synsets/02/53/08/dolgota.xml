@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="25308"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="25308" steen:pos="f." steen:type="1">dȯlgota</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="геогр.">даўгата</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="геогр.">дължина</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="geogr.">délka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dužina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>географса должина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>długość geograficzna</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="геогр.">долгота</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="geogr.">dĺžka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dolžina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>географска дужина</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>довгота</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>longitudo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Längengrad</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lengtegraad</lemma>
+  </synset>
+</multilingual-synset>

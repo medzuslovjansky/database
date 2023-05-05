@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4412"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4412"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ub pl sl hr"
+    >
+      trikųtny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трохкутны</lemma>
+    <lemma>трохвугольны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>триъгълни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>trojúhelníkový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trokutasti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>триаголен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>trójkątny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>треугольный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>trojuholníkový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trikotni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>троугласти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>трикутний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>triangula</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>dreieckig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>driehoekig</lemma>
+  </synset>
+</multilingual-synset>

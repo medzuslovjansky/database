@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34966"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34966"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      damast
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="тканіна">дамаст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дамаска</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>damašek</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>damast</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дамаст</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>adamaszek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="ткань">дамаст</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>damask</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>damasta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дамаст</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="тканина">дамаст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>damasko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Damast</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>damast</lemma>
+  </synset>
+</multilingual-synset>

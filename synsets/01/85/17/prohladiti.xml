@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18517"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18517"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="v bg"
+    >
+      prohlåditi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ахаладзіць</lemma>
+    <lemma>ахалодзіць</lemma>
+    <lemma>прахаладзіць</lemma>
+    <lemma>астудзіць</lemma>
+    <lemma>захаладзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>охлажда се</lemma>
+    <lemma>охлажда се и се съхранява в хладилник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ochladit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ohladiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>настина</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>schłodzić</lemma>
+    <lemma>wyziębić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прохладить</lemma>
+    <lemma>охладить</lemma>
+    <lemma>остудить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>ochladiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pomiri se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>охладити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>охолодити</lemma>
+    <lemma>остудити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malvarmigi</lemma>
+    <lemma>malvarmon</lemma>
+    <lemma>refrigerate</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>abkühlen</lemma>
+    <lemma>Kälte</lemma>
+    <lemma>im Kühlschrank lagern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koelen</lemma>
+    <lemma>doen afkoelen</lemma>
+  </synset>
+</multilingual-synset>

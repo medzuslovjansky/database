@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16493"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="16493" steen:pos="m." steen:type="1">městnik</lemma>
+    <lemma steen:id="16493" steen:pos="m." steen:type="1">městny padež</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мясцовы склон</lemma>
+    <lemma>лакатыў</lemma>
+    <lemma annotation="Грама.">месны склон</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>локатив</lemma>
+    <lemma>местен падеж</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lokál</lemma>
+    <lemma>lokativ</lemma>
+    <lemma>6.p.</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>lokativ</lemma>
+    <lemma>šesti padež</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="падеж">локатив</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>miejscownik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>местный падеж</lemma>
+    <lemma>локатив</lemma>
+    <lemma annotation="грам.">предложный падеж</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lokál</lemma>
+    <lemma>lokatív</lemma>
+    <lemma>6.p.</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="primer">mestnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="падеж">локатив</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>місцевий відмінок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>lokativo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Lokativ</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>locatief</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22147"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22147" steen:pos="m." steen:type="2" steen:same="pl cz sh">
+      novotvor
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>наватвор</lemma>
+    <lemma>неалагізм</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>неологизъм</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>novotvar</lemma>
+    <lemma>neologismus</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>neologizam</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>неологизам</lemma>
+    <lemma>кованица</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>neologizm</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>неологизм</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>novotvar</lemma>
+    <lemma>neologizmus</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>neologizem</lemma>
+    <lemma>kovanci</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неологизам</lemma>
+    <lemma>кованица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>новотвір</lemma>
+    <lemma>неологізм</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>neologismo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Neologismus</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>neologisme</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27569"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27569" steen:pos="m." steen:type="1" steen:same="v z">
+      měšek
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сумка</lemma>
+    <lemma>торба</lemma>
+    <lemma>мяшок</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>чанта</lemma>
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sáček</lemma>
+    <lemma>taška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mješina</lemma>
+    <lemma>torba</lemma>
+    <lemma>vreća</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>торба</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>torba</lemma>
+    <lemma>worek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сумка</lemma>
+    <lemma>мешок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sáčok</lemma>
+    <lemma>taška</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>torba</lemma>
+    <lemma>vreča</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>торба</lemma>
+    <lemma>торбица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>торба</lemma>
+    <lemma>сумка</lemma>
+    <lemma>мішок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sako</lemma>
+    <lemma>sako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Beutel</lemma>
+    <lemma>Sack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tas</lemma>
+    <lemma>zak</lemma>
+  </synset>
+</multilingual-synset>

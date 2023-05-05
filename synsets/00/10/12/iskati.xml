@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1012"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1012"
+      steen:addition="(išče)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      iskati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шукаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>търся</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hledat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tražiti</lemma>
+    <lemma>istraživati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бара</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szukać</lemma>
+    <lemma>poszukiwać</lemma>
+    <lemma>szperać za</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>искать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hľadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poiskati</lemma>
+    <lemma>raziskati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тражити</lemma>
+    <lemma>истраживати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шукати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>serĉu</lemma>
+    <lemma>serĉu</lemma>
+    <lemma>serĉi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>suchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zoeken</lemma>
+  </synset>
+</multilingual-synset>

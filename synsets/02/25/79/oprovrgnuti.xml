@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22579"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22579"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru sh"
+    >
+      oprovŕgnųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аспрэчыць</lemma>
+    <lemma>зняпраўдзіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>за да опровергаят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="hypotézu">vyvrátit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>opovrgnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>побие</lemma>
+    <lemma>обори</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. hipotezę">obalić</lemma>
+    <lemma>podważyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опровергнуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="hypotézu">vyvrátiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ovrgli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оповргнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спростувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>refutar</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>widerlegen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>weerleggen</lemma>
+  </synset>
+</multilingual-synset>

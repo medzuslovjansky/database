@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16910"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16910"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="cs j"
+      steen:genesis="F"
+    >
+      šampion
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чэмпіён</lemma>
+    <lemma annotation="дыял.">чампіён</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>шампион</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>šampion</lemma>
+    <lemma>přeborník</lemma>
+    <lemma>borec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>šampion</lemma>
+    <lemma>prvak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шампион</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>mistrz</lemma>
+    <lemma>czempion</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чемпион</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>šampión</lemma>
+    <lemma>preborník</lemma>
+    <lemma>borec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prvak</lemma>
+    <lemma>zmagovalec</lemma>
+    <lemma>prvak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шампион</lemma>
+    <lemma>победник</lemma>
+    <lemma>првак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чемпіон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĉampiono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Champion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kampioen</lemma>
+  </synset>
+</multilingual-synset>

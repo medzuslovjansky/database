@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36460"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36460"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kvalifikacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кваліфікацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>квалификация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kvalifikace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kvalifikacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>квалификација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kwalifikacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>квалификация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kvalifikácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kvalifikacije</lemma>
+    <lemma>pogoj</lemma>
+    <lemma>pridržek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>квалификација</lemma>
+    <lemma>услов</lemma>
+    <lemma>увет</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кваліфікація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>taŭgeco</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Qualifikation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kwalificatie</lemma>
+  </synset>
+</multilingual-synset>

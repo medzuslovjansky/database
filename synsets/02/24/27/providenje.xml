@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22427"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22427" steen:pos="n." steen:type="2" steen:same="ru pl">
+      providěńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прадбачанне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прогнозиране</lemma>
+    <lemma>предвиждане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>předtucha</lemma>
+    <lemma>vize</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>proročanstvo</lemma>
+    <lemma>proroštvo</lemma>
+    <lemma>predviđanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>предвидување</lemma>
+    <lemma>претскажување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepowiednia</lemma>
+    <lemma>przeczucie</lemma>
+    <lemma annotation="przyszłości">wizja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предвидение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>predtucha</lemma>
+    <lemma>vízia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prerokba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пророчанство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>передбачення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prescience</lemma>
+    <lemma>antaŭsento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>prescience</lemma>
+    <lemma>prevision</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>voorkennis</lemma>
+  </synset>
+</multilingual-synset>

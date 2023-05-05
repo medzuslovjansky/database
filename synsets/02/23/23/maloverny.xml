@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22323"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22323" steen:pos="adj." steen:type="2" steen:same="ru cz">
+      malověrny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>скептычны</lemma>
+    <lemma>малаверны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>скептичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skeptický</lemma>
+    <lemma>malověrný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>skeptičan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>маловерен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>sceptyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>скептический</lemma>
+    <lemma>маловерный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skeptický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>maloveran</lemma>
+    <lemma>skeptik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>маловеран</lemma>
+    <lemma>скептик</lemma>
+    <lemma>скептичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>скептичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>skeptikaj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>skeptisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sceptisch</lemma>
+  </synset>
+</multilingual-synset>

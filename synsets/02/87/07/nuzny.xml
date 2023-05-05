@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28707"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="28707" steen:pos="adj." steen:type="2" steen:same="ru j">
+      nužny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патрэбны</lemma>
+    <lemma>неабходны</lemma>
+    <lemma>канечны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>трябва</lemma>
+    <lemma>трябва</lemma>
+    <lemma>трябва да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nutný</lemma>
+    <lemma>naléhavý</lemma>
+    <lemma>potřebný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nužan</lemma>
+    <lemma>nuždan</lemma>
+    <lemma>prijeko potreban</lemma>
+    <lemma>neophodan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нужен</lemma>
+    <lemma>потребен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>potrzebny</lemma>
+    <lemma>konieczny</lemma>
+    <lemma>wymagany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нужный</lemma>
+    <lemma>необходимый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nutný</lemma>
+    <lemma>naliehavý</lemma>
+    <lemma>potrebný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrebno</lemma>
+    <lemma>je potrebno nujno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нужан</lemma>
+    <lemma>потребан</lemma>
+    <lemma>неопходан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>потрібний</lemma>
+    <lemma>необхідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>necesa</lemma>
+    <lemma>bezonata</lemma>
+    <lemma>imperativo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>notwendig</lemma>
+    <lemma>erforderlich</lemma>
+    <lemma>imperative</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nodig</lemma>
+    <lemma>vereist</lemma>
+  </synset>
+</multilingual-synset>

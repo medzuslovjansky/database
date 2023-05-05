@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="16541"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="16541"
+      steen:addition="(vyjde; vyšel)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      vyjdti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выйсці</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изляза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyjít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izići</lemma>
+    <lemma>izaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>излезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyjść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>выйти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vyjsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izhod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изаћи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вийти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eliro</lemma>
+    <lemma>forlasi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ausfahrt</lemma>
+    <lemma>beenden</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naar buiten gaan</lemma>
+    <lemma>weggaan</lemma>
+  </synset>
+</multilingual-synset>

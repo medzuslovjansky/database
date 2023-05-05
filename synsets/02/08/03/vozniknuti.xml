@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20803"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20803"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="ru cz"
+    >
+      vȯzniknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>узнікнуць</lemma>
+    <lemma>паўстаць</lemma>
+    <lemma>вынікнуць</lemma>
+    <lemma>з&apos;явіцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>възникна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vzniknout</lemma>
+    <lemma>obejvit se</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proisteći</lemma>
+    <lemma>proizaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>возникна</lemma>
+    <lemma>произлезе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyniknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>возникнуть</lemma>
+    <lemma>появиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vzniknúť</lemma>
+    <lemma>obejvit sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pojavijo</lemma>
+    <lemma>se pojavijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проистећи</lemma>
+    <lemma>произаћи</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>виникнути</lemma>
+    <lemma>з&apos;явитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekesti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>entstehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opkomen</lemma>
+  </synset>
+</multilingual-synset>

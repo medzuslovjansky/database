@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20208"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20208"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="D"
+    >
+      tancevati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>танцаваць</lemma>
+    <lemma>танчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>танцува</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tancovat</lemma>
+    <lemma>tančit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plesati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>танцува</lemma>
+    <lemma>танцување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tańczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>танцевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tancovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>ples</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плес</lemma>
+    <lemma>игра</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>танцювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>danci</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>tanzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dansen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17133"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17133" steen:pos="f." steen:type="1" steen:genesis="I">
+      aviakarta
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>авіябілет</lemma>
+    <lemma>білет на самалёт</lemma>
+    <lemma>квіток на самалёт</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>самолетен билет</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>letenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>aviokarta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>авионски билет</lemma>
+    <lemma>авио билет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bilet lotniczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>авиабилет</lemma>
+    <lemma>билет на самолёт</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>letenka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>letalska vozovnica</lemma>
+    <lemma>letalska karta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>авионска карта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>квиток на літак</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aviadilo bileto</lemma>
+    <lemma>aerolínea bileton</lemma>
+    <lemma>ebeno bileton</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Flugticket</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vliegticket</lemma>
+  </synset>
+</multilingual-synset>

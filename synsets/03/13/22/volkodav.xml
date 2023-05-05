@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31322"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31322" steen:pos="m.anim." steen:type="1">vȯlkodav</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ваўкарэз</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вълкодав</lemma>
+    <lemma>овчарско куче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vlkodav</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vučjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овчарско куче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ogar</lemma>
+    <lemma>pies gończy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>волкодав</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vlkodav</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="pes">Shepherd</lemma>
+    <lemma>pastirski pes</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="пас">овчар</lemma>
+    <lemma>овчарски пас</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вовкодав</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>wolfhound</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Wolfshund</lemma>
+    <lemma>Windhund</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wolfshond</lemma>
+  </synset>
+</multilingual-synset>

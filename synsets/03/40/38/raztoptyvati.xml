@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34038"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34038"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z yu mk"
+    >
+      råztȯptyvati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>растоптваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стъпчат</lemma>
+    <lemma annotation="крака">преса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozdupávat</lemma>
+    <lemma>rozšlapávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>rastvarati</lemma>
+    <lemma>rastapati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>растапкува</lemma>
+    <lemma>натапкува</lemma>
+    <lemma>нагмечува</lemma>
+    <lemma>разгазува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rozdeptywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>растаптывать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozdupávat</lemma>
+    <lemma>rozšlapávat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raztopi</lemma>
+    <lemma>raztopi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>растварати</lemma>
+    <lemma>растапати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розтоптувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premu</lemma>
+    <lemma annotation="subpiede">enamiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>trampeln</lemma>
+    <lemma annotation="unter den Füßen">zerquetschen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vertrappen</lemma>
+    <lemma>vertrappelen</lemma>
+  </synset>
+</multilingual-synset>

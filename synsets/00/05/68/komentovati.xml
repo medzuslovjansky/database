@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="568"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="568"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      komentovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каментаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>коментирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>komentovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>komentirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>коментира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>komentować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>комментировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>komentovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>komentar komentar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>коментирати</lemma>
+    <lemma>коментарисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коментувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>komento</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Kommentar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>becommentariëren</lemma>
+  </synset>
+</multilingual-synset>

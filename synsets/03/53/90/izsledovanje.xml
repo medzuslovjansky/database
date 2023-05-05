@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35390"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35390" steen:pos="n.sg." steen:type="1">
+      izslědovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даследаванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изследване</lemma>
+    <lemma>проучване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>průzkum</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>istraživanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>истражување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eksploracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исследование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>prieskum</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>raziskave</lemma>
+    <lemma>testiranje</lemma>
+    <lemma annotation="arch.">isleđenje</lemma>
+    <lemma annotation="arch.">isljeđenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>истраживање</lemma>
+    <lemma>испитивање</lemma>
+    <lemma annotation="арх.">ислеђење</lemma>
+    <lemma annotation="арх.">исљеђење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дослідження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>esplorado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Erkundung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verkenning</lemma>
+    <lemma>onderzoek</lemma>
+    <lemma>opsporing</lemma>
+    <lemma>navorsing</lemma>
+    <lemma>ontdekkingsreis</lemma>
+  </synset>
+</multilingual-synset>

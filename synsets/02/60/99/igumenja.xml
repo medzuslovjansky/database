@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26099"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="26099" steen:pos="f.">igumenja</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ігумення</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>игуменка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="pravoslavná">abatyše</lemma>
+    <lemma>matka představená</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>igumanija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>игуменија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="kobieta">igumen</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>игуменья</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="pravoslávna">abatyše</lemma>
+    <lemma>matka predstavená</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Igumanija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>игуманија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="православного монастиря">ігуменя</lemma>
+    <lemma>настоятелька</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de ortodoksa monaĥejo">abatino</lemma>
+    <lemma>patrino supera</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="ein orthodoxen Kloster">Äbtissin</lemma>
+    <lemma>Oberin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hegoumen</lemma>
+  </synset>
+</multilingual-synset>

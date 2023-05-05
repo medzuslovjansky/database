@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="10893"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="10893"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ub z yu"
+    >
+      pomarančevy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апельсінавы</lemma>
+    <lemma>памяранцавы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>портокалов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pomerančový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>narančast</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>портокалов</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="owoc">pomarańczowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>апельсиновый</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pomarančový</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>oranžen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наранџаст</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>апельсиновий</lemma>
+    <lemma>помаранчевий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>oranĝa</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Orange</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>sinaasappel-</lemma>
+  </synset>
+</multilingual-synset>

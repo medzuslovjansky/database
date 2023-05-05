@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36143"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36143"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="uk cs sh bm"
+    >
+      rędȯk
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="тэксту">радок</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>стих</lemma>
+    <lemma annotation="текст">низ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>verš</lemma>
+    <lemma annotation="text">řádek</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>stih</lemma>
+    <lemma annotation="linija teksta">red</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ред</lemma>
+    <lemma annotation="текст">линија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="linia tekstu">wiersz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="текста">строка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>verš</lemma>
+    <lemma annotation="text">riadok</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>verz</lemma>
+    <lemma annotation="vrstic besedila">Red</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стих</lemma>
+    <lemma annotation="линија текста">ред</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="тексту">рядок</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>verson</lemma>
+    <lemma annotation="de teksto">linio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vers</lemma>
+    <lemma annotation="Text">Zeile</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="tekst">regel</lemma>
+  </synset>
+</multilingual-synset>

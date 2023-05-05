@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34701"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34701"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      stabilizovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стабілізаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се стабилизира</lemma>
+    <lemma>за стабилизиране на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stabilizovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stabilizirati</lemma>
+    <lemma>ustaliti</lemma>
+    <lemma>uravnotežiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стабилизира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stabilizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стабилизировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>stabilizovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>stabilizirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стабилизовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стабілізувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stabiligi</lemma>
+    <lemma>stabiligi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>stabilisieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stabiliseren</lemma>
+  </synset>
+</multilingual-synset>

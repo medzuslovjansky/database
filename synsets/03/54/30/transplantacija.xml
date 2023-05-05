@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35430"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35430"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      transplantacija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>трансплантацыя</lemma>
+    <lemma>перасадка</lemma>
+    <lemma>перасаджванне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>трансплантация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>transplantace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>transplantacija</lemma>
+    <lemma>presađivanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>трансплантација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>transplantacja</lemma>
+    <lemma>przeszczep</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трансплантация</lemma>
+    <lemma>пересадка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>transplantácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>presaditev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трансплантација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>трансплантація</lemma>
+    <lemma>пересадка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transplanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Transplantation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>transplantatie</lemma>
+  </synset>
+</multilingual-synset>

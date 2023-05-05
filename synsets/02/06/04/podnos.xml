@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20604"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20604" steen:pos="m." steen:type="1" steen:same="ru cz sh">
+      podnos
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паднос</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>тава</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podnos</lemma>
+    <lemma>tác</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pladanj</lemma>
+    <lemma>poslužavnik</lemma>
+    <lemma>tacna</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>послужавник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>taca</lemma>
+    <lemma>tacka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поднос</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>podnos</lemma>
+    <lemma>tácku</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pladenj</lemma>
+    <lemma>pladenj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тацна</lemma>
+    <lemma>послужавник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>таця</lemma>
+    <lemma>піднос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pleto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tablett</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dienblad</lemma>
+  </synset>
+</multilingual-synset>

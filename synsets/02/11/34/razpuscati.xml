@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21134"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21134"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ru pl sh"
+    >
+      råzpušćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>распускаць</lemma>
+    <lemma>песціць</lemma>
+    <lemma>раздурваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>развали</lemma>
+    <lemma>побаловаться</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rozmazlovat</lemma>
+    <lemma>hýčkat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="dijete">raspuštati</lemma>
+    <lemma annotation="dijete">razmazivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расипува</lemma>
+    <lemma>пресипува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. dziecko">rozpuszczać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>распускать</lemma>
+    <lemma>баловать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rozmaznávať</lemma>
+    <lemma>hýčkať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="otrok">razgnati</lemma>
+    <lemma annotation="otroka">širiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="дете">распуштати</lemma>
+    <lemma annotation="дете">размазивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>розпускати</lemma>
+    <lemma>розпещувати</lemma>
+    <lemma>балувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ruinigo overindulge</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verderben</lemma>
+    <lemma>nachsichtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verwennen</lemma>
+  </synset>
+</multilingual-synset>

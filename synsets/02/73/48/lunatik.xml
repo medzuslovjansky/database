@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27348"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27348"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      lunatik
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лунацік</lemma>
+    <lemma>самнамбула</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лунатик</lemma>
+    <lemma>сомнамбул</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>náměsíčný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mjesečar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>месечар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>lunatyk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лунатик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>námesačný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lunatik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>месечар</lemma>
+    <lemma>лунатик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>сновида</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sonámbulo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Schlafwandler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>slaapwandelaar</lemma>
+  </synset>
+</multilingual-synset>

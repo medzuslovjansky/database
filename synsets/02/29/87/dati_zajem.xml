@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22987"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22987"
+      steen:addition="#(da)"
+      steen:pos="v.pf."
+      steen:type="1"
+    >
+      dati zajem
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>даць у доўг</lemma>
+    <lemma>даць пазыку</lemma>
+    <lemma>пазычыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заемам</lemma>
+    <lemma>давам назаем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="někomu">půjčit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>iznajmiti</lemma>
+    <lemma>pozajmiti</lemma>
+    <lemma>posuditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дава заем</lemma>
+    <lemma>позајмува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="komuś">pożyczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дать в долг</lemma>
+    <lemma>дать взаймы</lemma>
+    <lemma>одолжить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="niekomu">požičať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>oddati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>позајмити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>позичити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pruntedoni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verleihen</lemma>
+    <lemma>leihen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uitlenen</lemma>
+  </synset>
+</multilingual-synset>

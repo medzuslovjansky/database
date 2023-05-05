@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28343"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28343"
+      steen:pos="n."
+      steen:type="2"
+      steen:same="ru be pl sh mk"
+    >
+      navodnjańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абвадненне</lemma>
+    <lemma>арашэнне</lemma>
+    <lemma>паліванне</lemma>
+    <lemma>ірыгацыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поливане</lemma>
+    <lemma>напояване</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zavodňování</lemma>
+    <lemma>zavlažování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>navodnjavanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наводнување</lemma>
+    <lemma>иригација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawadnianie</lemma>
+    <lemma>irygacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обводнение</lemma>
+    <lemma>орошение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zavodňovanie</lemma>
+    <lemma>zavlažovanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>namakanje</lemma>
+    <lemma>irigacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наводњавање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поливання</lemma>
+    <lemma>зрошування</lemma>
+    <lemma>іригація</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>inundo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Flut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>irrigatie</lemma>
+    <lemma>bevloeiing</lemma>
+  </synset>
+</multilingual-synset>

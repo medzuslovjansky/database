@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5125"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5125" steen:pos="adj." steen:type="1" steen:genesis="I">
+      aktuaľny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>актуальны</lemma>
+    <lemma>своечасовы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>актуален</lemma>
+    <lemma>съвременен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aktuální</lemma>
+    <lemma>současný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravovremen</lemma>
+    <lemma annotation="u tijeku">relevantan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="тековни">актуелни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>aktualny</lemma>
+    <lemma>obecny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>актуальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>aktuálny</lemma>
+    <lemma>súčasný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>aktualen</lemma>
+    <lemma>ažuren</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>садашњи</lemma>
+    <lemma>тренутан. актуелан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>актуальний</lemma>
+    <lemma>своєчасий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ĝisdata</lemma>
+    <lemma>aktuala</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>aktuell</lemma>
+    <lemma>tatsächlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>actueel</lemma>
+  </synset>
+</multilingual-synset>

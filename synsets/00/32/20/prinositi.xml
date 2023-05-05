@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3220"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="3220" steen:pos="v.tr. ipf." steen:type="1">
+      prinositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыносіць</lemma>
+    <lemma>даваць</lemma>
+    <lemma>прычыняць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>донесе</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přinášet</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>donositi</lemma>
+    <lemma>prinositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>придонесува</lemma>
+    <lemma>носи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przynosić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приносить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prinášať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Znamka</lemma>
+    <lemma>ponudi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доносити</lemma>
+    <lemma>приносити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приносити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>venigu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bringen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="te voet">brengen</lemma>
+  </synset>
+</multilingual-synset>

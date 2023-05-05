@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36786"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36786"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ub pl"
+    >
+      zamȯlvjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>замаўляць</lemma>
+    <lemma>заказваць</lemma>
+    <lemma>рабціь замову</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поръчвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>objednávat</lemma>
+    <lemma>poroučet si</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naručivati</lemma>
+    <lemma>poručivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нарачува</lemma>
+    <lemma>порачува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamawiać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>заказывать</lemma>
+    <lemma>делать заказ</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="si">objednávať</lemma>
+    <lemma>zahovárať si</lemma>
+    <lemma>rozkazovať si</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naročiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наручивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>замовити</lemma>
+    <lemma>зробити замовлення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ordoni</lemma>
+    <lemma>fari ordon</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>bestellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestellen</lemma>
+  </synset>
+</multilingual-synset>

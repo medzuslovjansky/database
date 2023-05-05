@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="60"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="60"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      apelovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апеляваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>апелирам</lemma>
+    <lemma>обжалвам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>apelovat</lemma>
+    <lemma>odvolávat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žaliti se</lemma>
+    <lemma>podnositi žalbu</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>апелира</lemma>
+    <lemma>поплака</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>apelować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>апеллировать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>apelovať</lemma>
+    <lemma>odvolávať sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pritožiti se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>апеловати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>апелювати</lemma>
+    <lemma>звертатися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>apelacii</lemma>
+    <lemma>apeli</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Beschwerde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>appelleren</lemma>
+  </synset>
+</multilingual-synset>

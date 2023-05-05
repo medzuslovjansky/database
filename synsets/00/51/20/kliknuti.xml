@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5120"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5120"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kliknųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>клікнуць</lemma>
+    <lemma>пстрыкнуць кнопкай мышы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кликна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kliknout</lemma>
+    <lemma>stisknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kliknuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кликна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kliknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кликнуть</lemma>
+    <lemma>щёлкнуть кнопкой мыши</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kliknúť</lemma>
+    <lemma>stlačiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кликнути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клацнути</lemma>
+    <lemma>клікнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>klaku</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>klicken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klikken</lemma>
+  </synset>
+</multilingual-synset>

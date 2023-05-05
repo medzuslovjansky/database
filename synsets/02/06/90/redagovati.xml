@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20690"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="20690"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:genesis="I"
+    >
+      redagovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рэдагаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>редактиране на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>redigovat</lemma>
+    <lemma>upravovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>redigirati</lemma>
+    <lemma>uređivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реагира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>redagować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>редактировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>redigovať</lemma>
+    <lemma>upravovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uredi</lemma>
+    <lemma>prekriti</lemma>
+    <lemma annotation="revije, časopisi">prekriti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уређивати</lemma>
+    <lemma>редигирати</lemma>
+    <lemma annotation="часопис, новине, текст">редиговати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>редагувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>redakti</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bearbeiten</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>redigeren</lemma>
+  </synset>
+</multilingual-synset>

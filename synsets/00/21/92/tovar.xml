@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="2192"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="2192" steen:pos="m." steen:type="1">tovar</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тавар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стоки</lemma>
+    <lemma>продукти</lemma>
+    <lemma>товар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zboží</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tovar</lemma>
+    <lemma>teret</lemma>
+    <lemma>roba</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стоки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>towar</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>товар</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tovar</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>blago</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>роба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>товар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>varoj</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Waren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>goederen</lemma>
+    <lemma>waren</lemma>
+  </synset>
+</multilingual-synset>

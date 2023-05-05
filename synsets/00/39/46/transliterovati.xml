@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="3946"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="3946"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      transliterovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>транслітараваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>транслитерирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>transliterovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>transliterirati</lemma>
+    <lemma>obavljati transliteraciju</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>транслитерира</lemma>
+    <lemma>преведе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>transliterować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>транслитерировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>prepísať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>transliterates</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>транслитерисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>транслітерувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>transliteran</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>umschreiben</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>translitereren</lemma>
+  </synset>
+</multilingual-synset>

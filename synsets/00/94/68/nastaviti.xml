@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="9468"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="9468"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z sl"
+    >
+      nastaviti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>устанавіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>установя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nastavit</lemma>
+    <lemma>ustavit</lemma>
+    <lemma>ustanovit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>postaviti</lemma>
+    <lemma>namjestiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>намести</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustawić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>установить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nastaviť</lemma>
+    <lemma>ustanoviť</lemma>
+    <lemma>vymenovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prilagoditi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>подесити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>встановити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>aro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einstellen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instellen</lemma>
+  </synset>
+</multilingual-synset>

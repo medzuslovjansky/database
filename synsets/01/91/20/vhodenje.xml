@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="19120"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="19120" steen:pos="n.sg." steen:type="1">vhođeńje</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="дзеянне">уваход</lemma>
+    <lemma>уваходжанне</lemma>
+    <lemma annotation="на транспарт">пасадка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>влизане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vstup</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ulazak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влегување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wchodzenie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="действие">вход</lemma>
+    <lemma>вхождение</lemma>
+    <lemma annotation="на транспорт">посадка</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vstup</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vkrcanje</lemma>
+    <lemma>vnos</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>укрцавање</lemma>
+    <lemma>улажење</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="дія">вхід</lemma>
+    <lemma>входження</lemma>
+    <lemma annotation="на транспорт">посадка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>enirejo</lemma>
+    <lemma>internigita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Eingabe Internat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>binnenkomst</lemma>
+  </synset>
+</multilingual-synset>

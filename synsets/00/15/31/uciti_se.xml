@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1531"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1531"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      učiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вучыцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се научим</lemma>
+    <lemma>да</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>učit se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>učiti se</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се учи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uczyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>учиться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>učiť sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>učiti se</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>учити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>учитися</lemma>
+    <lemma>вчитися</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>lerni</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>lernen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>leren</lemma>
+    <lemma>studeren</lemma>
+  </synset>
+</multilingual-synset>

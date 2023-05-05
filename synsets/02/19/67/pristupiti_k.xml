@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21967"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21967"
+      steen:addition="(+3)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      pristųpiti k
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыступіць</lemma>
+    <lemma>заступіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="задачи">подход за</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přistoupit k</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="a">pristupiti k</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристапи</lemma>
+    <lemma>почна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przystąpić do</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>приступить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pristúpiť k</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>dostop</lemma>
+    <lemma>reševanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>приступити</lemma>
+    <lemma>латити се</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приступити до</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="tasko">alproksimiĝo cxirkauxita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ansatz</lemma>
+    <lemma annotation="Aufgabe">stellen etwa</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overgaan tot</lemma>
+  </synset>
+</multilingual-synset>

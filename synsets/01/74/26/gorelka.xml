@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17426"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17426" steen:pos="f." steen:type="1" steen:same="v z">
+      gorělka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гарылка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бренди</lemma>
+    <lemma>ракия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kořalka</lemma>
+    <lemma>pálenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rakija</lemma>
+    <lemma>ljuta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>вотка</lemma>
+    <lemma annotation="разг. пр: Дај по една љута">љута</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gorzałka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>горилка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pálenka</lemma>
+    <lemma>liehovina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>žganje</lemma>
+    <lemma>vodka</lemma>
+    <lemma>alkohol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="жарг.">вотка</lemma>
+    <lemma>вотка од милоште</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>горілка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>brando</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Brandy</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>brandewijn</lemma>
+  </synset>
+</multilingual-synset>

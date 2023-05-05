@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33105"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33105" steen:pos="adj." steen:type="1" steen:same="v j">
+      neobhodimy
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>неабходны</lemma>
+    <lemma>патрэбны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>потребен</lemma>
+    <lemma>необходим</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nezbytný</lemma>
+    <lemma>nutný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>neophodan</lemma>
+    <lemma>potreban</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>потребен</lemma>
+    <lemma>неопходен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nieodzowny</lemma>
+    <lemma>niezbędny</lemma>
+    <lemma>konieczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>необходимый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nevyhnutný</lemma>
+    <lemma>nutný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>potrebna</lemma>
+    <lemma>potrebno</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>неопходан</lemma>
+    <lemma>потребан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>необхідний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>necesa</lemma>
+    <lemma>nemalhavebla</lemma>
+    <lemma>esenca</lemma>
+    <lemma>kondiĉo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>notwendig</lemma>
+    <lemma>unverzichtbar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvermijdelijk</lemma>
+    <lemma>onmisbaar</lemma>
+  </synset>
+</multilingual-synset>

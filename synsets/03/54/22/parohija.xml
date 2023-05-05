@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35422"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35422"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="uk sh mk"
+      steen:genesis="I"
+    >
+      parohija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>парафія</lemma>
+    <lemma annotation="царкоўны">прыход</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>идването на</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>farnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>župa</lemma>
+    <lemma>parohija</lemma>
+    <lemma>fara</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>парохија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>parafia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="церковный">приход</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>farnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>parohhija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пароххија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>парафія</lemma>
+    <lemma>парохія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>paroĥo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gemeinde</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>parochie</lemma>
+  </synset>
+</multilingual-synset>

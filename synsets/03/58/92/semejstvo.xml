@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35892"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="35892" steen:pos="n." steen:type="2" steen:same="v bm">
+      sěmejstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="зап.">семейства</lemma>
+    <lemma>сям&apos;я</lemma>
+    <lemma>дамачадцы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>семейни</lemma>
+    <lemma>домашни</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>rodina</lemma>
+    <lemma>rod</lemma>
+    <lemma annotation="biol.">čeleď</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obitelj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>семејство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rodzina</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>семейство</lemma>
+    <lemma>домочадцы</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>rodina</lemma>
+    <lemma>rod</lemma>
+    <lemma annotation="biol.">čeľaď</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>družina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>породица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>родина</lemma>
+    <lemma>сім&apos;я</lemma>
+    <lemma>сімейство</lemma>
+    <lemma>домашні</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>familio</lemma>
+    <lemma>hejmo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Familie</lemma>
+    <lemma>Haushalt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>familie</lemma>
+    <lemma>huishouden</lemma>
+  </synset>
+</multilingual-synset>

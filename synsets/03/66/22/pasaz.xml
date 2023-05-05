@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36622"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36622"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      pasaž
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="будынак">пасаж</lemma>
+    <lemma>галерэя</lemma>
+    <lemma />
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="сграда">проход</lemma>
+    <lemma>арка</lemma>
+    <lemma>аркада</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pasáž</lemma>
+    <lemma>průchod</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pasaž</lemma>
+    <lemma>prolaz</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пасаж</lemma>
+    <lemma annotation="зграда">премин</lemma>
+    <lemma>лак</lemma>
+    <lemma>аркада</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="budynek">pasaż</lemma>
+    <lemma>galeria</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="здание">пассаж</lemma>
+    <lemma>галерея</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>pasáž</lemma>
+    <lemma>priechod</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="Arch.">prehod je prehod</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пасаж</lemma>
+    <lemma annotation="арх.">пролаз</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="будівля">пасаж</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="konstruaĵo">pasejo</lemma>
+    <lemma>arkajxo</lemma>
+    <lemma>arkado</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Gebäude">Durchgang</lemma>
+    <lemma>Torbogen</lemma>
+    <lemma>Arkade</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="gebouw">passage</lemma>
+    <lemma>galerij</lemma>
+  </synset>
+</multilingual-synset>

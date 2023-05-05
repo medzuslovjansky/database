@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34100"
+      steen:addition="(odbije)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+    >
+      odbiti sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адбіцца</lemma>
+    <lemma>паўплываць</lemma>
+    <lemma>зрабіць уплыў</lemma>
+    <lemma>падзейнічаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>има ефект</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odrazit se</lemma>
+    <lemma>mít vliv</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">odraziti</lemma>
+    <lemma>imati učinak</lemma>
+    <lemma annotation="se">reflektirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се одрази</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poskutkować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отразиться</lemma>
+    <lemma>повлиять</lemma>
+    <lemma>подействовать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odraziť sa</lemma>
+    <lemma>mať vplyv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vpliv</lemma>
+    <lemma annotation="o nečem">vpliva</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одразити</lemma>
+    <lemma annotation="на нешто">имати утицај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вплинути</lemma>
+    <lemma>подіяти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sian efikon</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>wirken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zijn weerslag hebben</lemma>
+    <lemma>zijn stempel drukken op</lemma>
+  </synset>
+</multilingual-synset>

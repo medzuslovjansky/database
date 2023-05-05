@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="13568"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="13568" steen:pos="m.anim." steen:type="1">vŕhnik</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>начальнік</lemma>
+    <lemma>кіраўнік</lemma>
+    <lemma>бос</lemma>
+    <lemma>шэф</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>началник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vrchní</lemma>
+    <lemma>veliltel</lemma>
+    <lemma>šéf</lemma>
+    <lemma>boss</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>Voditelj</lemma>
+    <lemma>gazda</lemma>
+    <lemma annotation="arh.">vrhovnik</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шеф</lemma>
+    <lemma>надреден</lemma>
+    <lemma>челник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>szef</lemma>
+    <lemma>zwierzchnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>начальник</lemma>
+    <lemma>босс</lemma>
+    <lemma>шеф</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vrchný</lemma>
+    <lemma>veliltel</lemma>
+    <lemma>šéf</lemma>
+    <lemma>boss</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>šef</lemma>
+    <lemma>šef</lemma>
+    <lemma annotation="arch.">glava</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шеф</lemma>
+    <lemma>газда</lemma>
+    <lemma annotation="арх.">врховник</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>голова</lemma>
+    <lemma>керівник</lemma>
+    <lemma>шеф</lemma>
+    <lemma>начальник</lemma>
+    <lemma>бос</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>estro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Chef</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>baas</lemma>
+    <lemma>chef</lemma>
+    <lemma>leidinggevende</lemma>
+  </synset>
+</multilingual-synset>

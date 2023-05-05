@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5713"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5713"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru cs bg"
+    >
+      spotrěbovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спажыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>консумират</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spotřebovávat</lemma>
+    <lemma>konzumovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>trošiti</lemma>
+    <lemma>konzumirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>употребува</lemma>
+    <lemma>конзумира</lemma>
+    <lemma>троши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zużywać</lemma>
+    <lemma>konsumować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потребить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spotrebovávať</lemma>
+    <lemma>konzumovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>jej</lemma>
+    <lemma>porabijo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>трошити</lemma>
+    <lemma>конзумирати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>спожити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsumi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verbrauchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>consumeren</lemma>
+  </synset>
+</multilingual-synset>

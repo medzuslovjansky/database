@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="15151"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="15151" steen:pos="adv." steen:type="3" steen:same="ru">
+      vměstu
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>разам</lemma>
+    <lemma>супольна</lemma>
+    <lemma annotation="зап.">сумесна</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заедно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spolu</lemma>
+    <lemma>společně</lemma>
+    <lemma>najednou</lemma>
+    <lemma>současně</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>zajedno</lemma>
+    <lemma>skupa</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заедно</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>razem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вместе</lemma>
+    <lemma>совместно</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spolu</lemma>
+    <lemma>spoločne</lemma>
+    <lemma>naraz</lemma>
+    <lemma>súčasne</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skupaj skupaj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заједно</lemma>
+    <lemma>скупа</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>разом</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kune</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>zusammen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>samen</lemma>
+    <lemma>gezamenlijk</lemma>
+    <lemma>tezamen</lemma>
+  </synset>
+</multilingual-synset>

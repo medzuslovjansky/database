@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33363"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33363"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      nabzděti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напярдзець</lemma>
+    <lemma>набздзець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пръдня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>naprdět</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prdnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прдна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pierdnąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напердеть</lemma>
+    <lemma annotation="вульг.">набздеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>naprdieť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>za prdec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прднути</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напердіти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>furzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Furz</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>winden</lemma>
+    <lemma>ruften</lemma>
+  </synset>
+</multilingual-synset>

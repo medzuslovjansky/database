@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36042"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36042"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ub z sh"
+    >
+      pogoršiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пагоршыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>влоша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zhoršit</lemma>
+    <lemma>pohoršit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pogoršati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>влоши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pogorszyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ухудшить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zhoršiť</lemma>
+    <lemma>pohoršiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>slabše</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>погоршати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>погіршити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>difekti</lemma>
+    <lemma>plimalbonigas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>verschlechtern</lemma>
+    <lemma>noch schlimmer machen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verslechteren</lemma>
+  </synset>
+</multilingual-synset>

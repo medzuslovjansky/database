@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29137"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="29137"
+      steen:addition="(odpiše)"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ub z sl"
+    >
+      odpisati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адпісаць</lemma>
+    <lemma annotation="на ліст">адказаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="писмено">отговор</lemma>
+    <lemma>за да се запише обратно</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odepsat</lemma>
+    <lemma annotation="písemně">odpovědět</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>otpisati</lemma>
+    <lemma>odgovoriti na pismo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="на писмо">одговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odpisać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="на письмо">ответить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odpísať</lemma>
+    <lemma annotation="písomne">odpovedať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preklicana</lemma>
+    <lemma>je odgovor na pismo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отписати</lemma>
+    <lemma>одговорити на писмо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відписати</lemma>
+    <lemma annotation="на лист">відповісти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="skribe">respondi</lemma>
+    <lemma>registran reen</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="schriftlich">Antwort</lemma>
+    <lemma>schreiben Sie zurück</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>terugschrijven</lemma>
+  </synset>
+</multilingual-synset>

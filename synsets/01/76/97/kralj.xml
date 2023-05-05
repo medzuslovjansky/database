@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17697"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="17697" steen:pos="m.anim." steen:type="1">krålj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="шахматы">кароль</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="шах">цар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="šachy">král</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kralj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="шах">крал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="szachy">król</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="шахматы">король</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="šach">kráľ</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>King</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>краљ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="шахи">король</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ŝako">reĝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Schach">König</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="schaakspel">koning</lemma>
+  </synset>
+</multilingual-synset>

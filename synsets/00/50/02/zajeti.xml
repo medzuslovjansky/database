@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5002"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="5002"
+      steen:addition="(zajme)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      zajęti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заняць</lemma>
+    <lemma>назаймаць</lemma>
+    <lemma>пазаймаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>заема</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zabrat</lemma>
+    <lemma>obsadit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zauzeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>заземе</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zająć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>занять</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zabrať</lemma>
+    <lemma>obsadiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>sprejmejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>заузети</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зайняти</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>okupi</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>besetzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezetten</lemma>
+  </synset>
+</multilingual-synset>

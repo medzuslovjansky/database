@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35684"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35684"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      grafičny
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>графічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>графичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>grafický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>grafički</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>графички</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>graficzny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>графический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>grafický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>grafičen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>графички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>графічний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>grafika</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Grafik</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>grafisch</lemma>
+  </synset>
+</multilingual-synset>

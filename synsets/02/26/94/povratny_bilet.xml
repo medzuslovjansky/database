@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22694"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22694" steen:pos="m." steen:type="2" steen:same="pl sh">
+      povråtny bilet
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зваротны квіток</lemma>
+    <lemma>квіток у абодва напрамкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>билет за отиване и връщане</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpáteční letenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>povratna karta</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>повратен билет</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bilet powrotny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обратный билет</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>spiatočný letenka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>povratna vozovnica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повратна карта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зворотний квиток</lemma>
+    <lemma>квиток в обидва напрямки</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ronda-vojaĝo bileto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Rückfahrkarte</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>retourticket</lemma>
+  </synset>
+</multilingual-synset>

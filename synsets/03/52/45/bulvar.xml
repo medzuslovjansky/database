@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35245"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35245"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
+      bulvar
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бульвар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>булевард</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bulvár</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bulevar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>булевар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bulwar</lemma>
+    <lemma>aleja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бульвар</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bulvár</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bulvar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>булевар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бульвар</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bulvardo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Boulevard</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boulevard</lemma>
+    <lemma>promenade</lemma>
+  </synset>
+</multilingual-synset>

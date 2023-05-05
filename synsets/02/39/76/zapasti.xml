@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="23976"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="23976"
+      steen:addition="(zapade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      zapasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>запасці</lemma>
+    <lemma>заваліцца</lemma>
+    <lemma>забурыцца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запада</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zapadnout</lemma>
+    <lemma>zajít</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zapasti</lemma>
+    <lemma>zaći</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>запаѓа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zapaść</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>запасть</lemma>
+    <lemma>завалиться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zapadnúť</lemma>
+    <lemma>zájsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>padec</lemma>
+    <lemma>umivalnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>запасти</lemma>
+    <lemma>потонути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>запасти</lemma>
+    <lemma>завалитися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sinki malsupren</lemma>
+    <lemma>iru malsupren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>absinken</lemma>
+    <lemma>nach unten gehen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wegzakken</lemma>
+    <lemma>wegzinken</lemma>
+  </synset>
+</multilingual-synset>

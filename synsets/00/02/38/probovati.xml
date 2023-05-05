@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="238"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="238"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      probovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>спрабаваць</lemma>
+    <lemma annotation="харч.">спытваць</lemma>
+    <lemma annotation="харч.">смакаваць</lemma>
+    <lemma annotation="харч.">рассмакоўваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>опитайте</lemma>
+    <lemma>от опит</lemma>
+    <lemma>вкус</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkoušet</lemma>
+    <lemma>ochutnávat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>probati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пробува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>próbować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пробовать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>skúšať</lemma>
+    <lemma>ochutnávať</lemma>
+    <lemma>probovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poskusiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пробати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пробувати</lemma>
+    <lemma>куштувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>provo</lemma>
+    <lemma>provo</lemma>
+    <lemma>gusto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>versuchen</lemma>
+    <lemma>versuchen</lemma>
+    <lemma>Geschmack</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>proberen</lemma>
+    <lemma>trachten</lemma>
+    <lemma>proeven</lemma>
+  </synset>
+</multilingual-synset>

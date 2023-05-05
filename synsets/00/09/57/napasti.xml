@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="957"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="957"
+      steen:addition="(napade)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      napasti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напасці</lemma>
+    <lemma>накінуцца</lemma>
+    <lemma>атакаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>нападам</lemma>
+    <lemma>атакувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zaútočit</lemma>
+    <lemma>napadnout</lemma>
+    <lemma>přepadnout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>napasti</lemma>
+    <lemma>spopasti</lemma>
+    <lemma>obizeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>нападне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="atak">napaść</lemma>
+    <lemma>zaatakować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напасть</lemma>
+    <lemma>атаковать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zaútočiť</lemma>
+    <lemma>napadnúť</lemma>
+    <lemma>prepadnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="sovražnik">napad</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="на непријатеља">напасти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напасти</lemma>
+    <lemma>атакувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atako</lemma>
+    <lemma>atako</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Angriff</lemma>
+    <lemma>Angriff</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aanvallen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1921"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="1921" steen:pos="m.anim." steen:type="1">
+      zakonodatelj
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>заканадаўца</lemma>
+    <lemma>заканадавец</lemma>
+    <lemma>заканатворца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>законодател</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zákonodárce</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zakonodavac</lemma>
+    <lemma>legislator</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>законодавец</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ustawodawca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>законодатель</lemma>
+    <lemma>депутат</lemma>
+    <lemma annotation="ирон., публ.">законотворец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zákonodarca</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zakonodajalec</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>законодавац</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>законодавець</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>leĝdonanto</lemma>
+    <lemma>leĝdonanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gesetzgeber</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wetgever</lemma>
+  </synset>
+</multilingual-synset>

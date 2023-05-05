@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18462"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="18462"
+      steen:addition="(pribųde)"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+    >
+      pribyti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыбыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>дойде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dorazit</lemma>
+    <lemma>přijet</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>doći</lemma>
+    <lemma>prispjeti</lemma>
+    <lemma>pristignuti</lemma>
+    <lemma>pristići</lemma>
+    <lemma>stići</lemma>
+    <lemma annotation="avionom">doletjeti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пристигна</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przybyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прибыть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>doraziť</lemma>
+    <lemma>prísť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>prišli</lemma>
+    <lemma>prišli</lemma>
+    <lemma>pristignuti</lemma>
+    <lemma>prišli</lemma>
+    <lemma>prišli</lemma>
+    <lemma annotation="z letalom">letijo v</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>доћи</lemma>
+    <lemma>приспети</lemma>
+    <lemma>пристигнути</lemma>
+    <lemma>пристићи</lemma>
+    <lemma>стићи</lemma>
+    <lemma annotation="авионом">долетети</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>прибути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alveni</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ankommen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>aankomen</lemma>
+    <lemma>arriveren</lemma>
+  </synset>
+</multilingual-synset>

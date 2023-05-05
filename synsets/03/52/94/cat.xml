@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35294"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35294"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="E"
+    >
+      čat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>чат</lemma>
+    <lemma>гутарка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="телефон, интернет">чат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="telefon, internet">chat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>chat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>чат</lemma>
+    <lemma annotation="телефон, интернет">разговор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>czat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>чат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="telefón, internet">chat</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>klepet</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>чет</lemma>
+    <lemma annotation="телефон, интернет">ћаскање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>чат</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="telefono, interreto">babilejo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Telefon, Internet">Chat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>chat</lemma>
+  </synset>
+</multilingual-synset>

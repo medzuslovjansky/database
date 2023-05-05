@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36264"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36264"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="sk yu mk"
+    >
+      prěnositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="традыцыю">перадаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="например, на традицията">връщаме надолу</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="tradice">předávat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>prenositi</lemma>
+    <lemma>predavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>пренесува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przekazywać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="традицию">передавать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma annotation="tradícia">odovzdávať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naučiti</lemma>
+    <lemma>da bi</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>предавати</lemma>
+    <lemma>давати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="традицію">передавати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="ekz tradicio">pasi malsupren</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="beispielsweise eine Überlieferung">überliefert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overleveren</lemma>
+    <lemma annotation="bv. een traditie">overdragen</lemma>
+  </synset>
+</multilingual-synset>

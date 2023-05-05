@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22848"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="22848" steen:pos="f." steen:type="1" steen:same="v sh bm">
+      marka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="паштовая">марка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пощенска марка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poštovní známka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poštanska marka</lemma>
+    <lemma>poštanska markica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="пр.поштенска">марка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>znaczek pocztowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="почтовая">марка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>poštová známka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Poštna znamka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поштанска марка</lemma>
+    <lemma>маркица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="поштова">марка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>poŝtmarko</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stempel briefmarken-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>postzegel</lemma>
+  </synset>
+</multilingual-synset>

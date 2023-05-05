@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31448"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31448" steen:pos="f." steen:type="1" steen:same="v pl cs~">
+      vyvěska
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шыльда</lemma>
+    <lemma>афіша</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>надпис</lemma>
+    <lemma>табела</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vývěsní štít</lemma>
+    <lemma>informační tabule</lemma>
+    <lemma>vývěska</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>natpis</lemma>
+    <lemma>transparent</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>натпис</lemma>
+    <lemma>фирма</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wywieszka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вывеска</lemma>
+    <lemma>афиша</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>vývesný štít</lemma>
+    <lemma>informačné tabule</lemma>
+    <lemma>výveska</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>znak krovu</lemma>
+    <lemma annotation="tabla z imenom">je družba</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>натпис</lemma>
+    <lemma>натписна табла</lemma>
+    <lemma annotation="табла са називом">фирма</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вивіска</lemma>
+    <lemma>афіша</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ŝildo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Tafel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>uithangbord</lemma>
+  </synset>
+</multilingual-synset>

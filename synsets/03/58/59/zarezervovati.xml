@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35859"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35859"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      zarezervovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зарэзерваваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>запазя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zarezervovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>rezervirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>резервира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zarezerwować</lemma>
+    <lemma>zabukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зарезервировать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zarezervovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rezervirati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>резервисати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зарезервувати</lemma>
+    <lemma>забронювати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rezervo</lemma>
+    <lemma>libro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Reserve</lemma>
+    <lemma>Buch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>reserveren</lemma>
+  </synset>
+</multilingual-synset>

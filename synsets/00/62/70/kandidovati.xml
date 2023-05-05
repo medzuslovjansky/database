@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="6270"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="6270"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kandidovati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>балатавацца</lemma>
+    <lemma>вылучаць сваю кандыдатуру</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кандидатирам се</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kandidovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kandidirati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кандидира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kandydować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>баллотироваться</lemma>
+    <lemma>выдвигать свою кандидатуру</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kandidovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>skrilavca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кандидовати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>балотуватися</lemma>
+    <lemma>висувати свою кандидатуру</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>prezentis kiel kandidato</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vorbringen als Kandidat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kandideren</lemma>
+  </synset>
+</multilingual-synset>

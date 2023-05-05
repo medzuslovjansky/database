@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27192"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="27192" steen:pos="f." steen:type="2" steen:same="ru bg">
+      lihva
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыбытак</lemma>
+    <lemma>працэнты</lemma>
+    <lemma>адсоткі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лихва</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>úrok</lemma>
+    <lemma>zisk</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kamata</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лихва</lemma>
+    <lemma>камата</lemma>
+    <lemma>интерес</lemma>
+    <lemma>профит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odsetki</lemma>
+    <lemma>zysk</lemma>
+    <lemma>profit</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прибыль</lemma>
+    <lemma>проценты</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>úrok</lemma>
+    <lemma>zisk</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obresti</lemma>
+    <lemma>oderuštvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>камата</lemma>
+    <lemma>лихва</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відсотки</lemma>
+    <lemma>прибуток</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>intereso</lemma>
+    <lemma>profito</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Zinsen</lemma>
+    <lemma>Gewinn</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>rente</lemma>
+  </synset>
+</multilingual-synset>

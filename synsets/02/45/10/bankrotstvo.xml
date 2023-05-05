@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="24510"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="24510"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      bankrotstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>банкруцтва</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>банкрут</lemma>
+    <lemma>несъстоятелност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>bankrot</lemma>
+    <lemma>úpadek</lemma>
+    <lemma>konkurz</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stečaj</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стечај</lemma>
+    <lemma>банкротство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bankructwo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>банкротство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bankrot</lemma>
+    <lemma>úpadok</lemma>
+    <lemma>konkurz</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>stečaj</lemma>
+    <lemma>bankrot</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>банкротство</lemma>
+    <lemma>стечај</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>банкрутство</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>bankroto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bankrott</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>faillissement</lemma>
+  </synset>
+</multilingual-synset>

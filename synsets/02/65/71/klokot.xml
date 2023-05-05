@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="26571"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="26571"
+      steen:pos="m.sg."
+      steen:type="2"
+      steen:same="ru cz sl"
+    >
+      klokot
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>булькат</lemma>
+    <lemma>клёкат</lemma>
+    <lemma>віраванне</lemma>
+    <lemma>бурленне</lemma>
+    <lemma>журчанне</lemma>
+    <lemma>бурленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>клокочене</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klokot</lemma>
+    <lemma>bublání</lemma>
+    <lemma>zurčení</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klokot</lemma>
+    <lemma>klokotanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>клокот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bulgot</lemma>
+    <lemma>bulgotanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клокот</lemma>
+    <lemma>бурление</lemma>
+    <lemma>журчание</lemma>
+    <lemma>бульканье</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klokot</lemma>
+    <lemma>bublanie</lemma>
+    <lemma>zurkot</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>klokotanje</lemma>
+    <lemma>klokotanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клокот</lemma>
+    <lemma>клокотање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>клекіт</lemma>
+    <lemma>клекотіння</lemma>
+    <lemma>булькотіння</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>sinsekvajn</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Gurgeln</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>geklok</lemma>
+  </synset>
+</multilingual-synset>

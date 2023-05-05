@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21546"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21546"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="ru pl cz"
+    >
+      ssědati sę
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="пра малако">згортвацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пресичам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>srážet se</lemma>
+    <lemma>kysat</lemma>
+    <lemma annotation="např. mléko">sedat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">zgrušavati</lemma>
+    <lemma annotation="se">ugrušavati</lemma>
+    <lemma annotation="se">zgrudavati</lemma>
+    <lemma annotation="se">zgušnjavati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>станува урда</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="żywność">warzyć się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="о молоке">сворачиваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zrážať sa</lemma>
+    <lemma>kysat</lemma>
+    <lemma annotation="napr. mlieko">sadať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>uskisivati</lemma>
+    <lemma>ukiseljivati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ускисивати</lemma>
+    <lemma>укисељивати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="про молоко">згортатися</lemma>
+    <lemma>скисати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>curdle</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>gerinnen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>schiften</lemma>
+  </synset>
+</multilingual-synset>

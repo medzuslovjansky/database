@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="18060"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="18060" steen:pos="v.tr. ipf." steen:type="1">
+      odčinjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>выпраўляць</lemma>
+    <lemma>папраўляць</lemma>
+    <lemma>наладжваць</lemma>
+    <lemma>паладжваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отказ</lemma>
+    <lemma annotation="заклинание">за да се разделят</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>odčiňovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>poništavati</lemma>
+    <lemma>obezvređivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>расипува магија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdejmować klątwę</lemma>
+    <lemma annotation="urok">odczyniać</lemma>
+    <lemma>odwracać skutki</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>исправлять</lemma>
+    <lemma>возмещать</lemma>
+    <lemma>искуплять</lemma>
+    <lemma annotation="изменения">откатывать</lemma>
+    <lemma annotation="заклятье">снимать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odčiňovat</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>očinjavati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>очињавати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>виправляти</lemma>
+    <lemma>відшкодовувати</lemma>
+    <lemma>спокутувати</lemma>
+    <lemma annotation="зміни">відкочувати</lemma>
+    <lemma annotation="закляття">знімати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>malfari</lemma>
+    <lemma annotation="sorĉas">paŭzo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Undo</lemma>
+    <lemma annotation="ein Zauber">Pause</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ongedaan maken</lemma>
+  </synset>
+</multilingual-synset>

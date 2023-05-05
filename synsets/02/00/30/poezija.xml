@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20030"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20030" steen:pos="f." steen:type="1" steen:genesis="I">
+      poezija
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паэзія</lemma>
+    <lemma>вершы</lemma>
+    <lemma>лірыка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лирика</lemma>
+    <lemma>поезия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>poezie</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poezija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>поезија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poezja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поэзия</lemma>
+    <lemma>стихи</lemma>
+    <lemma>лирика</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>poézie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poezija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поезија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поезія</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>poezio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Poesie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>poëzie</lemma>
+    <lemma>dichtkunst</lemma>
+  </synset>
+</multilingual-synset>

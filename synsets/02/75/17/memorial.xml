@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="27517"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="27517"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v pl"
+      steen:genesis="I"
+    >
+      memorial
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мемарыял</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мемориал</lemma>
+    <lemma>паметник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>památník</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>memorijal</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>меморијал</lemma>
+    <lemma>споменик</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pomnik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мемориал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pamätník</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>obeležje</lemma>
+    <lemma>spomenik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>меморијал</lemma>
+    <lemma>споменик</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>меморіал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>memorigajxo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Denkmal</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gedenkteken</lemma>
+  </synset>
+</multilingual-synset>

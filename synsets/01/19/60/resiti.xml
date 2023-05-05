@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="11960"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="11960" steen:pos="v.tr. pf." steen:type="1">rěšiti</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вырашыць</lemma>
+    <lemma annotation="задачу">рашыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>реши</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>řešit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>riješiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>реши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="np. zagadkę">rozwiązać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="задачу">решить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>riešiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>rešiti</lemma>
+    <lemma>da bi našli rešitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>решити</lemma>
+    <lemma>наћи решење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="завдання">вирішити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>solvi</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>lösen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="probleem">oplossen</lemma>
+  </synset>
+</multilingual-synset>

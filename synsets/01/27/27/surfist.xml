@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="12727"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="12727"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="sk bg"
+      steen:genesis="I"
+    >
+      surfist
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>сёрфер</lemma>
+    <lemma>сёрфінгіст</lemma>
+    <lemma>серфінгіст</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>сърфист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>surfař</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>surfer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сурфер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>surfer</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сёрфер</lemma>
+    <lemma>сёрфингист</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>surfár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>surfer</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>сурфер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>серфер</lemma>
+    <lemma>серфінгіст</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>retumanto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Surfer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>surfer</lemma>
+  </synset>
+</multilingual-synset>

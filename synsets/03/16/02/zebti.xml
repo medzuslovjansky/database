@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31602"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="31602"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z yu"
+    >
+      zębti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калець</lemma>
+    <lemma>склець</lemma>
+    <lemma>зябнуць</lemma>
+    <lemma>дубець</lemma>
+    <lemma>мерзнуць</lemma>
+    <lemma>залець</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>замръзвам</lemma>
+    <lemma>мръзна</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zábst</lemma>
+    <lemma>mrznout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zepsti</lemma>
+    <lemma>mrznuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ѕемне</lemma>
+    <lemma>замрзнува</lemma>
+    <lemma>мрзне</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ziębnąć</lemma>
+    <lemma>marznąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>зябнуть</lemma>
+    <lemma>мёрзнуть</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>oziabať</lemma>
+    <lemma>mrznúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zamrzne</lemma>
+    <lemma>mrznuti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>зепсти</lemma>
+    <lemma>мрзнути</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>мерзнути</lemma>
+    <lemma>мерзнути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>frostigi</lemma>
+    <lemma>tre malvarma</lemma>
+    <lemma>ektremo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>einfrieren</lemma>
+    <lemma>sehr kalt</lemma>
+    <lemma>Schauer</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevriezen</lemma>
+    <lemma>het heel koud hebben</lemma>
+  </synset>
+</multilingual-synset>

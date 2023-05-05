@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="29635"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="29635" steen:pos="n." steen:type="1">oslę</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>асляня</lemma>
+    <lemma>аслянё</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="магаренце">осле</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>osle</lemma>
+    <lemma>hříbě osla</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>magare</lemma>
+    <lemma>magarčić</lemma>
+    <lemma>magarence</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>магаренце</lemma>
+    <lemma>прле</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>oślę</lemma>
+    <lemma>młode osła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ослёнок</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>oslíča</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>magarence</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>магаренце</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>осля</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="de azeno">ĉevalido</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="von einem Esel">Fohlen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ezelsveulen</lemma>
+  </synset>
+</multilingual-synset>

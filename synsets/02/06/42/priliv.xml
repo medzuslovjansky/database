@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20642"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20642" steen:pos="m." steen:type="1">priliv</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прыліў</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>прилив</lemma>
+    <lemma annotation="прилив">на приливите и отливите поток</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příliv</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>priljev</lemma>
+    <lemma>plima</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прилив</lemma>
+    <lemma>плима</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypływ</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прилив</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>príliv</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priliv tide</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прилив</lemma>
+    <lemma>плима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>приплив</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>tajdon</lemma>
+    <lemma>fluso</lemma>
+    <lemma annotation="tajdon">fluo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>tide</lemma>
+    <lemma>Flut</lemma>
+    <lemma annotation="tide">Strömung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hoogtij</lemma>
+    <lemma>vloed</lemma>
+  </synset>
+</multilingual-synset>

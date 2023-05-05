@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36457"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36457"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v cs sl bm"
+    >
+      nadmnožstvo
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="матэм.">надмноства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="мат.">надмноженство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="mat.">nadmnožina</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nadskup</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="математика">надмножество</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nadzbiór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="матем.">надмножество</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="mat.">nadmnožina</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="Mathematik">nadgradnja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="математика">надскуп</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="матем.">надмножина</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="matematiko">superaro</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Mathematik">Superset</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>superset</lemma>
+  </synset>
+</multilingual-synset>

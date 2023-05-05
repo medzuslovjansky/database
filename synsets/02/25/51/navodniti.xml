@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22551"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22551"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="pl sh"
+    >
+      navodniti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абвадніць</lemma>
+    <lemma>акрапіць</lemma>
+    <lemma>паліць</lemma>
+    <lemma>абрасіць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>наводня</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zavodnit</lemma>
+    <lemma>zavlažit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>navodniti</lemma>
+    <lemma>navodnjiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наводни</lemma>
+    <lemma>навади</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nawodnić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обводнить</lemma>
+    <lemma>оросить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zavodniť</lemma>
+    <lemma>zavlažiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>namakanih navodnjiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наводнити</lemma>
+    <lemma>наводњити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>полити</lemma>
+    <lemma>зросити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>irigacii</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>bewässern</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>irrigeren</lemma>
+    <lemma>bewateren</lemma>
+  </synset>
+</multilingual-synset>

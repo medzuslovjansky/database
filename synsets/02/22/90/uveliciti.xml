@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="22290"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="22290"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      uveličiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>павялічыць</lemma>
+    <lemma>збольшыць</lemma>
+    <lemma>пабольшыць</lemma>
+    <lemma>падбольшыць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>увеличи</lemma>
+    <lemma>увеличи</lemma>
+    <lemma>увеличи</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zvětšit</lemma>
+    <lemma>zvýšit</lemma>
+    <lemma>rozšířit</lemma>
+    <lemma>zesílit</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>poveličati</lemma>
+    <lemma>uveličati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>увеличи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="zdjęcie">powiększyć</lemma>
+    <lemma>wywyższyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>увеличить</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zväčšiť</lemma>
+    <lemma>zvýšiť</lemma>
+    <lemma>rozšíriť</lemma>
+    <lemma>zosilniť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Povečava</lemma>
+    <lemma>povečana</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>повеличати</lemma>
+    <lemma>увеличати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>збільшити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>pligrandigi</lemma>
+    <lemma>grandigbutonon</lemma>
+    <lemma>Amplify</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>vergrößern</lemma>
+    <lemma>vergrößern</lemma>
+    <lemma>verstärken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vergroten</lemma>
+    <lemma annotation="geluid">versterken</lemma>
+  </synset>
+</multilingual-synset>

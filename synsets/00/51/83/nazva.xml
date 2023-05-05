@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="5183"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="5183" steen:pos="f." steen:type="1">nazva</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>назва</lemma>
+    <lemma>найменне</lemma>
+    <lemma>імя</lemma>
+    <lemma>загаловак</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>име</lemma>
+    <lemma>наименование</lemma>
+    <lemma>обозначение</lemma>
+    <lemma />
+  </synset>
+  <synset lang="cs">
+    <lemma>název</lemma>
+    <lemma>označení</lemma>
+    <lemma>jméno</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naziv</lemma>
+    <lemma>ime</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>име</lemma>
+    <lemma>назив</lemma>
+    <lemma>звање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>nazwa</lemma>
+    <lemma>miano</lemma>
+    <lemma>tytuł</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>название</lemma>
+    <lemma>наименование</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>názov</lemma>
+    <lemma>označenie</lemma>
+    <lemma>meno</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>naslov</lemma>
+    <lemma>ime</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>назив</lemma>
+    <lemma>име</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>назва</lemma>
+    <lemma>найменування</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nomo</lemma>
+    <lemma>nomo</lemma>
+    <lemma>titolo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Name</lemma>
+    <lemma>Bezeichnung</lemma>
+    <lemma>Titel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="van een voorwerp, organisatie, plaats e.d.">naam</lemma>
+  </synset>
+</multilingual-synset>

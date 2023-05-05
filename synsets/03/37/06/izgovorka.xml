@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33706"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33706"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v~ z~ sh mk"
+    >
+      izgovorka
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адгаворка</lemma>
+    <lemma>прыназоўнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>претекст</lemma>
+    <lemma>предлог</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>výmluva</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izgovor</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>изговор</lemma>
+    <lemma>оправдување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pretekst</lemma>
+    <lemma>wymówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отговорка</lemma>
+    <lemma>предлог</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>výhovorka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>izgovor</lemma>
+    <lemma>pretveza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изговор</lemma>
+    <lemma>претекст</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відмовка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>preteksto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Vorwand</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>smoes</lemma>
+    <lemma>uitvlucht</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33053"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="33053"
+      steen:pos="v.tr. ipf."
+      steen:type="3"
+      steen:same="yu mk"
+    >
+      napravjati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>рабіць</lemma>
+    <lemma>выконваць</lemma>
+    <lemma>здзяйсняць</lemma>
+    <lemma>учыняць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>правя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dělat</lemma>
+    <lemma>páchat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>raditi</lemma>
+    <lemma>činiti</lemma>
+    <lemma>izvoditi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>прави</lemma>
+    <lemma>извршува</lemma>
+    <lemma>врши</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>robić</lemma>
+    <lemma>wykonywać</lemma>
+    <lemma>sporządzać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>делать</lemma>
+    <lemma>совершать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>robiť</lemma>
+    <lemma>páchať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="delo">opravljeno delo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>радити</lemma>
+    <lemma annotation="радове">изводити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>робити</lemma>
+    <lemma>виконувати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>konsiston</lemma>
+    <lemma>farante per redonu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>machen</lemma>
+    <lemma>begehen</lemma>
+    <lemma>machen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>maken</lemma>
+    <lemma>vervaardigen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="33532"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="33532" steen:pos="n." steen:type="1" steen:same="ru j">
+      služebno pųtovańje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="службовая">камандзіроўка</lemma>
+    <lemma>службовая выправа</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>бизнес пътувания</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>služební cesta</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>službeno putovanje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>службено патување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>podróż służbowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="служебная">командировка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>služobná cesta</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>poslovno potovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>службено путовање</lemma>
+    <lemma>службени пут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відрядження</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>negoco vojaĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Geschäftsreise</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dienstreis</lemma>
+  </synset>
+</multilingual-synset>

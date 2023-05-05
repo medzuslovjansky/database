@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="32220"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="32220"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      lavreat
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лаўрэат</lemma>
+    <lemma>былы прызёр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>лауреат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lauerát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>laureat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>лауреат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>laureat</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>лауреат</lemma>
+    <lemma>призёр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lauerát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Nagrajenec</lemma>
+    <lemma>zmagovalec</lemma>
+    <lemma>zmagovalec</lemma>
+    <lemma>dobitnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лауреат</lemma>
+    <lemma>победник</lemma>
+    <lemma>добитник награде</lemma>
+    <lemma>добитник признања</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>лауреат</lemma>
+    <lemma>призер</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>laŭreato</lemma>
+    <lemma>prizewinner</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Preisträger</lemma>
+    <lemma>Preisträger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>prijswinnaar</lemma>
+    <lemma>laureaat</lemma>
+  </synset>
+</multilingual-synset>

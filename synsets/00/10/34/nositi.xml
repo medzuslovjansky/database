@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="1034"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="1034"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      nositi
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="адзенне">насіць</lemma>
+    <lemma>надзяваць</lemma>
+    <lemma>апранаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="облекло">нося</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="oděv">nosit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="odjeću">nositi</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>носи</lemma>
+    <lemma>облекува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="ubranie">nosić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="одежду">носить</lemma>
+    <lemma>надевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="odev">nosiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="oblačila">Rokavice</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="одело">носити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="одяг">носити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eluziĝo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>tragen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleren, bril">dragen</lemma>
+  </synset>
+</multilingual-synset>

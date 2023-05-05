@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="35428"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="35428"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      obobćeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абагульненне</lemma>
+    <lemma>абагуленне</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>обобщения</lemma>
+    <lemma>обобщения</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zobecnění</lemma>
+    <lemma>generalizace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uopćenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обопштување</lemma>
+    <lemma>генерализација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>generalizacja</lemma>
+    <lemma>ugólnienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обобщение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zovšeobecnenie</lemma>
+    <lemma>generalizácia</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>posplošitev</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>уопштавање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>узагальнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ĝeneraligo</lemma>
+    <lemma>ĝeneraligo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Verallgemeinerung Verallgemeinerung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>generalisatie</lemma>
+  </synset>
+</multilingual-synset>

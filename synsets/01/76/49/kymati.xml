@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="17649"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="17649"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="j"
+    >
+      kymati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ківаць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кимам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kývat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kimati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кима</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="głową">kiwać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kývať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pokimaj z glavo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>климати главом</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="головою">кивати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kapjeso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>nicken</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="hoofd">knikken</lemma>
+  </synset>
+</multilingual-synset>

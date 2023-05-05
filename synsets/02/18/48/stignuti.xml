@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="21848"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="21848"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="cz sh"
+    >
+      stignųti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>здарыцца</lemma>
+    <lemma>спаравацца</lemma>
+    <lemma>надарыцца</lemma>
+    <lemma>адбыцца</lemma>
+    <lemma>здзеяцца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="нещастие и т.н.">приключается</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stihnout</lemma>
+    <lemma>postihnout</lemma>
+    <lemma annotation="neštěstí">potkat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>desiti se</lemma>
+    <lemma>snaći</lemma>
+    <lemma annotation="o nesreći">stići</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>се случи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przytrafić się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>случиться</lemma>
+    <lemma>произойти</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>stihnúť</lemma>
+    <lemma>postihnúť</lemma>
+    <lemma annotation="nešťastie">stretnúť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zgodi</lemma>
+    <lemma>doletela</lemma>
+    <lemma annotation="nesreča">pridejo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>десити се</lemma>
+    <lemma>снаћи</lemma>
+    <lemma annotation="о несрећи">стићи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>статися</lemma>
+    <lemma>трапитись</lemma>
+    <lemma>відбутися</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="misfortuno ktp">trafos</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Unglück etc.">zustoßen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="ongeluk e.d.">overkomen</lemma>
+  </synset>
+</multilingual-synset>

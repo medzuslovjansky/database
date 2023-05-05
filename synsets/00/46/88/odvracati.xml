@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="4688"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="4688"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v j"
+    >
+      odvraćati
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>адхіляць</lemma>
+    <lemma>адварочваць</lemma>
+    <lemma>адводзіць</lemma>
+    <lemma>адпіхаць</lemma>
+    <lemma>адпіхваць</lemma>
+    <lemma>адштурхваць</lemma>
+    <lemma>аддаляць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>отвращение</lemma>
+    <lemma>омраза</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hnusit</lemma>
+    <lemma>znechucovat</lemma>
+    <lemma annotation="znechuceně">odvracet se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma annotation="se">gnušati</lemma>
+    <lemma>osjećati odbojnost ili gađenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>гади</lemma>
+    <lemma>одбива</lemma>
+    <lemma>одвраќа</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrzydzić</lemma>
+    <lemma>napawać wstrętem</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>отвращать</lemma>
+    <lemma>отталкивать</lemma>
+    <lemma>вызывать отвращение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hnusiť</lemma>
+    <lemma>znechucovať</lemma>
+    <lemma annotation="znechutene">odvracať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gnus</lemma>
+    <lemma>Zgaditi</lemma>
+    <lemma annotation="za nekatere">ubiti volje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гадити</lemma>
+    <lemma>изазивати гађење</lemma>
+    <lemma annotation="за нешто">убијати вољу</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>відвертати</lemma>
+    <lemma>відштовхувати</lemma>
+    <lemma>викликати відразу</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>naŭzo</lemma>
+    <lemma>abomenas</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Ekel</lemma>
+    <lemma>verabscheuen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doen walgen</lemma>
+    <lemma>met weerzin vervullen</lemma>
+  </synset>
+</multilingual-synset>

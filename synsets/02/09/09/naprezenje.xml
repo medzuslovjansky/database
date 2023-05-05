@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="20909"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="20909" steen:pos="n." steen:type="2" steen:same="ru pl">
+      napręžeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>напружанне</lemma>
+    <lemma>нацягненне</lemma>
+    <lemma>нацяжэнне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стрес</lemma>
+    <lemma>напрежение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>napětí</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naprezanje</lemma>
+    <lemma>napon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>напрегање</lemma>
+    <lemma>напнатост</lemma>
+    <lemma>притисок</lemma>
+    <lemma>тензија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>napięcie</lemma>
+    <lemma>naciągnięcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>напряжение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>napätie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>napetost</lemma>
+    <lemma>napetost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>напон</lemma>
+    <lemma>напетост</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>напруга</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>streĉo</lemma>
+    <lemma>streĉiĝo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Dehnung</lemma>
+    <lemma>Spannung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>spanning</lemma>
+  </synset>
+</multilingual-synset>

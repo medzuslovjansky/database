@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="31568"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="31568" steen:pos="n." steen:type="1" steen:same="v z j~">
+      zatmjeńje
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>зацьменне</lemma>
+    <lemma>зацямненне</lemma>
+    <lemma>затлум</lemma>
+    <lemma>затлумленне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>затъмнение</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatmění</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pomrčina</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>затемнување</lemma>
+    <lemma>помрачување</lemma>
+    <lemma>замрачување</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zaćmienie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>затмение</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zatmenie</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mrk</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>помрачење</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>затемнення</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>eklipso</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Finsternis</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>verduistering</lemma>
+    <lemma>eclips</lemma>
+  </synset>
+</multilingual-synset>

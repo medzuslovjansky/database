@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="28967"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="28967"
+      steen:pos="v.tr. pf."
+      steen:type="2"
+      steen:same="ru be bm"
+    >
+      obučiti
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>навучыць</lemma>
+    <lemma>вывучыць</lemma>
+    <lemma>абучыць</lemma>
+    <lemma>адукаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>инструктира</lemma>
+    <lemma>да учат</lemma>
+    <lemma>да се обучават</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vyškolit</lemma>
+    <lemma>vytrénovat</lemma>
+    <lemma>instruovat</lemma>
+    <lemma>vyučit</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>obučiti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обучи</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyszkolić</lemma>
+    <lemma>poinstruować</lemma>
+    <lemma>wytrenować</lemma>
+    <lemma>pouczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обучить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyškoliť</lemma>
+    <lemma>vytrénovať</lemma>
+    <lemma>inštruovať</lemma>
+    <lemma>vyučiť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>vlak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обучити</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>навчити</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>instrui</lemma>
+    <lemma>instrui</lemma>
+    <lemma>trajno</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>anweisen</lemma>
+    <lemma>lehren</lemma>
+    <lemma>Zug</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>instrueren</lemma>
+    <lemma>trainen</lemma>
+  </synset>
+</multilingual-synset>

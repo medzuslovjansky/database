@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="34879"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="34879"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ub pl~ cs sl~"
+    >
+      včasnosť
+    </lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>учаснасць</lemma>
+    <lemma annotation="зап.">своечасовасць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>актуалност</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>včasnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pravodobnost</lemma>
+    <lemma>pravovremenost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>навременост</lemma>
+    <lemma>благовременост</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>terminowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>своевременность</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>včasnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pravočasnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>благовременост</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>своєчасність</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>timeliness</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Aktualität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>tijdigheid</lemma>
+  </synset>
+</multilingual-synset>
