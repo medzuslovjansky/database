@@ -1,0 +1,26 @@
+name: Import from Google Sheets
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-dictionary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        ref: main
+
+      - name: NPM install
+        uses: bahmutov/npm-install@v1
+
+      - name: Fetch synsets
+        run: npx isv synsets fetch
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: synsets
+          message: 'synsets: import from new_interslavic_words_list'
+          author_name: Medžuslovjansky Bot
+          author_email: noreply@interslavic.fun
