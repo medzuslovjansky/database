@@ -14,6 +14,8 @@ jobs:
 
       - name: NPM install
         uses: bahmutov/npm-install@v1
+        with:
+          useLockFile: false
 
       - name: Fetch synsets
         run: npx isv synsets fetch
