@@ -19,6 +19,10 @@ jobs:
 
       - name: Fetch synsets
         run: npx isv synsets fetch
+        env:
+          ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
+          ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
+          JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
