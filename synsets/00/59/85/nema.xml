@@ -6,8 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5985" steen:pos="adv." steen:type="1">nemaje</lemma>
-    <lemma steen:id="5985" steen:pos="adv." steen:type="1">ne imaje</lemma>
+    <lemma steen:id="5985" steen:pos="adv." steen:type="1">nema</lemma>
   </synset>
   <synset lang="be">
     <lemma>няма</lemma>
@@ -18,7 +17,6 @@
   <synset lang="cs">
     <lemma>neni</lemma>
     <lemma>nejsou</lemma>
-    <lemma>nemáme</lemma>
   </synset>
   <synset lang="hr">
     <lemma>nema</lemma>
@@ -35,10 +33,10 @@
     <lemma>не существует</lemma>
     <lemma annotation="разг.-сниж.">нема</lemma>
   </synset>
-  <synset lang="sk">
+  <synset lang="sk" verified="false">
     <lemma>nemáme</lemma>
   </synset>
-  <synset lang="sl">
+  <synset lang="sl" verified="false">
     <lemma>nima</lemma>
   </synset>
   <synset lang="sr">

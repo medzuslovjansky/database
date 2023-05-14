@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37014"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37014" steen:pos="intj.">pomiluj</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прабач</lemma>
+    <lemma>выбач</lemma>
+    <lemma>памілуй</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>прости</lemma>
+    <lemma>извини</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>smiluj se</lemma>
+    <lemma>promiň</lemma>
+    <lemma>odpusť</lemma>
+    <lemma>omluv mne</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>помилуй</lemma>
+    <lemma>прости</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>oprosti</lemma>
+    <lemma>izvini</lemma>
+    <lemma>ispričavam se</lemma>
+    <lemma>pardon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>смилувај се</lemma>
+    <lemma>помилувај</lemma>
+    <lemma>аболирај</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przepraszam</lemma>
+    <lemma>wybacz</lemma>
+    <lemma>przebacz</lemma>
+    <lemma>zlituj się</lemma>
+    <lemma annotation="rzad.">zmiłuj się</lemma>
+    <lemma annotation="daw.">pomiłuj</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>прости</lemma>
+    <lemma>извини</lemma>
+    <lemma annotation="арх.">помилуй</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zmiluj sa</lemma>
+    <lemma>prepáč</lemma>
+    <lemma>ospravedlni ma</lemma>
+    <lemma>zľutuj sa</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>oprosti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>опрости</lemma>
+    <lemma>извини</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вибач</lemma>
+    <lemma annotation="арх.">помилуй</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pardonu</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Entschuldigung</lemma>
+    <lemma>Entschuldigung</lemma>
+  </synset>
+  <synset lang="nl" verified="false">
+    <lemma>Sorry excuseert u mij</lemma>
+  </synset>
+</multilingual-synset>

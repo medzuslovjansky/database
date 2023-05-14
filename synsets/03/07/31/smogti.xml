@@ -6,50 +6,42 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="30731" steen:pos="v.aux. pf." steen:type="1">smogti</lemma>
+    <lemma steen:id="30731" steen:pos="v.tr. pf.">smogti</lemma>
   </synset>
   <synset lang="be">
     <lemma>змагчы</lemma>
     <lemma>здолець</lemma>
-    <lemma>даць рады</lemma>
-    <lemma>зладзіцца</lemma>
-    <lemma>управіцца</lemma>
-    <lemma>справіцца</lemma>
-    <lemma>суладаць</lemma>
   </synset>
   <synset lang="bg" verified="false">
-    <lemma>може да се управлява</lemma>
+    <lemma>смогвам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>být schopen</lemma>
     <lemma>zmoct</lemma>
     <lemma>zmoci</lemma>
     <lemma>zvládnout</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>smognuti</lemma>
     <lemma>smoći</lemma>
+    <lemma annotation="se">domoći</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>може</lemma>
-    <lemma>биде во можност</lemma>
+    <lemma>смогне</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>potrafić</lemma>
-    <lemma>być w stanie</lemma>
-    <lemma>dać sobie radę</lemma>
+    <lemma>dać radę</lemma>
+    <lemma>podołać</lemma>
+    <lemma>sprostać</lemma>
   </synset>
   <synset lang="ru">
     <lemma>смочь</lemma>
     <lemma>суметь</lemma>
-    <lemma>справиться</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>byť schopný</lemma>
+  <synset lang="sk">
     <lemma>zmôcť</lemma>
+    <lemma>zvládnuť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>zbirni</lemma>
+  <synset lang="sl">
+    <lemma>zmoči</lemma>
   </synset>
   <synset lang="sr">
     <lemma>смоћи</lemma>
@@ -57,18 +49,21 @@
   </synset>
   <synset lang="uk">
     <lemma>змогти</lemma>
-    <lemma>зуміти</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>povos</lemma>
-    <lemma>sukcesos</lemma>
+  <synset lang="eo">
+    <lemma>sukcesi</lemma>
+    <lemma>ekpovi</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>in der Lage</lemma>
-    <lemma>verwalten</lemma>
+    <lemma>schaffen</lemma>
+    <lemma>schaffen</lemma>
+    <lemma>bewältigen</lemma>
+    <lemma>schaffen</lemma>
   </synset>
-  <synset lang="nl">
+  <synset lang="nl" verified="false">
+    <lemma>erin slagen</lemma>
     <lemma>kunnen</lemma>
-    <lemma>in staat zijn</lemma>
+    <lemma>het hoofd bieden</lemma>
+    <lemma>het redden</lemma>
   </synset>
 </multilingual-synset>
