@@ -6,11 +6,14 @@ on:
 jobs:
   update-dictionary:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        branch: [stable, beta]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: main
+          ref: ${{ matrix.branch }}
 
       - name: NPM install
         uses: bahmutov/npm-install@v1
@@ -20,6 +23,7 @@ jobs:
       - name: Fetch synsets
         run: npx isv synsets fetch
         env:
+          ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
           ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
           JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
