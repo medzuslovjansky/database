@@ -21,7 +21,7 @@ jobs:
           useLockFile: false
 
       - name: Fetch synsets
-        run: npx isv synsets fetch
+        run: npx isv synsets pull
         env:
           ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
