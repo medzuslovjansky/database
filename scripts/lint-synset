@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+set -e
+
+lint_synset() {
+  xmllint --noout --schema "schemas/_lint.xsd" "$1"
+}
+
+cd "$(dirname "$0")/.."
+
+if [ $# -eq 0 ]; then
+  find synsets -type f -name "*.xml" -exec $0 {} \;
+else
+  for file in "$@"; do
+    lint_synset "$file"
+  done
+fi
+
