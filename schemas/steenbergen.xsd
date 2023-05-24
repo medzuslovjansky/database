@@ -11,6 +11,7 @@
   <xs:attribute name="same" type="steen:sameInLanguagesType" />
   <xs:attribute name="genesis" type="steen:genesisType" />
   <xs:attribute name="pos" type="steen:partOfSpeechType" />
+  <xs:attribute name="debated" type="steen:debatedType" />
 
   <!-- Type definitions -->
 
@@ -415,6 +416,19 @@
           <xs:documentation>Turkic</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="debatedType">
+    <xs:annotation>
+      <xs:documentation>
+        A comma-separated list of column names which have debated values.
+        The list is used to bring attention of Jan van Steenbergen
+        to the potential issues in the data.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:pattern value="((\w+)(,\s*\w+)*)?" />
     </xs:restriction>
   </xs:simpleType>
 </xs:schema>

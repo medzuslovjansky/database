@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="15632"
+  steen:debated="ru"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -50,7 +51,7 @@
     <lemma>успешан човек</lemma>
   </synset>
   <synset lang="uk" verified="false">
-    <lemma>успішний чоловік</lemma>
+    <lemma>#успішний чоловік</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>sukcesa persono</lemma>

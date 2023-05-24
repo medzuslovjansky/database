@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="3475"
+  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -57,7 +58,7 @@
     <lemma>куля</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>bullet</lemma>
+    <lemma>#bullet</lemma>
     <lemma>pilko</lemma>
     <lemma>sfero</lemma>
   </synset>
