@@ -15,6 +15,7 @@
     "@prettier/plugin-xml": "^2.2.0"
   },
   "lint-staged": {
-    "synsets/**/*.xml": "scripts/lint-synset"
+    "synsets/**/*.xml": ["scripts/lint-synset", "scripts/format"],
+    "schemas/**/*.xsd": ["scripts/format"]
   }
 }

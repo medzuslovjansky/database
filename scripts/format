@@ -1,4 +1,17 @@
 #!/usr/bin/env bash
 
-cd "$(dirname "$0")/.." || exit 1
-PATH="node_modules/.bin:$PATH" prettier --write "**/*.{xml,xsd}"
+set -e
+
+format_file() {
+  PATH="node_modules/.bin:$PATH" prettier --write "$1"
+}
+
+cd "$(dirname "$0")/.."
+
+if [ $# -eq 0 ]; then
+  format_file "**/*.{xml,xsd}"
+else
+  for file in "$@"; do
+    format_file "$file"
+  done
+fi
