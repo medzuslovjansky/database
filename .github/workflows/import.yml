@@ -15,6 +15,9 @@ jobs:
         with:
           ref: ${{ matrix.branch }}
 
+      - name: libxml install
+        run: sudo apt-get install -y libxml2-utils
+        
       - name: NPM install
         uses: bahmutov/npm-install@v1
         with:
