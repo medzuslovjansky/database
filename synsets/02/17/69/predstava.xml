@@ -62,6 +62,31 @@
     <lemma annotation="mensa bildo">ideo</lemma>
     <lemma>bildo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>idea</lemma>
+    <lemma annotation="imagen mental">la idea</lemma>
+    <lemma>la imagen</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>notion</lemma>
+    <lemma annotation="image mentale">idée</lemma>
+    <lemma>l&apos;image</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>concetto</lemma>
+    <lemma annotation="immagine mentale">idea</lemma>
+    <lemma>immagine</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>noção</lemma>
+    <lemma annotation="imagem mental">ideia</lemma>
+    <lemma>imagem</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>begreb</lemma>
+    <lemma annotation="mentale billede">idé</lemma>
+    <lemma>billede</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Begriff</lemma>
     <lemma annotation="Vorstellung">Idee</lemma>
@@ -70,5 +95,10 @@
   <synset lang="nl">
     <lemma>idee</lemma>
     <lemma annotation="mentaal beeld">voorstelling</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>רעיון</lemma>
+    <lemma annotation="תמונת מנטלית">רעיון</lemma>
+    <lemma>תמונה</lemma>
   </synset>
 </multilingual-synset>

@@ -29,10 +29,19 @@
     <lemma>konkurzní dlužník</lemma>
     <lemma annotation="insolvence">bankrotář</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>bankrot</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>insolwentna wosoba</lemma>
+  </synset>
   <synset lang="hr">
     <lemma annotation="platežna nesposobnost, insloventnost, nesolventost">
       bankrot
     </lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>insolwentna wosoba</lemma>
   </synset>
   <synset lang="mk">
     <lemma annotation="несолвентно лице">банкрот</lemma>
@@ -62,11 +71,29 @@
   <synset lang="eo" verified="false">
     <lemma annotation="nesolventa persono">bankrotis</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="persona insolvente">quiebra</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="personne insolvable">faillite</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="persona insolvente">bancarotta</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="pessoa insolvente">falência</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="insolvent person">konkurs</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="insolvent Person">bankrott</lemma>
   </synset>
   <synset lang="nl">
     <lemma>failliet</lemma>
     <lemma>bankroet</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אדם חדל פירעון">פושט רגל</lemma>
   </synset>
 </multilingual-synset>

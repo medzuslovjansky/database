@@ -32,8 +32,14 @@
   <synset lang="cs">
     <lemma>aplikace</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>aplikacia</lemma>
+  </synset>
   <synset lang="hr">
     <lemma annotation="program">aplikacija</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>aplikacia</lemma>
   </synset>
   <synset lang="mk">
     <lemma>апликација</lemma>
@@ -60,6 +66,26 @@
   <synset lang="eo">
     <lemma>aplikaĵo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="software">aplicación</lemma>
+    <lemma>aplicaciones</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="logiciel">application</lemma>
+    <lemma>app</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="software">applicazione</lemma>
+    <lemma>app</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="software">aplicativo</lemma>
+    <lemma>app</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="software">applikation</lemma>
+    <lemma>app</lemma>
+  </synset>
   <synset lang="de">
     <lemma annotation="Software">Anwendung</lemma>
     <lemma>App</lemma>
@@ -67,5 +93,9 @@
   <synset lang="nl">
     <lemma>applicatie</lemma>
     <lemma>app</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="תוכנה">יישום</lemma>
+    <lemma>אפליקציה</lemma>
   </synset>
 </multilingual-synset>

@@ -70,6 +70,26 @@
     <lemma annotation="objekto">artikolo</lemma>
     <lemma>elemento</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="objeto">artículo</lemma>
+    <lemma>punto</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="objet">article</lemma>
+    <lemma>article</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="oggetto">articolo</lemma>
+    <lemma>articolo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="objecto">artigo</lemma>
+    <lemma>ponto</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="objekt">artikel</lemma>
+    <lemma>punkt</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Artikel</lemma>
     <lemma>Artikel</lemma>
@@ -77,5 +97,9 @@
   <synset lang="nl">
     <lemma annotation="voorwerp">artikel</lemma>
     <lemma>voorwerp</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אובייקט">מאמר</lemma>
+    <lemma>פריט</lemma>
   </synset>
 </multilingual-synset>

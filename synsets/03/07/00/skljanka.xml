@@ -25,6 +25,12 @@
     <lemma>sklenice</lemma>
     <lemma>sklenka</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>sklónka</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>głažk</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>čaša</lemma>
   </synset>
@@ -57,10 +63,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="ujo">vitro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="receptáculo">vidrio</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="récipient">verre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="recipiente">vetro</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="receptáculo">vidro</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="beholder">glas</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Aufnahme">Glas</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="om uit te drinken">glas</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="קיבול">זכוכית</lemma>
   </synset>
 </multilingual-synset>

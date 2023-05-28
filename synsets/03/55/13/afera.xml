@@ -32,9 +32,15 @@
     <lemma annotation="cizoložství">aféra</lemma>
     <lemma annotation="románek">poměr</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>afera</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>afera</lemma>
     <lemma>preljub</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>afera</lemma>
   </synset>
   <synset lang="mk">
     <lemma annotation="прељуба">афера</lemma>
@@ -72,6 +78,30 @@
     <lemma>adultaĵo</lemma>
     <lemma>amora rilato</lemma>
   </synset>
+  <synset lang="es">
+    <lemma>aventura</lemma>
+    <lemma>amorío</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="adultère">affaire</lemma>
+    <lemma annotation="situation controversée">affaire</lemma>
+  </synset>
+  <synset lang="ia">
+    <lemma>affaire</lemma>
+    <lemma>amoretto</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="l&apos;adulterio">vicenda</lemma>
+    <lemma annotation="situazione controversa">relazione</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="adultério">Affair</lemma>
+    <lemma annotation="situação controversa">caso</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="utroskab">affære</lemma>
+    <lemma annotation="kontroversiel situation">affære</lemma>
+  </synset>
   <synset lang="de">
     <lemma annotation="Ehebruch">Affäre</lemma>
     <lemma annotation="umstrittene Situation">Affäre</lemma>
@@ -79,5 +109,9 @@
   <synset lang="nl">
     <lemma annotation="zaak">affaire</lemma>
     <lemma annotation="romance">affaire</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="ניאוף">פרשה</lemma>
+    <lemma annotation="מצב במחלוקת">רומן</lemma>
   </synset>
 </multilingual-synset>

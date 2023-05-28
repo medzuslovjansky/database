@@ -60,6 +60,26 @@
     <lemma>koincido</lemma>
     <lemma annotation="hazarda okazaĵo">hazarde</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>coincidencia</lemma>
+    <lemma annotation="ocurrencia aleatoria">el azar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>par hasard</lemma>
+    <lemma annotation="occurrence aléatoire">le hasard</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>coincidenza</lemma>
+    <lemma annotation="evento casuale">il caso</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>coincidência</lemma>
+    <lemma annotation="ocorrência aleatória">acaso</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>tilfældighed</lemma>
+    <lemma annotation="tilfældig forekomst">chance</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Zufall</lemma>
     <lemma annotation="random Vorkommen">Zufall</lemma>
@@ -67,5 +87,9 @@
   </synset>
   <synset lang="nl">
     <lemma>toeval</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>צירוף מקרים</lemma>
+    <lemma annotation="התרחשות אקראית">סיכוי</lemma>
   </synset>
 </multilingual-synset>

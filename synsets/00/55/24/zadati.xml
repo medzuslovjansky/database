@@ -63,6 +63,31 @@
     <lemma annotation="tasko">aro</lemma>
     <lemma annotation="demando">demandi</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>infligir</lemma>
+    <lemma annotation="tarea">conjunto</lemma>
+    <lemma annotation="pregunta">pregunte</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>Infligez</lemma>
+    <lemma annotation="tâche">ensemble</lemma>
+    <lemma annotation="question">poser</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>infliggere</lemma>
+    <lemma annotation="task">set</lemma>
+    <lemma annotation="domanda">chiedere</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>infligir</lemma>
+    <lemma annotation="tarefa">set</lemma>
+    <lemma annotation="pergunta">peça</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>påfører</lemma>
+    <lemma annotation="opgave">sæt</lemma>
+    <lemma annotation="spørgsmål">spørg</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>zufügen</lemma>
   </synset>
@@ -70,5 +95,10 @@
     <lemma>toebrengen</lemma>
     <lemma annotation="taak">geven</lemma>
     <lemma annotation="vraag">stellen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>גרום</lemma>
+    <lemma annotation="משימה">סט</lemma>
+    <lemma annotation="שאלה">לשאול</lemma>
   </synset>
 </multilingual-synset>

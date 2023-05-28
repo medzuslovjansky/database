@@ -75,6 +75,36 @@
     <lemma>sensignifa</lemma>
     <lemma>senvalora</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="calidad">mala</lemma>
+    <lemma>de mala calidad</lemma>
+    <lemma>de mala calidad</lemma>
+    <lemma>sin valor</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="qualité">mauvais</lemma>
+    <lemma>de mauvaise qualité</lemma>
+    <lemma>trash</lemma>
+    <lemma>sans valeur</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="qualità">male</lemma>
+    <lemma>scadente</lemma>
+    <lemma>trash</lemma>
+    <lemma>inutile</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="qualidade">ruim</lemma>
+    <lemma>de má qualidade</lemma>
+    <lemma>inútil</lemma>
+    <lemma>sem valor</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="kvalitet">dårlig</lemma>
+    <lemma>sjuskede</lemma>
+    <lemma>tarvelige</lemma>
+    <lemma>værdiløs</lemma>
+  </synset>
   <synset lang="de">
     <lemma>nichtig</lemma>
     <lemma>geringfügig</lemma>
@@ -82,5 +112,11 @@
   <synset lang="nl">
     <lemma>waardeloos</lemma>
     <lemma>van slechte kwaliteit</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="איכות">רע</lemma>
+    <lemma>זול</lemma>
+    <lemma>זול</lemma>
+    <lemma>חסר ערך</lemma>
   </synset>
 </multilingual-synset>

@@ -26,6 +26,9 @@
     <lemma>bezzvučný</lemma>
     <lemma>nezvučný</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>bezzvãczni</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>bezvučan</lemma>
   </synset>
@@ -60,10 +63,34 @@
     <lemma annotation="konsonanto">senvoĉaj</lemma>
     <lemma>senvoĉa</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="consonante">sorda</lemma>
+    <lemma>sin voz</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="consonne">non voisée</lemma>
+    <lemma>sans voix</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="consonanti">afona</lemma>
+    <lemma>senza voce</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="consoante">unvoiced</lemma>
+    <lemma>sem voz</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="konsonant">ustemt</lemma>
+    <lemma>uden stemme</lemma>
+  </synset>
   <synset lang="de">
     <lemma>stimmlos</lemma>
   </synset>
   <synset lang="nl">
     <lemma>stemloos</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="עיצור">unvoiced</lemma>
+    <lemma>שאין להם קול</lemma>
   </synset>
 </multilingual-synset>

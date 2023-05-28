@@ -29,6 +29,9 @@
   <synset lang="cs">
     <lemma>před</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>przed</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pred</lemma>
     <lemma>ispred</lemma>
@@ -60,11 +63,35 @@
     <lemma annotation="direkto">antaŭe</lemma>
     <lemma annotation="direkto">antaŭ</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="dirección">antes de</lemma>
+    <lemma annotation="dirección">en frente de</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="direction">avant</lemma>
+    <lemma annotation="direction">devant</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="direzione">prima</lemma>
+    <lemma annotation="direzione">di fronte</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="sentido">antes</lemma>
+    <lemma annotation="direcção">em frente</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="retning">før</lemma>
+    <lemma annotation="retning">foran</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Richtung">vor</lemma>
     <lemma annotation="Richtung">vor</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="richting">voor</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="כיוון">לפני</lemma>
+    <lemma annotation="כיוון">מול</lemma>
   </synset>
 </multilingual-synset>

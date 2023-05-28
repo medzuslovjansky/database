@@ -25,6 +25,10 @@
     <lemma>článek</lemma>
     <lemma>paragraf</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>artikel</lemma>
+    <lemma>paragraf</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>član</lemma>
   </synset>
@@ -57,10 +61,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="leĝo, interkonsento">artikolo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="legislación, los convenios">artículo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="loi, accord">article</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="legge, contratto">articolo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="lei, acordo">artigo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="lov, aftale">artiklen</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Artikel</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="wet, overeenkomst">artikel</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="חוק, הסכם">מאמר</lemma>
   </synset>
 </multilingual-synset>

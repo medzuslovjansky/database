@@ -21,6 +21,12 @@
   <synset lang="cs">
     <lemma>dopis</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>lëst</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>list</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>dopis</lemma>
     <lemma>izvješće</lemma>
@@ -54,10 +60,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="poŝto">letero</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="correo">carta</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="courrier">lettre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="mail">lettera</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="correio">carta</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="mail">brev</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Brief</lemma>
   </synset>
   <synset lang="nl">
     <lemma>brief</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מייל">מכתב</lemma>
   </synset>
 </multilingual-synset>

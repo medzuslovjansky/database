@@ -21,6 +21,9 @@
     <lemma>pěšec</lemma>
     <lemma annotation="šachy">pěšák</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>pionk</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pješak</lemma>
     <lemma>pijun</lemma>
@@ -49,10 +52,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="ŝako">peono</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="ajedrez">peón</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="échecs">pion</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="scacchi">pedina</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="xadrez">peão</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="skak">brik</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Schach">Pfand</lemma>
   </synset>
   <synset lang="nl">
     <lemma>pion</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="שחמט">חייל</lemma>
   </synset>
 </multilingual-synset>

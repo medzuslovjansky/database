@@ -38,6 +38,9 @@
     <lemma>vyzdravět</lemma>
     <lemma>vyléčit se</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>wustrowiś se</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>ozdraviti</lemma>
     <lemma>oporaviti se</lemma>
@@ -78,6 +81,26 @@
     <lemma annotation="de malsano">reakiri</lemma>
     <lemma>akiri bona</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="de una enfermedad">recuperar</lemma>
+    <lemma>obtener una mejor</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="d&apos;une maladie">récupérer</lemma>
+    <lemma>mieux</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="da una malattia">recuperare</lemma>
+    <lemma>ottenere una migliore</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="de uma doença">recuperar</lemma>
+    <lemma>ficar melhor</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="fra en sygdom">gendanne</lemma>
+    <lemma>får bedre</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="von einer Krankheit">erholen</lemma>
     <lemma>besser</lemma>
@@ -85,5 +108,9 @@
   <synset lang="nl">
     <lemma annotation="van een ziekte">herstellen</lemma>
     <lemma annotation="na ziekte">beter worden</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="ממחלה">לשחזר</lemma>
+    <lemma>להשתפר</lemma>
   </synset>
 </multilingual-synset>

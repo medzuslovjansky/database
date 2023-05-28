@@ -74,6 +74,26 @@
     <lemma annotation="pagana">sacerdoto</lemma>
     <lemma>druido</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="pagana">sacerdote</lemma>
+    <lemma>druida</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="païen">prêtre</lemma>
+    <lemma>Druid</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="pagana">prete</lemma>
+    <lemma>druido</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="pagã">padre</lemma>
+    <lemma>druida</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="hedenske">præst</lemma>
+    <lemma>druid</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Heide">Druide Priester</lemma>
     <lemma />
@@ -81,5 +101,9 @@
   <synset lang="nl">
     <lemma annotation="heidens">priester</lemma>
     <lemma>druïde</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="פגאני">כומר</lemma>
+    <lemma>דרואיד</lemma>
   </synset>
 </multilingual-synset>

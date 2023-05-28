@@ -28,6 +28,9 @@
   <synset lang="cs">
     <lemma>magistr</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>méster</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>magistar</lemma>
   </synset>
@@ -55,6 +58,21 @@
   <synset lang="eo">
     <lemma>magistro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="título, grado">maestro</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="titre, diplôme">maître</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="titolo, grado">master</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="título, grau">mestre</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="titel, grad">master</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Magister</lemma>
   </synset>
@@ -62,5 +80,8 @@
     <lemma>master</lemma>
     <lemma>doctorandus</lemma>
     <lemma annotation="titel">meester</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="תואר, תואר">מאסטר</lemma>
   </synset>
 </multilingual-synset>

@@ -54,6 +54,26 @@
     <lemma annotation="interkonsento">subskribi</lemma>
     <lemma annotation="interkonsento">konkludi</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="acuerdo">firmar</lemma>
+    <lemma annotation="acuerdo">la conclusión</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="accord">signer</lemma>
+    <lemma annotation="accord">conclure</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="accordo">firmare</lemma>
+    <lemma annotation="accordo">conclude</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="acordo">assinar</lemma>
+    <lemma annotation="acordo">concluir</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="aftale">underskrive</lemma>
+    <lemma annotation="aftale">konkludere</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Vereinbarung">unterzeichnen</lemma>
     <lemma annotation="Vereinbarung">schließen</lemma>
@@ -61,5 +81,9 @@
   <synset lang="nl">
     <lemma>aangaan</lemma>
     <lemma annotation="overeenkomst">sluiten</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="הסכם">לחתום</lemma>
+    <lemma annotation="הסכם">מסיקים</lemma>
   </synset>
 </multilingual-synset>

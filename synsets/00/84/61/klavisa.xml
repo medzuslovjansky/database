@@ -29,6 +29,9 @@
   <synset lang="cs">
     <lemma>klávesa</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>klawir</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>tipka</lemma>
     <lemma>dirka</lemma>
@@ -59,10 +62,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="klavaro, tajpilo">ŝlosilo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="teclado, máquina de escribir">clave</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="clavier, machine à écrire">clé</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="tastiera, macchina da scrivere">tasto</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="teclado, máquina de escrever">chave</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="tastatur, skrivemaskine">tast</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Taste</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="toetsenbord, typmachine">toets</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מקלדת, מכונת כתיבה">מפתח</lemma>
   </synset>
 </multilingual-synset>

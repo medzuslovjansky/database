@@ -78,6 +78,36 @@
     <lemma annotation="laboro">malmola</lemma>
     <lemma>laboriga</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>tumba</lemma>
+    <lemma annotation="enfermedad, el crimen">grave</lemma>
+    <lemma annotation="trabajo">disco</lemma>
+    <lemma>arduo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>tombe</lemma>
+    <lemma annotation="maladie, criminalité">grave</lemma>
+    <lemma annotation="travail">dur</lemma>
+    <lemma>ardu</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>tomba</lemma>
+    <lemma annotation="malattie, la criminalità">gravi</lemma>
+    <lemma annotation="lavoro">duro</lemma>
+    <lemma>arduo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>sepultura</lemma>
+    <lemma annotation="doença, crime">grave</lemma>
+    <lemma annotation="trabalho">disco</lemma>
+    <lemma>árdua</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>grav</lemma>
+    <lemma annotation="sygdom, kriminalitet">alvorlig</lemma>
+    <lemma annotation="arbejde">hårdt</lemma>
+    <lemma>besværlig</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Grab</lemma>
     <lemma annotation="Krankheit, Kriminalität">schwere</lemma>
@@ -86,5 +116,11 @@
   </synset>
   <synset lang="nl">
     <lemma annotation="ziekte, misdrijf">ernstig</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>קבר</lemma>
+    <lemma annotation="מחלה, פשע">רצינית</lemma>
+    <lemma annotation="עבודה">קשה</lemma>
+    <lemma>מפרכת</lemma>
   </synset>
 </multilingual-synset>

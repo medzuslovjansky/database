@@ -37,6 +37,10 @@
     <lemma>použít</lemma>
     <lemma>užít</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>wużëc</lemma>
+    <lemma>zaaplikòvac</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>primijeniti</lemma>
     <lemma>upotrijebiti</lemma>
@@ -73,6 +77,26 @@
     <lemma annotation="metodo, regulo">apliki</lemma>
     <lemma annotation="uzo">dungo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="método, regla">aplicar</lemma>
+    <lemma annotation="uso">empleo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="méthode, règle">appliquer</lemma>
+    <lemma annotation="utilisation">emploi</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="metodo, regola">applicare</lemma>
+    <lemma annotation="utilizzo">impiego</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="método, regra">aplicar</lemma>
+    <lemma annotation="uso">emprego</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="metode, regel">anvende</lemma>
+    <lemma annotation="brug">ansætte</lemma>
+  </synset>
   <synset lang="de">
     <lemma>anwenden</lemma>
     <lemma>verwenden</lemma>
@@ -80,5 +104,9 @@
   <synset lang="nl">
     <lemma>toepassen</lemma>
     <lemma>hanteren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="שיטה, שלטון">חלות</lemma>
+    <lemma annotation="שימוש">להעסיק</lemma>
   </synset>
 </multilingual-synset>

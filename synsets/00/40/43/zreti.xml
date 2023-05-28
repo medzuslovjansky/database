@@ -40,6 +40,11 @@
     <lemma>vidět</lemma>
     <lemma>zřít</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>zdrzec</lemma>
+    <lemma>vzerac</lemma>
+    <lemma>patrzëc</lemma>
+  </synset>
   <synset lang="cu">
     <lemma>зьрѣти</lemma>
   </synset>
@@ -89,6 +94,35 @@
     <lemma>vidu</lemma>
     <lemma>horloĝo jen rigardo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>ver</lemma>
+    <lemma>ver</lemma>
+    <lemma>he aquí</lemma>
+    <lemma annotation="a">mirada</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>voir</lemma>
+    <lemma>regarder</lemma>
+    <lemma>voici</lemma>
+    <lemma annotation="at">look</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>vedere</lemma>
+    <lemma>guardare</lemma>
+    <lemma>ecco</lemma>
+    <lemma annotation="at">sguardo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>ver</lemma>
+    <lemma>relógio</lemma>
+    <lemma annotation="at">eis que olhar</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>se</lemma>
+    <lemma>se</lemma>
+    <lemma>se</lemma>
+    <lemma annotation="på">se</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>sehen</lemma>
     <lemma>beobachten</lemma>
@@ -98,5 +132,11 @@
   <synset lang="nl">
     <lemma annotation="naar">kijken</lemma>
     <lemma annotation="op">een blik werpen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>לראות</lemma>
+    <lemma>שעון</lemma>
+    <lemma>והנה</lemma>
+    <lemma annotation="ב">מבט</lemma>
   </synset>
 </multilingual-synset>

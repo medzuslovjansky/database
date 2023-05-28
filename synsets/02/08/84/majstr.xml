@@ -29,6 +29,9 @@
   <synset lang="cs">
     <lemma>mistr</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>méster</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>majstor</lemma>
     <lemma>meštar</lemma>
@@ -60,10 +63,28 @@
     <lemma>mastro</lemma>
     <lemma>majstro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="experto">maestro</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="homme">maître</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="tecnico">master</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="perito">mestre</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="fagmand">master</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Meister</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="gekwalificeerd persoon">meester</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אדם מיומן">מאסטר</lemma>
   </synset>
 </multilingual-synset>

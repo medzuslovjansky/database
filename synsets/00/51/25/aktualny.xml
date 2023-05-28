@@ -27,9 +27,18 @@
     <lemma>aktuální</lemma>
     <lemma>současný</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>aktualni</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>aktualny</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pravovremen</lemma>
     <lemma annotation="u tijeku">relevantan</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>aktualny</lemma>
   </synset>
   <synset lang="mk">
     <lemma annotation="тековни">актуелни</lemma>
@@ -61,11 +70,40 @@
     <lemma>ĝisdata</lemma>
     <lemma>aktuala</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>actual</lemma>
+    <lemma>oportuna</lemma>
+    <lemma annotation="actual">real</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>courant</lemma>
+    <lemma>en temps opportun</lemma>
+    <lemma annotation="courant">réelle</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>corrente</lemma>
+    <lemma>tempestiva</lemma>
+    <lemma annotation="corrente">effettiva</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>atual</lemma>
+    <lemma annotation="atual">oportuna real</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>strøm</lemma>
+    <lemma>rettidig</lemma>
+    <lemma annotation="nuværende">faktiske</lemma>
+  </synset>
   <synset lang="de">
     <lemma>aktuell</lemma>
     <lemma>tatsächlich</lemma>
   </synset>
   <synset lang="nl">
     <lemma>actueel</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>נוכחי</lemma>
+    <lemma>בזמן</lemma>
+    <lemma annotation="נוכחי">בפועל</lemma>
   </synset>
 </multilingual-synset>

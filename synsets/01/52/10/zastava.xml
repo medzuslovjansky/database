@@ -28,6 +28,10 @@
     <lemma>korouhev</lemma>
     <lemma />
   </synset>
+  <synset lang="csb">
+    <lemma>fana</lemma>
+    <lemma>chòrõgvja</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>zastava</lemma>
     <lemma>barjak</lemma>
@@ -67,6 +71,31 @@
   <synset lang="eo" verified="false">
     <lemma>flago</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>bandera</lemma>
+    <lemma>bandera</lemma>
+    <lemma annotation="flag">bandera</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>drapeau</lemma>
+    <lemma>Ensign</lemma>
+    <lemma annotation="drapeau">bannière</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>bandiera</lemma>
+    <lemma>insegna</lemma>
+    <lemma annotation="bandiera">banner</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>bandeira</lemma>
+    <lemma>bandeira</lemma>
+    <lemma annotation="flag">bandeira</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>flag</lemma>
+    <lemma>banner</lemma>
+    <lemma annotation="flag">banner</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Flagge</lemma>
   </synset>
@@ -74,5 +103,10 @@
     <lemma>vlag</lemma>
     <lemma>vaandel</lemma>
     <lemma>banier</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>דגל</lemma>
+    <lemma>צוער</lemma>
+    <lemma annotation="דגל">הבאנר</lemma>
   </synset>
 </multilingual-synset>

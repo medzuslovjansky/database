@@ -25,6 +25,9 @@
     <lemma>beznadějný</lemma>
     <lemma annotation="situace">zoufalý</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>beznôdzejni</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>beznadnan</lemma>
     <lemma>bez nade</lemma>
@@ -61,6 +64,26 @@
     <lemma annotation="situacio">senespera</lemma>
     <lemma annotation="situacio">senespera</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="situación">sin esperanza</lemma>
+    <lemma annotation="situación">desesperada</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="situation">sans espoir</lemma>
+    <lemma annotation="situation">désespérée</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="situazione">senza speranza</lemma>
+    <lemma annotation="situazione">disperata</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="situação">desesperada</lemma>
+    <lemma annotation="situação">desesperado</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="situationen">håbløs</lemma>
+    <lemma annotation="situation">desperat</lemma>
+  </synset>
   <synset lang="de">
     <lemma annotation="Lage">hoffnungslos</lemma>
     <lemma annotation="Lage">verzweifelt</lemma>
@@ -68,5 +91,9 @@
   <synset lang="nl">
     <lemma>hopeloos</lemma>
     <lemma>uitzichtloos</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מצב">תקווה</lemma>
+    <lemma annotation="מצב">נואש</lemma>
   </synset>
 </multilingual-synset>

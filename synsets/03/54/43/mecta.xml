@@ -54,6 +54,26 @@
     <lemma annotation="deziro">sonĝo</lemma>
     <lemma>revo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="deseo">sueño</lemma>
+    <lemma>Daydream</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="souhait">rêve</lemma>
+    <lemma>rêve éveillé</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="desiderio">sogno</lemma>
+    <lemma>sogno ad occhi aperti</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="desejo">sonho</lemma>
+    <lemma>daydream</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="ønske">drøm</lemma>
+    <lemma>dagdrømme</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Wunsch">Traum</lemma>
     <lemma>daydream</lemma>
@@ -61,5 +81,9 @@
   <synset lang="nl">
     <lemma annotation="wensen">dromen</lemma>
     <lemma>dagdromen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="משאלה">חלום</lemma>
+    <lemma>חלום בהקיץ</lemma>
   </synset>
 </multilingual-synset>

@@ -28,6 +28,9 @@
     <lemma>lekce</lemma>
     <lemma>výuka</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>wuczba</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>lekcija</lemma>
   </synset>
@@ -66,6 +69,31 @@
     <lemma>leciono</lemma>
     <lemma>klaso periodo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>conferencia</lemma>
+    <lemma>lección</lemma>
+    <lemma>período de clases</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>lecture</lemma>
+    <lemma>leçon</lemma>
+    <lemma>période de classe</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>lezione</lemma>
+    <lemma>lezione</lemma>
+    <lemma>periodo di categoria</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>palestra</lemma>
+    <lemma>aula</lemma>
+    <lemma>aula</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>foredrag</lemma>
+    <lemma>lektion</lemma>
+    <lemma>klasse periode</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Vortrag</lemma>
     <lemma>Lektion</lemma>
@@ -73,5 +101,10 @@
   </synset>
   <synset lang="nl">
     <lemma>les</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>הרצאה</lemma>
+    <lemma>שיעור</lemma>
+    <lemma>תקופה בכיתה</lemma>
   </synset>
 </multilingual-synset>

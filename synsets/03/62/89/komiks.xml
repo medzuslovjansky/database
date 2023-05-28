@@ -59,6 +59,31 @@
     <lemma>komikso</lemma>
     <lemma annotation="libro">karikaturo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>tebeos</lemma>
+    <lemma>cómic</lemma>
+    <lemma annotation="libro">dibujo animado</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>bandes dessinées</lemma>
+    <lemma>bande dessinée</lemma>
+    <lemma annotation="livre">bande dessinée</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>comics</lemma>
+    <lemma>fumetti</lemma>
+    <lemma annotation="libro">cartoni animati</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>comics</lemma>
+    <lemma>quadrinhos</lemma>
+    <lemma annotation="livro">desenhos animados</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>tegneserier</lemma>
+    <lemma>tegneserie</lemma>
+    <lemma annotation="bog">tegneserie</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Comics</lemma>
     <lemma>Comic</lemma>
@@ -67,5 +92,10 @@
   <synset lang="nl">
     <lemma>strip</lemma>
     <lemma>stripboek</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>קומיקס</lemma>
+    <lemma>קומיקס</lemma>
+    <lemma annotation="ספר">קריקטורה</lemma>
   </synset>
 </multilingual-synset>

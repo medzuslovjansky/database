@@ -77,6 +77,26 @@
     <lemma>ravino</lemma>
     <lemma annotation="monto">pasejo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>barranco</lemma>
+    <lemma annotation="montaña">pase</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>ravin</lemma>
+    <lemma annotation="montagne">passe</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>burrone</lemma>
+    <lemma annotation="di montagna">passaggio</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>ravina</lemma>
+    <lemma annotation="montanha">passe</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>slugt</lemma>
+    <lemma annotation="bjerg">pass</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Schlucht</lemma>
     <lemma annotation="Berg">Pass</lemma>
@@ -84,5 +104,9 @@
   <synset lang="nl">
     <lemma>ravijn</lemma>
     <lemma>bergpas</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>ערוץ</lemma>
+    <lemma annotation="הר">לעבור</lemma>
   </synset>
 </multilingual-synset>

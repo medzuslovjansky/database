@@ -25,6 +25,9 @@
   <synset lang="cs">
     <lemma>zlomek</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>łamk</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>razlomak</lemma>
   </synset>
@@ -53,11 +56,29 @@
   <synset lang="eo" verified="false">
     <lemma annotation="rompita nombro">frakcio</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="número roto">la fracción</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="nombre en pointillés">fraction</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="numero rotto">Frazione</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="número quebrado">fracção</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="brudt nummer">fraktion</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Bruch</lemma>
     <lemma>Bruchzahl</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="getal">breuk</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מספר שבור">שבריר</lemma>
   </synset>
 </multilingual-synset>

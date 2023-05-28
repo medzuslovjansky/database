@@ -72,6 +72,36 @@
     <lemma annotation="letero">areo</lemma>
     <lemma annotation="ĵurnalo">suplemento</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>anexo</lemma>
+    <lemma annotation="e-mail">adjunto</lemma>
+    <lemma annotation="letra">espacio</lemma>
+    <lemma annotation="periódico">suplemento</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>annexe</lemma>
+    <lemma annotation="e-mail">pièce jointe</lemma>
+    <lemma annotation="lettre">enceinte</lemma>
+    <lemma annotation="journal">supplément</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>allegato</lemma>
+    <lemma annotation="e-mail">l&apos;attaccamento</lemma>
+    <lemma annotation="lettera">Box</lemma>
+    <lemma annotation="giornale">supplemento</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>anexo</lemma>
+    <lemma annotation="e-mail">anexo</lemma>
+    <lemma annotation="carta">caixa</lemma>
+    <lemma annotation="jornal">suplemento</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>bilag</lemma>
+    <lemma annotation="e-mail">vedhæftet fil</lemma>
+    <lemma annotation="brev">kabinet</lemma>
+    <lemma annotation="avis">tillæg</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Anhang</lemma>
     <lemma annotation="E-Mail">Befestigung</lemma>
@@ -81,5 +111,11 @@
   <synset lang="nl">
     <lemma>bijlage</lemma>
     <lemma>supplement</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>נספח</lemma>
+    <lemma annotation="e-mail">מצורף</lemma>
+    <lemma annotation="מכתב">מתחם</lemma>
+    <lemma annotation="עיתון">תוספת</lemma>
   </synset>
 </multilingual-synset>

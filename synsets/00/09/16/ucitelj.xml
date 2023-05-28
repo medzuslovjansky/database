@@ -23,6 +23,13 @@
   <synset lang="cs">
     <lemma>učitel</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>szkólny</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>ceptaŕ</lemma>
+    <lemma>wucabnik</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>učitelj</lemma>
     <lemma>nastavnik</lemma>
@@ -53,6 +60,21 @@
   <synset lang="eo">
     <lemma>instruisto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>profesor</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>prof</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>insegnante</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>professor</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>lærer</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Lehrer</lemma>
   </synset>
@@ -60,5 +82,8 @@
     <lemma>leraar</lemma>
     <lemma>onderwijzer</lemma>
     <lemma>docent</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מורה</lemma>
   </synset>
 </multilingual-synset>

@@ -29,6 +29,9 @@
   <synset lang="cs">
     <lemma annotation="směr">pod</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>pòd</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pod</lemma>
     <lemma>ispod</lemma>
@@ -60,11 +63,35 @@
     <lemma annotation="direkto">sub</lemma>
     <lemma annotation="direkto">sube</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="dirección">bajo</lemma>
+    <lemma annotation="dirección">por debajo de</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="direction">sous</lemma>
+    <lemma annotation="direction">au-dessous</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="direzione">sotto</lemma>
+    <lemma annotation="direzione">sotto</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="direcção">sob</lemma>
+    <lemma annotation="direcção">por baixo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="retning">under</lemma>
+    <lemma annotation="retning">nedenunder</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Richtung">unter</lemma>
     <lemma annotation="Richtung">unten</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="richting">onder</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="כיוון">תחת</lemma>
+    <lemma annotation="כיוון">מתחת</lemma>
   </synset>
 </multilingual-synset>

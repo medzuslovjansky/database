@@ -57,6 +57,26 @@
     <lemma>emfazo</lemma>
     <lemma annotation="prononco">streso</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>énfasis</lemma>
+    <lemma annotation="pronunciación">el estrés</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>l&apos;accent</lemma>
+    <lemma annotation="prononciation">le stress</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>enfasi</lemma>
+    <lemma annotation="pronuncia">lo stress</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>ênfase</lemma>
+    <lemma annotation="pronúncia">estresse</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>vægt</lemma>
+    <lemma annotation="udtale">stress</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Betonung</lemma>
     <lemma annotation="Aussprache">Stress</lemma>
@@ -64,5 +84,9 @@
   <synset lang="nl">
     <lemma>nadruk</lemma>
     <lemma>klemtoon</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>דגש</lemma>
+    <lemma annotation="הגייה">מתח</lemma>
   </synset>
 </multilingual-synset>

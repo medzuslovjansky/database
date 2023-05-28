@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="34898" steen:pos="m." steen:type="2" steen:same="v~ ">
+    <lemma steen:id="34898" steen:pos="m." steen:type="2" steen:same="v~">
       želězničny prěvod
     </lemma>
   </synset>
@@ -52,10 +52,28 @@
   <synset lang="eo">
     <lemma>fervoja ŝaltilo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>interruptor del ferrocarril</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>aiguillage</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>interruttore ferrovia</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>aparelhos de mudança de via</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>sporskifte</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Bahn-Schalter</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="spoor">wissel</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מסוט</lemma>
   </synset>
 </multilingual-synset>

@@ -78,6 +78,36 @@
     <lemma annotation="laboro">malmola</lemma>
     <lemma>laborige</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>gravemente</lemma>
+    <lemma annotation="enfermedad, el crimen">en serio</lemma>
+    <lemma annotation="trabajo">disco</lemma>
+    <lemma>trabajosamente</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>gravement</lemma>
+    <lemma annotation="maladie, crime">sérieusement</lemma>
+    <lemma annotation="travail">dur</lemma>
+    <lemma>arduously</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>gravemente</lemma>
+    <lemma annotation="la malattia, la criminalità">sul serio</lemma>
+    <lemma annotation="lavoro">duro</lemma>
+    <lemma>arduously</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>gravemente</lemma>
+    <lemma annotation="doença, crime">seriamente</lemma>
+    <lemma annotation="trabalho">disco</lemma>
+    <lemma>arduously</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>alvorligt</lemma>
+    <lemma annotation="sygdom, kriminalitet">alvorligt</lemma>
+    <lemma annotation="arbejde">hårdt</lemma>
+    <lemma>arduously</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>ernst</lemma>
     <lemma annotation="Krankheit, Kriminalität">ernst</lemma>
@@ -86,5 +116,11 @@
   </synset>
   <synset lang="nl">
     <lemma annotation="ziekte, misdrijf">ernstig</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>חמור</lemma>
+    <lemma annotation="מחלה, פשע">חמור</lemma>
+    <lemma annotation="עבודה">קשה</lemma>
+    <lemma>arduously</lemma>
   </synset>
 </multilingual-synset>

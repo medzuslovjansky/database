@@ -28,6 +28,9 @@
     <lemma annotation="soutěž">porota</lemma>
     <lemma>žiri</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>jury</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>žiri</lemma>
   </synset>
@@ -55,10 +58,28 @@
   <synset lang="eo">
     <lemma annotation="en konkurso">ĵurio</lemma>
   </synset>
+  <synset lang="es">
+    <lemma annotation="concurso">jurado</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="concours">jury</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="contest">giuria</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="concurso">júri</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="konkurrence">jury</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Jury</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="wedstrijd">jury</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="תחרות">מושבעים</lemma>
   </synset>
 </multilingual-synset>

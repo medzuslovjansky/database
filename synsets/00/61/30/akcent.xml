@@ -27,8 +27,16 @@
     <lemma>akcent</lemma>
     <lemma>důraz</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>pśizuk [ling.]</lemma>
+    <lemma>akcent</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>naglasak</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>wuraz</lemma>
+    <lemma>akcent</lemma>
   </synset>
   <synset lang="mk">
     <lemma>акцент</lemma>
@@ -62,11 +70,37 @@
     <lemma>akcento</lemma>
     <lemma>akcentado</lemma>
   </synset>
+  <synset lang="es">
+    <lemma>acento</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>accent</lemma>
+    <lemma annotation="accent">le stress</lemma>
+  </synset>
+  <synset lang="ia">
+    <lemma>accento</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>accento</lemma>
+    <lemma annotation="accento">lo stress</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>acento</lemma>
+    <lemma annotation="acento">o stress</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>accent</lemma>
+    <lemma annotation="accent">stress</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Akzent</lemma>
   </synset>
   <synset lang="nl">
     <lemma>accent</lemma>
     <lemma>klemtoon</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מבטא</lemma>
+    <lemma annotation="במבטא">מתח</lemma>
   </synset>
 </multilingual-synset>

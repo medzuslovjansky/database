@@ -70,6 +70,31 @@
     <lemma>nomo</lemma>
     <lemma>titolo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>nombre</lemma>
+    <lemma>denominación</lemma>
+    <lemma>título</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>nom</lemma>
+    <lemma>désignation</lemma>
+    <lemma>titre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>nome</lemma>
+    <lemma>denominazione</lemma>
+    <lemma>titolo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>nome</lemma>
+    <lemma>designação</lemma>
+    <lemma>título</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>navn</lemma>
+    <lemma>betegnelse</lemma>
+    <lemma>titel</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Name</lemma>
     <lemma>Bezeichnung</lemma>
@@ -77,5 +102,10 @@
   </synset>
   <synset lang="nl">
     <lemma annotation="van een voorwerp, organisatie, plaats e.d.">naam</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>שם</lemma>
+    <lemma>כינוי</lemma>
+    <lemma>כותרת</lemma>
   </synset>
 </multilingual-synset>

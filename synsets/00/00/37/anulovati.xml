@@ -32,10 +32,19 @@
     <lemma>zrušit</lemma>
     <lemma>anulovat</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>anulovac</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>anulěrowaś</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>ništiti</lemma>
     <lemma>poništavati</lemma>
     <lemma annotation="pf.">anulirati</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>anulować</lemma>
   </synset>
   <synset lang="mk">
     <lemma>анулира</lemma>
@@ -70,6 +79,26 @@
     <lemma>nuligi</lemma>
     <lemma>senvalidigi</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>cancelar</lemma>
+    <lemma>anular</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>annuler</lemma>
+    <lemma>annuler</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>annullare</lemma>
+    <lemma>annullare</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>cancelar</lemma>
+    <lemma>anular</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>annullere</lemma>
+    <lemma>ophæve</lemma>
+  </synset>
   <synset lang="de">
     <lemma>annulieren</lemma>
     <lemma>streichen</lemma>
@@ -77,5 +106,9 @@
   </synset>
   <synset lang="nl">
     <lemma>annuleren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>לבטל</lemma>
+    <lemma>לבטל</lemma>
   </synset>
 </multilingual-synset>

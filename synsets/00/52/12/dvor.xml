@@ -22,6 +22,9 @@
     <lemma>dvůr</lemma>
     <lemma>nádvoří</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>dvór</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>dvorište</lemma>
   </synset>
@@ -53,6 +56,26 @@
     <lemma annotation="korto">korto</lemma>
     <lemma>korto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="patio">patio</lemma>
+    <lemma>patio</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="cour">cour</lemma>
+    <lemma>cour</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="cortile">yard</lemma>
+    <lemma>cortile</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="pátio">pátio</lemma>
+    <lemma>pátio</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="gården">yard</lemma>
+    <lemma>gårdsplads</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Hof">Hof</lemma>
     <lemma>Hof</lemma>
@@ -60,5 +83,9 @@
   <synset lang="nl">
     <lemma>erf</lemma>
     <lemma>binnenplaats</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="חצר">בחצר</lemma>
+    <lemma>חצר</lemma>
   </synset>
 </multilingual-synset>

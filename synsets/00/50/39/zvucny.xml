@@ -20,6 +20,9 @@
   <synset lang="cs">
     <lemma annotation="souhláska">znělý</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma annotation="fònetika">zvãczni</lemma>
+  </synset>
   <synset lang="hr">
     <lemma annotation="suglasnik">zvučan</lemma>
   </synset>
@@ -48,10 +51,28 @@
   <synset lang="eo">
     <lemma annotation="konsonanto">voĉa</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="consonante">sonora</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="consonne">voisée</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="consonanti">dalla voce</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="consoante">sonora</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="konsonant">stemt</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Konsonant">stimmhaft</lemma>
   </synset>
   <synset lang="nl">
     <lemma>stemhebbend</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="עיצור">קוֹלִי</lemma>
   </synset>
 </multilingual-synset>

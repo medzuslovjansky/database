@@ -30,6 +30,9 @@
     <lemma>potok</lemma>
     <lemma annotation="slzy">proud</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>tšuga</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>potop</lemma>
     <lemma>poplava</lemma>
@@ -65,6 +68,26 @@
     <lemma annotation="larmoj ktp">inundo</lemma>
     <lemma>rapida rivereto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="lágrimas etc.">inundación</lemma>
+    <lemma>corriente rápida</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="larmes, etc.">inondation</lemma>
+    <lemma>flux rapide</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="lacrime, ecc">di inondazione</lemma>
+    <lemma>rapido flusso</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="lágrimas etc.">inundação</lemma>
+    <lemma>correnteza</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="tårer etc.">oversvømmelser</lemma>
+    <lemma>hurtig strøm</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Riss etc.">Flut</lemma>
     <lemma>schneller Strom</lemma>
@@ -72,5 +95,9 @@
   <synset lang="nl">
     <lemma>stroom</lemma>
     <lemma annotation="tranen e.d.">stortvloed</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>(דמעות וכו &apos;) מבול</lemma>
+    <lemma>זרם מהיר</lemma>
   </synset>
 </multilingual-synset>

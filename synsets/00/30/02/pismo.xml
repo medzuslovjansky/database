@@ -24,6 +24,12 @@
     <lemma>dopis</lemma>
     <lemma>psaní</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>lëst</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>list</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pismo</lemma>
   </synset>
@@ -53,6 +59,26 @@
     <lemma annotation="poŝto">letero</lemma>
     <lemma>skribo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="correo">carta</lemma>
+    <lemma>la escritura</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="courrier">lettre</lemma>
+    <lemma>l&apos;écriture</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="mail">lettera</lemma>
+    <lemma>la scrittura</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="correio">carta</lemma>
+    <lemma>escrita</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="mail">brev</lemma>
+    <lemma>skrivning</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="E-Mail">Brief</lemma>
     <lemma>schriftlich</lemma>
@@ -60,5 +86,9 @@
   <synset lang="nl">
     <lemma>brief</lemma>
     <lemma>geschrift</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מייל">מכתב</lemma>
+    <lemma>כתיבה</lemma>
   </synset>
 </multilingual-synset>

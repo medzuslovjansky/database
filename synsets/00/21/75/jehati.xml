@@ -28,6 +28,9 @@
   <synset lang="cs">
     <lemma>jet</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>jěś</lemma>
+  </synset>
   <synset lang="hr">
     <lemma annotation="se">voziti</lemma>
   </synset>
@@ -62,11 +65,35 @@
     <lemma annotation="per transporto">iras</lemma>
     <lemma>vojaĝo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="en transporte">ir</lemma>
+    <lemma>paseo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="par transport">aller</lemma>
+    <lemma>ride</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="con i mezzi">andare</lemma>
+    <lemma>cavalcata</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="de transportes">ir</lemma>
+    <lemma>passeio</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="ved transport">gå</lemma>
+    <lemma>tur</lemma>
+  </synset>
   <synset lang="de">
     <lemma>fahren</lemma>
   </synset>
   <synset lang="nl">
     <lemma>rijden</lemma>
     <lemma annotation="per vervoermiddel">gaan</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="בתחבורה">ללכת</lemma>
+    <lemma>נסיעה</lemma>
   </synset>
 </multilingual-synset>

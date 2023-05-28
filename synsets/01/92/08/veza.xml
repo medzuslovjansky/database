@@ -55,11 +55,35 @@
     <lemma annotation="ŝako">kastelo</lemma>
     <lemma annotation="ŝako">turo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="ajedrez">Castillo</lemma>
+    <lemma annotation="ajedrez">grajo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="échecs">château</lemma>
+    <lemma annotation="échecs">freux</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="scacchi">Castello</lemma>
+    <lemma annotation="scacchi">Torre</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="xadrez">castelo</lemma>
+    <lemma annotation="xadrez">torre</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="skak">slot</lemma>
+    <lemma annotation="skak">råge</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Schach">Burg</lemma>
     <lemma annotation="Schach">Saatkrähe</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="schaakspel">toren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="שחמט">טירה</lemma>
+    <lemma annotation="שחמט">צריח</lemma>
   </synset>
 </multilingual-synset>

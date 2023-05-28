@@ -24,6 +24,10 @@
     <lemma>úřednice</lemma>
     <lemma>funkcionářka</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>wurzãdnjica</lemma>
+    <lemma>wurzãdovnjica</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>činovnica</lemma>
     <lemma>službenica</lemma>
@@ -61,11 +65,41 @@
     <lemma>oficiro</lemma>
     <lemma annotation="virino">funkciulo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>oficial</lemma>
+    <lemma>oficial</lemma>
+    <lemma annotation="mujer">funcionario</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>officiel</lemma>
+    <lemma>officier</lemma>
+    <lemma annotation="femme">fonctionnaire</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>ufficiale</lemma>
+    <lemma>ufficiale</lemma>
+    <lemma annotation="donna">funzionario</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>oficial</lemma>
+    <lemma>oficial</lemma>
+    <lemma annotation="mulher">funcionário</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>officielle</lemma>
+    <lemma>officer</lemma>
+    <lemma annotation="kvinde">funktionær</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Offizier</lemma>
   </synset>
   <synset lang="nl">
     <lemma>ambtenaar</lemma>
     <lemma>functionaris</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>רשמית</lemma>
+    <lemma>קצין</lemma>
+    <lemma annotation="אישה">עסקן</lemma>
   </synset>
 </multilingual-synset>

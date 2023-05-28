@@ -67,6 +67,31 @@
     <lemma annotation="klaso">eksigi</lemma>
     <lemma annotation="armeo">dissolvi</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>disolver</lemma>
+    <lemma annotation="clase">descartar</lemma>
+    <lemma annotation="ejército">disband</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>dissoudre</lemma>
+    <lemma annotation="classe">rejeter</lemma>
+    <lemma annotation="armée">Dissoudre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>sciogliere</lemma>
+    <lemma annotation="classe">respingere</lemma>
+    <lemma annotation="esercito">disband</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>dissolver</lemma>
+    <lemma annotation="classe">descartar</lemma>
+    <lemma annotation="exército">licencia</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>opløse</lemma>
+    <lemma annotation="klasse">afvise</lemma>
+    <lemma annotation="hær">Disband</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>auflösen</lemma>
     <lemma annotation="Klasse">entlassen</lemma>
@@ -75,5 +100,10 @@
   <synset lang="nl">
     <lemma annotation="leger">ontbinden</lemma>
     <lemma>naar huis sturen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>להתמוסס</lemma>
+    <lemma annotation="בכיתה">לפטר</lemma>
+    <lemma annotation="צבא">לפרק</lemma>
   </synset>
 </multilingual-synset>

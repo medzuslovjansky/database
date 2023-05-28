@@ -63,6 +63,26 @@
     <lemma annotation="al">naski</lemma>
     <lemma annotation="bebo">liberigu</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="a">dar a luz</lemma>
+    <lemma annotation="un bebé">entregar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="à">donner naissance</lemma>
+    <lemma annotation="un bébé">fournir</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="a">dare alla luce</lemma>
+    <lemma annotation="un bambino">consegnare</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="a">dar à luz</lemma>
+    <lemma annotation="um bebê">entregar</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="til">føder</lemma>
+    <lemma annotation="en baby">levere</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>zeugen</lemma>
     <lemma>hervorbringen</lemma>
@@ -70,5 +90,9 @@
   <synset lang="nl">
     <lemma>baren</lemma>
     <lemma>bevallen van</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אל">ללדת</lemma>
+    <lemma annotation="תינוק">לספק</lemma>
   </synset>
 </multilingual-synset>

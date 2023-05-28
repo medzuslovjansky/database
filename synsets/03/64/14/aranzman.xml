@@ -28,8 +28,19 @@
   <synset lang="cs">
     <lemma>aranžmá</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>aranżacëjô</lemma>
+    <lemma>aranż</lemma>
+    <lemma>aranżmant</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>aranžement</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>aranžman</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>aranžma</lemma>
   </synset>
   <synset lang="mk">
     <lemma>аранжман</lemma>
@@ -57,10 +68,28 @@
     <lemma annotation="muziko">aranĝo</lemma>
     <lemma annotation="muziko">aranĝado</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="música">arreglo de</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="musique">arrangement</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="musica">accordo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="música">arranjo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="musik">arrangement</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Arrangement</lemma>
   </synset>
   <synset lang="nl">
     <lemma>arrangement</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מוזיקה">הסדר</lemma>
   </synset>
 </multilingual-synset>

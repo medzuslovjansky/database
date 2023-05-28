@@ -67,11 +67,35 @@
     <lemma>lando</lemma>
     <lemma annotation="geografio">lando</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>tierra</lemma>
+    <lemma annotation="geografía">país</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>terre</lemma>
+    <lemma annotation="géographie">pays</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>terreni</lemma>
+    <lemma annotation="geografia">Paese</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>terra</lemma>
+    <lemma annotation="geografia">país</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>jord</lemma>
+    <lemma annotation="geografi">land</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Land</lemma>
     <lemma annotation="Geografie">Land</lemma>
   </synset>
   <synset lang="nl">
     <lemma>gebied</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>ארץ</lemma>
+    <lemma annotation="גאוגרפיה">ארץ</lemma>
   </synset>
 </multilingual-synset>

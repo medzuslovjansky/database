@@ -25,6 +25,10 @@
     <lemma annotation="věc">záležitost</lemma>
     <lemma>problém</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>sprava</lemma>
+    <lemma>zacha</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>slučaj</lemma>
     <lemma>predmet</lemma>
@@ -58,6 +62,26 @@
     <lemma annotation="afero">afero</lemma>
     <lemma>temo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="materia">asunto</lemma>
+    <lemma>tema</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="affaire">affaire</lemma>
+    <lemma>question</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="la materia">vicenda</lemma>
+    <lemma>problema</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="matéria">caso</lemma>
+    <lemma>assuntos</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="sag">affære</lemma>
+    <lemma>udstede</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Materie">Affäre</lemma>
     <lemma>Ausgabe</lemma>
@@ -65,5 +89,9 @@
   <synset lang="nl">
     <lemma>zaak</lemma>
     <lemma>kwestie</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="משנה">פרשה</lemma>
+    <lemma>נושא</lemma>
   </synset>
 </multilingual-synset>

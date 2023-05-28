@@ -34,6 +34,9 @@
     <lemma>zemřelý</lemma>
     <lemma>zesnulý</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>wumarły</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>umrli</lemma>
     <lemma>pokojni</lemma>
@@ -69,6 +72,26 @@
     <lemma>forpasita</lemma>
     <lemma annotation="forpasita">malfrue</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>fallecido</lemma>
+    <lemma annotation="fallecido">tarde</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>décédé</lemma>
+    <lemma annotation="décédé">fin</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>defunto</lemma>
+    <lemma annotation="deceduto">in ritardo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>falecido</lemma>
+    <lemma annotation="falecido">tarde</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>afdøde</lemma>
+    <lemma annotation="afdøde">sent</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>verstorben</lemma>
     <lemma annotation="verstorben">spät</lemma>
@@ -76,5 +99,9 @@
   <synset lang="nl">
     <lemma>overleden</lemma>
     <lemma>wijlen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>המנוח</lemma>
+    <lemma annotation="המנוח">המנוח</lemma>
   </synset>
 </multilingual-synset>

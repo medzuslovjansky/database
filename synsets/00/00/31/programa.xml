@@ -26,6 +26,9 @@
   <synset lang="cs">
     <lemma>program</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>program</lemma>
+  </synset>
   <synset lang="hr" verified="false">
     <lemma>program</lemma>
   </synset>
@@ -57,6 +60,29 @@
     <lemma>programo</lemma>
     <lemma annotation="komputila">aplikaĵo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>programa</lemma>
+    <lemma>programa</lemma>
+    <lemma annotation="ordenador">aplicación</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>programme</lemma>
+    <lemma annotation="ordinateur">un programme application</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>programma</lemma>
+    <lemma>il programma</lemma>
+    <lemma annotation="computer">l&apos;applicazione</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>programa</lemma>
+    <lemma annotation="informática">programa de aplicação</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>programmet</lemma>
+    <lemma>programmet</lemma>
+    <lemma annotation="computer">applikation</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Programm</lemma>
     <lemma>Programm</lemma>
@@ -64,5 +90,10 @@
   </synset>
   <synset lang="nl">
     <lemma>programma</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>תכנית</lemma>
+    <lemma>תכנית</lemma>
+    <lemma annotation="מחשב">יישום</lemma>
   </synset>
 </multilingual-synset>

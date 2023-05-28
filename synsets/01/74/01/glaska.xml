@@ -60,11 +60,35 @@
     <lemma>fonemo</lemma>
     <lemma annotation="fon.">sono</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>fonema</lemma>
+    <lemma annotation="phon.">sonido</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>phonème</lemma>
+    <lemma>son (phon).</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>fonemi</lemma>
+    <lemma annotation="phon.">suono</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>fonema</lemma>
+    <lemma annotation="fon.">som</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>fonem</lemma>
+    <lemma annotation="fon.">lyd</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Phonem</lemma>
   </synset>
   <synset lang="nl">
     <lemma>foneem</lemma>
     <lemma annotation="fonetiek">klank</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>פונמה</lemma>
+    <lemma annotation="phon.">קול</lemma>
   </synset>
 </multilingual-synset>

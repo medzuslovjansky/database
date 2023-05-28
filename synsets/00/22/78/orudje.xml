@@ -32,6 +32,9 @@
     <lemma>zařízení</lemma>
     <lemma>nástroj</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>jinstrument</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>oruđe</lemma>
     <lemma>alat</lemma>
@@ -78,6 +81,31 @@
     <lemma>instrumento</lemma>
     <lemma>ilo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>dispositivo</lemma>
+    <lemma>instrumento</lemma>
+    <lemma>herramienta</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>dispositif</lemma>
+    <lemma>instrument</lemma>
+    <lemma>outil</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>dispositivo</lemma>
+    <lemma>Strumento</lemma>
+    <lemma>attrezzo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>dispositivo</lemma>
+    <lemma>instrumento</lemma>
+    <lemma>ferramenta</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>enhed</lemma>
+    <lemma>instrument</lemma>
+    <lemma>værktøj</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Gerät</lemma>
     <lemma>Instrument</lemma>
@@ -86,5 +114,10 @@
   <synset lang="nl">
     <lemma>werktuig</lemma>
     <lemma>gereedschap</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מכשיר</lemma>
+    <lemma>מכשיר</lemma>
+    <lemma>כלי</lemma>
   </synset>
 </multilingual-synset>

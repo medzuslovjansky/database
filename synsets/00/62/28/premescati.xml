@@ -63,6 +63,36 @@
     <lemma>movo</lemma>
     <lemma>transigo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="transitivo">move</lemma>
+    <lemma>reubicar</lemma>
+    <lemma>cambio</lemma>
+    <lemma>la transferencia de</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="transitive">déplacer</lemma>
+    <lemma>déplacer</lemma>
+    <lemma>déplacement</lemma>
+    <lemma>transfert</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="transitivo">mossa</lemma>
+    <lemma>riassegni</lemma>
+    <lemma>spostamento</lemma>
+    <lemma>trasferimento</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="transitória">movimento</lemma>
+    <lemma>de recolocao</lemma>
+    <lemma>deslocamento</lemma>
+    <lemma>transferência</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="transitive">træk</lemma>
+    <lemma>omplacering</lemma>
+    <lemma>skifteholdsarbejde</lemma>
+    <lemma>overførsel</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="verb">move</lemma>
     <lemma>verlagern</lemma>
@@ -71,5 +101,11 @@
   </synset>
   <synset lang="nl">
     <lemma>verplaatsen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="יוצא">מהלך</lemma>
+    <lemma>להעביר</lemma>
+    <lemma>משמרת</lemma>
+    <lemma>העברה</lemma>
   </synset>
 </multilingual-synset>

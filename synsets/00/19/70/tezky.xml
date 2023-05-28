@@ -75,6 +75,31 @@
     <lemma annotation="malfacilaj">malfacile</lemma>
     <lemma>pezaj</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>difícil</lemma>
+    <lemma annotation="difícil">duro</lemma>
+    <lemma>gravosa</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>difficile</lemma>
+    <lemma annotation="difficile">dur</lemma>
+    <lemma>lourde</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>difficile</lemma>
+    <lemma annotation="difficile">duro</lemma>
+    <lemma>onerosa</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>difícil</lemma>
+    <lemma annotation="difícil">duro</lemma>
+    <lemma>onerosa</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>vanskeligt</lemma>
+    <lemma annotation="svært">hårdt</lemma>
+    <lemma>byrdefulde</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>schwierig</lemma>
     <lemma annotation="schwer">hart</lemma>
@@ -82,5 +107,10 @@
   </synset>
   <synset lang="nl">
     <lemma>moeilijk</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>קשה</lemma>
+    <lemma annotation="קשה">קשה</lemma>
+    <lemma>מכביד</lemma>
   </synset>
 </multilingual-synset>

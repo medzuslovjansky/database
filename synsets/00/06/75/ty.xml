@@ -69,11 +69,35 @@
     <lemma>vi</lemma>
     <lemma>ci</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="sg.">usted</lemma>
+    <lemma>tú</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="sg.">vous</lemma>
+    <lemma>tu</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="sg.">voi</lemma>
+    <lemma>tu</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="sg.">você</lemma>
+    <lemma>tu</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="sg.">du</lemma>
+    <lemma>du</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="sg.">Sie</lemma>
     <lemma>du</lemma>
   </synset>
   <synset lang="nl">
     <lemma>jij</lemma>
+  </synset>
+  <synset lang="he">
+    <lemma>אַתָּה</lemma>
+    <lemma>אַתְּ</lemma>
   </synset>
 </multilingual-synset>

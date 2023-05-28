@@ -32,8 +32,16 @@
     <lemma annotation="obřad">akoláda</lemma>
     <lemma>ocenění</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>ryśaŕski tśap</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>akolada</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>myto</lemma>
+    <lemma>mytowanje</lemma>
+    <lemma>wuznamjenjenje</lemma>
   </synset>
   <synset lang="mk">
     <lemma annotation="церемонија">награда</lemma>
@@ -65,11 +73,41 @@
   <synset lang="eo">
     <lemma>Iniciado en kavaliro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="ceremonia">galardón</lemma>
+    <lemma>doblaje</lemma>
+    <lemma>adoubement</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="cérémonie">récompense</lemma>
+    <lemma>le doublage</lemma>
+    <lemma>adoubement</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="cerimonia">riconoscimento</lemma>
+    <lemma>doppiaggio</lemma>
+    <lemma>adoubement</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="cerimônia">accolade</lemma>
+    <lemma>dublagem</lemma>
+    <lemma>adoubement</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="ceremoni">hædersbevisning</lemma>
+    <lemma>eftersynkronisering</lemma>
+    <lemma>adoubement</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Ritterschlag</lemma>
   </synset>
   <synset lang="nl">
     <lemma>accolade</lemma>
     <lemma>ridderslag</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="טקס">תואר</lemma>
+    <lemma>דיבוב</lemma>
+    <lemma>adoubement</lemma>
   </synset>
 </multilingual-synset>

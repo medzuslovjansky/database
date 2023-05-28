@@ -61,6 +61,26 @@
     <lemma annotation="substanco">medicino</lemma>
     <lemma>drogo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="sustancia">medicina</lemma>
+    <lemma>drogas</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="substance">médicament</lemma>
+    <lemma>médicament</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="sostanza">Medicina</lemma>
+    <lemma>di droga</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="substância">medicina</lemma>
+    <lemma>drogas</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="stof">medicin</lemma>
+    <lemma>lægemiddel</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Medizin</lemma>
     <lemma>Medikament</lemma>
@@ -69,5 +89,9 @@
   <synset lang="nl">
     <lemma>geneesmiddel</lemma>
     <lemma>medicijn</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="חומר">רפואה</lemma>
+    <lemma>תרופה</lemma>
   </synset>
 </multilingual-synset>

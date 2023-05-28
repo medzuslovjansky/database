@@ -20,6 +20,9 @@
   <synset lang="cs">
     <lemma annotation="královský">dvůr</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma annotation="krolevskji">dvór</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>dvor</lemma>
     <lemma>dvorac</lemma>
@@ -48,10 +51,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="ekz de reĝo">tribunalo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="por ejemplo, de un rey">corte</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="par exemple d&apos;un roi">tribunal</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="per esempio di un re">tennis</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="por exemplo, de um rei">corte</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="fx af en konge">ret</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="zum Beispiel eines Königs">Gericht</lemma>
   </synset>
   <synset lang="nl">
     <lemma>hof</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="למשל, של מלך">בית המשפט</lemma>
   </synset>
 </multilingual-synset>

@@ -32,8 +32,15 @@
     <lemma>akcentovat</lemma>
     <lemma>zdůrazňovat</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>pśizukowaś</lemma>
+    <lemma>akcentuěrowaś</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>naglašavati</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>akcentować</lemma>
   </synset>
   <synset lang="mk">
     <lemma>нагласува</lemma>
@@ -68,6 +75,28 @@
   <synset lang="eo">
     <lemma>akcenti</lemma>
   </synset>
+  <synset lang="es">
+    <lemma>acentuar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>accentuate</lemma>
+    <lemma annotation="prononciation">le stress</lemma>
+  </synset>
+  <synset lang="ia">
+    <lemma>accentuar</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>accentuare</lemma>
+    <lemma annotation="pronuncia">stress</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>acentuam</lemma>
+    <lemma annotation="pronúncia">o stress</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>Cementere</lemma>
+    <lemma annotation="udtale">stress</lemma>
+  </synset>
   <synset lang="de">
     <lemma>akzentuieren</lemma>
     <lemma annotation="Aussprache">Stress</lemma>
@@ -75,5 +104,9 @@
   <synset lang="nl">
     <lemma>accentueren</lemma>
     <lemma>beklemtonen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>הדגש</lemma>
+    <lemma annotation="הגייה">מתח</lemma>
   </synset>
 </multilingual-synset>

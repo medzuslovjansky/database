@@ -31,6 +31,9 @@
     <lemma>doktor</lemma>
     <lemma>lékař</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>dochtór</lemma>
+  </synset>
   <synset lang="cu">
     <lemma>врачь</lemma>
     <lemma>балии</lemma>
@@ -70,6 +73,21 @@
   <synset lang="eo" verified="false">
     <lemma annotation="kuracisto">doktoro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="médico">médico</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="médecin">médecin</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="medico">medico</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="médico">médico</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="læge">læge</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Arzt</lemma>
     <lemma>Doktor</lemma>
@@ -77,5 +95,8 @@
   <synset lang="nl">
     <lemma>dokter</lemma>
     <lemma>arts</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="רופא">הרופא</lemma>
   </synset>
 </multilingual-synset>

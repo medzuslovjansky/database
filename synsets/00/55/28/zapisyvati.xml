@@ -63,6 +63,31 @@
     <lemma annotation="en komputilo">krom</lemma>
     <lemma>noti</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>grabar</lemma>
+    <lemma annotation="en un equipo">guardar</lemma>
+    <lemma>escriba</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>enregistrer</lemma>
+    <lemma annotation="sur un ordinateur">sauvegarder</lemma>
+    <lemma>notez</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>registrare</lemma>
+    <lemma annotation="su un computer">salvare</lemma>
+    <lemma>annotare</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>gravar</lemma>
+    <lemma annotation="em um computador">guardar</lemma>
+    <lemma>anote</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>rekord</lemma>
+    <lemma annotation="på en computer">gemme</lemma>
+    <lemma>nedskrive</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Aufzeichnung</lemma>
     <lemma>(auf einem Computer) speichern</lemma>
@@ -71,5 +96,10 @@
   <synset lang="nl">
     <lemma annotation="geluid">opnemen</lemma>
     <lemma annotation="op een computer">opslaan</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>השיא</lemma>
+    <lemma annotation="במחשב">שמור</lemma>
+    <lemma>לרשום</lemma>
   </synset>
 </multilingual-synset>

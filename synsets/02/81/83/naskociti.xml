@@ -81,6 +81,26 @@
     <lemma annotation="kun">kolizii</lemma>
     <lemma annotation="sur">fali</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="chocar">correr</lemma>
+    <lemma annotation="con">chocar</lemma>
+    <lemma annotation="sobre">caer</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="entrer">courir</lemma>
+    <lemma annotation="avec">entrer en collision</lemma>
+    <lemma annotation="sur">tomber</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="dentro">correre</lemma>
+    <lemma annotation="con">scontrarsi</lemma>
+    <lemma annotation="sopra">cadere</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="em">correr</lemma>
+    <lemma annotation="com">colidir</lemma>
+    <lemma annotation="em cima">cair</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="hinein">laufen</lemma>
     <lemma annotation="mit">kollidieren</lemma>
@@ -90,5 +110,10 @@
     <lemma annotation="op">stuiten</lemma>
     <lemma>tegenkomen</lemma>
     <lemma>treffen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="לתוך">לרוץ</lemma>
+    <lemma annotation="עם">להתנגש</lemma>
+    <lemma annotation="על">ליפול</lemma>
   </synset>
 </multilingual-synset>

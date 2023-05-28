@@ -58,6 +58,26 @@
     <lemma annotation="redoni">reveno</lemma>
     <lemma>redoni</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="devuelvo">retorno</lemma>
+    <lemma>dar vuelta</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="retour give">retour</lemma>
+    <lemma>redonner</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="restituire">ritorno</lemma>
+    <lemma>restituire</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="devolver">retorno</lemma>
+    <lemma>dar a volta</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="give tilbage">tilbagevenden</lemma>
+    <lemma>give tilbage</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="zurückgeben">Rückkehr</lemma>
     <lemma>zurück geben</lemma>
@@ -65,5 +85,9 @@
   <synset lang="nl">
     <lemma>teruggeven</lemma>
     <lemma>retourneren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="חזור Give">החזרה</lemma>
+    <lemma>להחזיר</lemma>
   </synset>
 </multilingual-synset>

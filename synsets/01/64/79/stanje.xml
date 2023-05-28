@@ -10,7 +10,7 @@
       steen:id="16479"
       steen:pos="n."
       steen:type="2"
-      steen:same="ub pl cs~ yu "
+      steen:same="ub pl cs~ yu"
     >
       stańje
     </lemma>
@@ -21,8 +21,6 @@
   </synset>
   <synset lang="be">
     <lemma>стан</lemma>
-    <lemma>статус</lemma>
-    <lemma>статут</lemma>
     <lemma>становішча</lemma>
   </synset>
   <synset lang="bg" verified="false">
@@ -68,11 +66,35 @@
     <lemma annotation="kondiĉo, formo">ŝtato</lemma>
     <lemma>statuso</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="estado, forma">estado</lemma>
+    <lemma>el estado de</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="état, la forme">état</lemma>
+    <lemma>le statut</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="condizione, forma">Stato</lemma>
+    <lemma>stato</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="condição, forma">estado</lemma>
+    <lemma>estado</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="tilstand, form">tilstand</lemma>
+    <lemma>status</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Zustand</lemma>
   </synset>
   <synset lang="nl">
     <lemma>toestand</lemma>
     <lemma>staat</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="בתנאי, צורה">המדינה</lemma>
+    <lemma>מעמד</lemma>
   </synset>
 </multilingual-synset>

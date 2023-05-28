@@ -55,6 +55,31 @@
     <lemma>fluso</lemma>
     <lemma annotation="tajdon">fluo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>marea</lemma>
+    <lemma>la marea alta</lemma>
+    <lemma annotation="marea">el flujo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>marée</lemma>
+    <lemma>la marée haute</lemma>
+    <lemma annotation="marée">le débit</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>marea</lemma>
+    <lemma>alta marea</lemma>
+    <lemma annotation="marea">portata</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>maré</lemma>
+    <lemma>a maré alta</lemma>
+    <lemma annotation="maré">o fluxo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>tidevand</lemma>
+    <lemma>højvande</lemma>
+    <lemma annotation="tidevand">flow</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>tide</lemma>
     <lemma>Flut</lemma>
@@ -63,5 +88,10 @@
   <synset lang="nl">
     <lemma>hoogtij</lemma>
     <lemma>vloed</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>גאות</lemma>
+    <lemma>גאות</lemma>
+    <lemma annotation="גאות">זרימה</lemma>
   </synset>
 </multilingual-synset>

@@ -22,6 +22,9 @@
   <synset lang="cs">
     <lemma annotation="počítač">soubor</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>lopk</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>datoteka</lemma>
     <lemma>fajl</lemma>
@@ -52,11 +55,29 @@
   <synset lang="eo" verified="false">
     <lemma annotation="komputila">dosiero</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="ordenador">archivo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="ordinateur">fichier</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="computer">File</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="computador">arquivo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="computer">fil</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Datei</lemma>
   </synset>
   <synset lang="nl">
     <lemma>file</lemma>
     <lemma>bestand</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מחשב">קובץ</lemma>
   </synset>
 </multilingual-synset>

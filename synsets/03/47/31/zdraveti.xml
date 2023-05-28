@@ -59,6 +59,26 @@
   <synset lang="eo">
     <lemma>saniĝi</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>mejorar</lemma>
+    <lemma annotation="de una enfermedad">recuperar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>mieux</lemma>
+    <lemma annotation="d&apos;une maladie">récupérer</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>meglio</lemma>
+    <lemma annotation="da una malattia">recuperare</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>melhorar</lemma>
+    <lemma annotation="de uma doença">recuperar</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>få det bedre</lemma>
+    <lemma annotation="fra en sygdom">gendanne</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>besser</lemma>
     <lemma annotation="von einer Krankheit">erholen</lemma>
@@ -66,5 +86,9 @@
   <synset lang="nl">
     <lemma annotation="na ziekte">herstellen</lemma>
     <lemma annotation="na ziekte">beter worden</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>להשתפר</lemma>
+    <lemma annotation="ממחלה">להתאושש</lemma>
   </synset>
 </multilingual-synset>

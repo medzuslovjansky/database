@@ -55,6 +55,26 @@
     <lemma annotation="per transporto">veni</lemma>
     <lemma>alvenas</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="por transporte">venir</lemma>
+    <lemma>llegar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="par les transports">venir</lemma>
+    <lemma>arrivent</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="da trasporto">venire</lemma>
+    <lemma>arriva</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="de transportes">vir</lemma>
+    <lemma>chegam</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="ved transport">komme</lemma>
+    <lemma>ankommer</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="durch Transport">kommen</lemma>
     <lemma>ankommen</lemma>
@@ -62,5 +82,9 @@
   <synset lang="nl">
     <lemma>aankomen</lemma>
     <lemma annotation="per vervoermiddel">arriveren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="בתחבורה">לבוא</lemma>
+    <lemma>מגיע</lemma>
   </synset>
 </multilingual-synset>

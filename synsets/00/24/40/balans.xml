@@ -26,8 +26,16 @@
     <lemma>bilance</lemma>
     <lemma annotation="účetní">rozvaha</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>balansa</lemma>
+    <lemma>rownowaga</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>ravnoteža</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>balansa</lemma>
+    <lemma>runowaha</lemma>
   </synset>
   <synset lang="mk">
     <lemma>баланс</lemma>
@@ -59,6 +67,21 @@
   <synset lang="eo" verified="false">
     <lemma>ekvilibro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>equilibrar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>équilibre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>equilibrio</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>Saldo</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>balance</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Balance</lemma>
     <lemma>Gleichgewicht</lemma>
@@ -66,5 +89,8 @@
   <synset lang="nl">
     <lemma>balans</lemma>
     <lemma>evenwicht</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>איזון</lemma>
   </synset>
 </multilingual-synset>

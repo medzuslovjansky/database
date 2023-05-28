@@ -55,6 +55,31 @@
     <lemma>pesto</lemma>
     <lemma>Nigra Morto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="enfermedad">plaga</lemma>
+    <lemma>la peste</lemma>
+    <lemma>la muerte Negro</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="maladie">ravageurs</lemma>
+    <lemma>la peste</lemma>
+    <lemma>la mort noire</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="malattia">parassiti</lemma>
+    <lemma>pestilenze</lemma>
+    <lemma>Black Death</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="doença">praga</lemma>
+    <lemma>peste</lemma>
+    <lemma>Black Death</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="sygdom">skadedyr</lemma>
+    <lemma>pest</lemma>
+    <lemma>Sorte Død</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Krankheit">Schädling</lemma>
     <lemma>Pest</lemma>
@@ -63,5 +88,10 @@
   <synset lang="nl">
     <lemma>pest</lemma>
     <lemma>zwarte dood</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מחלה">מזיקים</lemma>
+    <lemma>מגפות</lemma>
+    <lemma>מוות שחור</lemma>
   </synset>
 </multilingual-synset>

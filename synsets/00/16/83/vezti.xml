@@ -62,6 +62,26 @@
     <lemma>transporto</lemma>
     <lemma annotation="per veturilo">portas</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>transporte</lemma>
+    <lemma annotation="por vehículo">acarreo</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>le transport</lemma>
+    <lemma annotation="par véhicule">report</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>trasporti</lemma>
+    <lemma annotation="per veicolo">carry</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>transporte</lemma>
+    <lemma annotation="por veículo">transporte</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>transport</lemma>
+    <lemma annotation="ved køretøj">carry</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Transport</lemma>
     <lemma annotation="mit einem Fahrzeug">trägt</lemma>
@@ -69,5 +89,9 @@
   <synset lang="nl">
     <lemma>vervoeren</lemma>
     <lemma>transporteren</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>תחבורה</lemma>
+    <lemma annotation="ברכב">נשיאה</lemma>
   </synset>
 </multilingual-synset>

@@ -62,6 +62,26 @@
     <lemma annotation="fari ion">halto</lemma>
     <lemma>ĉesu</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="hacer algo">parada</lemma>
+    <lemma>cese</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="quelque chose à faire">Arrêt</lemma>
+    <lemma>cessez</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="fare qualcosa">stop</lemma>
+    <lemma>cessate</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="fazer algo">stop</lemma>
+    <lemma>cessar</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="gør noget">stop</lemma>
+    <lemma>ophører</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="etwas zu tun">stoppen</lemma>
     <lemma>aufhören</lemma>
@@ -69,5 +89,9 @@
   <synset lang="nl">
     <lemma>ophouden</lemma>
     <lemma>stoppen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="משהו עושה">stop</lemma>
+    <lemma>הפסקה</lemma>
   </synset>
 </multilingual-synset>

@@ -37,6 +37,9 @@
     <lemma>volat</lemma>
     <lemma>svolávat</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>rôczëc</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>pozivati</lemma>
     <lemma annotation="u goste">zvati</lemma>
@@ -79,11 +82,35 @@
     <lemma>inviti</lemma>
     <lemma>kunvoki</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>invitar</lemma>
+    <lemma>convocar</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>inviter</lemma>
+    <lemma>Summon</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>invitare</lemma>
+    <lemma>summon</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>convidar</lemma>
+    <lemma>convocar</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>invitere</lemma>
+    <lemma>indkalde</lemma>
+  </synset>
   <synset lang="de">
     <lemma>einladen</lemma>
     <lemma>herbeirufen</lemma>
   </synset>
   <synset lang="nl">
     <lemma>uitnodigen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מזמין</lemma>
+    <lemma>בזימון</lemma>
   </synset>
 </multilingual-synset>

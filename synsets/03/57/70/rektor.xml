@@ -61,6 +61,31 @@
     <lemma>lernejestro</lemma>
     <lemma annotation="lernejo">ĉefa</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>rector</lemma>
+    <lemma>director</lemma>
+    <lemma annotation="escuela">director</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>recteur</lemma>
+    <lemma>directeur</lemma>
+    <lemma annotation="école">directeur</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>rettore</lemma>
+    <lemma>preside</lemma>
+    <lemma annotation="scuola">preside</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>reitor</lemma>
+    <lemma>director</lemma>
+    <lemma annotation="escola">principal</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>rektor</lemma>
+    <lemma>rektor</lemma>
+    <lemma annotation="skole">principal</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Rektor</lemma>
     <lemma>Schulleiter</lemma>
@@ -69,5 +94,10 @@
   <synset lang="nl">
     <lemma>rector</lemma>
     <lemma>schoolhoofd</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>רקטור</lemma>
+    <lemma>מנהל</lemma>
+    <lemma annotation="ספר">מנהל</lemma>
   </synset>
 </multilingual-synset>

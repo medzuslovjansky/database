@@ -25,9 +25,20 @@
     <lemma>přesnost</lemma>
     <lemma>akurátnost</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>akùrôtnosc</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>dokradnosć</lemma>
+    <lemma>kradosćiwosć</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>preciznost</lemma>
     <lemma>točnost</lemma>
+  </synset>
+  <synset lang="hsb">
+    <lemma>dokładnosć</lemma>
+    <lemma>nadrobnosć</lemma>
   </synset>
   <synset lang="mk">
     <lemma>точност</lemma>
@@ -59,6 +70,25 @@
   <synset lang="eo">
     <lemma>ĝusteco</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>exactitud</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>précision</lemma>
+  </synset>
+  <synset lang="ia">
+    <lemma>exactitude</lemma>
+    <lemma>justessa</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>precisione</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>precisão</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>nøjagtighed</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Genauigkeit</lemma>
     <lemma>Präzision</lemma>
@@ -67,5 +97,8 @@
     <lemma>accuratesse</lemma>
     <lemma>precisie</lemma>
     <lemma>nauwkeurigheid</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>דיוק</lemma>
   </synset>
 </multilingual-synset>

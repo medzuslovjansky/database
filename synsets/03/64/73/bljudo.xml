@@ -59,11 +59,35 @@
     <lemma annotation="manĝaĵo">plado</lemma>
     <lemma annotation="de manĝo">kompreneble</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="comida">plato</lemma>
+    <lemma annotation="de una comida">por supuesto</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="nourriture">plat</lemma>
+    <lemma annotation="d&apos;un repas">bien sûr</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="cibo">piatto</lemma>
+    <lemma annotation="di un pasto">naturalmente</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="comida">prato</lemma>
+    <lemma annotation="de uma refeição">curso</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="fødevarer">fad</lemma>
+    <lemma annotation="af et måltid">kursus</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Gericht</lemma>
     <lemma>Speise</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="eten">gerecht</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מזון">צלחת</lemma>
+    <lemma annotation="של ארוחה">כמובן</lemma>
   </synset>
 </multilingual-synset>

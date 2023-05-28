@@ -56,11 +56,35 @@
     <lemma>vera</lemma>
     <lemma annotation="vera">reala</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>verdadera</lemma>
+    <lemma annotation="real">real</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>réel</lemma>
+    <lemma annotation="réel">réel</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>vero</lemma>
+    <lemma annotation="reale">reale</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>verdadeira</lemma>
+    <lemma annotation="real">real</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>virkelige</lemma>
+    <lemma annotation="reelle">faktiske</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>real</lemma>
     <lemma annotation="real">tatsächlich</lemma>
   </synset>
   <synset lang="nl">
     <lemma>reëel</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>אמיתי</lemma>
+    <lemma annotation="אמיתי">ממשי</lemma>
   </synset>
 </multilingual-synset>

@@ -58,6 +58,26 @@
     <lemma annotation="vestoj">lavo</lemma>
     <lemma>Launder</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="ropa">de lavado</lemma>
+    <lemma>launder</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="vêtements">lavage</lemma>
+    <lemma>launder</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="vestiti">lavaggio</lemma>
+    <lemma>launder</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="roupa">lavagem</lemma>
+    <lemma>do canal de escoamento</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="tøj">vask</lemma>
+    <lemma>hvidvaske</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Kleidung">Wäsche</lemma>
     <lemma>waschen</lemma>
@@ -65,5 +85,9 @@
   <synset lang="nl">
     <lemma annotation="kleding">wassen</lemma>
     <lemma>de was doen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="בגדים">לשטוף</lemma>
+    <lemma>להלבין</lemma>
   </synset>
 </multilingual-synset>

@@ -26,6 +26,9 @@
     <lemma>soubor</lemma>
     <lemma>složka</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>lopk</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>fascikl</lemma>
     <lemma>svezak</lemma>
@@ -66,6 +69,31 @@
     <lemma>dosierujo</lemma>
     <lemma>biletujo</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>archivo</lemma>
+    <lemma>carpeta</lemma>
+    <lemma>la cartera</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>fichier</lemma>
+    <lemma>un dossier</lemma>
+    <lemma>le portefeuille</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>file</lemma>
+    <lemma>cartella</lemma>
+    <lemma>portafoglio</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>arquivo</lemma>
+    <lemma>pasta</lemma>
+    <lemma>carteira</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>fil</lemma>
+    <lemma>mappe</lemma>
+    <lemma>portefølje</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Datei</lemma>
     <lemma>Ordner</lemma>
@@ -73,5 +101,10 @@
   </synset>
   <synset lang="nl">
     <lemma>map</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>קובץ</lemma>
+    <lemma>תיקייה</lemma>
+    <lemma>תיק</lemma>
   </synset>
 </multilingual-synset>

@@ -23,6 +23,11 @@
   <synset lang="cs">
     <lemma>zákon</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>wustôv</lemma>
+    <lemma>zôkón</lemma>
+    <lemma>pravò</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>zakon</lemma>
   </synset>
@@ -55,11 +60,41 @@
     <lemma annotation="leĝo">ago</lemma>
     <lemma>lex</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>ley</lemma>
+    <lemma annotation="la ley">acto</lemma>
+    <lemma>lex</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>loi</lemma>
+    <lemma annotation="loi">acte</lemma>
+    <lemma>lex</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>legge</lemma>
+    <lemma annotation="legge">atto</lemma>
+    <lemma>lex</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>lei</lemma>
+    <lemma annotation="lei">ato</lemma>
+    <lemma>lex</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>lov</lemma>
+    <lemma annotation="lov">handle</lemma>
+    <lemma>lex</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Gesetz</lemma>
     <lemma>Satzung</lemma>
   </synset>
   <synset lang="nl">
     <lemma>wet</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>החוק</lemma>
+    <lemma annotation="חוק">מעשה</lemma>
+    <lemma>לקס</lemma>
   </synset>
 </multilingual-synset>

@@ -22,6 +22,9 @@
   <synset lang="cs">
     <lemma annotation="hudba">nota</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>nóta</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>nota</lemma>
   </synset>
@@ -49,10 +52,28 @@
   <synset lang="eo">
     <lemma>noto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="música">nota</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="musique">Note</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="musica">nota</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="música">nota</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="musik">notat</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Musik">Anmerkung</lemma>
   </synset>
   <synset lang="nl">
     <lemma annotation="muziek">noot</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מוזיקה">הערה</lemma>
   </synset>
 </multilingual-synset>

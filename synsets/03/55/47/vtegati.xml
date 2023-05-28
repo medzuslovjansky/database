@@ -31,6 +31,9 @@
     <lemma>vtahávat</lemma>
     <lemma annotation="drápy">zatahávat</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>vcigac</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>uključivati</lemma>
     <lemma>uvlačiti</lemma>
@@ -68,6 +71,35 @@
     <lemma>tiri en</lemma>
     <lemma annotation="ungegoj">retiri</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>implicar</lemma>
+    <lemma>tirar adentro</lemma>
+    <lemma>dibujar en</lemma>
+    <lemma annotation="garras">retracción</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>impliquer</lemma>
+    <lemma>tirer dans</lemma>
+    <lemma>dessiner</lemma>
+    <lemma annotation="griffes">rétractent</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>coinvolgere</lemma>
+    <lemma>tirare</lemma>
+    <lemma>disegnare in</lemma>
+    <lemma annotation="artigli">ritrarre</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>envolver</lemma>
+    <lemma>puxar</lemma>
+    <lemma>em desenhar</lemma>
+    <lemma annotation="garras">retraia</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>involvere trække</lemma>
+    <lemma>trække i</lemma>
+    <lemma annotation="kløer">indtræksvalser</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>beinhalten</lemma>
     <lemma>in ziehen</lemma>
@@ -76,5 +108,11 @@
   <synset lang="nl">
     <lemma>intrekken</lemma>
     <lemma>naar binnen trekken</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>לערב</lemma>
+    <lemma>למשוך</lemma>
+    <lemma>למשוך</lemma>
+    <lemma annotation="טפרים">לחזור</lemma>
   </synset>
 </multilingual-synset>

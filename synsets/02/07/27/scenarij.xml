@@ -55,6 +55,31 @@
     <lemma annotation="filmo">skripto</lemma>
     <lemma>skripto</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>escenario</lemma>
+    <lemma annotation="película">guión</lemma>
+    <lemma>guión</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>scénario</lemma>
+    <lemma annotation="film">scénario</lemma>
+    <lemma>scénario</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>scenario</lemma>
+    <lemma annotation="film">lo script</lemma>
+    <lemma>sceneggiatura</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>cenário</lemma>
+    <lemma annotation="filme">roteiro</lemma>
+    <lemma>roteiro</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>scenarie</lemma>
+    <lemma annotation="film">script</lemma>
+    <lemma>manuskript</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma annotation="Film">Szenario Skript</lemma>
     <lemma>Drehbuch</lemma>
@@ -62,5 +87,10 @@
   <synset lang="nl">
     <lemma>scenario</lemma>
     <lemma>script</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>תרחיש</lemma>
+    <lemma annotation="סרט">תסריט</lemma>
+    <lemma>תסריט</lemma>
   </synset>
 </multilingual-synset>

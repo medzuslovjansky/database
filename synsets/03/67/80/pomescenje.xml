@@ -28,6 +28,10 @@
     <lemma>místnost</lemma>
     <lemma>pokoj</lemma>
   </synset>
+  <synset lang="dsb">
+    <lemma>bydło</lemma>
+    <lemma>rumnosć</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>prostorija</lemma>
   </synset>
@@ -61,6 +65,30 @@
     <lemma>lokoj</lemma>
     <lemma>kazerno</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>habitación</lemma>
+    <lemma>instalaciones</lemma>
+    <lemma>locales</lemma>
+    <lemma>cuartos</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>chambre</lemma>
+    <lemma>installation</lemma>
+    <lemma>locaux</lemma>
+    <lemma>quartiers</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>camera</lemma>
+    <lemma>struttura</lemma>
+    <lemma>locali</lemma>
+    <lemma>quartieri</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>sala</lemma>
+    <lemma>instalação</lemma>
+    <lemma>instalações</lemma>
+    <lemma>quartos</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Raum</lemma>
     <lemma>Einrichtung</lemma>
@@ -70,5 +98,11 @@
   <synset lang="nl">
     <lemma>ruimte</lemma>
     <lemma>faciliteit</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>חדר</lemma>
+    <lemma>מתקן</lemma>
+    <lemma>הנחות</lemma>
+    <lemma>מגורים</lemma>
   </synset>
 </multilingual-synset>

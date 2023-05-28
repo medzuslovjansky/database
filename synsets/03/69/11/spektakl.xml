@@ -51,6 +51,22 @@
     <lemma>spektaklo</lemma>
     <lemma annotation="teatro">prezentado</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>espectáculo</lemma>
+    <lemma annotation="teatro">performance</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>spectacle</lemma>
+    <lemma annotation="théâtre">performance</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>spettacolo</lemma>
+    <lemma annotation="teatro">spettacolo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>espetáculo</lemma>
+    <lemma annotation="teatro">performance</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Spektakel</lemma>
     <lemma annotation="Theater">Performance</lemma>
@@ -58,5 +74,9 @@
   <synset lang="nl">
     <lemma>voorstelling</lemma>
     <lemma>toneelstuk</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מחזה</lemma>
+    <lemma annotation="תיאטרון">מופע</lemma>
   </synset>
 </multilingual-synset>

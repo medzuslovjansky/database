@@ -75,6 +75,26 @@
     <lemma>esenca</lemma>
     <lemma annotation="de esenca graveco">esenca</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>esencial</lemma>
+    <lemma annotation="de vital importancia">vital</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>essentiel</lemma>
+    <lemma annotation="d&apos;une importance vitale">vital</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>essenziale</lemma>
+    <lemma annotation="di vitale importanza">vitale</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>essencial</lemma>
+    <lemma annotation="de vital importância">vital</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>afgørende</lemma>
+    <lemma annotation="af vital betydning">vital</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>wesentlich</lemma>
     <lemma annotation="von entscheidender Bedeutung">vital</lemma>
@@ -83,5 +103,9 @@
     <lemma>essentieel</lemma>
     <lemma>cruciaal</lemma>
     <lemma annotation="belang">vitaal</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>חיוני</lemma>
+    <lemma annotation="נושא בעל חשיבות רבה">חיוניות</lemma>
   </synset>
 </multilingual-synset>

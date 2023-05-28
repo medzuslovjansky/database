@@ -20,6 +20,10 @@
   <synset lang="cs">
     <lemma>písmeno</lemma>
   </synset>
+  <synset lang="csb">
+    <lemma>lëtra</lemma>
+    <lemma>bùksztava</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>slovo</lemma>
   </synset>
@@ -47,10 +51,28 @@
   <synset lang="eo" verified="false">
     <lemma annotation="alfabeto">letero</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="alfabeto">letra</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="alphabet">lettre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="alfabetico">lettera</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="alfabeto">letra</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma annotation="alfabet">bogstav</lemma>
+  </synset>
   <synset lang="de">
     <lemma annotation="Alphabet">Buchstabe</lemma>
   </synset>
   <synset lang="nl">
     <lemma>letter</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אלפים">אות</lemma>
   </synset>
 </multilingual-synset>
