@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37056" steen:pos="pron.indef.">vse jedno kto</lemma>
+    <lemma steen:id="37056" steen:pos="pron.indef." steen:type="5">
+      vse jedno kto
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>anyone</lemma>
