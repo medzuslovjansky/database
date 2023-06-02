@@ -6,61 +6,63 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37050" steen:pos="adv.">vśakčas</lemma>
+    <lemma steen:id="37050" steen:pos="adv." steen:type="5">
+      v tutom momentu
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>always</lemma>
+    <lemma>now</lemma>
   </synset>
   <synset lang="be">
-    <lemma>заўсёды</lemma>
-    <lemma>заўжды</lemma>
+    <lemma>зараз</lemma>
+    <lemma>цяпер</lemma>
   </synset>
-  <synset lang="bg">
-    <lemma>винаги</lemma>
+  <synset lang="bg" verified="false">
+    <lemma>сега</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>vždy</lemma>
+    <lemma>teď</lemma>
+    <lemma>nyní</lemma>
   </synset>
   <synset lang="cu">
-    <lemma>вꙑинѫ</lemma>
-    <lemma>вьсегда</lemma>
-    <lemma>присно</lemma>
+    <lemma>нꙑнѣ</lemma>
+    <lemma>нꙑнѣчоу</lemma>
+    <lemma />
   </synset>
-  <synset lang="hr" verified="false">
-    <lemma>svagda</lemma>
-    <lemma>uvijek</lemma>
+  <synset lang="hr">
+    <lemma>sada</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>секогаш</lemma>
+    <lemma>сега</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>zawsze</lemma>
+    <lemma>teraz</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>всегда</lemma>
+    <lemma>сейчас</lemma>
+    <lemma>теперь</lemma>
+    <lemma>ныне</lemma>
   </synset>
   <synset lang="sk" verified="false">
-    <lemma>vždy</lemma>
+    <lemma>teraz</lemma>
+    <lemma>teraz</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>vedno</lemma>
-    <lemma>vedno</lemma>
+    <lemma>zdaj</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>свагда</lemma>
-    <lemma>увек</lemma>
+    <lemma>сада</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>завжди</lemma>
-    <lemma annotation="рідко">всякчас</lemma>
+    <lemma>зараз</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>ĉiam</lemma>
+    <lemma>nun</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>immer</lemma>
+    <lemma>jetzt</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>altijd</lemma>
+    <lemma>nu</lemma>
   </synset>
 </multilingual-synset>
