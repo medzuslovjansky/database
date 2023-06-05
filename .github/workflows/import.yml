@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 0 * * *'
 jobs:
-  update-dictionary:
+  pull:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -27,9 +27,16 @@ jobs:
         run: npx isv synsets pull
         env:
           ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
+          ISV_DEBUG: 'true'
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
           ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
           JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
+
+      - name: Upload log file
+        uses: actions/upload-artifact@v2
+        with:
+          name: database-engine-log
+          path: isv-*.log
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9

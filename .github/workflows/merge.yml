@@ -1,0 +1,41 @@
+name: Merge into Google Sheets
+on:
+  pull_request:
+    types: [closed]
+    branches: [beta]
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Important: This is required to get the full commit history
+
+      - name: Get list of changed files
+        id: the_changes
+        run: |
+          if [[ "${{ github.event.pull_request.merged }}" == "true" ]]; then
+            echo "::set-output name=files::$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})"
+          fi
+        shell: bash
+
+      - name: NPM install
+        uses: bahmutov/npm-install@v1
+        with:
+          useLockFile: false
+
+      - name: Push changes to Google Sheets
+        run: npx isv synsets push --only ${{ steps.the_changes.outputs.files }}
+        env:
+          ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
+          ISV_DEBUG: 'true'
+          ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
+          ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
+          JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
+
+      - name: Upload log file
+        uses: actions/upload-artifact@v2
+        with:
+          name: database-engine-log
+          path: isv-*.log
