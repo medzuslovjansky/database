@@ -22,7 +22,7 @@ jobs:
           useLockFile: false
 
       - name: Push changes to Google Sheets
-        run: npx isv synsets push --only ${{ steps.the_changes.outputs.files }}
+        run: npx isv synsets push --only ${{ steps.the_changes.outputs.all_changed_files }}
         env:
           ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
           ISV_DEBUG: 'true'
