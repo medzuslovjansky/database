@@ -17,7 +17,7 @@ jobs:
         uses: tj-actions/changed-files@v36
         with:
           files: |
-            synsets/**.xml
+            synsets/**/*.xml
 
       - name: NPM install
         uses: bahmutov/npm-install@v1
