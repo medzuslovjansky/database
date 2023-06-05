@@ -12,13 +12,9 @@ jobs:
         with:
           fetch-depth: 0  # Important: This is required to get the full commit history
 
-      - name: Get list of changed files
+      - name: Get changed files
         id: the_changes
-        run: |
-          if [[ "${{ github.event.pull_request.merged }}" == "true" ]]; then
-            echo "::set-output name=files::$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})"
-          fi
-        shell: bash
+        uses: tj-actions/changed-files@v36
 
       - name: NPM install
         uses: bahmutov/npm-install@v1
