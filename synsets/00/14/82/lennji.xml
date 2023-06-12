@@ -1,92 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="30079"
+  id="1482"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="30079" steen:pos="adj.">ranji</lemma>
+    <lemma steen:id="1482" steen:pos="adj." steen:type="2" steen:same="j">
+      lěnnji
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>early</lemma>
+    <lemma>lazy</lemma>
   </synset>
   <synset lang="be">
-    <lemma>ранні</lemma>
-    <lemma>ранейшы</lemma>
-    <lemma annotation="дыял.">калішні</lemma>
-    <lemma>колішні</lemma>
-    <lemma>былы</lemma>
+    <lemma>ляны</lemma>
+    <lemma>ленаваты</lemma>
+    <lemma>лянотны</lemma>
+    <lemma>гультаяваты</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>рано</lemma>
+  <synset lang="bg">
+    <lemma>мързелив</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>brzký</lemma>
-    <lemma>ranný</lemma>
-    <lemma>časný</lemma>
+    <lemma>líný</lemma>
   </synset>
   <synset lang="csb">
-    <lemma>vczasni</lemma>
+    <lemma>zgnjiłi</lemma>
   </synset>
   <synset lang="dsb">
-    <lemma>jěsny</lemma>
+    <lemma>gniły</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>rani</lemma>
+    <lemma>lijeni</lemma>
+    <lemma>lijen</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>ран</lemma>
+    <lemma>мрзлив</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>wczesny</lemma>
+    <lemma>leniwy</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>ранний</lemma>
-    <lemma>прежний</lemma>
+    <lemma>ленивый</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>skorý</lemma>
-    <lemma>raný</lemma>
-    <lemma>skorý</lemma>
+  <synset lang="sk">
+    <lemma>lenivý</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>zgodaj</lemma>
-    <lemma>prezgodaj</lemma>
+    <lemma>leni</lemma>
+    <lemma>leni</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>рани</lemma>
-    <lemma>превремен</lemma>
+    <lemma>лењи</lemma>
+    <lemma>лен</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>ранній</lemma>
-    <lemma>колишній</lemma>
+    <lemma>лінивий</lemma>
+    <lemma>ледачий</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>komence</lemma>
+    <lemma>mallaborema</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>temprano</lemma>
+    <lemma>perezoso</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>de bonne heure</lemma>
+    <lemma>paresseux</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>presto</lemma>
+    <lemma>pigro</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>cedo</lemma>
+    <lemma>preguiçoso</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>tidlig</lemma>
+    <lemma>doven</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>früh</lemma>
+    <lemma>faul</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>vroeg</lemma>
+    <lemma>lui</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>מוקדם</lemma>
+    <lemma>עצלן</lemma>
   </synset>
 </multilingual-synset>
