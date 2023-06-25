@@ -121,9 +121,23 @@
           <xs:documentation>noun, masculine or feminine</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
+      <xs:enumeration value="m.indecl./f.indecl.">
+        <xs:annotation>
+          <xs:documentation>
+            noun, indeclinable, masculine or feminine
+          </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
       <xs:enumeration value="m.anim.">
         <xs:annotation>
           <xs:documentation>noun, masculine, animate</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="m.anim.indecl.">
+        <xs:annotation>
+          <xs:documentation>
+            noun, masculine, animate, indeclinable
+          </xs:documentation>
         </xs:annotation>
       </xs:enumeration>
       <xs:enumeration value="m.indecl.">
