@@ -6,48 +6,54 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="30731" steen:pos="v.tr. pf." steen:type="1">smogti</lemma>
+    <lemma steen:id="30731" steen:pos="v.aux. pf." steen:type="1">smogti</lemma>
   </synset>
   <synset lang="en">
-    <lemma>manage to</lemma>
-    <lemma>be able to</lemma>
-    <lemma>cope</lemma>
-    <lemma>make it</lemma>
+    <lemma>be able</lemma>
+    <lemma>manage</lemma>
   </synset>
   <synset lang="be">
     <lemma>змагчы</lemma>
     <lemma>здолець</lemma>
+    <lemma>даць рады</lemma>
+    <lemma>зладзіцца</lemma>
+    <lemma>управіцца</lemma>
+    <lemma>справіцца</lemma>
+    <lemma>суладаць</lemma>
   </synset>
   <synset lang="bg" verified="false">
-    <lemma>смогвам</lemma>
+    <lemma>може да се управлява</lemma>
   </synset>
   <synset lang="cs">
+    <lemma>být schopen</lemma>
     <lemma>zmoct</lemma>
     <lemma>zmoci</lemma>
     <lemma>zvládnout</lemma>
   </synset>
   <synset lang="hr">
+    <lemma>smognuti</lemma>
     <lemma>smoći</lemma>
-    <lemma annotation="se">domoći</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>смогне</lemma>
+    <lemma>може</lemma>
+    <lemma>биде во можност</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>dać radę</lemma>
-    <lemma>podołać</lemma>
-    <lemma>sprostać</lemma>
+    <lemma>potrafić</lemma>
+    <lemma>być w stanie</lemma>
+    <lemma>dać sobie radę</lemma>
   </synset>
   <synset lang="ru">
     <lemma>смочь</lemma>
     <lemma>суметь</lemma>
+    <lemma>справиться</lemma>
   </synset>
-  <synset lang="sk">
+  <synset lang="sk" verified="false">
+    <lemma>byť schopný</lemma>
     <lemma>zmôcť</lemma>
-    <lemma>zvládnuť</lemma>
   </synset>
-  <synset lang="sl">
-    <lemma>zmoči</lemma>
+  <synset lang="sl" verified="false">
+    <lemma>zbirni</lemma>
   </synset>
   <synset lang="sr">
     <lemma>смоћи</lemma>
@@ -55,10 +61,11 @@
   </synset>
   <synset lang="uk">
     <lemma>змогти</lemma>
+    <lemma>зуміти</lemma>
   </synset>
-  <synset lang="eo">
-    <lemma>sukcesi</lemma>
-    <lemma>ekpovi</lemma>
+  <synset lang="eo" verified="false">
+    <lemma>povos</lemma>
+    <lemma>sukcesos</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>lograr</lemma>
@@ -85,16 +92,12 @@
     <lemma>fazer isso</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>schaffen</lemma>
-    <lemma>schaffen</lemma>
-    <lemma>bewältigen</lemma>
-    <lemma>schaffen</lemma>
+    <lemma>in der Lage</lemma>
+    <lemma>verwalten</lemma>
   </synset>
-  <synset lang="nl" verified="false">
-    <lemma>erin slagen</lemma>
+  <synset lang="nl">
     <lemma>kunnen</lemma>
-    <lemma>het hoofd bieden</lemma>
-    <lemma>het redden</lemma>
+    <lemma>in staat zijn</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>להצליח</lemma>
