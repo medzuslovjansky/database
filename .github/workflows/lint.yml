@@ -1,0 +1,35 @@
+name: Lint
+
+on:
+  pull_request:
+    branches: [ beta, stable ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2 # To retrieve the preceding commit.
+
+      - name: Get all changed files
+        id: the_changes
+        uses: tj-actions/changed-files@v36
+        with:
+          files: |
+            synsets/**/*.xml
+
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install dependencies
+        uses: bahmutov/npm-install@v1
+        with:
+          useLockFile: false
+
+      - name: Run lint
+        run: npm run lint -- ${{ steps.the_changes.outputs.all_changed_files }}
