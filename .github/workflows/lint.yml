@@ -34,5 +34,7 @@ jobs:
         with:
           useLockFile: false
 
+      - uses: korelstar/xmllint-problem-matcher@v1
+
       - name: Run lint
         run: npm run lint -- ${{ steps.the_changes.outputs.all_changed_files }}
