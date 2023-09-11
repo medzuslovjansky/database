@@ -8,7 +8,7 @@
     "lint": "scripts/lint-synset"
   },
   "devDependencies": {
-    "@interslavic/database-engine": "^1.0.8",
+    "@interslavic/database-engine": "^1.1.1",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
     "prettier": "^2.8.8",
