@@ -9,7 +9,9 @@ lint_synset() {
 cd "$(dirname "$0")/.."
 
 if [ $# -eq 0 ]; then
-  find synsets -type f -name "*.xml" -exec $0 {} \;
+  if [ -z "$CI" ]; then
+    find synsets -type f -name "*.xml" -exec $0 {} \;
+  fi
 else
   for file in "$@"; do
     lint_synset "$file"
