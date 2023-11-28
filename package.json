@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "prepare": "husky install",
+    "annotate:pr": "scripts/annotate-pr",
     "format": "scripts/format",
     "lint": "scripts/lint-synset"
   },
