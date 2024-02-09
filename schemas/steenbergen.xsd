@@ -76,6 +76,16 @@
           <xs:documentation>adjective</xs:documentation>
         </xs:annotation>
       </xs:enumeration>
+      <xs:enumeration value="adj.comp.">
+        <xs:annotation>
+          <xs:documentation>adjective, comparative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="adj.sup.">
+        <xs:annotation>
+          <xs:documentation>adjective, superlative</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
       <xs:enumeration value="adv.">
         <xs:annotation>
           <xs:documentation>adverb</xs:documentation>
