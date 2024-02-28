@@ -16,7 +16,7 @@ jobs:
           ref: ${{ matrix.branch }}
 
       - name: libxml install
-        run: sudo apt-get install -y libxml2-utils
+        run: sudo apt-get install -y libxml2-utils --fix-missing
 
       - name: Use Node.js
         uses: actions/setup-node@v3
