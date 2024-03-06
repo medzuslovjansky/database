@@ -38,3 +38,5 @@ jobs:
 
       - name: Run lint
         run: npm run lint -- ${{ steps.the_changes.outputs.all_changed_files }}
+        env:
+          CI: true

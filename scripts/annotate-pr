@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e
+
+if [ $# -eq 0 ]; then
+  changed_files=$(git diff --name-only beta synsets)
+else
+  changed_files="$*"
+fi
+
+isv suggestions annotate $changed_files
