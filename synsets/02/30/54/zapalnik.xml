@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="23054"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -33,8 +32,10 @@
   <synset lang="pl">
     <lemma>zapalnik</lemma>
   </synset>
-  <synset lang="ru" verified="false">
-    <lemma annotation="деталь оружия">ударник</lemma>
+  <synset lang="ru">
+    <lemma annotation="деталь оружия">запал</lemma>
+    <lemma>детонатор</lemma>
+    <lemma>взрыватель</lemma>
   </synset>
   <synset lang="sk" verified="false">
     <lemma>zápalník</lemma>
@@ -48,9 +49,6 @@
   </synset>
   <synset lang="uk" verified="false">
     <lemma annotation="деталь зброї">ударник</lemma>
-  </synset>
-  <synset lang="eo" verified="false">
-    <lemma>#firing pinglo</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>percutor</lemma>

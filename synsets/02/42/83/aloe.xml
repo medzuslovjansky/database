@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24283" steen:pos="n.sg." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="24283"
+      steen:pos="n.indecl."
+      steen:type="1"
+      steen:genesis="I"
+    >
       aloe
     </lemma>
   </synset>

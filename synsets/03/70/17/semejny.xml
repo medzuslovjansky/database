@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37017" steen:pos="adj." steen:type="2">sěmejny</lemma>
+    <lemma steen:id="37017" steen:pos="adj." steen:type="2">sěmėjny</lemma>
   </synset>
   <synset lang="en">
     <lemma>family</lemma>
@@ -64,8 +64,9 @@
   <synset lang="de" verified="false">
     <lemma>familiär</lemma>
   </synset>
-  <synset lang="nl" verified="false">
-    <lemma>familie</lemma>
+  <synset lang="nl">
+    <lemma>familie-</lemma>
+    <lemma>gezins-</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>מִשׁפָּחָה</lemma>

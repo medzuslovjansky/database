@@ -6,11 +6,20 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="30731" steen:pos="v.aux. pf." steen:type="1">smogti</lemma>
+    <lemma
+      steen:id="30731"
+      steen:pos="v.aux. pf."
+      steen:type="1"
+      steen:same="v cs j"
+    >
+      smogti
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>be able</lemma>
-    <lemma>manage</lemma>
+    <lemma>manage to</lemma>
+    <lemma>be able to</lemma>
+    <lemma>cope</lemma>
+    <lemma>make it</lemma>
   </synset>
   <synset lang="be">
     <lemma>змагчы</lemma>
@@ -21,8 +30,8 @@
     <lemma>справіцца</lemma>
     <lemma>суладаць</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>може да се управлява</lemma>
+  <synset lang="bg">
+    <lemma>смогвам</lemma>
   </synset>
   <synset lang="cs">
     <lemma>být schopen</lemma>
@@ -35,25 +44,27 @@
     <lemma>smoći</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>може</lemma>
-    <lemma>биде во можност</lemma>
+    <lemma>смогне</lemma>
+    <lemma>успее</lemma>
   </synset>
   <synset lang="pl">
     <lemma>potrafić</lemma>
     <lemma>być w stanie</lemma>
     <lemma>dać sobie radę</lemma>
+    <lemma>podołać</lemma>
+    <lemma>sprostać</lemma>
   </synset>
   <synset lang="ru">
     <lemma>смочь</lemma>
     <lemma>суметь</lemma>
     <lemma>справиться</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>byť schopný</lemma>
+  <synset lang="sk">
     <lemma>zmôcť</lemma>
+    <lemma>zvládnuť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>zbirni</lemma>
+  <synset lang="sl">
+    <lemma>zmoči</lemma>
   </synset>
   <synset lang="sr">
     <lemma>смоћи</lemma>
@@ -94,6 +105,8 @@
   <synset lang="nl">
     <lemma>kunnen</lemma>
     <lemma>in staat zijn</lemma>
+    <lemma>het hoofd bieden</lemma>
+    <lemma>het redden</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>להיות מסוגל</lemma>
