@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36959"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36959"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v cs sl bg"
+    >
+      treska
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>cod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>траска</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>треска</lemma>
+    <lemma>бакалар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>treska</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bakalar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бакалар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dorsz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>треска</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>treska</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>trska</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>бакалар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тріска</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>moruo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>dorschs</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kabeljauw</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36956"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36956"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      atribut
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>attribute</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>атрыбут</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>атрибут</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>atribut</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>atribut</lemma>
+    <lemma>svojstvo</lemma>
+    <lemma>značajka</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>атрибут</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>atrybut</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>атрибут</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>atribút</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>atribut</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>атрибут</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>атрибут</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atributo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Attribut</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>attribuut</lemma>
+  </synset>
+</multilingual-synset>

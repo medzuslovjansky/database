@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36933"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36933"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      matovy
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>mat</lemma>
+    <lemma>matte</lemma>
+    <lemma>opaque</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>матавы</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>матов</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>matný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mat</lemma>
+    <lemma>matiran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>матов</lemma>
+    <lemma>без сјај</lemma>
+    <lemma>мат</lemma>
+    <lemma>темникав</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>matowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>матовый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>matný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>mat</lemma>
+    <lemma>matiran</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мат</lemma>
+    <lemma>загасит</lemma>
+    <lemma>без сјаја</lemma>
+    <lemma>угасит</lemma>
+    <lemma>непрозиран</lemma>
+    <lemma>таман</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>матовий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>malbrila</lemma>
+    <lemma>senbrila</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>matt</lemma>
+    <lemma>matt</lemma>
+    <lemma>undurchsichtig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>mat</lemma>
+    <lemma>ondoorzichtig</lemma>
+  </synset>
+</multilingual-synset>

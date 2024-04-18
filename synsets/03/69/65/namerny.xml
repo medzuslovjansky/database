@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36965"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36965" steen:pos="adj." steen:type="1" steen:same="v z j">
+      naměrny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>intentional</lemma>
+    <lemma>intended</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zamierzony</lemma>
+    <lemma>umyślny</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opzettelijk</lemma>
+    <lemma>doelbewust</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36952"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36952"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      ceremonija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>ceremony</lemma>
+    <lemma>rite</lemma>
+    <lemma>ritual</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>абрад</lemma>
+    <lemma>цырымонія</lemma>
+    <lemma>рытуал</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>церемония</lemma>
+    <lemma>обред</lemma>
+    <lemma>ритуал</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>obřad</lemma>
+    <lemma>ceremonie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ceremonija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>обред</lemma>
+    <lemma>церемонија</lemma>
+    <lemma>ритуал</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>obrzęd</lemma>
+    <lemma>ceremonia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>обряд</lemma>
+    <lemma>церемония</lemma>
+    <lemma>ритуал</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>obrad</lemma>
+    <lemma>ceremónia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ceremonija</lemma>
+    <lemma>obred</lemma>
+    <lemma>slovesnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>обред</lemma>
+    <lemma>свечани чин</lemma>
+    <lemma>церемонија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>обряд</lemma>
+    <lemma>церемонія</lemma>
+    <lemma>ритуал</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rito</lemma>
+    <lemma>ceremonio</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>ritual</lemma>
+    <lemma>Zeremonie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>ceremonie</lemma>
+  </synset>
+</multilingual-synset>

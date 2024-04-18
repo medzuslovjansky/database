@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36964"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36964"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      stadion
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>stadium</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стадыён</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стадион</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stadion</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>stadion</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стадион</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stadion</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стадион</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="moderný">štadión</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>stadion</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>стадион</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стадіон</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>stadiono</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Stadion</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stadion</lemma>
+  </synset>
+</multilingual-synset>
