@@ -1,73 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="36879"
+  id="2467"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36879" steen:pos="m." steen:genesis="I">
-      komorny orkestr
+    <lemma steen:id="2467" steen:pos="f." steen:type="3" steen:same="v">
+      volynka
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>chamber orchestra</lemma>
+    <lemma>bagpipes</lemma>
   </synset>
   <synset lang="be">
-    <lemma>камерны аркестр</lemma>
+    <lemma>валынка</lemma>
+    <lemma>дуда</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>камерен оркестър</lemma>
+    <lemma>гайда</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>komorní orchestr</lemma>
+    <lemma>dudy</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>komorni orkestar</lemma>
+    <lemma>gajde</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>камерен оркестар</lemma>
+    <lemma>гајда</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>orkiestra kameralna</lemma>
+    <lemma>dudy</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>камерный оркестр</lemma>
+    <lemma>волынка</lemma>
+    <lemma>дуда</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>komorný orchester</lemma>
+    <lemma>gajdy</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>komorni orkester</lemma>
+    <lemma>dude</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>камерни оркестар</lemma>
+    <lemma>гајде</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>камерний оркестр</lemma>
+    <lemma>волинка</lemma>
+    <lemma>дуда</lemma>
   </synset>
-  <synset lang="eo">
-    <lemma>ĉambra orkestro</lemma>
+  <synset lang="eo" verified="false">
+    <lemma>sakŝalmoj</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>orquésta de cámara</lemma>
+    <lemma>gaita</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>orchestre de chambre</lemma>
+    <lemma>cornemuses</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>orchestra da camera</lemma>
+    <lemma>cornamuse</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>orquestra de câmara</lemma>
+    <lemma>gaita de fole</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>sækkepiber</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Kammerorchester</lemma>
+    <lemma>Dudelsack</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>kamerorkest</lemma>
+    <lemma>doedelzak</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>תזמורת קאמרית</lemma>
+    <lemma>חמת חלילים</lemma>
   </synset>
 </multilingual-synset>

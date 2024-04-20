@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="16810"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="16810" steen:pos="m.anim." steen:type="1">dvorjan</lemma>
-    <lemma steen:id="16810" steen:pos="m.anim." steen:type="1">dvorjanin</lemma>
+    <lemma
+      steen:id="16810"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      dvorjan
+    </lemma>
+    <lemma
+      steen:id="16810"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      dvorjanin
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>nobleman</lemma>
+    <lemma>courtier</lemma>
   </synset>
   <synset lang="be">
     <lemma>дваранін</lemma>

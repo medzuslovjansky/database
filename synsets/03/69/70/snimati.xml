@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36970"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36970" steen:pos="v.intr. ipf.">snimati</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>take off</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zdejmować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>снимать</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>знімати</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">uittrekken</lemma>
+    <lemma annotation="hoed">afzetten</lemma>
+  </synset>
+</multilingual-synset>

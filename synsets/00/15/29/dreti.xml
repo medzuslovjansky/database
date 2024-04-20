@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="1529"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -9,7 +8,15 @@
   <synset lang="art-x-interslv">
     <lemma
       steen:id="1529"
-      steen:addition="(dere)"
+      steen:addition="(dre)"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+    >
+      dŕti
+    </lemma>
+    <lemma
+      steen:id="1529"
+      steen:addition="(dre)"
       steen:pos="v.tr. ipf."
       steen:type="1"
     >

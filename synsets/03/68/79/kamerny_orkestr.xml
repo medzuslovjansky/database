@@ -1,73 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="36880"
+  id="36879"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36880" steen:pos="f.sg." steen:genesis="I">
-      komorna muzika
+    <lemma
+      steen:id="36879"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kamerny orkestr
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>chamber music</lemma>
+    <lemma>chamber orchestra</lemma>
   </synset>
   <synset lang="be">
-    <lemma>камерная музыка</lemma>
+    <lemma>камерны аркестр</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>камерна музика</lemma>
+    <lemma>камерен оркестър</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>komorní hudba</lemma>
+    <lemma>komorní orchestr</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>komorna glazba</lemma>
+    <lemma>komorni orkestar</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>камерна музика</lemma>
+    <lemma>камерен оркестар</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>muzyka kameralna</lemma>
+    <lemma>orkiestra kameralna</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>камерная музыка</lemma>
+    <lemma>камерный оркестр</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>komorná hudba</lemma>
+    <lemma>komorný orchester</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>komorna glasba</lemma>
+  <synset lang="sl">
+    <lemma>komorni orkester</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>камерна музика</lemma>
+    <lemma>камерни оркестар</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>камерна музика</lemma>
+    <lemma>камерний оркестр</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>ĉambra muziko</lemma>
+    <lemma>ĉambra orkestro</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>música de cámara</lemma>
+    <lemma>orquésta de cámara</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>musique de chambre</lemma>
+    <lemma>orchestre de chambre</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>musica da camera</lemma>
+    <lemma>orchestra da camera</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>música de câmara</lemma>
+    <lemma>orquestra de câmara</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Kammermusik</lemma>
+    <lemma>Kammerorchester</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>kamermuziek</lemma>
+    <lemma>kamerorkest</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>חדר מוזיקה</lemma>
+    <lemma>תזמורת קאמרית</lemma>
   </synset>
 </multilingual-synset>

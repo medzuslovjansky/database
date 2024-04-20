@@ -1,92 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="12612"
-  steen:debated="isv,partOfSpeech"
+  id="5607"
+  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="12612"
-      steen:pos="m."
-      steen:type="3"
-      steen:same="pl"
-      steen:genesis="S"
+      steen:id="5607"
+      steen:addition="(sȯžre)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
     >
-      styčėnj
+      sȯžŕti
+    </lemma>
+    <lemma
+      steen:id="5607"
+      steen:addition="(sȯžre)"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+    >
+      sȯžrěti
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>January</lemma>
+    <lemma>gobble down</lemma>
   </synset>
   <synset lang="be">
-    <lemma>студзень</lemma>
+    <lemma>зжэрці</lemma>
+    <lemma annotation="зап.">сажраць</lemma>
   </synset>
   <synset lang="bg" verified="false">
-    <lemma>Януари</lemma>
+    <lemma>Gobble надолу</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>leden</lemma>
-  </synset>
-  <synset lang="csb">
-    <lemma>stëcznik</lemma>
-  </synset>
-  <synset lang="cu">
-    <lemma>сѣ́чьнъ</lemma>
-    <lemma>просиньць</lemma>
-    <lemma>і̑анноуа́рїй</lemma>
+    <lemma>sežrat</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>siječanj</lemma>
+    <lemma>proždrijeti</lemma>
+    <lemma>smazati</lemma>
   </synset>
   <synset lang="mk">
-    <lemma annotation="коложег">јануари</lemma>
+    <lemma>изеде</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>styczeń</lemma>
+    <lemma>zeżreć</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>январь</lemma>
+    <lemma>сожрать</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>január</lemma>
+    <lemma>zožrať</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>januar koložeg</lemma>
+    <lemma>Devour</lemma>
+    <lemma>Devour</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>јануар</lemma>
-    <lemma>коложег</lemma>
+    <lemma>прождерати</lemma>
+    <lemma>прождрети</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>січень</lemma>
+    <lemma>зжерти</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>januaro</lemma>
+    <lemma>engluti malsupren</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>enero</lemma>
+    <lemma>hasta engullir</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>janvier</lemma>
+    <lemma>engloutir</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>gennaio</lemma>
+    <lemma>giù trangugiare</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>janeiro</lemma>
+    <lemma>engolir</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>januar</lemma>
+    <lemma>pludre ned</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Januar</lemma>
+    <lemma>hinunterschlingen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>januari</lemma>
+    <lemma>opvreten</lemma>
+    <lemma annotation="eten">verzwelgen</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>ינואר</lemma>
+    <lemma>למטה לזלול</lemma>
   </synset>
 </multilingual-synset>

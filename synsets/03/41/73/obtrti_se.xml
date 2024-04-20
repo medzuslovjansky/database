@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="34173"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -14,7 +13,16 @@
       steen:type="1"
       steen:same="v z"
     >
-      obtrěti sę
+      obtŕti sę
+    </lemma>
+    <lemma
+      steen:id="34173"
+      steen:addition="(obtre)"
+      steen:pos="v.refl. pf."
+      steen:type="1"
+      steen:same="v z"
+    >
+      obtŕti sę
     </lemma>
   </synset>
   <synset lang="en">

@@ -1,76 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="2467"
-  steen:debated="isv"
+  id="36880"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2467" steen:pos="f." steen:type="2">bolinka</lemma>
+    <lemma
+      steen:id="36880"
+      steen:pos="f.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kamerna muzika
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>bagpipes</lemma>
+    <lemma>chamber music</lemma>
   </synset>
   <synset lang="be">
-    <lemma>валынка</lemma>
-    <lemma>дуда</lemma>
+    <lemma>камерная музыка</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>гайда</lemma>
+    <lemma>камерна музика</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>dudy</lemma>
+    <lemma>komorní hudba</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>gajde</lemma>
+    <lemma>komorna glazba</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>гајда</lemma>
+    <lemma>камерна музика</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>dudy</lemma>
+    <lemma>muzyka kameralna</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>волынка</lemma>
+    <lemma>камерная музыка</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>gajdy</lemma>
+    <lemma>komorná hudba</lemma>
   </synset>
-  <synset lang="sl">
-    <lemma>dude</lemma>
+  <synset lang="sl" verified="false">
+    <lemma>komorna glasba</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>гајде</lemma>
+    <lemma>камерна музика</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>волинка</lemma>
+    <lemma>камерна музика</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>sakŝalmoj</lemma>
+  <synset lang="eo">
+    <lemma>ĉambra muziko</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>gaita</lemma>
+    <lemma>música de cámara</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>cornemuses</lemma>
+    <lemma>musique de chambre</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>cornamuse</lemma>
+    <lemma>musica da camera</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>gaita de fole</lemma>
-  </synset>
-  <synset lang="da" verified="false">
-    <lemma>sækkepiber</lemma>
+    <lemma>música de câmara</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Dudelsack</lemma>
+    <lemma>Kammermusik</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>doedelzaak</lemma>
+    <lemma>kamermuziek</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>חמת חלילים</lemma>
+    <lemma>חדר מוזיקה</lemma>
   </synset>
 </multilingual-synset>

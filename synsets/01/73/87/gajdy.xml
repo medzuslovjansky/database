@@ -6,12 +6,20 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17387" steen:pos="f.pl." steen:type="2">gajdy</lemma>
+    <lemma
+      steen:id="17387"
+      steen:pos="f.pl."
+      steen:type="2"
+      steen:same="sk sh bm"
+    >
+      gajdy
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>bagpipes</lemma>
   </synset>
   <synset lang="be">
+    <lemma>валынка</lemma>
     <lemma>дуда</lemma>
   </synset>
   <synset lang="bg">
@@ -31,6 +39,7 @@
   </synset>
   <synset lang="ru">
     <lemma>волынка</lemma>
+    <lemma>дуда</lemma>
   </synset>
   <synset lang="sk">
     <lemma>gajdy</lemma>
