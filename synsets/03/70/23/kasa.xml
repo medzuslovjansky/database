@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37023"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37023"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kasa
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>cash register</lemma>
+    <lemma>cashbox</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каса</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гише</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pokladna</lemma>
+    <lemma>kasa</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kasa</lemma>
+    <lemma>blagajna</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>каса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kasa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>касса</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pokladnica</lemma>
+    <lemma>pokladňa</lemma>
+    <lemma>kasa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>blagajna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>каса</lemma>
+    <lemma>благајна</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>каса</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kassa</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36975"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36975"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl bg"
+    >
+      pušisty
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>fluffy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пухнаты</lemma>
+    <lemma>пушысты</lemma>
+    <lemma>пухкі</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>пухкав</lemma>
+    <lemma>космат</lemma>
+    <lemma>вълнест</lemma>
+    <lemma>кожен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>ochmýřený</lemma>
+    <lemma>nadýchaný</lemma>
+    <lemma>načechraný</lemma>
+    <lemma>huňatý</lemma>
+    <lemma>chundelatý</lemma>
+    <lemma>hebký</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>puszysty</lemma>
+    <lemma>puchaty</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пушистый</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>ochmýrený</lemma>
+    <lemma>ochlpený</lemma>
+    <lemma>nadýchaný</lemma>
+    <lemma>načechraný</lemma>
+    <lemma>huňatý</lemma>
+    <lemma>chlpatý</lemma>
+    <lemma>hebký</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>паперјаст</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>пухнастий</lemma>
+    <lemma>пухнатий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>lanuga</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>flauschig</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pluizig</lemma>
+    <lemma>donzig</lemma>
+  </synset>
+</multilingual-synset>

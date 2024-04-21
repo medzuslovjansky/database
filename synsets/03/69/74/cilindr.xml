@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36974"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36974"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v pl zj"
+      steen:genesis="I"
+    >
+      cilindr
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>cylinder</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цыліндр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>цилиндър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>válec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>cilindar</lemma>
+    <lemma>valjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>цилиндар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cylinder</lemma>
+    <lemma>walec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цилиндр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>valec</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>valj</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>цилиндар</lemma>
+    <lemma>ваљак</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>циліндр</lemma>
+    <lemma>валок</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>cilindro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zylinder</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cilinder</lemma>
+  </synset>
+</multilingual-synset>

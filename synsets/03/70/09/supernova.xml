@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37009"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37009"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      supernova
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>звышновая</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>свръхнова</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>супернова</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>supernowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="звезда">сверхновая</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>supernova</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>наднова</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>supernova</lemma>
+  </synset>
+</multilingual-synset>

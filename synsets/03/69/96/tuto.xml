@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36996"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="36996" steen:pos="pron.dem." steen:type="1">tuto</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>this</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гэта</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>това</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>toto</lemma>
+    <lemma>tohle</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>to</lemma>
+    <lemma>ovo</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ова</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>to</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>это</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>toto</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>to</lemma>
+    <lemma>tole</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>то</lemma>
+    <lemma>ово</lemma>
+    <lemma>ово овде</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>це</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dit</lemma>
+  </synset>
+</multilingual-synset>

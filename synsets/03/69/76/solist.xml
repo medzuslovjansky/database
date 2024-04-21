@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="36976"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="36976"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      solist
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="m.">soloist</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>саліст</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>солист</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sólista</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>solist</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>солист</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>solista</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>солист</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sólista</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>solist</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>солиста</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>соліст</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>solisto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Solist</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>solist</lemma>
+  </synset>
+</multilingual-synset>

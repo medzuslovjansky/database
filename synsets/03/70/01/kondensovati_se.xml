@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37001"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37001"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kondensovati sę
+    </lemma>
+    <lemma
+      steen:id="37001"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kondenzovati sę
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>condense</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>кандэнсавацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кондензирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="se">kondenzovat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="se">kondenzirati</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>кондензира</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skraplać się</lemma>
+    <lemma>kondensować się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конденсироваться</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>kondenzovať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kondenzirati se</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>кондензовати</lemma>
+    <lemma>кондензирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>конденсуватися</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>condenseren</lemma>
+  </synset>
+</multilingual-synset>

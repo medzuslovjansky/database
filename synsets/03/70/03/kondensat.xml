@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37003"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37003"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kondensat
+    </lemma>
+    <lemma
+      steen:id="37003"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kondenzat
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>condensate</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кандэнсат</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>кондензат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kondenzát</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kondenzat</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>кондензат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kondensat</lemma>
+    <lemma>skropliny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>конденсат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kondenzát</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kondenzat</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кондензат</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>конденсат</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>condens</lemma>
+  </synset>
+</multilingual-synset>

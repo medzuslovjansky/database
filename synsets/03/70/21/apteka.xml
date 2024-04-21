@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37021"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37021"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl sh bm"
+      steen:genesis="I"
+    >
+      apteka
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>pharmacy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>аптэка</lemma>
+    <lemma>зялейня</lemma>
+    <lemma>зельня</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>аптека</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lékárna</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>ljekarna</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>аптека</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>apteka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>аптека</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lekáreň</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>lekarna</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>апотека</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>аптека</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>apotheek</lemma>
+  </synset>
+</multilingual-synset>

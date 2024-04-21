@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37034"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37034"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      biosfera
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>biosphere</lemma>
+    <lemma>ecosphere</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>біясфера</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>биосфера</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>biosféra</lemma>
+    <lemma>živý obal Země</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>biosfera</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>биосфера</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>biosfera</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>биосфера</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>biosféra</lemma>
+    <lemma>živý obal Zeme</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>biosfera</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>биосфера</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>біосфера</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>biosfeer</lemma>
+  </synset>
+</multilingual-synset>

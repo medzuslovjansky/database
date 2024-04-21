@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37020"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37020"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      krčmaŕ
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>innkeeper</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карчмар</lemma>
+    <lemma>шынкар</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>гостилничар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hostinský</lemma>
+    <lemma>hospodský</lemma>
+    <lemma>krčmář</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>gostioničar</lemma>
+    <lemma>krčmar</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>меанџија</lemma>
+    <lemma>гостилничар</lemma>
+    <lemma>крчмар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>karczmarz</lemma>
+    <lemma>oberżysta</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>трактирщик</lemma>
+    <lemma>корчмарь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hostinský</lemma>
+    <lemma>krčmár</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>gostilničar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гостионичар</lemma>
+    <lemma>крчмар</lemma>
+    <lemma>механџија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корчмар</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>herbergier</lemma>
+  </synset>
+</multilingual-synset>

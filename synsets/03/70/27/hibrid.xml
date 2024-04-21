@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37027"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      hibrid
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>hybrid</lemma>
+    <lemma>crossbreed</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гібрыд</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>хибрид</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hybrid</lemma>
+    <lemma>kříženec</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>hibrid</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>хибрид</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>hybryd</lemma>
+    <lemma>hybryda</lemma>
+    <lemma>mieszaniec</lemma>
+    <lemma>krzyżówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гибрид</lemma>
+    <lemma>помесь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hybrid</lemma>
+    <lemma>kríženec</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>hibrid</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хибрид</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>гібрид</lemma>
+    <lemma>схрещень</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hybride</lemma>
+    <lemma>kruising</lemma>
+  </synset>
+</multilingual-synset>

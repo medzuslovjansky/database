@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37015"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37015"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kompilator
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>compilator</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кампілятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>компилатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překladač</lemma>
+    <lemma>kompilátor</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>jezični prevoditelj</lemma>
+    <lemma>prevodilac</lemma>
+    <lemma>prevoditelj</lemma>
+    <lemma>programski prevodilac</lemma>
+    <lemma>programski prevoditelj</lemma>
+    <lemma>kompilator</lemma>
+    <lemma>kompajler</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>програмски преведувач</lemma>
+    <lemma>компајлер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kompilator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>компилятор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kompilátor</lemma>
+    <lemma>prekladač</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prevajálnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>компилатор</lemma>
+    <lemma>програмски преводилац</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>компілятор</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>compiler</lemma>
+  </synset>
+</multilingual-synset>

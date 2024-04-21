@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1051" steen:pos="v.tr. pf." steen:type="1">shvatiti</lemma>
+    <lemma
+      steen:id="1051"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="ru cs sh bm"
+    >
+      shvatiti
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>grab</lemma>
@@ -21,10 +28,8 @@
     <lemma>сцапаць</lemma>
     <lemma>злавіць</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>вземете</lemma>
-    <lemma>вземете</lemma>
-    <lemma>за да вземете</lemma>
+  <synset lang="bg">
+    <lemma>схващам</lemma>
   </synset>
   <synset lang="cs">
     <lemma>popadnout</lemma>
@@ -44,6 +49,7 @@
   </synset>
   <synset lang="pl">
     <lemma>schwycić</lemma>
+    <lemma>złapać</lemma>
   </synset>
   <synset lang="ru">
     <lemma>схватить</lemma>
