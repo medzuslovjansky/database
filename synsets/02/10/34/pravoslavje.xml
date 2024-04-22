@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="21034"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="21034" steen:pos="n.sg." steen:type="1">Pravoslavje</lemma>
+    <lemma steen:id="21034" steen:pos="n.sg." steen:type="1">pravoslavje</lemma>
   </synset>
   <synset lang="en">
     <lemma>Orthodoxy</lemma>
@@ -15,29 +14,29 @@
   <synset lang="be">
     <lemma>праваслаўе</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>Православие</lemma>
+  <synset lang="bg">
+    <lemma>православие</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>Pravoslaví</lemma>
+    <lemma>pravoslaví</lemma>
   </synset>
   <synset lang="hr">
     <lemma>pravoslavlje</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>Православие</lemma>
+    <lemma>православие</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>Prawosławie</lemma>
+    <lemma>prawosławie</lemma>
   </synset>
   <synset lang="ru">
     <lemma>православие</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>pravoslávie</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>pravovernost</lemma>
+  <synset lang="sl">
+    <lemma>pravoslavje</lemma>
   </synset>
   <synset lang="sr">
     <lemma>православље</lemma>
@@ -63,11 +62,11 @@
   <synset lang="da" verified="false">
     <lemma>ortodoksi</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Orthodoxie</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>Orthodoxie</lemma>
+    <lemma>orthodoxie</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>האורתודוקסיה</lemma>

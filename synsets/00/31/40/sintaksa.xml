@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="3140"
+  steen:debated="pl"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -30,6 +31,7 @@
   </synset>
   <synset lang="pl">
     <lemma>syntaksa</lemma>
+    <lemma>składnia</lemma>
   </synset>
   <synset lang="ru">
     <lemma>синтаксис</lemma>
