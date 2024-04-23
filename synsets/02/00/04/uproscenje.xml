@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20004" steen:pos="n." steen:type="1">oprošćeńje</lemma>
+    <lemma
+      steen:id="20004"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
+      uprošćeńje
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>simplification</lemma>
@@ -16,7 +23,7 @@
     <lemma>упрошчанне</lemma>
     <lemma>спрошчванне</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>опростяване</lemma>
   </synset>
   <synset lang="cs">
@@ -71,7 +78,7 @@
   <synset lang="da" verified="false">
     <lemma>forenkling</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Vereinfachung</lemma>
   </synset>
   <synset lang="nl">

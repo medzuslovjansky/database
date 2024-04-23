@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="4037"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -48,6 +47,9 @@
   </synset>
   <synset lang="sr">
     <lemma>да</lemma>
+    <lemma>да је</lemma>
+    <lemma>што је</lemma>
+    <lemma annotation="арх.">иже</lemma>
   </synset>
   <synset lang="uk">
     <lemma>що</lemma>

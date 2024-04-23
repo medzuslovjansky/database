@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="15522" steen:pos="m." steen:type="2" steen:genesis="I">
+    <lemma
+      steen:id="15522"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="I"
+    >
       paragraf
     </lemma>
   </synset>
@@ -14,18 +20,19 @@
     <lemma>paragraph</lemma>
   </synset>
   <synset lang="be">
+    <lemma>абзац</lemma>
     <lemma>параграф</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>позиция</lemma>
+  <synset lang="bg">
+    <lemma>параграф</lemma>
   </synset>
   <synset lang="cs">
     <lemma>paragraf</lemma>
     <lemma>odstavec</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>članak</lemma>
     <lemma>paragraf</lemma>
+    <lemma>odstavek</lemma>
   </synset>
   <synset lang="mk">
     <lemma>параграф</lemma>
@@ -35,9 +42,10 @@
     <lemma>akapit</lemma>
   </synset>
   <synset lang="ru">
+    <lemma>абзац</lemma>
     <lemma>параграф</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>paragraf</lemma>
     <lemma>odsek</lemma>
   </synset>
@@ -48,6 +56,7 @@
     <lemma>параграф</lemma>
   </synset>
   <synset lang="uk">
+    <lemma>абзац</lemma>
     <lemma>параграф</lemma>
   </synset>
   <synset lang="eo" verified="false">
@@ -73,6 +82,7 @@
   </synset>
   <synset lang="nl">
     <lemma>paragraaf</lemma>
+    <lemma>alinea</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>פסקה</lemma>

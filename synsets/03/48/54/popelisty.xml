@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="34854" steen:pos="adj." steen:type="1">popelisty</lemma>
+    <lemma steen:id="34854" steen:pos="adj." steen:type="2" steen:same="ub z">
+      popelisty
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>ash-coloured</lemma>

@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2832" steen:pos="m.sg." steen:type="1">pepel</lemma>
+    <lemma steen:id="2832" steen:pos="m.sg." steen:type="2" steen:same="ru j">
+      pepel
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>ash</lemma>
@@ -14,6 +16,7 @@
   </synset>
   <synset lang="be">
     <lemma>попел</lemma>
+    <lemma>прысак</lemma>
   </synset>
   <synset lang="bg">
     <lemma>пепел</lemma>
@@ -32,11 +35,12 @@
   </synset>
   <synset lang="ru">
     <lemma>пепел</lemma>
+    <lemma>зола</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>popol</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>pepel</lemma>
   </synset>
   <synset lang="sr">
@@ -44,6 +48,7 @@
   </synset>
   <synset lang="uk">
     <lemma>попіл</lemma>
+    <lemma>зола</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>cindro</lemma>
@@ -69,8 +74,7 @@
     <lemma>aske</lemma>
     <lemma>aske</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Asche</lemma>
+  <synset lang="de">
     <lemma>Asche</lemma>
   </synset>
   <synset lang="nl">

@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="32197" steen:pos="m.anim." steen:type="1">lovec</lemma>
+    <lemma steen:id="32197" steen:pos="m.anim." steen:type="1" steen:same="z j">
+      lovec
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>hunter</lemma>
@@ -28,6 +30,7 @@
   </synset>
   <synset lang="pl">
     <lemma>łowca</lemma>
+    <lemma>myśliwy</lemma>
   </synset>
   <synset lang="ru">
     <lemma>охотник</lemma>
