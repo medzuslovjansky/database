@@ -6,7 +6,15 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24545" steen:pos="f." steen:genesis="I">barža</lemma>
+    <lemma
+      steen:id="24545"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl cz sl bm"
+      steen:genesis="I"
+    >
+      barža
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>barge</lemma>
