@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37152"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37152"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      světlodioda
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>led</lemma>
+    <lemma>light emitting diode</lemma>
+    <lemma>light diode</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>святлодыёд</lemma>
+    <lemma>LED</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>светодиод</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>LED dioda</lemma>
+    <lemma>světelná dioda</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>LED</lemma>
+    <lemma>svijetleća dioda</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>ЛЕР</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>LED</lemma>
+    <lemma>dioda elektroluminescencyjna</lemma>
+    <lemma>dioda świecąca</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>светодиод</lemma>
+    <lemma>LED</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>LED dióda</lemma>
+    <lemma>svetelná dióda</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>LED</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>лед диода</lemma>
+    <lemma>лед</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>світлодіод</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>led</lemma>
+    <lemma>luma diodo</lemma>
+    <lemma>luma diodo</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>LED</lemma>
+    <lemma>diodo emisor de luz</lemma>
+    <lemma>diodo luminoso</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>LED</lemma>
+    <lemma>diode électroluminescente</lemma>
+    <lemma>diode lumineuse</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>led</lemma>
+    <lemma>diodo luminescente</lemma>
+    <lemma>diodo luminoso</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>LED</lemma>
+    <lemma>diodo emissor de luz</lemma>
+    <lemma>diodo de luz</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>LED</lemma>
+    <lemma>Leuchtdiode</lemma>
+    <lemma>Leuchtdiode</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>led</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>לד</lemma>
+    <lemma>דיודה פולטת אור</lemma>
+    <lemma>דיודה אור</lemma>
+  </synset>
+</multilingual-synset>

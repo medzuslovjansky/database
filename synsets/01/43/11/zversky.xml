@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14311" steen:pos="adj." steen:type="1">zvěŕsky</lemma>
+    <lemma steen:id="14311" steen:pos="adj." steen:type="1" steen:same="v z j">
+      zvěŕsky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>beastly</lemma>
@@ -39,8 +41,8 @@
     <lemma>brutálny</lemma>
     <lemma>beštiálny</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Živalstvo</lemma>
+  <synset lang="sl">
+    <lemma>zverinski</lemma>
   </synset>
   <synset lang="sr">
     <lemma>зверски</lemma>

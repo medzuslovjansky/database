@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37149"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37149"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl cs~"
+      steen:genesis="I"
+    >
+      mečeta
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>mosque</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мячэць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>джамия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>mešita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>džamija</lemma>
+    <lemma>mošeja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>џамија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>meczet</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мечеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mešita</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>mošeja</lemma>
+    <lemma>džamija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>џамија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мечеть</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>moskeo</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>mezquita</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>mosquée</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>moschea</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>mesquita</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Moschee</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>moskee</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מִסגָד</lemma>
+  </synset>
+</multilingual-synset>

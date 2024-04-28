@@ -10,7 +10,7 @@
       steen:id="22257"
       steen:pos="m.anim."
       steen:type="2"
-      steen:same="ru sh"
+      steen:same="v cs sl mk"
     >
       provodnik
     </lemma>
@@ -22,8 +22,8 @@
     <lemma>праваднік</lemma>
     <lemma>кандуктар</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma annotation="жп">проводник</lemma>
+  <synset lang="bg">
+    <lemma>кондуктор</lemma>
   </synset>
   <synset lang="cs">
     <lemma>průvodčí</lemma>
@@ -42,11 +42,11 @@
     <lemma>проводник</lemma>
     <lemma>кондуктор</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>sprievodcovia</lemma>
+  <synset lang="sk">
+    <lemma>sprievodca</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>prevodnik</lemma>
+  <synset lang="sl">
+    <lemma>sprevodnik</lemma>
   </synset>
   <synset lang="sr">
     <lemma>кондуктер</lemma>
@@ -73,8 +73,8 @@
   <synset lang="da" verified="false">
     <lemma annotation="tog">leder</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma annotation="Zug">Leiter</lemma>
+  <synset lang="de">
+    <lemma>Schaffner</lemma>
   </synset>
   <synset lang="nl">
     <lemma>conducteur</lemma>

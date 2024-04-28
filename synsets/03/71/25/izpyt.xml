@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37125"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37125" steen:pos="m." steen:type="2" steen:same="v j">
+      izpyt
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>exam</lemma>
+    <lemma>examination</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>экзамен</lemma>
+    <lemma>іспыты</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>изпит</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="škola">zkouška</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ispit</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испит</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>egzamin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>экзамен</lemma>
+    <lemma>испытание</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="škola">skúška</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izpit</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>испит</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>іспит</lemma>
+    <lemma>екзамен</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>ekzameno</lemma>
+    <lemma>ekzameno</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>examen</lemma>
+    <lemma>examen</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>examen</lemma>
+    <lemma>examen</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>esame</lemma>
+    <lemma>esame</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>exame</lemma>
+    <lemma>exame</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Prüfung</lemma>
+    <lemma>Prüfung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>examen</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>בחינה</lemma>
+    <lemma>בחינה</lemma>
+  </synset>
+</multilingual-synset>

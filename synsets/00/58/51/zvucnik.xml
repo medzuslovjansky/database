@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5851" steen:pos="m." steen:type="1">zvųčnik</lemma>
+    <lemma steen:id="5851" steen:pos="m." steen:type="3" steen:same="yu mk">
+      zvųčnik
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>loudspeaker</lemma>
@@ -38,7 +40,7 @@
   <synset lang="sk">
     <lemma>reproduktor</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>zvočnik</lemma>
   </synset>
   <synset lang="sr">
@@ -66,7 +68,7 @@
   <synset lang="da" verified="false">
     <lemma>højttaleren</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Lautsprecher</lemma>
   </synset>
   <synset lang="nl">

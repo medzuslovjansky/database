@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="3141" steen:pos="adj." steen:type="1">pȯlny</lemma>
+    <lemma steen:id="3141" steen:pos="adj." steen:type="1" steen:same="v z j">
+      pȯlny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>full</lemma>
@@ -14,7 +16,7 @@
   <synset lang="be">
     <lemma>поўны</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>пълен</lemma>
   </synset>
   <synset lang="cs">
@@ -36,12 +38,11 @@
   <synset lang="ru">
     <lemma>полный</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>plný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>pun</lemma>
-    <lemma>ceo</lemma>
+  <synset lang="sl">
+    <lemma>poln</lemma>
   </synset>
   <synset lang="sr">
     <lemma>пун</lemma>

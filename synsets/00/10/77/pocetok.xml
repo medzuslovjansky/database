@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1077" steen:pos="m." steen:type="1" steen:same="v z sh mk">
+    <lemma
+      steen:id="1077"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="ub z sh mk"
+    >
       počętȯk
     </lemma>
   </synset>
@@ -18,8 +23,9 @@
     <lemma>пачатак</lemma>
     <lemma>старт</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>началото</lemma>
+  <synset lang="bg">
+    <lemma>начало</lemma>
+    <lemma>зачатък</lemma>
   </synset>
   <synset lang="cs">
     <lemma>začátek</lemma>
@@ -41,11 +47,11 @@
     <lemma>начало</lemma>
     <lemma>старт</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>začiatok</lemma>
     <lemma>počiatok</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>začetek</lemma>
   </synset>
   <synset lang="sr">
@@ -79,8 +85,9 @@
     <lemma>begynder</lemma>
     <lemma>begynder</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Beginn starten</lemma>
+  <synset lang="de">
+    <lemma>Anfang</lemma>
+    <lemma>Beginn</lemma>
   </synset>
   <synset lang="nl">
     <lemma>begin</lemma>

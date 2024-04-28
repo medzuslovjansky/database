@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="11445"
-  steen:debated="sameInLanguages"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="11445" steen:pos="adj." steen:type="2" steen:same="v">
+    <lemma steen:id="11445" steen:pos="adj." steen:type="3" steen:same="ub">
       prijatlivy
     </lemma>
   </synset>
@@ -49,6 +48,7 @@
   </synset>
   <synset lang="pl">
     <lemma>przychylny</lemma>
+    <lemma>sprzyjający</lemma>
   </synset>
   <synset lang="ru">
     <lemma>благосклонный</lemma>
@@ -73,6 +73,7 @@
   </synset>
   <synset lang="uk">
     <lemma>прихильний</lemma>
+    <lemma>сприятливий</lemma>
     <lemma>доброзичливий</lemma>
   </synset>
   <synset lang="eo" verified="false">

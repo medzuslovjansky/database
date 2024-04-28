@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37100"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37100" steen:pos="m." steen:type="2" steen:same="z yu">
+      hlådnik
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="car">radiator</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>радыятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>радиатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>chladič</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>hladnjak</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>радијатор</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chłodnica</lemma>
+    <lemma>radiator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>радиатор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>chladič</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>hladilnik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хладњак</lemma>
+    <lemma>!радијатор</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>радіатор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="aŭto">radiatoro</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="coche">radiador</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="voiture">radiateur</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="auto">radiatore</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="carro">radiador</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Auto">Kühler</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>radiateur</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="מכונית">רדיאטור</lemma>
+  </synset>
+</multilingual-synset>

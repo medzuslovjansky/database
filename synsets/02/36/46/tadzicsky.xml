@@ -6,8 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23646" steen:pos="adj." steen:type="1">tadžičsky</lemma>
-    <lemma steen:id="23646" steen:pos="adj." steen:type="1">tadžiksky</lemma>
+    <lemma steen:id="23646" steen:pos="adj." steen:type="1" steen:same="v z j">
+      tadžičsky
+    </lemma>
+    <lemma steen:id="23646" steen:pos="adj." steen:type="1" steen:same="v z j">
+      tadžiksky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>Tajik</lemma>

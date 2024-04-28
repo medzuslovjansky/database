@@ -6,12 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="21557"
-      steen:pos="adj."
-      steen:type="1"
-      steen:same="ru pl j"
-    >
+    <lemma steen:id="21557" steen:pos="adj." steen:type="1" steen:same="v pl j">
       samovoljny
     </lemma>
   </synset>
@@ -24,9 +19,10 @@
     <lemma>самавольны</lemma>
     <lemma>свавольны</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>умишлено</lemma>
-    <lemma>неоторизиран</lemma>
+  <synset lang="bg">
+    <lemma>самоволен</lemma>
+    <lemma>своенравен</lemma>
+    <lemma>своеволен</lemma>
   </synset>
   <synset lang="cs">
     <lemma>svévolný</lemma>

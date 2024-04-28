@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="21526" steen:pos="n." steen:type="2" steen:same="ru sh bm">
+    <lemma steen:id="21526" steen:pos="n." steen:type="2" steen:same="ru j">
       rodoslovje
     </lemma>
   </synset>
@@ -14,14 +14,14 @@
     <lemma>genealogy</lemma>
   </synset>
   <synset lang="be">
-    <lemma>радавод</lemma>
     <lemma>генеалогія</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>генеалогия</lemma>
+    <lemma>родословие</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>rodokmen</lemma>
+    <lemma>rodopis</lemma>
     <lemma>genealogie</lemma>
   </synset>
   <synset lang="hr">
@@ -38,15 +38,13 @@
     <lemma>genealogia</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>родословная</lemma>
     <lemma>генеалогия</lemma>
     <lemma>родословие</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>rodokmeň</lemma>
+  <synset lang="sk">
     <lemma>genealógia</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>rodoslovje</lemma>
     <lemma>genealogija</lemma>
   </synset>
@@ -55,7 +53,6 @@
     <lemma>генеалогија</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>родовід</lemma>
     <lemma>генеалогія</lemma>
   </synset>
   <synset lang="eo" verified="false">
@@ -76,7 +73,7 @@
   <synset lang="da" verified="false">
     <lemma>slægtsforskning</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Genealogie</lemma>
   </synset>
   <synset lang="nl">

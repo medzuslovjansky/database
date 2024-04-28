@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2286" steen:pos="v.tr. pf." steen:type="1">
+    <lemma
+      steen:id="2286"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
       zabråniti
     </lemma>
   </synset>
@@ -41,8 +46,8 @@
   <synset lang="sk" verified="false">
     <lemma>zakázať</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>prepoved</lemma>
+  <synset lang="sl">
+    <lemma>prepovedati</lemma>
   </synset>
   <synset lang="sr">
     <lemma>забранити</lemma>

@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="31692" steen:pos="adj." steen:type="1">zvųčny</lemma>
+    <lemma steen:id="31692" steen:pos="adj." steen:type="1" steen:same="v z j">
+      zvųčny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>sonorous</lemma>
@@ -44,9 +46,8 @@
   <synset lang="sk">
     <lemma>zvučný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Zvočna</lemma>
-    <lemma>zvonjenje</lemma>
+  <synset lang="sl">
+    <lemma>zvočen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>звучан</lemma>

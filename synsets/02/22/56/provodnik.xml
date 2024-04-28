@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="22256" steen:pos="m.anim." steen:type="1">provodnik</lemma>
+    <lemma steen:id="22256" steen:pos="m.anim." steen:type="1" steen:same="v z">
+      provodnik
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>guide</lemma>
@@ -16,8 +18,8 @@
     <lemma>гід</lemma>
     <lemma>даведнік</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>ръководство</lemma>
+  <synset lang="bg">
+    <lemma>водач</lemma>
   </synset>
   <synset lang="cs">
     <lemma>průvodce</lemma>
@@ -36,11 +38,11 @@
     <lemma>гид</lemma>
     <lemma>путеводитель</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>sprievodca</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>vodnik</lemma>
+  <synset lang="sl">
+    <lemma>vodič</lemma>
   </synset>
   <synset lang="sr">
     <lemma>водич</lemma>
@@ -68,8 +70,9 @@
   <synset lang="da" verified="false">
     <lemma>guide</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>leiten</lemma>
+  <synset lang="de">
+    <lemma>Reiseleiter</lemma>
+    <lemma>Fremdenführer</lemma>
   </synset>
   <synset lang="nl">
     <lemma>gids</lemma>

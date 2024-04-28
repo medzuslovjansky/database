@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14384" steen:pos="adj." steen:type="1">židovsky</lemma>
+    <lemma steen:id="14384" steen:pos="adj." steen:type="2" steen:same="v z yu">
+      židovsky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>Jewish</lemma>
@@ -41,8 +43,9 @@
   <synset lang="sk">
     <lemma>židovský</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Judovska</lemma>
+  <synset lang="sl">
+    <lemma>živoski</lemma>
+    <lemma>judovski</lemma>
   </synset>
   <synset lang="sr">
     <lemma>јеврејски</lemma>

@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24119" steen:pos="m.anim." steen:genesis="I">
+    <lemma
+      steen:id="24119"
+      steen:pos="m.anim."
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       agnostik
     </lemma>
   </synset>

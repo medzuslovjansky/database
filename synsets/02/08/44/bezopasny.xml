@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20844" steen:pos="adj." steen:type="2" steen:same="ru sh">
+    <lemma
+      steen:id="20844"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru sh bg"
+    >
       bezopasny
     </lemma>
   </synset>

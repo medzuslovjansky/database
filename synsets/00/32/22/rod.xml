@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="3222" steen:pos="m." steen:type="1">rod</lemma>
+    <lemma steen:id="3222" steen:pos="m." steen:type="2" steen:same="v pl sh">
+      rod
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>kind</lemma>
@@ -46,9 +48,9 @@
     <lemma>druh</lemma>
     <lemma>typ</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>vrsta</lemma>
-    <lemma>rod</lemma>
+    <lemma>zvrst</lemma>
   </synset>
   <synset lang="sr">
     <lemma>врста</lemma>

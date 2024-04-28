@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="22258" steen:pos="m." steen:type="2" steen:same="ru pl sh">
+    <lemma steen:id="22258" steen:pos="m." steen:type="1" steen:same="v pl j">
       provodnik
     </lemma>
   </synset>
@@ -16,8 +16,8 @@
   <synset lang="be">
     <lemma annotation="фіз.">праваднік</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma annotation="емисии">диригент</lemma>
+  <synset lang="bg">
+    <lemma annotation="физ.">проводник</lemma>
   </synset>
   <synset lang="cs">
     <lemma annotation="elek.">vodič</lemma>
@@ -36,11 +36,11 @@
   <synset lang="ru">
     <lemma annotation="физ.">проводник</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma annotation="elek.">vodič</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>prevodnik (Fizz).</lemma>
+  <synset lang="sl">
+    <lemma annotation="fiz.">prevodnik</lemma>
   </synset>
   <synset lang="sr">
     <lemma annotation="физ.">проводник</lemma>
@@ -66,7 +66,7 @@
   <synset lang="da" verified="false">
     <lemma annotation="fys.">leder</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma annotation="Phys.">Leiter</lemma>
   </synset>
   <synset lang="nl">

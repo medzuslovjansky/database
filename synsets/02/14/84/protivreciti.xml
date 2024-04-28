@@ -10,7 +10,7 @@
       steen:id="21484"
       steen:pos="v.intr. ipf."
       steen:type="2"
-      steen:same="ru cs j"
+      steen:same="ru cs sh bm"
     >
       protivrěčiti
     </lemma>
@@ -34,6 +34,7 @@
     <lemma>отричат</lemma>
   </synset>
   <synset lang="cs">
+    <lemma>protiřečit</lemma>
     <lemma>odporovat</lemma>
     <lemma>popírat</lemma>
   </synset>
@@ -54,9 +55,8 @@
     <lemma>отрицать</lemma>
     <lemma>опровергать</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>odporovať</lemma>
-    <lemma>popierať</lemma>
+  <synset lang="sk">
+    <lemma>protirečiť</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>nasprotujejo</lemma>

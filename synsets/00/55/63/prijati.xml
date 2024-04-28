@@ -6,7 +6,15 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5563" steen:pos="v.tr. ipf." steen:type="1">prijati</lemma>
+    <lemma
+      steen:id="5563"
+      steen:addition="(+3)"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="be sh bg"
+    >
+      prijati
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>please</lemma>
@@ -18,9 +26,8 @@
     <lemma>дагаджаць</lemma>
     <lemma>падабацца</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>моля</lemma>
-    <lemma>да бъде хубаво</lemma>
+  <synset lang="bg">
+    <lemma>прияя</lemma>
   </synset>
   <synset lang="cs">
     <lemma>těšit</lemma>
@@ -28,15 +35,18 @@
     <lemma>být příjemný</lemma>
     <lemma>přijímat</lemma>
   </synset>
+  <synset lang="cu">
+    <lemma>приꙗти</lemma>
+  </synset>
   <synset lang="hr">
     <lemma>prijati</lemma>
     <lemma>odgovarati</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>удоволува</lemma>
+    <lemma>допаѓа</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>zadowalać</lemma>
+    <lemma>podobać się</lemma>
   </synset>
   <synset lang="ru">
     <lemma>нравиться</lemma>

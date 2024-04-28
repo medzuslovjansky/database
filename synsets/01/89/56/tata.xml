@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="18956" steen:pos="m.anim." steen:type="1">tata</lemma>
+    <lemma
+      steen:id="18956"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="ub z j"
+    >
+      tata
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>dad</lemma>

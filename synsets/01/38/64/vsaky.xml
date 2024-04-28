@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="13864"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="13864"
-      steen:pos="adj."
-      steen:type="1"
-      steen:same="ru uk j"
-    >
+    <lemma steen:id="13864" steen:pos="adj." steen:type="1" steen:same="v j">
       vśaky
     </lemma>
   </synset>
   <synset lang="en">
     <lemma>every kind of</lemma>
+    <lemma>either</lemma>
+    <lemma>whatever</lemma>
   </synset>
   <synset lang="be">
     <lemma>усялякі</lemma>

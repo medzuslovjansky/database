@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37156"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37156"
+      steen:pos="f.sg."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      matovosť
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>matte</lemma>
+    <lemma annotation="of surface">dullness</lemma>
+    <lemma annotation="of glass">haze</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>матавасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>матовост</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>matnost</lemma>
+    <lemma>mat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prigušenost</lemma>
+    <lemma>nesjajnost</lemma>
+    <lemma>neprozirnost</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>матност</lemma>
+    <lemma>заматеност</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>matowość</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>матовость</lemma>
+    <lemma>мат</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>matnosť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>motnost</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мат</lemma>
+    <lemma>без сјаја</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>матовість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>mate</lemma>
+    <lemma annotation="de surfaco">obtuzeco</lemma>
+    <lemma annotation="de vitro">nebuleto</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>mate</lemma>
+    <lemma annotation="de la superficie">opacidad</lemma>
+    <lemma annotation="del vidrio">neblina</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>mat</lemma>
+    <lemma annotation="de la surface">matité</lemma>
+    <lemma annotation="du verre">voile</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>opaco</lemma>
+    <lemma annotation="della superficie">opacità</lemma>
+    <lemma annotation="del vetro">opacità</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>fosco</lemma>
+    <lemma annotation="de superfície">opacidade</lemma>
+    <lemma annotation="de vidro">neblina</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>matt</lemma>
+    <lemma annotation="der Oberfläche">Mattheit</lemma>
+    <lemma annotation="des Glases">Trübung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>matheid</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מט</lemma>
+    <lemma annotation="של פני השטח">קהות</lemma>
+    <lemma annotation="של זכוכית">אובך</lemma>
+  </synset>
+</multilingual-synset>

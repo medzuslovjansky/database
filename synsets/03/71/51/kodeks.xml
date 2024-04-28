@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37151"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37151"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kodeks
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>codex</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кодэкс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кодекс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kodex</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kodeks</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>кодот</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kodeks</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кодекс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kódex</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>oznaka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кодекс</lemma>
+    <lemma>законик</lemma>
+    <lemma>зборник закона</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кодекс</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kodekso</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>códice</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>manuscrit</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>codice</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>códice</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gesetzbuch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>wetboek</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>קודקס</lemma>
+  </synset>
+</multilingual-synset>

@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14030" steen:pos="f." steen:type="1">zabråna</lemma>
+    <lemma
+      steen:id="14030"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ub pl sh bm"
+    >
+      zabråna
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>prohibition</lemma>
@@ -42,7 +49,7 @@
   <synset lang="sk" verified="false">
     <lemma>zákaz</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>prepoved</lemma>
   </synset>
   <synset lang="sr">

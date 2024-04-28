@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36378" steen:pos="n." steen:type="2" steen:same="ru sh bm">
+    <lemma steen:id="36378" steen:pos="n." steen:type="2" steen:same="ru j">
       rodoslovje
     </lemma>
   </synset>
@@ -18,8 +18,7 @@
     <lemma>радавод</lemma>
     <lemma>паходжанне</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>потекло</lemma>
+  <synset lang="bg">
     <lemma>родословие</lemma>
   </synset>
   <synset lang="cs">
@@ -30,7 +29,7 @@
     <lemma>pedigre</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>родосливие</lemma>
+    <lemma>родословие</lemma>
     <lemma>потекло</lemma>
   </synset>
   <synset lang="pl">
@@ -40,10 +39,11 @@
     <lemma>родословная</lemma>
     <lemma>родословие</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>rodokmeň</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
+    <lemma>rodoslovje</lemma>
     <lemma>rodovnik</lemma>
     <lemma>poreklo</lemma>
   </synset>
@@ -79,7 +79,7 @@
     <lemma>afstamning</lemma>
     <lemma>stamtavle</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Abstammung</lemma>
     <lemma>Rasse</lemma>
   </synset>

@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14334" steen:pos="v.refl. ipf." steen:type="1">
+    <lemma
+      steen:id="14334"
+      steen:pos="v.refl. ipf."
+      steen:type="1"
+      steen:same="v pl sh bm"
+    >
       žaliti sę
     </lemma>
   </synset>
@@ -23,6 +28,7 @@
   </synset>
   <synset lang="cs">
     <lemma>stěžovat si</lemma>
+    <lemma>žalovat</lemma>
   </synset>
   <synset lang="csb">
     <lemma>jiscëc sã</lemma>
@@ -30,21 +36,27 @@
   </synset>
   <synset lang="hr">
     <lemma>žaliti se</lemma>
+    <lemma>tužiti se</lemma>
+    <lemma>prigovarati</lemma>
   </synset>
   <synset lang="mk">
     <lemma>се жали</lemma>
   </synset>
   <synset lang="pl">
     <lemma>żalić się</lemma>
+    <lemma>skarżyć się</lemma>
+    <lemma>narzekać</lemma>
   </synset>
   <synset lang="ru">
     <lemma>жаловаться</lemma>
   </synset>
   <synset lang="sk">
+    <lemma>žalovať sa</lemma>
     <lemma>sťažovať sa</lemma>
-    <lemma>sťažovať si</lemma>
+    <lemma>ponosovať sa</lemma>
+    <lemma>žalovať</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>pritoževati se</lemma>
   </synset>
   <synset lang="sr">

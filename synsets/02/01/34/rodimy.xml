@@ -6,13 +6,16 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20134" steen:pos="adj." steen:type="1">rodimy</lemma>
+    <lemma steen:id="20134" steen:pos="adj." steen:type="2" steen:same="v pl">
+      rodimy
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>native</lemma>
   </synset>
   <synset lang="be">
     <lemma>родны</lemma>
+    <lemma>радзімы</lemma>
   </synset>
   <synset lang="bg" verified="false">
     <lemma>роден</lemma>

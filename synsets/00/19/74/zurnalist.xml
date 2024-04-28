@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1974" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="1974"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs yu mk"
+      steen:genesis="I"
+    >
       žurnalist
     </lemma>
   </synset>

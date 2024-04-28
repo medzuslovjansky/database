@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="3822" steen:pos="v.intr. ipf." steen:type="1">
+    <lemma
+      steen:id="3822"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
       zvoniti
     </lemma>
   </synset>
@@ -43,8 +48,8 @@
   <synset lang="sk">
     <lemma>zvoniť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>obroč</lemma>
+  <synset lang="sl">
+    <lemma>zvoniti</lemma>
   </synset>
   <synset lang="sr">
     <lemma>звонити</lemma>

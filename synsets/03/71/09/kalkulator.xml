@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37109"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37109"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kalkulator
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>calculator</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>калькулятар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>калкулатор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kalkulátor</lemma>
+    <lemma>kalkulačka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kalkulator</lemma>
+    <lemma>digitron</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>калкулатор</lemma>
+    <lemma>дигитрон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kalkulator</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>калькулятор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kalkulačka</lemma>
+    <lemma>kalkulátor</lemma>
+    <lemma>minikalkulačka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kalkulator</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дигитрон</lemma>
+    <lemma>калкулатор</lemma>
+    <lemma>рачунало</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>калькулятор</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kalkulilo</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>calculadora</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>calculatrice</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>calcolatrice</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>calculadora</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Taschenrechner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>calculator</lemma>
+    <lemma>rekenmachine</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>מַחשְׁבוֹן</lemma>
+  </synset>
+</multilingual-synset>

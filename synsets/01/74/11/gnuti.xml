@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="17411"
-  steen:debated="partOfSpeech"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -9,7 +8,7 @@
   <synset lang="art-x-interslv">
     <lemma
       steen:id="17411"
-      steen:pos="v.intr. ipf."
+      steen:pos="v.tr. ipf."
       steen:type="1"
       steen:same="ru pl"
     >
@@ -27,7 +26,8 @@
     <lemma>сгъвам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>ohýbat se</lemma>
+    <lemma>ohýbat</lemma>
+    <lemma>klonit</lemma>
   </synset>
   <synset lang="hr">
     <lemma>savijati</lemma>
@@ -45,7 +45,9 @@
     <lemma>сгибать</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>ohýbať sa</lemma>
+    <lemma>ohýbať</lemma>
+    <lemma>ohýňat</lemma>
+    <lemma>kloniť</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>flex</lemma>

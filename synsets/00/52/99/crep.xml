@@ -6,10 +6,18 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5299" steen:pos="m." steen:type="1">črěp</lemma>
+    <lemma
+      steen:id="5299"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs yu mk"
+    >
+      črěp
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>crock</lemma>
+    <lemma>shard</lemma>
   </synset>
   <synset lang="be">
     <lemma>чарапок</lemma>
@@ -35,8 +43,8 @@
   <synset lang="sk">
     <lemma>črep</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>lonec</lemma>
+  <synset lang="sl">
+    <lemma>črepinja</lemma>
   </synset>
   <synset lang="sr">
     <lemma>цреп</lemma>
