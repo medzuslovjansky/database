@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14958" steen:pos="m." steen:type="1" steen:same="v sh bm">
+    <lemma
+      steen:id="14958"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v sk sh bm"
+    >
       ranec
     </lemma>
   </synset>
@@ -18,7 +23,7 @@
     <lemma>заплечнік</lemma>
     <lemma>рукзак</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>раница</lemma>
   </synset>
   <synset lang="cs">
@@ -50,7 +55,7 @@
     <lemma>ruksak</lemma>
     <lemma>ranec</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>nahrbtnik</lemma>
   </synset>
   <synset lang="sr">

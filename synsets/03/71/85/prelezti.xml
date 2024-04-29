@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37185"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37185"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prělězti
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get over</lemma>
+    <lemma>climb over</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>перабірацца</lemma>
+    <lemma>пералазіць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>преодолее</lemma>
+    <lemma>се изкачи над</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přelézt</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>preboljeti</lemma>
+    <lemma>popeti preko</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>добие повеќе</lemma>
+    <lemma>се искачи над</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeleźć</lemma>
+    <lemma>przedostać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перелезть</lemma>
+    <lemma>перебраться</lemma>
+    <lemma>преодолеть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preliezť</lemma>
+    <lemma>prekonať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>preboleti</lemma>
+    <lemma>preplezati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прећи</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>перебиратися</lemma>
+    <lemma>перелазити</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="over">klimmen</lemma>
+    <lemma>eroverheen klimmen</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="33855"
-  steen:debated="partOfSpeech"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -31,6 +30,8 @@
   <synset lang="cs">
     <lemma>nabírat rychlost</lemma>
     <lemma>zrychlovat</lemma>
+    <lemma>rozbíhat se</lemma>
+    <lemma>rozkrucovat se</lemma>
   </synset>
   <synset lang="hr">
     <lemma>razgibavati se</lemma>
@@ -48,9 +49,11 @@
     <lemma>разгоняться</lemma>
     <lemma>набирать обороты</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>naberať rýchlosť</lemma>
     <lemma>zrýchľovať</lemma>
+    <lemma>rozbiehať sa</lemma>
+    <lemma>rozkrúcať sa</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>razmrdavati se preselil v</lemma>

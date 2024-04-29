@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37171"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37171"
+      steen:pos="n.indecl."
+      steen:type="2"
+      steen:same="ru uk z"
+    >
+      kuki
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="Internet">cookie</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>маркёр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бисквитка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cookie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kolačić</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cookie</lemma>
+    <lemma>ciasteczko</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>куки</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cookie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>piškotek</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>колачић</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кукі</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kuketo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Cookie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cookie</lemma>
+  </synset>
+</multilingual-synset>

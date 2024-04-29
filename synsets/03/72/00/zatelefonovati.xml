@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37200"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37200"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z yu mk"
+      steen:genesis="I"
+    >
+      zatelefonovati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>call up</lemma>
+    <lemma>make a phone call</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>патэлефанаваць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>да се обадя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zatelefonovat</lemma>
+    <lemma>zavolat</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>pozvati telefonom</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>телефонира</lemma>
+    <lemma annotation="на тел.">се јавува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zatelefonować</lemma>
+    <lemma>zadzwonić</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>телефонировать</lemma>
+    <lemma>позвонить</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zatelefonovať</lemma>
+    <lemma>zavolať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pokličiti</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="телефоном">назвати</lemma>
+    <lemma>телефонирати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>зателефонувати</lemma>
+    <lemma>подзвонити</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>opbellen</lemma>
+    <lemma>telefoneren</lemma>
+  </synset>
+</multilingual-synset>

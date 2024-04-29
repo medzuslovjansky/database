@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="30337"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -17,7 +16,7 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>wash out</lemma>
+    <lemma>blur</lemma>
   </synset>
   <synset lang="be">
     <lemma>размыць</lemma>
@@ -26,7 +25,7 @@
     <lemma>изплакнете</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>vymít</lemma>
+    <lemma>vymýt</lemma>
     <lemma>smýt</lemma>
     <lemma>rozmýt</lemma>
   </synset>
@@ -38,16 +37,16 @@
     <lemma>измие</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>zmyć</lemma>
     <lemma>rozmyć</lemma>
+    <lemma>rozmazać</lemma>
   </synset>
   <synset lang="ru">
     <lemma>размыть</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>vyháňať</lemma>
+  <synset lang="sk">
+    <lemma>vymyť</lemma>
     <lemma>zmyť</lemma>
-    <lemma>rozmytá</lemma>
+    <lemma>rozmyť</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>Izmit</lemma>
@@ -83,7 +82,8 @@
     <lemma>ausspülen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>uitwassen</lemma>
+    <lemma>blurren</lemma>
+    <lemma>vervagen</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>#wash החוצה</lemma>

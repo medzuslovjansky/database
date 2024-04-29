@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="11716" steen:pos="m.anim." steen:type="1">ranečnik</lemma>
+    <lemma
+      steen:id="11716"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v sh bm"
+    >
+      turist s rancem
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>backpacker</lemma>
@@ -15,8 +22,8 @@
     <lemma>пешы турыст</lemma>
     <lemma>чалавек з заплечнікам</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>бэкпекер</lemma>
+  <synset lang="bg">
+    <lemma>турист с раница</lemma>
   </synset>
   <synset lang="cs">
     <lemma>baťůžkář</lemma>
@@ -29,19 +36,20 @@
     <lemma>bekpeker</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>човек што патува со ранец</lemma>
+    <lemma>патник со ранец</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>człowiek podróżujący z plecakiem</lemma>
+    <lemma>turysta z plecakiem</lemma>
   </synset>
   <synset lang="ru">
     <lemma>пеший турист</lemma>
     <lemma>человек с рюкзаком</lemma>
+    <lemma>бэкпэкер</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>batôžkár</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>popotnik z nahrbtnikom</lemma>
   </synset>
   <synset lang="sr">

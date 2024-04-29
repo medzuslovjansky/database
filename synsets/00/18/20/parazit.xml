@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1820" steen:pos="m.anim." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="1820"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
       parazit
     </lemma>
   </synset>
@@ -16,8 +22,8 @@
   <synset lang="be">
     <lemma>паразіт</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>тунеядец</lemma>
+  <synset lang="bg">
+    <lemma>паразит</lemma>
   </synset>
   <synset lang="cs">
     <lemma>parazit</lemma>
@@ -35,10 +41,10 @@
   <synset lang="ru">
     <lemma>паразит</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>parazit</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>parazit</lemma>
   </synset>
   <synset lang="sr">

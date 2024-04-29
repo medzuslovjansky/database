@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37199"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37199"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z yu mk"
+      steen:genesis="I"
+    >
+      subvencija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>subsidy</lemma>
+    <lemma>subvention</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>субсідыя</lemma>
+    <lemma>датацыя</lemma>
+    <lemma>субвенцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>субсидия</lemma>
+    <lemma>дотация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dotace</lemma>
+    <lemma>subvence</lemma>
+    <lemma>podpora</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>subvencija</lemma>
+    <lemma>dotacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>субвенција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dotacja</lemma>
+    <lemma>subwencja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>субсидия</lemma>
+    <lemma>дотация</lemma>
+    <lemma>субвенция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dotácia</lemma>
+    <lemma>subvencia</lemma>
+    <lemma>podpora</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>subvencija</lemma>
+    <lemma>dotacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>субвенција</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>субсидія</lemma>
+    <lemma>дотація</lemma>
+    <lemma>субвенція</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>subsidie</lemma>
+  </synset>
+</multilingual-synset>

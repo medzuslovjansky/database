@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20287" steen:pos="adj." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="20287"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       vertikaľny
     </lemma>
   </synset>
@@ -23,6 +29,9 @@
   </synset>
   <synset lang="cs">
     <lemma>vertikální</lemma>
+    <lemma>svislý</lemma>
+    <lemma>kolmý</lemma>
+    <lemma>stojatý</lemma>
   </synset>
   <synset lang="hr">
     <lemma>uspravan</lemma>
@@ -32,20 +41,25 @@
     <lemma>вертикален</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>wertykalny</lemma>
     <lemma>pionowy</lemma>
+    <lemma>wertykalny</lemma>
   </synset>
   <synset lang="ru">
     <lemma>вертикальный</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>vertikálne</lemma>
+  <synset lang="sk">
+    <lemma>vertikálny</lemma>
+    <lemma>zvislý</lemma>
+    <lemma>kolmý</lemma>
+    <lemma>stojatý</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>vertikalna</lemma>
+  <synset lang="sl">
+    <lemma>vertikalen</lemma>
+    <lemma>navpičen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>вертикалан</lemma>
+    <lemma>исправен</lemma>
   </synset>
   <synset lang="uk">
     <lemma>вертикальний</lemma>

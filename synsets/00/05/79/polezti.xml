@@ -6,12 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="579" steen:pos="v.intr. pf." steen:type="1">vlězti</lemma>
+    <lemma steen:id="579" steen:pos="v.intr. pf." steen:type="1">polězti</lemma>
   </synset>
   <synset lang="en">
     <lemma>climb</lemma>
   </synset>
-  <synset lang="be">
+  <synset lang="be" verified="false">
     <lemma>улезці</lemma>
     <lemma>паўзлазіць</lemma>
     <lemma>узабрацца</lemma>
@@ -21,10 +21,7 @@
     <lemma>изкача</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>vylézt</lemma>
-    <lemma>vystoupat</lemma>
-    <lemma>vyšplhat</lemma>
-    <lemma annotation="na">vlézt</lemma>
+    <lemma>polézt</lemma>
   </synset>
   <synset lang="hr">
     <lemma>popeti se</lemma>
@@ -37,14 +34,10 @@
     <lemma>wspiąć się</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>влезть</lemma>
-    <lemma>взобраться</lemma>
+    <lemma>полезть</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>vyliezť</lemma>
-    <lemma>vystúpiť</lemma>
-    <lemma>vyšplhať</lemma>
-    <lemma annotation="na">vliezť</lemma>
+  <synset lang="sk">
+    <lemma>poliezť</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>vzpon</lemma>

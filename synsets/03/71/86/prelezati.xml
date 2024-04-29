@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37186"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37186"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prělězati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get over</lemma>
+    <lemma>climb over</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пералазіць</lemma>
+    <lemma>перабірацца</lemma>
+    <lemma>пераадоліць</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přelézat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>преминува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przełazić</lemma>
+    <lemma>przedostawać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>перелезать</lemma>
+    <lemma>перелазить</lemma>
+    <lemma>перебираться</lemma>
+    <lemma>преодолевать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preliezať</lemma>
+    <lemma>prekonávať</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>прелазити</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="over">klimmen</lemma>
+    <lemma>eroverheen klimmen</lemma>
+  </synset>
+</multilingual-synset>

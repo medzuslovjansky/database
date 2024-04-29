@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1048" steen:pos="adj." steen:type="1">ogromny</lemma>
+    <lemma steen:id="1048" steen:pos="adj." steen:type="1" steen:same="ru z j">
+      ogromny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>enormous</lemma>
@@ -23,14 +25,13 @@
     <lemma>гіганцкі</lemma>
     <lemma>страшэнны</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>огромен</lemma>
-    <lemma>голям</lemma>
-    <lemma>огромен</lemma>
-    <lemma>ужасен</lemma>
+    <lemma>грамаден</lemma>
   </synset>
   <synset lang="cs">
     <lemma>ohromný</lemma>
+    <lemma>obrovský</lemma>
     <lemma>úžasný</lemma>
     <lemma>velklepý</lemma>
     <lemma>strašný</lemma>
@@ -45,6 +46,7 @@
   </synset>
   <synset lang="pl">
     <lemma>ogromny</lemma>
+    <lemma>olbrzymi</lemma>
   </synset>
   <synset lang="ru">
     <lemma>огромный</lemma>
@@ -54,13 +56,16 @@
   </synset>
   <synset lang="sk">
     <lemma>ohromný</lemma>
+    <lemma>obrovský</lemma>
     <lemma>úžasný</lemma>
     <lemma>veľkolepý</lemma>
     <lemma>strašný</lemma>
     <lemma>hrozný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>velika</lemma>
+  <synset lang="sl">
+    <lemma>ogromen</lemma>
+    <lemma>enormen</lemma>
+    <lemma>velikanski</lemma>
   </synset>
   <synset lang="sr">
     <lemma>огроман</lemma>
@@ -106,11 +111,9 @@
     <lemma>enorm</lemma>
     <lemma>fantastisk</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>enorm</lemma>
     <lemma>riesig</lemma>
-    <lemma>enorm</lemma>
-    <lemma>grandios</lemma>
   </synset>
   <synset lang="nl">
     <lemma>enorm</lemma>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37180"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37180"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      izlězati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get out</lemma>
+    <lemma>climb out</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылазіць</lemma>
+    <lemma>выбірацца</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vylézat</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyłazić</lemma>
+    <lemma>wyczołgiwać się</lemma>
+    <lemma>wydostawać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вылезать</lemma>
+    <lemma>вылазить</lemma>
+    <lemma>выбираться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyliezať</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>излазити</lemma>
+    <lemma>проналазити излаз</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вилазити</lemma>
+    <lemma>вилазячи</lemma>
+    <lemma>вибиратися</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naar buiten klimmen</lemma>
+    <lemma>zich naar buiten werken</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37176"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37176"
+      steen:pos="f."
+      steen:type="3"
+      steen:same="pl sl"
+      steen:genesis="I"
+    >
+      laterna
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>lantern</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>ліхтар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фенер</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>lucerna</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>fenjer</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фенер</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>latarnia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фонарь</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>lucerna</lemma>
+    <lemma>lampáš</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>laterna</lemma>
+    <lemma>svetilka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фењер</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ліхтар</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>lanterno</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Laterne</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lantaarn</lemma>
+  </synset>
+</multilingual-synset>

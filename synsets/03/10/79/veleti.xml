@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="31079"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -10,7 +9,7 @@
     <lemma
       steen:id="31079"
       steen:addition="(veli)"
-      steen:pos="v.tr. ipf."
+      steen:pos="v.tr. ipf./pf."
       steen:type="2"
       steen:same="ru uk cz sl cu"
     >

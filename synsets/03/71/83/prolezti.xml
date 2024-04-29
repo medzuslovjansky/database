@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37183"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37183"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prolězti
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get through</lemma>
+    <lemma>climb through</lemma>
+    <lemma>crawl through</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прайсці</lemma>
+    <lemma>пралезці</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>измъкне сам</lemma>
+    <lemma>да се катерите</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prolézt</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>proći</lemma>
+    <lemma>popne se kroz</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>се добие преку</lemma>
+    <lemma>се искачи преку</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przeleźć</lemma>
+    <lemma>przedostać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пролезть</lemma>
+    <lemma>пробраться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preliezť</lemma>
+    <lemma>prejsť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>priti skozi</lemma>
+    <lemma>vzpon preko</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>проћи</lemma>
+    <lemma>пробити се</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>пройти</lemma>
+    <lemma>пролізти</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="door">klimmen</lemma>
+    <lemma>erdoorheen klimmen</lemma>
+    <lemma>erdoorheen kruipen</lemma>
+    <lemma>zich erdoorheen werken</lemma>
+  </synset>
+</multilingual-synset>

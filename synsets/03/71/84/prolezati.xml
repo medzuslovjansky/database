@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37184"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37184"
+      steen:pos="v.intr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      prolězati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get through</lemma>
+    <lemma>climb through</lemma>
+    <lemma>crawl through</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пралазіць</lemma>
+    <lemma>прабірацца</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>prolézat</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przełazić</lemma>
+    <lemma>przedostawać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пролезать</lemma>
+    <lemma>пролазить</lemma>
+    <lemma>пробираться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preliezať</lemma>
+    <lemma>prechádzať</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>пролазити</lemma>
+    <lemma>пробијати се</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="door">klimmen</lemma>
+    <lemma>erdoorheen klimmen</lemma>
+    <lemma>erdoorheen kruipen</lemma>
+    <lemma>zich erdoorheen werken</lemma>
+  </synset>
+</multilingual-synset>

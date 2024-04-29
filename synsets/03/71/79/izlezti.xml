@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37179"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37179"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      izlězti
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>get out</lemma>
+    <lemma>climb out</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вылезці</lemma>
+    <lemma>выбрацца</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>излез</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vylézt</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>Izađi</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>излези</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyleźć</lemma>
+    <lemma>wyczołgać się</lemma>
+    <lemma>wydostać się</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вылезти</lemma>
+    <lemma>выбраться</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vyliezť</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>Pojdi ven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>изићи</lemma>
+    <lemma>изаћи</lemma>
+    <lemma>пронаћи излаз</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>вилізти</lemma>
+    <lemma>вибратися</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>naar buiten klimmen</lemma>
+    <lemma>zich naar buiten werken</lemma>
+  </synset>
+</multilingual-synset>
