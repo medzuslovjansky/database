@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="237" steen:pos="v.tr. ipf." steen:type="1">pěvati</lemma>
+    <lemma
+      steen:id="237"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="ub z sh"
+    >
+      pěvati
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>sing</lemma>
@@ -15,8 +22,8 @@
     <lemma>спяваць</lemma>
     <lemma>пяяць</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>пее</lemma>
+  <synset lang="bg">
+    <lemma>пея</lemma>
   </synset>
   <synset lang="cs">
     <lemma>zpívat</lemma>
@@ -37,12 +44,12 @@
   <synset lang="ru">
     <lemma>петь</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>spievať</lemma>
     <lemma>pieť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Sing</lemma>
+  <synset lang="sl">
+    <lemma>peti</lemma>
   </synset>
   <synset lang="sr">
     <lemma>певати</lemma>

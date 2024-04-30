@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37204"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37204"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="v sh bm"
+      steen:genesis="G"
+    >
+      špric
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>syringe</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>шпрыц</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>шприц</lemma>
+    <lemma>спринцовка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>injektční stříkačka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>brizgalica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>шприц</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>strzykawka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>шприц</lemma>
+    <lemma>спринцовка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>striekačka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>brizgalka</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>шприц</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>шприц</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>injektilo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Spritze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>injectiespuit</lemma>
+  </synset>
+</multilingual-synset>

@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="26128" steen:pos="f." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="26128"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       injekcija
     </lemma>
   </synset>
@@ -25,7 +31,6 @@
   </synset>
   <synset lang="hr">
     <lemma>injekcija</lemma>
-    <lemma>injekcija</lemma>
   </synset>
   <synset lang="mk">
     <lemma>инекција</lemma>
@@ -41,9 +46,8 @@
   <synset lang="sk">
     <lemma>injekcia</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>vbrizgavanje</lemma>
-    <lemma>vbrizgavanje</lemma>
+  <synset lang="sl">
+    <lemma>injekcija</lemma>
   </synset>
   <synset lang="sr">
     <lemma>инјекција</lemma>

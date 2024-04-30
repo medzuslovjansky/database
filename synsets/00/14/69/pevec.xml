@@ -6,17 +6,24 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1469" steen:pos="m.anim." steen:type="1">pěvatelj</lemma>
+    <lemma
+      steen:id="1469"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+    >
+      pěvėc
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>singer</lemma>
+    <lemma annotation="m.">singer</lemma>
   </synset>
   <synset lang="be">
     <lemma>спявак</lemma>
     <lemma>пясняр</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>певица</lemma>
+  <synset lang="bg">
+    <lemma>певец</lemma>
   </synset>
   <synset lang="cs">
     <lemma>zpěvák</lemma>
@@ -32,15 +39,16 @@
   </synset>
   <synset lang="pl">
     <lemma>śpiewak</lemma>
+    <lemma>piosenkarz</lemma>
   </synset>
   <synset lang="ru">
     <lemma>певец</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>spevák</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>pevka</lemma>
+  <synset lang="sl">
+    <lemma>pevec</lemma>
   </synset>
   <synset lang="sr">
     <lemma>певач</lemma>

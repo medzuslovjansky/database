@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17453" steen:pos="n.sg." steen:type="1">hlåđeńje</lemma>
+    <lemma steen:id="17453" steen:pos="n.sg." steen:type="1" steen:same="v z j">
+      hlåđeńje
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>refrigeration</lemma>

@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2578" steen:pos="m.sg." steen:type="1">hmelj</lemma>
+    <lemma steen:id="2578" steen:pos="m.sg." steen:type="1" steen:same="v z j">
+      hmelj
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>hop</lemma>
@@ -35,8 +37,8 @@
   <synset lang="sk">
     <lemma>chmeľ</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>hop</lemma>
+  <synset lang="sl">
+    <lemma>hmelj</lemma>
   </synset>
   <synset lang="sr">
     <lemma>хмељ</lemma>

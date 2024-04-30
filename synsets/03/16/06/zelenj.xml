@@ -6,10 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="31606" steen:pos="f." steen:type="1">zelenj</lemma>
+    <lemma steen:id="31606" steen:pos="f." steen:type="1" steen:same="v z j">
+      zelenj
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>verdure</lemma>
+    <lemma>greenery</lemma>
   </synset>
   <synset lang="be">
     <lemma>зеляніна</lemma>
@@ -39,13 +42,13 @@
   <synset lang="sk" verified="false">
     <lemma>zeleň</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>zelena</lemma>
+  <synset lang="sl">
+    <lemma>zelenje</lemma>
   </synset>
   <synset lang="sr">
     <lemma>зеленило</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>зелень</lemma>
   </synset>
   <synset lang="eo">

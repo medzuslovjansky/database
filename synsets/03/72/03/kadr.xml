@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37203"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37203" steen:pos="m." steen:type="1" steen:same="v z j">
+      kadr
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>shot</lemma>
+    <lemma annotation="film">frame</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="кіно">кадр</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кадър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="filmový">záběr</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>кадар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kadr</lemma>
+    <lemma>ujęcie</lemma>
+    <lemma annotation="film">zdjęcie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="кино">кадр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="filmový">záber</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kader</lemma>
+    <lemma>prizor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кадар</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кадр</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>shot</lemma>
+    <lemma annotation="film">frame</lemma>
+  </synset>
+</multilingual-synset>
