@@ -6,12 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="36470"
-      steen:pos="f."
-      steen:type="1"
-      steen:same="v z yu bm"
-    >
+    <lemma steen:id="36470" steen:pos="f." steen:type="1" steen:same="v z j">
       šiška
     </lemma>
   </synset>
@@ -21,8 +16,8 @@
   <synset lang="be">
     <lemma>шышка</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma annotation="на иглолистни">конус</lemma>
+  <synset lang="bg">
+    <lemma>шишарка</lemma>
   </synset>
   <synset lang="cs">
     <lemma>šiška</lemma>
@@ -35,6 +30,7 @@
     <lemma>šišarka</lemma>
   </synset>
   <synset lang="mk">
+    <lemma>шишка</lemma>
     <lemma>шишарка</lemma>
   </synset>
   <synset lang="pl">
@@ -46,8 +42,9 @@
   <synset lang="sk">
     <lemma>šiška</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Šišarka</lemma>
+  <synset lang="sl">
+    <lemma>šiška</lemma>
+    <lemma>šuška</lemma>
   </synset>
   <synset lang="sr">
     <lemma>шишарка</lemma>
@@ -55,8 +52,8 @@
   <synset lang="uk">
     <lemma>шишка</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma annotation="de konifero">konuson</lemma>
+  <synset lang="eo">
+    <lemma>strobilo</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma annotation="de una conífera">cono</lemma>
@@ -73,8 +70,8 @@
   <synset lang="da" verified="false">
     <lemma annotation="af nåletræ">kegle</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma annotation="von einem Nadelbaum">Kegel</lemma>
+  <synset lang="de">
+    <lemma>Zapfen</lemma>
   </synset>
   <synset lang="nl">
     <lemma>dennenappel</lemma>

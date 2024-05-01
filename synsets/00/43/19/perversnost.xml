@@ -1,81 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="18819"
+  id="4319"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="18819"
-      steen:pos="v.tr. ipf."
-      steen:type="1"
+      steen:id="4319"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v j"
       steen:genesis="I"
     >
-      skenovati
+      perversnosť
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>scan</lemma>
+    <lemma>perversity</lemma>
   </synset>
   <synset lang="be">
-    <lemma>сканаваць</lemma>
+    <lemma>збачэнства</lemma>
+    <lemma>ненармальнасць</lemma>
+    <lemma>ненармалёвасць</lemma>
+    <lemma>сапсаванасць вычварэнства</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>сканиране</lemma>
+  <synset lang="bg">
+    <lemma>извратеност</lemma>
+    <lemma>поквареност</lemma>
+    <lemma>перверзност</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>skenovat</lemma>
+    <lemma>perverznost</lemma>
+    <lemma>zvrácenost</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>skenirati</lemma>
+    <lemma>perverznost</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>скенира</lemma>
+    <lemma>перверзност</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>skanować</lemma>
+    <lemma>perwersja</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>сканировать</lemma>
+    <lemma>извращённость</lemma>
   </synset>
   <synset lang="sk" verified="false">
-    <lemma>skenovať</lemma>
+    <lemma>perverznosť</lemma>
+    <lemma>zvrátenosť</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>skeniranje</lemma>
+    <lemma>perverseness</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>скенирање</lemma>
+    <lemma>перверзност</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>сканувати</lemma>
+    <lemma>збоченість</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>skani</lemma>
+    <lemma>perverso</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>escanear</lemma>
+    <lemma>perversidad</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>analyse</lemma>
+    <lemma>perversité</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>scansione</lemma>
+    <lemma>perversità</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>Varredura</lemma>
+    <lemma>perversidade</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>Scan</lemma>
+    <lemma>perversitet</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Scan</lemma>
+    <lemma>Widernatürlichkeit</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>scannen</lemma>
+    <lemma>perversie</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>סריקה</lemma>
+    <lemma>עִקְשׁוּת</lemma>
   </synset>
 </multilingual-synset>

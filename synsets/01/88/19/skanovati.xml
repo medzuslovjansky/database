@@ -1,83 +1,81 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="15713"
+  id="18819"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="15713" steen:pos="m." steen:type="1" steen:genesis="I">
-      senzor
+    <lemma
+      steen:id="18819"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      skanovati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>sensor</lemma>
+    <lemma>scan</lemma>
   </synset>
   <synset lang="be">
-    <lemma>сэнсар</lemma>
-    <lemma>чуйнік</lemma>
-    <lemma>датчык</lemma>
+    <lemma>сканаваць</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>сензор</lemma>
+  <synset lang="bg">
+    <lemma>сканирам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>senzor</lemma>
+    <lemma>skenovat</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>osjetnik</lemma>
-    <lemma>senzor</lemma>
+    <lemma>skenirati</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>сензор</lemma>
+    <lemma>скенира</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>sensor</lemma>
+    <lemma>skanować</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>сенсор</lemma>
-    <lemma>датчик</lemma>
+    <lemma>сканировать</lemma>
   </synset>
   <synset lang="sk" verified="false">
-    <lemma>senzor</lemma>
+    <lemma>skenovať</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>senzor</lemma>
+    <lemma>skeniranje</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>сензор</lemma>
+    <lemma>скенирање</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>сенсор</lemma>
-    <lemma>датчик</lemma>
-    <lemma>датник</lemma>
-    <lemma>давач</lemma>
+    <lemma>сканувати</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>Sensilo</lemma>
+    <lemma>skani</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>sensor</lemma>
+    <lemma>escanear</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>capteur</lemma>
+    <lemma>analyse</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>sensore</lemma>
+    <lemma>scansione</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>sensor</lemma>
+    <lemma>Varredura</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>sensor</lemma>
+    <lemma>Scan</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Sensor</lemma>
+    <lemma>Scan</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>sensor</lemma>
+    <lemma>scannen</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>חיישן</lemma>
+    <lemma>סריקה</lemma>
   </synset>
 </multilingual-synset>

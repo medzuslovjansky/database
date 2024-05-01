@@ -1,79 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37004"
+  id="15713"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37004"
+      steen:id="15713"
       steen:pos="m."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      kondensator
+      sensor
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma annotation="electrical">capacitor</lemma>
+    <lemma>sensor</lemma>
   </synset>
   <synset lang="be">
-    <lemma>кандэнсатар</lemma>
+    <lemma>сэнсар</lemma>
+    <lemma>чуйнік</lemma>
+    <lemma>датчык</lemma>
   </synset>
-  <synset lang="bg">
-    <lemma>кондензатор</lemma>
+  <synset lang="bg" verified="false">
+    <lemma>сензор</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>kondenzátor</lemma>
+    <lemma>senzor</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>električni kondenzator</lemma>
+    <lemma>osjetnik</lemma>
+    <lemma>senzor</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>кондензатор</lemma>
+    <lemma>сензор</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>kondensator</lemma>
+    <lemma>sensor</lemma>
+    <lemma>czujnik</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>конденсатор</lemma>
+    <lemma>сенсор</lemma>
+    <lemma>датчик</lemma>
   </synset>
-  <synset lang="sk">
-    <lemma>kondenzátor</lemma>
+  <synset lang="sk" verified="false">
+    <lemma>senzor</lemma>
   </synset>
-  <synset lang="sl">
-    <lemma>kondenzator</lemma>
+  <synset lang="sl" verified="false">
+    <lemma>senzor</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>кондензатор</lemma>
+    <lemma>сензор</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>електричний конденсатор</lemma>
+    <lemma>сенсор</lemma>
+    <lemma>датчик</lemma>
+    <lemma>датник</lemma>
+    <lemma>давач</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma annotation="elektra">kondensilo</lemma>
+    <lemma>Sensilo</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma annotation="eléctrico">condensador</lemma>
+    <lemma>sensor</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma annotation="électrique">condensateur</lemma>
+    <lemma>capteur</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma annotation="elettrico">condensatore</lemma>
+    <lemma>sensore</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma annotation="elétrico">capacitor</lemma>
+    <lemma>sensor</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>sensor</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma annotation="elektrisch">Kondensator</lemma>
+    <lemma>Sensor</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>condensator</lemma>
+    <lemma>sensor</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma annotation="חשמלי">קבל</lemma>
+    <lemma>חיישן</lemma>
   </synset>
 </multilingual-synset>

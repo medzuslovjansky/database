@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37211"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37211"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z yu bg"
+    >
+      sleď
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>herring</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>селядзец</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>херинга</lemma>
+    <lemma>селда</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>sleď</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>sleđ</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>харинга</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>śledź</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>сельдь</lemma>
+    <lemma>селёдка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>sleď</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>sled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>слеђ</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оселедець</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>haringo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Hering</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>haring</lemma>
+  </synset>
+</multilingual-synset>

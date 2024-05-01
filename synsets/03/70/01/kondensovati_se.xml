@@ -15,15 +15,6 @@
     >
       kondensovati sę
     </lemma>
-    <lemma
-      steen:id="37001"
-      steen:pos="v.refl. ipf."
-      steen:type="1"
-      steen:same="v z j"
-      steen:genesis="I"
-    >
-      kondenzovati sę
-    </lemma>
   </synset>
   <synset lang="en">
     <lemma>condense</lemma>
@@ -50,8 +41,8 @@
   <synset lang="ru">
     <lemma>конденсироваться</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>kondenzovať</lemma>
+  <synset lang="sk">
+    <lemma annotation="sa">kondenzovať</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>kondenzirati se</lemma>

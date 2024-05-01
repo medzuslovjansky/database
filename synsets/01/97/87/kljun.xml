@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="19787" steen:pos="m." steen:type="1">kljun</lemma>
+    <lemma steen:id="19787" steen:pos="m." steen:type="2" steen:same="j">
+      kljun
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>beak</lemma>
@@ -38,7 +40,7 @@
     <lemma>zobák</lemma>
     <lemma>klovák</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>kljun</lemma>
   </synset>
   <synset lang="sr">

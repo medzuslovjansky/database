@@ -1,81 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37013"
+  id="36958"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37013"
-      steen:pos="f."
+      steen:id="36958"
+      steen:pos="m."
       steen:type="1"
       steen:same="v z j"
-      steen:genesis="I"
+      steen:genesis="E"
     >
-      konzola
+      skaner
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>console</lemma>
+    <lemma>scanner</lemma>
   </synset>
   <synset lang="be">
-    <lemma>кансоль</lemma>
-    <lemma>тэрмінал</lemma>
+    <lemma>сканер</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>konzola</lemma>
+  <synset lang="bg">
+    <lemma>скенер</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>konzole</lemma>
+    <lemma>skener</lemma>
   </synset>
-  <synset lang="hr" verified="false">
-    <lemma>konzola</lemma>
+  <synset lang="hr">
+    <lemma>skener</lemma>
   </synset>
-  <synset lang="mk" verified="false">
-    <lemma>конзола</lemma>
+  <synset lang="mk">
+    <lemma>скенер</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>konsola</lemma>
+    <lemma>skaner</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>консоль</lemma>
-    <lemma>~терминал</lemma>
+    <lemma>сканер</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>konzola</lemma>
+    <lemma>skener</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>konzola</lemma>
+  <synset lang="sl">
+    <lemma>skener</lemma>
+    <lemma>optični bralnik</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>конзола</lemma>
+    <lemma>скенер</lemma>
   </synset>
-  <synset lang="uk" verified="false">
-    <lemma>консоль</lemma>
+  <synset lang="uk">
+    <lemma>сканер</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>konzolo</lemma>
+    <lemma>skanilo</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>consola</lemma>
+    <lemma>escáner</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>console</lemma>
+    <lemma>scanner</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>consolle</lemma>
+    <lemma>scanner</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>console</lemma>
+    <lemma>scanner</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Konsole</lemma>
+    <lemma>Scanner</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>console</lemma>
+    <lemma>scanner</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>לְנַחֵם</lemma>
+    <lemma>סוֹרֵק</lemma>
   </synset>
 </multilingual-synset>
