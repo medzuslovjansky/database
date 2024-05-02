@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37221"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37221"
+      steen:pos="n.indecl."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="G"
+    >
+      mjusli
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>muesli</lemma>
+    <lemma>cereal</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мюслі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мюсли</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>müsli</lemma>
+    <lemma>ovesné vločky</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>muesli</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>мусли</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>musli</lemma>
+    <lemma>müsli</lemma>
+    <lemma>muesli</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мюсли</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>müsli</lemma>
+    <lemma>ovsené vločky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>muesli</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мусли</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>мюслі</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>muslio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Müsli</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>muesli</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37238"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37238"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="ru be sh bm"
+    >
+      časovnikaŕ
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>watchmaker</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гадзіншчык</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>часовникар</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>hodinář</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>urar</lemma>
+    <lemma>sajdžija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>часовничар</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zegarmistrz</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>часовщик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>hodinár</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>urar</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>часовничар</lemma>
+    <lemma>сајџија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>годинникар</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Uhrmacher</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>horlogemaker</lemma>
+  </synset>
+</multilingual-synset>

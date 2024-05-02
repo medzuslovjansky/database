@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37242"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37242"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z yu"
+      steen:genesis="I"
+    >
+      kapun
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>capon</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>каплун</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>каплун</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="kastrovaný kohout">kapoun</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kopun</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>копун</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kapłon</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>каплун</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kapún</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kopun</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>копун</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>каплун</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kapono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kapaun</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kapoen</lemma>
+  </synset>
+</multilingual-synset>

@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="4786" steen:pos="m." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="4786"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       ksilofon
     </lemma>
   </synset>
@@ -37,8 +43,8 @@
   <synset lang="sk">
     <lemma>xylofón</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>ksilofon</lemma>
+  <synset lang="sl">
+    <lemma>ksílofon</lemma>
   </synset>
   <synset lang="sr">
     <lemma>ксилофон</lemma>
@@ -64,7 +70,7 @@
   <synset lang="da" verified="false">
     <lemma>xylofon</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Xylophon</lemma>
   </synset>
   <synset lang="nl">

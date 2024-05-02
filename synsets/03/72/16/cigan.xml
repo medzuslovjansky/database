@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37216"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37216"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      cigan
+    </lemma>
+    <lemma
+      steen:id="37216"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      ciganin
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="m.">gypsy</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>цыган</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>циганин</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>сikán</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ciganin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>циганин</lemma>
+    <lemma>циган</lemma>
+    <lemma>ром</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>сygan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>цыган</lemma>
+    <lemma>цыганин</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>сigán</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>cigan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>циганин</lemma>
+    <lemma>циган</lemma>
+    <lemma>ром</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>циган</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Zigeuner</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>zigeuner</lemma>
+  </synset>
+</multilingual-synset>

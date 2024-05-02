@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37218"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37218"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl sk sl bm"
+    >
+      tutȯšnji
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>indigenous</lemma>
+    <lemma>local</lemma>
+    <lemma>from here</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тутэйшы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тукашен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zdejší</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ovdašnji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>овдешен</lemma>
+    <lemma>тукашен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tutejszy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>здешний</lemma>
+    <lemma annotation="просторечное">тутошний</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>tunajší</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tukajšnji</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>овдашњи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тутешній</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>lokaal</lemma>
+    <lemma>van hier</lemma>
+  </synset>
+</multilingual-synset>

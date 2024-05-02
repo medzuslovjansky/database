@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37243"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37243"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      evnuh
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>eunuch</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>валах</lemma>
+    <lemma>еўнух</lemma>
+    <lemma>пакладанец</lemma>
+    <lemma>лягчанец</lemma>
+    <lemma>кастрат</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>евнух</lemma>
+    <lemma>кастрат</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>eunuch</lemma>
+    <lemma annotation="kastrovaný muž">kleštěnec</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>eunuh</lemma>
+    <lemma>kastrat</lemma>
+    <lemma>skopec</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>евнух</lemma>
+    <lemma>кастрат</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>eunuch</lemma>
+    <lemma>kastrat</lemma>
+    <lemma>rzezaniec</lemma>
+    <lemma>trzebieniec</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>евнух</lemma>
+    <lemma>кастрат</lemma>
+    <lemma>скопец</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>eunuch</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>evnuh</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>евнух</lemma>
+    <lemma>ушкопљеник</lemma>
+    <lemma>кастрат</lemma>
+    <lemma>евнуг</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>євнух</lemma>
+    <lemma>кастрат</lemma>
+    <lemma>скопець</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kastrito</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Eunuch</lemma>
+    <lemma>Kastrat</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>eunuch</lemma>
+    <lemma>castraat</lemma>
+  </synset>
+</multilingual-synset>

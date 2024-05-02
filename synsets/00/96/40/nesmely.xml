@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="9640" steen:pos="adj." steen:type="1">nesměly</lemma>
+    <lemma steen:id="9640" steen:pos="adj." steen:type="1" steen:same="v z j">
+      nesměly
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>shy</lemma>
@@ -51,11 +53,10 @@
   <synset lang="sk">
     <lemma>nesmelý</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>nesmělá</lemma>
+  <synset lang="sl">
     <lemma>plašen</lemma>
     <lemma>sramežljiv</lemma>
-    <lemma>sramežljiv</lemma>
+    <lemma>nesmel</lemma>
   </synset>
   <synset lang="sr">
     <lemma>несмео</lemma>

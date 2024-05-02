@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37237"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37237"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v j sh bg"
+    >
+      vųdica
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>fishing rod</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вуда</lemma>
+    <lemma>вудачка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>въдица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>udice</lemma>
+    <lemma annotation="rybářský">prut</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>udica</lemma>
+    <lemma>ribarski štap</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>риболовен стап</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wędka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>удочка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>udica</lemma>
+    <lemma>rybársky prút</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ribiška palica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штап за пецање</lemma>
+    <lemma>пецаљка</lemma>
+    <lemma>пецалица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вудка</lemma>
+    <lemma>вудочка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>fiŝvergo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Angel</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>hengel</lemma>
+  </synset>
+</multilingual-synset>
