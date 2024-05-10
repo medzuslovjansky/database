@@ -10,7 +10,7 @@
       steen:id="30863"
       steen:pos="m."
       steen:type="1"
-      steen:same="ru uk z yu mk"
+      steen:same="v z yu mk"
     >
       tabor
     </lemma>
@@ -43,15 +43,17 @@
   <synset lang="ru">
     <lemma>лагерь</lemma>
     <lemma>табор</lemma>
+    <lemma>стан</lemma>
   </synset>
   <synset lang="sk">
     <lemma>tábor</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>kampiranje</lemma>
-    <lemma>kamp</lemma>
+  <synset lang="sl">
+    <lemma>tabor</lemma>
+    <lemma>taborišče</lemma>
   </synset>
   <synset lang="sr">
+    <lemma>табор</lemma>
     <lemma>камп</lemma>
     <lemma>логор</lemma>
   </synset>

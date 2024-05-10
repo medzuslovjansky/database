@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37257"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37257"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      emblema
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>emblem</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>эмблема</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>емблема</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>emblém</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>amblem</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>логото</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>emblemat</lemma>
+    <lemma>godło</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>эмблема</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>emblém</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>emblem</lemma>
+    <lemma>znak</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>амблем</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>емблема</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>embleem</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37266"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37266"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      debil
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>moron</lemma>
+    <lemma>imbecile</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэбіл</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>debil</lemma>
+    <lemma>kretén</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kreten</lemma>
+    <lemma>moron</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дебил</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>debil</lemma>
+    <lemma>kretyn</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дебил</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>debil</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дебил</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дебіл</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Schwachsinniger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>debiel</lemma>
+    <lemma>zwakzinnige</lemma>
+    <lemma>imbeciel</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37259"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37259"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl sh bm"
+      steen:genesis="I"
+    >
+      numeracija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>numeration</lemma>
+    <lemma>numbering</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>нумарацыя</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>номериране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>číslování</lemma>
+    <lemma>počítání</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>numeriranje</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>нумерирање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>numeracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>нумерация</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>rátanie</lemma>
+    <lemma>počítanie</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>številčenje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>нумерисање</lemma>
+    <lemma>нумерирање</lemma>
+    <lemma>обележавање бројевима</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>нумерація</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>nummering</lemma>
+  </synset>
+</multilingual-synset>

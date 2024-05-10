@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="645" steen:pos="f." steen:type="1">motyka</lemma>
+    <lemma steen:id="645" steen:pos="f." steen:type="1" steen:same="v z j">
+      motyka
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>mattock</lemma>
@@ -38,7 +40,7 @@
   <synset lang="sk">
     <lemma>motyka</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>motika</lemma>
   </synset>
   <synset lang="sr">

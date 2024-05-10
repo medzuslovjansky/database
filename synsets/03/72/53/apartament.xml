@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37253"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37253"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      apartament
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>apartment</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апартамент</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>апартамент</lemma>
+    <lemma>квартира</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>apartmán</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>apartman</lemma>
+    <lemma>stan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>стан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>apartament</lemma>
+    <lemma>mieszkanie</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>апартамент</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>apartmán</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>apartma</lemma>
+    <lemma>stanovanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>апартман</lemma>
+    <lemma>стан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>апартамент</lemma>
+    <lemma>квартира</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>apartement</lemma>
+  </synset>
+</multilingual-synset>

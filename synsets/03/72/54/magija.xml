@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37254"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37254"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      magija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>magic</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магія</lemma>
+    <lemma>чары</lemma>
+    <lemma>чарадзейства</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>магия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>čáry</lemma>
+    <lemma>magie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>magija</lemma>
+    <lemma>čarolija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>магија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>magia</lemma>
+    <lemma>czary</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>магия</lemma>
+    <lemma>чары</lemma>
+    <lemma>волшебство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mágia</lemma>
+    <lemma>čiary</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>magija</lemma>
+    <lemma>čarovništvo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>магија</lemma>
+    <lemma>мађија</lemma>
+    <lemma>чаролија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>магія</lemma>
+    <lemma>чари</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>magie</lemma>
+  </synset>
+</multilingual-synset>

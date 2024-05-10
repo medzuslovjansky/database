@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="935" steen:pos="m." steen:type="1">mozg</lemma>
+    <lemma steen:id="935" steen:pos="m." steen:type="1" steen:same="v z j">
+      mozg
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>brain</lemma>
@@ -35,8 +37,9 @@
   <synset lang="sk">
     <lemma>mozog</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>mozsk</lemma>
+  <synset lang="sl">
+    <lemma>pamet</lemma>
+    <lemma>možgani</lemma>
   </synset>
   <synset lang="sr">
     <lemma>мозск</lemma>
