@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37269"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37269"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      buljon
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>broth</lemma>
+    <lemma>bouillon</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>булён</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бульон</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vývar</lemma>
+    <lemma>bujón</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bujon</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>бујон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bulion</lemma>
+    <lemma>rosół</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бульон</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>vývar</lemma>
+    <lemma>bujón</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bujon</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>супа</lemma>
+    <lemma>јуха</lemma>
+    <lemma>чорба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бульйон</lemma>
+    <lemma>вивар</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>buljono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Brühe</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bouillon</lemma>
+  </synset>
+</multilingual-synset>

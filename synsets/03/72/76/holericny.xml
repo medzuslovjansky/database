@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37276"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37276"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      holeričny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>choleric</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>халерычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>холеричен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>cholerický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>koleričan</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>choleryczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>холерический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>cholerický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>koleričen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>колеричан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>холеричний</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cholerisch</lemma>
+  </synset>
+</multilingual-synset>

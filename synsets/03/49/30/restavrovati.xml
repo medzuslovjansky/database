@@ -6,18 +6,24 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="34930" steen:pos="v.tr. ipf./pf." steen:genesis="I">
+    <lemma
+      steen:id="34930"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       restavrovati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma annotation="architecture">restore</lemma>
+    <lemma annotation="a house, painting, old film">restore</lemma>
   </synset>
   <synset lang="be">
     <lemma>рэстаўраваць</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma annotation="архитектура">възстановяване</lemma>
+  <synset lang="bg">
+    <lemma>реставрирам</lemma>
   </synset>
   <synset lang="cs">
     <lemma>restaurovat</lemma>
@@ -34,12 +40,12 @@
   <synset lang="ru">
     <lemma>реставрировать</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>reštaurovať</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>obnoviti</lemma>
-    <lemma>povrniti</lemma>
+  <synset lang="sl">
+    <lemma>restavrirati</lemma>
+    <lemma>obnavljati</lemma>
   </synset>
   <synset lang="sr">
     <lemma>обнављати</lemma>

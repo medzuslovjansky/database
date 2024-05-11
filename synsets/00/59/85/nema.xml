@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="36994"
+  id="5985"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36994" steen:pos="adv." steen:type="1">nema</lemma>
-    <lemma steen:id="36994" steen:pos="adv." steen:type="1">nemaje</lemma>
+    <lemma steen:id="5985" steen:pos="adv." steen:type="1">nema</lemma>
+    <lemma steen:id="5985" steen:pos="adv." steen:type="1">nemaje</lemma>
   </synset>
   <synset lang="en">
     <lemma>there is/are no</lemma>
@@ -28,7 +28,7 @@
     <lemma>nema</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>нема</lemma>
+    <lemma annotation="имет снемано">нема</lemma>
   </synset>
   <synset lang="pl">
     <lemma>nie ma</lemma>
@@ -39,12 +39,10 @@
     <lemma>не существует</lemma>
     <lemma annotation="разг.-сниж.">нема</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>nemáme</lemma>
-    <lemma>neni</lemma>
-    <lemma>nie je</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>nima</lemma>
   </synset>
   <synset lang="sr">
@@ -60,30 +58,33 @@
     <lemma>malhaviĝas</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>hay/hay no</lemma>
-    <lemma>hay/no hay</lemma>
+    <lemma>Hay / no hay</lemma>
+    <lemma>no hay / no son</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>il n&apos;y a pas</lemma>
-    <lemma>il n&apos;y a pas</lemma>
+    <lemma>il est / sont pas</lemma>
+    <lemma>il n&apos;y a / ne sont pas</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>non c&apos;è/non ci sono</lemma>
-    <lemma>non c&apos;è/non ci sono</lemma>
+    <lemma>Non v&apos;è / non sono</lemma>
+    <lemma>non c&apos;è / non sono</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>não há/há não</lemma>
-    <lemma>há/não há</lemma>
+    <lemma>não é / não são</lemma>
+    <lemma>não é / não são</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>es ist / nicht sind</lemma>
-    <lemma>gibt es / sind nicht</lemma>
+  <synset lang="da" verified="false">
+    <lemma>der er / ikke er nogen</lemma>
+    <lemma>der er / ikke er</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>es gibt keinen/keine/kein</lemma>
   </synset>
   <synset lang="nl">
     <lemma>er is/zijn niet/geen</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>יש/אין</lemma>
-    <lemma>יש/אין</lemma>
+    <lemma>יש / אין</lemma>
+    <lemma>יש / אין</lemma>
   </synset>
 </multilingual-synset>
