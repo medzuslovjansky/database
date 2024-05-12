@@ -1,88 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="1482"
+  id="27122"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1482" steen:pos="adj." steen:type="2" steen:same="j">
-      lěnji
+    <lemma steen:id="27122" steen:pos="f." steen:type="2" steen:same="j">
+      lěnosť
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>lazy</lemma>
+    <lemma>laziness</lemma>
   </synset>
   <synset lang="be">
-    <lemma>ляны</lemma>
-    <lemma>ленаваты</lemma>
-    <lemma>лянотны</lemma>
-    <lemma>гультаяваты</lemma>
+    <lemma>лянота</lemma>
+    <lemma>гультайства</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>мързелив</lemma>
+    <lemma>мързел</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>líný</lemma>
+    <lemma>lenost</lemma>
   </synset>
   <synset lang="csb">
-    <lemma>zgnjiłi</lemma>
-  </synset>
-  <synset lang="dsb">
-    <lemma>gniły</lemma>
+    <lemma>zgnjiłota</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>lijeni</lemma>
-    <lemma>lijen</lemma>
+    <lemma>lijenost</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>мрзлив</lemma>
+    <lemma>мрзеливост</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>leniwy</lemma>
+    <lemma>lenistwo</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>ленивый</lemma>
+    <lemma>лень</lemma>
+    <lemma>леность</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>lenivý</lemma>
+    <lemma>lenivosť</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>len</lemma>
+    <lemma>lenoba</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>лењи</lemma>
-    <lemma>лен</lemma>
+    <lemma>лењивост</lemma>
+    <lemma>лењост</lemma>
+    <lemma>леност</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>лінивий</lemma>
-    <lemma>ледачий</lemma>
+    <lemma>ледачість</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>mallaborema</lemma>
+    <lemma>pigreco</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>perezoso</lemma>
+    <lemma>pereza</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>paresseux</lemma>
+    <lemma>paresse</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>pigro</lemma>
+    <lemma>pigrizia</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>preguiçoso</lemma>
+    <lemma>preguiça</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>doven</lemma>
+    <lemma>dovenskab</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>faul</lemma>
+    <lemma>Faulheit</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>lui</lemma>
+    <lemma>luiheid</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>עצלן</lemma>
+    <lemma>עצלנות</lemma>
   </synset>
 </multilingual-synset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37280"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37280"
+      steen:pos="adj."
+      steen:type="3"
+      steen:same="ub pl"
+      steen:genesis="G"
+    >
+      fajny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>cool</lemma>
+    <lemma>nice</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>файны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>готин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fajny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>клёвый</lemma>
+    <lemma>крутой</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>фин</lemma>
+    <lemma>леп</lemma>
+    <lemma>диван</lemma>
+    <lemma>згодан</lemma>
+    <lemma>сјајан</lemma>
+    <lemma>одличан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>файний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>mojosa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>cool</lemma>
+    <lemma>geil</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cool</lemma>
+    <lemma>leuk</lemma>
+  </synset>
+</multilingual-synset>

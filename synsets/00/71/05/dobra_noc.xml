@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="7105" steen:pos="intj." steen:type="1">Dobra noć!</lemma>
+    <lemma steen:id="7105" steen:pos="intj." steen:type="1" steen:same="v z j">
+      Dobra noć!
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>good night!</lemma>
