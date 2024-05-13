@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="6268" steen:pos="adj." steen:type="1">dŕžavny</lemma>
+    <lemma steen:id="6268" steen:pos="adj." steen:type="2" steen:same="ub j">
+      dŕžavny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>state</lemma>
@@ -38,8 +40,8 @@
   <synset lang="sk">
     <lemma>štátny</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>država</lemma>
+  <synset lang="sl">
+    <lemma>državen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>државни</lemma>

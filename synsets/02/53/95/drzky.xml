@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="25395" steen:pos="adj." steen:type="1">dŕzky</lemma>
+    <lemma
+      steen:id="25395"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be cs sl bm"
+    >
+      dŕzky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>bold</lemma>
@@ -58,11 +65,8 @@
     <lemma>smelý</lemma>
     <lemma>odvážny</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>drzno</lemma>
-    <lemma>pogumno</lemma>
-    <lemma>pogumen</lemma>
-    <lemma>nesramno</lemma>
+  <synset lang="sl">
+    <lemma>drzen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>смео</lemma>

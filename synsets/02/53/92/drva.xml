@@ -6,17 +6,19 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="25392" steen:pos="n.pl." steen:type="1">drva</lemma>
+    <lemma steen:id="25392" steen:pos="n.pl." steen:type="1" steen:same="v z j">
+      drva
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>timber</lemma>
-    <lemma>firewood</lemma>
+    <lemma>wood</lemma>
   </synset>
   <synset lang="be">
     <lemma>дровы</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>дърва за огрев</lemma>
+    <lemma>дърва</lemma>
   </synset>
   <synset lang="cs">
     <lemma>dříví</lemma>
@@ -30,7 +32,6 @@
   </synset>
   <synset lang="hr">
     <lemma>drva</lemma>
-    <lemma>drva za ogrjev</lemma>
   </synset>
   <synset lang="mk">
     <lemma>дрва</lemma>
@@ -44,13 +45,12 @@
   <synset lang="sk">
     <lemma>drevo</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>les ogreev</lemma>
+  <synset lang="sl">
+    <lemma>gozd</lemma>
     <lemma>drva</lemma>
   </synset>
   <synset lang="sr">
     <lemma>дрва</lemma>
-    <lemma>дрва за огрев</lemma>
   </synset>
   <synset lang="uk">
     <lemma>дрова</lemma>
