@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37298"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37298"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z bm"
+      steen:genesis="I"
+    >
+      kauzaľny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>causal</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прычынны</lemma>
+    <lemma>каўзальны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>причинен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>příčinný</lemma>
+    <lemma>kauzální</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>uzročan</lemma>
+    <lemma>kauzalni</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>причински</lemma>
+    <lemma>каузален</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przyczynowy</lemma>
+    <lemma>kauzalny</lemma>
+    <lemma>sprawczy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>причинный</lemma>
+    <lemma>каузальный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>príčinný</lemma>
+    <lemma>kauzálny</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vzročen</lemma>
+    <lemma>kavzalen</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>причинний</lemma>
+    <lemma>каузальний</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>kausal</lemma>
+    <lemma>ursächlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>causaal</lemma>
+  </synset>
+</multilingual-synset>

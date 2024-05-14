@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37300"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37300"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ub z sl bm"
+    >
+      spoćeny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>sweaty</lemma>
+    <lemma>covered in sweat</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>потны</lemma>
+    <lemma>спатнелы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>потен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zpocený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>znojan</lemma>
+    <lemma>uznojen</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>испотен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>spocony</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>потный</lemma>
+    <lemma>вспотевший</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spotený</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prepoten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>знојан</lemma>
+    <lemma>знојав</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>пітний</lemma>
+    <lemma>спітнілий</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>verschwitzt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bezweet</lemma>
+    <lemma>zweterig</lemma>
+  </synset>
+</multilingual-synset>

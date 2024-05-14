@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37288"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37288"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kapelan
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>chaplain</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>капелан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kaplan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>капелан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kapelan</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>капеллан</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kaplan</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>капелан</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kaplan</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>kapelaan</lemma>
+  </synset>
+</multilingual-synset>

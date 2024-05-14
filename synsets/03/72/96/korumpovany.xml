@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37296"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37296"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      korumpovany
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>corrupt</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>карумпаваны</lemma>
+    <lemma>прадажны</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zkorumpovaný</lemma>
+    <lemma>zkažený</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>korumpiran</lemma>
+    <lemma>podmitljiv</lemma>
+    <lemma>pokvaren</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>корумпиран</lemma>
+    <lemma>покварен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>skorumpowany</lemma>
+    <lemma>sprzedajny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>коррумпированный</lemma>
+    <lemma>продажный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>korumpovaný</lemma>
+    <lemma>skorumpovaný</lemma>
+    <lemma>predajný</lemma>
+    <lemma>úplatný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>korumpiran</lemma>
+    <lemma>podkupljiv</lemma>
+    <lemma>pokvarjen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поткупен</lemma>
+    <lemma>подмитен</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>корумпований</lemma>
+    <lemma>продажний</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>korrupt</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>corrupt</lemma>
+    <lemma>verdorven</lemma>
+  </synset>
+</multilingual-synset>

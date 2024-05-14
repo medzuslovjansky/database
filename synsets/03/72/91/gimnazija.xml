@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37291"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37291"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      gimnazija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>gymnasium</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гімназія</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>гимназия</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>gymnázium</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>gimnazija</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>gimnazjum</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>гимназия</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>gimnazija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гимназија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>гімназія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>gimnazio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gymnasium</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gymnasium</lemma>
+  </synset>
+</multilingual-synset>
