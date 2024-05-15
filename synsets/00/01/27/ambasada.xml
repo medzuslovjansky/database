@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="127" steen:pos="f." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="127"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="ub z yu mk"
+      steen:genesis="I"
+    >
       ambasada
     </lemma>
   </synset>

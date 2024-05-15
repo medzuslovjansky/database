@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24310" steen:pos="m.sg." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="24310"
+      steen:pos="m.sg."
+      steen:type="2"
+      steen:same="z yu mk"
+      steen:genesis="I"
+    >
       analfabetizm
     </lemma>
   </synset>

@@ -6,12 +6,20 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1525" steen:pos="v.intr. ipf." steen:type="2">
-      truditi
+    <lemma
+      steen:id="1525"
+      steen:pos="v.refl. ipf."
+      steen:type="2"
+      steen:same="ru uk pl j"
+    >
+      truditi sę
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>work</lemma>
+    <lemma>labour</lemma>
+    <lemma>labor</lemma>
+    <lemma>toil</lemma>
+    <lemma>work hard</lemma>
   </synset>
   <synset lang="be">
     <lemma>працаваць</lemma>
@@ -19,6 +27,7 @@
   </synset>
   <synset lang="bg">
     <lemma>работя</lemma>
+    <lemma>трудя се</lemma>
   </synset>
   <synset lang="cs">
     <lemma>pracovat</lemma>
@@ -36,6 +45,7 @@
   </synset>
   <synset lang="pl">
     <lemma>pracować</lemma>
+    <lemma>trudzić się</lemma>
   </synset>
   <synset lang="ru">
     <lemma>работать</lemma>
@@ -45,9 +55,9 @@
     <lemma>robiť</lemma>
     <lemma>pracovať</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>delo</lemma>
-    <lemma>prizadevanje</lemma>
+  <synset lang="sl">
+    <lemma>garati</lemma>
+    <lemma>truditi se</lemma>
   </synset>
   <synset lang="sr">
     <lemma>радити</lemma>
@@ -80,8 +90,10 @@
     <lemma>Arbeit</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>werken</lemma>
     <lemma>arbeiden</lemma>
+    <lemma>hard werken</lemma>
+    <lemma>zich inspannen</lemma>
+    <lemma>moeite doen</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>עבודה</lemma>

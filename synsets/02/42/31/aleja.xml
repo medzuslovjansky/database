@@ -6,12 +6,19 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24231" steen:pos="f." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="24231"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       aleja
     </lemma>
   </synset>
   <synset lang="en">
     <lemma>avenue</lemma>
+    <lemma>alley</lemma>
   </synset>
   <synset lang="be">
     <lemma>алея</lemma>
@@ -19,6 +26,7 @@
   </synset>
   <synset lang="bg">
     <lemma>булевард</lemma>
+    <lemma>алея</lemma>
   </synset>
   <synset lang="cs">
     <lemma>alej</lemma>

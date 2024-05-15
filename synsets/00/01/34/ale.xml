@@ -6,18 +6,31 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="134" steen:pos="conj." steen:type="1">ale</lemma>
+    <lemma
+      steen:id="134"
+      steen:pos="conj."
+      steen:type="1"
+      steen:same="ub z sh bg"
+    >
+      ale
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>but</lemma>
   </synset>
   <synset lang="be">
     <lemma>але</lemma>
+    <lemma>аднак</lemma>
+    <lemma>а</lemma>
+    <lemma>ды</lemma>
   </synset>
   <synset lang="bg">
     <lemma>но</lemma>
+    <lemma>обаче</lemma>
+    <lemma>ала</lemma>
   </synset>
   <synset lang="cs">
+    <lemma>leč</lemma>
     <lemma>ale</lemma>
   </synset>
   <synset lang="csb">
@@ -34,6 +47,10 @@
   </synset>
   <synset lang="hr">
     <lemma>ali</lemma>
+    <lemma>ipak</lemma>
+    <lemma>no</lemma>
+    <lemma>nego</lemma>
+    <lemma>već</lemma>
   </synset>
   <synset lang="hsb">
     <lemma>ale</lemma>
@@ -41,28 +58,33 @@
     <lemma>tola</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>но</lemma>
     <lemma>ама</lemma>
+    <lemma>но</lemma>
+    <lemma>сепак</lemma>
   </synset>
   <synset lang="pl">
     <lemma>ale</lemma>
+    <lemma>lecz</lemma>
   </synset>
   <synset lang="ru">
     <lemma>но</lemma>
   </synset>
   <synset lang="sk">
+    <lemma>lež</lemma>
     <lemma>ale</lemma>
+    <lemma>no</lemma>
   </synset>
   <synset lang="sl">
     <lemma>ampak</lemma>
-    <lemma>a</lemma>
     <lemma>toda</lemma>
     <lemma>vendar</lemma>
   </synset>
   <synset lang="sr">
     <lemma>али</lemma>
-    <lemma>а</lemma>
+    <lemma>ипак</lemma>
+    <lemma>но</lemma>
     <lemma>него</lemma>
+    <lemma>већ</lemma>
   </synset>
   <synset lang="uk">
     <lemma>але</lemma>

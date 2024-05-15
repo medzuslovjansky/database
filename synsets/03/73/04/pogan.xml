@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37304"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37304"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="z yu mk"
+    >
+      pogan
+    </lemma>
+    <lemma
+      steen:id="37304"
+      steen:pos="m.anim."
+      steen:type="2"
+      steen:same="z yu mk"
+    >
+      poganin
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>heathen</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>язычнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>езичник</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pohan</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>ꙗзꙑчьникъ</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pogan</lemma>
+    <lemma>poganin</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>паганин</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>poganin</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>язычник</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>pohan</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>pogan</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>поган</lemma>
+    <lemma>поганин</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>язичник</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Heide</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>heiden</lemma>
+  </synset>
+</multilingual-synset>

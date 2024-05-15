@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24269" steen:pos="adj." steen:genesis="I">
+    <lemma
+      steen:id="24269"
+      steen:pos="adj."
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
       alveolarny
     </lemma>
   </synset>
