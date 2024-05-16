@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2208" steen:pos="m." steen:type="1">želųď</lemma>
+    <lemma steen:id="2208" steen:pos="m." steen:type="1" steen:same="v z sl bm">
+      želųď
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>acorn</lemma>
@@ -43,8 +45,8 @@
   <synset lang="sk">
     <lemma>žaluď</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>žirija</lemma>
+  <synset lang="sl">
+    <lemma>želod</lemma>
   </synset>
   <synset lang="sr">
     <lemma>жир</lemma>
