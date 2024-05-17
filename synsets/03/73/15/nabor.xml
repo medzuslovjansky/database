@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37315"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37315"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z sl bg"
+    >
+      nabor
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>recruitment</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>вярбоўка</lemma>
+    <lemma>вербаванне</lemma>
+    <lemma>набор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>рекрутиране</lemma>
+    <lemma>набиране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nábor</lemma>
+    <lemma>najimaní</lemma>
+    <lemma>verbování</lemma>
+    <lemma>rekrutování</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>vrbovanje</lemma>
+    <lemma>regrutacija</lemma>
+    <lemma>novačenje</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>собирање</lemma>
+    <lemma>регрутација</lemma>
+    <lemma>регрутирање</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>rekrutacja</lemma>
+    <lemma>werbunek</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>вербовка</lemma>
+    <lemma>набор</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nábor</lemma>
+    <lemma>verbovačka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>rekrutiranje</lemma>
+    <lemma>nabor</lemma>
+    <lemma>novačenje</lemma>
+    <lemma>pridobivanje</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>врбовање</lemma>
+    <lemma>регрутовање</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>вербування</lemma>
+    <lemma>вербунок</lemma>
+    <lemma>набір</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Rekrutierung</lemma>
+    <lemma>Anwerbung</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>werving</lemma>
+    <lemma>recrutering</lemma>
+  </synset>
+</multilingual-synset>
