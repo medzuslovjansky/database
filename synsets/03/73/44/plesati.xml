@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37344"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37344"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="ru pl sk yu"
+    >
+      plęsati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>dance</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>танцаваць</lemma>
+    <lemma>танчыць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>танцувам</lemma>
+    <lemma>играя</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>tancovat</lemma>
+    <lemma>tančit</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>плѧсати</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>plesati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>танцува</lemma>
+    <lemma>игра</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pląsać</lemma>
+    <lemma>tańczyć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>плясать</lemma>
+    <lemma>танцевать</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>plesať</lemma>
+    <lemma>tancovať</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>plesati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>плесати</lemma>
+    <lemma>играти</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>танцювати</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>tanzen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>dansen</lemma>
+  </synset>
+</multilingual-synset>

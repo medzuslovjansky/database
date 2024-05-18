@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2901" steen:pos="f." steen:type="1">zavěsa</lemma>
+    <lemma steen:id="2901" steen:pos="f." steen:type="1" steen:same="uk cs j">
+      zavěsa
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>curtain</lemma>
@@ -32,6 +34,7 @@
   </synset>
   <synset lang="pl">
     <lemma>kurtyna</lemma>
+    <lemma>zasłona</lemma>
   </synset>
   <synset lang="ru">
     <lemma>завеса</lemma>
@@ -48,10 +51,8 @@
   <synset lang="sr">
     <lemma>завеса</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>завіса</lemma>
-    <lemma>завіса</lemma>
-    <lemma>фіранка</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>kurtenon</lemma>

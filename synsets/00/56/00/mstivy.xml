@@ -6,10 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5600" steen:pos="adj." steen:type="1">mstivy</lemma>
+    <lemma steen:id="5600" steen:pos="adj." steen:type="1" steen:same="v z bg">
+      mstivy
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>revengeful</lemma>
+    <lemma>vindicative</lemma>
   </synset>
   <synset lang="be">
     <lemma>помслівы</lemma>
@@ -27,6 +30,7 @@
   </synset>
   <synset lang="mk">
     <lemma>одмаздољубив</lemma>
+    <lemma>осветлив</lemma>
   </synset>
   <synset lang="pl">
     <lemma>mściwy</lemma>
@@ -35,10 +39,11 @@
     <lemma>мстительный</lemma>
   </synset>
   <synset lang="sk">
+    <lemma>pomstivý</lemma>
     <lemma>pomstychtivý</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>maščevalni</lemma>
+  <synset lang="sl">
+    <lemma>maščevalen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>осветољубив</lemma>
@@ -64,11 +69,12 @@
   <synset lang="da" verified="false">
     <lemma>hævngerrig</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>rachsüchtig</lemma>
   </synset>
   <synset lang="nl">
     <lemma>wraakzuchtig</lemma>
+    <lemma>rancuneus</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>נַקמָנִי</lemma>

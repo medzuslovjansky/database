@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="31589" steen:pos="f." steen:type="1">zavisnosť</lemma>
+    <lemma steen:id="31589" steen:pos="f." steen:type="1" steen:same="ru cs sl">
+      zavisnosť
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>dependence</lemma>
@@ -36,7 +38,7 @@
   <synset lang="sk" verified="false">
     <lemma>závislosť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>odvisnost</lemma>
   </synset>
   <synset lang="sr">

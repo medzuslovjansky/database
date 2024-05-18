@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37326"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37326"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:same="v z yu mk"
+      steen:genesis="D"
+    >
+      dur
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="scale">major</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мажор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>мажор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>дур</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мажор</lemma>
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дур</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мажор</lemma>
+    <lemma>dur</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Dur</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="toonsoort">groot</lemma>
+    <lemma>majeur</lemma>
+  </synset>
+</multilingual-synset>

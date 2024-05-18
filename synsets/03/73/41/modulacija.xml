@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37341"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37341"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      modulacija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="music">modulation</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мадуляцыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>модулация</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>modulace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>modulacija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>модулација</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>modulacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>модуляция</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>modulácia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>modulacija</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="муз.">модулација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>модуляція</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>modulatie</lemma>
+  </synset>
+</multilingual-synset>

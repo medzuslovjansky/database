@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37328"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37328"
+      steen:pos="m.indecl."
+      steen:type="1"
+      steen:same="v z yu mk"
+      steen:genesis="D"
+    >
+      mol
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="scale">minor</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мінор</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>минор</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>moll</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>mol</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>мол</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>moll</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>минор</lemma>
+    <lemma>moll</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>mol</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>mol</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мол</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мінор</lemma>
+    <lemma>moll</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Moll</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="toonsoort">klein</lemma>
+    <lemma>mineur</lemma>
+  </synset>
+</multilingual-synset>

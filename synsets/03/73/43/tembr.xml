@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37343"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37343"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      tembr
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>timbre</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>тэмбр</lemma>
+    <lemma>тэмбар</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>тембър</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>témbr</lemma>
+    <lemma>timbre</lemma>
+    <lemma>zabarvení tónu</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>timbar</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>тембр</lemma>
+    <lemma>боја на тон</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>tembr</lemma>
+    <lemma>timbre</lemma>
+    <lemma>barwa dźwięku</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>тембр</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>timbre</lemma>
+    <lemma>zafarbenie tónu</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>zven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тимбар</lemma>
+    <lemma>боја звука</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>тембр</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>tembro</lemma>
+    <lemma>sonkoloro</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>timbre</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37339"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37339"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      konsonans
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>consonance</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кансананс</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>консонанс</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>soulad</lemma>
+    <lemma>souznění</lemma>
+    <lemma>konzonance</lemma>
+    <lemma>libozvuk</lemma>
+    <lemma>konsonantnost</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konsonanca</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>консонанција</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konsonans</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>консонанс</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>súznenie</lemma>
+    <lemma>súzvuk</lemma>
+    <lemma>súlad</lemma>
+    <lemma>konsonancia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>konsonanca</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>консонанца</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>консонанс</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="muziek">consonant</lemma>
+  </synset>
+</multilingual-synset>

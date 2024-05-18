@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37337"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37337"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      modaľnosť
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>modality</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>мадальнасць</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>modalita</lemma>
+    <lemma>tonalita</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>modalitet</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>modalność</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>модальность</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>modalita</lemma>
+    <lemma>tonalita</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>модалност</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>модальність</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Modalität</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>modaliteit</lemma>
+  </synset>
+</multilingual-synset>
