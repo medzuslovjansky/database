@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37368"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37368" steen:pos="f." steen:type="2" steen:same="ru cs bg">
+      učetovoditeljka
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="f.">accountant</lemma>
+    <lemma annotation="f.">bookkeeper</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>бухгалтарка</lemma>
+    <lemma>рахункаводка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>счетоводителка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="f.">účetní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>računovotkinja</lemma>
+    <lemma>knjigovotkinja</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>сметководителка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>księgowa</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>бухгалтерша</lemma>
+    <lemma>счетоводка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>účtovníčka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>računovodkinja</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>рачуновоткиња</lemma>
+    <lemma>књиговоткиња</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>бухгалтерка</lemma>
+    <lemma>рахівниця</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kalkulistino</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Buchhalterin</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>boekhoudster</lemma>
+    <lemma annotation="f.">accountant</lemma>
+  </synset>
+</multilingual-synset>

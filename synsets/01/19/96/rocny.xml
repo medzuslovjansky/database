@@ -6,17 +6,19 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="11996" steen:pos="adj." steen:type="1">ročny</lemma>
+    <lemma steen:id="11996" steen:pos="adj." steen:type="2" steen:same="uk z">
+      ročny
+    </lemma>
   </synset>
   <synset lang="en">
+    <lemma>annual</lemma>
     <lemma>yearly</lemma>
+    <lemma annotation="pertaining to a year">year’s</lemma>
   </synset>
   <synset lang="be">
     <lemma>гадавы</lemma>
-    <lemma>штогадовы</lemma>
-    <lemma>штогодні</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>годишен</lemma>
   </synset>
   <synset lang="cs">
@@ -32,24 +34,24 @@
     <lemma>roczny</lemma>
   </synset>
   <synset lang="ru">
+    <lemma>годичный</lemma>
     <lemma>годовой</lemma>
-    <lemma>ежегодный</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>ročná</lemma>
+  <synset lang="sk">
+    <lemma>ročný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>letno</lemma>
+  <synset lang="sl">
+    <lemma>leten</lemma>
   </synset>
   <synset lang="sr">
     <lemma>годишњи</lemma>
   </synset>
   <synset lang="uk">
     <lemma>річний</lemma>
-    <lemma>щорічний</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>ĉiujare</lemma>
+  <synset lang="eo">
+    <lemma>jara</lemma>
+    <lemma>jar-</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>anual</lemma>
@@ -66,11 +68,12 @@
   <synset lang="da" verified="false">
     <lemma>årligt</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>jährlich</lemma>
+  <synset lang="de">
+    <lemma>järig</lemma>
+    <lemma>Jahres-</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>jaarlijks</lemma>
+    <lemma>jaar-</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>שנתי</lemma>

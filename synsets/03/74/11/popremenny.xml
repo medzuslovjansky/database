@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37411"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37411"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="v pl bg"
+    >
+      poprěměnny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>alternating</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>пераменны</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>променлив</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>střídavý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>naizmjeničan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>наизменичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>naprzemienny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>переменный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>striedavý</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>izmeničen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>наизменичан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>переміжний</lemma>
+    <lemma>поперемінний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>alterne</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>abwechselnd</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>afwisselend</lemma>
+  </synset>
+</multilingual-synset>

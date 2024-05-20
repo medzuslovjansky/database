@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="16828" steen:pos="adv." steen:type="2" steen:same="v pl">
+    <lemma steen:id="16828" steen:pos="conj." steen:type="2" steen:same="v pl">
       kako toliko
     </lemma>
   </synset>
@@ -43,9 +43,9 @@
   <synset lang="sk">
     <lemma>akonáhle</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>takoj</lemma>
-    <lemma>ko</lemma>
+  <synset lang="sl">
+    <lemma>čim</lemma>
+    <lemma>brž ko</lemma>
   </synset>
   <synset lang="sr">
     <lemma>чим</lemma>
@@ -72,7 +72,7 @@
   <synset lang="da" verified="false">
     <lemma>så snart</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>sobald</lemma>
   </synset>
   <synset lang="nl">

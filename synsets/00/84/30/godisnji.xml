@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="8430"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="8430" steen:pos="adj." steen:type="3" steen:same="sh bm">
+      godišnji
+    </lemma>
+    <lemma steen:id="8430" steen:pos="adj." steen:type="3" steen:same="sh bm">
+      godišny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>annual</lemma>
+    <lemma annotation="happening once a year or every year">yearly</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>штогадовы</lemma>
+    <lemma>штогодні</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ежегоден</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>každoroční</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>godišnji</lemma>
+    <lemma>svakogodišnji</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>годишен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>coroczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ежегодный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>každoročný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vsakoleten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>годишњи</lemma>
+    <lemma>свакогодишњи</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>щорічний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ĉiujara</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>anual</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>annuel</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>annuale</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>anual</lemma>
+  </synset>
+  <synset lang="da" verified="false">
+    <lemma>årligt</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>jährlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>jaarlijks</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>שנתי</lemma>
+  </synset>
+</multilingual-synset>

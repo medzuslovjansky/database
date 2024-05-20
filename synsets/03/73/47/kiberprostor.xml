@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37347"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37347"
+      steen:pos="m."
+      steen:type="2"
+      steen:same="ub cs yu mk"
+    >
+      kiberprostor
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>cyberspace</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>киберпространство</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kyberprostor</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kibernetski prostor</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>cyberprzestrzeń</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>киберпространство</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kyberpriestor</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>kibernetski prostor</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кибернетски простор</lemma>
+    <lemma>сајберспејс</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кіберпростір</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Cyberspace</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cyberspace</lemma>
+  </synset>
+</multilingual-synset>

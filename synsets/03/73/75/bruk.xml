@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37375"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37375" steen:pos="m." steen:type="2" steen:same="ub pl">
+      bruk
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="road surface">pavement</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>маставая</lemma>
+    <lemma>брук</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>паваж</lemma>
+    <lemma>пътна настилка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>dlažba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kaldrma</lemma>
+    <lemma>pločnik</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>тротоар</lemma>
+    <lemma>плочник</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bruk</lemma>
+    <lemma>nawierzchnia drogi</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>мостовая</lemma>
+    <lemma>брусчатка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>dlažba</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>vozišče</lemma>
+    <lemma>cestišče</lemma>
+    <lemma>tlak</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>калдрма</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>мостова</lemma>
+    <lemma>бруківка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>pavimo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Straßenpflaster</lemma>
+    <lemma>Fahrbahndecke</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bestrating</lemma>
+    <lemma>plaveisel</lemma>
+    <lemma>wegdek</lemma>
+  </synset>
+</multilingual-synset>

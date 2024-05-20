@@ -19,14 +19,14 @@
   <synset lang="en">
     <lemma>sidewalk</lemma>
     <lemma>trottoir</lemma>
+    <lemma annotation="footway">pavement</lemma>
   </synset>
   <synset lang="be">
     <lemma>тратуар</lemma>
     <lemma>ходнік</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>на тротоара</lemma>
-    <lemma>на тротоара</lemma>
+  <synset lang="bg">
+    <lemma>тротоар</lemma>
   </synset>
   <synset lang="cs">
     <lemma>chodník</lemma>
@@ -45,10 +45,10 @@
   <synset lang="ru">
     <lemma>тротуар</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>chodník</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>pločnik</lemma>
   </synset>
   <synset lang="sr">
@@ -81,8 +81,9 @@
     <lemma>fortovet</lemma>
     <lemma>trottoir</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Gehweg</lemma>
+    <lemma>Bürgersteig</lemma>
     <lemma>Trottoir</lemma>
   </synset>
   <synset lang="nl">

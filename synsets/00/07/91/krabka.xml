@@ -6,20 +6,23 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="791" steen:pos="f." steen:type="1">kråbka</lemma>
+    <lemma steen:id="791" steen:pos="f." steen:type="2" steen:same="v cs">
+      kråbka
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>box</lemma>
   </synset>
   <synset lang="be">
+    <lemma>каробка</lemma>
     <lemma>скрынка</lemma>
-    <lemma>пачак</lemma>
   </synset>
   <synset lang="bg">
     <lemma>кутия</lemma>
+    <lemma>кашон</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>krabička</lemma>
+    <lemma>krabice</lemma>
   </synset>
   <synset lang="hr">
     <lemma>kutija</lemma>
@@ -29,15 +32,15 @@
     <lemma>кутија</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>pudełko</lemma>
+    <lemma>pudło</lemma>
   </synset>
   <synset lang="ru">
     <lemma>коробка</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>krabička</lemma>
+    <lemma>krabica</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>škatla</lemma>
   </synset>
   <synset lang="sr">
@@ -64,12 +67,12 @@
   <synset lang="da" verified="false">
     <lemma>boks</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Box</lemma>
+  <synset lang="de">
+    <lemma>Kasten</lemma>
+    <lemma>Schachtel</lemma>
   </synset>
   <synset lang="nl">
     <lemma>doos</lemma>
-    <lemma>doosje</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>קופסא</lemma>

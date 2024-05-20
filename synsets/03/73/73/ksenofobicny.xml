@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37373"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37373"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      ksenofobičny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>xenophobic</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>ксенофобен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>xenofobní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>ksenofopski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>ксенофобичен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ksenofobiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>ксенофобский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>xénofóbický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>ksenofobičen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>ксенофопски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ксенофобський</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ksenofobia</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>xenophobisch</lemma>
+    <lemma>fremdenfeindlich</lemma>
+    <lemma>ausländerfeindlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>xenofoob</lemma>
+    <lemma>xenofobisch</lemma>
+  </synset>
+</multilingual-synset>

@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="4667" steen:pos="f." steen:type="1" steen:same="v z j">
+    <lemma steen:id="4667" steen:pos="f." steen:type="2" steen:same="v pl cz">
       taliŕka
     </lemma>
   </synset>
@@ -41,6 +41,7 @@
   </synset>
   <synset lang="pl">
     <lemma>talerz</lemma>
+    <lemma>talerzyk</lemma>
   </synset>
   <synset lang="ru">
     <lemma>тарелка</lemma>
@@ -48,8 +49,7 @@
   <synset lang="sk">
     <lemma>tanier</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>plošča</lemma>
+  <synset lang="sl">
     <lemma>krožnik</lemma>
   </synset>
   <synset lang="sr">
@@ -59,8 +59,8 @@
   <synset lang="uk">
     <lemma>тарілка</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>plado</lemma>
+  <synset lang="eo">
+    <lemma>telero</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>plato</lemma>
@@ -77,7 +77,7 @@
   <synset lang="da" verified="false">
     <lemma>plade</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Teller</lemma>
   </synset>
   <synset lang="nl">

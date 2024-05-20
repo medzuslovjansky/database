@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37412"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37412"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl cz"
+    >
+      pospěšny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>hasty</lemma>
+    <lemma>hurried</lemma>
+    <lemma>rash</lemma>
+    <lemma>rushed</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паспешны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>бърз</lemma>
+    <lemma>прибързан</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>spěšný</lemma>
+    <lemma>unáhlený</lemma>
+    <lemma>chvatný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>žuran</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>брз</lemma>
+    <lemma>итен</lemma>
+    <lemma>забрзан</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>pośpieszny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поспешный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>unáhlený</lemma>
+    <lemma>chvatný</lemma>
+    <lemma>rýchly</lemma>
+    <lemma>spešný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>hiter</lemma>
+    <lemma>prenagljen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>журан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поспішний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>haste</lemma>
+    <lemma>haste</lemma>
+    <lemma>haste</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>eilig</lemma>
+    <lemma>hastig</lemma>
+    <lemma>rasch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>haastig</lemma>
+    <lemma>gehaast</lemma>
+  </synset>
+</multilingual-synset>

@@ -12,6 +12,7 @@
     <lemma>title</lemma>
     <lemma>heading</lemma>
     <lemma>header</lemma>
+    <lemma>headline</lemma>
   </synset>
   <synset lang="be">
     <lemma>загаловак</lemma>
@@ -24,6 +25,7 @@
     <lemma>název</lemma>
     <lemma>nadpis</lemma>
     <lemma>záhlaví</lemma>
+    <lemma>titulek</lemma>
   </synset>
   <synset lang="hr">
     <lemma>naslov</lemma>
@@ -46,24 +48,23 @@
     <lemma>názov</lemma>
     <lemma>nadpis</lemma>
     <lemma>záhlavie</lemma>
+    <lemma>titulok</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>naslov</lemma>
+  <synset lang="sl">
     <lemma>naslov</lemma>
   </synset>
   <synset lang="sr">
     <lemma>заглавље</lemma>
     <lemma>наслов</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>заголовок</lemma>
     <lemma>заголовок</lemma>
     <lemma>титул</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>titolo</lemma>
-    <lemma>rubriko</lemma>
-    <lemma>surskribo</lemma>
+  <synset lang="eo">
+    <lemma>ĉeftitolo</lemma>
+    <lemma>kaplinio</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>título</lemma>
@@ -90,14 +91,14 @@
     <lemma>overskrift</lemma>
     <lemma>header</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Titel</lemma>
+  <synset lang="de">
     <lemma>Überschrift</lemma>
-    <lemma>Kopf</lemma>
+    <lemma>Schlagzeile</lemma>
   </synset>
   <synset lang="nl">
     <lemma>briefhoofd</lemma>
     <lemma>koptekst</lemma>
+    <lemma>krantenkop</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>כותרת</lemma>

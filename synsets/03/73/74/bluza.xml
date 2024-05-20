@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37374"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37374"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      bluza
+    </lemma>
+    <lemma
+      steen:id="37374"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      bluzka
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>blouse</lemma>
+    <lemma annotation="garment">top</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>блуза</lemma>
+    <lemma>блузка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>блуза</lemma>
+    <lemma>блузка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>blůza</lemma>
+    <lemma>blůzka</lemma>
+    <lemma>halenka</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>bluza</lemma>
+    <lemma>bluzica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>блуза</lemma>
+    <lemma>блузичка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>bluzka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>блуза</lemma>
+    <lemma>блузка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>blúza</lemma>
+    <lemma>blúzka</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>bluza</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>мајица</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>блуза</lemma>
+    <lemma>блузка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bluzo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Bluse</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bloes</lemma>
+    <lemma>blouse</lemma>
+  </synset>
+</multilingual-synset>

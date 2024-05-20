@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37409"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37409"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z sl bg"
+    >
+      nedostatȯčny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>insufficient</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>недастатковы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>недостатъчен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>nedostatečný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>nedovoljan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>недоволен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>niedostateczny</lemma>
+    <lemma>niewystarczający</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>недостаточно</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>nedostatočný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>nezadosten</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>недовољан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>недостатній</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>nesufiĉa</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>unzureichend</lemma>
+    <lemma>ungenügend</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>onvoldoende</lemma>
+    <lemma>ontoereikend</lemma>
+  </synset>
+</multilingual-synset>

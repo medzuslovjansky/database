@@ -12,12 +12,13 @@
       steen:type="1"
       steen:same="v z j~"
     >
-      zatmiti
+      zaťmiti
     </lemma>
   </synset>
   <synset lang="en">
     <lemma>eclipse</lemma>
     <lemma>obscure</lemma>
+    <lemma>overshadow</lemma>
   </synset>
   <synset lang="be">
     <lemma>засланіць</lemma>
@@ -26,6 +27,7 @@
   </synset>
   <synset lang="bg">
     <lemma>затъмня</lemma>
+    <lemma>засенчам</lemma>
   </synset>
   <synset lang="cs">
     <lemma>zatmít</lemma>
@@ -33,11 +35,13 @@
     <lemma>zastínit</lemma>
   </synset>
   <synset lang="hr">
+    <lemma>zasjeniti</lemma>
     <lemma>pomračiti</lemma>
     <lemma>zamračiti</lemma>
   </synset>
   <synset lang="mk">
     <lemma>затемни</lemma>
+    <lemma>засени</lemma>
     <lemma>замрачи</lemma>
     <lemma>помрачи</lemma>
   </synset>
@@ -51,15 +55,17 @@
     <lemma>затенить</lemma>
     <lemma>затемнить</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>zatmiť</lemma>
     <lemma>zatieniť</lemma>
     <lemma>zatemniť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>potemnite Pomutiti</lemma>
+  <synset lang="sl">
+    <lemma>zasenčiti</lemma>
+    <lemma>zatemniti</lemma>
   </synset>
   <synset lang="sr">
+    <lemma>засенити</lemma>
     <lemma>помрачити</lemma>
     <lemma>замрачити</lemma>
   </synset>
@@ -90,9 +96,9 @@
     <lemma>Eclipse</lemma>
     <lemma>tilsløre</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Eklipse</lemma>
-    <lemma>dunkel</lemma>
+  <synset lang="de">
+    <lemma>verdunkeln</lemma>
+    <lemma>überschatten</lemma>
   </synset>
   <synset lang="nl">
     <lemma>verduisteren</lemma>

@@ -6,20 +6,27 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="18900" steen:pos="m." steen:type="2">stěnj</lemma>
+    <lemma steen:id="18900" steen:pos="m." steen:type="3" steen:same="be cz">
+      stěnj
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>shadow</lemma>
+    <lemma>shade</lemma>
   </synset>
   <synset lang="be">
     <lemma>сцень</lemma>
     <lemma>цень</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>сянка</lemma>
   </synset>
   <synset lang="cs">
     <lemma>stín</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>тѣня</lemma>
+    <lemma>сѣнь</lemma>
   </synset>
   <synset lang="dsb">
     <lemma>chłodk</lemma>
@@ -39,7 +46,7 @@
   <synset lang="sk">
     <lemma>tieň</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>senca</lemma>
   </synset>
   <synset lang="sr">
@@ -49,7 +56,7 @@
   <synset lang="uk">
     <lemma>тінь</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>ombro</lemma>
   </synset>
   <synset lang="es" verified="false">

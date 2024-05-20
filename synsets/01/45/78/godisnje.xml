@@ -6,20 +6,29 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14578" steen:pos="adv." steen:type="2">godišnje</lemma>
+    <lemma steen:id="14578" steen:pos="adv." steen:type="3" steen:same="sh bm">
+      godišnje
+    </lemma>
+    <lemma steen:id="14578" steen:pos="adv." steen:type="3" steen:same="sh bm">
+      godišno
+    </lemma>
   </synset>
   <synset lang="en">
+    <lemma>annually</lemma>
     <lemma>yearly</lemma>
+    <lemma>once a year</lemma>
+    <lemma>per year</lemma>
   </synset>
   <synset lang="be">
     <lemma>штогод</lemma>
-    <lemma>у год</lemma>
+    <lemma>раз у год</lemma>
+    <lemma>на год</lemma>
   </synset>
   <synset lang="bg">
     <lemma>ежегодно</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>každoročně</lemma>
+    <lemma>ročně</lemma>
   </synset>
   <synset lang="hr">
     <lemma>godišnje</lemma>
@@ -29,27 +38,29 @@
     <lemma>годишно</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>corocznie</lemma>
     <lemma>rocznie</lemma>
+    <lemma>w roku</lemma>
   </synset>
   <synset lang="ru">
     <lemma>ежегодно</lemma>
     <lemma>в год</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>každoročne</lemma>
+    <lemma>ročne</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>letno</lemma>
+  <synset lang="sl">
+    <lemma>na leto</lemma>
   </synset>
   <synset lang="sr">
     <lemma>годишње</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>щорічно</lemma>
+    <lemma>річно</lemma>
+    <lemma>на рік</lemma>
+    <lemma>раз на рік</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>ĉiujare</lemma>
+    <lemma>jare</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>anual</lemma>
@@ -66,11 +77,13 @@
   <synset lang="da" verified="false">
     <lemma>årligt</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>jährlich</lemma>
+    <lemma>pro Jahr</lemma>
   </synset>
   <synset lang="nl">
     <lemma>jaarlijks</lemma>
+    <lemma>per jaar</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>שנתי</lemma>

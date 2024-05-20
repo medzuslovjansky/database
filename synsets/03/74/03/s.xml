@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37403"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37403" steen:addition="(+2)" steen:pos="prep.">s</lemma>
+    <lemma steen:id="37403" steen:addition="(+2)" steen:pos="prep.">sȯ</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="from a surface">off</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>от</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>z</lemma>
+    <lemma>ze</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>од</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>z</lemma>
+    <lemma>ze</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>с</lemma>
+    <lemma>со</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>z</lemma>
+    <lemma>ze</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="naar beneden">van</lemma>
+  </synset>
+</multilingual-synset>
