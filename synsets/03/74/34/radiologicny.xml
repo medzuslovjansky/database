@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37318"
+  id="37434"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37318"
-      steen:pos="m.anim."
+      steen:id="37434"
+      steen:pos="adj."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      socialdemokrat
+      radiologičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>social democrat</lemma>
+    <lemma>radiological</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>радыялагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>радиологичен</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>radiologický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>radiološki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>радиолошки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>socjaldemokrata</lemma>
+    <lemma>radiologiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>социал-демократ</lemma>
+    <lemma>радиологический</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>rádiologický</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>socialdemokrat</lemma>
+    <lemma>radiološki</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>социјалдемократа</lemma>
+    <lemma>радиолошки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>соціал-демократ</lemma>
+    <lemma>радіологічний</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>socialdemokrato</lemma>
+    <lemma>radiologia</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Sozialdemokrat</lemma>
+    <lemma>radiologisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>sociaaldemocraat</lemma>
+    <lemma>radiologisch</lemma>
   </synset>
 </multilingual-synset>

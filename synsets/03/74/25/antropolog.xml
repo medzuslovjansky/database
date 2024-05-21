@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37318"
+  id="37425"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37318"
+      steen:id="37425"
       steen:pos="m.anim."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      socialdemokrat
+      antropolog
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>social democrat</lemma>
+    <lemma>anthropologist</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>антраполаг</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>антрополог</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>antropolog</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>antropolog</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>антрополог</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>socjaldemokrata</lemma>
+    <lemma>antropolog</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>социал-демократ</lemma>
+    <lemma>антрополог</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>antropológ</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>socialdemokrat</lemma>
+    <lemma>antropolog</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>социјалдемократа</lemma>
+    <lemma>антрополог</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>соціал-демократ</lemma>
+    <lemma>антрополог</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>socialdemokrato</lemma>
+    <lemma>antropologo</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Sozialdemokrat</lemma>
+    <lemma>Anthropologe</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>sociaaldemocraat</lemma>
+    <lemma>antropoloog</lemma>
   </synset>
 </multilingual-synset>

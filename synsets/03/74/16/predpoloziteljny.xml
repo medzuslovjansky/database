@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37416"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37416"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru sh bm"
+    >
+      prědpoložiteljny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>presumable</lemma>
+    <lemma>supposed</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>магчымы</lemma>
+    <lemma>які мяркуецца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>предполагаем</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>údajný</lemma>
+    <lemma>předpokládaný</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pretpostavljen</lemma>
+    <lemma>vjerojatan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>претположен</lemma>
+    <lemma>веројатен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>przypuszczalny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>предположительный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>predpokladaný</lemma>
+    <lemma>údajný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>domneven</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>претпостављен</lemma>
+    <lemma>веројатан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>імовірний</lemma>
+    <lemma>передбачуваний</lemma>
+    <lemma>гаданий</lemma>
+    <lemma>мнимий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>supozebla</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>vermutlich</lemma>
+    <lemma>angeblich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>vermoedelijk</lemma>
+  </synset>
+</multilingual-synset>

@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20065" steen:pos="adv." steen:type="1">
+    <lemma
+      steen:id="20065"
+      steen:pos="adv."
+      steen:type="1"
+      steen:same="ru sh bm"
+    >
       prědpoložiteljno
     </lemma>
   </synset>

@@ -1,62 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37357"
+  id="37435"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37357"
-      steen:pos="m."
+      steen:id="37435"
+      steen:pos="adj."
       steen:type="1"
-      steen:same="v z bm"
-      steen:genesis="D"
+      steen:same="v z j"
+      steen:genesis="I"
     >
-      šnicl
+      teologičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>schnitzel</lemma>
+    <lemma>theological</lemma>
   </synset>
   <synset lang="be">
-    <lemma>шніцаль</lemma>
+    <lemma>тэалагічны</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>шницел</lemma>
+    <lemma>теологичен</lemma>
+    <lemma>богословски</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>šnycl</lemma>
+    <lemma>teologický</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>odrezak</lemma>
+    <lemma>teološki</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>шницла</lemma>
+    <lemma>теолошки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>sznycel</lemma>
-    <lemma>kotlet schabowy</lemma>
+    <lemma>teologiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>шницель</lemma>
+    <lemma>теологический</lemma>
+    <lemma>богословский</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>rezeň</lemma>
+    <lemma>teologický</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>zrezek</lemma>
+    <lemma>teološki</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>шницла</lemma>
+    <lemma>теолошки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>шніцель</lemma>
+    <lemma>теологічний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>teologia</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Schnitzel</lemma>
+    <lemma>theologisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>schnitzel</lemma>
+    <lemma>theologisch</lemma>
   </synset>
 </multilingual-synset>

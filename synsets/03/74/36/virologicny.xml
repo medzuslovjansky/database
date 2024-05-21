@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37318"
+  id="37436"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37318"
-      steen:pos="m.anim."
+      steen:id="37436"
+      steen:pos="adj."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      socialdemokrat
+      virologičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>social democrat</lemma>
+    <lemma>virological</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>віралагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>вирологичен</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>virologický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>virološki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>виролошки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>socjaldemokrata</lemma>
+    <lemma>wirologiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>социал-демократ</lemma>
+    <lemma>вирологический</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>virologický</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>socialdemokrat</lemma>
+    <lemma>virološki</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>социјалдемократа</lemma>
+    <lemma>виролошки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>соціал-демократ</lemma>
+    <lemma>вірологічний</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>socialdemokrato</lemma>
+    <lemma>virologia</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Sozialdemokrat</lemma>
+    <lemma>theologisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>sociaaldemocraat</lemma>
+    <lemma>theologisch</lemma>
   </synset>
 </multilingual-synset>

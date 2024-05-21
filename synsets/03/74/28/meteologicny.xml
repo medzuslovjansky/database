@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37318"
+  id="37428"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37318"
-      steen:pos="m.anim."
+      steen:id="37428"
+      steen:pos="adj."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      socialdemokrat
+      meteologičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>social democrat</lemma>
+    <lemma>meteological</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>метэалагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>метеологичен</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>meteologický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>meteološki</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>метеолошки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>socjaldemokrata</lemma>
+    <lemma>meteologiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>социал-демократ</lemma>
+    <lemma>метеологический</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>sociáldemokrat</lemma>
+    <lemma>meteologický</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>socialdemokrat</lemma>
+    <lemma>meteološki</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>социјалдемократа</lemma>
+    <lemma>метеолошки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>соціал-демократ</lemma>
+    <lemma>метеологічний</lemma>
   </synset>
   <synset lang="eo">
-    <lemma>socialdemokrato</lemma>
+    <lemma>meteologia</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Sozialdemokrat</lemma>
+    <lemma>meteologisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>sociaaldemocraat</lemma>
+    <lemma>meteologisch</lemma>
   </synset>
 </multilingual-synset>

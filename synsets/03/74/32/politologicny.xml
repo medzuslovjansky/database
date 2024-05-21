@@ -1,62 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37357"
+  id="37432"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37357"
-      steen:pos="m."
+      steen:id="37432"
+      steen:pos="adj."
       steen:type="1"
-      steen:same="v z bm"
-      steen:genesis="D"
+      steen:same="v z j"
+      steen:genesis="I"
     >
-      šnicl
+      politologičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>schnitzel</lemma>
+    <lemma>politological</lemma>
+    <lemma>political science</lemma>
   </synset>
   <synset lang="be">
-    <lemma>шніцаль</lemma>
+    <lemma>паліталагічны</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>шницел</lemma>
+    <lemma>политологичен</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>šnycl</lemma>
+    <lemma>politologický</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>odrezak</lemma>
+    <lemma>politološki</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>шницла</lemma>
+    <lemma>политолошки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>sznycel</lemma>
-    <lemma>kotlet schabowy</lemma>
+    <lemma>politologiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>шницель</lemma>
+    <lemma>политологический</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>rezeň</lemma>
+    <lemma>politologický</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>zrezek</lemma>
+    <lemma>politološki</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>шницла</lemma>
+    <lemma>политолошки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>шніцель</lemma>
+    <lemma>політологічний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>politologia</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Schnitzel</lemma>
+    <lemma>politikwissenschaftlich</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>schnitzel</lemma>
+    <lemma>politicologisch</lemma>
   </synset>
 </multilingual-synset>
