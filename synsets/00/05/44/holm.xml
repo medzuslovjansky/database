@@ -6,12 +6,16 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="544" steen:pos="m." steen:type="1">hȯlm</lemma>
+    <lemma steen:id="544" steen:pos="m." steen:type="1" steen:same="ru uk cs j">
+      hȯlm
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>hill</lemma>
+    <lemma>hillock</lemma>
   </synset>
   <synset lang="be">
+    <lemma>узвышша</lemma>
     <lemma>узгорак</lemma>
     <lemma>пагорак</lemma>
     <lemma>горка</lemma>
@@ -20,39 +24,61 @@
   </synset>
   <synset lang="bg">
     <lemma>хълм</lemma>
+    <lemma>бърдо</lemma>
   </synset>
   <synset lang="cs">
     <lemma>kopec</lemma>
     <lemma>chlum</lemma>
     <lemma>brdo</lemma>
+    <lemma>vrch</lemma>
+    <lemma>pahorek</lemma>
+    <lemma>hůrka</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>хлъмъ</lemma>
   </synset>
   <synset lang="hr">
     <lemma>brdo</lemma>
+    <lemma>hum</lemma>
+    <lemma>planina</lemma>
   </synset>
   <synset lang="mk">
+    <lemma>брег</lemma>
     <lemma>рид</lemma>
   </synset>
   <synset lang="pl">
     <lemma>pagórek</lemma>
+    <lemma>wzgórze</lemma>
   </synset>
   <synset lang="ru">
     <lemma>холм</lemma>
+    <lemma>взгорье</lemma>
     <lemma>пригорок</lemma>
+    <lemma>горка</lemma>
   </synset>
   <synset lang="sk">
     <lemma>kopec</lemma>
     <lemma>chlm</lemma>
     <lemma>brdo</lemma>
+    <lemma>vrch</lemma>
+    <lemma>pahorok</lemma>
+    <lemma>hôrka</lemma>
   </synset>
   <synset lang="sl">
     <lemma>hrib</lemma>
     <lemma>grič</lemma>
+    <lemma>holm</lemma>
+    <lemma>brdo</lemma>
   </synset>
   <synset lang="sr">
     <lemma>брдо</lemma>
+    <lemma>хум</lemma>
   </synset>
   <synset lang="uk">
     <lemma>пагорб</lemma>
+    <lemma>височина</lemma>
+    <lemma>холм</lemma>
+    <lemma>гірка</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>monteto</lemma>

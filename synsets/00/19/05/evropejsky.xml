@@ -6,8 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1905" steen:pos="adj." steen:type="1">evropejsky</lemma>
-    <lemma steen:id="1905" steen:pos="adj." steen:type="1">evropsky</lemma>
+    <lemma steen:id="1905" steen:pos="adj." steen:type="1" steen:genesis="I">
+      evropejsky
+    </lemma>
+    <lemma steen:id="1905" steen:pos="adj." steen:type="1" steen:genesis="I">
+      evropsky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>European</lemma>
@@ -38,8 +42,8 @@
   <synset lang="sk">
     <lemma>európsky</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Evropski</lemma>
+  <synset lang="sl">
+    <lemma>evropski</lemma>
   </synset>
   <synset lang="sr">
     <lemma>европски</lemma>

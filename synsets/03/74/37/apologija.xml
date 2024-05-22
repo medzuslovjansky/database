@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37437"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37437"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      apologija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>apology</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>апалогія</lemma>
+    <lemma>апраўданне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>апология</lemma>
+    <lemma>оправдание</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>apologie</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>apologija</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>апологија</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>apologia</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>апология</lemma>
+    <lemma>правдание</lemma>
+    <lemma>извинение</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>apologia</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>apologija</lemma>
+    <lemma>opravičilo</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>апологија</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>апологія</lemma>
+    <lemma>виправдання</lemma>
+    <lemma>оправдання</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Apologie</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>apologie</lemma>
+    <lemma>verweer</lemma>
+  </synset>
+</multilingual-synset>

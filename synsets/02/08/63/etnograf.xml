@@ -10,6 +10,7 @@
       steen:id="20863"
       steen:pos="m.anim."
       steen:type="1"
+      steen:same="v z j"
       steen:genesis="I"
     >
       etnograf
@@ -42,9 +43,10 @@
   </synset>
   <synset lang="sk">
     <lemma>etnograf</lemma>
+    <lemma>národopisec</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>etnolog</lemma>
+  <synset lang="sl">
+    <lemma>enograf</lemma>
   </synset>
   <synset lang="sr">
     <lemma>етнограф</lemma>
@@ -52,7 +54,7 @@
   <synset lang="uk">
     <lemma>етнограф</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>etnografo</lemma>
   </synset>
   <synset lang="es">
@@ -70,8 +72,9 @@
   <synset lang="da" verified="false">
     <lemma>etnograf</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Ethnographin</lemma>
+  <synset lang="de">
+    <lemma>Ethnograph</lemma>
+    <lemma>Ethnograf</lemma>
   </synset>
   <synset lang="nl">
     <lemma>volkenkundige</lemma>

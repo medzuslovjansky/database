@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37450"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37450"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="ru z j"
+      steen:genesis="I"
+    >
+      tipografičny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>typographical</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>друкарскі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>печатарски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>typografický</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>tiskarski</lemma>
+    <lemma>tipografski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>типографски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>drukarski</lemma>
+    <lemma>typograficzny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>типографский</lemma>
+    <lemma>печатный</lemma>
+    <lemma>книгопечатный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>typografický</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>tiskarski</lemma>
+    <lemma>tipografski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>тискарски</lemma>
+    <lemma>типографски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>друкарський</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>typografisch</lemma>
+    <lemma>typographisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>typografisch</lemma>
+  </synset>
+</multilingual-synset>
