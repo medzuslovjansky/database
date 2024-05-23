@@ -17,9 +17,12 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma annotation="to">get used</lemma>
-    <lemma annotation="to">get accustomed</lemma>
-    <lemma>familiarize oneself with</lemma>
+    <lemma>empathize</lemma>
+    <lemma>identify</lemma>
+    <lemma annotation="f.ex. with a role or somebody&apos;s feelings">
+      familiarize oneself
+    </lemma>
+    <lemma>put oneself into somebody&apos;s shoes</lemma>
   </synset>
   <synset lang="be">
     <lemma>ужыцца</lemma>
@@ -32,22 +35,20 @@
     <lemma>прывыкнуць</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>свикна</lemma>
+    <lemma>вживея се</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>zvyknout si</lemma>
-    <lemma>přivyknout</lemma>
+    <lemma>vžít se</lemma>
+    <lemma>vcítit se</lemma>
   </synset>
   <synset lang="hr">
-    <lemma annotation="se">naviknuti</lemma>
-    <lemma annotation="se">priviknuti</lemma>
+    <lemma>uživjeti se</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>се привикне</lemma>
-    <lemma>се навикне</lemma>
+    <lemma>вживи се</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>przyzwyczaić się</lemma>
+    <lemma>wżyć się</lemma>
   </synset>
   <synset lang="ru">
     <lemma>вжиться</lemma>
@@ -55,20 +56,19 @@
     <lemma>освоиться</lemma>
     <lemma>привыкнуть</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>zvyknúť si</lemma>
-    <lemma>privýknuť</lemma>
+  <synset lang="sk">
+    <lemma>vžiť sa</lemma>
+    <lemma>vcítiť sa</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>navadi se na</lemma>
+  <synset lang="sl">
+    <lemma>vživeti se</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>навикнути се</lemma>
+    <lemma>уживети се</lemma>
   </synset>
-  <synset lang="uk" verified="false">
-    <lemma>звикнути</lemma>
-    <lemma>освоїтися</lemma>
-    <lemma>ужитися</lemma>
+  <synset lang="uk">
+    <lemma>вживатися</lemma>
+    <lemma>уживатися</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma annotation="al">alkutimiĝi</lemma>
@@ -100,13 +100,13 @@
     <lemma annotation="til">bliver vant</lemma>
     <lemma>sætte sig ind i</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma annotation="to">gewöhnungs</lemma>
-    <lemma annotation="to">gewöhnen</lemma>
-    <lemma>machen sich mit</lemma>
+  <synset lang="de">
+    <lemma>sich einleben</lemma>
+    <lemma>sich eingewöhnen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>gewend raken</lemma>
+    <lemma>zich inleven</lemma>
+    <lemma annotation="in">zich verplaatsen</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma annotation="אל">להתרגל</lemma>

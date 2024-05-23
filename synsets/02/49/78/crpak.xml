@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24978" steen:pos="m.">črpak</lemma>
+    <lemma steen:id="24978" steen:pos="m." steen:type="2" steen:same="v pl bm">
+      črpak
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>scoop</lemma>
@@ -21,6 +23,8 @@
   </synset>
   <synset lang="cs">
     <lemma>naběračka</lemma>
+    <lemma>čerpák</lemma>
+    <lemma>črpák</lemma>
   </synset>
   <synset lang="csb">
     <lemma>łëżka</lemma>
@@ -36,6 +40,7 @@
     <lemma>кутлача</lemma>
   </synset>
   <synset lang="pl">
+    <lemma>czerpak</lemma>
     <lemma annotation="ładowarki">łyżka</lemma>
   </synset>
   <synset lang="ru">
@@ -43,6 +48,8 @@
   </synset>
   <synset lang="sk">
     <lemma>naberačka</lemma>
+    <lemma annotation="spiš.dial">čerpačka</lemma>
+    <lemma>črpačka</lemma>
   </synset>
   <synset lang="sl">
     <lemma>zajemalka</lemma>
@@ -50,6 +57,8 @@
   <synset lang="sr">
     <lemma>кутлача</lemma>
     <lemma>варјача</lemma>
+    <lemma>црпаљка</lemma>
+    <lemma>кашика</lemma>
   </synset>
   <synset lang="uk">
     <lemma>черпак</lemma>

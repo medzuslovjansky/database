@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="345" steen:pos="m.anim." steen:type="1">črv</lemma>
+    <lemma steen:id="345" steen:pos="m.anim." steen:type="1" steen:same="v z j">
+      črv
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>maggot</lemma>
@@ -37,6 +39,7 @@
     <lemma>červ</lemma>
   </synset>
   <synset lang="sl">
+    <lemma>črv</lemma>
     <lemma>ličinka</lemma>
   </synset>
   <synset lang="sr">

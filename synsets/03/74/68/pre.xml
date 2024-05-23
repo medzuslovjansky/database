@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37468"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37468"
+      steen:pos="prefix"
+      steen:type="3"
+      steen:same="yu mk"
+    >
+      prě-
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="more than desired">too</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>занадта</lemma>
+    <lemma>задужа</lemma>
+    <lemma>завельмі</lemma>
+    <lemma>залішне</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>твърде</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>přiliš</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>previše</lemma>
+    <lemma>suviše</lemma>
+    <lemma>pre-</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>премногу</lemma>
+    <lemma>пре-</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>za</lemma>
+    <lemma>zbyt</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пере-</lemma>
+    <lemma>слишком</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>príliš</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>preveč</lemma>
+    <lemma>pre-</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>превише</lemma>
+    <lemma>сувише</lemma>
+    <lemma>пре-</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>занадто</lemma>
+    <lemma>надто</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>tro</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="mehr als gewünscht">zu</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="meer dan gewenst">te</lemma>
+  </synset>
+</multilingual-synset>

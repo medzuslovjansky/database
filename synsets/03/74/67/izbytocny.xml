@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37467"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37467"
+      steen:pos="adj."
+      steen:type="2"
+      steen:same="ru be z sl"
+    >
+      izbytȯčny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>superfluous</lemma>
+    <lemma>redundant</lemma>
+    <lemma>excess</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>лішні</lemma>
+    <lemma>залішні</lemma>
+    <lemma>збыткоўны</lemma>
+    <lemma>празмерны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>излишен</lemma>
+    <lemma>одвишен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>zbytečný</lemma>
+    <lemma>nadbytečný</lemma>
+    <lemma>přebytečný</lemma>
+    <lemma>lichý</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>izlišan</lemma>
+    <lemma>suvišan</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>излишен</lemma>
+    <lemma>одвишен</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zbyteczny</lemma>
+    <lemma>nadmiarowy</lemma>
+    <lemma>zbędny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>избыточный</lemma>
+    <lemma>чрезмерный</lemma>
+    <lemma>лишний</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>zbytočný</lemma>
+    <lemma>nadbytočný</lemma>
+    <lemma>prebytočný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>presežen</lemma>
+    <lemma>odvečen</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>излишан</lemma>
+    <lemma>сувишан</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>зайвий</lemma>
+    <lemma>надлишковий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>superflua</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>überflüssig</lemma>
+    <lemma>entbehrlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>overbodig</lemma>
+    <lemma>overtollig</lemma>
+    <lemma>boventallig</lemma>
+  </synset>
+</multilingual-synset>

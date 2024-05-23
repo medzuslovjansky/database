@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="696" steen:pos="f." steen:type="1">črta</lemma>
+    <lemma
+      steen:id="696"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="ru sk sh bm"
+    >
+      črta
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>feature</lemma>
@@ -16,6 +23,7 @@
     <lemma>асаблівасць</lemma>
   </synset>
   <synset lang="bg">
+    <lemma>черта</lemma>
     <lemma>характеристика</lemma>
   </synset>
   <synset lang="cs">

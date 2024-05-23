@@ -6,31 +6,28 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23334" steen:pos="f." steen:type="1">nadměrnosť</lemma>
+    <lemma steen:id="23334" steen:pos="f." steen:type="2" steen:same="v z">
+      nadměrnosť
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>excess</lemma>
+    <lemma>excessiveness</lemma>
   </synset>
   <synset lang="be">
     <lemma>празмернасць</lemma>
     <lemma>надмернасць</lemma>
-    <lemma>лішак</lemma>
-    <lemma>перабор</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>излишък</lemma>
     <lemma>прекомерност</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>nadmíra</lemma>
-    <lemma>přemíra</lemma>
-    <lemma>přebytek</lemma>
-    <lemma>nadbytek</lemma>
     <lemma>nadměrnost</lemma>
+    <lemma>nepřiměřenost</lemma>
   </synset>
   <synset lang="hr">
     <lemma>prekomjernost</lemma>
-    <lemma>višak</lemma>
+    <lemma>pretjeranost</lemma>
+    <lemma>neumjerenost</lemma>
   </synset>
   <synset lang="mk">
     <lemma>прекумерност</lemma>
@@ -40,26 +37,21 @@
   </synset>
   <synset lang="ru">
     <lemma>чрезмерность</lemma>
-    <lemma>избыточность</lemma>
-    <lemma>избыток</lemma>
-    <lemma>перебор</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>nadmiera</lemma>
     <lemma>nadmernosť</lemma>
-    <lemma>prebytok</lemma>
-    <lemma>nadbytok</lemma>
+    <lemma>neprimeranosť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Dodatek za motnje</lemma>
-    <lemma>ki presega</lemma>
+  <synset lang="sl">
+    <lemma>čezmernost</lemma>
+    <lemma>prekomernost</lemma>
+    <lemma>pretiranost</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>надмера</lemma>
-    <lemma>вишак</lemma>
+    <lemma>прекомерност</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>надлишок</lemma>
+    <lemma>надмірність</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>eksceso</lemma>
@@ -79,11 +71,14 @@
   <synset lang="da" verified="false">
     <lemma>overskydende</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Überschuss</lemma>
+  <synset lang="de">
+    <lemma>Übermäßigkeit</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>overmaat</lemma>
+    <lemma>buitensporigheid</lemma>
+    <lemma>overmatigheid</lemma>
+    <lemma>bovenmatigheid</lemma>
+    <lemma>excessiviteit</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>עודף</lemma>

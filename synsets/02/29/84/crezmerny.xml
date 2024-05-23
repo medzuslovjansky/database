@@ -6,20 +6,24 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="22984" steen:pos="adj." steen:type="1">črězměrny</lemma>
+    <lemma steen:id="22984" steen:pos="adj." steen:type="3" steen:same="ru sl">
+      črězměrny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>excessive</lemma>
   </synset>
   <synset lang="be">
     <lemma>празмерны</lemma>
-    <lemma>залішны</lemma>
+    <lemma>надмерны</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>прекомерно</lemma>
+    <lemma>прекомерен</lemma>
+    <lemma>прекален</lemma>
   </synset>
   <synset lang="cs">
     <lemma>nadměrný</lemma>
+    <lemma>přílišný</lemma>
   </synset>
   <synset lang="hr">
     <lemma>prekomjeran</lemma>
@@ -28,22 +32,28 @@
   </synset>
   <synset lang="mk">
     <lemma>прекумерен</lemma>
+    <lemma>претеран</lemma>
   </synset>
   <synset lang="pl">
     <lemma>nadmierny</lemma>
+    <lemma>wygórowany</lemma>
   </synset>
   <synset lang="ru">
     <lemma>чрезмерный</lemma>
-    <lemma>избыточный</lemma>
   </synset>
   <synset lang="sk">
     <lemma>nadmerný</lemma>
+    <lemma>nemierný</lemma>
+    <lemma>prílišný</lemma>
   </synset>
   <synset lang="sl">
     <lemma>čezmeren</lemma>
+    <lemma>prekomeren</lemma>
+    <lemma>pretiran</lemma>
   </synset>
   <synset lang="sr">
     <lemma>прекомеран</lemma>
+    <lemma>претеран</lemma>
   </synset>
   <synset lang="uk">
     <lemma>надмірний</lemma>
@@ -68,11 +78,14 @@
   </synset>
   <synset lang="de">
     <lemma>übermäßig</lemma>
+    <lemma>maßlos</lemma>
+    <lemma>exzessiv</lemma>
   </synset>
   <synset lang="nl">
     <lemma>buitensporig</lemma>
     <lemma>overmatig</lemma>
     <lemma>bovenmatig</lemma>
+    <lemma>excessief</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>מוגזם</lemma>

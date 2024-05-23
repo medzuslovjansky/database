@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="3673"
+  steen:debated="hr,mk,sr"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -16,9 +17,12 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma annotation="to">get used</lemma>
-    <lemma annotation="to">get accustomed</lemma>
-    <lemma>familiarize oneself with</lemma>
+    <lemma>empathize</lemma>
+    <lemma>identify</lemma>
+    <lemma annotation="f.ex. with a role or somebody&apos;s feelings">
+      familiarize oneself
+    </lemma>
+    <lemma>put oneself into somebody&apos;s shoes</lemma>
   </synset>
   <synset lang="be">
     <lemma>ужывацца</lemma>
@@ -29,11 +33,11 @@
     <lemma>прывыкаць</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>свиквам</lemma>
+    <lemma>вживявам се</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>zvykat si</lemma>
-    <lemma>přivykat</lemma>
+    <lemma>vžívat se</lemma>
+    <lemma>vciťovat se</lemma>
   </synset>
   <synset lang="hr">
     <lemma annotation="se">navikavati</lemma>
@@ -44,7 +48,7 @@
     <lemma>се навикнува</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>przyzwyczajać się</lemma>
+    <lemma>wżywać się</lemma>
   </synset>
   <synset lang="ru">
     <lemma>вживаться</lemma>
@@ -52,12 +56,12 @@
     <lemma>осваиваться</lemma>
     <lemma>привыкать</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>zvykať si</lemma>
-    <lemma>privýkať</lemma>
+  <synset lang="sk">
+    <lemma>vžívať sa</lemma>
+    <lemma>vciťovať sa</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>navadi se na</lemma>
+  <synset lang="sl">
+    <lemma>vžilvljati se</lemma>
   </synset>
   <synset lang="sr">
     <lemma>навикавати се</lemma>
@@ -97,13 +101,13 @@
     <lemma annotation="til">bliver vant</lemma>
     <lemma>sætte sig ind i</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma annotation="to">gewöhnungs</lemma>
-    <lemma annotation="to">gewöhnen</lemma>
-    <lemma>machen sich mit</lemma>
+  <synset lang="de">
+    <lemma>sich einleben</lemma>
+    <lemma>sich eingewöhnen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>gewend raken</lemma>
+    <lemma>zich inleven</lemma>
+    <lemma annotation="in">zich verplaatsen</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma annotation="אל">להתרגל</lemma>

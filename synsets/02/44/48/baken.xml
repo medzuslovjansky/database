@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="24448"
-  steen:debated="en,nl,pl"
+  steen:debated="en,nl"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -43,7 +43,9 @@
     <lemma>бова</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>światło nawigacyjne</lemma>
+    <lemma>bakan</lemma>
+    <lemma>baken</lemma>
+    <lemma>światło przewodnie</lemma>
   </synset>
   <synset lang="ru">
     <lemma>бакен</lemma>

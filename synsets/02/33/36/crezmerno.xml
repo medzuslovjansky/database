@@ -6,25 +6,26 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23336" steen:pos="adv." steen:type="1">črězměrno</lemma>
+    <lemma steen:id="23336" steen:pos="adv." steen:type="3" steen:same="ru sl">
+      črězměrno
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>excessively</lemma>
-    <lemma>exceedingly</lemma>
-    <lemma>overly</lemma>
   </synset>
   <synset lang="be">
     <lemma>празмерна</lemma>
-    <lemma>залішне</lemma>
+    <lemma>надмерна</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>прекалено</lemma>
-    <lemma>изключително</lemma>
     <lemma>прекомерно</lemma>
+    <lemma>прекалено</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>příliš</lemma>
+    <lemma>nadměrně</lemma>
     <lemma>nadmíru</lemma>
+    <lemma>nepřiměřeně</lemma>
+    <lemma>příliš</lemma>
   </synset>
   <synset lang="csb">
     <lemma>za vjele</lemma>
@@ -32,8 +33,6 @@
   <synset lang="hr">
     <lemma>prekomjerno</lemma>
     <lemma>pretjerano</lemma>
-    <lemma>neumjereno</lemma>
-    <lemma>previše</lemma>
   </synset>
   <synset lang="mk">
     <lemma>претерано</lemma>
@@ -41,26 +40,26 @@
   </synset>
   <synset lang="pl">
     <lemma>nadmiernie</lemma>
-    <lemma>zanadto</lemma>
   </synset>
   <synset lang="ru">
     <lemma>чрезмерно</lemma>
-    <lemma>избыточно</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>príliš</lemma>
+    <lemma>nadmerne</lemma>
     <lemma>nadmieru</lemma>
+    <lemma>príliš</lemma>
   </synset>
   <synset lang="sl">
     <lemma>čezmerno</lemma>
+    <lemma>prekomerno</lemma>
   </synset>
   <synset lang="sr">
+    <lemma>прекомерно</lemma>
     <lemma>претерано</lemma>
-    <lemma>превише</lemma>
   </synset>
   <synset lang="uk">
     <lemma>надмірно</lemma>
-    <lemma>надзвичайно</lemma>
+    <lemma>надміру</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>troe</lemma>
@@ -94,11 +93,14 @@
   </synset>
   <synset lang="de">
     <lemma>übermäßig</lemma>
+    <lemma>maßlos</lemma>
+    <lemma>exzessiv</lemma>
   </synset>
   <synset lang="nl">
     <lemma>buitensporig</lemma>
     <lemma>overmatig</lemma>
     <lemma>bovenmatig</lemma>
+    <lemma>excessief</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>מוגזם</lemma>

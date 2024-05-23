@@ -10,8 +10,8 @@
       steen:id="2284"
       steen:addition="(+4)"
       steen:pos="prep."
-      steen:type="2"
-      steen:same="be z sh bg"
+      steen:type="3"
+      steen:same="be pl cz bg"
     >
       prěz
     </lemma>
@@ -29,16 +29,21 @@
     <lemma>поперак</lemma>
     <lemma>напярок</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
+    <lemma>през</lemma>
+    <lemma>чрез</lemma>
     <lemma>посредством</lemma>
-    <lemma>чрез</lemma>
-    <lemma>чрез</lemma>
   </synset>
   <synset lang="cs">
     <lemma>přes</lemma>
+    <lemma>skrz</lemma>
+    <lemma>napříč</lemma>
   </synset>
   <synset lang="csb">
     <lemma>przez</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>прѣзъ</lemma>
   </synset>
   <synset lang="hr">
     <lemma>kroz</lemma>
@@ -56,12 +61,14 @@
     <lemma>через</lemma>
     <lemma>поперёк</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>cez</lemma>
+    <lemma>skrz</lemma>
+    <lemma>naprieč</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>skozi</lemma>
+  <synset lang="sl">
     <lemma>čez</lemma>
+    <lemma>skozi</lemma>
   </synset>
   <synset lang="sr">
     <lemma>кроз</lemma>
@@ -109,6 +116,7 @@
   </synset>
   <synset lang="nl">
     <lemma>door</lemma>
+    <lemma>over</lemma>
     <lemma>via</lemma>
   </synset>
   <synset lang="he" verified="false">

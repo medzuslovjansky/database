@@ -6,11 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17077" steen:pos="adj." steen:type="1">mnogy</lemma>
+    <lemma steen:id="17077" steen:pos="adj." steen:type="1" steen:same="v z j">
+      mnogy
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>much</lemma>
     <lemma>many</lemma>
+    <lemma>many a</lemma>
     <lemma>numerous</lemma>
   </synset>
   <synset lang="be">
@@ -47,15 +50,15 @@
   <synset lang="sk">
     <lemma>mnohý</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>veliko</lemma>
-    <lemma>veliko</lemma>
+  <synset lang="sl">
+    <lemma>mnog</lemma>
   </synset>
   <synset lang="sr">
     <lemma>мног</lemma>
     <lemma>бројан</lemma>
   </synset>
   <synset lang="uk">
+    <lemma>многий</lemma>
     <lemma>численний</lemma>
   </synset>
   <synset lang="eo" verified="false">
@@ -94,6 +97,7 @@
   <synset lang="nl">
     <lemma>veel</lemma>
     <lemma>talrijk</lemma>
+    <lemma>menig</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>הרבה</lemma>

@@ -6,20 +6,27 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="26196" steen:pos="m.">izlišek</lemma>
+    <lemma steen:id="26196" steen:pos="m." steen:type="2" steen:same="v j">
+      izlišek
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>surplus</lemma>
+    <lemma>excess</lemma>
   </synset>
   <synset lang="be">
     <lemma>лішак</lemma>
+    <lemma>лішніца</lemma>
     <lemma>празмернасць</lemma>
   </synset>
   <synset lang="bg">
     <lemma>излишък</lemma>
   </synset>
   <synset lang="cs">
+    <lemma>nadbytek</lemma>
+    <lemma>nadmíra</lemma>
     <lemma>přebytek</lemma>
+    <lemma>přemíra</lemma>
   </synset>
   <synset lang="hr">
     <lemma>pretek</lemma>
@@ -28,27 +35,34 @@
   </synset>
   <synset lang="mk">
     <lemma>вишок</lemma>
+    <lemma>претек</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>nadwyżka</lemma>
+    <lemma>zbytek</lemma>
     <lemma>nadmiar</lemma>
+    <lemma>nadwyżka</lemma>
   </synset>
   <synset lang="ru">
     <lemma>излишек</lemma>
     <lemma>избыток</lemma>
   </synset>
   <synset lang="sk">
+    <lemma>nadmiera</lemma>
     <lemma>prebytok</lemma>
+    <lemma>nadbytok</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>presežek izlišak</lemma>
+  <synset lang="sl">
+    <lemma>presežek</lemma>
+    <lemma>prebitek</lemma>
   </synset>
   <synset lang="sr">
     <lemma>вишак</lemma>
     <lemma>излишак</lemma>
+    <lemma>надмера</lemma>
   </synset>
   <synset lang="uk">
     <lemma>надлишок</lemma>
+    <lemma>надмір</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>saldo</lemma>
@@ -68,11 +82,16 @@
   <synset lang="da" verified="false">
     <lemma>overskud</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Überschuss</lemma>
+    <lemma>Surplus</lemma>
+    <lemma>Zuviel</lemma>
   </synset>
   <synset lang="nl">
     <lemma>overschot</lemma>
+    <lemma>surplus</lemma>
+    <lemma>teveel</lemma>
+    <lemma>overmaat</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>עודף</lemma>
