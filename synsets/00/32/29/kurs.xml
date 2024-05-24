@@ -6,53 +6,58 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="3229" steen:pos="m." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="3229"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       kurs
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>course</lemma>
+    <lemma annotation="series of lessons">course</lemma>
   </synset>
   <synset lang="be">
-    <lemma>курс</lemma>
+    <lemma annotation="серыя ўрокаў">курс</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>курс</lemma>
+    <lemma annotation="серия от уроци">курс</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>kurz</lemma>
+    <lemma annotation="série lekcí">kurz</lemma>
   </synset>
   <synset lang="csb">
     <lemma>kùrs</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>kurs</lemma>
-    <lemma>tečaj</lemma>
+    <lemma annotation="niz predavanja">tečaj</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>курс</lemma>
+    <lemma annotation="серија лекции">курс</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>kurs</lemma>
+    <lemma annotation="cykl lekcji">kurs</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>курс</lemma>
+    <lemma annotation="серия уроков">курс</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>kurz</lemma>
+    <lemma annotation="séria lekcií">kurz</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>tečaj</lemma>
+  <synset lang="sl">
+    <lemma>kurz</lemma>
+    <lemma annotation="niz lekcij">tečaj</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>курс</lemma>
-    <lemma>течај</lemma>
+    <lemma annotation="серија лекција">курс</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>курс</lemma>
+    <lemma annotation="серія уроків">курс</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>kompreneble</lemma>
+  <synset lang="eo">
+    <lemma annotation="serio de lecionoj">kurso</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>curso</lemma>
@@ -69,11 +74,13 @@
   <synset lang="da" verified="false">
     <lemma>Rute</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Kurs</lemma>
+    <lemma>Lehrgang</lemma>
   </synset>
   <synset lang="nl">
     <lemma>cursus</lemma>
+    <lemma>leergang</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>כמובן</lemma>

@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="18566" steen:pos="m." steen:type="1">pųpȯk</lemma>
+    <lemma steen:id="18566" steen:pos="m." steen:type="1" steen:same="v z j">
+      pųpȯk
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>navel</lemma>
@@ -16,11 +18,14 @@
     <lemma>пупок</lemma>
     <lemma>умбілікус</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>пуп</lemma>
+  <synset lang="bg">
+    <lemma>пъп</lemma>
   </synset>
   <synset lang="cs">
     <lemma>pupek</lemma>
+  </synset>
+  <synset lang="cu">
+    <lemma>пѫпъ</lemma>
   </synset>
   <synset lang="hr">
     <lemma>pupak</lemma>
@@ -35,10 +40,10 @@
     <lemma>пуп</lemma>
     <lemma>пупок</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>pupok</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>popek</lemma>
   </synset>
   <synset lang="sr">
@@ -48,7 +53,7 @@
     <lemma>пуп</lemma>
     <lemma>пупок</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>umbiliko</lemma>
   </synset>
   <synset lang="es">
@@ -69,7 +74,7 @@
   <synset lang="da" verified="false">
     <lemma>navle</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Nabel</lemma>
   </synset>
   <synset lang="nl">

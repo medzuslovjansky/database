@@ -1,70 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="21669"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="21669" steen:pos="m." steen:type="1" steen:same="ru pl cz">
+    <lemma steen:id="21669" steen:pos="m." steen:type="3" steen:same="pl sk">
       zarodȯk
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>bud</lemma>
+    <lemma>sprout</lemma>
+    <lemma annotation="new growth on a plant">shoot</lemma>
   </synset>
   <synset lang="be">
-    <lemma>бутон</lemma>
-    <lemma>пупышка</lemma>
-    <lemma>пукалка</lemma>
+    <lemma>парастак</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>пъпка</lemma>
+    <lemma>издънка</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>poupě</lemma>
-    <lemma>pupen</lemma>
-    <lemma>zárodek rostliny</lemma>
+    <lemma>klíček</lemma>
+    <lemma>výhonek</lemma>
+    <lemma>zárodek</lemma>
     <lemma>očko</lemma>
-    <lemma>pupenec</lemma>
-    <lemma annotation="větvičky">zárodek</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>pupoljak</lemma>
+    <lemma>klica</lemma>
+    <lemma>izbojak</lemma>
+    <lemma>izdanak</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>пупка</lemma>
+    <lemma>никулец</lemma>
+    <lemma>фиданка</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>pąk</lemma>
-    <lemma annotation="np. kwiatu">pączek</lemma>
+    <lemma>kiełek</lemma>
+    <lemma annotation="na roślinie">zarodek</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>бутон</lemma>
-    <lemma annotation="растения">почка</lemma>
+    <lemma>росток</lemma>
+    <lemma>побег</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>púčik</lemma>
+  <synset lang="sk">
     <lemma>kľúčik</lemma>
     <lemma>zárodok rastliny očko</lemma>
-    <lemma>pupenec</lemma>
     <lemma annotation="vetvičky">zárodok</lemma>
+    <lemma>výhonok</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>bud</lemma>
-    <lemma>klic</lemma>
+  <synset lang="sl">
+    <lemma>poganjek</lemma>
   </synset>
-  <synset lang="sr">
-    <lemma>пупољак</lemma>
-    <lemma>клица</lemma>
+  <synset lang="uk">
+    <lemma>росток</lemma>
+    <lemma>пагін</lemma>
   </synset>
-  <synset lang="uk" verified="false">
-    <lemma>бутон</lemma>
-    <lemma>брунька</lemma>
-  </synset>
-  <synset lang="eo" verified="false">
-    <lemma>#burĝono</lemma>
+  <synset lang="eo">
+    <lemma>sproso</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>brote</lemma>
@@ -81,11 +74,13 @@
   <synset lang="da" verified="false">
     <lemma>#knop</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Knospe</lemma>
+  <synset lang="de">
+    <lemma>Spross</lemma>
+    <lemma>Sprössling</lemma>
   </synset>
   <synset lang="nl">
-    <lemma annotation="bloem">knop</lemma>
+    <lemma>scheut</lemma>
+    <lemma>spruit</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>#bud</lemma>

@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2350" steen:pos="n." steen:type="2" steen:same="v bg">
+    <lemma steen:id="2350" steen:pos="n." steen:type="3" steen:same="ru bg">
       sȯbyťje
     </lemma>
   </synset>
@@ -17,16 +17,16 @@
     <lemma>падзея</lemma>
     <lemma>здарэнне</lemma>
     <lemma>выпадак</lemma>
-    <lemma>раз</lemma>
-    <lemma>прыпадак</lemma>
     <lemma>нагода</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>събитие</lemma>
+    <lemma>случка</lemma>
   </synset>
   <synset lang="cs">
     <lemma>událost</lemma>
     <lemma>akce</lemma>
+    <lemma>výskyt</lemma>
   </synset>
   <synset lang="dsb">
     <lemma>pódawk</lemma>
@@ -37,11 +37,13 @@
     <lemma>slučaj</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>собитие</lemma>
     <lemma>настан</lemma>
+    <lemma>случај</lemma>
   </synset>
   <synset lang="pl">
     <lemma>wydarzenie</lemma>
+    <lemma>zdarzenie</lemma>
+    <lemma>wypadek</lemma>
   </synset>
   <synset lang="ru">
     <lemma>событие</lemma>
@@ -51,10 +53,10 @@
   <synset lang="sk">
     <lemma>udalosť</lemma>
     <lemma>akcie</lemma>
+    <lemma>výskyt</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>dogodek</lemma>
-    <lemma>primer</lemma>
   </synset>
   <synset lang="sr">
     <lemma>догађај</lemma>
@@ -62,8 +64,9 @@
   </synset>
   <synset lang="uk">
     <lemma>подія</lemma>
+    <lemma>випакок</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>okazaĵo</lemma>
   </synset>
   <synset lang="es" verified="false">
@@ -81,11 +84,12 @@
   <synset lang="da" verified="false">
     <lemma>begivenhed</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Veranstaltung</lemma>
+  <synset lang="de">
+    <lemma>Ereignis</lemma>
   </synset>
   <synset lang="nl">
     <lemma>gebeurtenis</lemma>
+    <lemma>voorval</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>אירוע</lemma>

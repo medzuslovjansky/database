@@ -6,12 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="21670"
-      steen:pos="m.anim."
-      steen:type="1"
-      steen:same="ru pl cz"
-    >
+    <lemma steen:id="21670" steen:pos="m." steen:type="1" steen:same="v z j">
       zarodȯk
     </lemma>
   </synset>
@@ -52,26 +47,25 @@
     <lemma>зародыш</lemma>
     <lemma>эмбрион</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>zárodok</lemma>
     <lemma>embryo</lemma>
     <lemma>plod</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>zarodek</lemma>
-    <lemma>plod</lemma>
-    <lemma>zarodkov</lemma>
+    <lemma>embrio</lemma>
   </synset>
   <synset lang="sr">
     <lemma>заметак</lemma>
     <lemma>зародак</lemma>
     <lemma>ембрион</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>зародок</lemma>
     <lemma>ембріон</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>embrio</lemma>
     <lemma>feto</lemma>
   </synset>
@@ -95,7 +89,7 @@
     <lemma>embryo</lemma>
     <lemma>foster</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Embryo</lemma>
     <lemma>Fötus</lemma>
   </synset>

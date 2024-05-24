@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="20659"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="20659" steen:pos="m." steen:type="1">proběg</lemma>
+    <lemma steen:id="20659" steen:pos="m." steen:type="1" steen:same="v z bg">
+      proběg
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>course</lemma>
+    <lemma>mileage</lemma>
   </synset>
   <synset lang="be">
-    <lemma>бегавая дарожка</lemma>
-    <lemma>беглавая дарожка</lemma>
+    <lemma>прабег</lemma>
+    <lemma>кіламетраж</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>разбира се</lemma>
+  <synset lang="bg">
+    <lemma>пробег</lemma>
+    <lemma>километраж</lemma>
   </synset>
   <synset lang="cs">
     <lemma annotation="kilometrový">proběh</lemma>
     <lemma>dojezd</lemma>
+    <lemma>vzdálenost</lemma>
   </synset>
   <synset lang="hr">
     <lemma>udaljenost</lemma>
@@ -34,33 +37,32 @@
     <lemma>поминато растојание</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>kurs</lemma>
-    <lemma>tor wyścigowy</lemma>
+    <lemma>przebieg</lemma>
+    <lemma>kilometraż</lemma>
   </synset>
-  <synset lang="ru" verified="false">
-    <lemma>беговая дорожка</lemma>
+  <synset lang="ru">
+    <lemma>пробег</lemma>
+    <lemma>километраж</lemma>
   </synset>
   <synset lang="sk" verified="false">
     <lemma annotation="kilometrový">priebeh</lemma>
     <lemma>nájazd</lemma>
     <lemma>dojazd</lemma>
+    <lemma>vzdialenosť</lemma>
+    <lemma>kilometráž</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>smer</lemma>
-    <lemma>hitrost pretoka</lemma>
-    <lemma>tkanje poti</lemma>
+  <synset lang="sl">
+    <lemma>kilometraža</lemma>
   </synset>
-  <synset lang="sr">
-    <lemma>правац</lemma>
-    <lemma>ток</lemma>
-    <lemma>курс</lemma>
-    <lemma>ткачка стаза</lemma>
+  <synset lang="sr" verified="false">
+    <lemma>километража</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>бігова доріжка</lemma>
+    <lemma>пробіг</lemma>
+    <lemma>кілометраж</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>#kurso</lemma>
+    <lemma>kurso</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>curso</lemma>
@@ -77,11 +79,13 @@
   <synset lang="da" verified="false">
     <lemma>#Rute</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Kurs</lemma>
+  <synset lang="de">
+    <lemma>Reichweite</lemma>
+    <lemma>Kilometerleistung</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>verloop</lemma>
+    <lemma>kilometrage</lemma>
+    <lemma>kilometerstand</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>#course</lemma>
