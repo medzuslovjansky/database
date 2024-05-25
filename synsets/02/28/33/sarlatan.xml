@@ -10,6 +10,7 @@
       steen:id="22833"
       steen:pos="m.anim."
       steen:type="1"
+      steen:same="v z j"
       steen:genesis="I"
     >
       šarlatan
@@ -21,8 +22,8 @@
   <synset lang="be">
     <lemma>шарлатан</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>шарлатанство</lemma>
+  <synset lang="bg">
+    <lemma>шарлатанин</lemma>
   </synset>
   <synset lang="cs">
     <lemma>šarlatán</lemma>
@@ -38,6 +39,7 @@
   </synset>
   <synset lang="pl">
     <lemma>szarlatan</lemma>
+    <lemma>hochstapler</lemma>
   </synset>
   <synset lang="ru">
     <lemma>шарлатан</lemma>
@@ -45,10 +47,8 @@
   <synset lang="sk">
     <lemma>šarlatán</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>šarlatan</lemma>
-    <lemma>goljuf</lemma>
-    <lemma>slepar</lemma>
+  <synset lang="sl">
+    <lemma>šąrlatan</lemma>
   </synset>
   <synset lang="sr">
     <lemma>шарлатан</lemma>
@@ -59,7 +59,7 @@
     <lemma>шарлатан</lemma>
     <lemma>шахрай</lemma>
   </synset>
-  <synset lang="eo" verified="false">
+  <synset lang="eo">
     <lemma>ĉarlatano</lemma>
   </synset>
   <synset lang="es" verified="false">
@@ -77,7 +77,7 @@
   <synset lang="da" verified="false">
     <lemma>charlatan</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Scharlatan</lemma>
   </synset>
   <synset lang="nl">

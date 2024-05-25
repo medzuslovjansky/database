@@ -1,59 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37252"
+  id="37496"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37252"
+      steen:id="37496"
       steen:pos="m."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      citrus
+      horor
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>citrus</lemma>
+    <lemma annotation="genre">horror</lemma>
   </synset>
   <synset lang="be">
-    <lemma>цытрус</lemma>
+    <lemma>жахі</lemma>
+    <lemma>хорар</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>цитрус</lemma>
+    <lemma>ужаси</lemma>
+    <lemma>хорър</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>citrus</lemma>
+    <lemma>horor</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>citrus</lemma>
+    <lemma>horor</lemma>
   </synset>
-  <synset lang="mk" verified="false">
-    <lemma>цитрус</lemma>
+  <synset lang="mk">
+    <lemma>хорор</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>cytrus</lemma>
+    <lemma>horror</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>цитрус</lemma>
+    <lemma>ужасы</lemma>
+    <lemma>хоррор</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>citrus</lemma>
+    <lemma>horor</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>citrus</lemma>
-    <lemma>agrum</lemma>
+    <lemma>horor</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>цитрус</lemma>
+    <lemma>хорор</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>цитрус</lemma>
+    <lemma>жахи</lemma>
+    <lemma>горор</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>hororo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Horror</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>citrus</lemma>
+    <lemma>horror</lemma>
   </synset>
 </multilingual-synset>

@@ -1,59 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37252"
+  id="37498"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37252"
+      steen:id="37498"
       steen:pos="m."
       steen:type="1"
       steen:same="v z j"
       steen:genesis="I"
     >
-      citrus
+      horor-film
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>citrus</lemma>
+    <lemma>horror film</lemma>
   </synset>
   <synset lang="be">
-    <lemma>цытрус</lemma>
+    <lemma>фільм жахаў</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>цитрус</lemma>
+    <lemma>филм на ужасите</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>citrus</lemma>
+    <lemma>filmový horor</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>citrus</lemma>
+    <lemma>horor film</lemma>
+    <lemma>film strave</lemma>
   </synset>
-  <synset lang="mk" verified="false">
-    <lemma>цитрус</lemma>
+  <synset lang="mk">
+    <lemma>хорор-филм</lemma>
+    <lemma>филм на ужасите</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>cytrus</lemma>
+    <lemma>horror</lemma>
+    <lemma>film grozy</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>цитрус</lemma>
+    <lemma>фильм ужасов</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>citrus</lemma>
+    <lemma>hororový film</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>citrus</lemma>
-    <lemma>agrum</lemma>
+    <lemma>grozljivka</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>цитрус</lemma>
+    <lemma>хорор филм</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>цитрус</lemma>
+    <lemma>фільм жахів</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>horora filmo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Horrorfilm</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>citrus</lemma>
+    <lemma>horrorfilm</lemma>
   </synset>
 </multilingual-synset>

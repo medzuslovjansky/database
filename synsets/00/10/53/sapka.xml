@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1053" steen:pos="f." steen:type="1">šapka</lemma>
+    <lemma steen:id="1053" steen:pos="f." steen:type="1" steen:same="v z sl bm">
+      šapka
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>hat</lemma>
@@ -17,8 +19,7 @@
     <lemma>капялюш</lemma>
     <lemma>капялюх</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>шапка</lemma>
+  <synset lang="bg">
     <lemma>шапка</lemma>
   </synset>
   <synset lang="cs">
@@ -46,14 +47,15 @@
     <lemma>шапка</lemma>
     <lemma>шляпа</lemma>
   </synset>
-  <synset lang="sk" verified="false">
+  <synset lang="sk">
     <lemma>klobúk</lemma>
-    <lemma>čiapky</lemma>
+    <lemma>čapica</lemma>
     <lemma>čiapka</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>klobuk</lemma>
     <lemma>kapa</lemma>
+    <lemma>čepica</lemma>
   </synset>
   <synset lang="sr">
     <lemma>шешир</lemma>
@@ -86,7 +88,7 @@
     <lemma>hue</lemma>
     <lemma>kasket</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Hut</lemma>
     <lemma>Mütze</lemma>
   </synset>

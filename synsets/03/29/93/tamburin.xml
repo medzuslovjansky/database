@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="32993" steen:pos="m." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="32993"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z yu"
+      steen:genesis="I"
+    >
       tamburin
     </lemma>
   </synset>
@@ -42,8 +48,7 @@
   <synset lang="sk">
     <lemma>tamburína</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Tamburin</lemma>
+  <synset lang="sl">
     <lemma>tamburin</lemma>
   </synset>
   <synset lang="sr">

@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="14673" steen:pos="m.anim." steen:type="2">lěčitelj</lemma>
+    <lemma
+      steen:id="14673"
+      steen:pos="m.anim."
+      steen:type="3"
+      steen:same="cs bm"
+    >
+      lěčitelj
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>healer</lemma>
@@ -31,6 +38,7 @@
     <lemma>исцелител</lemma>
   </synset>
   <synset lang="pl">
+    <lemma>uzdrowiciel</lemma>
     <lemma>uzdrawiacz</lemma>
   </synset>
   <synset lang="ru">
@@ -48,8 +56,8 @@
   <synset lang="uk">
     <lemma>цілитель</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>kuracanto</lemma>
+  <synset lang="eo">
+    <lemma>resanigiisto</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>curador</lemma>
@@ -66,7 +74,7 @@
   <synset lang="da" verified="false">
     <lemma>healer</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Heiler</lemma>
   </synset>
   <synset lang="nl">

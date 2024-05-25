@@ -1,59 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37252"
+  id="37495"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="37252"
+      steen:id="37495"
       steen:pos="m."
       steen:type="1"
       steen:same="v z j"
-      steen:genesis="I"
+      steen:genesis="E"
     >
-      citrus
+      podkast
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>citrus</lemma>
+    <lemma>podcast</lemma>
   </synset>
   <synset lang="be">
-    <lemma>цытрус</lemma>
+    <lemma>падкаст</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>цитрус</lemma>
+    <lemma>подкаст</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>citrus</lemma>
+    <lemma>podcast</lemma>
   </synset>
-  <synset lang="hr">
-    <lemma>citrus</lemma>
+  <synset lang="hr" verified="false">
+    <lemma>podcast</lemma>
   </synset>
-  <synset lang="mk" verified="false">
-    <lemma>цитрус</lemma>
+  <synset lang="mk">
+    <lemma>поткаст</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>cytrus</lemma>
+    <lemma>podcast</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>цитрус</lemma>
+    <lemma>подкаст</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>citrus</lemma>
+    <lemma>podcast</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>citrus</lemma>
-    <lemma>agrum</lemma>
+    <lemma>podkast</lemma>
   </synset>
-  <synset lang="sr">
-    <lemma>цитрус</lemma>
+  <synset lang="sr" verified="false">
+    <lemma>подкаст</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>цитрус</lemma>
+    <lemma>подкаст</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>podkasto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Podcast</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>citrus</lemma>
+    <lemma>podcast</lemma>
   </synset>
 </multilingual-synset>
