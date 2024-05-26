@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="3027" steen:pos="adj." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="3027"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       fizičny
     </lemma>
   </synset>
@@ -38,9 +44,8 @@
   <synset lang="sk">
     <lemma>fyzický</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>mesen</lemma>
-    <lemma>fizično</lemma>
+  <synset lang="sl">
+    <lemma>fizičen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>телесан</lemma>

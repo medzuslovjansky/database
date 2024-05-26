@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5274" steen:pos="adj." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="5274"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       fioletovy
     </lemma>
   </synset>
@@ -44,8 +50,8 @@
   <synset lang="sk">
     <lemma>fialový</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>vijolična</lemma>
+  <synset lang="sl">
+    <lemma>vijoličen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>љубичаст</lemma>

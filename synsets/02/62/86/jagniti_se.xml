@@ -6,10 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="26286" steen:pos="v.refl. ipf.">jagniti sę</lemma>
+    <lemma steen:id="26286" steen:pos="v.refl. ipf." steen:same="v z j">
+      jagniti sę
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>yean</lemma>
+    <lemma>lamb</lemma>
   </synset>
   <synset lang="be">
     <lemma>ягніцца</lemma>
@@ -38,8 +41,8 @@
     <lemma>jahniť sa</lemma>
     <lemma>bahniť sa</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>ojagnjiti</lemma>
+  <synset lang="sl">
+    <lemma>skotiti jagnje</lemma>
   </synset>
   <synset lang="sr">
     <lemma>јагњити</lemma>

@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24194" steen:pos="f." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="24194"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v pl bm"
+      steen:genesis="I"
+    >
       aktorka
     </lemma>
   </synset>

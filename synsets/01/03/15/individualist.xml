@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="10315"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="10315" steen:pos="m.anim." steen:type="1">osobnik</lemma>
+    <lemma
+      steen:id="10315"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z sl bm"
+    >
+      individualist
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>individualist</lemma>
@@ -15,8 +21,8 @@
   <synset lang="be">
     <lemma>індывідуаліст</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>бунтар</lemma>
+  <synset lang="bg">
+    <lemma>индивидуалист</lemma>
   </synset>
   <synset lang="cs">
     <lemma>individualista</lemma>
@@ -37,10 +43,8 @@
   <synset lang="sk">
     <lemma>individualista</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>ekscentrična</lemma>
-    <lemma>osebne datoteke</lemma>
-    <lemma>self-centered oseba</lemma>
+  <synset lang="sl">
+    <lemma>individualist</lemma>
   </synset>
   <synset lang="sr">
     <lemma>особењак</lemma>
@@ -68,7 +72,7 @@
   <synset lang="da" verified="false">
     <lemma>individualistisk</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Individualist</lemma>
   </synset>
   <synset lang="nl">

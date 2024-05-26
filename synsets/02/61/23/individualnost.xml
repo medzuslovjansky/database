@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="26123" steen:pos="f." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="26123"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       individuaľnosť
     </lemma>
   </synset>
@@ -38,7 +44,7 @@
   <synset lang="sk">
     <lemma>individualita</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>individualnost</lemma>
   </synset>
   <synset lang="sr">

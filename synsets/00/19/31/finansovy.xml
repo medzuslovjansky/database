@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1931" steen:pos="adj." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="1931"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       finansovy
     </lemma>
   </synset>
@@ -37,8 +43,8 @@
   <synset lang="sk">
     <lemma>finančný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>finančna</lemma>
+  <synset lang="sl">
+    <lemma>finančen</lemma>
   </synset>
   <synset lang="sr">
     <lemma>финансијски</lemma>

@@ -6,13 +6,19 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="6130" steen:pos="m." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="6130"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v z sh bm"
+      steen:genesis="I"
+    >
       akcent
     </lemma>
   </synset>
   <synset lang="en">
     <lemma>accent</lemma>
-    <lemma annotation="accent">stress</lemma>
+    <lemma annotation="pronunciation">stress</lemma>
   </synset>
   <synset lang="be">
     <lemma>акцэнт</lemma>
