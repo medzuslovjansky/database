@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1753" steen:pos="m." steen:type="1">čep</lemma>
+    <lemma steen:id="1753" steen:pos="m." steen:type="3" steen:same="j">
+      čep
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>plug</lemma>
@@ -45,7 +47,7 @@
     <lemma>zástrčka</lemma>
     <lemma>kolík</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
     <lemma>čep</lemma>
   </synset>
   <synset lang="sr">

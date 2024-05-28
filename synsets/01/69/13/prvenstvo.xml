@@ -6,45 +6,48 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="16913" steen:pos="n." steen:type="2" steen:same="cs j">
-      pŕvenstvo
+    <lemma steen:id="16913" steen:pos="n." steen:type="1" steen:same="v z j">
+      pŕveństvo
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>championship</lemma>
+    <lemma>primacy</lemma>
+    <lemma>precedence</lemma>
+    <lemma>priority</lemma>
+    <lemma>right of way</lemma>
   </synset>
   <synset lang="be">
     <lemma>першынство</lemma>
     <lemma>першасць</lemma>
     <lemma>чэмпіянат</lemma>
   </synset>
-  <synset lang="bg" verified="false">
+  <synset lang="bg">
     <lemma>първенство</lemma>
   </synset>
   <synset lang="cs">
+    <lemma>prvenství</lemma>
     <lemma>mistrovství</lemma>
-    <lemma>šampoionát</lemma>
   </synset>
   <synset lang="hr">
     <lemma>prvenstvo</lemma>
-    <lemma>šampionat</lemma>
   </synset>
   <synset lang="mk">
     <lemma>првенство</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>mistrzostwa</lemma>
+    <lemma>pierwszeństwo</lemma>
   </synset>
   <synset lang="ru">
     <lemma>первенство</lemma>
     <lemma>чемпионат</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>majstrovstvá</lemma>
-    <lemma>šampoionát</lemma>
-  </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sk">
     <lemma>prvenstvo</lemma>
+    <lemma>majstrovstvo</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>prvenstvo</lemma>
+    <lemma>prednost</lemma>
   </synset>
   <synset lang="sr">
     <lemma>првенство</lemma>
@@ -52,9 +55,6 @@
   <synset lang="uk">
     <lemma>першість</lemma>
     <lemma>чемпіонат</lemma>
-  </synset>
-  <synset lang="eo" verified="false">
-    <lemma>konkurso</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>campeonato</lemma>
@@ -71,11 +71,13 @@
   <synset lang="da" verified="false">
     <lemma>mesterskab</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Meisterschaft</lemma>
+  <synset lang="de">
+    <lemma>Vorrang</lemma>
+    <lemma>Primat</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>kampioenschap</lemma>
+    <lemma>voorrang</lemma>
+    <lemma>primaat</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>אליפות</lemma>

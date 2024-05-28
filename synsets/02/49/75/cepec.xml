@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="24975" steen:pos="m.">čepec</lemma>
+    <lemma steen:id="24975" steen:pos="m." steen:type="2" steen:same="v z">
+      čepec
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma annotation="headgear">bonnet</lemma>

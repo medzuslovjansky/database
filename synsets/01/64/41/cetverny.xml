@@ -6,7 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="16441" steen:pos="num.mult." steen:type="1">
+    <lemma
+      steen:id="16441"
+      steen:pos="num.mult."
+      steen:type="1"
+      steen:same="v pl j"
+    >
       četverny
     </lemma>
   </synset>

@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2273" steen:pos="adj." steen:type="1">čęsty</lemma>
+    <lemma
+      steen:id="2273"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z sh bm"
+    >
+      čęsty
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>frequent</lemma>
