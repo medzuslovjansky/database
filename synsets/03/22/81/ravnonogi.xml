@@ -6,7 +6,15 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="32281" steen:pos="f.pl." steen:type="1">råvnonogy</lemma>
+    <lemma
+      steen:id="32281"
+      steen:addition="(råvnonogyh)"
+      steen:pos="m.anim.pl."
+      steen:type="1"
+      steen:same="v pl sk bg"
+    >
+      råvnonogi
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>isopoda</lemma>
@@ -15,8 +23,8 @@
     <lemma>раўнаногі</lemma>
     <lemma>ізаподы</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>равноногих ракообразни</lemma>
+  <synset lang="bg">
+    <lemma>равноноги</lemma>
   </synset>
   <synset lang="cs">
     <lemma>stejnonožci</lemma>
@@ -31,7 +39,7 @@
     <lemma>истоноги</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>równonogi</lemma>
+    <lemma>równonogie</lemma>
   </synset>
   <synset lang="ru">
     <lemma>равноногие</lemma>
@@ -41,8 +49,8 @@
     <lemma>rovnonožci</lemma>
     <lemma>isopoda</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>woodlices</lemma>
+  <synset lang="sl">
+    <lemma>enakonožci</lemma>
   </synset>
   <synset lang="sr">
     <lemma>једнаконошци</lemma>
@@ -51,8 +59,8 @@
     <lemma>рівноногі</lemma>
     <lemma>ізоподи</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>isopoda</lemma>
+  <synset lang="eo">
+    <lemma>izopodoj</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>isopoda</lemma>
@@ -69,11 +77,12 @@
   <synset lang="da" verified="false">
     <lemma>Isopoda</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Asseln</lemma>
   </synset>
   <synset lang="nl">
     <lemma>isopoda</lemma>
+    <lemma>pissebedden</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>שווה-רגלאים</lemma>
