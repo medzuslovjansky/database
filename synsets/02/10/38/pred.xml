@@ -27,7 +27,7 @@
     <lemma>назад</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>před</lemma>
+    <lemma annotation="časově">před</lemma>
   </synset>
   <synset lang="csb">
     <lemma>przed</lemma>
@@ -44,8 +44,8 @@
   <synset lang="ru">
     <lemma>тому назад</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>pred</lemma>
+  <synset lang="sk">
+    <lemma annotation="v čase">pred</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>prej</lemma>
