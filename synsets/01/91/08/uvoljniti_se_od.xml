@@ -26,7 +26,9 @@
     <lemma>да се отървете от</lemma>
   </synset>
   <synset lang="cs">
-    <lemma annotation="čeho">zbavit se</lemma>
+    <lemma>uvolnit se</lemma>
+    <lemma annotation="něčeho">zbavit se</lemma>
+    <lemma>osvobodit se od</lemma>
   </synset>
   <synset lang="hr">
     <lemma>osloboditi se</lemma>
@@ -44,8 +46,10 @@
   <synset lang="ru">
     <lemma>избавиться от</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma annotation="čoho">zbaviť sa</lemma>
+  <synset lang="sk">
+    <lemma annotation="od">uvoľniť sa z</lemma>
+    <lemma annotation="niečoho">zbaviť sa</lemma>
+    <lemma annotation="z">oslobodiť sa od</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>znebiti</lemma>
