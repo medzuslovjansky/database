@@ -1,82 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="140"
+  id="586"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="140" steen:pos="m." steen:type="1" steen:genesis="E">
-      faulj
+    <lemma steen:id="586" steen:pos="f." steen:type="1" steen:same="ru uk j">
+      sȯvěsť
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>foul</lemma>
+    <lemma>conscience</lemma>
   </synset>
   <synset lang="be">
-    <lemma>фол</lemma>
+    <lemma>сумленне</lemma>
   </synset>
-  <synset lang="bg">
-    <lemma>нарушение</lemma>
-    <lemma>фаул</lemma>
+  <synset lang="bg" verified="false">
+    <lemma>съвест</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>faul</lemma>
-  </synset>
-  <synset lang="csb">
-    <lemma>faul</lemma>
+    <lemma>svědomí</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>faul</lemma>
+    <lemma>savjest</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>фаул</lemma>
+    <lemma>совест</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>faul</lemma>
+    <lemma>sumienie</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>фол</lemma>
+    <lemma>совесть</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>faul</lemma>
+    <lemma>svedomie</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>grobe igre</lemma>
+    <lemma>vest</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>фаул</lemma>
-    <lemma annotation="спорт">прекршај</lemma>
-    <lemma>груб испад</lemma>
+    <lemma>савест</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>фол</lemma>
+    <lemma>совість</lemma>
+    <lemma>сумління</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>malbonodora</lemma>
+    <lemma>konscienco</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>falta</lemma>
+    <lemma>conciencia</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>faute</lemma>
+    <lemma>conscience</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>fallo</lemma>
+    <lemma>coscienza</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>falta</lemma>
+    <lemma>consciência</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>modbydeligt</lemma>
+    <lemma>samvittighed</lemma>
   </synset>
-  <synset lang="de">
-    <lemma>Foul</lemma>
+  <synset lang="de" verified="false">
+    <lemma>Gewissen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma annotation="sport">overtreding</lemma>
+    <lemma>geweten</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>עביר</lemma>
+    <lemma>מצפון</lemma>
   </synset>
 </multilingual-synset>
