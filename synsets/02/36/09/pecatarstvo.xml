@@ -1,69 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="23613"
+  id="23609"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23613" steen:pos="m." steen:type="2" steen:same="ru bg">
-      odpečętȯk
+    <lemma steen:id="23609" steen:pos="n.sg." steen:type="1" steen:same="ru bg">
+      pečataŕstvo
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>print</lemma>
+    <lemma>printing</lemma>
   </synset>
   <synset lang="be">
-    <lemma>адбітак</lemma>
-    <lemma>адпячатак</lemma>
-    <lemma>раздрукоўка</lemma>
+    <lemma>друк</lemma>
+    <lemma>друкаванне</lemma>
   </synset>
   <synset lang="bg" verified="false">
     <lemma>печат</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>otisk</lemma>
-    <lemma>značka</lemma>
-    <lemma>výtisk</lemma>
+    <lemma>tiskařství</lemma>
+    <lemma>tiskárna</lemma>
+    <lemma>polygrafie</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>otisak</lemma>
-    <lemma>print</lemma>
+    <lemma>ispis</lemma>
+    <lemma>printanje</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>отпечаток</lemma>
-    <lemma>отисок</lemma>
+    <lemma>печатарство</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>wydruk</lemma>
+    <lemma>druk</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>отпечаток</lemma>
-    <lemma>оттиск</lemma>
-    <lemma>распечатка</lemma>
+    <lemma>печать</lemma>
+    <lemma>печатание</lemma>
   </synset>
-  <synset lang="sk">
-    <lemma>odtlačok</lemma>
-    <lemma>značka</lemma>
-    <lemma>otisk</lemma>
+  <synset lang="sk" verified="false">
+    <lemma>tlačiarstvo</lemma>
+    <lemma>tlačiareň</lemma>
+    <lemma>polygrafia</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>tisk</lemma>
     <lemma>tiskanje</lemma>
-    <lemma>natisne</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>отисак</lemma>
-    <lemma>штампа</lemma>
-    <lemma>нешто одштампано</lemma>
-    <lemma>отпечатано</lemma>
+    <lemma>штампање</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>відбиток</lemma>
-    <lemma>відтиск</lemma>
+    <lemma>друк</lemma>
+    <lemma>друкування</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>presi</lemma>
+    <lemma>printado</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>impresión</lemma>
@@ -72,21 +65,21 @@
     <lemma>impression</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>Stampa</lemma>
+    <lemma>stampa</lemma>
   </synset>
   <synset lang="pt" verified="false">
     <lemma>impressão</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>Print</lemma>
+    <lemma>trykning</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>drucken</lemma>
+    <lemma>Drucken</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>afdruk</lemma>
+    <lemma>drukkerij</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>הדפס</lemma>
+    <lemma>הדפסה</lemma>
   </synset>
 </multilingual-synset>

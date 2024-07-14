@@ -1,61 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="23609"
+  id="2358"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23609" steen:pos="n.sg." steen:type="1" steen:same="ru bg">
-      pečętaŕstvo
+    <lemma
+      steen:id="2358"
+      steen:pos="v.tr. ipf."
+      steen:type="2"
+      steen:same="ru bg"
+    >
+      pečatati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>printing</lemma>
+    <lemma>print</lemma>
   </synset>
   <synset lang="be">
-    <lemma>друк</lemma>
-    <lemma>друкаванне</lemma>
+    <lemma>друкаваць</lemma>
   </synset>
   <synset lang="bg" verified="false">
     <lemma>печат</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>tiskařství</lemma>
-    <lemma>tiskárna</lemma>
-    <lemma>polygrafie</lemma>
+    <lemma>tisknout</lemma>
+  </synset>
+  <synset lang="dsb">
+    <lemma>śišćaś</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>ispis</lemma>
-    <lemma>printanje</lemma>
+    <lemma>tiskati</lemma>
+    <lemma>štampati</lemma>
+    <lemma>printati</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>печатарство</lemma>
+    <lemma>печати</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>druk</lemma>
+    <lemma>drukować</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>печать</lemma>
-    <lemma>печатание</lemma>
+    <lemma>печатать</lemma>
   </synset>
   <synset lang="sk" verified="false">
-    <lemma>tlačiarstvo</lemma>
-    <lemma>tlačiareň</lemma>
-    <lemma>polygrafia</lemma>
+    <lemma>tlačiť</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>tiskanje</lemma>
+    <lemma>Tiskanje</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>штампање</lemma>
+    <lemma>штампати</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>друк</lemma>
-    <lemma>друкування</lemma>
+    <lemma>друкувати</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>printado</lemma>
+    <lemma>presi</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>impresión</lemma>
@@ -64,21 +67,21 @@
     <lemma>impression</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>stampa</lemma>
+    <lemma>Stampa</lemma>
   </synset>
   <synset lang="pt" verified="false">
     <lemma>impressão</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>trykning</lemma>
+    <lemma>Print</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Drucken</lemma>
+    <lemma>drucken</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>drukkerij</lemma>
+    <lemma>drukken</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>הדפסה</lemma>
+    <lemma>הדפס</lemma>
   </synset>
 </multilingual-synset>

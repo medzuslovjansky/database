@@ -1,63 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="2358"
+  id="19252"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="2358"
-      steen:pos="v.tr. ipf."
-      steen:type="2"
-      steen:same="ru bg"
-    >
-      pečętati
+    <lemma steen:id="19252" steen:pos="n." steen:type="2" steen:same="ru j">
+      vpečatljeńje
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>print</lemma>
+    <lemma>impression</lemma>
   </synset>
   <synset lang="be">
-    <lemma>друкаваць</lemma>
+    <lemma>уражанне</lemma>
   </synset>
-  <synset lang="bg" verified="false">
-    <lemma>печат</lemma>
+  <synset lang="bg">
+    <lemma>впечатление</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>tisknout</lemma>
-  </synset>
-  <synset lang="dsb">
-    <lemma>śišćaś</lemma>
+    <lemma>dojem</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>tiskati</lemma>
-    <lemma>štampati</lemma>
-    <lemma>printati</lemma>
+    <lemma>upečatljivost</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>печати</lemma>
+    <lemma>впечаток</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>drukować</lemma>
+    <lemma>wrażenie</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>печатать</lemma>
+    <lemma>впечатление</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>tlačiť</lemma>
+  <synset lang="sk">
+    <lemma>dojem</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>Tiskanje</lemma>
+    <lemma>vtis</lemma>
+    <lemma>vtis</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>штампати</lemma>
+    <lemma>утисак</lemma>
+    <lemma>дојам</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>друкувати</lemma>
+    <lemma>враження</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>presi</lemma>
+    <lemma>impreson</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>impresión</lemma>
@@ -66,21 +59,21 @@
     <lemma>impression</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>Stampa</lemma>
+    <lemma>impressione</lemma>
   </synset>
   <synset lang="pt" verified="false">
     <lemma>impressão</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>Print</lemma>
+    <lemma>indtryk</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>drucken</lemma>
+    <lemma>Eindruck</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>drukken</lemma>
+    <lemma>indruk</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>הדפס</lemma>
+    <lemma>הרושם</lemma>
   </synset>
 </multilingual-synset>

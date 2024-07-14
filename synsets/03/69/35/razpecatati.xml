@@ -1,85 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="23616"
+  id="36935"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="23616"
-      steen:pos="m.anim."
-      steen:type="2"
-      steen:same="ru bg"
+      steen:id="36935"
+      steen:pos="v.tr. pf."
+      steen:type="1"
+      steen:same="v z j"
     >
-      pečętaŕ
+      råzpečatati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>printer</lemma>
+    <lemma>unseal</lemma>
   </synset>
   <synset lang="be">
-    <lemma>друкарка</lemma>
-    <lemma>прынтар</lemma>
+    <lemma>распячатаць</lemma>
   </synset>
   <synset lang="bg" verified="false">
-    <lemma>принтер</lemma>
+    <lemma>разпечатам</lemma>
+    <lemma annotation="отворя">отпечатам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>tiskař</lemma>
+    <lemma>rozpečetit</lemma>
+    <lemma>odpečetit</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>printer</lemma>
-    <lemma>pisač</lemma>
+    <lemma>raspečatiti</lemma>
+    <lemma>otpečatiti</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>печатач</lemma>
+    <lemma>распечати</lemma>
+    <lemma>отпечати</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>drukarz</lemma>
+    <lemma>rozpieczętować</lemma>
+    <lemma>odpieczętować</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>принтер</lemma>
+    <lemma annotation="открыть">распечатать</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>tlačiar</lemma>
+  <synset lang="sk">
+    <lemma>rozpečatiť</lemma>
+    <lemma>odpečatiť</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>tiskalnik</lemma>
-    <lemma>tiskalnik</lemma>
+    <lemma>odpečatiti</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>штампар</lemma>
-    <lemma>тискар</lemma>
+    <lemma>распечатити</lemma>
+    <lemma>одпечатити</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>принтер</lemma>
+    <lemma>розпечатати</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>presilo</lemma>
+    <lemma>malsigeli</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>impresora</lemma>
+    <lemma>abrir</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>imprimante</lemma>
+    <lemma>desceller</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>stampante</lemma>
+    <lemma>aprire</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>impressora</lemma>
-  </synset>
-  <synset lang="da" verified="false">
-    <lemma>printer</lemma>
+    <lemma>abrir o selo</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Drucker</lemma>
+    <lemma>entsiegeln</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>drukker</lemma>
+    <lemma>ontzegelen</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>מדפסת</lemma>
+    <lemma>לבטל את האיטום</lemma>
   </synset>
 </multilingual-synset>
