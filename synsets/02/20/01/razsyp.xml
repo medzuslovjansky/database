@@ -27,9 +27,9 @@
     <lemma>находище на полезни изкопаеми</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>naleziště</lemma>
     <lemma>rýžoviště</lemma>
-    <lemma>ložisko</lemma>
+    <lemma annotation="geol.">sejp</lemma>
+    <lemma annotation="geol.">rozsyp</lemma>
   </synset>
   <synset lang="hr">
     <lemma>nalazište</lemma>
@@ -48,9 +48,9 @@
     <lemma>залежь</lemma>
     <lemma>отложение</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>náleziská</lemma>
-    <lemma>ryžoviská</lemma>
+  <synset lang="sk">
+    <lemma>ryžovisko</lemma>
+    <lemma annotation="geol.">rozsyp</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>na mestu</lemma>
