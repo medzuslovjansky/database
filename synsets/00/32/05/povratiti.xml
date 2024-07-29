@@ -26,9 +26,10 @@
     <lemma annotation="тр./интр.">на завой</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>otočit</lemma>
-    <lemma>obrátit</lemma>
-    <lemma>vrátit</lemma>
+    <lemma annotation="se">otočit</lemma>
+    <lemma>zatočit</lemma>
+    <lemma annotation="se">obrátit</lemma>
+    <lemma>změnit směr</lemma>
   </synset>
   <synset lang="hr">
     <lemma>svratiti</lemma>
@@ -49,10 +50,11 @@
     <lemma>развернуться</lemma>
     <lemma>обернуться</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>otočiť</lemma>
-    <lemma>obrátiť</lemma>
-    <lemma>vrátiť</lemma>
+  <synset lang="sk">
+    <lemma annotation="sa">otočiť</lemma>
+    <lemma>zatočiť</lemma>
+    <lemma annotation="sa">obrátiť</lemma>
+    <lemma>zmeniť smer</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>obnoviti</lemma>
