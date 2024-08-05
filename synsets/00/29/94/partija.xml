@@ -21,7 +21,7 @@
     <lemma>партия</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>strana</lemma>
+    <lemma annotation="polit.">strana</lemma>
   </synset>
   <synset lang="dsb">
     <lemma>partaja</lemma>
@@ -39,8 +39,11 @@
   <synset lang="ru">
     <lemma>партия</lemma>
   </synset>
-  <synset lang="sk" verified="false">
-    <lemma>strana</lemma>
+  <synset lang="sk">
+    <lemma annotation="polit.">strana</lemma>
+    <lemma>partaj</lemma>
+    <lemma>partia</lemma>
+    <lemma>parta</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>Stranka</lemma>
