@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="25461"
+  steen:debated="addition"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="25461" steen:pos="v.intr. ipf.">dyhtěti</lemma>
+    <lemma steen:id="25461" steen:addition="(dyhti)" steen:pos="v.intr. ipf.">
+      dyhtěti
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>pant</lemma>
@@ -25,6 +28,8 @@
     <lemma>supět</lemma>
     <lemma>těžce dýchat</lemma>
     <lemma>zadýchávat se</lemma>
+    <lemma>funět</lemma>
+    <lemma>vzdychat</lemma>
   </synset>
   <synset lang="hr">
     <lemma>dahtanje</lemma>
@@ -43,6 +48,10 @@
   <synset lang="sk">
     <lemma>dychčať</lemma>
     <lemma>ťažko dýchať</lemma>
+    <lemma>fučať</lemma>
+    <lemma>supieť</lemma>
+    <lemma>funieť</lemma>
+    <lemma>vzdychať</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>Hlačke</lemma>
