@@ -1,0 +1,58 @@
+name: Annotate PR
+
+on:
+  pull_request:
+    branches: [beta]
+    types: [opened, synchronize, reopened, edited]
+    paths:
+      - 'synsets/**/*.xml'
+
+jobs:
+  update-comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2 # Fetches the last 2 commits
+
+      - name: List all changed synsets
+        id: diff
+        run: |
+          CHANGED_FILES=$(git diff --name-only beta...${{ github.head_ref }} -- 'synsets/**/*.xml')
+          echo "Changed synsets:"
+          echo "$CHANGED_FILES"
+          echo "CHANGED_FILES=${CHANGED_FILES}" >> $GITHUB_ENV
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No changes in synsets folder. Skipping the rest of the job."
+            exit 78
+          fi
+
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install dependencies
+        uses: bahmutov/npm-install@v1
+        with:
+          useLockFile: false
+
+      - name: Generate Comment File
+        run: scripts/annotate-pr ${{ env.CHANGED_FILES }} > comment-body.md
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v2
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: Summary of Changes
+
+      - name: Create or Update Comment
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body-path: 'comment-body.md'
+          edit-mode: replace
