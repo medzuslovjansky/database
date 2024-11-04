@@ -1,58 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="5819"
+  steen:debated="partOfSpeech"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5819" steen:pos="v.ipf." steen:type="1">poględati</lemma>
+    <lemma steen:id="5819" steen:pos="v.pf." steen:type="1">poględati</lemma>
   </synset>
   <synset lang="en">
     <lemma>look at</lemma>
   </synset>
-  <synset lang="be">
-    <lemma>глядзець</lemma>
-    <lemma>пазіраць</lemma>
-    <lemma>зорыць</lemma>
-    <lemma>назіраць</lemma>
-    <lemma>наглядаць</lemma>
+  <synset lang="be" verified="false">
+    <lemma>паглядзець</lemma>
+    <lemma>зірнуць</lemma>
   </synset>
   <synset lang="bg" verified="false">
-    <lemma>разгледай</lemma>
+    <lemma>погледна</lemma>
+    <lemma>надникна</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>pohlížet</lemma>
-    <lemma>dívat se</lemma>
+    <lemma>pohlédnout</lemma>
+    <lemma>podívat se</lemma>
+    <lemma>pohledět</lemma>
+  </synset>
+  <synset lang="cu" verified="false">
+    <lemma>възрѣти</lemma>
+    <lemma>воззрѣти</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>pogledati</lemma>
+    <lemma>pògledati</lemma>
   </synset>
-  <synset lang="mk">
-    <lemma>погледа</lemma>
+  <synset lang="mk" verified="false">
+    <lemma>погледне</lemma>
   </synset>
-  <synset lang="pl">
-    <lemma>obserwować</lemma>
-    <lemma>patrzeć</lemma>
+  <synset lang="pl" verified="false">
+    <lemma>popatrzeć</lemma>
+    <lemma>spojrzeć</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>смотреть</lemma>
-    <lemma>наблюдать</lemma>
+    <lemma>посмотреть</lemma>
+    <lemma>взглянуть</lemma>
   </synset>
   <synset lang="sk">
     <lemma>pohľadať</lemma>
-    <lemma>pozerať sa</lemma>
-    <lemma>prezerať</lemma>
+    <lemma>pozrieť</lemma>
+    <lemma>pozrieť sa</lemma>
+    <lemma>prezrieť</lemma>
+    <lemma>podívať sa</lemma>
+    <lemma>pohľadieť</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>pogled</lemma>
+  <synset lang="sl">
+    <lemma>pogledati</lemma>
   </synset>
   <synset lang="sr">
     <lemma>погледати</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>дивитися</lemma>
-    <lemma>спостерігати</lemma>
+    <lemma>подивитися</lemma>
+    <lemma>поглянути</lemma>
+    <lemma annotation="розм.">поглядіти</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>rigardi</lemma>
@@ -73,10 +81,11 @@
     <lemma>se på</lemma>
   </synset>
   <synset lang="de" verified="false">
+    <lemma>anschauen</lemma>
     <lemma>ansehen</lemma>
   </synset>
-  <synset lang="nl">
-    <lemma>kijken naar</lemma>
+  <synset lang="nl" verified="false">
+    <lemma>bekijken</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>להסתכל על</lemma>

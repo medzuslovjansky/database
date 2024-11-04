@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37510"
+  steen:debated="isv"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37510"
+      steen:pos="v.intr. ipf."
+      steen:type="2"
+      steen:same="v pl"
+    >
+      poględyvati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>glance</lemma>
+    <lemma>cast a glance</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паглядаць</lemma>
+    <lemma>пазіраць</lemma>
+    <lemma>зіркаць</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>поглеждам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>pokukovat</lemma>
+    <lemma>koukat</lemma>
+    <lemma annotation="letmo">hledět</lemma>
+    <lemma>dívat se</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pogledavati</lemma>
+    <lemma>poglédati</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>погледнува</lemma>
+    <lemma>ѕирка</lemma>
+  </synset>
+  <synset lang="pl" verified="false">
+    <lemma>spoglądać</lemma>
+    <lemma>zerkać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>поглядывать</lemma>
+    <lemma>посматривать</lemma>
+    <lemma>взглядывать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sa">pozerať</lemma>
+    <lemma annotation="letmo">hľadieť</lemma>
+    <lemma>pokukovať</lemma>
+    <lemma>dívať sa</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>pogledovati</lemma>
+    <lemma>zirkati</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>погледавати</lemma>
+    <lemma>поглéдати</lemma>
+    <lemma>зиркати</lemma>
+    <lemma>завиривати</lemma>
+    <lemma>гледуцкати</lemma>
+    <lemma>провиривати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поглядати</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigardo</lemma>
+    <lemma>la flustristojn peek</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blick</lemma>
+    <lemma>blick</lemma>
+    <lemma>spähen</lemma>
+  </synset>
+  <synset lang="nl" verified="false">
+    <lemma>blikken</lemma>
+    <lemma>een blik werpen</lemma>
+  </synset>
+</multilingual-synset>

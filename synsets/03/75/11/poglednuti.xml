@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37511"
+  steen:debated="isv"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="37511"
+      steen:pos="v.intr. pf."
+      steen:type="1"
+      steen:same="ub sk bg pl"
+    >
+      poględnųti
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>glance</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>паглядзець</lemma>
+    <lemma>глянуць</lemma>
+    <lemma>зірнуць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>поглед</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>podívat se</lemma>
+    <lemma>pohlédnout</lemma>
+    <lemma>kouknout</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>pògledati</lemma>
+    <lemma>zirnuti</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>погледна</lemma>
+    <lemma>виде</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zerknąć</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>посмотреть</lemma>
+    <lemma>глянуть</lemma>
+    <lemma>взглянуть</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="sa">pozrieť</lemma>
+    <lemma>podívať sa</lemma>
+    <lemma>pokuknúť</lemma>
+    <lemma annotation="sa">pokukať</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>glednuti</lemma>
+    <lemma>poglednuti</lemma>
+    <lemma>pogled</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>гледнути</lemma>
+    <lemma>погледнути</lemma>
+    <lemma>бацити поглед</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>поглянути</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>rigardo</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Blick</lemma>
+  </synset>
+  <synset lang="nl" verified="false">
+    <lemma>blikken</lemma>
+    <lemma>een blik werpen</lemma>
+  </synset>
+</multilingual-synset>
