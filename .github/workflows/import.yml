@@ -40,7 +40,7 @@ jobs:
       - name: Upload log file
         uses: actions/upload-artifact@v4
         with:
-          name: database-engine-log
+          name: database-engine-log-${{ matrix.branch }}
           path: isv-*.log
 
       - name: Commit changes

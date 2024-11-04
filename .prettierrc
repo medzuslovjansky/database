@@ -10,9 +10,9 @@
       ],
       "options": {
         "parser": "xml",
-        "htmlWhitespaceSensitivity": "ignore"
+        "xmlWhitespaceSensitivity": "ignore",
+        "tabWidth": 2
       }
     }
-  ],
-  "tabWidth": 2
+  ]
 }
