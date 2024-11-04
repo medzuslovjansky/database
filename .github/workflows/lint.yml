@@ -10,13 +10,13 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2 # To retrieve the preceding commit.
 
       - name: Get all changed files
         id: the_changes
-        uses: tj-actions/changed-files@v36
+        uses: tj-actions/changed-files@v45
         with:
           files: |
             synsets/**/*.xml
@@ -25,7 +25,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libxml2-utils
 
       - name: Use Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
 

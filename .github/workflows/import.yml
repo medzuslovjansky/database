@@ -11,7 +11,7 @@ jobs:
         branch: [stable, beta]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ matrix.branch }}
 
@@ -19,7 +19,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libxml2-utils
 
       - name: Use Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
 
@@ -38,7 +38,7 @@ jobs:
           JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
 
       - name: Upload log file
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: database-engine-log
           path: isv-*.log
