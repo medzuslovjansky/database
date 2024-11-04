@@ -2,7 +2,7 @@ name: Merge into Google Sheets
 on:
   pull_request:
     types: [closed]
-    branches: [beta]
+    branches: [main]
 jobs:
   push:
     if: github.event.pull_request.merged == true
@@ -33,7 +33,7 @@ jobs:
       - name: Push changes to Google Sheets
         run: npx isv synsets push --only ${{ steps.the_changes.outputs.all_changed_files }}
         env:
-          ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
+          ISV_BETA: 'true'
           ISV_DEBUG: 'true'
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
           ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}

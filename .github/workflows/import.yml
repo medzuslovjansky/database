@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        branch: [stable, beta]
+        branch: [main]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,7 +31,7 @@ jobs:
       - name: Fetch synsets
         run: npx isv synsets pull
         env:
-          ISV_BETA: ${{ matrix.branch != 'stable' && 'true' || 'false' }}
+          ISV_BETA: 'true'
           ISV_DEBUG: 'true'
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
           ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
