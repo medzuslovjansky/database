@@ -3,19 +3,24 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "format": "scripts/format",
     "lint": "scripts/lint-synset"
   },
   "devDependencies": {
-    "@interslavic/database-engine": "^1.1.2",
-    "husky": "^8.0.3",
+    "@interslavic/cli": "^2.0.2",
+    "husky": "^9.1.6",
     "lint-staged": "^13.2.2",
-    "prettier": "^2.8.8",
-    "@prettier/plugin-xml": "^2.2.0"
+    "prettier": "^3.3.3",
+    "@prettier/plugin-xml": "^3.4.1"
   },
   "lint-staged": {
-    "synsets/**/*.xml": ["scripts/lint-synset", "scripts/format"],
-    "schemas/**/*.xsd": ["scripts/format"]
+    "synsets/**/*.xml": [
+      "scripts/lint-synset",
+      "scripts/format"
+    ],
+    "schemas/**/*.xsd": [
+      "scripts/format"
+    ]
   }
 }

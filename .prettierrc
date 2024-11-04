@@ -1,4 +1,18 @@
 {
-    "tabWidth": 2,
-    "xmlWhitespaceSensitivity": "ignore"
+  "plugins": [
+    "@prettier/plugin-xml"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "*.xml",
+        "*.xsd"
+      ],
+      "options": {
+        "parser": "xml",
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    }
+  ],
+  "tabWidth": 2
 }
