@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="2428" steen:pos="m." steen:type="1">krest</lemma>
+    <lemma
+      steen:id="2428"
+      steen:addition="(krėsta)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      krėst
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>baptisement</lemma>
