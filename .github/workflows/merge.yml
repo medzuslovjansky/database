@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Important: This is required to get the full commit history
+          fetch-depth: 0
 
       - name: Get changed files
         id: the_changes
@@ -31,12 +31,12 @@ jobs:
           useLockFile: false
 
       - name: Push changes to Google Sheets
-        run: npx isv synsets push --only ${{ steps.the_changes.outputs.all_changed_files }}
+        run: npx isv synsets push --partial --only ${{ steps.the_changes.outputs.all_changed_files }}
         env:
-          ISV_BETA: 'true'
           ISV_DEBUG: 'true'
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
           ISV_ENCRYPTION_IV: ${{ secrets.ISV_ENCRYPTION_IV }}
+          ISV_NOTE: ${{ github.event.pull_request.body }}
           JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
 
       - name: Upload log file
