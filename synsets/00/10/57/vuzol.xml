@@ -1,76 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="33324"
+  id="1057"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="33324" steen:pos="m." steen:type="1">
-      limfatičny vųzel
-    </lemma>
+    <lemma steen:id="1057" steen:pos="m." steen:type="1">vųzȯl</lemma>
   </synset>
   <synset lang="en">
-    <lemma>lymph node</lemma>
+    <lemma>knot</lemma>
   </synset>
   <synset lang="be">
-    <lemma>лімфатычны вузел</lemma>
+    <lemma>вузел</lemma>
+    <lemma>кукла</lemma>
+    <lemma>клунак</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>лимфен възел</lemma>
+    <lemma>възел</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>lymfatická uzlina</lemma>
+    <lemma>uzel</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>limfni čvor</lemma>
+    <lemma>čvor</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>лимфни јазли</lemma>
+    <lemma>јазол</lemma>
+    <lemma>возел</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>węzeł chłonny</lemma>
+    <lemma>węzeł</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>лимфатический узел</lemma>
+    <lemma>узел</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>lymfatická uzlina</lemma>
+    <lemma>uzol</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>bezgavke</lemma>
+    <lemma>vozlišče</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>лимфни чвор</lemma>
+    <lemma>чвор</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>лімфовузол</lemma>
+    <lemma>вузол</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>ganglioj nodo</lemma>
+    <lemma>nodon</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>ganglio linfático</lemma>
+    <lemma>nudo</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>ganglion lymphatique</lemma>
+    <lemma>nœud</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>linfonodo</lemma>
+    <lemma>nodo</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>linfonodo</lemma>
+    <lemma>nó</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>lymfeknude</lemma>
+    <lemma>knude</lemma>
   </synset>
-  <synset lang="de">
-    <lemma>Lymphknoten</lemma>
+  <synset lang="de" verified="false">
+    <lemma>Knoten</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>lymfeklier</lemma>
+    <lemma>knoop</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>בלוטת לימפה</lemma>
+    <lemma>קשר</lemma>
   </synset>
 </multilingual-synset>

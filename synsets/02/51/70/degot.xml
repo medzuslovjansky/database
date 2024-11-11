@@ -1,84 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="1057"
+  id="25170"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="1057"
-      steen:addition="(vųzla)"
+      steen:id="25170"
+      steen:addition="(degťa)"
       steen:pos="m."
       steen:type="1"
+      steen:same="v z"
     >
-      vųzel
+      degȯť
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>knot</lemma>
+    <lemma>tar</lemma>
   </synset>
   <synset lang="be">
-    <lemma>вузел</lemma>
-    <lemma>кукла</lemma>
-    <lemma>клунак</lemma>
+    <lemma>дзёгаць</lemma>
+    <lemma>смала</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>възел</lemma>
+    <lemma>катран</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>uzel</lemma>
+    <lemma>dehet</lemma>
+    <lemma>smůla</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>čvor</lemma>
+    <lemma>katran</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>јазол</lemma>
-    <lemma>возел</lemma>
+    <lemma>катран</lemma>
+    <lemma>смола</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>węzeł</lemma>
+    <lemma>smoła</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>узел</lemma>
+    <lemma>дёготь</lemma>
+    <lemma>смола</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>uzol</lemma>
+    <lemma>decht</lemma>
+    <lemma>smola</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>vozlišče</lemma>
+  <synset lang="sl">
+    <lemma>katran</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>чвор</lemma>
+    <lemma>катран</lemma>
+    <lemma>смола</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>вузол</lemma>
+    <lemma>смола</lemma>
+    <lemma>дьоготь</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>nodon</lemma>
+    <lemma>gudro</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>nudo</lemma>
+    <lemma>alquitrán</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>nœud</lemma>
+    <lemma>le goudron</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>nodo</lemma>
+    <lemma>catrame</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>nó</lemma>
+    <lemma>alcatrão</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>knude</lemma>
+    <lemma>tjære</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>Knoten</lemma>
+    <lemma>Teer</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>knoop</lemma>
+    <lemma>teer</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>קשר</lemma>
+    <lemma>זפת</lemma>
   </synset>
 </multilingual-synset>

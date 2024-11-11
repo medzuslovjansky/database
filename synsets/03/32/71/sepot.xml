@@ -6,7 +6,14 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="33271" steen:pos="m." steen:type="1">šepot</lemma>
+    <lemma
+      steen:id="33271"
+      steen:addition="(šėpȯta)"
+      steen:pos="m."
+      steen:type="1"
+    >
+      šėpȯt
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>whisper</lemma>

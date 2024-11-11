@@ -1,89 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="25170"
+  id="33324"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma
-      steen:id="25170"
-      steen:addition="(degťa)"
-      steen:pos="m."
-      steen:type="1"
-      steen:same="v z"
-    >
-      degeť
+    <lemma steen:id="33324" steen:pos="m." steen:type="1">
+      limfatičny vųzȯl
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>tar</lemma>
+    <lemma>lymph node</lemma>
   </synset>
   <synset lang="be">
-    <lemma>дзёгаць</lemma>
-    <lemma>смала</lemma>
+    <lemma>лімфатычны вузел</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>катран</lemma>
+    <lemma>лимфен възел</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>dehet</lemma>
-    <lemma>smůla</lemma>
+    <lemma>lymfatická uzlina</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>katran</lemma>
+    <lemma>limfni čvor</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>катран</lemma>
-    <lemma>смола</lemma>
+    <lemma>лимфни јазли</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>smoła</lemma>
+    <lemma>węzeł chłonny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>дёготь</lemma>
-    <lemma>смола</lemma>
+    <lemma>лимфатический узел</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>decht</lemma>
-    <lemma>smola</lemma>
+    <lemma>lymfatická uzlina</lemma>
   </synset>
-  <synset lang="sl">
-    <lemma>katran</lemma>
+  <synset lang="sl" verified="false">
+    <lemma>bezgavke</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>катран</lemma>
-    <lemma>смола</lemma>
+    <lemma>лимфни чвор</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>смола</lemma>
-    <lemma>дьоготь</lemma>
+    <lemma>лімфовузол</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>gudro</lemma>
+    <lemma>ganglioj nodo</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>alquitrán</lemma>
+    <lemma>ganglio linfático</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>le goudron</lemma>
+    <lemma>ganglion lymphatique</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>catrame</lemma>
+    <lemma>linfonodo</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>alcatrão</lemma>
+    <lemma>linfonodo</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>tjære</lemma>
+    <lemma>lymfeknude</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>Teer</lemma>
+  <synset lang="de">
+    <lemma>Lymphknoten</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>teer</lemma>
+    <lemma>lymfeklier</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>זפת</lemma>
+    <lemma>בלוטת לימפה</lemma>
   </synset>
 </multilingual-synset>
