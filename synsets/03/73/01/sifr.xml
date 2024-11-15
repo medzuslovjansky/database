@@ -31,6 +31,9 @@
   <synset lang="hr">
     <lemma>šifra</lemma>
   </synset>
+  <synset lang="mk" verified="false">
+    <lemma annotation="шифра">шифра</lemma>
+  </synset>
   <synset lang="pl">
     <lemma>szyfr</lemma>
   </synset>
@@ -52,10 +55,25 @@
   <synset lang="eo">
     <lemma>ĉifro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="código">cifrado</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="code">chiffre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="codice">cifra</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="código">cifra</lemma>
+  </synset>
   <synset lang="de">
     <lemma>Verschlüsselung</lemma>
   </synset>
   <synset lang="nl">
     <lemma>code</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="קוד">צופן</lemma>
   </synset>
 </multilingual-synset>

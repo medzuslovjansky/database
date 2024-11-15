@@ -39,6 +39,10 @@
     <lemma>dodatak</lemma>
     <lemma>nagrada</lemma>
   </synset>
+  <synset lang="mk" verified="false">
+    <lemma>премија</lemma>
+    <lemma annotation="на плата">бонус</lemma>
+  </synset>
   <synset lang="pl">
     <lemma>premia</lemma>
     <lemma>dodatek</lemma>
@@ -52,13 +56,50 @@
     <lemma>odmena</lemma>
     <lemma>prémia</lemma>
   </synset>
+  <synset lang="sl" verified="false">
+    <lemma>premija</lemma>
+    <lemma annotation="na plačo">bonus</lemma>
+  </synset>
   <synset lang="sr">
     <lemma>премија</lemma>
     <lemma>додатак</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>премія</lemma>
+    <lemma>преміальні</lemma>
+    <lemma>надбавка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>premio</lemma>
+    <lemma annotation="al salajro">gratifiko</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma>prima</lemma>
+    <lemma annotation="al salario">bonificación</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>prime</lemma>
+    <lemma annotation="au salaire">bonus</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>premio</lemma>
+    <lemma annotation="allo stipendio">bonus</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>prêmio</lemma>
+    <lemma annotation="ao salário">bônus</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>Prämie</lemma>
+    <lemma annotation="zum Gehalt">Bonus</lemma>
   </synset>
   <synset lang="nl">
     <lemma>premie</lemma>
     <lemma>bonus</lemma>
     <lemma>toeslag</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>פרמיה</lemma>
+    <lemma annotation="לשכר">בונוס</lemma>
   </synset>
 </multilingual-synset>

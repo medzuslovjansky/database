@@ -11,19 +11,19 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>great</lemma>
+    <lemma annotation="of a person">big</lemma>
   </synset>
   <synset lang="be">
-    <lemma>вялікі</lemma>
-    <lemma>буйны</lemma>
+    <lemma>дужы</lemma>
+    <lemma annotation="рослы">здаровы</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>голям</lemma>
-    <lemma>велик</lemma>
+    <lemma>едър</lemma>
+    <lemma annotation="здрав">як</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>velký</lemma>
-    <lemma>rozsáhlý</lemma>
+    <lemma>urostlý</lemma>
+    <lemma>statný</lemma>
   </synset>
   <synset lang="csb">
     <lemma>vjelgji</lemma>
@@ -31,42 +31,39 @@
     <lemma>vjôlgji</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>velik</lemma>
-    <lemma>veliki</lemma>
+    <lemma>krupan</lemma>
+    <lemma>snažan</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>голем</lemma>
     <lemma>крупен</lemma>
-    <lemma>велик</lemma>
+    <lemma>јадар</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>duży</lemma>
+    <lemma annotation="rosły">duży</lemma>
+    <lemma>postawny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>большой</lemma>
-    <lemma>крупный</lemma>
-    <lemma>великий</lemma>
+    <lemma>дюжий</lemma>
+    <lemma annotation="рослый">здоровый</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>veľký</lemma>
-    <lemma>rozsiahly</lemma>
+    <lemma>urastený</lemma>
+    <lemma>mohutný</lemma>
   </synset>
-  <synset lang="sl" verified="false">
+  <synset lang="sl">
+    <lemma annotation="postaven">čokat</lemma>
     <lemma>velik</lemma>
-    <lemma>velik</lemma>
-    <lemma>ogromen</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>велик</lemma>
-    <lemma>велики</lemma>
-    <lemma>голем</lemma>
+    <lemma>крупан</lemma>
+    <lemma>снажан</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>великий</lemma>
-    <lemma>значний</lemma>
+    <lemma>дужий</lemma>
+    <lemma annotation="рослий">здоровий</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>granda</lemma>
+    <lemma annotation="de homo">granda</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>estupendo</lemma>
@@ -84,10 +81,10 @@
     <lemma>store</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>groß</lemma>
+    <lemma annotation="von einer Person">groß</lemma>
   </synset>
-  <synset lang="nl">
-    <lemma>groot</lemma>
+  <synset lang="nl" verified="false">
+    <lemma annotation="van een persoon">groot</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>גדול</lemma>
