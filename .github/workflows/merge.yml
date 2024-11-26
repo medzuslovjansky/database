@@ -31,7 +31,10 @@ jobs:
           useLockFile: false
 
       - name: Push changes to Google Sheets
-        run: npx isv synsets push --partial --only ${{ steps.the_changes.outputs.all_changed_files }}
+        id: push_changes
+        continue-on-error: true
+        run: |
+          npx isv synsets push --partial --only ${{ steps.the_changes.outputs.all_changed_files }}
         env:
           ISV_DEBUG: 'true'
           ISV_ENCRYPTION_KEY: ${{ secrets.ISV_ENCRYPTION_KEY }}
@@ -40,7 +43,12 @@ jobs:
           JWT_TOKEN: ${{ secrets.JWT_TOKEN }}
 
       - name: Upload log file
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: database-engine-log
           path: isv-*.log
+
+      - name: Check push result
+        if: steps.push_changes.outcome == 'failure'
+        run: exit 1
