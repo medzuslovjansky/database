@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37582">uličny</lemma>
+    <lemma steen:id="37582" steen:pos="adj.">uličny</lemma>
   </synset>
   <synset lang="en">
     <lemma>street</lemma>
@@ -43,7 +43,7 @@
   <synset lang="sr" verified="false">
     <lemma>улични</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>вуличний</lemma>
   </synset>
 </multilingual-synset>

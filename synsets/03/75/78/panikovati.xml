@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37578">panikovati</lemma>
+    <lemma steen:id="37578" steen:pos="v.intr. ipf.">panikovati</lemma>
   </synset>
   <synset lang="en">
     <lemma>panic</lemma>
@@ -44,7 +44,7 @@
     <lemma>паничити</lemma>
     <lemma>паничарити</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>панікувати</lemma>
   </synset>
 </multilingual-synset>

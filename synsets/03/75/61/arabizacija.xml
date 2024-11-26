@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37561">arabizacija</lemma>
+    <lemma steen:id="37561" steen:pos="f.">arabizacija</lemma>
   </synset>
   <synset lang="en">
     <lemma>arabization</lemma>
@@ -41,7 +41,7 @@
   <synset lang="sr" verified="false">
     <lemma>арабизација</lemma>
   </synset>
-  <synset lang="uk" verified="false">
-    <lemma annotation="рідк.">арабізація</lemma>
+  <synset lang="uk">
+    <lemma annotation="істор.">арабізація</lemma>
   </synset>
 </multilingual-synset>

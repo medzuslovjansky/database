@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37576">nomad</lemma>
+    <lemma steen:id="37576" steen:pos="m.anim.">nomad</lemma>
   </synset>
   <synset lang="en">
     <lemma>nomad</lemma>
@@ -44,7 +44,8 @@
   <synset lang="sr" verified="false">
     <lemma>номад</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>номад</lemma>
+    <lemma>кочівник</lemma>
   </synset>
 </multilingual-synset>

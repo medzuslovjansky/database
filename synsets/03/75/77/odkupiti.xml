@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37577">odkupiti</lemma>
+    <lemma steen:id="37577" steen:pos="v.tr. pf.">odkupiti</lemma>
   </synset>
   <synset lang="en">
     <lemma>buy out</lemma>
@@ -42,7 +42,7 @@
   <synset lang="sr" verified="false">
     <lemma>откупити</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>викупити</lemma>
   </synset>
 </multilingual-synset>

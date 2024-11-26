@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37574">doletěti</lemma>
+    <lemma steen:id="37574" steen:pos="v.intr. pf.">doletěti</lemma>
   </synset>
   <synset lang="en">
     <lemma annotation="to reach a destination by flying">to fly</lemma>
@@ -41,7 +41,7 @@
   <synset lang="sr" verified="false">
     <lemma>долетети</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>долетіти</lemma>
   </synset>
 </multilingual-synset>

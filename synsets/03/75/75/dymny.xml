@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37575">dymny</lemma>
+    <lemma steen:id="37575" steen:pos="adj.">dymny</lemma>
   </synset>
   <synset lang="en">
     <lemma>smoky</lemma>
@@ -42,7 +42,8 @@
   <synset lang="sr" verified="false">
     <lemma>димни</lemma>
   </synset>
-  <synset lang="uk" verified="false">
+  <synset lang="uk">
     <lemma>димний</lemma>
+    <lemma>задимлений</lemma>
   </synset>
 </multilingual-synset>
