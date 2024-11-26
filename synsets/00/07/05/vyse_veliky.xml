@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="705"
+  steen:debated="partOfSpeech"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="705" steen:pos="adj." steen:type="5">vyše veliky</lemma>
+    <lemma steen:id="705" steen:pos="adj.comp." steen:type="5">
+      vyše veliky
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>bigger</lemma>
