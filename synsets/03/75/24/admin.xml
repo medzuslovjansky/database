@@ -6,10 +6,11 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37524" steen:pos="m.anim.">admin</lemma>
+    <lemma steen:id="37524" steen:pos="m.anim." steen:genesis="I">admin</lemma>
   </synset>
   <synset lang="en">
-    <lemma>admin</lemma>
+    <lemma annotation="slang">admin</lemma>
+    <lemma>administrator</lemma>
   </synset>
   <synset lang="be" verified="false">
     <lemma>адмiн</lemma>

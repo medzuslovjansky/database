@@ -6,9 +6,11 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37543" steen:pos="adj.">androginny</lemma>
+    <lemma steen:id="37543" steen:pos="adj." steen:genesis="I">
+      androginny
+    </lemma>
   </synset>
-  <synset lang="en" verified="false">
+  <synset lang="en">
     <lemma>androgynous</lemma>
   </synset>
   <synset lang="be" verified="false">

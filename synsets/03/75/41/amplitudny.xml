@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37541" steen:pos="adj.">amplitudny</lemma>
+    <lemma steen:id="37541" steen:pos="adj." steen:genesis="I">
+      amplitudny
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>amplitude</lemma>

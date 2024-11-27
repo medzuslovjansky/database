@@ -6,9 +6,11 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37540" steen:pos="adj.">amortizacijny</lemma>
+    <lemma steen:id="37540" steen:pos="adj." steen:genesis="I">
+      amortizacijny
+    </lemma>
   </synset>
-  <synset lang="en" verified="false">
+  <synset lang="en">
     <lemma>amortization</lemma>
   </synset>
   <synset lang="be" verified="false">

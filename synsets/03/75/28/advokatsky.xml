@@ -6,12 +6,12 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37528" steen:pos="adj.">advokatsky</lemma>
+    <lemma steen:id="37528" steen:pos="adj." steen:genesis="I">
+      advokatsky
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>
-      lawyer &apos; s
-    </lemma>
+    <lemma>lawyer</lemma>
   </synset>
   <synset lang="be" verified="false">
     <lemma>адвакацкі</lemma>

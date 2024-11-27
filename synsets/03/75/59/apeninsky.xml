@@ -6,10 +6,11 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37559" steen:pos="adj.">Apeninsky</lemma>
+    <lemma steen:id="37559" steen:pos="adj." steen:genesis="I">apeninsky</lemma>
   </synset>
-  <synset lang="en" verified="false">
-    <lemma annotation="related to Apennine Mountains">Apennine</lemma>
+  <synset lang="en">
+    <lemma>Apennine</lemma>
+    <lemma>Appenine-related</lemma>
   </synset>
   <synset lang="be" verified="false">
     <lemma>апенінскі</lemma>

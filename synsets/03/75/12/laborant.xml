@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37512" steen:pos="m.anim.">laborant</lemma>
+    <lemma steen:id="37512" steen:pos="m.anim." steen:genesis="I">
+      laborant
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>laboratory assistant</lemma>
