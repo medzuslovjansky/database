@@ -22,9 +22,6 @@
   <synset lang="cs">
     <lemma>admin</lemma>
   </synset>
-  <synset lang="hr" verified="false">
-    <lemma>admin</lemma>
-  </synset>
   <synset lang="mk" verified="false">
     <lemma>админ</lemma>
   </synset>
@@ -40,8 +37,9 @@
   <synset lang="sl" verified="false">
     <lemma>admin</lemma>
   </synset>
-  <synset lang="sr" verified="false">
+  <synset lang="sr">
     <lemma>админ</lemma>
+    <lemma annotation="информатика">администратор</lemma>
   </synset>
   <synset lang="uk">
     <lemma>адмін</lemma>

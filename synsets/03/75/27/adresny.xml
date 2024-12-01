@@ -21,10 +21,6 @@
     <lemma>adresný</lemma>
     <lemma>adresní</lemma>
   </synset>
-  <synset lang="hr" verified="false">
-    <lemma>adresni</lemma>
-    <lemma>adresa</lemma>
-  </synset>
   <synset lang="mk" verified="false">
     <lemma>адресен</lemma>
   </synset>
@@ -41,8 +37,9 @@
     <lemma>adreso</lemma>
     <lemma>naslovni</lemma>
   </synset>
-  <synset lang="sr" verified="false">
+  <synset lang="sr">
     <lemma>адресни</lemma>
+    <lemma annotation="број">поштански</lemma>
   </synset>
   <synset lang="uk">
     <lemma>адресний</lemma>

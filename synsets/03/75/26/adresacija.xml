@@ -21,9 +21,6 @@
   <synset lang="cs">
     <lemma>adresace</lemma>
   </synset>
-  <synset lang="hr" verified="false">
-    <lemma>adresiranje</lemma>
-  </synset>
   <synset lang="mk" verified="false">
     <lemma>адресирање</lemma>
   </synset>
@@ -40,8 +37,9 @@
   <synset lang="sl" verified="false">
     <lemma>naslavljanje</lemma>
   </synset>
-  <synset lang="sr" verified="false">
-    <lemma>адресирање</lemma>
+  <synset lang="sr">
+    <lemma annotation="информатика">адресирање</lemma>
+    <lemma annotation="пошта">адресовање</lemma>
   </synset>
   <synset lang="uk">
     <lemma>адресація</lemma>
