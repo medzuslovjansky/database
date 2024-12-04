@@ -6,13 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37649" steen:pos="v.pf.tr.">demoralizovati</lemma>
+    <lemma steen:id="37649" steen:pos="v.tr. pf.">demoralizovati</lemma>
   </synset>
   <synset lang="en">
     <lemma>demoralize</lemma>
   </synset>
-  <synset lang="be">
-    <lemma>~дэмаралізаваць</lemma>
+  <synset lang="be" verified="false">
+    <lemma>дэмаралізаваць</lemma>
   </synset>
   <synset lang="bg" verified="false">
     <lemma>деморализирам</lemma>
@@ -21,11 +21,11 @@
   <synset lang="cs">
     <lemma>demoralizovat</lemma>
   </synset>
-  <synset lang="hr">
-    <lemma>~demoralizirati</lemma>
+  <synset lang="hr" verified="false">
+    <lemma>demoralizirati</lemma>
   </synset>
-  <synset lang="mk">
-    <lemma>~деморализира</lemma>
+  <synset lang="mk" verified="false">
+    <lemma>деморализира</lemma>
   </synset>
   <synset lang="pl">
     <lemma>zdemoralizować</lemma>
@@ -37,8 +37,8 @@
   <synset lang="sk">
     <lemma>demoralizovať</lemma>
   </synset>
-  <synset lang="sl">
-    <lemma>~demoralizirati</lemma>
+  <synset lang="sl" verified="false">
+    <lemma>demoralizirati</lemma>
   </synset>
   <synset lang="sr" verified="false">
     <lemma>деморалисати</lemma>
