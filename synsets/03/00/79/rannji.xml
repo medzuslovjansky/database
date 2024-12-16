@@ -6,8 +6,8 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="30079" steen:pos="adj.">rannji</lemma>
-    <lemma steen:id="30079" steen:pos="adj.">rany</lemma>
+    <lemma steen:id="30079" steen:pos="adj." steen:type="1">rannji</lemma>
+    <lemma steen:id="30079" steen:pos="adj." steen:type="1">rany</lemma>
   </synset>
   <synset lang="en">
     <lemma>early</lemma>
@@ -38,6 +38,7 @@
   </synset>
   <synset lang="mk">
     <lemma>ран</lemma>
+    <lemma>предвремен</lemma>
   </synset>
   <synset lang="pl">
     <lemma>wczesny</lemma>
