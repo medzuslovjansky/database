@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37808"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37808" steen:pos="f.">svinina</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>pork</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>свініна</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma annotation="свинско">свинско месо</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>vepřové maso</lemma>
+    <lemma>vepřové</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>svinjetina</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma annotation="свинско">свинско месо</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wieprzowina</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>свинина</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>bravčové mäso</lemma>
+    <lemma>bravčové</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>svinjina</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>свињетина</lemma>
+    <lemma>свињско месо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>свинина</lemma>
+  </synset>
+</multilingual-synset>

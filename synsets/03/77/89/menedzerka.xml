@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37789"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37789" steen:pos="f.">menedžerka</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="female">manager</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>менеджарка</lemma>
+  </synset>
+  <synset lang="bg" verified="false">
+    <lemma>мениджърка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>manažerka</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>menadžerica</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>менаџерка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>menedżerka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>женщина-менеджер</lemma>
+    <lemma annotation="разг.">менеджерша</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>manažérka</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>menedžerka</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>менаџерка</lemma>
+    <lemma>menadžerka</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>менеджерка</lemma>
+  </synset>
+</multilingual-synset>
