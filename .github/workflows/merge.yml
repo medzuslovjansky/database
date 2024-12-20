@@ -1,8 +1,9 @@
 name: Merge into Google Sheets
 on:
-  pull_request:
+  pull_request_target:
     types: [closed]
     branches: [main]
+
 jobs:
   push:
     if: github.event.pull_request.merged == true
