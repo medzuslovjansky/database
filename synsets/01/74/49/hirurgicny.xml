@@ -1,76 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="17450"
+  id="17449"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17450" steen:pos="f." steen:type="1" steen:genesis="I">
-      hirugija
+    <lemma steen:id="17449" steen:pos="adj." steen:type="1" steen:genesis="I">
+      hirurgičny
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>surgery</lemma>
+    <lemma>surgical</lemma>
   </synset>
   <synset lang="be">
-    <lemma>хірургія</lemma>
+    <lemma>хірургічны</lemma>
   </synset>
   <synset lang="bg">
     <lemma>хирургически</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>chirurgie</lemma>
+    <lemma>chirurgický</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>kirurgija</lemma>
+    <lemma>kirurški</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>хирургија</lemma>
+    <lemma>хируршки</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>chirurgia</lemma>
+    <lemma>chirurgiczny</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>хирургия</lemma>
+    <lemma>хирургический</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>chirurgia</lemma>
+    <lemma>chirurgický</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>operacija</lemma>
+    <lemma>kirurška</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>хирургија</lemma>
+    <lemma>хируршки</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>хірургія</lemma>
+    <lemma>хірургічний</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>kirurgio</lemma>
+    <lemma>kirurgian</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>cirugía</lemma>
+    <lemma>quirúrgico</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>chirurgie</lemma>
+    <lemma>chirurgical</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>chirurgia</lemma>
+    <lemma>chirurgico</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>cirurgia</lemma>
+    <lemma>cirúrgico</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>kirurgi</lemma>
+    <lemma>kirurgisk</lemma>
   </synset>
-  <synset lang="de">
-    <lemma>Chirurgie</lemma>
+  <synset lang="de" verified="false">
+    <lemma>chirurgisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>chirurgie</lemma>
+    <lemma>chirurgisch</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>ניתוח</lemma>
+    <lemma>כירורגי</lemma>
   </synset>
 </multilingual-synset>

@@ -1,76 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="17449"
+  id="5121"
+  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17449" steen:pos="adj." steen:type="1" steen:genesis="I">
-      hirugičny
+    <lemma
+      steen:id="5121"
+      steen:pos="v.tr. ipf."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      klikati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>surgical</lemma>
+    <lemma>click</lemma>
   </synset>
   <synset lang="be">
-    <lemma>хірургічны</lemma>
+    <lemma>клікаць</lemma>
+    <lemma>шчоўкаць</lemma>
+    <lemma>пстрыкаць</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>хирургически</lemma>
+    <lemma>цъкам</lemma>
+    <lemma>кликвам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>chirurgický</lemma>
+    <lemma>klikat</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>kirurški</lemma>
+    <lemma>klikati</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>хируршки</lemma>
+    <lemma>кликнува</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>chirurgiczny</lemma>
+    <lemma>klikać</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>хирургический</lemma>
+    <lemma>кликать</lemma>
+    <lemma>щёлкать кнопкой мыши</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>chirurgický</lemma>
+    <lemma>klikať</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>kirurška</lemma>
+    <lemma>klik</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>хируршки</lemma>
+    <lemma>кликати</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>хірургічний</lemma>
+    <lemma>клацати</lemma>
+    <lemma>натискати</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>kirurgian</lemma>
+    <lemma>klaku</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>quirúrgico</lemma>
+    <lemma>hacer clic</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>chirurgical</lemma>
+    <lemma>Cliquez sur</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>chirurgico</lemma>
+    <lemma>clic</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>cirúrgico</lemma>
+    <lemma>clique</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>kirurgisk</lemma>
+    <lemma>klik</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>chirurgisch</lemma>
+    <lemma>klicken</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>chirurgisch</lemma>
+    <lemma>klikken</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>כירורגי</lemma>
+    <lemma>קליק</lemma>
   </synset>
 </multilingual-synset>
