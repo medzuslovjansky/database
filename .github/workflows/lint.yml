@@ -16,7 +16,7 @@ jobs:
 
       - name: Get all changed files
         id: the_changes
-        uses: tj-actions/changed-files@v45
+        uses: tj-actions/changed-files@v46.0.1
         with:
           files: |
             synsets/**/*.xml
