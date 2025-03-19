@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="36617"
+  steen:debated="type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36617" steen:pos="m." steen:genesis="I">subjekt</lemma>
+    <lemma steen:id="36617" steen:pos="m." steen:type="1" steen:genesis="I">
+      subjekt
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma annotation="philosophy, logic, law etc.">subject</lemma>
