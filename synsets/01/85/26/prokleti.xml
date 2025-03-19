@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="18526"
-  steen:debated="en,type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -11,14 +10,13 @@
       steen:id="18526"
       steen:addition="(proklne)"
       steen:pos="v.tr. pf."
-      steen:type="2"
+      steen:type="1"
     >
       proklęti
     </lemma>
   </synset>
   <synset lang="en">
     <lemma>curse</lemma>
-    <lemma>damn</lemma>
   </synset>
   <synset lang="be">
     <lemma>вылаяць</lemma>
@@ -40,8 +38,7 @@
   <synset lang="pl">
     <lemma annotation="kogoś">przeklnąć</lemma>
   </synset>
-  <synset lang="ru" verified="false">
-    <lemma>проклясть</lemma>
+  <synset lang="ru">
     <lemma>выругать</lemma>
   </synset>
   <synset lang="sk">
@@ -57,7 +54,6 @@
   </synset>
   <synset lang="uk">
     <lemma>вилаяти</lemma>
-    <lemma>проклясти</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>malbenos</lemma>

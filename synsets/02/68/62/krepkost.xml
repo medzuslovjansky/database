@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="26862"
-  steen:debated="en"
+  steen:debated="en,type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="26862" steen:pos="f.">krěpkosť</lemma>
+    <lemma steen:id="26862" steen:pos="f." steen:type="1">krěpkosť</lemma>
   </synset>
   <synset lang="en">
     <lemma>vigour</lemma>
