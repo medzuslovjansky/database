@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="17100"
+  steen:debated="type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -9,7 +10,7 @@
     <lemma
       steen:id="17100"
       steen:pos="f."
-      steen:type="1"
+      steen:type="2"
       steen:same="v cs j"
       steen:genesis="I"
     >

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="1629"
+  steen:debated="type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -10,7 +11,7 @@
       steen:id="1629"
       steen:addition="(vas, vam, vami)"
       steen:pos="pron.pers."
-      steen:type="1"
+      steen:type="2"
     >
       vy
     </lemma>

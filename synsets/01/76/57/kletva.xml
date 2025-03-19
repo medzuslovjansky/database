@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="17657"
-  steen:debated="en,type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="17657" steen:pos="f." steen:type="2">klętva</lemma>
+    <lemma steen:id="17657" steen:pos="f." steen:type="1">klętva</lemma>
   </synset>
   <synset lang="en">
     <lemma>curse</lemma>
-    <lemma>malediction</lemma>
   </synset>
   <synset lang="be">
     <lemma>праклён</lemma>
-    <lemma>кляцьба</lemma>
-    <lemma>пракляцце</lemma>
   </synset>
   <synset lang="bg">
     <lemma>проклятие</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>prokletí</lemma>
-    <lemma annotation="zast.">kletva</lemma>
     <lemma>kletba</lemma>
+    <lemma>prokletí</lemma>
     <lemma>klatba</lemma>
+    <lemma annotation="zast.">kletva</lemma>
   </synset>
   <synset lang="cu">
     <lemma>клѧтва</lemma>
@@ -43,8 +39,8 @@
     <lemma>проклятие</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>prekliatie</lemma>
     <lemma>kliatba</lemma>
+    <lemma>prekliatie</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>prekletstvo</lemma>
@@ -54,7 +50,6 @@
   </synset>
   <synset lang="uk">
     <lemma>прокляття</lemma>
-    <lemma>клятьба</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>malbenos</lemma>
