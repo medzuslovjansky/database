@@ -6,7 +6,9 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37786" steen:pos="f.">magnetoterapija</lemma>
+    <lemma steen:id="37786" steen:pos="f." steen:type="1">
+      magnetoterapija
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>magnet therapy</lemma>

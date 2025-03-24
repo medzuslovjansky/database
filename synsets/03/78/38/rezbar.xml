@@ -6,7 +6,7 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37838" steen:pos="m.">rězbaŕ</lemma>
+    <lemma steen:id="37838" steen:pos="m." steen:type="1">rězbaŕ</lemma>
   </synset>
   <synset lang="en">
     <lemma>carver</lemma>
@@ -43,6 +43,7 @@
   </synset>
   <synset lang="sr">
     <lemma>резбар</lemma>
+    <lemma>graver</lemma>
   </synset>
   <synset lang="uk" verified="false">
     <lemma>різьбяр</lemma>
