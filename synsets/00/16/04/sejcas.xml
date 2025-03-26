@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="1604"
-  steen:debated="isv"
+  steen:debated="isv,type"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="1604" steen:pos="adv." steen:type="1">sėjčas</lemma>
+    <lemma steen:id="1604" steen:pos="adv." steen:type="3">sėjčas</lemma>
   </synset>
   <synset lang="en">
     <lemma>now</lemma>
