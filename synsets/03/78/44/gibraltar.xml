@@ -1,52 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37774"
+  id="37844"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37774" steen:pos="m." steen:type="1">kodeks</lemma>
+    <lemma steen:id="37844" steen:pos="m." steen:type="1" steen:same="v z j">
+      Gibraltar
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>code</lemma>
-    <lemma>codex</lemma>
+    <lemma>Gibraltar</lemma>
   </synset>
   <synset lang="be">
-    <lemma>кодэкс</lemma>
+    <lemma>Гібралтар</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>кодекс</lemma>
+    <lemma>Гибралтар</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>kodex</lemma>
-    <lemma>zákoník</lemma>
+    <lemma>Gibraltar</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>kodeks</lemma>
+    <lemma>Gibraltar</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>кодекс</lemma>
+    <lemma>Гибралтар</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>kodeks</lemma>
+    <lemma>Gibraltar</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>кодекс</lemma>
-    <lemma>право</lemma>
-    <lemma annotation="свод законов">законник</lemma>
+    <lemma>Гибралтар</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>kódex</lemma>
-    <lemma>zákonník</lemma>
+    <lemma>Gibraltár</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>kodeks</lemma>
+    <lemma>Gibraltar</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>кодекс</lemma>
+    <lemma>Гибралтар</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>кодекс</lemma>
+    <lemma>Ґібралтар</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Gibraltar</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Gibraltar</lemma>
   </synset>
 </multilingual-synset>

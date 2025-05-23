@@ -1,49 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="37688"
+  id="37843"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="37688" steen:pos="adj." steen:type="1">estetičny</lemma>
+    <lemma
+      steen:id="37843"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="E"
+    >
+      bloger
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>aesthetic</lemma>
+    <lemma>blogger</lemma>
   </synset>
   <synset lang="be">
-    <lemma>эстэтычны</lemma>
+    <lemma>блогер</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>естетичен</lemma>
+    <lemma>блогър</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>estetický</lemma>
+    <lemma>bloger</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>estetičan</lemma>
+    <lemma>bloger</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>естетски</lemma>
+    <lemma>блогер</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>estetyczny</lemma>
+    <lemma>bloger</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>эстетичный</lemma>
+    <lemma>блогер</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>estetický</lemma>
+    <lemma>bloger</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>estetičen</lemma>
-    <lemma>estetski</lemma>
+    <lemma>bloger</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>естетски</lemma>
-    <lemma>естетичан</lemma>
+    <lemma>блогер</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>естетичний</lemma>
+    <lemma>блогер</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>bloganto</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Blogger</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>blogger</lemma>
   </synset>
 </multilingual-synset>
