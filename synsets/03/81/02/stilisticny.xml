@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38102"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38102"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      stilističny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>stylistic</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>стылістычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>стилистичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>stylistický</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>stylistyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>стилистический</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>стилістичний</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>stilistisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>stilistisch</lemma>
+  </synset>
+</multilingual-synset>

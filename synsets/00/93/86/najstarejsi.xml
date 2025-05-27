@@ -6,8 +6,10 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="9386" steen:pos="adj." steen:type="1">najstarějši</lemma>
-    <lemma steen:id="9386" steen:pos="adj." steen:type="1">najstarši</lemma>
+    <lemma steen:id="9386" steen:pos="adj.sup." steen:type="1">
+      najstarějši
+    </lemma>
+    <lemma steen:id="9386" steen:pos="adj.sup." steen:type="1">najstarši</lemma>
   </synset>
   <synset lang="en">
     <lemma>eldest</lemma>

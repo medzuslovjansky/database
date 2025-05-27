@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38071"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38071" steen:pos="f." steen:type="1" steen:same="v pl bg">
+      dějateljka
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>doer</lemma>
+    <lemma>activist</lemma>
+    <lemma annotation="f.">active figure</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дзеячка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>działaczka</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>діячка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>agantino</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>doenster</lemma>
+    <lemma>activiste</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38085"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38085"
+      steen:pos="adj."
+      steen:same="v pl bm"
+      steen:genesis="I"
+    >
+      fortepianny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>piano</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фартэпіянны</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klavírní</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>klavirski</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>fortepianowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фортепианный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klavírny</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>klavirski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>клавирски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фортепіанний</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Klavier-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>piano-</lemma>
+  </synset>
+</multilingual-synset>

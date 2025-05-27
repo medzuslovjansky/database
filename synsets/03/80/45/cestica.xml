@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38045"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38045"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v cs sh bm"
+    >
+      čęstica
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="grammar">particle</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>часціца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>частица</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>částice</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>čestica</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>честичка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>partykuła</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="грам.">частица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>častica</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>partikula</lemma>
+    <lemma>členek</lemma>
+    <lemma>členica</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>честица</lemma>
+    <lemma>речца</lemma>
+    <lemma>партикула</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>частка</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>partiklo</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Partikel</lemma>
+    <lemma>Redeteilchen</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>partikel</lemma>
+  </synset>
+</multilingual-synset>

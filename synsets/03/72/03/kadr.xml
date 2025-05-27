@@ -55,6 +55,22 @@
     <lemma>pafo</lemma>
     <lemma annotation="filmo">kadro</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>toma</lemma>
+    <lemma annotation="película">fotograma</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>plan</lemma>
+    <lemma annotation="film">cadre</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>ripresa</lemma>
+    <lemma annotation="film">inquadratura</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>tomada</lemma>
+    <lemma annotation="filme">quadro</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Aufnahme</lemma>
     <lemma annotation="Film">Bild</lemma>
@@ -62,5 +78,9 @@
   <synset lang="nl">
     <lemma>shot</lemma>
     <lemma annotation="film">frame</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>צילום</lemma>
+    <lemma annotation="סרט">מסגרת</lemma>
   </synset>
 </multilingual-synset>

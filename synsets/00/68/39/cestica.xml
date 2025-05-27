@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="6839"
-  steen:debated="en,pl"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -12,7 +11,7 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>particle</lemma>
+    <lemma annotation="fraction">particle</lemma>
   </synset>
   <synset lang="be">
     <lemma>часціца</lemma>
@@ -48,8 +47,6 @@
   <synset lang="sr">
     <lemma>честица</lemma>
     <lemma>делић</lemma>
-    <lemma>речца</lemma>
-    <lemma>партикула</lemma>
   </synset>
   <synset lang="uk">
     <lemma>частинка</lemma>
@@ -74,10 +71,11 @@
   </synset>
   <synset lang="de">
     <lemma>Partikel</lemma>
+    <lemma>Teilchen</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>partikel</lemma>
     <lemma>deeltje</lemma>
+    <lemma>partikel</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>חלקיקים</lemma>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="2358"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -17,16 +16,18 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>print</lemma>
+    <lemma annotation="publish">print</lemma>
   </synset>
   <synset lang="be">
-    <lemma>друкаваць</lemma>
+    <lemma annotation="публікаваць">друкаваць</lemma>
   </synset>
   <synset lang="bg">
     <lemma>печатам</lemma>
+    <lemma annotation="публикувам">напечатвам</lemma>
   </synset>
   <synset lang="cs">
     <lemma>tisknout</lemma>
+    <lemma annotation="publikovat">otiskovat</lemma>
   </synset>
   <synset lang="dsb">
     <lemma>śišćaś</lemma>
@@ -38,24 +39,28 @@
   </synset>
   <synset lang="mk">
     <lemma>печати</lemma>
+    <lemma annotation="публикува">отпечатува</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>drukować</lemma>
+    <lemma annotation="publikować">drukować</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>печатать</lemma>
+    <lemma annotation="публиковать">печатать</lemma>
   </synset>
   <synset lang="sk">
     <lemma>tlačiť</lemma>
+    <lemma>odtláčať</lemma>
+    <lemma annotation="publikovať">vytláčať</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>Tiskanje</lemma>
   </synset>
   <synset lang="sr">
     <lemma>штампати</lemma>
+    <lemma>одштампавати</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>друкувати</lemma>
+    <lemma annotation="публікувати">друкувати</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>presi</lemma>
@@ -79,7 +84,7 @@
     <lemma>drucken</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>drukken</lemma>
+    <lemma annotation="publiceren">drukken</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>הדפס</lemma>

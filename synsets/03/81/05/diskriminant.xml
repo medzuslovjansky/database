@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38105"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38105"
+      steen:pos="m."
+      steen:type="1"
+      steen:same="v cs j"
+      steen:genesis="I"
+    >
+      diskriminant
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>discriminant</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дыскрымінант</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>дискриминанта</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>diskriminant</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>wyróżnik wielomianu</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>дискриминант</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>diskriminant</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>diskriminanta</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma annotation="матем.">дискриминанта</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>дискримінант</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>discriminant</lemma>
+  </synset>
+</multilingual-synset>

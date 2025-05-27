@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38073"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38073"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      folkloristka
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="f.">folklorist</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>фалькларыстка</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>фолклористка</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>фолклористка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>folklorystka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>фольклористка</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>фольклористка</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>folkloriste</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38084"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38084"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v pl sh bm"
+      steen:genesis="I"
+    >
+      horovy
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>choral</lemma>
+    <lemma>choir</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>харавы</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>хоров</lemma>
+  </synset>
+  <synset lang="cs" verified="false">
+    <lemma>sborový</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>zborski</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>хорски</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>chóralny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>хоровой</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>zborový</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>zborovski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>хорски</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>хоровий</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>ĥora</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Chor-</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>koor-</lemma>
+  </synset>
+</multilingual-synset>

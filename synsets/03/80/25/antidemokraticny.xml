@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38025"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38025"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      antidemokratičny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>antidemocratic</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>антыдэмакратычны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>антидемократичен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>protidemokratický</lemma>
+    <lemma>antidemokratický</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>antydemokratyczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>антидемократический</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>protidemokratický</lemma>
+    <lemma>antidemokratický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>protidemokratično</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>антидемократски</lemma>
+    <lemma>противдемократски</lemma>
+    <lemma>недемократски</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>антидемократичний</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kontraŭdemokratia</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>antidemokratisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>antidemocratisch</lemma>
+  </synset>
+</multilingual-synset>

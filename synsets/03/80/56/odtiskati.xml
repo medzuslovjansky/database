@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38056"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38056" steen:pos="v.tr. ipf.">odtiskati</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>imprint</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="пакідаць адбіткі">адбівацца</lemma>
+    <lemma>убівацца</lemma>
+    <lemma>адціскваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="оставям отпечатък">отпечатвам</lemma>
+    <lemma>впечатам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otiskávat</lemma>
+    <lemma>vyrážet</lemma>
+    <lemma>orážet</lemma>
+    <lemma>razítkovat</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>utiskivati</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпечатува</lemma>
+    <lemma>втиснува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>odciskać</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="оставить отпечатки">отпечатывать</lemma>
+    <lemma>впечатывать</lemma>
+    <lemma>оттискивать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>otláčať</lemma>
+    <lemma>odtláčať</lemma>
+    <lemma>pečiatkovať</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>отискивати</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="залишити відбитки">друкувати</lemma>
+    <lemma>удруковувати</lemma>
+    <lemma>відтискувати</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>inprenten</lemma>
+    <lemma>een afdruk achterlaten</lemma>
+  </synset>
+</multilingual-synset>

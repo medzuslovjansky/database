@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38049"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38049"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      komunikativny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>sociable</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>камунікабельны</lemma>
+    <lemma>кампанейскі</lemma>
+    <lemma>кантактны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>общителен</lemma>
+    <lemma>комуникативен</lemma>
+    <lemma>контактен</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>společenský</lemma>
+    <lemma>družný</lemma>
+    <lemma>přátelský</lemma>
+    <lemma>komunikativní</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>prijateljski</lemma>
+    <lemma>druželjubiv</lemma>
+    <lemma>društven</lemma>
+    <lemma>kompanijski</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>пријателски</lemma>
+    <lemma>друже</lemma>
+    <lemma>убив</lemma>
+    <lemma>дружеубив</lemma>
+    <lemma>комуникативни</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>towarzyski</lemma>
+    <lemma>komunikatywny</lemma>
+    <lemma>kontaktowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>общительный</lemma>
+    <lemma>коммуникабельный</lemma>
+    <lemma>компанейский</lemma>
+    <lemma>контактный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>spoločenský</lemma>
+    <lemma>družný</lemma>
+    <lemma>priateľský</lemma>
+    <lemma>komunikatívny</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>komunikativni</lemma>
+    <lemma>družabni</lemma>
+    <lemma>komunikacijski</lemma>
+    <lemma>kontaktni</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>комуникативан</lemma>
+    <lemma>пријатељски</lemma>
+    <lemma>дружељубив</lemma>
+    <lemma>друштвен</lemma>
+    <lemma>компанејски</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>комунікабельний</lemma>
+    <lemma>компанійський</lemma>
+    <lemma>контактний</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>communicatief</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38074"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38074"
+      steen:pos="n."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      intermeco
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>intermezzo</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>intermezzo</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>intermeco</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>intermezzo</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>интермеццо</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>інтермецо</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Intermezzo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>intermezzo</lemma>
+  </synset>
+</multilingual-synset>

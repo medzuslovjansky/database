@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="32536"
-  steen:debated="en,isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -17,55 +16,45 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>print</lemma>
-    <lemma>unseal</lemma>
+    <lemma>print out</lemma>
   </synset>
   <synset lang="be">
+    <lemma>надрукоўваць</lemma>
+    <lemma>раздрукоўваць</lemma>
     <lemma>аддрукоўваць</lemma>
-    <lemma>выдрукоўваць</lemma>
-    <lemma>адціскаць</lemma>
-    <lemma>адбіваць</lemma>
-    <lemma>адпячатваць</lemma>
-    <lemma>распячатваць</lemma>
   </synset>
   <synset lang="bg">
     <lemma>отпечатвам</lemma>
+    <lemma>разпечатвам</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>otiskávat</lemma>
-    <lemma>tisknout</lemma>
-    <lemma>odpečeťovat</lemma>
-    <lemma>rozpečeťovat</lemma>
-  </synset>
-  <synset lang="hr">
-    <lemma>tiskati</lemma>
-    <lemma>štampati</lemma>
+    <lemma>natiskávat</lemma>
+    <lemma>vytiskávat</lemma>
   </synset>
   <synset lang="mk">
     <lemma>отпечатува</lemma>
+    <lemma>испечатува</lemma>
   </synset>
   <synset lang="pl">
+    <lemma>drukować</lemma>
     <lemma>wydrukowywać</lemma>
-    <lemma>odpięczętywować</lemma>
   </synset>
   <synset lang="ru">
+    <lemma>распечатывать</lemma>
     <lemma>отпечатывать</lemma>
+    <lemma>печатать</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>otláčať</lemma>
-    <lemma>odtláčať</lemma>
-    <lemma>odpečaťovat</lemma>
-  </synset>
-  <synset lang="sl" verified="false">
-    <lemma>tisk</lemma>
-    <lemma>tisk</lemma>
-    <lemma>odplul</lemma>
+    <lemma>natláčať</lemma>
+    <lemma>vytláčať</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>одпечатити</lemma>
+    <lemma>штампати</lemma>
+    <lemma>одштампавати</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>видруковувати</lemma>
+    <lemma>друковати</lemma>
+    <lemma>роздруковувати</lemma>
   </synset>
   <synset lang="eo" verified="false">
     <lemma>presi</lemma>
@@ -97,7 +86,7 @@
   </synset>
   <synset lang="nl">
     <lemma>afdrukken</lemma>
-    <lemma>ontzegelen</lemma>
+    <lemma>uitprinten</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>להדפיס</lemma>

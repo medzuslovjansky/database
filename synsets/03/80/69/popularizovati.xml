@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38069"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38069"
+      steen:pos="v.tr. ipf./pf."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      popularizovati
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>popularize</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>популяризувати</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>популяризирам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>popularizovat</lemma>
+    <lemma>zpopularizovat</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>popularizować</lemma>
+    <lemma>spopularizować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>популяризировать</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>папулярызаваць</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>popularisieren</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>populariseren</lemma>
+  </synset>
+</multilingual-synset>

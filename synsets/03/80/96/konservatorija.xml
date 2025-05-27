@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38096"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38096"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      konservatorija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="music">conservatory</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>кансэрваторыя</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>консерватория</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>konzervatoř</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>konzervatorijm</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>konserwatorium</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>консерватория</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>konzervatórium</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>конзерваторијум !</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>консерваторія</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>konservatorio</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Konservatorium</lemma>
+    <lemma>Musikhochschule</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>conservatorium</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38078"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38078"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      orkestracija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>orchestration</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>оркестровка</lemma>
+    <lemma>оркестрация</lemma>
+    <lemma>оркестриране</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>orchestrace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>orkestracija</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>orkiestracja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>оркестровка</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>оркестрација</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>оркестрування</lemma>
+    <lemma>оркестровка</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>orkestrado</lemma>
+    <lemma>orkestrigo</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>orkestratie</lemma>
+  </synset>
+</multilingual-synset>

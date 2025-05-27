@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38059"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38059" steen:pos="v.tr. pf.">napečatati</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="publish">print</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="апублікаваць">надрукаваць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>печатам</lemma>
+    <lemma>публикувам</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>otisknout</lemma>
+    <lemma>opublikovat</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma>отпечати</lemma>
+    <lemma>публикува</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="opublikować">wydrukować</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="опубликовать">напечатать</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>odtlačiť</lemma>
+    <lemma>vytalčiť</lemma>
+    <lemma>opublikovať</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>одштампати</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma annotation="опублікувати">надрукувати</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="publiceren">drukken</lemma>
+  </synset>
+</multilingual-synset>

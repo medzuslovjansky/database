@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38086"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38086"
+      steen:pos="f."
+      steen:type="2"
+      steen:same="v bg"
+      steen:genesis="F"
+    >
+      piesa
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="music">piece</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>п’еса</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>пиеса</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>skladba</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>komad</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>utwór</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пьеса</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>skladba</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>skladba</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>комад</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>п’єса</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Musik">Stück</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="muziek">stuk</lemma>
+  </synset>
+</multilingual-synset>

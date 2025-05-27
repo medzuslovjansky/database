@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="37945"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="37945" steen:pos="adj.">večinstveny</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>majority</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>большасць</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="с мнозинство">преобладаващ</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>většinový</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>većina</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>мнозинство</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>większościowy</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>большинства</lemma>
+    <lemma>преобладающий</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>väčšinový</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>večina</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>већина</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>більшість</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>plimulto</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>mehrheitlich</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>meerderheids-</lemma>
+  </synset>
+</multilingual-synset>

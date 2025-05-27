@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38061"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38061" steen:pos="f.">tipkovna grěška</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>typo</lemma>
+    <lemma>typing error</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>памылка друку</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>печатна грешка</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>překlep</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>greška u tipkanju</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>печатна грешка</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>literówka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>опечатка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>preklep</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>штампарска грешка</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>одрук</lemma>
+    <lemma>хибодрук</lemma>
+    <lemma>друкарська помилка</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>drukfout</lemma>
+    <lemma>typfout</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38046"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38046" steen:pos="m." steen:type="3" steen:same="sk yu">
+      gumbik
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="clothing">button</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>гузік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma annotation="облекло">копче</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma annotation="oděv">knoflík</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>gumb</lemma>
+    <lemma>dugme</lemma>
+    <lemma annotation="odjeća">puce</lemma>
+  </synset>
+  <synset lang="mk">
+    <lemma annotation="облека">копче</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="odzież">guzik</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>пуговица</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma annotation="odev">gombík</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma annotation="oblačila">gumb</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>дугме</lemma>
+    <lemma>пуце</lemma>
+    <lemma>гумб</lemma>
+    <lemma>гомба</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>ґудзик</lemma>
+    <lemma>гудзик</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>butono</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma annotation="Kleidung">Knopf</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="kleding">knoop</lemma>
+  </synset>
+</multilingual-synset>

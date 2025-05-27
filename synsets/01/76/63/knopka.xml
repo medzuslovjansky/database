@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="17663"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -12,7 +11,7 @@
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>button</lemma>
+    <lemma annotation="pressable">button</lemma>
   </synset>
   <synset lang="be">
     <lemma>кнопка</lemma>
@@ -25,7 +24,6 @@
     <lemma>tlačítko</lemma>
     <lemma annotation="aparát">knoflík</lemma>
     <lemma>klapka</lemma>
-    <lemma annotation="cvoček">připínák</lemma>
   </synset>
   <synset lang="csb">
     <lemma>knąpka</lemma>
@@ -40,7 +38,8 @@
     <lemma>копче</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>guzik</lemma>
+    <lemma annotation="aparat">guzik</lemma>
+    <lemma>przycisk</lemma>
   </synset>
   <synset lang="ru">
     <lemma>кнопка</lemma>
@@ -49,7 +48,6 @@
     <lemma>tlačidlo</lemma>
     <lemma annotation="aparát">gombík</lemma>
     <lemma>klapka</lemma>
-    <lemma>cvočka</lemma>
   </synset>
   <synset lang="sl">
     <lemma>gumb</lemma>
@@ -78,11 +76,12 @@
   <synset lang="da" verified="false">
     <lemma>knap</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>Taste</lemma>
+    <lemma>Knopf</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>knoop</lemma>
+    <lemma>knop</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>כפתור</lemma>

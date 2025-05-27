@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="23403"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -18,6 +17,8 @@
   </synset>
   <synset lang="en">
     <lemma>booty</lemma>
+    <lemma>plunder</lemma>
+    <lemma>loot</lemma>
   </synset>
   <synset lang="be">
     <lemma>здабыча</lemma>

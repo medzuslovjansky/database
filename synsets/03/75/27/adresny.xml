@@ -23,6 +23,10 @@
     <lemma>adresný</lemma>
     <lemma>adresní</lemma>
   </synset>
+  <synset lang="hr" verified="false">
+    <lemma>adresa</lemma>
+    <lemma>poštanski broj</lemma>
+  </synset>
   <synset lang="mk">
     <lemma>адресен</lemma>
     <lemma>поштенски</lemma>
@@ -50,10 +54,26 @@
   <synset lang="eo" verified="false">
     <lemma>adreso</lemma>
   </synset>
+  <synset lang="es" verified="false">
+    <lemma>DIRECCIÓN</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma>adresse</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma>indirizzo</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma>endereço</lemma>
+  </synset>
   <synset lang="de" verified="false">
     <lemma>Adresse</lemma>
   </synset>
-  <synset lang="nl" verified="false">
-    <lemma>adres</lemma>
+  <synset lang="nl">
+    <lemma>adres-</lemma>
+    <lemma>adressen-</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma>כְּתוֹבֶת</lemma>
   </synset>
 </multilingual-synset>

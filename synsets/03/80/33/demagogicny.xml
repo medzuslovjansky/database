@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38033"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38033"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      demagogičny
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>demagogic</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>дэмагагічны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>демагогски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>demagogický</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>демагошки</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>demagogiczny</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>демагогический</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>demagogický</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>demagoško</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>демагошки</lemma>
+    <lemma>популистички</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>демагогічний</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>demagogia</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>demagogisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>demagogisch</lemma>
+  </synset>
+</multilingual-synset>

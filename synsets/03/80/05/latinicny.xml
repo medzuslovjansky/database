@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38005"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38005" steen:pos="adj.">latiničsky</lemma>
+    <lemma steen:id="38005" steen:pos="adj.">latiničny</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="alphabet">Latin</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma annotation="алфавіт">лацініца</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>латински</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>latinský</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma annotation="abeceda">latinica</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma annotation="азбука">латиница</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma annotation="alfabet">latiński</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="алфавит">латинский</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>latinský</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma annotation="abeceda">latinica</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma annotation="азбука">латиница</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma annotation="алфавіт">латиниця</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma annotation="alfabeto">la latina</lemma>
+  </synset>
+  <synset lang="es" verified="false">
+    <lemma annotation="alfabeto">latín</lemma>
+  </synset>
+  <synset lang="fr" verified="false">
+    <lemma annotation="alphabet">latin</lemma>
+  </synset>
+  <synset lang="it" verified="false">
+    <lemma annotation="alfabeto">latino</lemma>
+  </synset>
+  <synset lang="pt" verified="false">
+    <lemma annotation="alfabeto">Latim</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma annotation="Alphabet">Latein</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma annotation="alfabet">Latijns</lemma>
+  </synset>
+  <synset lang="he" verified="false">
+    <lemma annotation="אלפבית">לטינית</lemma>
+  </synset>
+</multilingual-synset>

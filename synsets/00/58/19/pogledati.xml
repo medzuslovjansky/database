@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="5819"
-  steen:debated="partOfSpeech"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="5819" steen:pos="v.pf." steen:type="1">poględati</lemma>
+    <lemma steen:id="5819" steen:pos="v.intr. pf." steen:type="1">
+      poględati
+    </lemma>
   </synset>
   <synset lang="en">
     <lemma>look at</lemma>
@@ -34,7 +35,7 @@
   <synset lang="mk" verified="false">
     <lemma>погледне</lemma>
   </synset>
-  <synset lang="pl" verified="false">
+  <synset lang="pl">
     <lemma>popatrzeć</lemma>
     <lemma>spojrzeć</lemma>
   </synset>
@@ -83,8 +84,8 @@
     <lemma>anschauen</lemma>
     <lemma>ansehen</lemma>
   </synset>
-  <synset lang="nl" verified="false">
-    <lemma>bekijken</lemma>
+  <synset lang="nl">
+    <lemma>kijken naar</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>להסתכל על</lemma>

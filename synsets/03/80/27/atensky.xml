@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38027"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38027"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="G"
+    >
+      atinsky
+    </lemma>
+    <lemma
+      steen:id="38027"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="G"
+    >
+      atensky
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>Athenian</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>афінскі</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>атинянски</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>aténský</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>атински</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>ateński</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>афинский</lemma>
+  </synset>
+  <synset lang="sk" verified="false">
+    <lemma>aténsky</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>atenski</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>атински</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>афінський</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>atenano</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>athenisch</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>Atheens</lemma>
+  </synset>
+</multilingual-synset>
