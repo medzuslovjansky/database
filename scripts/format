@@ -3,6 +3,10 @@
 set -e
 
 format_file() {
+  if [ -L "$1" ]; then
+    echo "Skipping symlink: $1"
+    return
+  fi
   PATH="node_modules/.bin:$PATH" prettier --write "$1"
 }
 
