@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="8505"
-  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -18,7 +17,6 @@
   </synset>
   <synset lang="en">
     <lemma>encode</lemma>
-    <lemma>encrypt</lemma>
   </synset>
   <synset lang="be">
     <lemma>кадзіраваць</lemma>
@@ -31,7 +29,6 @@
   </synset>
   <synset lang="cs">
     <lemma>kódovat</lemma>
-    <lemma>šifrovat</lemma>
   </synset>
   <synset lang="csb">
     <lemma>kòdovac</lemma>
@@ -52,7 +49,6 @@
   </synset>
   <synset lang="sk">
     <lemma>kódovať</lemma>
-    <lemma>šifrovať</lemma>
   </synset>
   <synset lang="sl" verified="false">
     <lemma>kodiranje</lemma>
