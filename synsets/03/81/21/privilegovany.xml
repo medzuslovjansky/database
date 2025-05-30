@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38121"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38121"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      privilegovany
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>privileged</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>прывілеяваны</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>uprzywilejowany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>привилегированный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>privilegovaný</lemma>
+  </synset>
+  <synset lang="sl">
+    <lemma>privilegiran</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>привілейований</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>privilegiert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>bevoorrecht</lemma>
+    <lemma>geprivilegeerd</lemma>
+  </synset>
+</multilingual-synset>

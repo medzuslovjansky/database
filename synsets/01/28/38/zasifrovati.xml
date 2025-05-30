@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="12838"
-  steen:debated="isv"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -9,40 +8,27 @@
   <synset lang="art-x-interslv">
     <lemma
       steen:id="12838"
-      steen:pos="v.tr. ipf."
+      steen:pos="v.tr. pf."
       steen:type="1"
       steen:genesis="I"
     >
-      šifrovati
+      zašifrovati
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>encode</lemma>
+    <lemma>encrypt</lemma>
   </synset>
   <synset lang="be">
-    <lemma>шыфраваць</lemma>
-    <lemma>кадаваць</lemma>
-  </synset>
-  <synset lang="bg">
-    <lemma>кодирам</lemma>
-    <lemma>криптирам</lemma>
+    <lemma>зашыфраваць</lemma>
   </synset>
   <synset lang="cs">
     <lemma>zašifrovat</lemma>
   </synset>
-  <synset lang="hr">
-    <lemma>šifrirati</lemma>
-    <lemma>kodirati</lemma>
-  </synset>
-  <synset lang="mk">
-    <lemma>кодира</lemma>
-  </synset>
   <synset lang="pl">
-    <lemma>zakodowywać</lemma>
-    <lemma>zaszyfrowywać</lemma>
+    <lemma>zaszyfrować</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>кодировать</lemma>
+    <lemma>зашифровать</lemma>
   </synset>
   <synset lang="sk">
     <lemma>zašifrovať</lemma>
@@ -50,14 +36,11 @@
   <synset lang="sl" verified="false">
     <lemma>Koda</lemma>
   </synset>
-  <synset lang="sr">
-    <lemma>кодирати</lemma>
-  </synset>
   <synset lang="uk">
-    <lemma>кодувати</lemma>
+    <lemma>зашифрувати</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>kodas</lemma>
+  <synset lang="eo">
+    <lemma>ĉifri</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>codificar</lemma>
@@ -74,11 +57,11 @@
   <synset lang="da" verified="false">
     <lemma>encode</lemma>
   </synset>
-  <synset lang="de" verified="false">
-    <lemma>kodieren</lemma>
+  <synset lang="de">
+    <lemma>verschlüsseln</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>coderen</lemma>
+    <lemma>versleutelen</lemma>
   </synset>
   <synset lang="he" verified="false">
     <lemma>לקודד</lemma>
