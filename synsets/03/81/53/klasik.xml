@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38153"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38153"
+      steen:pos="m.anim."
+      steen:type="1"
+      steen:same="v z i"
+      steen:genesis="I"
+    >
+      klasik
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="author of a classic work">classic</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma>класік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>класик</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>klasik</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>klasik</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>klasyk</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>классик</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>klasik</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>класик</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>класик</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>klassieker</lemma>
+  </synset>
+</multilingual-synset>

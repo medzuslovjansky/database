@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38147"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38147" steen:pos="f.sg." steen:genesis="I">
+      kohabitacija
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma annotation="politics">cohabitation</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kohabitace</lemma>
+  </synset>
+  <synset lang="hr">
+    <lemma>kohabitacija</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kohabitacja</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma annotation="политика">сожителство</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>коабітація</lemma>
+  </synset>
+  <synset lang="eo">
+    <lemma>kunregado</lemma>
+  </synset>
+  <synset lang="de">
+    <lemma>Kohabitation</lemma>
+    <lemma>Cohabitation</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>cohabitation</lemma>
+  </synset>
+</multilingual-synset>

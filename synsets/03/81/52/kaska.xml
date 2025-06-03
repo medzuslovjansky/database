@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38152"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma steen:id="38152" steen:pos="f.">kaška</lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>porridge</lemma>
+  </synset>
+  <synset lang="be">
+    <lemma annotation="харч.">кашка</lemma>
+    <lemma>дзятліна</lemma>
+    <lemma>дзяцельніца</lemma>
+    <lemma annotation="біял.">дзяцельнік</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>каша</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kašička</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>каса</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>kaszka</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кашка</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kašička</lemma>
+  </synset>
+  <synset lang="sr">
+    <lemma>кашица</lemma>
+    <lemma>каша</lemma>
+  </synset>
+  <synset lang="uk" verified="false">
+    <lemma>кашка</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>pap</lemma>
+  </synset>
+</multilingual-synset>
