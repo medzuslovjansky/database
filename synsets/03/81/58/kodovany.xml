@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<multilingual-synset
+  id="38158"
+  xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
+>
+  <synset lang="art-x-interslv">
+    <lemma
+      steen:id="38158"
+      steen:pos="adj."
+      steen:same="v z j"
+      steen:genesis="I"
+    >
+      kodovany
+    </lemma>
+  </synset>
+  <synset lang="en">
+    <lemma>encoded</lemma>
+  </synset>
+  <synset lang="be" verified="false">
+    <lemma>кадаваны</lemma>
+  </synset>
+  <synset lang="bg">
+    <lemma>кодиран</lemma>
+  </synset>
+  <synset lang="cs">
+    <lemma>kódovaný</lemma>
+  </synset>
+  <synset lang="hr" verified="false">
+    <lemma>kodirano</lemma>
+  </synset>
+  <synset lang="mk" verified="false">
+    <lemma>кодирани</lemma>
+  </synset>
+  <synset lang="pl">
+    <lemma>zakodowany</lemma>
+  </synset>
+  <synset lang="ru">
+    <lemma>кодированный</lemma>
+  </synset>
+  <synset lang="sk">
+    <lemma>kódovaný</lemma>
+  </synset>
+  <synset lang="sl" verified="false">
+    <lemma>kodirano</lemma>
+  </synset>
+  <synset lang="sr" verified="false">
+    <lemma>кодиран</lemma>
+  </synset>
+  <synset lang="uk">
+    <lemma>кодований</lemma>
+  </synset>
+  <synset lang="eo" verified="false">
+    <lemma>kodita</lemma>
+  </synset>
+  <synset lang="de" verified="false">
+    <lemma>codiert</lemma>
+  </synset>
+  <synset lang="nl">
+    <lemma>gecodeerd</lemma>
+  </synset>
+</multilingual-synset>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
   id="21547"
-  steen:debated="en,isv"
+  steen:debated="en"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
@@ -9,7 +9,7 @@
   <synset lang="art-x-interslv">
     <lemma
       steen:id="21547"
-      steen:addition="(ssęde)"
+      steen:addition="(ssěde)"
       steen:pos="v.refl. pf."
       steen:type="1"
       steen:same="ru pl cz"
