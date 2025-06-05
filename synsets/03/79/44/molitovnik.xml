@@ -1,75 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="36973"
+  id="37944"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="36973" steen:pos="adj.">neodćuđimy</lemma>
+    <lemma steen:id="37944" steen:pos="m.">molitȯvnik</lemma>
   </synset>
   <synset lang="en">
-    <lemma>inalienable</lemma>
+    <lemma>prayer book</lemma>
   </synset>
-  <synset lang="be">
-    <lemma>неадчужальны</lemma>
-    <lemma>неадымны</lemma>
+  <synset lang="be" verified="false">
+    <lemma>малітоўнік</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>неотчуждаем</lemma>
+    <lemma>молитвеник</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>nezcizitelný</lemma>
-    <lemma>nedotknutelný</lemma>
+    <lemma>modlitební kniha</lemma>
   </synset>
-  <synset lang="hr">
-    <lemma>neotuđiv</lemma>
+  <synset lang="hr" verified="false">
+    <lemma>molitvenik</lemma>
   </synset>
-  <synset lang="mk">
-    <lemma>неотуѓив</lemma>
+  <synset lang="mk" verified="false">
+    <lemma>молитвена книга</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>niezbywalny</lemma>
+    <lemma>modlitewnik</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>неотчуждаемый</lemma>
+    <lemma>молитвенник</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>neodňateľný</lemma>
-    <lemma>neodcudziteľný</lemma>
+    <lemma>modlitebná knižka</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>neodtujljiv</lemma>
+    <lemma>molitvenik</lemma>
   </synset>
-  <synset lang="sr">
-    <lemma>неотуђив</lemma>
-    <lemma>неотуђиви</lemma>
+  <synset lang="sr" verified="false">
+    <lemma>молитвеник</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>невідчужуваний</lemma>
+    <lemma>молитовник</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>neforigebla</lemma>
+    <lemma>preĝlibro</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>inalienable</lemma>
+    <lemma>libro de oraciones</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>inaliénable</lemma>
+    <lemma>livre de prières</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>inalienabile</lemma>
+    <lemma>libro di preghiere</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>inalienável</lemma>
+    <lemma>livro de orações</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>unveräußerlich</lemma>
+    <lemma>Gebetbuch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>onvervreemdbaar</lemma>
+    <lemma>gebedenboek</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>שֶׁאֵין לְהַעבִירוֹ</lemma>
+    <lemma>ספר תפילה</lemma>
   </synset>
 </multilingual-synset>

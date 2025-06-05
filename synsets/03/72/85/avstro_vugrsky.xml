@@ -1,86 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="4409"
+  id="37285"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
     <lemma
-      steen:id="4409"
-      steen:addition="(kablja)"
-      steen:pos="m."
+      steen:id="37285"
+      steen:pos="adj."
       steen:type="1"
+      steen:same="v z j"
       steen:genesis="I"
     >
-      kabelj
+      avstro-vųgrsky
     </lemma>
   </synset>
   <synset lang="en">
-    <lemma>cable</lemma>
+    <lemma>Austro-Hungarian</lemma>
   </synset>
   <synset lang="be">
-    <lemma>кабель</lemma>
+    <lemma>аўстро-венгерскі</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>кабел</lemma>
+    <lemma>австро-унгарски</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>kabel</lemma>
+    <lemma>rakousko-uherský</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>kabel</lemma>
-    <lemma>provodnik</lemma>
+    <lemma>austrougarski</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>кабел</lemma>
+    <lemma>австроунгарски</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>kabel</lemma>
+    <lemma>austro-węgierski</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>кабель</lemma>
+    <lemma>австро-венгерский</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>kábel</lemma>
+    <lemma>rakúsko-uhorský</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>kabel</lemma>
+  <synset lang="sl">
+    <lemma>avstro-ogrski</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>проводник</lemma>
-    <lemma>жица</lemma>
-    <lemma>кабл</lemma>
-    <lemma>кабал</lemma>
+    <lemma>аустроугарски</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>кабель</lemma>
+    <lemma>австро-угорський</lemma>
   </synset>
-  <synset lang="eo" verified="false">
-    <lemma>kablo</lemma>
+  <synset lang="eo">
+    <lemma>aŭstra-hungara</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>cable</lemma>
+    <lemma>austro-húngaro</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>câble</lemma>
+    <lemma>Austro-hongrois</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>cavo</lemma>
+    <lemma>Austro-ungarico</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>cabo</lemma>
-  </synset>
-  <synset lang="da" verified="false">
-    <lemma>kabel</lemma>
+    <lemma>Austro-Húngaro</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Kabel</lemma>
+    <lemma>österreich-ungarisch</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>kabel</lemma>
+    <lemma>Oostenrijks-Hongaars</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>כבל</lemma>
+    <lemma>אוסטרו-הונגרית</lemma>
   </synset>
 </multilingual-synset>

@@ -1,75 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="16763"
+  id="11350"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="16763" steen:pos="adj." steen:type="1">dvucifreny</lemma>
+    <lemma steen:id="11350" steen:pos="f." steen:type="1">prěseljenica</lemma>
   </synset>
   <synset lang="en">
-    <lemma>double-digit</lemma>
+    <lemma>migrant</lemma>
   </synset>
   <synset lang="be">
-    <lemma>двухзначны</lemma>
+    <lemma>перасяленка</lemma>
+    <lemma>мігрантка</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>двуцифрен</lemma>
+    <lemma>преселница</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>dvouciferný</lemma>
+    <lemma>přistěhovalkyně</lemma>
+    <lemma>přesťehovatelkyně</lemma>
+    <lemma>migrantka</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>dvocifren</lemma>
-    <lemma>dvoznamenkast</lemma>
+    <lemma>migrantkinja</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>двоцифрен</lemma>
+    <lemma>преселница</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>dwucyfrowy</lemma>
+    <lemma>migrantka</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>двузначный</lemma>
+    <lemma>переселенка</lemma>
+    <lemma>мигрантка</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>dvojciferný</lemma>
+    <lemma>prisťahovalkyňa</lemma>
+    <lemma>presťahovatelkyňa</lemma>
+    <lemma>migrantka</lemma>
   </synset>
   <synset lang="sl" verified="false">
-    <lemma>dvomestne</lemma>
+    <lemma>naseljencev</lemma>
+    <lemma>migranti</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>двоцифрен</lemma>
+    <lemma>пресељеница</lemma>
+    <lemma>мигранткиња</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>двоцифровий</lemma>
+    <lemma>переселенка</lemma>
+    <lemma>мігрантка</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>duobla-cifero</lemma>
+    <lemma>migrantaj</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>doble digito</lemma>
+    <lemma>inmigrante</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>à deux chiffres</lemma>
+    <lemma>migrateur</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>a due cifre</lemma>
+    <lemma>migrante</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>de dois dígitos</lemma>
+    <lemma>migrante</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>tocifret</lemma>
+    <lemma>vandrende</lemma>
   </synset>
   <synset lang="de" verified="false">
-    <lemma>zweistelliges</lemma>
+    <lemma>Wanderarbeiter</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>tweecijferig</lemma>
+    <lemma>migrante</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>דו ספרתי</lemma>
+    <lemma>זר</lemma>
   </synset>
 </multilingual-synset>

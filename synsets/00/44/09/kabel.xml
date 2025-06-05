@@ -1,90 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multilingual-synset
-  id="4716"
+  id="4409"
   xmlns="https://interslavic.fun/schemas/zonal-wordnet.xsd"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="4716" steen:pos="f." steen:type="1">črka</lemma>
+    <lemma
+      steen:id="4409"
+      steen:addition="(kabela, kabla)"
+      steen:pos="m."
+      steen:type="1"
+      steen:genesis="I"
+    >
+      kabel
+    </lemma>
   </synset>
   <synset lang="en">
-    <lemma>line</lemma>
+    <lemma>cable</lemma>
   </synset>
   <synset lang="be">
-    <lemma>рыса</lemma>
-    <lemma>лінія</lemma>
+    <lemma>кабель</lemma>
   </synset>
   <synset lang="bg">
-    <lemma>черта</lemma>
-    <lemma>линия</lemma>
+    <lemma>кабел</lemma>
   </synset>
   <synset lang="cs">
-    <lemma>čára</lemma>
-    <lemma>linka</lemma>
-    <lemma>linie</lemma>
-  </synset>
-  <synset lang="dsb">
-    <lemma>smužka</lemma>
+    <lemma>kabel</lemma>
   </synset>
   <synset lang="hr">
-    <lemma>crta</lemma>
-    <lemma>linija</lemma>
+    <lemma>kabel</lemma>
+    <lemma>provodnik</lemma>
   </synset>
   <synset lang="mk">
-    <lemma>црта</lemma>
-    <lemma>линија</lemma>
+    <lemma>кабел</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>linia</lemma>
+    <lemma>kabel</lemma>
   </synset>
   <synset lang="ru">
-    <lemma>черта</lemma>
-    <lemma>линия</lemma>
+    <lemma>кабель</lemma>
   </synset>
   <synset lang="sk">
-    <lemma>čiara</lemma>
-    <lemma>linka</lemma>
-    <lemma>línia</lemma>
-    <lemma>linajka</lemma>
+    <lemma>kábel</lemma>
   </synset>
   <synset lang="sl">
-    <lemma>črta</lemma>
+    <lemma>kabel</lemma>
   </synset>
   <synset lang="sr">
-    <lemma>црта</lemma>
-    <lemma>линија</lemma>
+    <lemma>проводник</lemma>
+    <lemma>жица</lemma>
+    <lemma>кабл</lemma>
+    <lemma>кабал</lemma>
   </synset>
   <synset lang="uk">
-    <lemma>лінія</lemma>
-    <lemma>риса</lemma>
+    <lemma>кабель</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>linio</lemma>
+    <lemma>kablo</lemma>
   </synset>
   <synset lang="es" verified="false">
-    <lemma>línea</lemma>
+    <lemma>cable</lemma>
   </synset>
   <synset lang="fr" verified="false">
-    <lemma>ligne</lemma>
+    <lemma>câble</lemma>
   </synset>
   <synset lang="it" verified="false">
-    <lemma>linea</lemma>
+    <lemma>cavo</lemma>
   </synset>
   <synset lang="pt" verified="false">
-    <lemma>linha</lemma>
+    <lemma>cabo</lemma>
   </synset>
   <synset lang="da" verified="false">
-    <lemma>linje</lemma>
+    <lemma>kabel</lemma>
   </synset>
   <synset lang="de">
-    <lemma>Linie</lemma>
+    <lemma>Kabel</lemma>
   </synset>
   <synset lang="nl">
-    <lemma>lijn</lemma>
-    <lemma>streep</lemma>
+    <lemma>kabel</lemma>
   </synset>
   <synset lang="he" verified="false">
-    <lemma>קו</lemma>
+    <lemma>כבל</lemma>
   </synset>
 </multilingual-synset>
