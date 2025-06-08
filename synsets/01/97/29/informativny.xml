@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="19729" steen:pos="adj." steen:type="1" steen:genesis="I">
+    <lemma
+      steen:id="19729"
+      steen:pos="adj."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="I"
+    >
       informativny
     </lemma>
   </synset>
@@ -15,6 +21,7 @@
   </synset>
   <synset lang="be">
     <lemma>інфарматыўны</lemma>
+    <lemma>інфармацыйны</lemma>
   </synset>
   <synset lang="bg">
     <lemma>осведомителен</lemma>
@@ -24,14 +31,15 @@
     <lemma>informativní</lemma>
   </synset>
   <synset lang="hr">
+    <lemma>informativan</lemma>
     <lemma>poučan</lemma>
   </synset>
   <synset lang="mk">
     <lemma>информативен</lemma>
   </synset>
   <synset lang="pl">
-    <lemma>pouczający</lemma>
     <lemma>informatywny</lemma>
+    <lemma>pouczający</lemma>
   </synset>
   <synset lang="ru">
     <lemma>информативный</lemma>
@@ -39,10 +47,12 @@
   <synset lang="sk">
     <lemma>informatívny</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>poučno</lemma>
+  <synset lang="sl">
+    <lemma>informativen</lemma>
+    <lemma>poučen</lemma>
   </synset>
   <synset lang="sr">
+    <lemma>информативан</lemma>
     <lemma>поучан</lemma>
   </synset>
   <synset lang="uk">
@@ -67,7 +77,7 @@
   <synset lang="da" verified="false">
     <lemma>informativ</lemma>
   </synset>
-  <synset lang="de" verified="false">
+  <synset lang="de">
     <lemma>informativ</lemma>
   </synset>
   <synset lang="nl">
