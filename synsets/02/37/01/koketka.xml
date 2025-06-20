@@ -6,7 +6,13 @@
   xmlns:steen="https://interslavic.fun/schemas/steenbergen.xsd"
 >
   <synset lang="art-x-interslv">
-    <lemma steen:id="23701" steen:pos="f." steen:type="1" steen:genesis="F">
+    <lemma
+      steen:id="23701"
+      steen:pos="f."
+      steen:type="1"
+      steen:same="v z j"
+      steen:genesis="F"
+    >
       koketka
     </lemma>
   </synset>
@@ -39,10 +45,9 @@
   <synset lang="sk">
     <lemma>koketa</lemma>
   </synset>
-  <synset lang="sl" verified="false">
-    <lemma>Coquette</lemma>
-    <lemma>kaćiperka</lemma>
-    <lemma>Minx</lemma>
+  <synset lang="sl">
+    <lemma>koketa</lemma>
+    <lemma>spogledljivka</lemma>
   </synset>
   <synset lang="sr">
     <lemma>кокета</lemma>
@@ -53,8 +58,7 @@
     <lemma>кокетка</lemma>
   </synset>
   <synset lang="eo" verified="false">
-    <lemma>Coquette</lemma>
-    <lemma>flirt</lemma>
+    <lemma>koketo</lemma>
   </synset>
   <synset lang="es" verified="false">
     <lemma>coqueta</lemma>
@@ -81,6 +85,7 @@
     <lemma>flirt</lemma>
   </synset>
   <synset lang="nl">
+    <lemma>kokette</lemma>
     <lemma>flirterig meisje</lemma>
   </synset>
   <synset lang="he" verified="false">
